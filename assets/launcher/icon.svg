@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" fill="none">
+  <style>
+    .line{stroke:#143462;stroke-width:18;stroke-linecap:round;stroke-linejoin:round;fill:none}
+    .thin{stroke:#143462;stroke-width:11;stroke-linecap:round;stroke-linejoin:round;fill:none}
+    .face{fill:#143462}
+    .accent{stroke:#B5A8FF;stroke-width:18;stroke-linecap:round;fill:none}
+  </style>
+  <rect width="1024" height="1024" rx="180" fill="#FFF6E9"/>
+  <g transform="translate(240 340)">
+    <circle class="line" cx="150" cy="150" r="130"/>
+    <path class="thin" d="M72 62c28-14 61-16 88-4 17 8 35 9 53 5 20-5 39 1 52 13"/>
+    <path class="thin" d="M73 91c22-8 32 3 43 14 14 14 29 9 43 1 13-8 24-5 34 6"/>
+    <path class="thin" d="M47 130c19 8 29 25 38 43 7 15 21 21 38 16"/>
+    <path class="thin" d="M122 178c20-7 37-2 51 15 11 14 29 18 48 12"/>
+    <path class="thin" d="M222 82c-12 18-7 36 15 47 18 9 17 29 5 43"/>
+    <path class="thin" d="M194 225c22 3 42 10 59 23"/>
+    <ellipse class="face" cx="165" cy="160" rx="11" ry="17"/>
+    <ellipse class="face" cx="232" cy="160" rx="11" ry="17"/>
+    <path class="line" d="M182 205c18 18 46 18 64 0"/>
+    <path class="line" d="M286 176c35-8 47-27 52-50"/>
+    <path class="line" d="M337 126c24 4 37 25 24 44"/>
+    <path class="line" d="M360 169c20-2 30 12 23 27"/>
+    <path class="line" d="M335 157c13 15 10 34-6 44"/>
+    <path class="line" d="M320 146c8 22 1 39-20 49"/>
+    <path class="accent" d="M392 93l18-29M419 122l33-14M396 151l32 8"/>
+  </g>
+</svg>

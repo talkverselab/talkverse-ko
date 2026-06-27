@@ -1,0 +1,97 @@
+[
+  {
+    "rank": 1, "morph": "하", "category": "verb-stem", "cum_pct": 6.76,
+    "gloss_en": "the all-purpose 'do' verb stem",
+    "notes_en": "The most common verb root in Korean. 공부하다 (study-do = 'to study'), 운동하다 (exercise-do = 'to exercise'). Attach 하 to many noun concepts to form a verb."
+  },
+  {
+    "rank": 2, "morph": "어", "category": "ending-casual", "cum_pct": 12.23,
+    "gloss_en": "casual ending after a dark vowel (ㅓ/ㅜ/ㅡ/ㅣ)",
+    "notes_en": "Banmal (casual) ending. Pairs with 아 for vowel harmony. Used among close friends and to people younger than you."
+  },
+  {
+    "rank": 3, "morph": "아", "category": "ending-casual", "cum_pct": 16.62,
+    "gloss_en": "casual ending after a bright vowel (ㅏ/ㅗ)",
+    "notes_en": "Banmal counterpart of 어. 가 + 아 → 가, 좋 + 아 → 좋아."
+  },
+  {
+    "rank": 4, "morph": "는", "category": "particle-topic", "cum_pct": 20.81,
+    "gloss_en": "topic marker — 'as for ~' (after a vowel)",
+    "notes_en": "Marks what you're talking about. 저는 = 'as for me'. Pairs with 은 for consonant endings. The hardest single grammar point for English speakers — contrast with 이/가."
+  },
+  {
+    "rank": 5, "morph": "이", "category": "particle-subject", "cum_pct": 24.87,
+    "gloss_en": "subject marker (after a consonant)",
+    "notes_en": "Marks the new-information subject. 비가 와요 = 'rain is falling' (focus: rain). Pairs with 가 for vowel endings."
+  },
+  {
+    "rank": 6, "morph": "을", "category": "particle-object", "cum_pct": 28.84,
+    "gloss_en": "object marker (after a consonant)",
+    "notes_en": "Marks the direct object. 책을 읽어요 = 'I read a book'. Pairs with 를 for vowel endings."
+  },
+  {
+    "rank": 7, "morph": "가", "category": "particle-subject", "cum_pct": 32.59,
+    "gloss_en": "subject marker (after a vowel)",
+    "notes_en": "Same role as 이 but used after vowel endings. 친구가 와요 = 'a friend is coming'."
+  },
+  {
+    "rank": 8, "morph": "았", "category": "ending-past", "cum_pct": 35.79,
+    "gloss_en": "past-tense marker after a bright vowel",
+    "notes_en": "Inserted between verb stem and final ending. 가 + 았 + 어요 → 갔어요 ('went')."
+  },
+  {
+    "rank": 9, "morph": "었", "category": "ending-past", "cum_pct": 38.98,
+    "gloss_en": "past-tense marker after a dark vowel",
+    "notes_en": "Pairs with 았. 먹 + 었 + 어요 → 먹었어요 ('ate')."
+  },
+  {
+    "rank": 10, "morph": "에", "category": "particle-location", "cum_pct": 42.10,
+    "gloss_en": "'to / at / in / on' — location or time",
+    "notes_en": "Static location or destination. 학교에 가요 ('I go to school'). 세 시에 ('at 3 o'clock'). Different from 에서 (action's location)."
+  },
+  {
+    "rank": 11, "morph": "어요", "category": "ending-polite", "cum_pct": 44.97,
+    "gloss_en": "polite-style ending (-haeyo-che)",
+    "notes_en": "Default polite form for strangers, classes, learners. 가요 ('go'), 먹어요 ('eat'). Always your safe choice."
+  },
+  {
+    "rank": 12, "morph": "지", "category": "ending-confirm", "cum_pct": 47.75,
+    "gloss_en": "'right?' / soft confirmation",
+    "notes_en": "Seeks agreement or implies shared understanding. 좋지? ('it's good, right?'). Also used as a connector ('and')."
+  },
+  {
+    "rank": 13, "morph": "은", "category": "particle-topic", "cum_pct": 50.50,
+    "gloss_en": "topic marker — 'as for ~' (after a consonant)",
+    "notes_en": "Consonant-ending counterpart of 는. 책은 ('as for the book')."
+  },
+  {
+    "rank": 14, "morph": "고", "category": "ending-connector", "cum_pct": 53.06,
+    "gloss_en": "'and (then)' connector",
+    "notes_en": "Joins two verbs in sequence. 먹고 가요 ('eat and go'). Also: -고 있어요 = '-ing' (progressive)."
+  },
+  {
+    "rank": 15, "morph": "야", "category": "ending-casual-q", "cum_pct": 55.29,
+    "gloss_en": "casual question / declarative ending",
+    "notes_en": "Banmal sentence-final particle. 뭐야? ('what is it?'). With names → vocative: 'John아!' to call someone."
+  },
+  {
+    "rank": 16, "morph": "의", "category": "particle-possessive", "cum_pct": 57.51,
+    "gloss_en": "'s / of (possessive)",
+    "notes_en": "Marks possession. 친구의 책 ('a friend's book'). Often dropped in casual speech: 친구 책 also works."
+  },
+  {
+    "rank": 17, "morph": "를", "category": "particle-object", "cum_pct": 59.68,
+    "gloss_en": "object marker (after a vowel)",
+    "notes_en": "Vowel-ending counterpart of 을. 김치를 좋아해요 ('I like kimchi')."
+  },
+  {
+    "rank": 18, "morph": "도", "category": "particle-also", "cum_pct": 61.76,
+    "gloss_en": "'also / too'",
+    "notes_en": "Replaces 은/는 or 이/가 to add 'also'. 저도 가요 ('I'm going too')."
+  },
+  {
+    "rank": 19, "morph": "시", "category": "ending-honorific", "cum_pct": 63.28,
+    "gloss_en": "honorific marker (inserted before final ending)",
+    "notes_en": "Shows respect for the subject of the verb. 가시다 ('to go' — honorific). Common in formal speech and toward elders."
+  }
+]

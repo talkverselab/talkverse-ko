@@ -1,0 +1,90 @@
+[
+  {
+    "id": "cafe-ordering-01",
+    "title_en": "Ordering at a Seoul cafe",
+    "setting_en": "A small cafe near Hongdae, mid-morning",
+    "summary_en": "John steps in for an iced Americano. He greets the barista, places his order, picks a size, and pays by card.",
+    "difficulty": 1,
+    "turn_count": 8,
+    "source": "hand-curated-mvp-v1",
+    "source_ref": "K-Universe MVP demo scenario 1",
+    "created_at": "2026-05-17T00:00:00Z"
+  },
+  {
+    "id": "taxi-guesthouse-01",
+    "title_en": "Taxi to the guesthouse",
+    "setting_en": "Outside Seoul Station, evening",
+    "summary_en": "John shows the driver the guesthouse address on his phone. They confirm the route, talk through the fare, and pay by card on arrival.",
+    "difficulty": 1,
+    "turn_count": 7,
+    "source": "hand-curated-mvp-v1",
+    "source_ref": "K-Universe MVP demo scenario 2",
+    "created_at": "2026-05-17T00:00:00Z"
+  },
+  {
+    "id": "convenience-store-01",
+    "title_en": "Late-night convenience store",
+    "setting_en": "A CU convenience store at 11pm",
+    "summary_en": "John grabs ramen, water, and a snack. The clerk asks about a bag and totals the items.",
+    "difficulty": 1,
+    "turn_count": 6,
+    "source": "hand-curated-mvp-v1",
+    "source_ref": "K-Universe MVP demo scenario 3",
+    "created_at": "2026-05-17T00:00:00Z"
+  },
+  {
+    "id": "first-meeting-01",
+    "title_en": "Meeting a Korean friend's friend",
+    "setting_en": "A friend's birthday gathering at a bar in Itaewon",
+    "summary_en": "John is introduced to his Korean friend's friend, Minjun. They exchange a polite first greeting, John explains where he's from and how long he's been in Korea.",
+    "difficulty": 2,
+    "turn_count": 7,
+    "source": "hand-curated-mvp-v1",
+    "source_ref": "K-Universe MVP demo scenario 4 (k-drama first meeting register)",
+    "created_at": "2026-05-17T00:00:00Z"
+  },
+  {
+    "id": "restaurant-recommend-01",
+    "title_en": "Trying a Korean dish with a friend",
+    "setting_en": "A casual Korean restaurant in Mapo, lunchtime",
+    "summary_en": "John's Korean friend recommends bibimbap. They order, the server checks if spicy food is OK, and they ask for water.",
+    "difficulty": 2,
+    "turn_count": 8,
+    "source": "hand-curated-mvp-v1",
+    "source_ref": "K-Universe MVP demo scenario 5 (food + recommendation register)",
+    "created_at": "2026-05-17T00:00:00Z"
+  },
+  {
+    "id": "subway-asking-01",
+    "title_en": "Asking subway directions",
+    "setting_en": "A Seoul subway station, midday",
+    "summary_en": "John stops a stranger to ask how to get to Gangnam Station. They confirm the transfer and how long it'll take.",
+    "difficulty": 1,
+    "turn_count": 6,
+    "source": "hand-curated-mvp-v1",
+    "source_ref": "K-Universe MVP demo scenario 6 (transit / directions)",
+    "created_at": "2026-05-17T00:00:00Z"
+  },
+  {
+    "id": "market-haggling-01",
+    "title_en": "Haggling for apples at the market",
+    "setting_en": "Namdaemun market fruit stall, afternoon",
+    "summary_en": "John tries to bargain with the vendor over a bag of apples. They settle on a two-bag discount.",
+    "difficulty": 2,
+    "turn_count": 7,
+    "source": "hand-curated-mvp-v1",
+    "source_ref": "K-Universe MVP demo scenario 7 (market / haggling register)",
+    "created_at": "2026-05-17T00:00:00Z"
+  },
+  {
+    "id": "pharmacy-cold-01",
+    "title_en": "Pharmacy visit for a cold",
+    "setting_en": "A neighbourhood pharmacy, morning",
+    "summary_en": "John walks in with cold symptoms. The pharmacist asks what's wrong and explains how to take the medicine.",
+    "difficulty": 2,
+    "turn_count": 6,
+    "source": "hand-curated-mvp-v1",
+    "source_ref": "K-Universe MVP demo scenario 8 (health / symptom register)",
+    "created_at": "2026-05-17T00:00:00Z"
+  }
+]
