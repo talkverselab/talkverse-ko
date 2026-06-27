@@ -1,0 +1,152 @@
+[
+  {"scenario_id": "cafe-ordering-01", "turn_order": 1, "start_offset": 0, "end_offset": 5, "kind": "honorific", "target": "안녕하세요", "gloss_en": "'Hello' — polite (-하세요 form). The all-purpose Korean greeting."},
+  {"scenario_id": "cafe-ordering-01", "turn_order": 1, "start_offset": 6, "end_offset": 14, "kind": "ending", "target": "도와드릴까요", "gloss_en": "'shall I help you?' — 도와 (help) + 드릴 (humble give) + ㄹ까요 (shall I/we...?)."},
+
+  {"scenario_id": "cafe-ordering-01", "turn_order": 2, "start_offset": 11, "end_offset": 12, "kind": "particle", "target": "한", "gloss_en": "Native counter prefix meaning 'one'. Pairs with counters like 잔 (cup), 명 (person), 개 (general thing)."},
+  {"scenario_id": "cafe-ordering-01", "turn_order": 2, "start_offset": 14, "end_offset": 17, "kind": "ending", "target": "주세요", "gloss_en": "'please give (me)' — the workhorse polite request form. 주 (give) + 세요 (honorific polite)."},
+
+  {"scenario_id": "cafe-ordering-01", "turn_order": 3, "start_offset": 3, "end_offset": 4, "kind": "particle", "target": "는", "gloss_en": "Topic marker: 'as for the size...'. Frames the size as the topic the speaker will comment on."},
+  {"scenario_id": "cafe-ordering-01", "turn_order": 3, "start_offset": 5, "end_offset": 8, "kind": "vocab", "target": "어떻게", "gloss_en": "'how' — interrogative adverb. Common in service questions."},
+
+  {"scenario_id": "cafe-ordering-01", "turn_order": 4, "start_offset": 1, "end_offset": 2, "kind": "particle", "target": "로", "gloss_en": "'as / with / in (the form of)'. Tags the chosen variant — here, the Tall size."},
+
+  {"scenario_id": "cafe-ordering-01", "turn_order": 5, "start_offset": 3, "end_offset": 4, "kind": "particle", "target": "는", "gloss_en": "Topic marker: 'as for the payment...'."},
+  {"scenario_id": "cafe-ordering-01", "turn_order": 5, "start_offset": 8, "end_offset": 13, "kind": "honorific", "target": "하시겠어요", "gloss_en": "Polite future intent: 하 (do) + 시 (honorific) + 겠 (will/intend) + 어요 (polite)."},
+
+  {"scenario_id": "cafe-ordering-01", "turn_order": 6, "start_offset": 8, "end_offset": 11, "kind": "ending", "target": "할게요", "gloss_en": "'I'll do (it)' — speaker's own committed intent. -ㄹ게요 marks a promise or decision."},
+
+  {"scenario_id": "cafe-ordering-01", "turn_order": 7, "start_offset": 4, "end_offset": 8, "kind": "ending", "target": "드릴게요", "gloss_en": "Humble 'I'll give'. Service speakers use 드리다 (humble give) instead of plain 주다."},
+  {"scenario_id": "cafe-ordering-01", "turn_order": 7, "start_offset": 14, "end_offset": 17, "kind": "vocab", "target": "기다려", "gloss_en": "'wait' (verb 기다리 + 어). Often followed by 주세요 to make a polite request."},
+
+  {"scenario_id": "cafe-ordering-01", "turn_order": 8, "start_offset": 0, "end_offset": 5, "kind": "ending", "target": "감사합니다", "gloss_en": "Formal 'thank you'. -합니다 is the most formal ending — used in service, business, news."},
+
+  {"scenario_id": "taxi-guesthouse-01", "turn_order": 1, "start_offset": 9, "end_offset": 10, "kind": "particle", "target": "로", "gloss_en": "Destination marker: 'to this address'."},
+  {"scenario_id": "taxi-guesthouse-01", "turn_order": 1, "start_offset": 11, "end_offset": 15, "kind": "ending", "target": "가주세요", "gloss_en": "'please go (for me)' — 가 (go) + 주 (give/favor) + 세요 (polite)."},
+
+  {"scenario_id": "taxi-guesthouse-01", "turn_order": 2, "start_offset": 6, "end_offset": 9, "kind": "ending", "target": "근처네요", "gloss_en": "근처 (nearby) + -네요 (mild discovery). 'Ah, it's nearby!' — speaker just realized."},
+
+  {"scenario_id": "taxi-guesthouse-01", "turn_order": 3, "start_offset": 3, "end_offset": 6, "kind": "vocab", "target": "맞아요", "gloss_en": "'that's right'. Confirming response. From 맞다 (to be correct)."},
+  {"scenario_id": "taxi-guesthouse-01", "turn_order": 3, "start_offset": 8, "end_offset": 11, "kind": "vocab", "target": "얼마나", "gloss_en": "'how much / how long' — interrogative adverb for quantity or duration."},
+
+  {"scenario_id": "taxi-guesthouse-01", "turn_order": 4, "start_offset": 4, "end_offset": 6, "kind": "vocab", "target": "정도", "gloss_en": "'about / approximately'. Place after a quantity to soften it."},
+
+  {"scenario_id": "taxi-guesthouse-01", "turn_order": 5, "start_offset": 0, "end_offset": 4, "kind": "vocab", "target": "다 왔어요", "gloss_en": "'we've arrived' — literally 'all came'. Set phrase used by taxi/bus drivers."},
+  {"scenario_id": "taxi-guesthouse-01", "turn_order": 5, "start_offset": 14, "end_offset": 17, "kind": "ending", "target": "입니다", "gloss_en": "Formal copula 'it is'. Service form of -이에요 / -예요."},
+
+  {"scenario_id": "taxi-guesthouse-01", "turn_order": 6, "start_offset": 5, "end_offset": 6, "kind": "ending", "target": "요", "gloss_en": "Polite-marking particle attached to a noun makes it a polite phrase: '카드요' = 'here's the card'."},
+
+  {"scenario_id": "taxi-guesthouse-01", "turn_order": 7, "start_offset": 6, "end_offset": 11, "kind": "ending", "target": "되세요", "gloss_en": "'may you become / have'. Used in set phrases: 좋은 하루 되세요 (have a good day)."},
+
+  {"scenario_id": "convenience-store-01", "turn_order": 1, "start_offset": 10, "end_offset": 15, "kind": "honorific", "target": "필요하세요", "gloss_en": "'do you need?' — 필요하 (need) + 세요 (honorific polite question)."},
+
+  {"scenario_id": "convenience-store-01", "turn_order": 2, "start_offset": 6, "end_offset": 8, "kind": "vocab", "target": "하나", "gloss_en": "'one' — native Korean number. Stands alone or before counters."},
+
+  {"scenario_id": "convenience-store-01", "turn_order": 3, "start_offset": 3, "end_offset": 4, "kind": "particle", "target": "는", "gloss_en": "Topic marker: 'as for the bag...'."},
+  {"scenario_id": "convenience-store-01", "turn_order": 3, "start_offset": 8, "end_offset": 11, "kind": "ending", "target": "원이에요", "gloss_en": "원 (won, currency) + -이에요 (casual copula 'is')."},
+
+  {"scenario_id": "convenience-store-01", "turn_order": 4, "start_offset": 3, "end_offset": 8, "kind": "vocab", "target": "괜찮아요", "gloss_en": "'it's OK / I'm fine / no thanks'. Multi-purpose phrase; tone clarifies meaning."},
+
+  {"scenario_id": "convenience-store-01", "turn_order": 5, "start_offset": 0, "end_offset": 4, "kind": "vocab", "target": "다 해서", "gloss_en": "'all together / in total'. Combines 다 (all) + 해서 (doing-and-so)."},
+  {"scenario_id": "convenience-store-01", "turn_order": 5, "start_offset": 11, "end_offset": 14, "kind": "ending", "target": "원이에요", "gloss_en": "Same pattern as above. Casual 'is X won'."},
+
+  {"scenario_id": "convenience-store-01", "turn_order": 6, "start_offset": 0, "end_offset": 3, "kind": "vocab", "target": "카드로", "gloss_en": "'by card' — 카드 (card) + 로 (means/instrument particle)."},
+  {"scenario_id": "convenience-store-01", "turn_order": 6, "start_offset": 4, "end_offset": 7, "kind": "ending", "target": "할게요", "gloss_en": "'I'll do (it)' — committed personal intent."},
+
+  {"scenario_id": "first-meeting-01", "turn_order": 1, "start_offset": 5, "end_offset": 7, "kind": "vocab", "target": "이쪽", "gloss_en": "'this side / this person here'. Standard frame for introducing someone."},
+  {"scenario_id": "first-meeting-01", "turn_order": 1, "start_offset": 7, "end_offset": 8, "kind": "particle", "target": "은", "gloss_en": "Topic marker: 'as for this person...'."},
+  {"scenario_id": "first-meeting-01", "turn_order": 1, "start_offset": 21, "end_offset": 23, "kind": "particle", "target": "에서", "gloss_en": "'from' — marks origin / source."},
+
+  {"scenario_id": "first-meeting-01", "turn_order": 2, "start_offset": 7, "end_offset": 15, "kind": "honorific", "target": "처음 뵙겠습니다", "gloss_en": "Formal first-meeting phrase. Literally 'I shall meet for the first time'. Use with elders, in-laws, business contacts."},
+
+  {"scenario_id": "first-meeting-01", "turn_order": 3, "start_offset": 1, "end_offset": 8, "kind": "ending", "target": "이라고 합니다", "gloss_en": "'I am called ~'. The standard formal self-introduction template: [name] + (이)라고 합니다."},
+
+  {"scenario_id": "first-meeting-01", "turn_order": 4, "start_offset": 0, "end_offset": 5, "kind": "vocab", "target": "반갑습니다", "gloss_en": "'Pleased to meet you' (formal). 반가워요 is the slightly less formal version."},
+  {"scenario_id": "first-meeting-01", "turn_order": 4, "start_offset": 7, "end_offset": 10, "kind": "vocab", "target": "어디서", "gloss_en": "'from where' — 어디 (where) + 서 (contracted 에서, action site / origin)."},
+  {"scenario_id": "first-meeting-01", "turn_order": 4, "start_offset": 11, "end_offset": 15, "kind": "honorific", "target": "오셨어요", "gloss_en": "Honorific past polite of 오다 ('to come'): 오 + 시 (honorific) + 었 (past) + 어요 (polite)."},
+
+  {"scenario_id": "first-meeting-01", "turn_order": 5, "start_offset": 2, "end_offset": 4, "kind": "particle", "target": "에서", "gloss_en": "'from' — marks origin / source."},
+
+  {"scenario_id": "first-meeting-01", "turn_order": 6, "start_offset": 2, "end_offset": 3, "kind": "particle", "target": "엔", "gloss_en": "Contraction of 에 + 는. Marks the location AND topicalizes it: 'as for in Korea...'."},
+  {"scenario_id": "first-meeting-01", "turn_order": 6, "start_offset": 4, "end_offset": 7, "kind": "vocab", "target": "얼마나", "gloss_en": "'how much / how long'. Asks about quantity or duration."},
+  {"scenario_id": "first-meeting-01", "turn_order": 6, "start_offset": 8, "end_offset": 12, "kind": "honorific", "target": "계셨어요", "gloss_en": "Honorific past polite of 있다 / 계시다 ('to be / stay'). Used because the subject is the listener — respect."},
+
+  {"scenario_id": "first-meeting-01", "turn_order": 7, "start_offset": 4, "end_offset": 7, "kind": "ending", "target": "됐어요", "gloss_en": "'It became / it's been'. From 되다. Used for elapsed time, age, completion."},
+  {"scenario_id": "first-meeting-01", "turn_order": 7, "start_offset": 9, "end_offset": 17, "kind": "honorific", "target": "잘 부탁드립니다", "gloss_en": "Formal goodwill closing. Literally 'I humbly ask for [your] favor well'. Standard phrase when starting a relationship."},
+
+  {"scenario_id": "restaurant-recommend-01", "turn_order": 1, "start_offset": 6, "end_offset": 7, "kind": "particle", "target": "이", "gloss_en": "Subject marker — 'the bibimbap (specifically) is famous'."},
+  {"scenario_id": "restaurant-recommend-01", "turn_order": 1, "start_offset": 16, "end_offset": 22, "kind": "ending", "target": "한번 먹어봐", "gloss_en": "'Try ~ once' frame: 한번 + verb + -아/어 봐. Friendly suggestion."},
+
+  {"scenario_id": "restaurant-recommend-01", "turn_order": 2, "start_offset": 4, "end_offset": 6, "kind": "vocab", "target": "그럼", "gloss_en": "'Then / in that case'. Bridges the friend's suggestion to John's decision."},
+  {"scenario_id": "restaurant-recommend-01", "turn_order": 2, "start_offset": 11, "end_offset": 14, "kind": "ending", "target": "먹을게", "gloss_en": "Casual committed intent: 'I'll eat (it)'. The polite version is 먹을게요."},
+
+  {"scenario_id": "restaurant-recommend-01", "turn_order": 3, "start_offset": 0, "end_offset": 6, "kind": "honorific", "target": "어서 오세요", "gloss_en": "Universal Korean welcome to a guest. Heard in shops, restaurants, hotels."},
+  {"scenario_id": "restaurant-recommend-01", "turn_order": 3, "start_offset": 8, "end_offset": 15, "kind": "honorific", "target": "주문하시겠어요", "gloss_en": "Polite future-intent question: 주문 (order) + 하 (do) + 시 (honorific) + 겠 (will) + 어요 (polite)."},
+
+  {"scenario_id": "restaurant-recommend-01", "turn_order": 4, "start_offset": 4, "end_offset": 7, "kind": "vocab", "target": "두 개", "gloss_en": "'Two (general items)'. 두 is the native counter prefix; 개 is the generic counter."},
+  {"scenario_id": "restaurant-recommend-01", "turn_order": 4, "start_offset": 7, "end_offset": 8, "kind": "particle", "target": "랑", "gloss_en": "Casual 'and / with'. Polite equivalent: 와/과 or 하고."},
+
+  {"scenario_id": "restaurant-recommend-01", "turn_order": 5, "start_offset": 0, "end_offset": 4, "kind": "vocab", "target": "매운 거", "gloss_en": "'Spicy thing/food'. 매운 (spicy, attributive) + 거 (informal 것)."},
+  {"scenario_id": "restaurant-recommend-01", "turn_order": 5, "start_offset": 5, "end_offset": 10, "kind": "honorific", "target": "괜찮으세요", "gloss_en": "Polite honorific 'are you OK with ~?'. The honorific 시 inserts before -어요."},
+
+  {"scenario_id": "restaurant-recommend-01", "turn_order": 6, "start_offset": 0, "end_offset": 2, "kind": "vocab", "target": "조금", "gloss_en": "'A little'. Softens a statement — a beloved Korean conversational tool."},
+  {"scenario_id": "restaurant-recommend-01", "turn_order": 6, "start_offset": 6, "end_offset": 7, "kind": "particle", "target": "건", "gloss_en": "Contraction of 거 + 는 (topic marker on the informal 것)."},
+
+  {"scenario_id": "restaurant-recommend-01", "turn_order": 7, "start_offset": 3, "end_offset": 4, "kind": "particle", "target": "는", "gloss_en": "Topic marker: 'as for drinks...'."},
+  {"scenario_id": "restaurant-recommend-01", "turn_order": 7, "start_offset": 5, "end_offset": 8, "kind": "vocab", "target": "어떻게", "gloss_en": "'How'. Goes with 하다 to ask how someone wants something done."},
+
+  {"scenario_id": "restaurant-recommend-01", "turn_order": 8, "start_offset": 5, "end_offset": 10, "kind": "ending", "target": "이면 돼요", "gloss_en": "'(If it's) ~ then it's fine'. Useful for politely declining upsells: 그것만 있으면 돼요 ('only that is enough')."},
+  {"scenario_id": "restaurant-recommend-01", "turn_order": 8, "start_offset": 12, "end_offset": 17, "kind": "ending", "target": "감사합니다", "gloss_en": "Formal 'thank you' — also used to end a transactional exchange."},
+
+  {"scenario_id": "subway-asking-01", "turn_order": 1, "start_offset": 3, "end_offset": 8, "kind": "vocab", "target": "죄송한데요", "gloss_en": "'Excuse me / sorry but ~'. The standard opener when stopping a stranger."},
+  {"scenario_id": "subway-asking-01", "turn_order": 1, "start_offset": 13, "end_offset": 14, "kind": "particle", "target": "에", "gloss_en": "Destination marker — 'to Gangnam Station'."},
+
+  {"scenario_id": "subway-asking-01", "turn_order": 2, "start_offset": 4, "end_offset": 10, "kind": "ending", "target": "타시면 돼요", "gloss_en": "Honorific 시 + condition 면 + 돼요 ('is fine'). Together: 'you can take ~'. Universal pattern for instructions."},
+
+  {"scenario_id": "subway-asking-01", "turn_order": 3, "start_offset": 0, "end_offset": 3, "kind": "vocab", "target": "여기서", "gloss_en": "'From here'. 여기 (here) + 서 (contracted 에서, action site)."},
+  {"scenario_id": "subway-asking-01", "turn_order": 3, "start_offset": 4, "end_offset": 11, "kind": "ending", "target": "갈아타야 돼요", "gloss_en": "'Have to transfer'. -아/어야 돼요 expresses obligation."},
+
+  {"scenario_id": "subway-asking-01", "turn_order": 4, "start_offset": 7, "end_offset": 9, "kind": "particle", "target": "에서", "gloss_en": "Marks the location where the action (transfer) happens."},
+
+  {"scenario_id": "subway-asking-01", "turn_order": 5, "start_offset": 0, "end_offset": 3, "kind": "vocab", "target": "얼마나", "gloss_en": "'How long / how much'. Asks duration or quantity."},
+
+  {"scenario_id": "subway-asking-01", "turn_order": 6, "start_offset": 0, "end_offset": 1, "kind": "vocab", "target": "한", "gloss_en": "'About (with a number)'. Native Korean approximation word."},
+  {"scenario_id": "subway-asking-01", "turn_order": 6, "start_offset": 5, "end_offset": 6, "kind": "particle", "target": "쯤", "gloss_en": "'Approximately'. Attaches to a number/time. Can co-occur with 한."},
+
+  {"scenario_id": "market-haggling-01", "turn_order": 1, "start_offset": 0, "end_offset": 3, "kind": "honorific", "target": "사장님", "gloss_en": "'Boss / owner' (honorific 님). Standard way to address a shopkeeper or stall vendor."},
+  {"scenario_id": "market-haggling-01", "turn_order": 1, "start_offset": 10, "end_offset": 14, "kind": "vocab", "target": "얼마예요", "gloss_en": "'How much is it?'. The single most useful shopping phrase in Korean."},
+
+  {"scenario_id": "market-haggling-01", "turn_order": 2, "start_offset": 0, "end_offset": 4, "kind": "vocab", "target": "한 봉지", "gloss_en": "'One bag'. Native counter 한 + 봉지 (bag)."},
+  {"scenario_id": "market-haggling-01", "turn_order": 2, "start_offset": 4, "end_offset": 5, "kind": "particle", "target": "에", "gloss_en": "Distributive: 'per / each'. So 한 봉지에 = 'per bag'."},
+
+  {"scenario_id": "market-haggling-01", "turn_order": 3, "start_offset": 0, "end_offset": 1, "kind": "vocab", "target": "좀", "gloss_en": "'A bit / kindly'. Softens the complaint about the price."},
+  {"scenario_id": "market-haggling-01", "turn_order": 3, "start_offset": 7, "end_offset": 13, "kind": "vocab", "target": "깎아 주세요", "gloss_en": "'Please give me a discount' — literally 'shave (price) for me, please'. The classic haggling request."},
+
+  {"scenario_id": "market-haggling-01", "turn_order": 4, "start_offset": 4, "end_offset": 8, "kind": "vocab", "target": "안 돼요", "gloss_en": "'No / can't do that' (literally 'not works'). Standard polite refusal."},
+  {"scenario_id": "market-haggling-01", "turn_order": 4, "start_offset": 15, "end_offset": 18, "kind": "honorific", "target": "사시면", "gloss_en": "Honorific conditional: 'if you (would) buy'. Vendor flatters the buyer with 시."},
+  {"scenario_id": "market-haggling-01", "turn_order": 4, "start_offset": 23, "end_offset": 29, "kind": "honorific", "target": "빼 드릴게요", "gloss_en": "Humble 'I'll subtract for you'. 드리다 = humble version of 주다 (give)."},
+
+  {"scenario_id": "market-haggling-01", "turn_order": 5, "start_offset": 0, "end_offset": 2, "kind": "vocab", "target": "그럼", "gloss_en": "'Then / in that case'. Accepts the counter-offer."},
+
+  {"scenario_id": "market-haggling-01", "turn_order": 6, "start_offset": 12, "end_offset": 19, "kind": "honorific", "target": "맛있게 드세요", "gloss_en": "'Enjoy your meal' (literally 'eat deliciously'). Universal Korean food farewell from vendors, hosts, family."},
+
+  {"scenario_id": "pharmacy-cold-01", "turn_order": 1, "start_offset": 7, "end_offset": 9, "kind": "vocab", "target": "감기", "gloss_en": "'A cold (illness)'. 감기에 걸리다 = 'to catch a cold'."},
+  {"scenario_id": "pharmacy-cold-01", "turn_order": 1, "start_offset": 10, "end_offset": 18, "kind": "ending", "target": "걸린 거 같아요", "gloss_en": "'It seems I've caught (it)'. The -ㄴ/은 거 같아요 frame softens any medical claim."},
+
+  {"scenario_id": "pharmacy-cold-01", "turn_order": 2, "start_offset": 0, "end_offset": 2, "kind": "vocab", "target": "어떤", "gloss_en": "'What kind of'. Use before a noun: 어떤 책 = 'what kind of book'."},
+  {"scenario_id": "pharmacy-cold-01", "turn_order": 2, "start_offset": 3, "end_offset": 5, "kind": "vocab", "target": "증상", "gloss_en": "'Symptoms'. Sino-Korean (證狀) — same kanji concept Japanese speakers will recognize."},
+  {"scenario_id": "pharmacy-cold-01", "turn_order": 2, "start_offset": 7, "end_offset": 11, "kind": "honorific", "target": "있으세요", "gloss_en": "Honorific 'do you have?'. 있다 + 으세요."},
+
+  {"scenario_id": "pharmacy-cold-01", "turn_order": 3, "start_offset": 0, "end_offset": 2, "kind": "vocab", "target": "기침", "gloss_en": "'Cough'. 기침하다 = 'to cough'."},
+  {"scenario_id": "pharmacy-cold-01", "turn_order": 3, "start_offset": 2, "end_offset": 4, "kind": "ending", "target": "하고", "gloss_en": "'And / with' (also used as a connector after verbs and nouns)."},
+  {"scenario_id": "pharmacy-cold-01", "turn_order": 3, "start_offset": 8, "end_offset": 11, "kind": "vocab", "target": "아파요", "gloss_en": "'Hurts / is sore'. 아프다 → 아파요 in polite form. The 으-irregular drops 으 before 아/어."},
+
+  {"scenario_id": "pharmacy-cold-01", "turn_order": 4, "start_offset": 2, "end_offset": 3, "kind": "vocab", "target": "약", "gloss_en": "'Medicine'. Sino-Korean (藥)."},
+  {"scenario_id": "pharmacy-cold-01", "turn_order": 4, "start_offset": 4, "end_offset": 7, "kind": "honorific", "target": "드시면", "gloss_en": "Honorific conditional of 먹다 (eat): 'if you take/eat'."},
+  {"scenario_id": "pharmacy-cold-01", "turn_order": 4, "start_offset": 10, "end_offset": 14, "kind": "honorific", "target": "나아지실", "gloss_en": "'(You) will get better' — 나아지다 (to get better) + 시 (honorific) + ㄹ (future attributive)."},
+
+  {"scenario_id": "pharmacy-cold-01", "turn_order": 5, "start_offset": 2, "end_offset": 3, "kind": "particle", "target": "에", "gloss_en": "Distributive: 'per (day)'."},
+  {"scenario_id": "pharmacy-cold-01", "turn_order": 5, "start_offset": 4, "end_offset": 7, "kind": "vocab", "target": "몇 번", "gloss_en": "'How many times'. 몇 = 'how many' (small numbers); 번 = counter for occurrences."},
+
+  {"scenario_id": "pharmacy-cold-01", "turn_order": 6, "start_offset": 0, "end_offset": 2, "kind": "vocab", "target": "식후", "gloss_en": "'After meals' — 식 (meal, 食) + 후 (after, 後). Sino-Korean compound seen on every pill bottle."},
+  {"scenario_id": "pharmacy-cold-01", "turn_order": 6, "start_offset": 8, "end_offset": 11, "kind": "honorific", "target": "드세요", "gloss_en": "Honorific polite imperative: 'please take / eat (this)'. Softer than 먹으세요."}
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "scenario_id": "cafe-ordering-01", "turn_order": 1, "speaker": "Barista",
+    "ko_text": "안녕하세요. 주문 도와드릴까요?",
+    "romanization": "annyeonghaseyo. jumun dowadeurilkkayo?",
+    "en_gloss": "Hi there. Can I help you with your order?",
+    "learner_note_en": "도와드릴까요 = 'shall I help you?' — humble offering form. Standard service greeting in any Korean shop."
+  },
+  {
+    "scenario_id": "cafe-ordering-01", "turn_order": 2, "speaker": "Visitor",
+    "ko_text": "네, 아이스 아메리카노 한 잔 주세요.",
+    "romanization": "ne, aiseu amerikano han jan juseyo.",
+    "en_gloss": "Yes, one iced Americano please.",
+    "learner_note_en": "한 잔 = 'one cup'. 한 is the native Korean counter prefix; 잔 is the counter for cups/glasses. -주세요 = 'please give me'."
+  },
+  {
+    "scenario_id": "cafe-ordering-01", "turn_order": 3, "speaker": "Barista",
+    "ko_text": "사이즈는 어떻게 해드릴까요?",
+    "romanization": "saijeuneun eotteoke haedeurilkkayo?",
+    "en_gloss": "How would you like the size?",
+    "learner_note_en": "Note 는 marking 사이즈 — 'as for the size'. 어떻게 = 'how'. The barista is asking which size to make for you."
+  },
+  {
+    "scenario_id": "cafe-ordering-01", "turn_order": 4, "speaker": "Visitor",
+    "ko_text": "톨로 주세요.",
+    "romanization": "tollo juseyo.",
+    "en_gloss": "Tall, please.",
+    "learner_note_en": "로 = 'in/with/as' — marks the form you want. Korean cafes use the same Tall/Grande/Venti words as Starbucks worldwide."
+  },
+  {
+    "scenario_id": "cafe-ordering-01", "turn_order": 5, "speaker": "Barista",
+    "ko_text": "결제는 카드로 하시겠어요?",
+    "romanization": "gyeoljeneun kadeuro hasigesseoyo?",
+    "en_gloss": "Will you be paying by card?",
+    "learner_note_en": "하시겠어요 = honorific 시 + future-intent 겠 + polite 어요. Service Korean stacks politeness markers like this constantly."
+  },
+  {
+    "scenario_id": "cafe-ordering-01", "turn_order": 6, "speaker": "Visitor",
+    "ko_text": "네, 카드로 할게요.",
+    "romanization": "ne, kadeuro halgeyo.",
+    "en_gloss": "Yes, I'll pay by card.",
+    "learner_note_en": "할게요 = 'I'll do it' — declaring your own intent. Common pattern when committing to an action."
+  },
+  {
+    "scenario_id": "cafe-ordering-01", "turn_order": 7, "speaker": "Barista",
+    "ko_text": "진동벨 드릴게요. 잠시만 기다려 주세요.",
+    "romanization": "jindongbel deurilgeyo. jamsiman gidaryeo juseyo.",
+    "en_gloss": "I'll give you a buzzer. Please wait just a moment.",
+    "learner_note_en": "진동벨 (vibration bell) = the puck-shaped pager that buzzes when your drink is ready. 잠시만 = 'just a moment'."
+  },
+  {
+    "scenario_id": "cafe-ordering-01", "turn_order": 8, "speaker": "Visitor",
+    "ko_text": "감사합니다.",
+    "romanization": "gamsahamnida.",
+    "en_gloss": "Thank you.",
+    "learner_note_en": "감사합니다 is the formal 'thank you'. Use this with strangers, staff, elders. The casual version is 고마워요 / 고마워."
+  },
+
+  {
+    "scenario_id": "taxi-guesthouse-01", "turn_order": 1, "speaker": "Visitor",
+    "ko_text": "안녕하세요. 이 주소로 가주세요.",
+    "romanization": "annyeonghaseyo. i jusoro gajuseyo.",
+    "en_gloss": "Hello. Please go to this address.",
+    "learner_note_en": "주소로 = 'to the address' — 로 marks destination. 가주세요 = literally 'please go-give-me' (do this favor for me)."
+  },
+  {
+    "scenario_id": "taxi-guesthouse-01", "turn_order": 2, "speaker": "Driver",
+    "ko_text": "아, 홍대 근처네요.",
+    "romanization": "a, hongdae geuncheoneyo.",
+    "en_gloss": "Ah, that's near Hongdae.",
+    "learner_note_en": "-네요 ending = mild discovery, 'oh, I see'. Common when reacting to new information."
+  },
+  {
+    "scenario_id": "taxi-guesthouse-01", "turn_order": 3, "speaker": "Visitor",
+    "ko_text": "네, 맞아요. 얼마나 걸려요?",
+    "romanization": "ne, majayo. eolmana geollyeoyo?",
+    "en_gloss": "Yes, that's right. How long does it take?",
+    "learner_note_en": "맞아요 = 'that's right' — useful confirming phrase. 얼마나 = 'how much / how long'."
+  },
+  {
+    "scenario_id": "taxi-guesthouse-01", "turn_order": 4, "speaker": "Driver",
+    "ko_text": "20분 정도 걸려요.",
+    "romanization": "isipbun jeongdo geollyeoyo.",
+    "en_gloss": "About 20 minutes.",
+    "learner_note_en": "정도 = 'about / approximately'. Korean Sino-Korean numbers used for minutes: 이십분 = 20 minutes."
+  },
+  {
+    "scenario_id": "taxi-guesthouse-01", "turn_order": 5, "speaker": "Driver",
+    "ko_text": "다 왔어요. 만 이천 원입니다.",
+    "romanization": "da wasseoyo. man icheon wonimnida.",
+    "en_gloss": "We're here. That's 12,000 won.",
+    "learner_note_en": "다 왔어요 = 'we've arrived' (literally 'all came'). 만 = 10,000; 이천 = 2,000. 입니다 is the formal copula 'it is'."
+  },
+  {
+    "scenario_id": "taxi-guesthouse-01", "turn_order": 6, "speaker": "Visitor",
+    "ko_text": "여기 카드요. 감사합니다.",
+    "romanization": "yeogi kadeuyo. gamsahamnida.",
+    "en_gloss": "Here's my card. Thank you.",
+    "learner_note_en": "Tagging a noun with -요 turns it into a polite phrase: '카드요' = 'card, please / here's the card'."
+  },
+  {
+    "scenario_id": "taxi-guesthouse-01", "turn_order": 7, "speaker": "Driver",
+    "ko_text": "네, 좋은 여행 되세요.",
+    "romanization": "ne, joeun yeohaeng doeseyo.",
+    "en_gloss": "OK. Have a great trip.",
+    "learner_note_en": "되세요 = 'become / be (honorific)'. Set phrase: 좋은 ~ 되세요 = 'have a good ~'."
+  },
+
+  {
+    "scenario_id": "convenience-store-01", "turn_order": 1, "speaker": "Clerk",
+    "ko_text": "안녕하세요. 봉투 필요하세요?",
+    "romanization": "annyeonghaseyo. bongtu piryohaseyo?",
+    "en_gloss": "Hi. Do you need a bag?",
+    "learner_note_en": "필요하세요 = 'do you need ~?' — honorific 시 inserted. Standard checkout question in Korea."
+  },
+  {
+    "scenario_id": "convenience-store-01", "turn_order": 2, "speaker": "Visitor",
+    "ko_text": "네, 봉투 하나 주세요.",
+    "romanization": "ne, bongtu hana juseyo.",
+    "en_gloss": "Yes, one bag please.",
+    "learner_note_en": "하나 = 'one' (native Korean number used with counters or for standalone counting)."
+  },
+  {
+    "scenario_id": "convenience-store-01", "turn_order": 3, "speaker": "Clerk",
+    "ko_text": "봉투는 백 원이에요.",
+    "romanization": "bongtuneun baek wonieyo.",
+    "en_gloss": "The bag is 100 won.",
+    "learner_note_en": "백 = 100. -이에요 is the casual copula 'is'. Korean bag fees are usually 50–200 won."
+  },
+  {
+    "scenario_id": "convenience-store-01", "turn_order": 4, "speaker": "Visitor",
+    "ko_text": "네, 괜찮아요.",
+    "romanization": "ne, gwaenchanayo.",
+    "en_gloss": "Yes, that's fine.",
+    "learner_note_en": "괜찮아요 is a Swiss-army phrase: 'it's OK / I'm fine / no problem / no thank you'. Tone and context decide which."
+  },
+  {
+    "scenario_id": "convenience-store-01", "turn_order": 5, "speaker": "Clerk",
+    "ko_text": "다 해서 만 삼천 원이에요.",
+    "romanization": "da haeseo man samcheon wonieyo.",
+    "en_gloss": "That's 13,000 won total.",
+    "learner_note_en": "다 해서 = 'all together'. 만 삼천 = 10,000 + 3,000 = 13,000."
+  },
+  {
+    "scenario_id": "convenience-store-01", "turn_order": 6, "speaker": "Visitor",
+    "ko_text": "카드로 할게요.",
+    "romanization": "kadeuro halgeyo.",
+    "en_gloss": "I'll pay by card.",
+    "learner_note_en": "Same pattern as cafe scene — 로 marks 'by / with', 할게요 = 'I'll do it'."
+  },
+
+  {
+    "scenario_id": "first-meeting-01", "turn_order": 1, "speaker": "Friend",
+    "ko_text": "민준아, 이쪽은 내 친구 존이야. 미국에서 왔어.",
+    "romanization": "Minjun-a, ijjogeun nae chingu Jon-iya. Migukeseo wasseo.",
+    "en_gloss": "Minjun, this is my friend John. He's from the US.",
+    "learner_note_en": "이쪽 = 'this side / this person' — the standard introduction frame. -아 after a name is a casual vocative used among friends."
+  },
+  {
+    "scenario_id": "first-meeting-01", "turn_order": 2, "speaker": "Visitor",
+    "ko_text": "안녕하세요. 처음 뵙겠습니다.",
+    "romanization": "annyeonghaseyo. cheoeum boepgesseumnida.",
+    "en_gloss": "Hello. It's nice to meet you.",
+    "learner_note_en": "처음 뵙겠습니다 is the formal first-meeting phrase. -겠습니다 sounds polished and respectful — common when meeting someone's family or a senior."
+  },
+  {
+    "scenario_id": "first-meeting-01", "turn_order": 3, "speaker": "Visitor",
+    "ko_text": "존이라고 합니다.",
+    "romanization": "Jon-irago hamnida.",
+    "en_gloss": "My name is John.",
+    "learner_note_en": "-(이)라고 합니다 = 'I am called ~'. The polite formal self-introduction frame."
+  },
+  {
+    "scenario_id": "first-meeting-01", "turn_order": 4, "speaker": "Minjun",
+    "ko_text": "반갑습니다. 어디서 오셨어요?",
+    "romanization": "bangapseumnida. eodiseo osyeosseoyo?",
+    "en_gloss": "Pleased to meet you. Where are you from?",
+    "learner_note_en": "반갑습니다 is more formal than 반가워요. 어디서 = 'from where'. 오셨어요 = honorific past polite of 오다 (to come)."
+  },
+  {
+    "scenario_id": "first-meeting-01", "turn_order": 5, "speaker": "Visitor",
+    "ko_text": "미국에서 왔어요. 시카고에서요.",
+    "romanization": "Migukeseo wasseoyo. Sikagoeseo-yo.",
+    "en_gloss": "I'm from the US. From Chicago.",
+    "learner_note_en": "에서 marks origin/source. Tagging a noun with -요 turns a one-word answer into a polite phrase."
+  },
+  {
+    "scenario_id": "first-meeting-01", "turn_order": 6, "speaker": "Minjun",
+    "ko_text": "한국엔 얼마나 계셨어요?",
+    "romanization": "Hangugen eolmana gyesyeosseoyo?",
+    "en_gloss": "How long have you been in Korea?",
+    "learner_note_en": "엔 = 에 + 는 (location topic, contracted). 계시다 is the honorific form of 있다 ('to be / stay')."
+  },
+  {
+    "scenario_id": "first-meeting-01", "turn_order": 7, "speaker": "Visitor",
+    "ko_text": "두 달 됐어요. 잘 부탁드립니다.",
+    "romanization": "du dal dwaesseoyo. jal butakdeurimnida.",
+    "en_gloss": "Two months. Please be good to me.",
+    "learner_note_en": "잘 부탁드립니다 (literally 'I humbly ask for your favor') is a set closing phrase when starting a relationship — work, study, friendship."
+  },
+
+  {
+    "scenario_id": "restaurant-recommend-01", "turn_order": 1, "speaker": "Friend",
+    "ko_text": "여기 비빔밥이 진짜 유명해. 한번 먹어봐.",
+    "romanization": "yeogi bibimbap-i jinjja yumyeonghae. hanbeon meogeobwa.",
+    "en_gloss": "The bibimbap here is really famous. Try it once.",
+    "learner_note_en": "한번 -아/어 봐 = 'try ~ once'. Casual register because they're friends — note no -요."
+  },
+  {
+    "scenario_id": "restaurant-recommend-01", "turn_order": 2, "speaker": "Visitor",
+    "ko_text": "좋아. 그럼 비빔밥 먹을게.",
+    "romanization": "joa. geureom bibimbap meogeulge.",
+    "en_gloss": "OK. Then I'll have bibimbap.",
+    "learner_note_en": "그럼 = 'then / in that case'. -ㄹ게 is the casual version of -ㄹ게요 (committed intent)."
+  },
+  {
+    "scenario_id": "restaurant-recommend-01", "turn_order": 3, "speaker": "Server",
+    "ko_text": "어서 오세요. 주문하시겠어요?",
+    "romanization": "eoseo oseyo. jumun hasigesseoyo?",
+    "en_gloss": "Welcome. Would you like to order?",
+    "learner_note_en": "어서 오세요 is the universal Korean welcome to a guest. Servers, shopkeepers, hosts all use it."
+  },
+  {
+    "scenario_id": "restaurant-recommend-01", "turn_order": 4, "speaker": "Friend",
+    "ko_text": "비빔밥 두 개랑 김치찌개 하나 주세요.",
+    "romanization": "bibimbap du gae-rang kimchijjigae hana juseyo.",
+    "en_gloss": "Two bibimbap and one kimchi stew, please.",
+    "learner_note_en": "Counters: 두 개 = 'two (general items)', 하나 = 'one' (used standalone). -랑 = casual 'and / with'."
+  },
+  {
+    "scenario_id": "restaurant-recommend-01", "turn_order": 5, "speaker": "Server",
+    "ko_text": "매운 거 괜찮으세요?",
+    "romanization": "maeun geo gwaenchaneuseyo?",
+    "en_gloss": "Is spicy food OK?",
+    "learner_note_en": "매운 거 = 'spicy thing'. Korean restaurants commonly check spice tolerance with foreigners."
+  },
+  {
+    "scenario_id": "restaurant-recommend-01", "turn_order": 6, "speaker": "Visitor",
+    "ko_text": "조금 매운 건 괜찮아요.",
+    "romanization": "jogeum maeun geon gwaenchanayo.",
+    "en_gloss": "A little spicy is fine.",
+    "learner_note_en": "건 = 거 + 는 (contracted). The whole noun phrase '매운 것' is the topic of comment."
+  },
+  {
+    "scenario_id": "restaurant-recommend-01", "turn_order": 7, "speaker": "Server",
+    "ko_text": "음료수는 어떻게 하시겠어요?",
+    "romanization": "eumnyosu-neun eotteoke hasigesseoyo?",
+    "en_gloss": "What would you like to drink?",
+    "learner_note_en": "Same 'how shall I do?' frame as the cafe scenario — 어떻게 하시겠어요 covers many service questions."
+  },
+  {
+    "scenario_id": "restaurant-recommend-01", "turn_order": 8, "speaker": "Friend",
+    "ko_text": "물 두 잔이면 돼요. 감사합니다.",
+    "romanization": "mul du jan-imyeon dwaeyo. gamsahamnida.",
+    "en_gloss": "Two glasses of water is fine. Thank you.",
+    "learner_note_en": "-이면 돼요 = '~ is enough / that's all I need'. Useful for politely declining upsells."
+  },
+
+  {
+    "scenario_id": "subway-asking-01", "turn_order": 1, "speaker": "Visitor",
+    "ko_text": "저, 죄송한데요. 강남역에 어떻게 가요?",
+    "romanization": "jeo, joesonghandeyo. gangnamyeoge eotteoke gayo?",
+    "en_gloss": "Excuse me. How do I get to Gangnam Station?",
+    "learner_note_en": "저, 죄송한데요 is the standard polite opener for stopping a stranger. 어떻게 가요 = 'how do you go'."
+  },
+  {
+    "scenario_id": "subway-asking-01", "turn_order": 2, "speaker": "Local",
+    "ko_text": "2호선 타시면 돼요.",
+    "romanization": "i-hoseon tasimyeon dwaeyo.",
+    "en_gloss": "Take Line 2.",
+    "learner_note_en": "2호선 = 'Line 2'. -시면 돼요 = '~ then it's fine' — extremely common in directions and instructions."
+  },
+  {
+    "scenario_id": "subway-asking-01", "turn_order": 3, "speaker": "Visitor",
+    "ko_text": "여기서 갈아타야 돼요?",
+    "romanization": "yeogiseo garataya dwaeyo?",
+    "en_gloss": "Do I have to transfer here?",
+    "learner_note_en": "갈아타다 = 'to transfer (between trains/buses)'. -아야 돼요 = 'have to ~' (obligation)."
+  },
+  {
+    "scenario_id": "subway-asking-01", "turn_order": 4, "speaker": "Local",
+    "ko_text": "네, 다음 역에서 갈아타세요.",
+    "romanization": "ne, daeum yeogeseo garataseyo.",
+    "en_gloss": "Yes, transfer at the next station.",
+    "learner_note_en": "다음 역 = 'next station'. -세요 attached to a verb is a polite directive — softer than a command."
+  },
+  {
+    "scenario_id": "subway-asking-01", "turn_order": 5, "speaker": "Visitor",
+    "ko_text": "얼마나 걸려요?",
+    "romanization": "eolmana geollyeoyo?",
+    "en_gloss": "How long does it take?",
+    "learner_note_en": "Same phrase you saw in the taxi scenario — works for any duration question."
+  },
+  {
+    "scenario_id": "subway-asking-01", "turn_order": 6, "speaker": "Local",
+    "ko_text": "한 20분쯤 걸려요.",
+    "romanization": "han isipbun-jjeum geollyeoyo.",
+    "en_gloss": "About 20 minutes.",
+    "learner_note_en": "한 (before a number) = 'about'. 쯤 attached to a number/time = 'approximately'. Use either or both."
+  },
+
+  {
+    "scenario_id": "market-haggling-01", "turn_order": 1, "speaker": "Visitor",
+    "ko_text": "사장님, 이 사과 얼마예요?",
+    "romanization": "sajangnim, i sagwa eolmayeyo?",
+    "en_gloss": "Excuse me, how much are these apples?",
+    "learner_note_en": "사장님 = 'boss / owner' (honorific 님). The standard way to address shopkeepers and stall vendors."
+  },
+  {
+    "scenario_id": "market-haggling-01", "turn_order": 2, "speaker": "Vendor",
+    "ko_text": "한 봉지에 오천 원이에요.",
+    "romanization": "han bongjie ocheon won-ieyo.",
+    "en_gloss": "Five thousand won per bag.",
+    "learner_note_en": "한 봉지 = 'one bag'. -에 (distributive) gives the 'per/each' meaning: 한 봉지에 = 'per bag'."
+  },
+  {
+    "scenario_id": "market-haggling-01", "turn_order": 3, "speaker": "Visitor",
+    "ko_text": "좀 비싼데, 깎아 주세요.",
+    "romanization": "jom bissande, kkakka juseyo.",
+    "en_gloss": "That's a bit pricey — can you give me a discount?",
+    "learner_note_en": "깎다 literally means 'to shave / cut'. 깎아 주세요 = 'please cut (the price) for me' — the standard haggling request."
+  },
+  {
+    "scenario_id": "market-haggling-01", "turn_order": 4, "speaker": "Vendor",
+    "ko_text": "에이, 안 돼요. 두 봉지 사시면 천 원 빼 드릴게요.",
+    "romanization": "ei, an dwaeyo. du bongji sasimyeon cheon won ppae deurilgeyo.",
+    "en_gloss": "Aw no, can't do that. Buy two bags and I'll knock off 1,000 won.",
+    "learner_note_en": "에이 is a soft refusal interjection. 사시면 = honorific conditional ('if you buy'). 빼 드릴게요 = humble 'I'll subtract for you'."
+  },
+  {
+    "scenario_id": "market-haggling-01", "turn_order": 5, "speaker": "Visitor",
+    "ko_text": "그럼 두 봉지 주세요.",
+    "romanization": "geureom du bongji juseyo.",
+    "en_gloss": "Two bags then, please.",
+    "learner_note_en": "그럼 = 'then / in that case'. Accepts the vendor's compromise."
+  },
+  {
+    "scenario_id": "market-haggling-01", "turn_order": 6, "speaker": "Vendor",
+    "ko_text": "네, 구천 원입니다. 맛있게 드세요.",
+    "romanization": "ne, gucheon won-imnida. masitge deuseyo.",
+    "en_gloss": "OK, that's 9,000 won. Enjoy.",
+    "learner_note_en": "맛있게 드세요 (literally 'eat deliciously') is the universal Korean food farewell — vendors, hosts, parents all use it."
+  },
+  {
+    "scenario_id": "market-haggling-01", "turn_order": 7, "speaker": "Visitor",
+    "ko_text": "감사합니다.",
+    "romanization": "gamsahamnida.",
+    "en_gloss": "Thank you.",
+    "learner_note_en": "Formal thank-you, used to close any transaction."
+  },
+
+  {
+    "scenario_id": "pharmacy-cold-01", "turn_order": 1, "speaker": "Visitor",
+    "ko_text": "안녕하세요. 감기 걸린 거 같아요.",
+    "romanization": "annyeonghaseyo. gamgi geollin geo gatayo.",
+    "en_gloss": "Hi. I think I've caught a cold.",
+    "learner_note_en": "감기에 걸리다 = 'to catch a cold'. -ㄴ/은 거 같아요 = 'it seems like ~' — useful for hedging."
+  },
+  {
+    "scenario_id": "pharmacy-cold-01", "turn_order": 2, "speaker": "Pharmacist",
+    "ko_text": "어떤 증상이 있으세요?",
+    "romanization": "eotteon jeungsang-i isseuseyo?",
+    "en_gloss": "What symptoms do you have?",
+    "learner_note_en": "어떤 = 'what kind of'. 증상 = 'symptoms'. 있으세요 = honorific 'do you have'."
+  },
+  {
+    "scenario_id": "pharmacy-cold-01", "turn_order": 3, "speaker": "Visitor",
+    "ko_text": "기침하고 목이 아파요.",
+    "romanization": "gichimhago mogi apayo.",
+    "en_gloss": "I'm coughing and my throat hurts.",
+    "learner_note_en": "기침 = 'cough'. -하고 connects clauses: 'cough + and'. 목이 아파요 = 'throat hurts'."
+  },
+  {
+    "scenario_id": "pharmacy-cold-01", "turn_order": 4, "speaker": "Pharmacist",
+    "ko_text": "이 약 드시면 좀 나아지실 거예요.",
+    "romanization": "i yak deusimyeon jom naajisil geoyeyo.",
+    "en_gloss": "Take this medicine and you should feel better.",
+    "learner_note_en": "드시다 = honorific of 먹다. 나아지다 = 'to get better'. -ㄹ 거예요 = future ('will ~')."
+  },
+  {
+    "scenario_id": "pharmacy-cold-01", "turn_order": 5, "speaker": "Visitor",
+    "ko_text": "하루에 몇 번 먹어요?",
+    "romanization": "harue myeot beon meogeoyo?",
+    "en_gloss": "How many times a day?",
+    "learner_note_en": "하루에 = 'per day' (distributive 에). 몇 번 = 'how many times'."
+  },
+  {
+    "scenario_id": "pharmacy-cold-01", "turn_order": 6, "speaker": "Pharmacist",
+    "ko_text": "식후에 세 번 드세요.",
+    "romanization": "sikhue se beon deuseyo.",
+    "en_gloss": "Three times after meals.",
+    "learner_note_en": "식후 = 'after meals' (식 'meal' + 후 'after' — Sino-Korean). 세 번 = 'three times'. 드세요 = polite honorific 'take/eat'."
+  }
+]
