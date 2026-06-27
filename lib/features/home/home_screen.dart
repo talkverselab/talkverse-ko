@@ -388,32 +388,35 @@ class _MenuCard extends StatelessWidget {
             ),
             padding: const EdgeInsets.symmetric(
                 horizontal: 10, vertical: KSpace.md),
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
-                Container(
-                  width: 48,
-                  height: 48,
-                  decoration: BoxDecoration(
-                    color: item.tile,
-                    borderRadius: BorderRadius.circular(14),
+            child: FittedBox(
+              fit: BoxFit.scaleDown,
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Container(
+                    width: 48,
+                    height: 48,
+                    decoration: BoxDecoration(
+                      color: item.tile,
+                      borderRadius: BorderRadius.circular(14),
+                    ),
+                    alignment: Alignment.center,
+                    child: Text(item.emoji,
+                        style: const TextStyle(fontSize: 24)),
                   ),
-                  alignment: Alignment.center,
-                  child: Text(item.emoji,
-                      style: const TextStyle(fontSize: 24)),
-                ),
-                const SizedBox(height: KSpace.sm),
-                Text(
-                  item.labelEn,
-                  style: theme.textTheme.titleMedium?.copyWith(
-                      fontSize: 13, fontWeight: FontWeight.w800),
-                ),
-                Text(
-                  item.labelKo,
-                  style: theme.textTheme.bodyMedium?.copyWith(
-                      color: KColors.inkSoft, fontSize: 11),
-                ),
-              ],
+                  const SizedBox(height: KSpace.sm),
+                  Text(
+                    item.labelEn,
+                    style: theme.textTheme.titleMedium?.copyWith(
+                        fontSize: 13, fontWeight: FontWeight.w800),
+                  ),
+                  Text(
+                    item.labelKo,
+                    style: theme.textTheme.bodyMedium?.copyWith(
+                        color: KColors.inkSoft, fontSize: 11),
+                  ),
+                ],
+              ),
             ),
           ),
         ),
