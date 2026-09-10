@@ -1,7 +1,7 @@
 """
-Scan OpenSubtitles 2024 Korean corpus for candidate scenario lines.
+Scan 공개 말뭉치 2024 Korean corpus for candidate scenario lines.
 
-Reads `opensubtitles_v2024.txt.gz` line by line, looks for utterances that
+Reads `corpus_v2024.txt.gz` line by line, looks for utterances that
 plausibly belong to one of our scenario domains (cafe, taxi, convenience
 store, guesthouse, k-drama first meeting), and writes the matches to JSON
 for manual curation.
@@ -28,7 +28,7 @@ import re
 import sys
 from collections import defaultdict
 
-INPUT = r"D:\OneDrive\DATA_Raw\languages\ko\chat\opensubtitles_v2024.txt.gz"
+INPUT = r"D:\OneDrive\DATA_Raw\languages\ko\chat\corpus_v2024.txt.gz"
 OUTPUT = os.path.join(
     os.path.dirname(os.path.abspath(__file__)), "opus_samples.json"
 )

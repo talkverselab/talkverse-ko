@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+
+import '../../screens/update_screen.dart';
 import 'package:k_universe/ui/colors.dart';
 import 'package:k_universe/ui/mascot.dart';
 import 'package:k_universe/ui/spacing.dart';
@@ -16,6 +18,7 @@ class ProfileScreen extends StatelessWidget {
           padding: const EdgeInsets.fromLTRB(
               KSpace.lg, KSpace.md, KSpace.lg, KSpace.xxxl),
           children: [
+            const UpdateEntryTile(),
             _ProfileHeader(),
             const SizedBox(height: KSpace.xl),
             _SectionLabel(label: 'Learning'),
