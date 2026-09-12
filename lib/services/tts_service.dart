@@ -1,5 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter_tts/flutter_tts.dart';
+import '../core/platform.dart';
 
 /// Wraps `flutter_tts` for Korean speech.
 ///
@@ -16,6 +17,18 @@ class TtsService {
 
   Future<void> _ensureInit() async {
     if (_initialized) return;
+    if (isIOS) {
+      // 무음 스위치가 켜져 있어도 재생되게, 다른 앱 소리는 잠시 줄이게
+      await _tts.setSharedInstance(true);
+      await _tts.setIosAudioCategory(
+        IosTextToSpeechAudioCategory.playback,
+        [
+          IosTextToSpeechAudioCategoryOptions.duckOthers,
+          IosTextToSpeechAudioCategoryOptions.defaultToSpeaker,
+        ],
+        IosTextToSpeechAudioMode.spokenAudio,
+      );
+    }
     try {
       await _tts.setLanguage('ko-KR');
       await _tts.setSpeechRate(0.45);

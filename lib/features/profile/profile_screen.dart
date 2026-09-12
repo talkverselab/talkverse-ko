@@ -4,6 +4,8 @@ import '../../screens/update_screen.dart';
 import 'package:k_universe/ui/colors.dart';
 import 'package:k_universe/ui/mascot.dart';
 import 'package:k_universe/ui/spacing.dart';
+import '../../core/l10n.dart';
+import '../../core/platform.dart';
 
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({super.key});
@@ -18,7 +20,27 @@ class ProfileScreen extends StatelessWidget {
           padding: const EdgeInsets.fromLTRB(
               KSpace.lg, KSpace.md, KSpace.lg, KSpace.xxxl),
           children: [
-            const UpdateEntryTile(),
+            if (isIOS)
+              const _SettingRow(
+                emoji: '✈️',
+                tile: KColors.tileMint,
+                title: 'App update',
+                subtitle: 'On iPhone, new builds arrive through TestFlight',
+                trailing: null,
+              )
+            else
+              const UpdateEntryTile(),
+            InkWell(
+              onTap: AppLangPrefs.next,
+              child: _SettingRow(
+                emoji: '🌐',
+                tile: KColors.tileLavender,
+                title: tr('Language / 언어'),
+                subtitle: 'Tap to switch: ${AppLangPrefs.peekNext().label}',
+                trailing: Text(AppLangPrefs.lang.value.label,
+                    style: const TextStyle(fontWeight: FontWeight.w700)),
+              ),
+            ),
             _ProfileHeader(),
             const SizedBox(height: KSpace.xl),
             _SectionLabel(label: 'Learning'),

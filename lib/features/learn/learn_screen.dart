@@ -4,6 +4,7 @@ import 'package:k_universe/features/particles/particles_screen.dart';
 import 'package:k_universe/features/vocabulary/vocabulary_screen.dart';
 import 'package:k_universe/ui/colors.dart';
 import 'package:k_universe/ui/spacing.dart';
+import '../../core/l10n.dart';
 
 class LearnScreen extends StatelessWidget {
   const LearnScreen({super.key});
@@ -28,7 +29,7 @@ class LearnScreen extends StatelessWidget {
               emoji: '💬',
               tile: KColors.tileBlush,
               titleEn: 'Conversation',
-              titleKo: '회화',
+              titleKo: tr('회화'),
               description:
                   'Play through eight Korean scenes line by line.',
               destination: (_) => const ScenarioListScreen(),
@@ -38,7 +39,7 @@ class LearnScreen extends StatelessWidget {
               emoji: '🔤',
               tile: KColors.tileLavender,
               titleEn: 'Grammar',
-              titleKo: '문법',
+              titleKo: tr('문법'),
               description:
                   'The 19 particles and endings that build 63 % of Korean speech.',
               destination: (_) => const ParticlesScreen(),
@@ -48,7 +49,7 @@ class LearnScreen extends StatelessWidget {
               emoji: '📚',
               tile: KColors.tileCream,
               titleEn: 'Vocabulary',
-              titleKo: '어휘',
+              titleKo: tr('어휘'),
               description:
                   'The top 100 most-used Korean words, ranked by frequency.',
               destination: (_) => const VocabularyScreen(),
@@ -58,7 +59,7 @@ class LearnScreen extends StatelessWidget {
               emoji: '🎧',
               tile: KColors.tileMint,
               titleEn: 'Pronunciation',
-              titleKo: '발음',
+              titleKo: tr('발음'),
               description: 'Speak along — coming soon.',
               destination: null,
             ),
@@ -67,7 +68,7 @@ class LearnScreen extends StatelessWidget {
               emoji: '🎬',
               tile: KColors.tileSage,
               titleEn: 'Culture',
-              titleKo: '문화',
+              titleKo: tr('문화'),
               description: 'K-drama scenes annotated — coming soon.',
               destination: null,
             ),
