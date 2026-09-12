@@ -8,6 +8,7 @@ import 'package:k_universe/features/vocabulary/vocabulary_screen.dart';
 import 'package:k_universe/ui/colors.dart';
 import 'package:k_universe/ui/mascot.dart';
 import 'package:k_universe/ui/spacing.dart';
+import '../../core/l10n.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -286,42 +287,42 @@ class _MainMenuGrid extends StatelessWidget {
       _MenuItem(
         emoji: '💬',
         labelEn: 'Conversation',
-        labelKo: '회화',
+        labelKo: tr('회화'),
         tile: KColors.tileBlush,
         builder: (_) => const ScenarioListScreen(),
       ),
       _MenuItem(
         emoji: '🔤',
         labelEn: 'Grammar',
-        labelKo: '문법',
+        labelKo: tr('문법'),
         tile: KColors.tileLavender,
         builder: (_) => const ParticlesScreen(),
       ),
       _MenuItem(
         emoji: '📚',
         labelEn: 'Vocabulary',
-        labelKo: '어휘',
+        labelKo: tr('어휘'),
         tile: KColors.tileCream,
         builder: (_) => const VocabularyScreen(),
       ),
       _MenuItem(
         emoji: '🎧',
         labelEn: 'Pronunciation',
-        labelKo: '발음',
+        labelKo: tr('발음'),
         tile: KColors.tileMint,
         builder: null,
       ),
       _MenuItem(
         emoji: '🎬',
         labelEn: 'Culture',
-        labelKo: '문화',
+        labelKo: tr('문화'),
         tile: KColors.tileSage,
         builder: null,
       ),
       _MenuItem(
         emoji: '🔁',
         labelEn: 'Review',
-        labelKo: '복습',
+        labelKo: tr('복습'),
         tile: KColors.tileLilac,
         builder: null,
       ),
