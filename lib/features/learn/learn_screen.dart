@@ -103,6 +103,8 @@ class _BigLearnTile extends StatelessWidget {
       opacity: disabled ? 0.55 : 1,
       child: Material(
         color: theme.colorScheme.surface,
+        elevation: 1,
+        shadowColor: const Color(0x4032325D),
         borderRadius: BorderRadius.circular(24),
         child: InkWell(
           borderRadius: BorderRadius.circular(24),

@@ -7,6 +7,7 @@ import 'package:k_universe/features/particles/particles_screen.dart';
 import 'package:k_universe/features/vocabulary/vocabulary_screen.dart';
 import 'package:k_universe/ui/colors.dart';
 import 'package:k_universe/ui/mascot.dart';
+import 'package:k_universe/ui/mesh_backdrop.dart';
 import 'package:k_universe/ui/spacing.dart';
 import '../../core/l10n.dart';
 
@@ -19,61 +20,84 @@ class HomeScreen extends StatelessWidget {
     final theme = Theme.of(context);
 
     return Scaffold(
-      body: SafeArea(
-        child: StreamBuilder<List<Scenario>>(
-          stream: db.select(db.scenarios).watch(),
-          builder: (context, scenarioSnap) {
-            return StreamBuilder<List<UserProgressRow>>(
-              stream: db.select(db.userProgress).watch(),
-              builder: (context, progressSnap) {
-                final scenarios = scenarioSnap.data ?? const <Scenario>[];
-                final progress =
-                    progressSnap.data ?? const <UserProgressRow>[];
-                final progressById = {for (final p in progress) p.scenarioId: p};
-                final completed =
-                    progress.where((p) => p.status == 'completed').length;
+      body: Stack(
+        children: [
+          const Positioned(
+            top: 0,
+            left: 0,
+            right: 0,
+            height: 260,
+            child: MeshBackdrop(),
+          ),
+          SafeArea(
+            child: StreamBuilder<List<Scenario>>(
+              stream: db.select(db.scenarios).watch(),
+              builder: (context, scenarioSnap) {
+                return StreamBuilder<List<UserProgressRow>>(
+                  stream: db.select(db.userProgress).watch(),
+                  builder: (context, progressSnap) {
+                    final scenarios = scenarioSnap.data ?? const <Scenario>[];
+                    final progress =
+                        progressSnap.data ?? const <UserProgressRow>[];
+                    final progressById = {
+                      for (final p in progress) p.scenarioId: p,
+                    };
+                    final completed = progress
+                        .where((p) => p.status == 'completed')
+                        .length;
 
-                // Pick the most recent in_progress, else the first not_started
-                Scenario? today;
-                UserProgressRow? todayProgress;
-                for (final s in scenarios) {
-                  final p = progressById[s.id];
-                  if (p?.status == 'in_progress') {
-                    today = s;
-                    todayProgress = p;
-                    break;
-                  }
-                }
-                today ??= scenarios.firstWhere(
-                  (s) => progressById[s.id] == null,
-                  orElse: () => scenarios.isNotEmpty
-                      ? scenarios.first
-                      : _emptyScenario,
-                );
-                todayProgress ??= progressById[today.id];
+                    // Pick the most recent in_progress, else the first not_started
+                    Scenario? today;
+                    UserProgressRow? todayProgress;
+                    for (final s in scenarios) {
+                      final p = progressById[s.id];
+                      if (p?.status == 'in_progress') {
+                        today = s;
+                        todayProgress = p;
+                        break;
+                      }
+                    }
+                    today ??= scenarios.firstWhere(
+                      (s) => progressById[s.id] == null,
+                      orElse: () => scenarios.isNotEmpty
+                          ? scenarios.first
+                          : _emptyScenario,
+                    );
+                    todayProgress ??= progressById[today.id];
 
-                return ListView(
-                  padding: const EdgeInsets.fromLTRB(
-                      KSpace.lg, KSpace.md, KSpace.lg, KSpace.xxxl),
-                  children: [
-                    _GreetingRow(completedCount: completed),
-                    const SizedBox(height: KSpace.lg),
-                    if (today.id.isNotEmpty)
-                      _TodaysSceneCard(
-                          scenario: today, progress: todayProgress),
-                    const SizedBox(height: KSpace.xl),
-                    Text('Main Menu',
-                        style: theme.textTheme.titleMedium?.copyWith(
-                            fontWeight: FontWeight.w800,
-                            color: theme.colorScheme.onSurface)),
-                    const SizedBox(height: KSpace.md),
-                    _MainMenuGrid(),
-                  ],
+                    return ListView(
+                      padding: const EdgeInsets.fromLTRB(
+                        KSpace.lg,
+                        KSpace.md,
+                        KSpace.lg,
+                        KSpace.xxxl,
+                      ),
+                      children: [
+                        _GreetingRow(completedCount: completed),
+                        const SizedBox(height: KSpace.lg),
+                        if (today.id.isNotEmpty)
+                          _TodaysSceneCard(
+                            scenario: today,
+                            progress: todayProgress,
+                          ),
+                        const SizedBox(height: KSpace.xl),
+                        Text(
+                          'Main Menu',
+                          style: theme.textTheme.titleMedium?.copyWith(
+                            fontWeight: FontWeight.w600,
+                            color: theme.colorScheme.onSurface,
+                          ),
+                        ),
+                        const SizedBox(height: KSpace.md),
+                        _MainMenuGrid(),
+                      ],
+                    );
+                  },
                 );
               },
-            );
-          },
-        ),
+            ),
+          ),
+        ],
       ),
     );
   }
@@ -107,13 +131,18 @@ class _GreetingRow extends StatelessWidget {
               Text(
                 'Hi there! 🌸',
                 style: theme.textTheme.headlineMedium?.copyWith(
-                    fontWeight: FontWeight.w800, fontSize: 26),
+                  fontWeight: FontWeight.w700,
+                  fontSize: 28,
+                  letterSpacing: -1,
+                ),
               ),
               const SizedBox(height: 2),
               Text(
                 'Ready for today\'s Korean scene?',
                 style: theme.textTheme.bodyMedium?.copyWith(
-                    color: KColors.inkSoft, fontSize: 15),
+                  color: KColors.inkSoft,
+                  fontSize: 15,
+                ),
               ),
             ],
           ),
@@ -186,24 +215,25 @@ class _TodaysSceneCard extends StatelessWidget {
         onTap: () {
           Navigator.of(context).push(
             MaterialPageRoute(
-              builder: (_) =>
-                  DialoguePlayerScreen(scenarioId: scenario.id),
+              builder: (_) => DialoguePlayerScreen(scenarioId: scenario.id),
             ),
           );
         },
         child: Container(
           padding: const EdgeInsets.fromLTRB(
-              KSpace.xl, KSpace.xl, KSpace.xl, KSpace.lg),
+            KSpace.xl,
+            KSpace.xl,
+            KSpace.xl,
+            KSpace.lg,
+          ),
           decoration: BoxDecoration(
-            gradient: LinearGradient(
+            gradient: const LinearGradient(
               begin: Alignment.topLeft,
               end: Alignment.bottomRight,
-              colors: [
-                KColors.softPink.withValues(alpha: 0.95),
-                KColors.lilac.withValues(alpha: 0.95),
-              ],
+              colors: [Color(0xFF00B3FF), Color(0xFF635BFF)],
             ),
             borderRadius: BorderRadius.circular(26),
+            boxShadow: KColors.cardShadow,
           ),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
@@ -212,7 +242,9 @@ class _TodaysSceneCard extends StatelessWidget {
                 children: [
                   Container(
                     padding: const EdgeInsets.symmetric(
-                        horizontal: 10, vertical: 4),
+                      horizontal: 10,
+                      vertical: 4,
+                    ),
                     decoration: BoxDecoration(
                       color: Colors.white.withValues(alpha: 0.25),
                       borderRadius: BorderRadius.circular(999),
@@ -228,25 +260,26 @@ class _TodaysSceneCard extends StatelessWidget {
                     ),
                   ),
                   const Spacer(),
-                  Text(visual.emoji,
-                      style: const TextStyle(fontSize: 40)),
+                  Text(visual.emoji, style: const TextStyle(fontSize: 40)),
                 ],
               ),
               const SizedBox(height: KSpace.md),
               Text(
                 scenario.titleEn,
                 style: theme.textTheme.titleLarge?.copyWith(
-                    color: Colors.white,
-                    fontWeight: FontWeight.w800,
-                    fontSize: 22,
-                    height: 1.2),
+                  color: Colors.white,
+                  fontWeight: FontWeight.w800,
+                  fontSize: 22,
+                  height: 1.2,
+                ),
               ),
               const SizedBox(height: 4),
               Text(
                 scenario.settingEn,
                 style: theme.textTheme.bodyMedium?.copyWith(
-                    color: Colors.white.withValues(alpha: 0.85),
-                    fontSize: 14),
+                  color: Colors.white.withValues(alpha: 0.85),
+                  fontSize: 14,
+                ),
                 maxLines: 1,
                 overflow: TextOverflow.ellipsis,
               ),
@@ -257,8 +290,7 @@ class _TodaysSceneCard extends StatelessWidget {
                   value: pct == 0.0 ? null : pct,
                   minHeight: 6,
                   backgroundColor: Colors.white.withValues(alpha: 0.25),
-                  valueColor:
-                      const AlwaysStoppedAnimation<Color>(Colors.white),
+                  valueColor: const AlwaysStoppedAnimation<Color>(Colors.white),
                 ),
               ),
               const SizedBox(height: 6),
@@ -367,28 +399,34 @@ class _MenuCard extends StatelessWidget {
       opacity: disabled ? 0.55 : 1,
       child: Material(
         color: theme.colorScheme.surface,
+        elevation: 1,
+        shadowColor: const Color(0x4032325D),
         borderRadius: BorderRadius.circular(22),
         child: InkWell(
           borderRadius: BorderRadius.circular(22),
           onTap: disabled
               ? () => ScaffoldMessenger.of(context).showSnackBar(
-                    SnackBar(
-                      content: Text('${item.labelEn} coming soon'),
-                      behavior: SnackBarBehavior.floating,
-                      duration: const Duration(milliseconds: 1500),
-                    ),
-                  )
-              : () => Navigator.of(context).push(
-                    MaterialPageRoute(builder: item.builder!),
+                  SnackBar(
+                    content: Text('${item.labelEn} coming soon'),
+                    behavior: SnackBarBehavior.floating,
+                    duration: const Duration(milliseconds: 1500),
                   ),
+                )
+              : () => Navigator.of(
+                  context,
+                ).push(MaterialPageRoute(builder: item.builder!)),
           child: Container(
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(22),
               border: Border.all(
-                  color: theme.colorScheme.outlineVariant, width: 1),
+                color: theme.colorScheme.outlineVariant,
+                width: 1,
+              ),
             ),
             padding: const EdgeInsets.symmetric(
-                horizontal: 10, vertical: KSpace.md),
+              horizontal: 10,
+              vertical: KSpace.md,
+            ),
             child: FittedBox(
               fit: BoxFit.scaleDown,
               child: Column(
@@ -402,19 +440,25 @@ class _MenuCard extends StatelessWidget {
                       borderRadius: BorderRadius.circular(14),
                     ),
                     alignment: Alignment.center,
-                    child: Text(item.emoji,
-                        style: const TextStyle(fontSize: 24)),
+                    child: Text(
+                      item.emoji,
+                      style: const TextStyle(fontSize: 24),
+                    ),
                   ),
                   const SizedBox(height: KSpace.sm),
                   Text(
                     item.labelEn,
                     style: theme.textTheme.titleMedium?.copyWith(
-                        fontSize: 13, fontWeight: FontWeight.w800),
+                      fontSize: 13,
+                      fontWeight: FontWeight.w800,
+                    ),
                   ),
                   Text(
                     item.labelKo,
                     style: theme.textTheme.bodyMedium?.copyWith(
-                        color: KColors.inkSoft, fontSize: 11),
+                      color: KColors.inkSoft,
+                      fontSize: 11,
+                    ),
                   ),
                 ],
               ),

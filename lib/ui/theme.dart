@@ -19,13 +19,14 @@ ThemeData buildLightTheme() {
     surfaceContainer: KColors.bgCream,
     surfaceContainerHigh: KColors.surfaceTint,
     surfaceContainerHighest: KColors.surfaceTint,
-    primaryContainer: const Color(0xFFFFDDE6),
-    onPrimaryContainer: const Color(0xFF5C1F32),
-    secondaryContainer: const Color(0xFFE8DEFB),
-    onSecondaryContainer: const Color(0xFF32214E),
-    tertiaryContainer: const Color(0xFFFFEFC9),
-    onTertiaryContainer: const Color(0xFF4A3611),
-    outlineVariant: const Color(0xFFF4E6DA),
+    primaryContainer: const Color(0xFFEFEEFF),
+    onPrimaryContainer: KColors.lilac,
+    secondaryContainer: const Color(0xFFEFEEFF),
+    onSecondaryContainer: KColors.ink,
+    tertiaryContainer: const Color(0xFFFFF4E0),
+    onTertiaryContainer: KColors.ink,
+    outline: KColors.inkFaint,
+    outlineVariant: KColors.line,
   );
   return _baseTheme(cs, KColors.bgCream);
 }
@@ -61,39 +62,62 @@ ThemeData _baseTheme(ColorScheme cs, Color scaffoldBg) {
       labelLarge: KType.labelLarge,
     ),
     cardTheme: CardThemeData(
-      elevation: 0,
       color: cs.surface,
       surfaceTintColor: Colors.transparent,
+      elevation: 1,
+      shadowColor: const Color(0x4032325D),
       shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.circular(24),
+        borderRadius: BorderRadius.circular(16),
         side: BorderSide(color: cs.outlineVariant, width: 1),
       ),
       margin: EdgeInsets.zero,
     ),
     appBarTheme: AppBarTheme(
       centerTitle: false,
-      backgroundColor: scaffoldBg,
+      backgroundColor: cs.surface,
       surfaceTintColor: Colors.transparent,
       foregroundColor: cs.onSurface,
       elevation: 0,
       scrolledUnderElevation: 0,
+      // 사이트 헤더처럼 아래 1px `--line`
+      shape: Border(bottom: BorderSide(color: cs.outlineVariant, width: 1)),
       titleTextStyle: KType.titleLarge.copyWith(
-          color: cs.onSurface, fontSize: 22, fontWeight: FontWeight.w800),
+        color: cs.onSurface,
+        fontSize: 17,
+        fontWeight: FontWeight.w600,
+      ),
     ),
     filledButtonTheme: FilledButtonThemeData(
       style: FilledButton.styleFrom(
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+        shape: const StadiumBorder(),
         padding: const EdgeInsets.symmetric(horizontal: 28, vertical: 18),
         textStyle: KType.labelLarge.copyWith(
-            fontSize: 16, fontWeight: FontWeight.w700, letterSpacing: 0.2),
+          fontSize: 16,
+          fontWeight: FontWeight.w600,
+          letterSpacing: 0.2,
+        ),
         backgroundColor: cs.primary,
         foregroundColor: cs.onPrimary,
         elevation: 0,
         minimumSize: const Size(double.infinity, 56),
       ),
     ),
+    outlinedButtonTheme: OutlinedButtonThemeData(
+      style: OutlinedButton.styleFrom(
+        shape: const StadiumBorder(),
+        foregroundColor: cs.primary,
+        side: BorderSide(color: cs.outlineVariant),
+      ),
+    ),
+    textButtonTheme: TextButtonThemeData(
+      style: TextButton.styleFrom(
+        shape: const StadiumBorder(),
+        foregroundColor: cs.primary,
+      ),
+    ),
     navigationBarTheme: NavigationBarThemeData(
       backgroundColor: cs.surface,
+      shadowColor: Colors.transparent,
       indicatorColor: cs.primaryContainer,
       surfaceTintColor: Colors.transparent,
       labelTextStyle: WidgetStateProperty.resolveWith((states) {
