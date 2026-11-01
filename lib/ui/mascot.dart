@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-/// Globy — K-Universe mascot with 12 emotional expressions.
-/// All PNGs are transparent-backgrounded; ratio 384 : 341.
+/// 마스코트 자리 — 표정 12종을 그림 파일 대신 이모지로 그린다.
+/// (2026-11-02 출처 불명 마스코트 그림 12장 삭제 — 자체 제작 그림이 생기면 여기만 바꾼다.)
 enum MascotPose {
   happy,         // 행복해
   excited,       // 신나요
@@ -22,42 +22,47 @@ class Mascot extends StatelessWidget {
   final double size;
   const Mascot(this.pose, {super.key, this.size = 64});
 
-  String get _asset {
+  String get _emoji {
     switch (pose) {
       case MascotPose.happy:
-        return 'assets/mascot/happy.png';
+        return '😊';
       case MascotPose.excited:
-        return 'assets/mascot/excited.png';
+        return '🤩';
       case MascotPose.normal:
-        return 'assets/mascot/normal.png';
+        return '🙂';
       case MascotPose.worried:
-        return 'assets/mascot/worried.png';
+        return '😟';
       case MascotPose.angry:
-        return 'assets/mascot/angry.png';
+        return '😠';
       case MascotPose.annoyed:
-        return 'assets/mascot/annoyed.png';
+        return '😒';
       case MascotPose.sad:
-        return 'assets/mascot/sad.png';
+        return '😢';
       case MascotPose.disappointed:
-        return 'assets/mascot/disappointed.png';
+        return '😞';
       case MascotPose.gaveUp:
-        return 'assets/mascot/gave_up.png';
+        return '🫠';
       case MascotPose.tired:
-        return 'assets/mascot/tired.png';
+        return '😮‍💨';
       case MascotPose.badMood:
-        return 'assets/mascot/bad_mood.png';
+        return '😑';
       case MascotPose.meltdown:
-        return 'assets/mascot/meltdown.png';
+        return '🤯';
     }
   }
 
   @override
   Widget build(BuildContext context) {
-    return Image.asset(
-      _asset,
+    final scheme = Theme.of(context).colorScheme;
+    return Container(
       width: size,
-      height: size * (341.0 / 384.0),
-      fit: BoxFit.contain,
+      height: size,
+      alignment: Alignment.center,
+      decoration: BoxDecoration(
+        color: scheme.primary.withValues(alpha: 0.08),
+        shape: BoxShape.circle,
+      ),
+      child: Text(_emoji, style: TextStyle(fontSize: size * 0.55, height: 1)),
     );
   }
 }
