@@ -63,6 +63,14 @@ adb -s R3CY20HDN2K install --user 0 -r <apk>
 - **폰 업데이트**: 앱 → 설정(프로필) 화면 → **「앱 업데이트」** → 내려받아 설치. 케이블·adb 불필요.
   첫 설치 때 「출처를 알 수 없는 앱 설치」 허용이 한 번 필요하다(안드로이드 강제).
 
+- **Zealot(무선 설치, https://apps.talkverse.uk)** — Zealot 앱이름: Talkverse Korean (고정)
+  맥미니에서 `flutter build apk --release --build-number=<N>` → `tools/zealot_push.sh ["변경 한 줄"]`
+  (가장 최근 release APK 의 서명 SHA-1 을 확인한 뒤 올린다. 변경 내용을 안 주면 최근 커밋 제목).
+  `<N>` 은 `latest.json` 의 `build` 와 직전 Zealot 빌드보다 커야 덮어 설치된다(2026-10-11 첫 업로드 = 빌드 4, 그때 CI 최신은 3).
+  APK 백업은 PC `D:\OneDrive\app project\talkverse-ko\`.
+- 덮어 설치 조건 상태(2026-10-11 확인): 서명 = `android/key.properties` + `android/app/signing-key.jks` 있음, 빌드한 APK 의 SHA-1 이 §1 의 키와 일치 /
+  버전 코드 = `pubspec.yaml` 은 `1.0.0+1` 그대로라 **`--build-number` 를 꼭 줘야 한다**(안 주면 버전 코드 1 → 폰의 3·4 보다 낮아 설치 거부).
+
 관련 파일: `lib/services/update_service.dart`, `lib/screens/update_screen.dart`,
 `android/app/src/main/kotlin/**/MainActivity.kt`(설치 메서드 채널),
 `android/app/src/main/res/xml/file_paths.xml`, `.github/workflows/release.yml`
@@ -114,3 +122,12 @@ adb -s R3CY20HDN2K install --user 0 -r <apk>
   절차: `docs/ios-build-and-testflight.md`.
 - `ios/Runner/Info.plist` 에 마이크·음성 인식 권한 문구가 있다(말하기 연습). 지우면 iOS 에서 크래시.
 - `release.yml`(Android) 은 `ios/**`·`docs/**`·`tools/**` 만 바뀐 푸시는 건너뛴다.
+
+## 8. 회화(다이얼로그) 원칙 — 2026-11-02
+
+- **공통 원칙(언어앱 전체, 사용자 결정 14건)**: https://talkverse.uk/talkverse/dialogue-rules/ — 회화를 만들거나 고칠 때 이 문서를 먼저 읽고 그대로 따른다.
+  핵심: 레벨 = 절벽 R1~R4(L 단계 폐지, 기준표 https://talkverse.uk/cliff/18/ ) · 턴 수 R1 6~8 / R2 8~12 / R3·R4 12~16 · 수위 12+ · 반전 1회 ·
+  검수 = 자동 검사 + Grok·Gemini 교차. 문장은 자체 제작(§4).
+- **한국어앱 특이점**(공통 원칙 §8 예외): 영어권 학습자 대상이라 뜻·학습 메모·주석(`en_gloss`·`learner_note_en`·`gloss_en`)은 **영어 유지**.
+  시드 형식은 `assets/seed/scenarios.json`·`turns.json`·`annotations.json`(주석 4종 vocab·ending·particle·honorific, 글자 오프셋) + 개정 로마자.
+- 현재 시드(8 시나리오·55 턴, 2026-06-27)는 `difficulty` 1~2 두 단계라 R1~R4 와 아직 연결되지 않았다 — 구간 라벨을 붙이고 턴 수를 맞추는 것이 다음 일.
