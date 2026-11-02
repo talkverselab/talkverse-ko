@@ -3,8 +3,7 @@
 이미지 생성이 포함된 답은 grok_send 가 생성 중간에 저장할 수 있어, 끝난 뒤 이 스크립트로 다시 받는다. 이미지 주소도 뒤에 붙인다."""
 import sys
 import os
-sys.path.insert(0, '/Users/talkverse/Hanja/tools'); import grok_cdp as g
-g.BASE = 'http://127.0.0.1:' + os.environ.get('GROK_CDP_PORT', '9224')  # 한국어앱 전용 Chrome(프로필 ~/chrome-grok-ko) — 일본어 9223·공용 9222 는 쓰지 말 것
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__))); from grok_base import g, remote_paths  # noqa: E402
 frag, dst = sys.argv[1], sys.argv[2]
 n = int(sys.argv[3]) if len(sys.argv) > 3 else -1
 c = g.CDP(g.tab(frag))

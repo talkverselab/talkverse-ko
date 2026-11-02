@@ -5,8 +5,7 @@
 """
 import re, sys, time
 import os
-sys.path.insert(0, '/Users/talkverse/Hanja/tools'); import grok_cdp as g
-g.BASE = 'http://127.0.0.1:' + os.environ.get('GROK_CDP_PORT', '9224')  # 한국어앱 전용 Chrome(프로필 ~/chrome-grok-ko) — 일본어 9223·공용 9222 는 쓰지 말 것
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__))); from grok_base import g, remote_paths  # noqa: E402
 
 a = sys.argv[1:]
 src, dst = a[0], a[1]
@@ -31,7 +30,7 @@ if attach:
     import os as _os
     doc = c.call('DOM.getDocument', depth=1)
     q = c.call('DOM.querySelector', nodeId=doc['root']['nodeId'], selector='input[type=file]')
-    c.call('DOM.setFileInputFiles', nodeId=q['nodeId'], files=[_os.path.abspath(x) for x in attach]); time.sleep(4 + 2 * len(attach))
+    c.call('DOM.setFileInputFiles', nodeId=q['nodeId'], files=remote_paths(attach)); time.sleep(4 + 2 * len(attach))
     print('attached', len(attach))
 c.ev("document.querySelector('.ProseMirror').focus()")
 c.call('Input.insertText', text=text); time.sleep(1)

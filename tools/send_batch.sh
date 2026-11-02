@@ -2,8 +2,8 @@
 cd ~/talkverse/ko
 i=$1; shift
 /usr/bin/python3 - <<'PY'
-import sys,time; sys.path.insert(0,'/Users/talkverse/Hanja/tools'); import grok_cdp as g
-g.BASE='http://127.0.0.1:9224'; c=g.CDP(g.tab('9632e457'))
+import sys,time; sys.path.insert(0,'tools'); from grok_base import g
+c=g.CDP(g.tab('9632e457'))
 c.call('Page.navigate',url='https://grok.com/project/9632e457-d0cc-4b6a-a58d-a9e04b886855'); time.sleep(7)
 PY
 for f in "$@"; do

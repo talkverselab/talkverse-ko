@@ -4,8 +4,7 @@
 출력 마지막 줄: OK <저장.jpg> <답 글자 수> | NOIMAGE | TIMEOUT
 """
 import base64, os, subprocess, sys, time
-sys.path.insert(0, '/Users/talkverse/Hanja/tools'); import grok_cdp as g
-g.BASE = 'http://127.0.0.1:' + os.environ.get('GROK_CDP_PORT', '9224')
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__))); from grok_base import g, remote_paths  # noqa: E402
 a = sys.argv[1:]; src, dst = a[0], a[1]
 frag = a[a.index('--tab') + 1] if '--tab' in a else '91501f08'
 wait = int(a[a.index('--wait') + 1]) if '--wait' in a else 600
