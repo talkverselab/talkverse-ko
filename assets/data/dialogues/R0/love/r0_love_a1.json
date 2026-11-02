@@ -1,0 +1,116 @@
+{
+ "id": "r0_love_a1",
+ "region": "R0",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "우산, 하나",
+ "emoji": "☔",
+ "scene": "갑자기 비. 편의점 앞, 우산은 유진 것 하나뿐 — 드라마라면 같이 쓰는 장면인데…",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진"
+ },
+ "register": "casual",
+ "twist": 6,
+ "flags": [],
+ "kdrama": "비 오는 날 우산 하나(같이 쓰기)",
+ "expressions": [
+  "헐",
+  "괜찮아",
+  "진짜?"
+ ],
+ "goal": "Short reactions in a sudden-rain moment",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "헐, 갑자기 비야?",
+   "rd": "heol, gapjagi biya?",
+   "en": "Whoa, is it suddenly raining?",
+   "note": "갑자기 = suddenly · 헐 = whoa",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "나 우산 하나 있어. 같이 쓸래?",
+   "rd": "na usan hana isseo. gachi sseullae?",
+   "en": "I've got one umbrella. Wanna share?",
+   "note": "같이 쓸래? = want to share (it) with me?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "아 괜찮아. 뛰어갈게!",
+   "rd": "a gwaenchana. ttwieogalge!",
+   "en": "Ah, it's fine. I'll just run!",
+   "note": "괜찮아 = it's fine / no thanks · 뛰어갈게 = I'll run (there)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "진짜? 비 세게 오는데.",
+   "rd": "jinjja? bi sege oneunde.",
+   "en": "Really? It's pouring though.",
+   "note": "세게 오는데 = it's coming down hard, though",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "괜찮아, 나 빠르거든.",
+   "rd": "gwaenchana, na ppareugeodeun.",
+   "en": "It's okay, I'm pretty fast.",
+   "note": "-거든 = because, you see (giving a reason)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "헐, 드라마 안 봤구나. 이 장면인데.",
+   "rd": "heol, deurama an bwatguna. i jangmyeoninde.",
+   "en": "Whoa, you've never seen a drama, huh. This is that scene.",
+   "note": "Kick: in every K-drama, this is the umbrella-sharing scene",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "어? 무슨 장면?",
+   "rd": "eo? museun jangmyeon?",
+   "en": "Huh? What scene?",
+   "note": "무슨 = what (kind of) · 장면 = scene",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "됐어… 빨리 들어와.",
+   "rd": "dwaesseo… ppalli deureowa.",
+   "en": "Forget it… get in quick.",
+   "note": "됐어 = forget it · 들어와 = come in (under it)",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a1_grok_rewrite.md [K011]",
+  "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정(6턴 「너」 뺌)"
+ }
+}

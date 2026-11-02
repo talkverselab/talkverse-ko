@@ -1,0 +1,124 @@
+{
+ "id": "r1_love_c1",
+ "region": "R1",
+ "island": "love",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "하트 세 개",
+ "emoji": "💬",
+ "scene": "두 번째 데이트 다음 날 아침 카톡. 「좋아요」를 누르려다 손가락이 미끄러졌다",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진"
+ },
+ "register": "chat",
+ "twist": 3,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "헐",
+  "진짜?"
+ ],
+ "goal": "Texting reactions and covering an awkward moment",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "어제 진짜 재밌었어. 잘 들어갔지?",
+   "rd": "eoje jinjja jaemisseosseo. jal deureogatji?",
+   "en": "Yesterday was really fun. You got home okay, right?",
+   "note": "잘 들어갔지? = you got home okay, right? — the after-date check-in",
+   "tags": [],
+   "new": [],
+   "ui": "bubble"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "응! 나도 너무 좋았어 ❤️❤️❤️",
+   "rd": "eung! nado neomu joasseo ❤️❤️❤️",
+   "en": "Yeah! I liked it so much too ❤️❤️❤️",
+   "note": "너무 좋았어 = I really loved it",
+   "tags": [],
+   "new": [],
+   "ui": "bubble"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "헐… 하트 세 개?? 뭐야 이거",
+   "rd": "heol… hateu se gae?? mwoya igeo",
+   "en": "Whoa… three hearts?? What is this",
+   "note": "헐 = whoa · 뭐야 이거 = what is this",
+   "tags": [],
+   "new": [],
+   "ui": "bubble"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "아 실수 ㅋㅋ 손가락이 미끄러졌어",
+   "rd": "a silsu ㅋㅋ songaragi mikkeureojyeosseo",
+   "en": "Ah mistake lol my finger slipped",
+   "note": "실수 = mistake · 미끄러졌어 = slipped",
+   "tags": [],
+   "new": [],
+   "ui": "bubble"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "세 번이나 미끄러진 거야?",
+   "rd": "se beonina mikkeureojin geoya?",
+   "en": "You slipped three times?",
+   "note": "Kick: -이나 = as many as (three!)",
+   "tags": [],
+   "new": [],
+   "ui": "bubble"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…응. 세 번이나.",
+   "rd": "…eung. se beonina.",
+   "en": "…Yeah. Three times.",
+   "note": "repeating = owning it",
+   "tags": [],
+   "new": [],
+   "ui": "bubble"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "ㅋㅋㅋ 알겠어. 그럼 나도 실수할게 ❤️",
+   "rd": "ㅋㅋㅋ algesseo. geureom nado silsuhalge ❤️",
+   "en": "lolol got it. Then I’ll make a mistake too ❤️",
+   "note": "알겠어 = got it · -ㄹ게 = I'll (promise)",
+   "tags": [],
+   "new": [],
+   "ui": "bubble"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "진짜? 몇 번 할 건데?",
+   "rd": "jinjja? myeot beon hal geonde?",
+   "en": "Really? How many times are you gonna do?",
+   "note": "몇 번 = how many times · -ㄹ 건데? = are you going to…?",
+   "tags": [],
+   "new": [],
+   "ui": "bubble"
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_love_c1_grok_rewrite.md [K014]",
+  "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정"
+ }
+}

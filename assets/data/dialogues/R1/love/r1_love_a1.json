@@ -1,0 +1,116 @@
+{
+ "id": "r1_love_a1",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "군대 왔어요?",
+ "emoji": "☕",
+ "scene": "소개팅으로 처음 만난 카페. A 는 연습해 온 「-습니다」 인사를 한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진"
+ },
+ "register": "mixed",
+ "twist": 3,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "아 몰라",
+  "말 놓을까?"
+ ],
+ "goal": "Switching from formal speech to 반말 on a first date",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "{name} 씨 맞아요? 사진이랑 완전 똑같네!",
+   "rd": "{name} ssi majayo? sajinirang wanjeon ttokganne!",
+   "en": "You're {name}, right? You look exactly like your photo!",
+   "note": "맞아요? = is that right? (checking politely)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "안녕하십니까. 만나서 반갑습니다. {name}입니다.",
+   "rd": "annyeonghasimnikka. mannaseo bangapseumnida. {name}imnida.",
+   "en": "Good day. It's a pleasure to meet you. I'm {name}.",
+   "note": "-습니다 = very formal — interviews, the army, news",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "ㅋㅋㅋㅋ 뭐야, 군대 말투야? 훈련소 다녀왔어요?",
+   "rd": "ㅋㅋㅋㅋ mwoya, gundae maltuya? hullyeonso danyeowasseoyo?",
+   "en": "Hahaha what, army talk? Did you just get out of boot camp?",
+   "note": "Kick: 군대 말투 = army talk · 훈련소 = boot camp — -습니다 sounds like a soldier",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "어… 이상해요? 책에서 이렇게 배웠거든요.",
+   "rd": "eo… isanghaeyo? chaegeseo ireoke baewotgeodeunyo.",
+   "en": "Uh… is it weird? That's how I learned it from the book.",
+   "note": "-거든요 = you see (giving a reason, polite)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "아니, 귀여워서 그래. 우리 말 놓을까?",
+   "rd": "ani, gwiyeowoseo geurae. uri mal noeulkka?",
+   "en": "No, it's just cute. Shall we drop the formalities?",
+   "note": "말 놓을까? = shall we speak casually (반말)?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "진짜? 음… 좋아요, 유진 씨!",
+   "rd": "jinjja? eum… joayo, yujin ssi!",
+   "en": "Really? Um… okay, Yujin-ssi!",
+   "note": "진짜? = really?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "「씨」도 빼. 그냥 유진이라고 해.",
+   "rd": "「ssi」do ppae. geunyang yujinirago hae.",
+   "en": "Drop the “-ssi” too. Just call me Yujin.",
+   "note": "씨 = polite name suffix — friends drop it",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "유진아…? 아 몰라, 너무 어려워!",
+   "rd": "yujina…? a molla, neomu eoryeowo!",
+   "en": "Yujin-a…? Ugh, whatever, this is too hard!",
+   "note": "유진아 = name + 아 (friends' way to call) · 아 몰라 = ugh, whatever",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a1_grok_rewrite.md [K013]",
+  "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정"
+ }
+}

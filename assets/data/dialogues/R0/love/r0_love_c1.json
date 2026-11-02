@@ -1,0 +1,124 @@
+{
+ "id": "r0_love_c1",
+ "region": "R0",
+ "island": "love",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "자?",
+ "emoji": "🌙",
+ "scene": "밤 11시 반, 유진에게서 온 한 글자 카톡",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진"
+ },
+ "register": "chat",
+ "twist": 5,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "아니",
+  "잘 자"
+ ],
+ "goal": "Late-night texting basics",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "안 자?",
+   "rd": "an ja?",
+   "en": "You not sleeping?",
+   "note": "안 자? = you up? (lit. not sleeping?) — the classic late-night text",
+   "tags": [],
+   "new": [],
+   "ui": "bubble"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "아니 ㅋㅋ 뭔데?",
+   "rd": "ani ㅋㅋ mwonde?",
+   "en": "Nope lol, what’s up?",
+   "note": "뭔데? = what is it? / what's up?",
+   "tags": [],
+   "new": [],
+   "ui": "bubble"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "그냥 심심해서.",
+   "rd": "geunyang simsimhaeseo.",
+   "en": "Just bored.",
+   "note": "심심해 = bored · -해서 = because",
+   "tags": [],
+   "new": [],
+   "ui": "bubble"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "심심해? ㅋㅋ",
+   "rd": "simsimhae? ㅋㅋ",
+   "en": "Bored? lol",
+   "note": "repeating the word back = teasing",
+   "tags": [],
+   "new": [],
+   "ui": "bubble"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "아 실수로 보냈어.",
+   "rd": "a silsuro bonaesseo.",
+   "en": "Ah, sent it by accident.",
+   "note": "실수로 = by mistake",
+   "tags": [],
+   "new": [],
+   "ui": "bubble"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "아… 진짜?",
+   "rd": "a… jinjja?",
+   "en": "Oh… really?",
+   "note": "진짜? = really?",
+   "tags": [],
+   "new": [],
+   "ui": "bubble"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "아니 ㅋㅋ 일부러야.",
+   "rd": "ani ㅋㅋ ilbureoya.",
+   "en": "No lol, on purpose.",
+   "note": "Kick: 일부러 = on purpose — she takes it back",
+   "tags": [],
+   "new": [],
+   "ui": "bubble"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "ㅋㅋㅋ 나도… 잘 자는 내일 하자.",
+   "rd": "ㅋㅋㅋ nado… jal janeun naeil haja.",
+   "en": "lolol me too… let's save \"good night\" for tomorrow.",
+   "note": "잘 자 = good night",
+   "tags": [],
+   "new": [],
+   "ui": "bubble"
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_love_c1_grok_rewrite.md [K012]",
+  "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정(8턴 줄임)"
+ }
+}

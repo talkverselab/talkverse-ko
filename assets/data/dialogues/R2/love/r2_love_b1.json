@@ -1,0 +1,158 @@
+{
+ "id": "r2_love_b1",
+ "region": "R2",
+ "island": "love",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "먼저 들어가",
+ "emoji": "🏠",
+ "scene": "첫 데이트 끝, 밤 11시 유진 집 앞 골목. 서로 「먼저 들어가」를 미루는, 드라마에서 백 번 본 장면",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진",
+  "C": "유진 엄마"
+ },
+ "register": "casual",
+ "twist": 11,
+ "flags": [],
+ "kdrama": "집 앞 「먼저 들어가」 무한 반복 + 창문의 엄마",
+ "expressions": [
+  "그니까",
+  "잠깐만",
+  "진짜?",
+  "아 몰라"
+ ],
+ "goal": "Saying goodbye and stalling, Korean-style",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "도착했네. 오늘 진짜 좋았어.",
+   "rd": "dochakaenne. oneul jinjja joasseo.",
+   "en": "We're here. Today was really good.",
+   "note": "도착했네 = we're here (noticing)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "그니까. 시간 순식간에 가버렸네.",
+   "rd": "geunikka. sigan sunsikgane gabeoryeonne.",
+   "en": "Right. Time just flew by.",
+   "note": "그니까 = right? · 순식간에 = in an instant",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "너 먼저 들어가. 들어가는 거 보고 갈게.",
+   "rd": "neo meonjeo deureoga. deureoganeun geo bogo galge.",
+   "en": "You go in first. I'll leave after I see you get in.",
+   "note": "보고 갈게 = I'll watch, then go — a drama classic",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "됐어, 너 먼저 가. 가는 거 보고 들어갈게.",
+   "rd": "dwaesseo, neo meonjeo ga. ganeun geo bogo deureogalge.",
+   "en": "No, you go first. I'll go in after I watch you leave.",
+   "note": "됐어 = no, it's fine · mirror sentence = the stalling game",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "절대 안 돼. 위험하니까 먼저 들어가.",
+   "rd": "jeoldae an dwae. wiheomhanikka meonjeo deureoga.",
+   "en": "No way. It's dangerous, so you go first.",
+   "note": "절대 안 돼 = absolutely not · -니까 = since / because",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "진짜? 여기 우리 동네인데 뭐가 위험해.",
+   "rd": "jinjja? yeogi uri dongneinde mwoga wiheomhae.",
+   "en": "Really? This is my neighborhood, what's dangerous about it.",
+   "note": "뭐가 위험해 = what's dangerous about it (rhetorical)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "그럼 셋 세고 동시에 가자. 하나, 둘…",
+   "rd": "geureom set sego dongsie gaja. hana, dul…",
+   "en": "Then let's count to three and go at the same time. One, two…",
+   "note": "셋 세고 = count to three, then · 동시에 = at the same time",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "잠깐만! …오늘 진짜 고마웠어.",
+   "rd": "jamkkanman! …oneul jinjja gomawosseo.",
+   "en": "Wait! …Thank you for today, really.",
+   "note": "잠깐만 = wait a sec",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "A",
+   "ko": "나도 그래. 다시 해볼게. 하나, 둘…",
+   "rd": "nado geurae. dasi haebolge. hana, dul…",
+   "en": "Me too. Let's try again. One, two…",
+   "note": "다시 해볼게 = let me try again",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "B",
+   "ko": "잠깐만, 하나만 더…",
+   "rd": "jamkkanman, hanaman deo…",
+   "en": "Wait, just one more thing…",
+   "note": "하나만 더 = just one more",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "C",
+   "ko": "야 둘 다 빨리 들어가! 창문 다 열려서 다 들려!",
+   "rd": "ya dul da ppalli deureoga! changmun da yeollyeoseo da deullyeo!",
+   "en": "Hey both of you go inside already! The window's open, I can hear everything!",
+   "note": "Kick: 다 들려 = I can hear everything — Mom at the window",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "B",
+   "ko": "…엄마. 아 몰라, 갈게! 연락해!",
+   "rd": "…eomma. a molla, galge! yeollakae!",
+   "en": "…Mom. Ugh, I'm going! Text me!",
+   "note": "연락해 = text/call me",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_love_b1_grok_rewrite.md [K015]",
+  "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정"
+ }
+}

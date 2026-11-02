@@ -1,0 +1,198 @@
+{
+ "id": "r3_love_b1",
+ "region": "R3",
+ "island": "love",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "첫눈 오는 날",
+ "emoji": "❄️",
+ "scene": "「첫눈 오면 만나자」던 약속. 첫눈 오는 밤, 유진은 카페 창밖으로 A 가 모르는 여자와 웃는 걸 봤다",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진"
+ },
+ "register": "casual",
+ "twist": 13,
+ "flags": [],
+ "kdrama": "첫눈 약속 · 오해(누나였다) · 손목 잡기 「가지 마」",
+ "expressions": [
+  "그니까",
+  "진짜?",
+  "설마",
+  "됐어",
+  "왜?"
+ ],
+ "goal": "Misunderstandings, sulking and a confession, Korean-drama style",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "유진아! 첫눈 왔다. 우리 약속 기억하지?",
+   "rd": "yujina! cheonnun watda. uri yaksok gieokaji?",
+   "en": "Yujin! First snow’s here. You remember our promise, right?",
+   "note": "첫눈 = the first snow — \"meet on the first snow\" is a classic promise",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "기억하지. 근데 너는 좀 바빠 보였는데.",
+   "rd": "gieokaji. geunde neoneun jom bappa boyeonneunde.",
+   "en": "Of course I do. But you looked pretty busy.",
+   "note": "바빠 보였는데 = you looked busy, though (with an edge)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "바빠? 내가? 왜?",
+   "rd": "bappa? naega? wae?",
+   "en": "Busy? Me? Why?",
+   "note": "바빠? 내가? = busy? me? — echoing back in surprise",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "아까 카페 앞에서 어떤 여자랑 엄청 웃고 있던데.",
+   "rd": "akka kape apeseo eotteon yeojarang eomcheong utgo itdeonde.",
+   "en": "Earlier outside the café, you were laughing a lot with some woman.",
+   "note": "-고 있던데 = I saw you were …-ing (reporting what I saw)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "설마… 그걸 봤어?",
+   "rd": "seolma… geugeol bwasseo?",
+   "en": "No way… you saw that?",
+   "note": "설마 = no way / don't tell me",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "됐어. 설명 안 해도 돼. 나 갈게.",
+   "rd": "dwaesseo. seolmyeong an haedo dwae. na galge.",
+   "en": "Forget it. You don’t have to explain. I’m leaving.",
+   "note": "됐어 = forget it — sulking signal",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "잠깐만. 가지 마.",
+   "rd": "jamkkanman. gaji ma.",
+   "en": "Wait. Don’t go.",
+   "note": "가지 마 = don't go — the wrist-grab line",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "…지금 손목 잡은 거야? 이거 드라마 찍어?",
+   "rd": "…jigeum sonmok jabeun geoya? igeo deurama jjigeo?",
+   "en": "…Did you just grab my wrist? Are we filming a drama?",
+   "note": "드라마 찍어? = are you filming a drama? (teasing a cliché)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "A",
+   "ko": "미안해. 근데 진짜 오해야. 그 사람 우리 누나거든.",
+   "rd": "mianhae. geunde jinjja ohaeya. geu saram uri nunageodeun.",
+   "en": "Sorry. But it’s really a misunderstanding. That was my older sister.",
+   "note": "오해 = misunderstanding · 누나 = (a guy's) older sister · -거든 = you see",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "B",
+   "ko": "…누나? 진짜?",
+   "rd": "…nuna? jinjja?",
+   "en": "…Your sister? Really?",
+   "note": "진짜? = really?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "A",
+   "ko": "응. 이거 같이 고르느라 웃은 거야.",
+   "rd": "eung. igeo gachi goreuneura useun geoya.",
+   "en": "Yeah. We were laughing ’cause she helped me pick this.",
+   "note": "-느라 = because (I was busy) doing",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "B",
+   "ko": "이게 뭔데? …목도리?",
+   "rd": "ige mwonde? …mokdori?",
+   "en": "What is it? …A scarf?",
+   "note": "목도리 = scarf",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 13,
+   "speaker": "A",
+   "ko": "첫눈 오는 날 주려고 산 거야. 너 맨날 춥다고 했잖아.",
+   "rd": "cheonnun oneun nal juryeogo san geoya. neo maennal chupdago haetjana.",
+   "en": "I bought it to give you on the first snow. You always say you’re cold.",
+   "note": "-려고 = in order to · -잖아 = you know (shared fact)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 14,
+   "speaker": "B",
+   "ko": "…바보. 그럼 처음부터 말하지.",
+   "rd": "…babo. geureom cheoeumbuteo malhaji.",
+   "en": "…Idiot. You should’ve said so from the start.",
+   "note": "바보 = idiot (affectionate)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 15,
+   "speaker": "A",
+   "ko": "말하면 드라마가 안 되잖아.",
+   "rd": "malhamyeon deuramaga an doejana.",
+   "en": "If I told you, it wouldn't be a drama.",
+   "note": "Kick: he plays the cliché back at her",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 16,
+   "speaker": "B",
+   "ko": "ㅋㅋ 됐어. …빨리 둘러 줘. 추워.",
+   "rd": "ㅋㅋ dwaesseo. …ppalli dulleo jwo. chuwo.",
+   "en": "Haha, fine. …Hurry and wrap it on me. I’m cold.",
+   "note": "둘러 줘 = wrap (it) around me",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r3_love_b1_grok_rewrite.md [K016]",
+  "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정(15턴 끝 「그니까」 뺌)"
+ }
+}
