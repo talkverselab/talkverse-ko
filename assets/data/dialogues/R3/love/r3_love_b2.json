@@ -194,5 +194,6 @@
  "review": {
   "grok_rewrite": "data/review/r3_love_b2_grok_rewrite.md [K029]",
   "final": ""
- }
+ },
+ "learner_gender": "M"
 }

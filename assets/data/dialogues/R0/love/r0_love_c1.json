@@ -124,5 +124,6 @@
  "review": {
   "grok_rewrite": "data/review/r0_love_c1_grok_rewrite.md [K012]",
   "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정(8턴 줄임)"
- }
+ },
+ "learner_gender": "M"
 }

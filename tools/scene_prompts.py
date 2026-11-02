@@ -17,12 +17,16 @@ def who(s):
     n = e['speakers'].get(s, s); return CHAR.get(n, f'{n}(조연)')
 turns = e['turns']; cuts = [turns[i:i + 2] for i in range(0, len(turns), 2)]
 people = ' / '.join(who(s) for s in e['speakers'])
+GENDER = {'F': '**여성**', 'M': '**남성**'}.get(e.get('learner_gender'), '남/여 중 하나(편 안에서 통일)')
+people = people.replace('성별은 첨부 기준 그림의 남/여 중 하나, 편 안에서 통일', f'학습자는 첨부 기준 그림의 {GENDER} 쪽')
+CHAT = ('\n**채팅 편**: 두 사람은 서로 다른 장소에 있다 — 각자 자기 자리에서 폰을 보는 모습으로, 화면을 세로로 반 나눠 왼쪽/오른쪽에 한 사람씩(또는 한 사람을 크게, 상대는 작은 둥근 창). 같은 소파·같은 방에 두지 말 것.'
+        if e.get('kind') == 'chat' else '')
 for k, pair in enumerate(cuts, 1):
     desc = ' → '.join(f"{e['speakers'].get(t['speaker'], t['speaker'])}: 「{re.sub(r'\(.*?\)', '', t['ko']).strip()}」" for t in pair)
     txt = f"""[{pre}-{k}] 회화 장면 컷 {k}/{len(cuts)} — 편 「{e['title']}」({e['id']}). 첨부 1번 = 인물 기준 그림(얼굴·머리·옷을 그대로 유지), 첨부 2번 = 앱 화면 톤(시안 04).
 스타일: 부드러운 3D 점토/펠트 인형, 둥근 얼굴, 파스텔 배경, 밝고 따뜻한 조명(어두운 밤 장면도 가로등·간판 불빛으로 밝게), 부드러운 그림자. 가로 16:9.
 장면: {e['scene']}
-등장: {people}
+등장: {people}{CHAT}
 이 컷의 순간(그림에 글자로 넣지 말 것 — 표정·몸짓·소품으로만 표현): {desc}
 반드시: **말풍선·글자·간판 글씨·자막·숫자·로고 없음**(대사는 앱이 나중에 얹는다 — 말풍선이 들어갈 여백을 인물 머리 위쪽에 남길 것). 두 인물이 모두 보이게, 말하는 사람이 조금 더 앞에. 실존 인물·브랜드 금지.
 출력: 그림 1장만. 설명 없이.

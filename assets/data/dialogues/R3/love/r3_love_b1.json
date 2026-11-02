@@ -194,5 +194,6 @@
  "review": {
   "grok_rewrite": "data/review/r3_love_b1_grok_rewrite.md [K016]",
   "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정(15턴 끝 「그니까」 뺌)"
- }
+ },
+ "learner_gender": "M"
 }

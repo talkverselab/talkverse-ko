@@ -153,5 +153,6 @@
  "review": {
   "grok_rewrite": "data/review/r2_culture_b2_grok_rewrite.md [K074]",
   "final": ""
- }
+ },
+ "learner_gender": "F"
 }

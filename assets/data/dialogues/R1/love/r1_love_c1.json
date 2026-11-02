@@ -124,5 +124,6 @@
  "review": {
   "grok_rewrite": "data/review/r1_love_c1_grok_rewrite.md [K014]",
   "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정"
- }
+ },
+ "learner_gender": "M"
 }
