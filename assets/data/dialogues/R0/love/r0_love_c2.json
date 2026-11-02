@@ -134,5 +134,6 @@
   "grok_rewrite": "data/review/r0_love_c2_grok_rewrite.md [K022]",
   "final": ""
  },
- "learner_gender": "M"
+ "learner_gender": "M",
+ "twist_type": "reveal"
 }

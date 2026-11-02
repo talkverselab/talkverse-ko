@@ -1,0 +1,117 @@
+{
+ "id": "r1_culture_a3",
+ "region": "R1",
+ "island": "culture",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "직캠에 나왔어",
+ "emoji": "📹",
+ "scene": "태오의 첫 공연 직캠이 올라왔다. 맨 앞줄에 학습자가 보인다",
+ "speakers": {
+  "A": "{name}",
+  "B": "태오",
+  "C": "서아"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "미쳤다",
+  "ㅋㅋ"
+ ],
+ "goal": "When the idol notices you",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "헐, 직캠에 나 나왔어!",
+   "rd": "heol, jikkaeme na nawasseo!",
+   "en": "Whoa, I'm in the fancam!",
+   "note": "직캠 = fancam",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "C",
+   "ko": "진짜? 어디?",
+   "rd": "jinjja? eodi?",
+   "en": "Really? Where?",
+   "note": "어디 = where",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "2분 10초. 맨 앞줄.",
+   "rd": "2bun 10cho. maen apjul.",
+   "en": "2:10. Front row.",
+   "note": "맨 앞줄 = very front row",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "ㅋㅋ 표정 미쳤다. 완전 입덕 표정.",
+   "rd": "ㅋㅋ pyojeong michyeotda. wanjeon ipdeok pyojeong.",
+   "en": "Lol your face is insane. Total fangirl face.",
+   "note": "입덕 = becoming a fan",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "(DM) 맨 앞줄에 있었지?",
+   "rd": "(DM) maen apjure isseotji?",
+   "en": "(DM) You were in the front row, right?",
+   "note": "심쿵: Taeo DMs",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "헐… 태오가 DM 보냈어!",
+   "rd": "heol… taeoga DM bonaesseo!",
+   "en": "Whoa… Taeo sent me a DM!",
+   "note": "DM",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "(DM) 다음 공연도 거기 서 있어. 너 보고 불렀어.",
+   "rd": "(DM) daeum gongyeondo geogi seo isseo. neo bogo bulleosseo.",
+   "en": "(DM) Stand there at the next show too. I sang looking at you.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…심장 떨어질 것 같아.",
+   "rd": "…simjang tteoreojil geot gata.",
+   "en": "…I think my heart's going to drop.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "F",
+ "initiator": "B"
+}

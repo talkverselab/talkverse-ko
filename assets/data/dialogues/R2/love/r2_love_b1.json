@@ -161,5 +161,6 @@
   "grok_rewrite": "data/review/r2_love_b1_grok_rewrite.md [K015]",
   "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정"
  },
- "learner_gender": "M"
+ "learner_gender": "M",
+ "twist_type": "chaos"
 }

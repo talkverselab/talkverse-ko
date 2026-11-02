@@ -1,0 +1,132 @@
+{
+ "id": "r0_love_c4",
+ "region": "R0",
+ "island": "love",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "이모티콘 폭탄",
+ "emoji": "💥",
+ "scene": "썸 타는 중. 이모티콘 하나 보내려다 손가락이 미끄러졌다",
+ "speakers": {
+  "A": "{name}",
+  "B": "해솔"
+ },
+ "register": "chat",
+ "twist": 3,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "헐",
+  "미안"
+ ],
+ "goal": "Emoji accident in a flirty chat",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "오늘 재밌었어!",
+   "rd": "oneul jaemisseosseo!",
+   "en": "Today was fun!",
+   "note": "재밌었어 = it was fun",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:00"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "😊😊😊😊😊😊😊😊😊😊😊😊",
+   "rd": "😊😊😊😊😊😊😊😊😊😊😊😊",
+   "en": "😊😊😊😊😊😊😊😊😊😊😊😊",
+   "note": "Kick: too many emojis — chaos",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:01"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "헐 ㅋㅋㅋ 몇 개야?",
+   "rd": "heol ㅋㅋㅋ myeot gaeya?",
+   "en": "Whoa lolol how many is that?",
+   "note": "몇 개 = how many",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:01"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "미안! 손이 미끄러졌어.",
+   "rd": "mian! soni mikkeureojyeosseo.",
+   "en": "Sorry! My finger slipped.",
+   "note": "미끄러지다 = slip",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:01"
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "😊😊😊😊😊😊",
+   "rd": "😊😊😊😊😊😊",
+   "en": "😊😊😊😊😊😊",
+   "note": "it happens again",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:02"
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "또? ㅋㅋㅋ",
+   "rd": "tto? ㅋㅋㅋ",
+   "en": "Again? lolol",
+   "note": "또 = again",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:02"
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "폰이 너 좋아하나 봐.",
+   "rd": "poni neo joahana bwa.",
+   "en": "I think my phone likes you.",
+   "note": "-나 봐 = seems like",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:03"
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "폰만?",
+   "rd": "ponman?",
+   "en": "Only your phone?",
+   "note": "심쿵 punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:03"
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

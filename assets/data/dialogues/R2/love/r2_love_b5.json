@@ -166,5 +166,6 @@
   "grok_rewrite": "data/review/r2_love_b5_grok_rewrite.md [K037]",
   "final": ""
  },
- "learner_gender": "M"
+ "learner_gender": "M",
+ "twist_type": "chaos"
 }

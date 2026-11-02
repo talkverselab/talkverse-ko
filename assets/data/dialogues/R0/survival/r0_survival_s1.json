@@ -1,0 +1,113 @@
+{
+ "id": "r0_survival_s1",
+ "region": "R0",
+ "island": "survival",
+ "kind": "survival",
+ "draft": true,
+ "purpose": [
+  "survival"
+ ],
+ "domain": [
+  "survival"
+ ],
+ "title": "물은 셀프",
+ "emoji": "💧",
+ "scene": "식당. 물을 달라고 했더니 사장님이 벽을 가리킨다",
+ "speakers": {
+  "A": "{name}",
+  "B": "사장님"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "slip",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "저기요",
+  "여기요",
+  "감사합니다"
+ ],
+ "goal": "Restaurant basics: 물은 셀프",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "저기요, 물 주세요.",
+   "rd": "jeogiyo, mul juseyo.",
+   "en": "Excuse me, water please.",
+   "note": "물 주세요 = water please",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "물은 셀프예요.",
+   "rd": "mureun selpeuyeyo.",
+   "en": "Water is self-service.",
+   "note": "셀프 = self-service",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "셀프요?",
+   "rd": "selpeuyo?",
+   "en": "Self?",
+   "note": "echo",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "저기요. 벽에 있어요.",
+   "rd": "jeogiyo. byeoge isseoyo.",
+   "en": "Over there. On the wall.",
+   "note": "Kick: the sign",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "아… 「물은 셀프」. 알겠어요.",
+   "rd": "a… 「mureun selpeu」. algesseoyo.",
+   "en": "Oh… \"water is self-serve.\" Got it.",
+   "note": "read the sign",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "반찬도 셀프예요.",
+   "rd": "banchando selpeuyeyo.",
+   "en": "Side dishes are self-service too.",
+   "note": "반찬 = side dishes",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "그럼 밥도요?",
+   "rd": "geureom bapdoyo?",
+   "en": "Then rice too?",
+   "note": "follow-up",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "밥은 제가 해요. ㅋㅋ",
+   "rd": "babeun jega haeyo. ㅋㅋ",
+   "en": "I make the rice. Haha.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

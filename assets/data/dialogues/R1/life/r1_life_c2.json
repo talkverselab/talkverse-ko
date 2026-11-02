@@ -1,0 +1,129 @@
+{
+ "id": "r1_life_c2",
+ "region": "R1",
+ "island": "life",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "집주인 문자",
+ "emoji": "🏠",
+ "scene": "월세 내는 날. 집주인 할머니에게서 문자가 왔다",
+ "speakers": {
+  "A": "{name}",
+  "B": "집주인 할머니"
+ },
+ "register": "chat",
+ "twist": 4,
+ "twist_type": "reveal",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "네",
+  "감사합니다",
+  "진짜요?"
+ ],
+ "goal": "Texting a landlord politely",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "{name} 학생, 월세 보냈어요?",
+   "rd": "{name} haksaeng, wolse bonaesseoyo?",
+   "en": "{name}, did you send the rent?",
+   "note": "월세 = monthly rent",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "09:10"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네! 아침에 보냈어요.",
+   "rd": "ne! achime bonaesseoyo.",
+   "en": "Yes! I sent it this morning.",
+   "note": "보내다 = send",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "09:12"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "고마워요. 근데 이번 달은 안 내도 돼요.",
+   "rd": "gomawoyo. geunde ibeon dareun an naedo dwaeyo.",
+   "en": "Thank you. But you don't have to pay this month.",
+   "note": "안 내도 돼요 = no need to pay",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "09:13"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "네? 진짜요? 왜요?",
+   "rd": "ne? jinjjayo? waeyo?",
+   "en": "Sorry? Really? Why?",
+   "note": "Kick setup",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "09:13"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "지난달에 보일러 고쳐 줬잖아요.",
+   "rd": "jinandare boilleo gochyeo jwotjanayo.",
+   "en": "You fixed the boiler last month.",
+   "note": "callback 보일러",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "09:14"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "아… 버튼 하나 눌렀는데요?",
+   "rd": "a… beoteun hana nulleonneundeyo?",
+   "en": "Oh… I only pressed one button.",
+   "note": "버튼 = button",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "09:15"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "그 버튼 3년 동안 아무도 몰랐어요. 돌려줄게요.",
+   "rd": "geu beoteun 3nyeon dongan amudo mollasseoyo. dollyeojulgeyo.",
+   "en": "Nobody knew about that button for three years. I'll send it back.",
+   "note": "돌려주다 = give back",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "09:15"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "감사합니다! 다음엔 다른 것도 고칠게요.",
+   "rd": "gamsahamnida! daeumen dareun geotdo gochilgeyo.",
+   "en": "Thank you! Next time I'll fix other things too.",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "09:16"
+  }
+ ]
+}

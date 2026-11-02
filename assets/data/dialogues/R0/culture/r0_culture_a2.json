@@ -1,0 +1,113 @@
+{
+ "id": "r0_culture_a2",
+ "region": "R0",
+ "island": "culture",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "손하트",
+ "emoji": "🫰",
+ "scene": "콘서트장 앞. 서아가 손가락으로 하트를 만들라고 한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "slip",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "이렇게?",
+  "귀여워",
+  "진짜?"
+ ],
+ "goal": "The finger heart",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "손하트 해 봐!",
+   "rd": "sonhateu hae bwa!",
+   "en": "Do a finger heart!",
+   "note": "손하트 = finger heart",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "손하트? 이렇게?",
+   "rd": "sonhateu? ireoke?",
+   "en": "Finger heart? Like this?",
+   "note": "이렇게 = like this",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "아니, 그건 큰 하트. 손가락으로.",
+   "rd": "ani, geugeon keun hateu. songarageuro.",
+   "en": "No, that's a big heart. With your fingers.",
+   "note": "손가락 = finger",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "…이렇게? 손가락 아파.",
+   "rd": "…ireoke? songarak apa.",
+   "en": "…Like this? My fingers hurt.",
+   "note": "Kick: awkward fingers",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "ㅋㅋ 엄지랑 검지만!",
+   "rd": "ㅋㅋ eomjirang geomjiman!",
+   "en": "Lol just your thumb and index finger!",
+   "note": "엄지·검지 = thumb·index",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "아, 이거? 돈 같은데?",
+   "rd": "a, igeo? don gateunde?",
+   "en": "Oh, this? Looks like money?",
+   "note": "money gesture",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "ㅋㅋㅋ 비슷해. 근데 하트야.",
+   "rd": "ㅋㅋㅋ biseuthae. geunde hateuya.",
+   "en": "Lolol close. But it's a heart.",
+   "note": "비슷하다 = similar",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "그럼 하트로 티켓 살게.",
+   "rd": "geureom hateuro tiket salge.",
+   "en": "Then I'll buy tickets with hearts.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

@@ -117,5 +117,6 @@
   "grok_rewrite": "data/review/r0_love_a1_grok_rewrite.md [K011]",
   "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정(6턴 「너」 뺌)"
  },
- "learner_gender": "M"
+ "learner_gender": "M",
+ "twist_type": "emotion"
 }

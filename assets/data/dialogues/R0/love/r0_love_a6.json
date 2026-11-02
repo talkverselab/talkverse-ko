@@ -1,0 +1,116 @@
+{
+ "id": "r0_love_a6",
+ "region": "R0",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "귀여워요",
+ "emoji": "😊",
+ "scene": "편의점 계산대. 아르바이트생 지안이 학습자 가방 고리를 보고 웃는다",
+ "speakers": {
+  "A": "{name}",
+  "B": "지안"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "귀여워",
+  "진짜요?",
+  "감사합니다"
+ ],
+ "goal": "Accepting a compliment",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "어? 그거 귀여워요.",
+   "rd": "eo? geugeo gwiyeowoyo.",
+   "en": "Oh? That's cute.",
+   "note": "귀여워요 = (it's) cute",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "이거요? 가방 고리요?",
+   "rd": "igeoyo? gabang goriyo?",
+   "en": "This? My bag charm?",
+   "note": "고리 = keychain/charm",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "아니요… 웃는 거요.",
+   "rd": "aniyo… unneun geoyo.",
+   "en": "No… your smile.",
+   "note": "Kick: the compliment is for him",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "…네?",
+   "rd": "…ne?",
+   "en": "…Sorry?",
+   "note": "surprise",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "아, 아니에요! 봉투 필요하세요?",
+   "rd": "a, anieyo! bongtu piryohaseyo?",
+   "en": "Ah, never mind! Do you need a bag?",
+   "note": "quick cover",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "네… 아니, 괜찮아요.",
+   "rd": "ne… ani, gwaenchanayo.",
+   "en": "Yes… no, it's fine.",
+   "note": "flustered",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "영수증에 번호 써 드릴까요?",
+   "rd": "yeongsujeunge beonho sseo deurilkkayo?",
+   "en": "Shall I write my number on the receipt?",
+   "note": "영수증 = receipt",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…네! 감사합니다!",
+   "rd": "…ne! gamsahamnida!",
+   "en": "…Yes! Thank you!",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

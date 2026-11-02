@@ -162,5 +162,6 @@
  "review": {
   "grok_rewrite": "data/review/r2_friends_b1_grok_rewrite.md [K057]",
   "final": ""
- }
+ },
+ "twist_type": "chaos"
 }

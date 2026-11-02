@@ -174,5 +174,6 @@
  "review": {
   "grok_rewrite": "data/review/r2_study_b1_grok_rewrite.md [K059]",
   "final": ""
- }
+ },
+ "twist_type": "chaos"
 }

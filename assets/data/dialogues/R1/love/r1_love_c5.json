@@ -1,0 +1,133 @@
+{
+ "id": "r1_love_c5",
+ "region": "R1",
+ "island": "love",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "잘 자 대신",
+ "emoji": "🌙",
+ "scene": "썸 타는 중. 밤 12시, 하늘이 「잘 자」 대신 다른 걸 보낸다",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘"
+ },
+ "register": "chat",
+ "twist": 5,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "진짜?",
+  "잘 자",
+  "설렌다"
+ ],
+ "goal": "Late-night texting — when \"good night\" isn't enough",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "뭐 해?",
+   "rd": "mwo hae?",
+   "en": "What are you doing?",
+   "note": "뭐 해?",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:58"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "이제 자려고. 너는?",
+   "rd": "ije jaryeogo. neoneun?",
+   "en": "About to sleep. You?",
+   "note": "-려고 = about to",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:59"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "나도. 근데 잠이 안 와.",
+   "rd": "nado. geunde jami an wa.",
+   "en": "Me too. But I can't sleep.",
+   "note": "잠이 안 오다 = can't fall asleep",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:59"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "왜? 무슨 일 있어?",
+   "rd": "wae? museun il isseo?",
+   "en": "Why? Something wrong?",
+   "note": "무슨 일 = what's up",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:00"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "그냥… 너 생각나서.",
+   "rd": "geunyang… neo saenggangnaseo.",
+   "en": "Just… I keep thinking of you.",
+   "note": "생각나다 = come to mind — the confession",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:00"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…진짜?",
+   "rd": "…jinjja?",
+   "en": "…Really?",
+   "note": "진짜?",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:02"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "ㅋㅋ 2분 동안 뭐 했어?",
+   "rd": "ㅋㅋ 2bun dongan mwo haesseo?",
+   "en": "Lol what were you doing for two minutes?",
+   "note": "teasing the delay",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:02"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "설레서 폰 떨어뜨렸어. 잘 자, 하늘아.",
+   "rd": "seolleseo pon tteoreotteuryeosseo. jal ja, haneura.",
+   "en": "My heart fluttered and I dropped my phone. Good night, Haneul.",
+   "note": "설레다 = flutter",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:03"
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

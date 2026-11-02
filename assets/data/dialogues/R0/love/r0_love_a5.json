@@ -118,5 +118,6 @@
   "grok_rewrite": "data/review/r0_love_a5_grok_rewrite.md [K071]",
   "final": ""
  },
- "learner_gender": "F"
+ "learner_gender": "F",
+ "twist_type": "emotion"
 }

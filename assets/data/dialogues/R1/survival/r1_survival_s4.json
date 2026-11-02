@@ -1,0 +1,116 @@
+{
+ "id": "r1_survival_s4",
+ "region": "R1",
+ "island": "survival",
+ "kind": "survival",
+ "draft": true,
+ "purpose": [
+  "survival"
+ ],
+ "domain": [
+  "survival"
+ ],
+ "title": "길 좀 물을게요",
+ "emoji": "🗺️",
+ "scene": "종로. 길을 물었더니 어르신 셋이 서로 다른 길을 알려 준다",
+ "speakers": {
+  "A": "{name}",
+  "B": "할아버지",
+  "C": "할머니",
+  "D": "아저씨"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "저기요",
+  "감사합니다",
+  "잘 모르겠어요",
+  "다시 한 번 말해 주세요"
+ ],
+ "goal": "Asking directions — and getting three answers",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "저기요, 광장시장 어떻게 가요?",
+   "rd": "jeogiyo, gwangjangsijang eotteoke gayo?",
+   "en": "Excuse me, how do I get to Gwangjang Market?",
+   "note": "어떻게 가요? = how do I get to",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "저쪽으로 쭉 가요. 10분.",
+   "rd": "jeojjogeuro jjuk gayo. 10bun.",
+   "en": "Go straight that way. Ten minutes.",
+   "note": "쭉 = straight",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "아니야, 지하철 타요. 한 정거장.",
+   "rd": "aniya, jihacheol tayo. han jeonggeojang.",
+   "en": "No, take the subway. One stop.",
+   "note": "정거장 = stop",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "D",
+   "ko": "무슨 소리야, 버스가 빨라.",
+   "rd": "museun soriya, beoseuga ppalla.",
+   "en": "What are you talking about, the bus is faster.",
+   "note": "빠르다 = fast",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "버스는 막혀! 걸어가!",
+   "rd": "beoseuneun makyeo! georeoga!",
+   "en": "The bus gets stuck in traffic! Walk!",
+   "note": "Kick: they argue — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "저… 잘 모르겠어요. 다시 한 번 말해 주세요.",
+   "rd": "jeo… jal moreugesseoyo. dasi han beon malhae juseyo.",
+   "en": "Um… I'm not sure. Please say it again.",
+   "note": "다시 한 번",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "에이, 그냥 우리가 데려다줄게.",
+   "rd": "ei, geunyang uriga deryeodajulge.",
+   "en": "Oh come on, we'll just take you there.",
+   "note": "데려다주다 = take someone to",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…세 분 다요? 감사합니다!",
+   "rd": "…se bun dayo? gamsahamnida!",
+   "en": "…All three of you? Thank you!",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

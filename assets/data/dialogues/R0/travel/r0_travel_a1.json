@@ -116,5 +116,6 @@
  "review": {
   "grok_rewrite": "data/review/r0_travel_a1_grok_rewrite.md [K044]",
   "final": ""
- }
+ },
+ "twist_type": "slip"
 }

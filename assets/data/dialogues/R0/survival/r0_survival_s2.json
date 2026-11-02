@@ -1,0 +1,114 @@
+{
+ "id": "r0_survival_s2",
+ "region": "R0",
+ "island": "survival",
+ "kind": "survival",
+ "draft": true,
+ "purpose": [
+  "survival"
+ ],
+ "domain": [
+  "survival"
+ ],
+ "title": "키오스크",
+ "emoji": "🍔",
+ "scene": "햄버거 가게 키오스크. 화면이 전부 빠르게 바뀐다",
+ "speakers": {
+  "A": "{name}",
+  "B": "키오스크",
+  "C": "직원"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "잠깐만요",
+  "저기요",
+  "감사합니다"
+ ],
+ "goal": "Ordering at a kiosk",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "(화면) 메뉴를 고르세요.",
+   "rd": "(hwamyeon) menyureul goreuseyo.",
+   "en": "(screen) Choose a menu.",
+   "note": "고르다 = choose",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "이거. 불고기 버거.",
+   "rd": "igeo. bulgogi beogeo.",
+   "en": "This one. Bulgogi burger.",
+   "note": "이거 = this",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "(화면) 세트로 할까요?",
+   "rd": "(hwamyeon) seteuro halkkayo?",
+   "en": "(screen) Make it a set?",
+   "note": "세트 = combo",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "네. 네. 네…",
+   "rd": "ne. ne. ne…",
+   "en": "Yes. Yes. Yes…",
+   "note": "he keeps tapping",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "(화면) 버거 6개, 결제할까요?",
+   "rd": "(hwamyeon) beogeo 6gae, gyeoljehalkkayo?",
+   "en": "(screen) 6 burgers, pay now?",
+   "note": "Kick: six burgers — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "잠깐만요! 저기요!",
+   "rd": "jamkkanmanyo! jeogiyo!",
+   "en": "Wait! Excuse me!",
+   "note": "저기요 = excuse me",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "ㅋㅋ 취소해 드릴게요.",
+   "rd": "ㅋㅋ chwisohae deurilgeyo.",
+   "en": "Haha, I'll cancel it for you.",
+   "note": "취소 = cancel",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "감사합니다… 하나만요.",
+   "rd": "gamsahamnida… hanamanyo.",
+   "en": "Thank you… just one.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "id": "r1_friends_a3",
+ "region": "R1",
+ "island": "friends",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "셀카 한 장",
+ "emoji": "🤳",
+ "scene": "한강 공원. 서아랑 셀카 한 장만 찍으려는데 자꾸 누가 들어온다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준",
+  "D": "지나가던 사람"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "하나 둘 셋",
+  "헐",
+  "잠깐만",
+  "진짜?"
+ ],
+ "goal": "Selfie culture — and how one photo becomes a crowd",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "셀카 한 장만! 하나, 둘…",
+   "rd": "selka han jangman! hana, dul…",
+   "en": "Just one selfie! One, two…",
+   "note": "셀카 = selfie",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "C",
+   "ko": "잠깐만, 나도!",
+   "rd": "jamkkanman, nado!",
+   "en": "Wait, me too!",
+   "note": "나도 = me too",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "D",
+   "ko": "어? 나도 낄래!",
+   "rd": "eo? nado kkillae!",
+   "en": "Huh? I'm joining!",
+   "note": "끼다 = squeeze in",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "잠깐… 강아지도 들어왔는데?",
+   "rd": "jamkkan… gangajido deureowanneunde?",
+   "en": "Wait… a dog came in too?",
+   "note": "Kick: strangers and a dog — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "ㅋㅋ 누구 강아지야? 아 몰라, 그냥 찍어!",
+   "rd": "ㅋㅋ nugu gangajiya? a molla, geunyang jjigeo!",
+   "en": "Lol whose dog is this? Whatever, just shoot!",
+   "note": "아 몰라 = whatever",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "하나, 둘, 셋! …몇 명이야, 이거?",
+   "rd": "hana, dul, set! …myeot myeongiya, igeo?",
+   "en": "One, two, three! …How many people is this?",
+   "note": "몇 명 = how many people",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "여덟 명이랑 강아지 한 마리.",
+   "rd": "yeodeol myeongirang gangaji han mari.",
+   "en": "Eight people and one dog.",
+   "note": "마리 = counter for animals",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "셀카가 아니라 단체 사진이네.",
+   "rd": "selkaga anira danche sajinine.",
+   "en": "That's not a selfie, that's a group photo.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

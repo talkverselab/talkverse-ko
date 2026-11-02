@@ -1,0 +1,117 @@
+{
+ "id": "r0_love_a8",
+ "region": "R0",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "커피 쾅",
+ "emoji": "☕",
+ "scene": "카페 입구. 드라마처럼 부딪혀 커피를 쏟는다 — 그리고 또",
+ "speakers": {
+  "A": "{name}",
+  "B": "지안",
+  "C": "손님"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "카페에서 부딪혀 커피 쏟는 첫 만남",
+ "expressions": [
+  "죄송합니다",
+  "괜찮아요",
+  "헐"
+ ],
+ "goal": "The coffee-spill meet-cute, gone wrong",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "앗! 죄송합니다!",
+   "rd": "at! joesonghamnida!",
+   "en": "Oops! I'm so sorry!",
+   "note": "죄송합니다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "괜찮아요. 드라마 같네요.",
+   "rd": "gwaenchanayo. deurama ganneyo.",
+   "en": "It's okay. Like a drama.",
+   "note": "드라마 같다 = like a drama",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "제가 닦아 드릴게요.",
+   "rd": "jega dakka deurilgeyo.",
+   "en": "Let me wipe it for you.",
+   "note": "닦다 = wipe",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "아, 잠깐만…",
+   "rd": "a, jamkkanman…",
+   "en": "Ah, wait…",
+   "note": "warning",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "(쾅) …또 쏟았어요.",
+   "rd": "(kwang) …tto ssodasseoyo.",
+   "en": "(bump) …I spilled it again.",
+   "note": "Kick: chaos begins",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "(쾅) 어머, 죄송해요!",
+   "rd": "(kwang) eomeo, joesonghaeyo!",
+   "en": "(bump) Oh my, I'm sorry!",
+   "note": "a third person",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "헐… 이제 셋 다 커피예요.",
+   "rd": "heol… ije set da keopiyeyo.",
+   "en": "Whoa… now all three of us are covered in coffee.",
+   "note": "셋 다 = all three",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…커피 사 드릴게요. 세 잔.",
+   "rd": "…keopi sa deurilgeyo. se jan.",
+   "en": "…I'll buy coffee. Three cups.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

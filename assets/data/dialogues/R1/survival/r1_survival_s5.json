@@ -1,0 +1,114 @@
+{
+ "id": "r1_survival_s5",
+ "region": "R1",
+ "island": "survival",
+ "kind": "survival",
+ "draft": true,
+ "purpose": [
+  "survival"
+ ],
+ "domain": [
+  "survival"
+ ],
+ "title": "조금만 맵게",
+ "emoji": "🍲",
+ "scene": "순두부찌개집. 맵기를 고른다",
+ "speakers": {
+  "A": "{name}",
+  "B": "사장님"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "slip",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "조금만",
+  "괜찮아요",
+  "진짜요?",
+  "물 주세요"
+ ],
+ "goal": "Choosing spice levels",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "맵기 어떻게 해 드릴까요? 1단계부터 5단계.",
+   "rd": "maepgi eotteoke hae deurilkkayo? 1dangyebuteo 5dangye.",
+   "en": "How spicy? Level 1 to 5.",
+   "note": "단계 = level",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "조금만 맵게요. 3단계요.",
+   "rd": "jogeumman maepgeyo. 3dangyeyo.",
+   "en": "Just a little spicy. Level 3.",
+   "note": "조금만 = just a little",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "3단계요? 진짜 괜찮으세요?",
+   "rd": "3dangyeyo? jinjja gwaenchaneuseyo?",
+   "en": "Level 3? Are you really okay with that?",
+   "note": "warning",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "네! 저 매운 거 잘 먹어요.",
+   "rd": "ne! jeo maeun geo jal meogeoyo.",
+   "en": "Yes! I handle spicy food well.",
+   "note": "잘 먹다 = eat well",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "(5분 뒤) 3단계 나왔습니다.",
+   "rd": "(5bun dwi) 3dangye nawatseumnida.",
+   "en": "(5 min later) Level 3 is here.",
+   "note": "served",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…물 주세요. 물 많이요.",
+   "rd": "…mul juseyo. mul maniyo.",
+   "en": "…Water please. Lots of water.",
+   "note": "Kick: too spicy",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "ㅋㅋ 한국 3단계는 다른 나라 10단계예요.",
+   "rd": "ㅋㅋ hanguk 3dangyeneun dareun nara 10dangyeyeyo.",
+   "en": "Haha, Korean level 3 is level 10 elsewhere.",
+   "note": "다른 나라 = other countries",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "다음엔 1단계요. 아니, 0단계요.",
+   "rd": "daeumen 1dangyeyo. ani, 0dangyeyo.",
+   "en": "Next time level 1. No, level 0.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

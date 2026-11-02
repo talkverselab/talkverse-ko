@@ -133,5 +133,6 @@
  "review": {
   "grok_rewrite": "data/review/r1_life_c1_grok_rewrite.md [K087]",
   "final": ""
- }
+ },
+ "twist_type": "reveal"
 }

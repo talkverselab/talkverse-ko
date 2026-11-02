@@ -9,6 +9,9 @@ LEN = {'R0': '1문장, 2~5어절', 'R1': '1~2문장', 'R2': '1~2문장', 'R3': '
 roles = ', '.join(f"{k} = {'학습자(외국인, 이름 {name})' if v == '{name}' else v}" for k, v in e['speakers'].items())
 kd = (f"K-드라마 장치: 이 편은 K-드라마를 본 사람이면 웃음이 터지는 **뻔하디 뻔한 장면**({e['kdrama']})을 일부러 쓴다 — 그 클리셰를 알아보게, 그리고 코믹하게 비틀 것."
       if e.get('kdrama') else '이 편은 **일상 장면**이다 — 드라마 클리셰를 넣지 말고 진짜 생활 대화로.')
+TT = {'chaos': '반전 유형 = **카오스**: 일이 걷잡을 수 없이 커지는 장면이다. 끝으로 갈수록 상황이 더 꼬이고 사람·물건이 늘어나게 — 이 카오스를 줄이지 말고 더 세게.',
+      'emotion': '반전 유형 = **심쿵**: 상대가 마음을 들키는 한 줄(말끝 흐리기·여운)이 핵심이다. 그 설렘을 살리고, 설명하지 말 것.'}
+kd = kd + ('\n' + TT[e['twist_type']] if e.get('twist_type') in TT else '')
 lines = '\n'.join(f"{t['num']} {t['speaker']}: {t['ko']} / {t['en']}" for t in e['turns'])
 print(tpl.replace('{code}', sys.argv[2]).replace('{roles}', roles).replace('{scene}', e['scene']).replace('{register}', e['register'])
       .replace('{level}', LEVEL[e['region']]).replace('{kdrama}', kd).replace('{n}', str(len(e['turns']))).replace('{{name}}', '{name}')

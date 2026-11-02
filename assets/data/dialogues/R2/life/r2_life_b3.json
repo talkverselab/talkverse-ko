@@ -1,0 +1,155 @@
+{
+ "id": "r2_life_b3",
+ "region": "R2",
+ "island": "life",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "이삿날",
+ "emoji": "📦",
+ "scene": "이삿날. 엘리베이터는 점검 중, 비는 오고, 짜장면은 벌써 도착",
+ "speakers": {
+  "A": "{name}",
+  "B": "도윤",
+  "C": "배달 기사님"
+ },
+ "register": "casual",
+ "twist": 7,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "잠깐만",
+  "진짜?",
+  "아 몰라"
+ ],
+ "goal": "Moving day in Korea (and why everyone eats jajangmyeon)",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "짐 다 올렸어? 엘리베이터 타.",
+   "rd": "jim da ollyeosseo? ellibeiteo ta.",
+   "en": "Got all the boxes up? Take the elevator.",
+   "note": "짐 = luggage / stuff",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "엘리베이터 점검 중이래. 오늘 하루 종일.",
+   "rd": "ellibeiteo jeomgeom jungirae. oneul haru jongil.",
+   "en": "The elevator is under inspection. All day.",
+   "note": "점검 = inspection",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "헐… 우리 15층인데?",
+   "rd": "heol… uri 15cheunginde?",
+   "en": "Whoa… we're on the 15th floor?",
+   "note": "층 = floor",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "그럼 사다리차 부르자.",
+   "rd": "geureom sadaricha bureuja.",
+   "en": "Then let's call a ladder truck.",
+   "note": "사다리차 = moving ladder truck",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "잠깐만, 비 오기 시작했어.",
+   "rd": "jamkkanman, bi ogi sijakaesseo.",
+   "en": "Wait, it started raining.",
+   "note": "비 오다 = rain",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "(전화) 짜장면 두 개 왔습니다! 몇 층이에요?",
+   "rd": "(jeonhwa) jjajangmyeon du gae watseumnida! myeot cheungieyo?",
+   "en": "(phone) Two jajangmyeon here! Which floor?",
+   "note": "이삿날 짜장면 = moving-day noodles",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "15층이요… 계단으로요.",
+   "rd": "15cheungiyo… gyedaneuroyo.",
+   "en": "15th floor… by the stairs.",
+   "note": "Kick: everything at once — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "C",
+   "ko": "…네? 계단이요?",
+   "rd": "…ne? gyedaniyo?",
+   "en": "…Sorry? The stairs?",
+   "note": "echo",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "아 몰라. 우리가 내려갈게요!",
+   "rd": "a molla. uriga naeryeogalgeyo!",
+   "en": "Ugh, whatever. We'll come down!",
+   "note": "내려가다 = go down",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "(1층) 짜장면은 왔는데 짐은 아직 1층이야.",
+   "rd": "(1cheung) jjajangmyeoneun wanneunde jimeun ajik 1cheungiya.",
+   "en": "(ground floor) The noodles are here, but our stuff is still on the ground floor.",
+   "note": "아직 = still",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "그냥 여기서 먹자. 박스 위에서.",
+   "rd": "geunyang yeogiseo meokja. bakseu wieseo.",
+   "en": "Let's just eat here. On the boxes.",
+   "note": "박스 = box",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "이게 한국식 이사야?",
+   "rd": "ige hanguksik isaya?",
+   "en": "Is this Korean-style moving?",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "id": "r1_love_a7",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "밥 한번 먹어요",
+ "emoji": "🍚",
+ "scene": "같은 어학당 수업 끝. 하늘이 「언제 밥 한번 먹어요」라고 한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "slip",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜요?",
+  "좋아요",
+  "그럼"
+ ],
+ "goal": "\"Let's grab a meal sometime\" — polite phrase or real invite?",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "{name} 씨, 언제 밥 한번 먹어요.",
+   "rd": "{name} ssi, eonje bap hanbeon meogeoyo.",
+   "en": "{name}, let's grab a meal sometime.",
+   "note": "밥 한번 먹어요 = let's eat sometime (often just polite)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "좋아요! 언제요?",
+   "rd": "joayo! eonjeyo?",
+   "en": "Sure! When?",
+   "note": "언제 = when",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "어… 언제…?",
+   "rd": "eo… eonje…?",
+   "en": "Uh… when…?",
+   "note": "Kick setup: it was a set phrase",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "한국 사람은 이거 그냥 인사라고 들었어요.",
+   "rd": "hanguk sarameun igeo geunyang insarago deureosseoyo.",
+   "en": "I heard Koreans say this just to be polite.",
+   "note": "인사 = greeting",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "보통은요. 근데 저는 진짜예요.",
+   "rd": "botongeunyo. geunde jeoneun jinjjayeyo.",
+   "en": "Usually. But I mean it.",
+   "note": "Kick: she means it",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "진짜요? 그럼 내일요?",
+   "rd": "jinjjayo? geureom naeiryo?",
+   "en": "Really? Then tomorrow?",
+   "note": "내일 = tomorrow",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "내일 말고 오늘요. 지금요.",
+   "rd": "naeil malgo oneuryo. jigeumyo.",
+   "en": "Not tomorrow. Today. Now.",
+   "note": "지금 = now",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…배고팠어요?",
+   "rd": "…baegopasseoyo?",
+   "en": "…Were you hungry?",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

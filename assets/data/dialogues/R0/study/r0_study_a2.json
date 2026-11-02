@@ -1,0 +1,113 @@
+{
+ "id": "r0_study_a2",
+ "region": "R0",
+ "island": "study",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "study"
+ ],
+ "domain": [
+  "study"
+ ],
+ "title": "온라인 발표",
+ "emoji": "💻",
+ "scene": "줌 수업 발표 시간. 학습자 차례",
+ "speakers": {
+  "A": "{name}",
+  "B": "선생님"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "잠깐만요",
+  "죄송합니다",
+  "네"
+ ],
+ "goal": "An online presentation that goes wrong",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "{name} 씨, 발표하세요.",
+   "rd": "{name} ssi, balpyohaseyo.",
+   "en": "{name}, please present.",
+   "note": "발표 = presentation",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네! 안녕하세요…",
+   "rd": "ne! annyeonghaseyo…",
+   "en": "Yes! Hello…",
+   "note": "start",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "소리가 안 들려요.",
+   "rd": "soriga an deullyeoyo.",
+   "en": "We can't hear you.",
+   "note": "안 들려요 = can't hear",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "이제 들려요? (야옹)",
+   "rd": "ije deullyeoyo? (yaong)",
+   "en": "Can you hear me now? (meow)",
+   "note": "Kick: the cat — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "고양이만 들려요.",
+   "rd": "goyangiman deullyeoyo.",
+   "en": "We only hear the cat.",
+   "note": "-만 = only",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "잠깐만요! 고양이가 키보드에…",
+   "rd": "jamkkanmanyo! goyangiga kibodeue…",
+   "en": "Wait! The cat's on the keyboard…",
+   "note": "키보드 = keyboard",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "ㅋㅋ 화면도 꺼졌어요.",
+   "rd": "ㅋㅋ hwamyeondo kkeojyeosseoyo.",
+   "en": "Haha, the screen went off too.",
+   "note": "꺼지다 = turn off",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "죄송합니다… 고양이가 발표했어요.",
+   "rd": "joesonghamnida… goyangiga balpyohaesseoyo.",
+   "en": "Sorry… the cat presented.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

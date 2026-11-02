@@ -1,0 +1,156 @@
+{
+ "id": "r2_travel_b3",
+ "region": "R2",
+ "island": "travel",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "travel"
+ ],
+ "domain": [
+  "travel"
+ ],
+ "title": "캠핑",
+ "emoji": "⛺",
+ "scene": "가평 캠핑장. 고기를 굽는데 비가 오고, 불이 꺼지고, 옆 텐트 아저씨들이 다가온다",
+ "speakers": {
+  "A": "{name}",
+  "B": "민준",
+  "C": "옆 텐트 아저씨",
+  "D": "옆 텐트 아주머니"
+ },
+ "register": "casual",
+ "twist": 8,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "헐",
+  "그니까",
+  "잠깐만"
+ ],
+ "goal": "Camping in Korea — and how strangers become a party",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "고기 다 익었다! 먹자.",
+   "rd": "gogi da igeotda! meokja.",
+   "en": "The meat's done! Let's eat.",
+   "note": "익다 = be cooked",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "잠깐만, 빗방울…?",
+   "rd": "jamkkanman, bitbangul…?",
+   "en": "Wait, raindrops…?",
+   "note": "빗방울 = raindrop",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "헐, 소나기야! 불 꺼진다!",
+   "rd": "heol, sonagiya! bul kkeojinda!",
+   "en": "Whoa, a downpour! The fire's going out!",
+   "note": "소나기 = sudden shower",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "빨리 타프 밑으로!",
+   "rd": "ppalli tapeu miteuro!",
+   "en": "Quick, under the tarp!",
+   "note": "타프 = tarp",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "학생들! 이쪽으로 와요. 우리 텐트 커요.",
+   "rd": "haksaengdeul! ijjogeuro wayo. uri tenteu keoyo.",
+   "en": "Kids! Come over here. Our tent's big.",
+   "note": "이쪽 = this way",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "진짜요? 감사합니다!",
+   "rd": "jinjjayo? gamsahamnida!",
+   "en": "Really? Thank you!",
+   "note": "감사합니다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "고기 가져와요. 우리 김치찌개 있어.",
+   "rd": "gogi gajyeowayo. uri gimchijjigae isseo.",
+   "en": "Bring the meat. We've got kimchi stew.",
+   "note": "김치찌개 = kimchi stew",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "(10분 뒤) …텐트에 열 명이야.",
+   "rd": "(10bun dwi) …tenteue yeol myeongiya.",
+   "en": "(10 min later) …There are ten people in the tent.",
+   "note": "Kick: party grows — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "D",
+   "ko": "여기 라면도 있어요! 노래도 할까요?",
+   "rd": "yeogi ramyeondo isseoyo! noraedo halkkayo?",
+   "en": "We've got ramyeon too! Shall we sing?",
+   "note": "노래 = song",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "그니까… 우리 캠핑 온 거 맞지?",
+   "rd": "geunikka… uri kaemping on geo matji?",
+   "en": "So… we did come camping, right?",
+   "note": "맞지? = right?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "응. 이게 한국 캠핑이야.",
+   "rd": "eung. ige hanguk kaempingiya.",
+   "en": "Yep. This is Korean camping.",
+   "note": "이게 = this",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "비 와서 더 재밌네.",
+   "rd": "bi waseo deo jaeminne.",
+   "en": "It's more fun because it rained.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

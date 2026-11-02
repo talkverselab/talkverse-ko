@@ -1,0 +1,197 @@
+{
+ "id": "r3_love_b5",
+ "region": "R3",
+ "island": "love",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "깜짝 파티",
+ "emoji": "🎂",
+ "scene": "유진 생일. 몰래 파티를 준비하는데 유진이 한 시간 일찍 도착한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진",
+  "C": "민준"
+ },
+ "register": "casual",
+ "twist": 6,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "잠깐만",
+  "진짜?",
+  "아 몰라",
+  "그니까"
+ ],
+ "goal": "A surprise party where everything goes wrong",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "(속삭이며) 민준아, 풍선 빨리! 유진이 7시에 와.",
+   "rd": "(soksagimyeo) minjuna, pungseon ppalli! yujini 7sie wa.",
+   "en": "(whispering) Minjun, the balloons, quick! Yujin comes at 7.",
+   "note": "풍선 = balloon",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "C",
+   "ko": "지금 6시야. 케이크는 냉장고에 있어.",
+   "rd": "jigeum 6siya. keikeuneun naengjanggoe isseo.",
+   "en": "It's 6 now. The cake's in the fridge.",
+   "note": "냉장고 = fridge",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "좋아. 불 끄고 숨어 있으면 돼.",
+   "rd": "joa. bul kkeugo sumeo isseumyeon dwae.",
+   "en": "Good. We just turn off the lights and hide.",
+   "note": "숨다 = hide",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "(문 열리며) 나 왔어~ 일찍 끝났어!",
+   "rd": "(mun yeollimyeo) na wasseo~ iljjik kkeunnasseo!",
+   "en": "(door opens) I'm here~ I got off early!",
+   "note": "일찍 = early",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "헐… 잠깐만! 들어오지 마!",
+   "rd": "heol… jamkkanman! deureooji ma!",
+   "en": "Whoa… wait! Don't come in!",
+   "note": "들어오다 = come in",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "왜? 무슨 소리야? (펑!)",
+   "rd": "wae? museun soriya? (peong!)",
+   "en": "Why? What's that sound? (pop!)",
+   "note": "Kick: balloon pops — chaos begins",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "아, 풍선 터졌다! 케이크, 케이크!",
+   "rd": "a, pungseon teojyeotda! keikeu, keikeu!",
+   "en": "Ah, a balloon popped! The cake, the cake!",
+   "note": "터지다 = burst",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "(쿵) …케이크 떨어졌어.",
+   "rd": "(kung) …keikeu tteoreojyeosseo.",
+   "en": "(thud) …The cake fell.",
+   "note": "떨어지다 = fall",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "…설마 이거 다 나 때문에?",
+   "rd": "…seolma igeo da na ttaemune?",
+   "en": "…Don't tell me this is all for me?",
+   "note": "설마 = don't tell me",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "아 몰라… 서프라이즈였는데 다 망했어.",
+   "rd": "a molla… seopeuraijeuyeonneunde da manghaesseo.",
+   "en": "Ugh… it was a surprise and it's all ruined.",
+   "note": "망하다 = be ruined",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "망하긴. 케이크 위에 크림만 좀 찌그러졌네.",
+   "rd": "manghagin. keikeu wie keurimman jom jjigeureojyeonne.",
+   "en": "Ruined? Just a little cream got squashed.",
+   "note": "찌그러지다 = be dented",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "C",
+   "ko": "촛불은 살아 있어! 빨리 노래!",
+   "rd": "chotbureun sara isseo! ppalli norae!",
+   "en": "The candles survived! Quick, the song!",
+   "note": "촛불 = candle",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 13,
+   "speaker": "A",
+   "ko": "생일 축하합니다… 망한 파티지만…",
+   "rd": "saengil chukahamnida… manghan patijiman…",
+   "en": "Happy birthday to you… even though the party's a mess…",
+   "note": "sung",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 14,
+   "speaker": "B",
+   "ko": "그니까. 근데 제일 좋은 생일이야.",
+   "rd": "geunikka. geunde jeil joeun saengiriya.",
+   "en": "Right. But it's my best birthday.",
+   "note": "제일 = the best",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 15,
+   "speaker": "A",
+   "ko": "진짜? 바닥에 케이크 있는데?",
+   "rd": "jinjja? badage keikeu inneunde?",
+   "en": "Really? There's cake on the floor.",
+   "note": "바닥 = floor",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 16,
+   "speaker": "B",
+   "ko": "응. 그래서 기억에 남을 거야.",
+   "rd": "eung. geuraeseo gieoge nameul geoya.",
+   "en": "Yep. That's why I'll remember it.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "M"
+}

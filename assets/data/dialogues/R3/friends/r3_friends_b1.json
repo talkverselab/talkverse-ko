@@ -202,5 +202,6 @@
  "review": {
   "grok_rewrite": "data/review/r3_friends_b1_grok_rewrite.md [K063]",
   "final": ""
- }
+ },
+ "twist_type": "reveal"
 }

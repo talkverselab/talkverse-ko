@@ -159,5 +159,6 @@
  "review": {
   "grok_rewrite": "data/review/r2_life_b2_grok_rewrite.md [K088]",
   "final": ""
- }
+ },
+ "twist_type": "slip"
 }

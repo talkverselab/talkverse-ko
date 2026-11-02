@@ -116,5 +116,6 @@
  "review": {
   "grok_rewrite": "data/review/r0_friends_a1_grok_rewrite.md [K042]",
   "final": ""
- }
+ },
+ "twist_type": "slip"
 }

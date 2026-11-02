@@ -1,0 +1,116 @@
+{
+ "id": "r1_study_a3",
+ "region": "R1",
+ "island": "study",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "study"
+ ],
+ "domain": [
+  "study"
+ ],
+ "title": "도서관 쪽지",
+ "emoji": "📝",
+ "scene": "도서관. 화장실 다녀오니 책 위에 쪽지가 있다",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜요?",
+  "좋아요",
+  "감사합니다"
+ ],
+ "goal": "A note left on your desk",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "(쪽지) 「같이 공부할래요? 옆자리」…",
+   "rd": "(jjokji) 「gachi gongbuhallaeyo? yeopjari」…",
+   "en": "(note) \"Want to study together? — the seat next to you\"…",
+   "note": "쪽지 = note",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "(작게) 그거 제가 썼어요.",
+   "rd": "(jakge) geugeo jega sseosseoyo.",
+   "en": "(quietly) I wrote that.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "진짜요? 왜요?",
+   "rd": "jinjjayo? waeyo?",
+   "en": "Really? Why?",
+   "note": "왜요?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "매일 같은 시간에 오시길래요.",
+   "rd": "maeil gateun sigane osigillaeyo.",
+   "en": "Because you come at the same time every day.",
+   "note": "-길래 = since (I noticed)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "저 공부 잘 못해요.",
+   "rd": "jeo gongbu jal mothaeyo.",
+   "en": "I'm not good at studying.",
+   "note": "잘 못하다 = not good at",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "괜찮아요. 저도 공부하러 오는 거 아니에요.",
+   "rd": "gwaenchanayo. jeodo gongbuhareo oneun geo anieyo.",
+   "en": "That's okay. I don't really come here to study either.",
+   "note": "심쿵: the real reason",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "…그럼 뭐 하러 와요?",
+   "rd": "…geureom mwo hareo wayo?",
+   "en": "…Then why do you come?",
+   "note": "뭐 하러 = for what",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "쪽지 쓰러요.",
+   "rd": "jjokji sseureoyo.",
+   "en": "To write notes.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

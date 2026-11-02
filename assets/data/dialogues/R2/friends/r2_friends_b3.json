@@ -1,0 +1,154 @@
+{
+ "id": "r2_friends_b3",
+ "region": "R2",
+ "island": "friends",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "군대 간대",
+ "emoji": "🪖",
+ "scene": "민준이 다음 달 군대에 간다. 마지막 치킨집",
+ "speakers": {
+  "A": "{name}",
+  "B": "민준"
+ },
+ "register": "casual",
+ "twist": 8,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "그니까",
+  "헐",
+  "괜찮아"
+ ],
+ "goal": "Saying goodbye before military service",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "나 다음 달에 입대해.",
+   "rd": "na daeum dare ipdaehae.",
+   "en": "I enlist next month.",
+   "note": "입대 = enlist",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "입대? 군대 가?",
+   "rd": "ipdae? gundae ga?",
+   "en": "Enlist? You're going to the army?",
+   "note": "군대 = military",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "응. 한국 남자는 다 가.",
+   "rd": "eung. hanguk namjaneun da ga.",
+   "en": "Yeah. All Korean guys go.",
+   "note": "다 = all",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "얼마나 가?",
+   "rd": "eolmana ga?",
+   "en": "For how long?",
+   "note": "얼마나 = how long",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "1년 반. 휴가는 가끔 나와.",
+   "rd": "1nyeon ban. hyuganeun gakkeum nawa.",
+   "en": "A year and a half. I come out on leave sometimes.",
+   "note": "휴가 = leave",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "헐… 그럼 치킨은?",
+   "rd": "heol… geureom chikineun?",
+   "en": "Whoa… then what about chicken?",
+   "note": "치킨 = fried chicken",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "ㅋㅋ 치킨이 걱정이야?",
+   "rd": "ㅋㅋ chikini geokjeongiya?",
+   "en": "Lol you're worried about chicken?",
+   "note": "걱정 = worry",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "아니. 매주 같이 먹었잖아. 그게 없어지잖아.",
+   "rd": "ani. maeju gachi meogeotjana. geuge eopseojijana.",
+   "en": "No. We ate it together every week. That's going away.",
+   "note": "Kick: real feeling",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "…야, 울지 마. 편지 써 줘.",
+   "rd": "…ya, ulji ma. pyeonji sseo jwo.",
+   "en": "…Hey, don't cry. Write me letters.",
+   "note": "편지 = letter",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "한국어로 쓸게. 틀려도 웃지 마.",
+   "rd": "hangugeoro sseulge. teullyeodo utji ma.",
+   "en": "I'll write in Korean. Don't laugh at my mistakes.",
+   "note": "틀리다 = make a mistake",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "그니까 더 열심히 공부해. 나 나오면 검사한다.",
+   "rd": "geunikka deo yeolsimhi gongbuhae. na naomyeon geomsahanda.",
+   "en": "So study harder. I'll check when I'm out.",
+   "note": "검사 = check",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "휴가 나오면 치킨은 내가 살게.",
+   "rd": "hyuga naomyeon chikineun naega salge.",
+   "en": "When you're on leave, chicken's on me.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

@@ -117,5 +117,6 @@
  "review": {
   "grok_rewrite": "data/review/r1_travel_a2_grok_rewrite.md [K090]",
   "final": ""
- }
+ },
+ "twist_type": "reveal"
 }

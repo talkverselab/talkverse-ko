@@ -202,5 +202,6 @@
  "review": {
   "grok_rewrite": "data/review/r3_travel_b1_grok_rewrite.md [K066]",
   "final": ""
- }
+ },
+ "twist_type": "chaos"
 }

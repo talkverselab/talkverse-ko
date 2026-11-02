@@ -1,0 +1,115 @@
+{
+ "id": "r1_travel_a3",
+ "region": "R1",
+ "island": "travel",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "travel"
+ ],
+ "domain": [
+  "travel"
+ ],
+ "title": "바뀐 캐리어",
+ "emoji": "🧳",
+ "scene": "인천공항 짐 찾는 곳. 똑같은 검은 캐리어가 열 개",
+ "speakers": {
+  "A": "{name}",
+  "B": "승객",
+  "C": "다른 승객"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "잠깐만요",
+  "헐",
+  "진짜요?",
+  "죄송합니다"
+ ],
+ "goal": "Grabbing the wrong suitcase",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "찾았다, 내 캐리어!",
+   "rd": "chajatda, nae kaerieo!",
+   "en": "Found it, my suitcase!",
+   "note": "캐리어 = suitcase",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "잠깐만요, 그거 제 거 같은데요.",
+   "rd": "jamkkanmanyo, geugeo je geo gateundeyo.",
+   "en": "Wait, I think that's mine.",
+   "note": "제 거 = mine",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "어? 열어 볼까요?",
+   "rd": "eo? yeoreo bolkkayo?",
+   "en": "Huh? Shall we open it?",
+   "note": "열다 = open",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "…안에 김치가 있네요. 제 거예요.",
+   "rd": "…ane gimchiga inneyo. je geoyeyo.",
+   "en": "…There's kimchi inside. It's mine.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "죄송합니다! 그럼 제 건… 저기?",
+   "rd": "joesonghamnida! geureom je geon… jeogi?",
+   "en": "Sorry! Then mine is… over there?",
+   "note": "저기 = over there",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "이거 누구 거예요? 저도 바뀌었어요!",
+   "rd": "igeo nugu geoyeyo? jeodo bakkwieosseoyo!",
+   "en": "Whose is this? Mine got switched too!",
+   "note": "Kick: everyone swaps — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "헐, 다들 검은색이에요.",
+   "rd": "heol, dadeul geomeunsaegieyo.",
+   "en": "Whoa, they're all black.",
+   "note": "검은색 = black",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "다음엔 핑크 캐리어 살게요.",
+   "rd": "daeumen pingkeu kaerieo salgeyo.",
+   "en": "Next time I'll buy a pink suitcase.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

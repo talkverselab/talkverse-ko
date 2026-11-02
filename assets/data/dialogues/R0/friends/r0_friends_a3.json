@@ -1,0 +1,114 @@
+{
+ "id": "r0_friends_a3",
+ "region": "R0",
+ "island": "friends",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "마지막 한 조각",
+ "emoji": "🍗",
+ "scene": "치킨 마지막 한 조각. 셋이 동시에 손을 뻗는다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "잠깐만",
+  "헐",
+  "아니"
+ ],
+ "goal": "Fighting over the last piece",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "마지막 한 조각이다.",
+   "rd": "majimak han jogagida.",
+   "en": "It's the last piece.",
+   "note": "마지막 = last",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "나 먹어도 돼?",
+   "rd": "na meogeodo dwae?",
+   "en": "Can I eat it?",
+   "note": "-아도 돼? = can I",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "잠깐만! 나도!",
+   "rd": "jamkkanman! nado!",
+   "en": "Wait! Me too!",
+   "note": "나도",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "가위바위보 하자.",
+   "rd": "gawibawibo haja.",
+   "en": "Let's do rock-paper-scissors.",
+   "note": "가위바위보",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "(멍!) …어?",
+   "rd": "(meong!) …eo?",
+   "en": "(woof!) …Huh?",
+   "note": "Kick: the dog — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "헐, 강아지가 먹었어.",
+   "rd": "heol, gangajiga meogeosseo.",
+   "en": "Whoa, the dog ate it.",
+   "note": "강아지 = puppy",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "아니… 누구 강아지야?",
+   "rd": "ani… nugu gangajiya?",
+   "en": "No way… whose dog is this?",
+   "note": "누구 = whose",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "몰라. 근데 행복해 보여.",
+   "rd": "molla. geunde haengbokae boyeo.",
+   "en": "No idea. But it looks happy.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

@@ -160,5 +160,6 @@
  "review": {
   "grok_rewrite": "data/review/r2_work_b2_grok_rewrite.md [K099]",
   "final": ""
- }
+ },
+ "twist_type": "reveal"
 }

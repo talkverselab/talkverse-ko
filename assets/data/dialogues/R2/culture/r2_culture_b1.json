@@ -159,5 +159,6 @@
  "review": {
   "grok_rewrite": "data/review/r2_culture_b1_grok_rewrite.md [K055]",
   "final": ""
- }
+ },
+ "twist_type": "chaos"
 }

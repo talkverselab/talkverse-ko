@@ -117,5 +117,6 @@
  "review": {
   "grok_rewrite": "data/review/r0_culture_a1_grok_rewrite.md [K041]",
   "final": ""
- }
+ },
+ "twist_type": "reveal"
 }

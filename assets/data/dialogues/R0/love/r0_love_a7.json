@@ -1,0 +1,116 @@
+{
+ "id": "r0_love_a7",
+ "region": "R0",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "손 차가워",
+ "emoji": "🧤",
+ "scene": "겨울밤 버스 정류장. 하늘이 학습자 손을 잡는다",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "괜찮아"
+ ],
+ "goal": "A sudden hand-hold",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "추워?",
+   "rd": "chuwo?",
+   "en": "Cold?",
+   "note": "추워? = are you cold?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "응, 조금.",
+   "rd": "eung, jogeum.",
+   "en": "Yeah, a little.",
+   "note": "조금 = a little",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "손 줘 봐.",
+   "rd": "son jwo bwa.",
+   "en": "Give me your hand.",
+   "note": "줘 봐 = let me see",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "손? 왜?",
+   "rd": "son? wae?",
+   "en": "My hand? Why?",
+   "note": "왜 = why",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "…헐, 진짜 차갑다.",
+   "rd": "…heol, jinjja chagapda.",
+   "en": "…Whoa, it's really cold.",
+   "note": "심쿵: she holds it",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "괜찮아, 놔도 돼.",
+   "rd": "gwaenchana, nwado dwae.",
+   "en": "It's fine, you can let go.",
+   "note": "놓다 = let go",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "싫어. 버스 올 때까지.",
+   "rd": "sileo. beoseu ol ttaekkaji.",
+   "en": "No. Until the bus comes.",
+   "note": "싫어 = no (I don't want to)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…버스 늦게 왔으면 좋겠다.",
+   "rd": "…beoseu neutge wasseumyeon joketda.",
+   "en": "…I hope the bus is late.",
+   "note": "심쿵 punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

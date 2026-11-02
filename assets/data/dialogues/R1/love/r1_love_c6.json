@@ -1,0 +1,132 @@
+{
+ "id": "r1_love_c6",
+ "region": "R1",
+ "island": "love",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "엄마한테 보냈다",
+ "emoji": "📷",
+ "scene": "셀카를 유진에게 보낸다는 게 엄마에게 갔다",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진",
+  "C": "엄마"
+ },
+ "register": "chat",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "ㅋㅋ",
+  "진짜?",
+  "아 몰라"
+ ],
+ "goal": "Sending a photo to the wrong person",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "[셀카] 나 오늘 어때? 너 보러 간다 😘",
+   "rd": "[selka] na oneul eottae? neo boreo ganda 😘",
+   "en": "[selfie] How do I look? Coming to see you 😘",
+   "note": "to the wrong chat",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:40"
+  },
+  {
+   "num": 2,
+   "speaker": "C",
+   "ko": "아들, 누구 보러 가?",
+   "rd": "adeul, nugu boreo ga?",
+   "en": "Son, who are you going to see?",
+   "note": "Kick: Mom replied — chaos",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:41"
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "헐… 엄마?",
+   "rd": "heol… eomma?",
+   "en": "Whoa… Mom?",
+   "note": "엄마 = mom",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:41"
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "😘 이건 엄마한테 처음 보내네. 누구야?",
+   "rd": "😘 igeon eommahante cheoeum bonaene. nuguya?",
+   "en": "😘 This is the first time you've sent me that. Who is it?",
+   "note": "처음 = first time",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:42"
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "(유진에게) 큰일 났어. 사진 엄마한테 보냈어.",
+   "rd": "(yujinege) keunil nasseo. sajin eommahante bonaesseo.",
+   "en": "(to Yujin) Big trouble. I sent the photo to my mom.",
+   "note": "큰일 = big trouble",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:43"
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "ㅋㅋㅋ 그래서 엄마가 뭐래?",
+   "rd": "ㅋㅋㅋ geuraeseo eommaga mworae?",
+   "en": "Lolol so what did she say?",
+   "note": "뭐래? = what did she say",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:43"
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "다음 주에 너 데려오래.",
+   "rd": "daeum jue neo deryeoorae.",
+   "en": "She says to bring you next week.",
+   "note": "데려오다 = bring",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:44"
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "…진짜? 아 몰라, 옷 사러 가야겠다.",
+   "rd": "…jinjja? a molla, ot sareo gayagetda.",
+   "en": "…Really? Ugh, I need to go buy clothes.",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:44"
+  }
+ ],
+ "learner_gender": "M"
+}

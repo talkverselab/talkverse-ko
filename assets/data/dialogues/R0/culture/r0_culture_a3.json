@@ -1,0 +1,113 @@
+{
+ "id": "r0_culture_a3",
+ "region": "R0",
+ "island": "culture",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "진짜 매워",
+ "emoji": "🌶️",
+ "scene": "신당동 떡볶이 골목. 「조금 맵게」를 시켰다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "괜찮아"
+ ],
+ "goal": "Korean spicy food, beginner level",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "어때? 맛있지?",
+   "rd": "eottae? masitji?",
+   "en": "How is it? Good, right?",
+   "note": "맛있지? = tasty, right?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "응! 안 매워.",
+   "rd": "eung! an maewo.",
+   "en": "Yeah! Not spicy.",
+   "note": "맵다 = spicy",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "진짜? 한 입 더.",
+   "rd": "jinjja? han ip deo.",
+   "en": "Really? One more bite.",
+   "note": "한 입 = one bite",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "…헐. 물! 물!",
+   "rd": "…heol. mul! mul!",
+   "en": "…Whoa. Water! Water!",
+   "note": "delayed spice",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "물은 더 매워. 우유!",
+   "rd": "mureun deo maewo. uyu!",
+   "en": "Water makes it worse. Milk!",
+   "note": "우유 = milk",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "우유도… 아이스크림!",
+   "rd": "uyudo… aiseukeurim!",
+   "en": "Milk too… ice cream!",
+   "note": "Kick: escalating — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "ㅋㅋ 괜찮아?",
+   "rd": "ㅋㅋ gwaenchana?",
+   "en": "Lol you okay?",
+   "note": "괜찮아?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "응. 근데 한 그릇 더.",
+   "rd": "eung. geunde han geureut deo.",
+   "en": "Yeah. But one more bowl.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

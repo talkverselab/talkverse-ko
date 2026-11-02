@@ -1,0 +1,117 @@
+{
+ "id": "r1_love_a6",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "소개팅 관객",
+ "emoji": "☕",
+ "scene": "첫 소개팅 카페. 그런데 옆 테이블마다 아는 얼굴이 있다",
+ "speakers": {
+  "A": "{name}",
+  "B": "해솔",
+  "C": "친구들"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜요?",
+  "헐",
+  "잠깐만요"
+ ],
+ "goal": "A first blind date with an unwanted audience",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "{name} 씨 맞죠? 앉으세요.",
+   "rd": "{name} ssi matjyo? anjeuseyo.",
+   "en": "You're {name}, right? Have a seat.",
+   "note": "앉으세요 = please sit",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네, 반가워요. 근데… 저 뒤에 제 친구 같은데요.",
+   "rd": "ne, bangawoyo. geunde… jeo dwie je chingu gateundeyo.",
+   "en": "Nice to meet you. But… I think that's my friend back there.",
+   "note": "저 뒤 = back there",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "어? 저 옆 테이블은 제 친구예요.",
+   "rd": "eo? jeo yeop teibeureun je chinguyeyo.",
+   "en": "Huh? The table next to them is my friend.",
+   "note": "옆 테이블 = next table",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "잠깐만요, 창가에 민준이도 있어요.",
+   "rd": "jamkkanmanyo, changgae minjunido isseoyo.",
+   "en": "Wait, Minjun is by the window too.",
+   "note": "창가 = by the window",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "헐… 카운터에 저희 언니도 있어요.",
+   "rd": "heol… kaunteoe jeohui eonnido isseoyo.",
+   "en": "Whoa… my sister is at the counter too.",
+   "note": "Kick: the whole café is watching — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "(다 같이) 우리 신경 쓰지 마세요!",
+   "rd": "(da gachi) uri singyeong sseuji maseyo!",
+   "en": "(all together) Don't mind us!",
+   "note": "신경 쓰다 = to mind",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "…저희 그냥 다른 데 갈까요?",
+   "rd": "…jeohui geunyang dareun de galkkayo?",
+   "en": "…Should we just go somewhere else?",
+   "note": "다른 데 = somewhere else",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "좋아요. 뛰어요!",
+   "rd": "joayo. ttwieoyo!",
+   "en": "Okay. Run!",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

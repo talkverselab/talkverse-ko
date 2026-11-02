@@ -1,0 +1,115 @@
+{
+ "id": "r1_friends_a4",
+ "region": "R1",
+ "island": "friends",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "택시 전쟁",
+ "emoji": "🚕",
+ "scene": "금요일 새벽 1시 강남. 비까지 온다. 셋이 택시를 잡는다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "잡았다",
+  "헐",
+  "진짜?",
+  "아 몰라"
+ ],
+ "goal": "Catching a taxi at 1 a.m. on a Friday",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "앱으로 불렀어? 다 안 잡혀.",
+   "rd": "aebeuro bulleosseo? da an japyeo.",
+   "en": "Did you call one on the app? Nothing's coming.",
+   "note": "잡히다 = get caught (a taxi)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "나도. 「주변에 택시 없음」.",
+   "rd": "nado. 「jubyeone taeksi eopseum」.",
+   "en": "Me too. \"No taxis nearby.\"",
+   "note": "주변 = nearby",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "저기 온다! 손 흔들어!",
+   "rd": "jeogi onda! son heundeureo!",
+   "en": "There's one! Wave!",
+   "note": "흔들다 = wave",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "잡았다! 어? 저기도 잡았어?",
+   "rd": "jabatda! eo? jeogido jabasseo?",
+   "en": "Got one! Huh? You got one over there too?",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "나도 잡았어. 세 대야.",
+   "rd": "nado jabasseo. se daeya.",
+   "en": "I got one too. That's three.",
+   "note": "Kick: three taxis — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "헐… 다 우리 거야?",
+   "rd": "heol… da uri geoya?",
+   "en": "Whoa… are they all ours?",
+   "note": "다 = all",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "아 몰라. 각자 하나씩 타.",
+   "rd": "a molla. gakja hanassik ta.",
+   "en": "Ugh, whatever. Everyone take one.",
+   "note": "각자 = each",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "같은 동네 사는데 택시 세 대 ㅋㅋ",
+   "rd": "gateun dongne saneunde taeksi se dae ㅋㅋ",
+   "en": "We live in the same neighborhood and took three taxis lol",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

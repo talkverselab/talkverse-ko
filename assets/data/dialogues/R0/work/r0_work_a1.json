@@ -116,5 +116,6 @@
  "review": {
   "grok_rewrite": "data/review/r0_work_a1_grok_rewrite.md [K097]",
   "final": ""
- }
+ },
+ "twist_type": "reveal"
 }

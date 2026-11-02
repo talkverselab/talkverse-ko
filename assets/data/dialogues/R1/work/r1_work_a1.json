@@ -117,5 +117,6 @@
  "review": {
   "grok_rewrite": "data/review/r1_work_a1_grok_rewrite.md [K054]",
   "final": ""
- }
+ },
+ "twist_type": "slip"
 }

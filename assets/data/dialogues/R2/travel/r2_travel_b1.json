@@ -160,5 +160,6 @@
  "review": {
   "grok_rewrite": "data/review/r2_travel_b1_grok_rewrite.md [K060]",
   "final": ""
- }
+ },
+ "twist_type": "slip"
 }

@@ -1,0 +1,113 @@
+{
+ "id": "r1_study_a2",
+ "region": "R1",
+ "island": "study",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "study"
+ ],
+ "domain": [
+  "study"
+ ],
+ "title": "반말이야?",
+ "emoji": "🏫",
+ "scene": "어학당 쉬는 시간. 선생님에게 반말을 했다",
+ "speakers": {
+  "A": "{name}",
+  "B": "선생님"
+ },
+ "register": "polite",
+ "twist": 3,
+ "twist_type": "slip",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "죄송합니다",
+  "진짜요?",
+  "네"
+ ],
+ "goal": "Speech levels with a teacher",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "{name} 씨, 숙제 했어요?",
+   "rd": "{name} ssi, sukje haesseoyo?",
+   "en": "{name}, did you do the homework?",
+   "note": "숙제 = homework",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "응, 다 했어!",
+   "rd": "eung, da haesseo!",
+   "en": "Yeah, I did it all!",
+   "note": "반말 to a teacher",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "…응?",
+   "rd": "…eung?",
+   "en": "…\"Yeah\"?",
+   "note": "Kick: teacher reacts",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "아! 죄송합니다. 네, 다 했어요.",
+   "rd": "a! joesonghamnida. ne, da haesseoyo.",
+   "en": "Oh! I'm sorry. Yes, I did it all.",
+   "note": "correction",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "ㅋㅋ 괜찮아요. 친구한테 쓰는 말이죠?",
+   "rd": "ㅋㅋ gwaenchanayo. chinguhante sseuneun marijyo?",
+   "en": "Haha, it's fine. That's how you talk to friends, right?",
+   "note": "친구한테 = to friends",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "네. 어제 친구랑 하루 종일 반말했어요.",
+   "rd": "ne. eoje chingurang haru jongil banmalhaesseoyo.",
+   "en": "Yes. I spoke casually with a friend all day yesterday.",
+   "note": "하루 종일 = all day",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "좋아요. 근데 선생님한테는 존댓말.",
+   "rd": "joayo. geunde seonsaengnimhanteneun jondaenmal.",
+   "en": "Good. But formal speech for teachers.",
+   "note": "존댓말 = polite speech",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "네! 선생님한테는 존댓말, 친구한테는 응!",
+   "rd": "ne! seonsaengnimhanteneun jondaenmal, chinguhanteneun eung!",
+   "en": "Yes! Polite for teachers, \"응\" for friends!",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "id": "r1_love_a9",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "목도리 반쪽",
+ "emoji": "🧣",
+ "scene": "첫눈 오는 길. 유진이 자기 목도리를 반 풀어 학습자 목에 감는다",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "첫눈 오는 날 목도리 하나 같이 하기",
+ "expressions": [
+  "진짜?",
+  "추워",
+  "괜찮아",
+  "설렌다"
+ ],
+ "goal": "Sharing a scarf on the first snow",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "와, 첫눈이다. 근데 진짜 춥다.",
+   "rd": "wa, cheonnunida. geunde jinjja chupda.",
+   "en": "Wow, the first snow. But it's really cold.",
+   "note": "첫눈 = first snow",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "이리 와 봐.",
+   "rd": "iri wa bwa.",
+   "en": "Come here.",
+   "note": "이리 = this way",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "왜? …어?",
+   "rd": "wae? …eo?",
+   "en": "Why? …Huh?",
+   "note": "surprise",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "목도리 반 줄게. 같이 하자.",
+   "rd": "mokdori ban julge. gachi haja.",
+   "en": "I'll give you half my scarf. Let's share.",
+   "note": "반 = half",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "이러면 너무 가까운데…",
+   "rd": "ireomyeon neomu gakkaunde…",
+   "en": "This is really close…",
+   "note": "가깝다 = close",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "싫어? 그럼 다시 가져갈게.",
+   "rd": "sileo? geureom dasi gajyeogalge.",
+   "en": "Don't like it? Then I'll take it back.",
+   "note": "심쿵: teasing",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "아니! 괜찮아. 완전 괜찮아.",
+   "rd": "ani! gwaenchana. wanjeon gwaenchana.",
+   "en": "No! It's fine. Totally fine.",
+   "note": "완전 = totally",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "…나도 설렌다, 사실.",
+   "rd": "…nado seollenda, sasil.",
+   "en": "…I'm feeling it too, honestly.",
+   "note": "심쿵 punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "M"
+}

@@ -1,0 +1,116 @@
+{
+ "id": "r0_life_a4",
+ "region": "R0",
+ "island": "life",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "우산 빌려줄게요",
+ "emoji": "☂️",
+ "scene": "아파트 1층 현관. 비가 온다. 옆집 지안이 우산을 내민다",
+ "speakers": {
+  "A": "{name}",
+  "B": "지안"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "괜찮아요",
+  "진짜요?",
+  "감사합니다"
+ ],
+ "goal": "A neighbor lends an umbrella",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "비 와요. 우산 없어요?",
+   "rd": "bi wayo. usan eopseoyo?",
+   "en": "It's raining. No umbrella?",
+   "note": "우산 = umbrella",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네… 괜찮아요. 뛰어갈게요.",
+   "rd": "ne… gwaenchanayo. ttwieogalgeyo.",
+   "en": "No… it's fine. I'll run.",
+   "note": "뛰다 = run",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "이거 써요.",
+   "rd": "igeo sseoyo.",
+   "en": "Use this.",
+   "note": "쓰다 = use",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "그럼 지안 씨는요?",
+   "rd": "geureom jian ssineunyo?",
+   "en": "Then what about you?",
+   "note": "-는요? = what about",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "저는 비 좋아해요.",
+   "rd": "jeoneun bi joahaeyo.",
+   "en": "I like rain.",
+   "note": "심쿵: she gives hers",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "진짜요? 내일 돌려줄게요.",
+   "rd": "jinjjayo? naeil dollyeojulgeyo.",
+   "en": "Really? I'll return it tomorrow.",
+   "note": "돌려주다 = return",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "내일 말고… 커피랑 같이요.",
+   "rd": "naeil malgo… keopirang gachiyo.",
+   "en": "Not just tomorrow… with a coffee.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…네! 감사합니다.",
+   "rd": "…ne! gamsahamnida.",
+   "en": "…Sure! Thank you.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

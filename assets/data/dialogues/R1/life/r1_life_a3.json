@@ -1,0 +1,114 @@
+{
+ "id": "r1_life_a3",
+ "region": "R1",
+ "island": "life",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "거품",
+ "emoji": "🫧",
+ "scene": "셰어하우스 세탁기. 세제를 「조금」 넣었는데…",
+ "speakers": {
+  "A": "{name}",
+  "B": "도윤"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "잠깐만",
+  "진짜?",
+  "어떡해"
+ ],
+ "goal": "Laundry disaster",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "도윤아, 세제 얼마나 넣어?",
+   "rd": "doyuna, seje eolmana neoeo?",
+   "en": "Doyun, how much detergent do I add?",
+   "note": "세제 = detergent",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "조금. 한 컵.",
+   "rd": "jogeum. han keop.",
+   "en": "A little. One cup.",
+   "note": "한 컵 = one cup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "이 컵? 큰 컵?",
+   "rd": "i keop? keun keop?",
+   "en": "This cup? The big one?",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "잠깐만, 그거 국그릇이야!",
+   "rd": "jamkkanman, geugeo gukgeureusiya!",
+   "en": "Wait, that's a soup bowl!",
+   "note": "국그릇 = soup bowl",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "(10분 뒤) 헐… 거품이 나와.",
+   "rd": "(10bun dwi) heol… geopumi nawa.",
+   "en": "(10 min later) Whoa… foam is coming out.",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "거실까지 왔어! 어떡해!",
+   "rd": "geosilkkaji wasseo! eotteokae!",
+   "en": "It's in the living room! What do we do!",
+   "note": "어떡해 = what do we do",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "…거품 목욕할래?",
+   "rd": "…geopum mogyokallae?",
+   "en": "…Want a bubble bath?",
+   "note": "joke",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "ㅋㅋ 사진부터 찍자. 그리고 청소.",
+   "rd": "ㅋㅋ sajinbuteo jjikja. geurigo cheongso.",
+   "en": "Lol photos first. Then cleaning.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

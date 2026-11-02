@@ -1,0 +1,114 @@
+{
+ "id": "r0_life_a3",
+ "region": "R0",
+ "island": "life",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "엘리베이터",
+ "emoji": "🛗",
+ "scene": "아파트 엘리베이터. 꼬마가 모든 층 버튼을 눌렀다",
+ "speakers": {
+  "A": "{name}",
+  "B": "안내 방송",
+  "C": "꼬마"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "아이고",
+  "괜찮아"
+ ],
+ "goal": "Elevator small talk",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "(띵) 2층입니다.",
+   "rd": "(tting) 2cheungimnida.",
+   "en": "(ding) 2nd floor.",
+   "note": "안내 방송",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "어? 2층?",
+   "rd": "eo? 2cheung?",
+   "en": "Huh? 2nd floor?",
+   "note": "echo",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "(띵) 3층입니다. (띵) 4층입니다.",
+   "rd": "(tting) 3cheungimnida. (tting) 4cheungimnida.",
+   "en": "(ding) 3rd floor. (ding) 4th floor.",
+   "note": "every floor",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "헐… 다 눌렀어?",
+   "rd": "heol… da nulleosseo?",
+   "en": "Whoa… did someone press them all?",
+   "note": "Kick: every button — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "헤헤. 제가요!",
+   "rd": "hehe. jegayo!",
+   "en": "Hehe. Me!",
+   "note": "꼬마 = little kid",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "아이고… 나 20층인데.",
+   "rd": "aigo… na 20cheunginde.",
+   "en": "Oh dear… I'm on the 20th floor.",
+   "note": "층 = floor",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "같이 세요! 5층, 6층…",
+   "rd": "gachi seyo! 5cheung, 6cheung…",
+   "en": "Count with me! 5th, 6th…",
+   "note": "세다 = count",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "괜찮아… 한국어 공부하지 뭐.",
+   "rd": "gwaenchana… hangugeo gongbuhaji mwo.",
+   "en": "It's fine… I'll just practice my Korean.",
+   "note": "punchline: counting floors",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

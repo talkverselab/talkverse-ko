@@ -1,0 +1,156 @@
+{
+ "id": "r2_love_b8",
+ "region": "R2",
+ "island": "love",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "계산은 누가?",
+ "emoji": "💳",
+ "scene": "두 번째 데이트 끝, 식당 계산대 앞. 서로 내겠다고 카드를 내민다",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진",
+  "C": "직원"
+ },
+ "register": "casual",
+ "twist": 9,
+ "twist_type": "reveal",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "내가 살게",
+  "진짜?",
+  "그니까",
+  "됐어"
+ ],
+ "goal": "Who pays on a date — Korean back-and-forth",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "오늘은 내가 살게.",
+   "rd": "oneureun naega salge.",
+   "en": "I'll pay today.",
+   "note": "살게 = I'll buy",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "아니야, 지난번에 네가 샀잖아.",
+   "rd": "aniya, jinanbeone nega satjana.",
+   "en": "No, you paid last time.",
+   "note": "지난번 = last time",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "그래도 오늘은 내가.",
+   "rd": "geuraedo oneureun naega.",
+   "en": "Still, today it's me.",
+   "note": "그래도 = still",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "그럼 반반 하자.",
+   "rd": "geureom banban haja.",
+   "en": "Then let's split it.",
+   "note": "반반 = half and half",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "반반은 좀… 그럼 내가 밥, 네가 커피?",
+   "rd": "banbaneun jom… geureom naega bap, nega keopi?",
+   "en": "Splitting feels… how about I get dinner, you get coffee?",
+   "note": "Korean dating balance",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "좋아. 근데 커피는 비싼 데로 간다.",
+   "rd": "joa. geunde keopineun bissan dero ganda.",
+   "en": "Deal. But we're going to an expensive café.",
+   "note": "비싼 데 = an expensive place",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "저기… 계산 이미 됐어요.",
+   "rd": "jeogi… gyesan imi dwaesseoyo.",
+   "en": "Um… the bill's already paid.",
+   "note": "계산 = payment",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "네? 누가요?",
+   "rd": "ne? nugayo?",
+   "en": "Sorry? Who?",
+   "note": "누가 = who",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "C",
+   "ko": "아까 화장실 가시면서 이분이 하셨어요.",
+   "rd": "akka hwajangsil gasimyeonseo ibuni hasyeosseoyo.",
+   "en": "This lady paid earlier on her way to the restroom.",
+   "note": "Kick: she paid secretly",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "B",
+   "ko": "ㅋㅋ 들켰다.",
+   "rd": "ㅋㅋ deulkyeotda.",
+   "en": "Haha, busted.",
+   "note": "들키다 = get caught",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "A",
+   "ko": "그니까… 커피도 네가 사는 거야?",
+   "rd": "geunikka… keopido nega saneun geoya?",
+   "en": "So… are you buying coffee too?",
+   "note": "그니까 = so",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "B",
+   "ko": "아니. 커피는 네가 사. 비싼 데로.",
+   "rd": "ani. keopineun nega sa. bissan dero.",
+   "en": "No. Coffee's on you. Somewhere expensive.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "M"
+}
