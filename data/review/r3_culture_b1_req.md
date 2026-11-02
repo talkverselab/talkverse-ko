@@ -1,0 +1,23 @@
+[K062] 아래는 영어권 학습자가 한국어를 배우는 앱의 회화 1편 **초안**입니다. 이 초안을 베이스로, 지금 한국 20~30대가 이 장면에서 실제로 할 법한 **구어체 한국어로 새로 써 주세요**(판정이 아니라 재작성). 교과서체·번역투·설명하는 대사·정리된 AI 말투가 전혀 안 나야 합니다. 카톡·현장에서 진짜 쓰는 말투(줄임말·말끝 흐리기·맞장구)로.
+화자: A = 학습자(외국인, 이름 {name}), B = 스태프, C = 최애. 장면: 당첨된 팬사인회. 학습자 차례, 최애 앞 90초. 외워 간 한국어가 다 날아간다. 말투: mixed. 레벨: 고급(턴당 1~3문장, 감정·뉘앙스).
+이 편은 **일상 장면**이다 — 드라마 클리셰를 넣지 말고 진짜 생활 대화로.
+지킬 것: ① 턴 수 16·화자 순서 그대로 ② 변수 {name} 그대로 ③ 학습 목표 표현 진짜요?·헐·감사합니다·아 몰라 이 자연스럽게 들어갈 것(위치는 바꿔도 됨) ④ 턴 길이: 1~3문장 — 지나치게 깎지 말 것(짧게 만드는 게 목적이 아니라 '진짜 말'로 바꾸는 게 목적) ⑤ 반전(턴 9 근처)의 **킥은 코믹하게, 더 세게** ⑥ 연애 장면은 설렘·여백(말을 다 하지 않고 멈추기, 끝의 여운) — 성적 묘사 금지(12세 이상) ⑦ 학습자가 **외우고 싶어지는 한 줄**이 편마다 하나 ⑧ 실존 드라마·배우·아이돌·브랜드 이름과 실제 작품 대사 금지 ⑨ **초안 문장을 그대로 두지 말 것 — 「유지」 금지.** 초안은 장면·흐름·킥의 뼈대일 뿐이다. 모든 줄을 한국 사람이 실제로 하는 말로 처음부터 다시 쓴다(뜻이 같아도 말투·어순·말끝·추임새가 달라야 함).
+출력 형식(이것만, 다른 설명 없이): 줄마다 `번호 화자: 한국어 / English(자연스러운 영어 구어) / 초안에서 무엇을 어떻게 바꿨는지 한 줄`. 마지막 줄에 `추천 표현:` 이 장면에서 한국 사람이 진짜 자주 쓰는데 못 넣은 짧은 표현 2개(한국어 / 뜻).
+
+초안:
+1 B: 다음 분! 90초입니다. / Next! 90 seconds.
+2 A: (속으로) 외웠어. 「항상 응원하고 있어요. 건강 챙기세요.」 / (to self) I memorized it. "I always support you. Take care of your health."
+3 C: 안녕하세요! 이름이 뭐예요? / Hi! What's your name?
+4 A: …네. / …Yes.
+5 C: ㅋㅋ 「네」가 이름이에요? / Haha, is your name "Yes"?
+6 A: 아 몰라… {name}이요! 죄송해요, 다 까먹었어요. / Ugh… it's {name}! Sorry, I forgot everything.
+7 C: 뭘 까먹었어요? 천천히 말해 봐요. / What did you forget? Say it slowly.
+8 A: 항상… 건강을… 응원하고 있어요. / I always… cheer for… your health.
+9 C: ㅋㅋㅋ 건강을 응원해 줘서 고마워요. 어느 나라에서 왔어요? / Lolol thanks for cheering for my health. Which country are you from?
+10 A: {country}요. 한국어 배운 지 2년 됐어요. / {country}. I've been learning Korean for two years.
+11 C: 진짜요? 잘하는데요! 포스트잇 질문 볼게요… 「최애 음식」? 떡볶이요. / Really? You're good! Let me see your post-it question… "favorite food"? Tteokbokki.
+12 B: 10초 남았습니다. / 10 seconds left.
+13 A: 헐… 저, 사진… 아니 사인… 아니… / Whoa… um, photo… no, autograph… no…
+14 C: (손 하트) 다음에 또 와요. 그때는 이름부터 말해요. / (finger heart) Come again. Next time, start with your name.
+15 A: …감사합니다. 「네」는 잊어 주세요. / …Thank you. Please forget the "yes".
+16 B: 다음 분! / Next!

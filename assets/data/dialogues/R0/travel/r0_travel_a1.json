@@ -31,9 +31,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "어디 가세요?",
-   "rd": "eodi gaseyo?",
-   "en": "Where to?",
+   "ko": "손님 어디 가세요?",
+   "rd": "sonnim eodi gaseyo?",
+   "en": "Where to, sir/ma'am?",
    "note": "어디 가세요? = where are you going?",
    "tags": [],
    "new": []
@@ -41,9 +41,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "명동이요.",
-   "rd": "myeongdongiyo.",
-   "en": "Myeongdong, please.",
+   "ko": "명동으로 가 주세요",
+   "rd": "myeongdongeuro ga juseyo",
+   "en": "To Myeongdong, please",
    "note": "-이요 = (place) please",
    "tags": [],
    "new": []
@@ -51,9 +51,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "명동 어디요?",
-   "rd": "myeongdong eodiyo?",
-   "en": "Where in Myeongdong?",
+   "ko": "명동 어느 쪽이요?",
+   "rd": "myeongdong eoneu jjogiyo?",
+   "en": "Which part of Myeongdong?",
    "note": "어디 = where",
    "tags": [],
    "new": []
@@ -61,9 +61,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "…명동이요.",
-   "rd": "…myeongdongiyo.",
-   "en": "…Myeongdong.",
+   "ko": "어… 그냥 명동이요…",
+   "rd": "eo… geunyang myeongdongiyo…",
+   "en": "Uh… just Myeongdong…",
    "note": "Kick: that's all he knows",
    "tags": [],
    "new": []
@@ -71,9 +71,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "ㅋㅋ 알았어요. 명동역 앞.",
-   "rd": "ㅋㅋ arasseoyo. myeongdongyeok ap.",
-   "en": "Haha okay. In front of Myeongdong station.",
+   "ko": "아 그럼 역 앞으로 갈게요",
+   "rd": "a geureom yeok apeuro galgeyo",
+   "en": "Ah then I'll go to the station front",
    "note": "역 앞 = in front of the station",
    "tags": [],
    "new": []
@@ -81,9 +81,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "네! 감사합니다.",
-   "rd": "ne! gamsahamnida.",
-   "en": "Yes! Thank you.",
+   "ko": "네 감사합니다",
+   "rd": "ne gamsahamnida",
+   "en": "Yes, thank you",
    "note": "감사합니다 = thank you",
    "tags": [],
    "new": []
@@ -91,9 +91,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "카드 돼요. 뒤에서 찍어요.",
-   "rd": "kadeu dwaeyo. dwieseo jjigeoyo.",
-   "en": "Card works. Tap it in the back.",
+   "ko": "카드 돼요 뒤에 찍으세요",
+   "rd": "kadeu dwaeyo dwie jjigeuseyo",
+   "en": "Card's fine, tap it in the back",
    "note": "카드 돼요 = card is accepted",
    "tags": [],
    "new": []
@@ -101,12 +101,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "잠깐만요… 어디요?",
-   "rd": "jamkkanmanyo… eodiyo?",
-   "en": "One moment… where?",
+   "ko": "잠깐만요 어디요…",
+   "rd": "jamkkanmanyo eodiyo…",
+   "en": "One moment, where…?",
    "note": "어디요? = where? (polite)",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_travel_a1_grok_rewrite.md [K044]",
+  "final": ""
+ }
 }

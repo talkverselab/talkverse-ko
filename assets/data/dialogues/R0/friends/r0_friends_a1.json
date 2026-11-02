@@ -31,9 +31,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "{name}! 밥 먹었어?",
-   "rd": "{name}! bap meogeosseo?",
-   "en": "{name}! Did you eat?",
+   "ko": "밥 먹었어 {name}?",
+   "rd": "bap meogeosseo {name}?",
+   "en": "Have you eaten, {name}?",
    "note": "밥 먹었어? = did you eat? — a Korean hello",
    "tags": [],
    "new": []
@@ -41,9 +41,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "아니. 왜? 같이 먹어?",
-   "rd": "ani. wae? gachi meogeo?",
-   "en": "No. Why? Eat together?",
+   "ko": "아니 왜 같이 먹자?",
+   "rd": "ani wae gachi meokja?",
+   "en": "No, why—wanna eat together?",
    "note": "아니 = no",
    "tags": [],
    "new": []
@@ -51,9 +51,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "어? 아니, 그냥 인사야 ㅋㅋ",
-   "rd": "eo? ani, geunyang insaya ㅋㅋ",
-   "en": "Huh? No, it's just a greeting lol",
+   "ko": "헐 아니 그냥 인사야",
+   "rd": "heol ani geunyang insaya",
+   "en": "Whoa no, it's just a greeting",
    "note": "Kick: he took it literally",
    "tags": [],
    "new": []
@@ -61,9 +61,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "인사? 밥이?",
-   "rd": "insa? babi?",
-   "en": "A greeting? Rice is?",
+   "ko": "밥이 인사라고?",
+   "rd": "babi insarago?",
+   "en": "Rice is a greeting?",
    "note": "밥 = rice / a meal",
    "tags": [],
    "new": []
@@ -71,9 +71,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "응. 「안녕」 같은 거야.",
-   "rd": "eung. 「annyeong」 gateun geoya.",
-   "en": "Yeah. It's like \"hi\".",
+   "ko": "응 안녕이랑 똑같아",
+   "rd": "eung annyeongirang ttokgata",
+   "en": "Yeah, same as saying hi",
    "note": "같은 거야 = it's like",
    "tags": [],
    "new": []
@@ -81,9 +81,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "아… 그럼 나도. 밥 먹었어?",
-   "rd": "a… geureom nado. bap meogeosseo?",
-   "en": "Oh… then me too. Did you eat?",
+   "ko": "아 그럼 나도 밥 먹었어?",
+   "rd": "a geureom nado bap meogeosseo?",
+   "en": "Oh then me too—have you eaten?",
    "note": "trying it back",
    "tags": [],
    "new": []
@@ -91,9 +91,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "아니, 아직.",
-   "rd": "ani, ajik.",
-   "en": "No, not yet.",
+   "ko": "아니 아직이야",
+   "rd": "ani ajigiya",
+   "en": "No, not yet",
    "note": "아직 = not yet",
    "tags": [],
    "new": []
@@ -101,12 +101,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "그럼 진짜 먹자. 배고파.",
-   "rd": "geureom jinjja meokja. baegopa.",
-   "en": "Then let's really eat. I'm hungry.",
+   "ko": "그럼 진짜 먹을까 배고파…",
+   "rd": "geureom jinjja meogeulkka baegopa…",
+   "en": "Then should we actually eat? I'm hungry…",
    "note": "배고파 = I'm hungry",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_friends_a1_grok_rewrite.md [K042]",
+  "final": ""
+ }
 }

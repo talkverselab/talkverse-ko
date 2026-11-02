@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "아, 배고파. 배달 시킬까?",
-   "rd": "a, baegopa. baedal sikilkka?",
-   "en": "Ugh, I'm hungry. Should we order delivery?",
+   "ko": "{name}아 배고파 배달 시킬까?",
+   "rd": "{name}a baegopa baedal sikilkka?",
+   "en": "{name} I'm starving, wanna order delivery?",
    "note": "배달 시키다 = to order delivery",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "지금? 밤 10시인데 돼?",
-   "rd": "jigeum? bam 10siinde dwae?",
-   "en": "Now? It's 10 p.m., is that possible?",
+   "ko": "지금 밤 10시인데 돼?",
+   "rd": "jigeum bam 10siinde dwae?",
+   "en": "Now at 10 p.m., is that okay?",
    "note": "-인데 = it is…, but",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "한국이잖아. 새벽 3시도 돼.",
-   "rd": "hangugijana. saebyeok 3sido dwae.",
-   "en": "It's Korea. Even 3 a.m. works.",
+   "ko": "한국이라 새벽 3시도 돼",
+   "rd": "hangugira saebyeok 3sido dwae",
+   "en": "It's Korea, even 3 a.m. works",
    "note": "새벽 = early morning hours",
    "tags": [],
    "new": []
@@ -64,7 +64,7 @@
    "speaker": "A",
    "ko": "진짜? 뭐 시켜?",
    "rd": "jinjja? mwo sikyeo?",
-   "en": "Really? What do we order?",
+   "en": "For real? What do we get?",
    "note": "시켜? = order?",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "치킨. 치킨은 국룰이야.",
-   "rd": "chikin. chikineun gungnuriya.",
-   "en": "Chicken. Chicken is the rule.",
+   "ko": "치킨이지 국룰이잖아 ㅋㅋ",
+   "rd": "chikiniji gungnurijana ㅋㅋ",
+   "en": "Chicken of course, it's the rule lol",
    "note": "국룰 = unwritten rule (slang) — callback 커플티",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "좋아! 얼마나 걸려?",
-   "rd": "joa! eolmana geollyeo?",
-   "en": "Okay! How long does it take?",
+   "ko": "좋아 얼마나 걸려?",
+   "rd": "joa eolmana geollyeo?",
+   "en": "Nice, how long does it take?",
    "note": "얼마나 걸려? = how long does it take?",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "…벌써 왔어.",
-   "rd": "…beolsseo wasseo.",
-   "en": "…It's already here.",
+   "ko": "헐 벌써 왔네…",
+   "rd": "heol beolsseo wanne…",
+   "en": "Whoa it's already here…",
    "note": "Kick: 15 minutes feels like 0",
    "tags": [],
    "new": []
@@ -102,12 +102,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "헐, 지금 시켰잖아!",
-   "rd": "heol, jigeum sikyeotjana!",
-   "en": "Whoa, we just ordered!",
+   "ko": "진짜 지금 시켰는데…",
+   "rd": "jinjja jigeum sikyeonneunde…",
+   "en": "For real we just ordered…",
    "note": "방금 = just now (implied)",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_life_a1_grok_rewrite.md [K048]",
+  "final": ""
+ }
 }

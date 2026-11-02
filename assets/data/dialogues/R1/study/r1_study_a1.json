@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "{name} 씨, 이거 읽어 보세요. 「닭」.",
-   "rd": "{name} ssi, igeo ilgeo boseyo. 「dak」.",
-   "en": "{name}, read this. 「닭」.",
+   "ko": "{name} 씨 이거 읽어 보세요 닭",
+   "rd": "{name} ssi igeo ilgeo boseyo dak",
+   "en": "{name}, try reading this—닭",
    "note": "읽어 보세요 = try reading",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "…달그?",
-   "rd": "…dalgeu?",
-   "en": "…dal-geu?",
+   "ko": "달그요? 잘 모르겠어요",
+   "rd": "dalgeuyo? jal moreugesseoyo",
+   "en": "Dal-geu? I don't really know",
    "note": "Kick: reads both consonants",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "아니요, 「닥」. 받침 ㄺ 은 ㄱ 소리예요.",
-   "rd": "aniyo, 「dak」. batchim ㄺ eun ㄱ soriyeyo.",
-   "en": "No, \"dak\". The final ㄺ sounds like ㄱ.",
+   "ko": "아니요 닥이요 다시 한 번 말해 주세요",
+   "rd": "aniyo dagiyo dasi han beon malhae juseyo",
+   "en": "No, dak. Say it one more time please",
    "note": "받침 = final consonant",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "ㄹ은 어디 갔어요?",
-   "rd": "ㄹeun eodi gasseoyo?",
-   "en": "Where did the ㄹ go?",
+   "ko": "ㄹ은 어디 갔어요? 네?",
+   "rd": "ㄹeun eodi gasseoyo? ne?",
+   "en": "Where did the ㄹ go? Huh?",
    "note": "어디 갔어요? = where did it go?",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "조용히 있어요. 「닭이」는요?",
-   "rd": "joyonghi isseoyo. 「dalgi」neunyo?",
-   "en": "It stays quiet. What about 「닭이」?",
+   "ko": "조용히 있어요 닭이는 어떻게 읽어요?",
+   "rd": "joyonghi isseoyo dalgineun eotteoke ilgeoyo?",
+   "en": "It stays quiet. How do you read 닭이?",
    "note": "조용히 = quietly",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "…달기? 아니, 다기?",
-   "rd": "…dalgi? ani, dagi?",
-   "en": "…dal-gi? No, da-gi?",
+   "ko": "달기요? 진짜요?",
+   "rd": "dalgiyo? jinjjayo?",
+   "en": "Dal-gi? For real?",
    "note": "trying",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "「달기」! 뒤에 모음이 오면 ㄹ이 살아나요.",
-   "rd": "「dalgi」! dwie moeumi omyeon ㄹi saranayo.",
-   "en": "\"Dal-gi\"! When a vowel follows, the ㄹ comes back.",
+   "ko": "네 뒤에 모음 오면 ㄹ이 살아나요",
+   "rd": "ne dwie moeum omyeon ㄹi saranayo",
+   "en": "Yes, when a vowel follows the ㄹ comes back",
    "note": "살아나다 = come back to life",
    "tags": [],
    "new": []
@@ -102,12 +102,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "살아나요? 받침이 좀비예요?",
-   "rd": "saranayo? batchimi jombiyeyo?",
-   "en": "Comes back to life? Is the 받침 a zombie?",
+   "ko": "살아나요? 받침이 좀비예요…",
+   "rd": "saranayo? batchimi jombiyeyo…",
+   "en": "Comes back to life? Is the 받침 a zombie…",
    "note": "좀비 = zombie",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_study_a1_grok_rewrite.md [K049]",
+  "final": ""
+ }
 }

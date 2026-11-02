@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "어서 오세요. 봉투 필요하세요? 데워 드릴까요?",
-   "rd": "eoseo oseyo. bongtu piryohaseyo? dewo deurilkkayo?",
-   "en": "Welcome. Do you need a bag? Shall I heat it up?",
+   "ko": "어서 오세요 봉투 필요하세요? 데워 드릴까요?",
+   "rd": "eoseo oseyo bongtu piryohaseyo? dewo deurilkkayo?",
+   "en": "Welcome, need a bag? Want me to heat it?",
    "note": "two questions at once, fast",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "어… 죄송한데 천천히 말해 주세요.",
-   "rd": "eo… joesonghande cheoncheonhi malhae juseyo.",
-   "en": "Uh… sorry, please speak slowly.",
+   "ko": "죄송해요 천천히 말해 주세요",
+   "rd": "joesonghaeyo cheoncheonhi malhae juseyo",
+   "en": "Sorry, please speak slowly",
    "note": "천천히 말해 주세요 = please speak slowly",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "아, 네. 도시락, 데워 드릴까요?",
-   "rd": "a, ne. dosirak, dewo deurilkkayo?",
-   "en": "Oh, sure. The lunch box — shall I heat it?",
+   "ko": "아 네 도시락 데워 드릴까요?",
+   "rd": "a ne dosirak dewo deurilkkayo?",
+   "en": "Ah okay, heat up the lunch box?",
    "note": "데워 드릴까요? = shall I heat it for you?",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "네! 부탁드려요.",
-   "rd": "ne! butakdeuryeoyo.",
-   "en": "Yes! Please.",
+   "ko": "네 부탁드려요",
+   "rd": "ne butakdeuryeoyo",
+   "en": "Yes, please",
    "note": "부탁드려요 = please (do it for me)",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "젓가락이랑 숟가락, 빨대도 드릴까요?",
-   "rd": "jeotgaragirang sutgarak, ppaldaedo deurilkkayo?",
-   "en": "Chopsticks, a spoon, and a straw too?",
+   "ko": "젓가락이랑 숟가락 빨대도 드릴까요?",
+   "rd": "jeotgaragirang sutgarak ppaldaedo deurilkkayo?",
+   "en": "Chopsticks, spoon, and straw too?",
    "note": "-이랑 = and · -도 = also",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "네! 네! …어, 전부요?",
-   "rd": "ne! ne! …eo, jeonbuyo?",
-   "en": "Yes! Yes! …Wait, all of it?",
+   "ko": "네 네… 어 전부요?",
+   "rd": "ne ne… eo jeonbuyo?",
+   "en": "Yes yes… uh, all of them?",
    "note": "Kick: he said yes to everything",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "네, 전부 넣어 드릴게요.",
-   "rd": "ne, jeonbu neoeo deurilgeyo.",
-   "en": "Yes, I'll put them all in.",
+   "ko": "네 다 넣어 드릴게요",
+   "rd": "ne da neoeo deurilgeyo",
+   "en": "Yes, I'll put them all in",
    "note": "넣어 드릴게요 = I'll put (them) in for you",
    "tags": [],
    "new": []
@@ -103,12 +103,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "아, 아니… 다시 한 번 말해 주세요!",
-   "rd": "a, ani… dasi han beon malhae juseyo!",
-   "en": "Ah, no… please say that again!",
+   "ko": "아니… 다시 한 번 말해 주세요",
+   "rd": "ani… dasi han beon malhae juseyo",
+   "en": "No… please say that again",
    "note": "다시 한 번 말해 주세요 = please say it once more",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_survival_s1_grok_rewrite.md [K050]",
+  "final": ""
+ }
 }

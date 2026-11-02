@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "C",
-   "ko": "내일 새벽 네 시에 예불이 있습니다. 세 시 반에 깨워 드릴게요.",
-   "rd": "naeil saebyeok ne sie yeburi itseumnida. se si bane kkaewo deurilgeyo.",
-   "en": "There is a service at 4 a.m. tomorrow. I'll wake you at 3:30.",
+   "ko": "내일 새벽 네 시에 예불이 있습니다 세 시 반에 깨워 드릴게요",
+   "rd": "naeil saebyeok ne sie yeburi itseumnida se si bane kkaewo deurilgeyo",
+   "en": "There is a service at 4 a.m. tomorrow, I'll wake you at 3:30",
    "note": "예불 = Buddhist service",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "네. 그리고 지금부터 내일 아침까지는 묵언입니다.",
-   "rd": "ne. geurigo jigeumbuteo naeil achimkkajineun mugeonimnida.",
-   "en": "Yes. And from now until tomorrow morning, it's silence.",
+   "ko": "네 그리고 지금부터 내일 아침까지는 묵언입니다",
+   "rd": "ne geurigo jigeumbuteo naeil achimkkajineun mugeonimnida",
+   "en": "Yes, and from now until tomorrow morning it's silence",
    "note": "묵언 = vow of silence",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "(속삭이며) 야, 묵언이래. 말하면 안 돼.",
-   "rd": "(soksagimyeo) ya, mugeonirae. malhamyeon an dwae.",
-   "en": "(whispering) Hey, it's silence. Can't talk.",
+   "ko": "야 묵언이래 말하면 안 돼",
+   "rd": "ya mugeonirae malhamyeon an dwae",
+   "en": "Hey it's silence, can't talk",
    "note": "속삭이다 = whisper",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "(속삭이며) 너 지금 말하고 있잖아.",
-   "rd": "(soksagimyeo) neo jigeum malhago itjana.",
-   "en": "(whispering) You're talking right now.",
+   "ko": "너 지금 말하고 있잖아",
+   "rd": "neo jigeum malhago itjana",
+   "en": "You're talking right now",
    "note": "-고 있잖아 = you ARE doing it",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "두 분, 묵언입니다.",
-   "rd": "du bun, mugeonimnida.",
-   "en": "You two. Silence.",
+   "ko": "두 분 묵언입니다",
+   "rd": "du bun mugeonimnida",
+   "en": "You two, silence",
    "note": "두 분 = the two of you (honorific)",
    "tags": [],
    "new": []
@@ -103,9 +103,9 @@
   {
    "num": 8,
    "speaker": "C",
-   "ko": "(다음 날) 발우공양입니다. 밥은 한 톨도 남기지 않습니다.",
-   "rd": "(daeum nal) barugongyangimnida. babeun han toldo namgiji ansseumnida.",
-   "en": "(next morning) This is the formal meal. Not one grain of rice is left.",
+   "ko": "발우공양입니다 밥은 한 톨도 남기지 않습니다",
+   "rd": "barugongyangimnida babeun han toldo namgiji ansseumnida",
+   "en": "This is the formal meal, not one grain of rice is left",
    "note": "발우공양 = monastic meal · 한 톨 = one grain",
    "tags": [],
    "new": []
@@ -113,8 +113,8 @@
   {
    "num": 9,
    "speaker": "A",
-   "ko": "한 톨도요? 잠깐만요, 이 고추는요?",
-   "rd": "han toldoyo? jamkkanmanyo, i gochuneunyo?",
+   "ko": "한 톨도요? 잠깐만요 이 고추는요?",
+   "rd": "han toldoyo? jamkkanmanyo i gochuneunyo?",
    "en": "Not even one? Wait, what about this pepper?",
    "note": "고추 = chili pepper",
    "tags": [],
@@ -123,9 +123,9 @@
   {
    "num": 10,
    "speaker": "B",
-   "ko": "(속삭이며) 다 먹어야 돼. 그릇도 물로 헹궈서 마셔.",
-   "rd": "(soksagimyeo) da meogeoya dwae. geureutdo mullo henggwoseo masyeo.",
-   "en": "(whispering) You have to eat it all. Even rinse the bowl with water and drink it.",
+   "ko": "다 먹어야 돼 그릇도 물로 헹궈서 마셔",
+   "rd": "da meogeoya dwae geureutdo mullo henggwoseo masyeo",
+   "en": "You have to eat it all, even rinse the bowl with water and drink it",
    "note": "헹구다 = rinse",
    "tags": [],
    "new": []
@@ -143,9 +143,9 @@
   {
    "num": 12,
    "speaker": "C",
-   "ko": "두 분, 또 묵언입니다. 그리고 네, 그 물을 마십니다.",
-   "rd": "du bun, tto mugeonimnida. geurigo ne, geu mureul masimnida.",
-   "en": "You two, silence again. And yes, you drink that water.",
+   "ko": "두 분 또 묵언입니다 그리고 네 그 물을 마십니다",
+   "rd": "du bun tto mugeonimnida geurigo ne geu mureul masimnida",
+   "en": "You two silence again, and yes you drink that water",
    "note": "Kick: the monk heard everything",
    "tags": [],
    "new": []
@@ -153,9 +153,9 @@
   {
    "num": 13,
    "speaker": "A",
-   "ko": "…(물을 마신다) 죄송합니다. 맛있어요.",
-   "rd": "…(mureul masinda) joesonghamnida. masisseoyo.",
-   "en": "…(drinks the water) Sorry. It's tasty.",
+   "ko": "…물을 마신다 죄송합니다 맛있어요",
+   "rd": "…mureul masinda joesonghamnida masisseoyo",
+   "en": "…drinks the water, sorry it's tasty",
    "note": "맛있어요 = delicious",
    "tags": [],
    "new": []
@@ -163,9 +163,9 @@
   {
    "num": 14,
    "speaker": "C",
-   "ko": "묵언.",
-   "rd": "mugeon.",
-   "en": "Silence.",
+   "ko": "묵언",
+   "rd": "mugeon",
+   "en": "Silence",
    "note": "one word",
    "tags": [],
    "new": []
@@ -183,12 +183,16 @@
   {
    "num": 16,
    "speaker": "A",
-   "ko": "민준이가 깼어요. 저 아니에요.",
-   "rd": "minjuniga kkaesseoyo. jeo anieyo.",
-   "en": "Minjun broke it. Not me.",
+   "ko": "민준이가 깼어요 저 아니에요",
+   "rd": "minjuniga kkaesseoyo jeo anieyo",
+   "en": "Minjun broke it, not me",
    "note": "깨다 = to break (a rule)",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r3_travel_b1_grok_rewrite.md [K066]",
+  "final": ""
+ }
 }

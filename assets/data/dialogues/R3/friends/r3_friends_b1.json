@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "C",
-   "ko": "{name}, 이거 가져가. 김치랑 멸치볶음.",
-   "rd": "{name}, igeo gajyeoga. gimchirang myeolchibokkeum.",
-   "en": "{name}, take this. Kimchi and stir-fried anchovies.",
+   "ko": "{name} 이거 가져가 김치랑 멸치볶음",
+   "rd": "{name} igeo gajyeoga gimchirang myeolchibokkeum",
+   "en": "{name} take this, kimchi and stir-fried anchovies",
    "note": "가져가 = take it (with you)",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "아니에요, 괜찮아요! 너무 많아요.",
-   "rd": "anieyo, gwaenchanayo! neomu manayo.",
-   "en": "No, it's okay! It's too much.",
+   "ko": "아니에요 괜찮아요! 너무 많아요",
+   "rd": "anieyo gwaenchanayo! neomu manayo",
+   "en": "No it's okay! It's too much",
    "note": "아니에요 = no, really",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "뭐가 많아. 혼자 사는데 밥은 먹어야지.",
-   "rd": "mwoga mana. honja saneunde babeun meogeoyaji.",
-   "en": "What's too much. You live alone, you have to eat.",
+   "ko": "뭐가 많아 혼자 사는데 밥은 먹어야지",
+   "rd": "mwoga mana honja saneunde babeun meogeoyaji",
+   "en": "What's too much, you live alone you have to eat",
    "note": "-어야지 = you have to",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "그냥 받아. 거절하면 더 줘.",
-   "rd": "geunyang bada. geojeolhamyeon deo jwo.",
-   "en": "Just take it. If you refuse, she gives more.",
+   "ko": "그냥 받아 거절하면 더 줘",
+   "rd": "geunyang bada geojeolhamyeon deo jwo",
+   "en": "Just take it, if you refuse she gives more",
    "note": "거절하다 = to refuse",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "정이야, 정.",
-   "rd": "jeongiya, jeong.",
-   "en": "It's 정, jeong.",
+   "ko": "정이야 정",
+   "rd": "jeongiya jeong",
+   "en": "It's jeong, jeong",
    "note": "정 = affection / attachment — hard to translate",
    "tags": [],
    "new": []
@@ -95,7 +95,7 @@
    "speaker": "A",
    "ko": "정이 뭐예요?",
    "rd": "jeongi mwoyeyo?",
-   "en": "What's 정?",
+   "en": "What's jeong?",
    "note": "뭐예요? = what is",
    "tags": [],
    "new": []
@@ -103,9 +103,9 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "음… 설명하기 어려운데. 그냥… 이거야.",
-   "rd": "eum… seolmyeonghagi eoryeounde. geunyang… igeoya.",
-   "en": "Hmm… it's hard to explain. It's just… this.",
+   "ko": "음… 설명하기 어려운데 그냥… 이거야",
+   "rd": "eum… seolmyeonghagi eoryeounde geunyang… igeoya",
+   "en": "Hmm… it's hard to explain, it's just… this",
    "note": "설명하기 어렵다 = hard to explain",
    "tags": [],
    "new": []
@@ -113,9 +113,9 @@
   {
    "num": 9,
    "speaker": "C",
-   "ko": "반찬통은 다음 주에 와서 돌려줘. 밥 먹고 가.",
-   "rd": "banchantongeun daeum jue waseo dollyeojwo. bap meokgo ga.",
-   "en": "Return the containers next week. Come and eat.",
+   "ko": "반찬통은 다음 주에 와서 돌려줘 밥 먹고 가",
+   "rd": "banchantongeun daeum jue waseo dollyeojwo bap meokgo ga",
+   "en": "Return the containers next week, come and eat",
    "note": "Kick: the container = a reason to come back",
    "tags": [],
    "new": []
@@ -123,9 +123,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "아… 그래서 통을 돌려줘야 하는 거구나.",
-   "rd": "a… geuraeseo tongeul dollyeojwoya haneun geoguna.",
-   "en": "Oh… so that's why I have to return the container.",
+   "ko": "아… 그래서 통을 돌려줘야 하는 거구나",
+   "rd": "a… geuraeseo tongeul dollyeojwoya haneun geoguna",
+   "en": "Oh… so that's why I have to return the container",
    "note": "-는 거구나 = ah, so that's how it is",
    "tags": [],
    "new": []
@@ -133,9 +133,9 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "그니까. 그게 정이야. 빠져나갈 수 없어.",
-   "rd": "geunikka. geuge jeongiya. ppajyeonagal su eopseo.",
-   "en": "Exactly. That's 정. You can't escape it.",
+   "ko": "그니까 그게 정이야 빠져나갈 수 없어",
+   "rd": "geunikka geuge jeongiya ppajyeonagal su eopseo",
+   "en": "Exactly that's jeong, you can't escape it",
    "note": "빠져나가다 = to get out of",
    "tags": [],
    "new": []
@@ -143,9 +143,9 @@
   {
    "num": 12,
    "speaker": "A",
-   "ko": "…감사합니다. 다음 주에 꼭 올게요.",
-   "rd": "…gamsahamnida. daeum jue kkok olgeyo.",
-   "en": "…Thank you. I'll definitely come next week.",
+   "ko": "…감사합니다 다음 주에 꼭 올게요",
+   "rd": "…gamsahamnida daeum jue kkok olgeyo",
+   "en": "…Thank you, I'll definitely come next week",
    "note": "꼭 = for sure",
    "tags": [],
    "new": []
@@ -153,9 +153,9 @@
   {
    "num": 13,
    "speaker": "C",
-   "ko": "그래. 올 때 빈손으로 와. 또 싸 줄 테니까.",
-   "rd": "geurae. ol ttae binsoneuro wa. tto ssa jul tenikka.",
-   "en": "Good. Come empty-handed. I'll pack more.",
+   "ko": "그래 올 때 빈손으로 와 또 싸 줄 테니까",
+   "rd": "geurae ol ttae binsoneuro wa tto ssa jul tenikka",
+   "en": "Good, come empty-handed, I'll pack more",
    "note": "빈손 = empty hands",
    "tags": [],
    "new": []
@@ -173,9 +173,9 @@
   {
    "num": 15,
    "speaker": "B",
-   "ko": "엄마한테는 네가 오는 게 선물이야.",
-   "rd": "eommahanteneun nega oneun ge seonmuriya.",
-   "en": "To my mom, you coming is the gift.",
+   "ko": "엄마한테는 네가 오는 게 선물이야",
+   "rd": "eommahanteneun nega oneun ge seonmuriya",
+   "en": "To my mom, you coming is the gift",
    "note": "-는 게 = the act of…",
    "tags": [],
    "new": []
@@ -183,12 +183,16 @@
   {
    "num": 16,
    "speaker": "A",
-   "ko": "…이거 완전 드라마 대사 같은데요.",
-   "rd": "…igeo wanjeon deurama daesa gateundeyo.",
-   "en": "…That sounds exactly like a drama line.",
+   "ko": "…이거 완전 드라마 대사 같은데요",
+   "rd": "…igeo wanjeon deurama daesa gateundeyo",
+   "en": "…That sounds exactly like a drama line",
    "note": "Kick 2: he notices the cliché",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r3_friends_b1_grok_rewrite.md [K063]",
+  "final": ""
+ }
 }

@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "저기요, 다들 머리에 그거 뭐예요?",
-   "rd": "jeogiyo, dadeul meorie geugeo mwoyeyo?",
-   "en": "Excuse me, what is that on everyone's head?",
+   "ko": "저기요 머리에 그거 뭐예요?",
+   "rd": "jeogiyo meorie geugeo mwoyeyo?",
+   "en": "Excuse me, what's that on the head?",
    "note": "그거 뭐예요? = what is that?",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "양머리요. 수건으로 만들어요.",
-   "rd": "yangmeoriyo. sugeoneuro mandeureoyo.",
-   "en": "A sheep head. You make it with a towel.",
+   "ko": "양머리요 수건으로 만들어요",
+   "rd": "yangmeoriyo sugeoneuro mandeureoyo",
+   "en": "Sheep head, you make it with a towel",
    "note": "양머리 = \"sheep head\" towel",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "진짜요? 어떻게요?",
-   "rd": "jinjjayo? eotteokeyo?",
-   "en": "Really? How?",
+   "ko": "진짜요? 어떻게 해요?",
+   "rd": "jinjjayo? eotteoke haeyo?",
+   "en": "For real? How do you do it?",
    "note": "어떻게요? = how?",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "이렇게 접고… 돌돌 말아요. 자, 해 봐요.",
-   "rd": "ireoke jeopgo… doldol marayo. ja, hae bwayo.",
-   "en": "Fold like this… and roll. Here, try.",
+   "ko": "이렇게 접고 돌돌 말아요 해 봐요",
+   "rd": "ireoke jeopgo doldol marayo hae bwayo",
+   "en": "Fold like this and roll it, try",
    "note": "접다 = fold · 말다 = roll",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "…이렇게요? 헐, 됐다!",
-   "rd": "…ireokeyo? heol, dwaetda!",
-   "en": "…Like this? Whoa, it worked!",
+   "ko": "이렇게요? 헐 됐다!",
+   "rd": "ireokeyo? heol dwaetda!",
+   "en": "Like this? Whoa it worked!",
    "note": "됐다 = it worked",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "ㅋㅋ 잘했어요. 이제 식혜랑 구운 계란 사 와요.",
-   "rd": "ㅋㅋ jalhaesseoyo. ije sikyerang guun gyeran sa wayo.",
-   "en": "Haha, well done. Now go buy 식혜 and baked eggs.",
+   "ko": "ㅋㅋ 잘했어요 이제 식혜랑 계란 사 와요",
+   "rd": "ㅋㅋ jalhaesseoyo ije sikyerang gyeran sa wayo",
+   "en": "Lol good job, now go buy sikhye and eggs",
    "note": "Kick: the mandatory combo",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "그것도 규칙이에요?",
-   "rd": "geugeotdo gyuchigieyo?",
-   "en": "Is that a rule too?",
+   "ko": "그것도요? 감사합니다",
+   "rd": "geugeotdoyo? gamsahamnida",
+   "en": "That too? Thank you",
    "note": "규칙 = rule",
    "tags": [],
    "new": []
@@ -102,12 +102,16 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "드라마 안 봤어요? 찜질방 국룰이에요.",
-   "rd": "deurama an bwasseoyo? jjimjilbang gungnurieyo.",
-   "en": "Haven't you watched dramas? It's the jjimjilbang law.",
+   "ko": "드라마 안 봤어요? 찜질방 국룰이에요…",
+   "rd": "deurama an bwasseoyo? jjimjilbang gungnurieyo…",
+   "en": "Haven't you seen dramas? It's the jjimjilbang rule…",
    "note": "국룰 — running joke across episodes",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_travel_a1_grok_rewrite.md [K053]",
+  "final": ""
+ }
 }

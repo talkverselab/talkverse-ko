@@ -32,8 +32,8 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "저기요, 이거 홍대 가요?",
-   "rd": "jeogiyo, igeo hongdae gayo?",
+   "ko": "저기요 이거 홍대 가요?",
+   "rd": "jeogiyo igeo hongdae gayo?",
    "en": "Excuse me, does this go to Hongdae?",
    "note": "-에 가요? = does it go to…?",
    "tags": [],
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "홍대? 반대예요, 반대.",
-   "rd": "hongdae? bandaeyeyo, bandae.",
-   "en": "Hongdae? Opposite direction, opposite.",
+   "ko": "홍대? 반대예요 반대",
+   "rd": "hongdae? bandaeyeyo bandae",
+   "en": "Hongdae? Opposite, opposite",
    "note": "반대 = the opposite",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "네? 반대…요?",
-   "rd": "ne? bandae…yo?",
-   "en": "Sorry? Opp…osite?",
+   "ko": "네? 반대요?",
+   "rd": "ne? bandaeyo?",
+   "en": "Sorry? Opposite?",
    "note": "echoing to check",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "아이고. 학생, 다음 역에서 내려서 건너가요.",
-   "rd": "aigo. haksaeng, daeum yeogeseo naeryeoseo geonneogayo.",
-   "en": "Oh dear. Get off at the next stop and cross over.",
+   "ko": "아이고 학생 다음 역에서 내려 건너가요",
+   "rd": "aigo haksaeng daeum yeogeseo naeryeo geonneogayo",
+   "en": "Oh dear, student, get off next and cross",
    "note": "Kick: the ajumma takes over — 학생 = she calls him \"student\"",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "잘 모르겠어요… 여기가 어디예요?",
-   "rd": "jal moreugesseoyo… yeogiga eodiyeyo?",
-   "en": "I'm not sure… where are we?",
+   "ko": "잘 모르겠어요 여기 어디예요?",
+   "rd": "jal moreugesseoyo yeogi eodiyeyo?",
+   "en": "I don't really know, where are we?",
    "note": "잘 모르겠어요 = I'm not sure",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "따라와요. 나도 거기서 갈아타.",
-   "rd": "ttarawayo. nado geogiseo garata.",
-   "en": "Follow me. I transfer there too.",
+   "ko": "따라와요 나도 거기서 갈아타요",
+   "rd": "ttarawayo nado geogiseo garatayo",
+   "en": "Follow me, I transfer there too",
    "note": "갈아타다 = to transfer",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "감사합니다! 정말 감사합니다.",
-   "rd": "gamsahamnida! jeongmal gamsahamnida.",
-   "en": "Thank you! Thank you so much.",
+   "ko": "감사합니다 정말 감사합니다",
+   "rd": "gamsahamnida jeongmal gamsahamnida",
+   "en": "Thank you, really thank you",
    "note": "정말 = really",
    "tags": [],
    "new": []
@@ -102,12 +102,16 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "뭘. 한국말 잘하네, 학생.",
-   "rd": "mwol. hangungmal jalhane, haksaeng.",
-   "en": "Don't mention it. Your Korean's good, student.",
+   "ko": "뭘요 한국말 잘하네 학생…",
+   "rd": "mworyo hangungmal jalhane haksaeng…",
+   "en": "Don't mention it, your Korean's good, student…",
    "note": "뭘 = (it's) nothing",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_survival_s3_grok_rewrite.md [K052]",
+  "final": ""
+ }
 }

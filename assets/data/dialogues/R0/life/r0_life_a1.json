@@ -31,9 +31,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "잠깐만! 그거 뭐야?",
-   "rd": "jamkkanman! geugeo mwoya?",
-   "en": "Wait! What's that?",
+   "ko": "{name} 잠깐만 그거 뭐야?",
+   "rd": "{name} jamkkanman geugeo mwoya?",
+   "en": "{name} wait a sec, what's that?",
    "note": "잠깐만 = wait",
    "tags": [],
    "new": []
@@ -41,9 +41,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "쓰레기. 버리러 가.",
-   "rd": "sseuregi. beorireo ga.",
-   "en": "Trash. Going to throw it out.",
+   "ko": "쓰레기야 버리러 가는 중",
+   "rd": "sseuregiya beorireo ganeun jung",
+   "en": "It's trash, I'm heading out to dump it",
    "note": "버리다 = to throw away",
    "tags": [],
    "new": []
@@ -51,9 +51,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "아니아니. 이거 다 같이?",
-   "rd": "aniani. igeo da gachi?",
-   "en": "No no. All of this together?",
+   "ko": "아니 이거 다 섞어 담았어?",
+   "rd": "ani igeo da seokkeo damasseo?",
+   "en": "No, did you mix them all in one?",
    "note": "다 같이 = all together",
    "tags": [],
    "new": []
@@ -61,9 +61,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "어? 응. 왜?",
-   "rd": "eo? eung. wae?",
-   "en": "Huh? Yeah. Why?",
+   "ko": "어? 응 다 쓰레기잖아 왜?",
+   "rd": "eo? eung da sseuregijana wae?",
+   "en": "Huh? Yeah it's all trash, why?",
    "note": "왜? = why",
    "tags": [],
    "new": []
@@ -71,9 +71,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "플라스틱, 종이, 음식… 다 따로!",
-   "rd": "peullaseutik, jongi, eumsik… da ttaro!",
-   "en": "Plastic, paper, food… all separate!",
+   "ko": "플라스틱이랑 종이 음식 다 따로야",
+   "rd": "peullaseutigirang jongi eumsik da ttaroya",
+   "en": "Plastic, paper, and food—all separate",
    "note": "Kick: four bins, not one — 따로 = separately",
    "tags": [],
    "new": []
@@ -81,9 +81,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "다 따로? 네 개?",
-   "rd": "da ttaro? ne gae?",
-   "en": "All separate? Four?",
+   "ko": "헐 다 따로 해야 해?",
+   "rd": "heol da ttaro haeya hae?",
+   "en": "Whoa, they all have to be separate?",
    "note": "네 개 = four (things)",
    "tags": [],
    "new": []
@@ -91,9 +91,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "응. 그리고 음식 쓰레기는 저 통.",
-   "rd": "eung. geurigo eumsik sseuregineun jeo tong.",
-   "en": "Yeah. And food waste goes in that bin.",
+   "ko": "응 음식은 저 통에 넣어",
+   "rd": "eung eumsigeun jeo tonge neoeo",
+   "en": "Yeah, food waste goes in that bin",
    "note": "음식 쓰레기 = food waste",
    "tags": [],
    "new": []
@@ -101,12 +101,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…한국 쓰레기 어렵다.",
-   "rd": "…hanguk sseuregi eoryeopda.",
-   "en": "…Korean trash is hard.",
+   "ko": "어… 한국 쓰레기 어렵다…",
+   "rd": "eo… hanguk sseuregi eoryeopda…",
+   "en": "Uh… Korean trash is hard…",
    "note": "어렵다 = (it's) hard",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_life_a1_grok_rewrite.md [K043]",
+  "final": ""
+ }
 }

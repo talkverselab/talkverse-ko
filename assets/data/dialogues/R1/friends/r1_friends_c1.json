@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "내일 7시 ㄱㄱ?",
-   "rd": "naeil 7si ㄱㄱ?",
-   "en": "Tomorrow 7, ㄱㄱ?",
+   "ko": "{name} 내일 7시 ㄱㄱ?",
+   "rd": "{name} naeil 7si ㄱㄱ?",
+   "en": "{name} tomorrow 7, ㄱㄱ?",
    "note": "ㄱㄱ = 고고 = let's go",
    "tags": [],
    "new": [],
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "ㄱㄱ 가 뭐야?",
-   "rd": "ㄱㄱ ga mwoya?",
-   "en": "What's ㄱㄱ?",
+   "ko": "ㄱㄱ가 뭐야 그거",
+   "rd": "ㄱㄱga mwoya geugeo",
+   "en": "What's ㄱㄱ, that thing?",
    "note": "뭐야 = what is",
    "tags": [],
    "new": [],
@@ -56,9 +56,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "고고! 가자고 ㅋㅋ",
-   "rd": "gogo! gajago ㅋㅋ",
-   "en": "Go go! Let's go lol",
+   "ko": "고고야 가자고 ㅋㅋ",
+   "rd": "gogoya gajago ㅋㅋ",
+   "en": "It's gogo, let's go lol",
    "note": "초성 = just the first consonants",
    "tags": [],
    "new": [],
@@ -68,9 +68,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "아 ㅋㅋ 그럼 ㅇㅇ",
-   "rd": "a ㅋㅋ geureom ㅇㅇ",
-   "en": "Oh lol then ㅇㅇ",
+   "ko": "아 ㅋㅋ 그럼 ㅇㅇ 갈게",
+   "rd": "a ㅋㅋ geureom ㅇㅇ galge",
+   "en": "Oh lol then ㅇㅇ I'll come",
    "note": "Kick: he fires one back — correctly",
    "tags": [],
    "new": [],
@@ -80,9 +80,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "오 배웠네? ㅇㅇ = 응응",
-   "rd": "o baewonne? ㅇㅇ = eungeung",
-   "en": "Oh, you learned! ㅇㅇ = yeah yeah",
+   "ko": "오 배웠네 ㅇㅇ는 응응이야",
+   "rd": "o baewonne ㅇㅇneun eungeungiya",
+   "en": "Oh you got it, ㅇㅇ means yeah yeah",
    "note": "배웠네 = you learned",
    "tags": [],
    "new": [],
@@ -92,9 +92,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "ㄴㄴ 는?",
-   "rd": "ㄴㄴ neun?",
-   "en": "And ㄴㄴ?",
+   "ko": "그럼 ㄴㄴ는 뭐야?",
+   "rd": "geureom ㄴㄴneun mwoya?",
+   "en": "Then what's ㄴㄴ?",
    "note": "-는? = and what about",
    "tags": [],
    "new": [],
@@ -104,9 +104,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "노노. 아니라는 뜻.",
-   "rd": "nono. aniraneun tteut.",
-   "en": "No no. It means \"no\".",
+   "ko": "ㄴㄴ는 노노 아니라는 뜻",
+   "rd": "ㄴㄴneun nono aniraneun tteut",
+   "en": "ㄴㄴ is nono, means no",
    "note": "뜻 = meaning",
    "tags": [],
    "new": [],
@@ -116,14 +116,18 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "ㅇㅋ ㄱㄱ ㅋㅋㅋ",
-   "rd": "ㅇㅋ ㄱㄱ ㅋㅋㅋ",
-   "en": "ㅇㅋ ㄱㄱ lolol",
+   "ko": "ㅇㅋ 그럼 ㄱㄱ ㅋㅋ…",
+   "rd": "ㅇㅋ geureom ㄱㄱ ㅋㅋ…",
+   "en": "Okay then ㄱㄱ lol…",
    "note": "ㅇㅋ = 오케이",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "20:05"
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_friends_c1_grok_rewrite.md [K047]",
+  "final": ""
+ }
 }

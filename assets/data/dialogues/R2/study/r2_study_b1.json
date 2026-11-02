@@ -46,9 +46,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "난 내 부분 다 했어. 3장.",
-   "rd": "nan nae bubun da haesseo. 3jang.",
-   "en": "I finished my part. Three slides.",
+   "ko": "난 내 부분 다 했어 3장",
+   "rd": "nan nae bubun da haesseo 3jang",
+   "en": "I finished my part, three slides",
    "note": "부분 = part",
    "tags": [],
    "new": [],
@@ -68,9 +68,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "9시. 아침 9시.",
-   "rd": "9si. achim 9si.",
-   "en": "9. 9 a.m.",
+   "ko": "9시 아침 9시",
+   "rd": "9si achim 9si",
+   "en": "9, 9 a.m.",
    "note": "아침 = morning",
    "tags": [],
    "new": [],
@@ -112,9 +112,9 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "아 몰라. 일단 내가 틀 만들게. ㄱㄱ",
-   "rd": "a molla. ildan naega teul mandeulge. ㄱㄱ",
-   "en": "Ugh. I'll make the template first. Go go.",
+   "ko": "아 몰라 일단 내가 틀 만들게 ㄱㄱ",
+   "rd": "a molla ildan naega teul mandeulge ㄱㄱ",
+   "en": "Ugh I'll make the template first, go go",
    "note": "틀 = template",
    "tags": [],
    "new": [],
@@ -123,9 +123,9 @@
   {
    "num": 9,
    "speaker": "C",
-   "ko": "나 디자인 할게. 글은 못 써.",
-   "rd": "na dijain halge. geureun mot sseo.",
-   "en": "I'll do design. I can't write.",
+   "ko": "나 디자인 할게 글은 못 써",
+   "rd": "na dijain halge geureun mot sseo",
+   "en": "I'll do design, I can't write",
    "note": "디자인 = design",
    "tags": [],
    "new": [],
@@ -134,9 +134,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "그럼 내가 민호 부분도 쓸게. 3장 더.",
-   "rd": "geureom naega minho bubundo sseulge. 3jang deo.",
-   "en": "Then I'll write Minho's part too. Three more.",
+   "ko": "그럼 내가 민호 부분도 쓸게 3장 더",
+   "rd": "geureom naega minho bubundo sseulge 3jang deo",
+   "en": "Then I'll write Minho's part too, three more",
    "note": "-도 = also",
    "tags": [],
    "new": [],
@@ -145,9 +145,9 @@
   {
    "num": 11,
    "speaker": "D",
-   "ko": "(새벽 3시) 미안 자고 있었어 ㅋㅋ 뭐 하면 돼?",
-   "rd": "(saebyeok 3si) mian jago isseosseo ㅋㅋ mwo hamyeon dwae?",
-   "en": "(3 a.m.) Sorry I was asleep lol, what should I do?",
+   "ko": "새벽 3시 미안 자고 있었어 ㅋㅋ 뭐 하면 돼?",
+   "rd": "saebyeok 3si mian jago isseosseo ㅋㅋ mwo hamyeon dwae?",
+   "en": "3 a.m. sorry I was asleep lol, what should I do?",
    "note": "Kick: he appears when it's done",
    "tags": [],
    "new": [],
@@ -156,13 +156,17 @@
   {
    "num": 12,
    "speaker": "B",
-   "ko": "발표. 네가 다 해.",
-   "rd": "balpyo. nega da hae.",
-   "en": "The presentation. You do all of it.",
+   "ko": "발표 네가 다 해",
+   "rd": "balpyo nega da hae",
+   "en": "The presentation, you do all of it",
    "note": "네가 다 해 = you do it all",
    "tags": [],
    "new": [],
    "at": "03:03"
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_study_b1_grok_rewrite.md [K059]",
+  "final": ""
+ }
 }

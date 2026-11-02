@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "{name}, 최애 누구야?",
-   "rd": "{name}, choeae nuguya?",
-   "en": "{name}, who's your 최애?",
+   "ko": "{name}아 이거 봐 너 최애 누구야?",
+   "rd": "{name}a igeo bwa neo choeae nuguya?",
+   "en": "{name}, look at this—who's your fave?",
    "note": "최애 = favorite member / bias",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "최애? 그게 뭐야?",
-   "rd": "choeae? geuge mwoya?",
-   "en": "최애? What's that?",
+   "ko": "최애 뭐야 그게?",
+   "rd": "choeae mwoya geuge?",
+   "en": "최애? What's that even?",
    "note": "그게 뭐야 = what is that",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "제일 좋아하는 사람! 아이돌!",
-   "rd": "jeil joahaneun saram! aidol!",
-   "en": "The person you like most! An idol!",
+   "ko": "제일 좋아하는 아이돌이야.",
+   "rd": "jeil joahaneun aidoriya.",
+   "en": "Your absolute favorite idol.",
    "note": "제일 = the most",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "아… 나는… 너?",
-   "rd": "a… naneun… neo?",
-   "en": "Oh… mine is… you?",
+   "ko": "헐 내 최애 너야?",
+   "rd": "heol nae choeae neoya?",
+   "en": "Whoa, is it you? Are you my fave?",
    "note": "Kick: he picks her",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "헐 ㅋㅋ 아이돌 중에서!",
-   "rd": "heol ㅋㅋ aidol jungeseo!",
-   "en": "Omg lol among idols!",
+   "ko": "헐 아니 아이돌 중에서!",
+   "rd": "heol ani aidol jungeseo!",
+   "en": "Whoa no, among idols!",
    "note": "중에서 = among",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "아이돌 몰라. 한 명도.",
-   "rd": "aidol molla. han myeongdo.",
-   "en": "I don't know idols. Not one.",
+   "ko": "아이돌 하나도 몰라.",
+   "rd": "aidol hanado molla.",
+   "en": "I don't know a single idol.",
    "note": "한 명도 = not even one",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "진짜? 오늘부터 입덕이야. 앉아.",
-   "rd": "jinjja? oneulbuteo ipdeogiya. anja.",
-   "en": "Really? From today you're a fan. Sit.",
+   "ko": "진짜 오늘부터 입덕이야 앉아.",
+   "rd": "jinjja oneulbuteo ipdeogiya anja.",
+   "en": "For real? Starting today then. Sit.",
    "note": "입덕 = becoming a fan",
    "tags": [],
    "new": []
@@ -102,12 +102,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…귀여워, 얘.",
-   "rd": "…gwiyeowo, yae.",
-   "en": "…This one's cute.",
+   "ko": "어… 귀여워 이거…",
+   "rd": "eo… gwiyeowo igeo…",
+   "en": "Uh… this one's cute…",
    "note": "귀여워 = cute — it begins",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_culture_a1_grok_rewrite.md [K041]",
+  "final": ""
+ }
 }

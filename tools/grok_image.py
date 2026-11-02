@@ -10,25 +10,21 @@ a = sys.argv[1:]; src, dst = a[0], a[1]
 frag = a[a.index('--tab') + 1] if '--tab' in a else '91501f08'
 wait = int(a[a.index('--wait') + 1]) if '--wait' in a else 600
 here = os.path.dirname(os.path.abspath(__file__))
-before = len(g.CDP(g.tab(frag)).ev("[...document.querySelectorAll('.response-content-markdown')]") or [])
+GEN = "[...document.querySelectorAll('img')].filter(i=>i.src.includes('/generated/')&&i.complete&&i.naturalWidth>0).map(i=>i.src)"
+before = set(g.CDP(g.tab(frag)).ev(GEN) or [])  # 보내기 전에 이미 있던 생성 이미지 — 새로 나타난 것만 받는다(같은 탭을 여러 작업이 써도 안전)
 cmd = ['/usr/bin/python3', f'{here}/grok_send.py', src, dst + '.md', '--tab', frag, '--wait', '45']
 if '--attach' in a: cmd += ['--attach', a[a.index('--attach') + 1]]
 subprocess.run(cmd, capture_output=True, text=True)
 t0 = time.time()
 while time.time() - t0 < wait:
     c = g.CDP(g.tab(frag))
-    n = len(c.ev("[...document.querySelectorAll('.response-content-markdown')]") or [])
-    # 답 본문에 「이미지 생성 중…」 글귀가 끝난 뒤에도 남아 있으므로 글자로 판단하지 않는다 — 중지 버튼 + 로드 끝난 generated 이미지로만
     busy = c.ev("!![...document.querySelectorAll('button')].find(e=>(e.getAttribute('aria-label')||'')==='응답 중지')")
-    imgs = c.ev("(()=>{const r=[...document.querySelectorAll('.response-content-markdown')];const l=r[r.length-1];return l?[...l.querySelectorAll('img')].filter(i=>i.complete&&i.naturalWidth>0).map(i=>i.src).filter(s=>s.includes('generated')):[]})()") or []
-    if n > before and not busy and imgs:
-        u = imgs[0]
+    new = [u for u in (c.ev(GEN) or []) if u not in before]
+    if new and not busy:
+        u = new[-1]
         r = c.call('Runtime.evaluate', expression=f"fetch('{u}',{{credentials:'include'}}).then(r=>r.blob()).then(b=>new Promise(res=>{{const f=new FileReader();f.onload=()=>res(f.result);f.readAsDataURL(b)}}))", awaitPromise=True, returnByValue=True)
         open(dst, 'wb').write(base64.b64decode(r['result']['value'].split(',', 1)[1]))
-        txt = c.ev("(()=>{const r=[...document.querySelectorAll('.response-content-markdown')];return r[r.length-1].innerText})()")
-        open(dst + '.md', 'w', encoding='utf-8').write(txt + '\n\n[images]\n' + '\n'.join(imgs))
-        print('OK', dst, len(txt)); sys.exit(0)
-    if n > before and not busy and time.time() - t0 > 120:
-        print('NOIMAGE'); sys.exit(2)
-    time.sleep(10)
+        open(dst + '.md', 'w', encoding='utf-8').write('[images]\n' + u + '\n')
+        print('OK', dst, u[-50:]); sys.exit(0)
+    time.sleep(8)
 print('TIMEOUT'); sys.exit(1)

@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "7시 59분 50초… 준비됐지? 새로고침 금지!",
-   "rd": "7si 59bun 50cho… junbidwaetji? saerogochim geumji!",
-   "en": "7:59:50… ready? No refreshing!",
+   "ko": "{name}아 준비됐어? 새로고침 하지 마",
+   "rd": "{name}a junbidwaesseo? saerogochim haji ma",
+   "en": "{name}, ready? Don't refresh",
    "note": "새로고침 = refresh",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "알았어. 근데 왜 이렇게 긴장돼?",
-   "rd": "arasseo. geunde wae ireoke ginjangdwae?",
-   "en": "Okay. But why am I so nervous?",
+   "ko": "응 근데 왜 이렇게 떨려?",
+   "rd": "eung geunde wae ireoke tteollyeo?",
+   "en": "Yeah but why am I shaking like this?",
    "note": "긴장되다 = to be nervous",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "5, 4, 3, 2, 1… 눌러!",
-   "rd": "5, 4, 3, 2, 1… nulleo!",
-   "en": "5, 4, 3, 2, 1… click!",
+   "ko": "자 5 4 3 2 1 지금 눌러!",
+   "rd": "ja 5 4 3 2 1 jigeum nulleo!",
+   "en": "Okay 5 4 3 2 1 hit it now!",
    "note": "눌러 = press / click",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "눌렀어! …잠깐만, 「대기 인원 48,000명」?",
-   "rd": "nulleosseo! …jamkkanman, 「daegi inwon 48,000myeong」?",
-   "en": "Clicked! …Wait, \"48,000 people in queue\"?",
+   "ko": "눌렀어 잠깐만 대기 4만 명이래",
+   "rd": "nulleosseo jamkkanman daegi 4man myeongirae",
+   "en": "Clicked—wait, 40,000 in queue?",
    "note": "대기 = waiting",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "피켓팅이니까. 피 튀기는 티켓팅.",
-   "rd": "pikettinginikka. pi twigineun tiketting.",
-   "en": "It's 피켓팅. Blood-splattering ticketing.",
+   "ko": "피켓팅이라 그래 진짜 피 튀겨",
+   "rd": "pikettingira geurae jinjja pi twigyeo",
+   "en": "It's 피켓팅 so yeah, blood-splattering for real",
    "note": "피 = blood + 티켓팅",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "헐… 들어갔다! 자리 골라… 어? 없어졌어.",
-   "rd": "heol… deureogatda! jari golla… eo? eopseojyeosseo.",
-   "en": "Whoa… I'm in! Pick a seat… huh? It's gone.",
+   "ko": "헐 들어갔어! 자리 고르는데 바로 날아갔어",
+   "rd": "heol deureogasseo! jari goreuneunde baro naragasseo",
+   "en": "Whoa I'm in! Picking a seat and it just vanished",
    "note": "Kick: seats vanish mid-click",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "아 몰라, 다른 데! 빨리! 아무 데나!",
-   "rd": "a molla, dareun de! ppalli! amu dena!",
-   "en": "Ugh, another one! Quick! Anywhere!",
+   "ko": "아 몰라 다른 데 빨리 아무거나!",
+   "rd": "a molla dareun de ppalli amugeona!",
+   "en": "Ugh whatever, another one quick—anywhere!",
    "note": "아무 데나 = anywhere",
    "tags": [],
    "new": []
@@ -102,12 +102,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…「예매 완료」. 서아야, 나 됐어. 진짜 됐어.",
-   "rd": "…「yemae wallyo」. seoaya, na dwaesseo. jinjja dwaesseo.",
-   "en": "…\"Booking complete.\" Seoa, I got it. I really got it.",
+   "ko": "어… 예매 됐어. 서아야 나 진짜 됐어…",
+   "rd": "eo… yemae dwaesseo. seoaya na jinjja dwaesseo…",
+   "en": "Uh… booking done. Seoa, I actually got it…",
    "note": "예매 = booking",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_culture_a1_grok_rewrite.md [K045]",
+  "final": ""
+ }
 }

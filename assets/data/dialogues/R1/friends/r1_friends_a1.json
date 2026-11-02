@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "안녕하세요! 혹시 나이가 어떻게 되세요?",
-   "rd": "annyeonghaseyo! hoksi naiga eotteoke doeseyo?",
-   "en": "Hi! If you don't mind, how old are you?",
+   "ko": "안녕하세요 {name} 씨 몇 년생이세요?",
+   "rd": "annyeonghaseyo {name} ssi myeot nyeonsaengiseyo?",
+   "en": "Hi {name}, what year were you born?",
    "note": "나이가 어떻게 되세요? = how old are you? (polite)",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "어… 처음 만났는데 나이요?",
-   "rd": "eo… cheoeum mannanneunde naiyo?",
-   "en": "Uh… we just met and you ask my age?",
+   "ko": "어… 만나자마자 나이요?",
+   "rd": "eo… mannajamaja naiyo?",
+   "en": "Uh… age right after meeting?",
    "note": "처음 = first (time)",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "아, 말 놓으려고요! 몇 년생이에요?",
-   "rd": "a, mal noeuryeogoyo! myeot nyeonsaengieyo?",
-   "en": "Oh, so I know how to talk to you! What year were you born?",
+   "ko": "아 말 놓으려고요 몇 년생?",
+   "rd": "a mal noeuryeogoyo myeot nyeonsaeng?",
+   "en": "Oh to drop the formalities—what year?",
    "note": "말 놓다 = speak casually · 몇 년생 = born what year",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "2001년이요.",
-   "rd": "2001nyeoniyo.",
-   "en": "2001.",
+   "ko": "2001년이요",
+   "rd": "2001nyeoniyo",
+   "en": "2001",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "헐, 저보다 한 살 많네요. 그럼 형이네!",
-   "rd": "heol, jeoboda han sal manneyo. geureom hyeongine!",
-   "en": "Whoa, one year older than me. Then you're my 형!",
+   "ko": "헐 한 살 차이 형이거나 누나네요",
+   "rd": "heol han sal chai hyeongigeona nunaneyo",
+   "en": "Whoa one year older, so 형 or 누나",
    "note": "형 = older brother (male→older male)",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "형? 제가요? 진짜?",
-   "rd": "hyeong? jegayo? jinjja?",
-   "en": "형? Me? Really?",
+   "ko": "형? 누나? 제가요 진짜?",
+   "rd": "hyeong? nuna? jegayo jinjja?",
+   "en": "형? 누나? Me, really?",
    "note": "진짜? = really?",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "네, 형! 형, 뭐 드실래요? 제가 살게요.",
-   "rd": "ne, hyeong! hyeong, mwo deusillaeyo? jega salgeyo.",
-   "en": "Yes, 형! 형, what will you have? My treat.",
+   "ko": "네 형 뭐 드실래요 제가 살게요",
+   "rd": "ne hyeong mwo deusillaeyo jega salgeyo",
+   "en": "Yes 형, what do you want? My treat",
    "note": "Kick: instant hierarchy, instant free meal",
    "tags": [],
    "new": []
@@ -102,12 +102,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…한 살 차이로 밥을 사요?",
-   "rd": "…han sal chairo babeul sayo?",
-   "en": "…You buy a meal over one year?",
+   "ko": "어… 한 살에 밥 사요…",
+   "rd": "eo… han sare bap sayo…",
+   "en": "Uh… buying a meal over one year…",
    "note": "차이 = difference",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_friends_a1_grok_rewrite.md [K046]",
+  "final": ""
+ }
 }

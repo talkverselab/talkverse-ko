@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "내비 찍었어. 「목적지까지 40분」.",
-   "rd": "naebi jjigeosseo. 「mokjeokjikkaji 40bun」.",
-   "en": "Set the navigation. \"40 minutes to destination.\"",
+   "ko": "내비 찍었어 목적지까지 40분",
+   "rd": "naebi jjigeosseo mokjeokjikkaji 40bun",
+   "en": "Set the nav, 40 minutes to destination",
    "note": "목적지 = destination",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "40분? 아까 20분이라며.",
-   "rd": "40bun? akka 20buniramyeo.",
-   "en": "40 minutes? You said 20 earlier.",
+   "ko": "40분? 아까 20분이라며",
+   "rd": "40bun? akka 20buniramyeo",
+   "en": "40 minutes? You said 20 earlier",
    "note": "-라며 = you said…",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "아까는 공항에서였고. 지금은 흑돼지.",
-   "rd": "akkaneun gonghangeseoyeotgo. jigeumeun heukdwaeji.",
-   "en": "That was from the airport. Now it's black pork.",
+   "ko": "아까는 공항에서였고 지금은 흑돼지",
+   "rd": "akkaneun gonghangeseoyeotgo jigeumeun heukdwaeji",
+   "en": "That was from the airport, now it's black pork",
    "note": "흑돼지 = Jeju black pork",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "제주도 왔으면 흑돼지는 국룰이지.",
-   "rd": "jejudo wasseumyeon heukdwaejineun gungnuriji.",
-   "en": "If you're in Jeju, black pork is the law.",
+   "ko": "제주도 왔으면 흑돼지는 국룰이지",
+   "rd": "jejudo wasseumyeon heukdwaejineun gungnuriji",
+   "en": "If you're in Jeju, black pork is the law",
    "note": "국룰",
    "tags": [],
    "new": []
@@ -95,7 +95,7 @@
    "speaker": "C",
    "ko": "어서 옵서예~ 멧 분이우꽈?",
    "rd": "eoseo opseoye~ met buniukkwa?",
-   "en": "Welcome~ How many of you?",
+   "en": "Welcome~ how many of you?",
    "note": "Jeju dialect — 몇 분이에요?",
    "tags": [],
    "new": []
@@ -103,9 +103,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…뭐라고? 민준아, 이거 한국어야?",
-   "rd": "…mworago? minjuna, igeo hangugeoya?",
-   "en": "…What? Minjun, is this Korean?",
+   "ko": "뭐라고? 민준아 이거 한국어야?",
+   "rd": "mworago? minjuna igeo hangugeoya?",
+   "en": "What? Minjun, is this Korean?",
    "note": "뭐라고? = what did you say?",
    "tags": [],
    "new": []
@@ -113,9 +113,9 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "제주 사투리야. 「몇 분이세요」래.",
-   "rd": "jeju saturiya. 「myeot buniseyo」rae.",
-   "en": "It's Jeju dialect. She said \"how many people\".",
+   "ko": "제주 사투리야 「몇 분이세요」래",
+   "rd": "jeju saturiya 「myeot buniseyo」rae",
+   "en": "It's Jeju dialect, she said how many people",
    "note": "사투리 = dialect",
    "tags": [],
    "new": []
@@ -123,9 +123,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "헐… 나 한국어 3년 배웠는데 하나도 모르겠어.",
-   "rd": "heol… na hangugeo 3nyeon baewonneunde hanado moreugesseo.",
-   "en": "Whoa… I studied Korean for three years and understood nothing.",
+   "ko": "헐… 나 한국어 3년 배웠는데 하나도 모르겠어",
+   "rd": "heol… na hangugeo 3nyeon baewonneunde hanado moreugesseo",
+   "en": "Whoa… I studied Korean for three years and understood nothing",
    "note": "하나도 = not one bit",
    "tags": [],
    "new": []
@@ -133,9 +133,9 @@
   {
    "num": 11,
    "speaker": "C",
-   "ko": "ㅋㅋ 육지 사람이우꽈? 두 명 이쪽으로.",
-   "rd": "ㅋㅋ yukji saramiukkwa? du myeong ijjogeuro.",
-   "en": "Haha, from the mainland? Two, this way.",
+   "ko": "ㅋㅋ 육지 사람이우꽈? 두 명 이쪽으로",
+   "rd": "ㅋㅋ yukji saramiukkwa? du myeong ijjogeuro",
+   "en": "Lol from the mainland? Two this way",
    "note": "육지 = the mainland (how Jeju people call the rest)",
    "tags": [],
    "new": []
@@ -143,12 +143,16 @@
   {
    "num": 12,
    "speaker": "A",
-   "ko": "그니까… 여기 외국이네, 외국.",
-   "rd": "geunikka… yeogi oegugine, oeguk.",
-   "en": "So… this is a foreign country. Foreign.",
+   "ko": "그니까… 여기 외국이네 외국",
+   "rd": "geunikka… yeogi oegugine oeguk",
+   "en": "So… this is a foreign country, foreign",
    "note": "외국 = foreign country",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_travel_b1_grok_rewrite.md [K060]",
+  "final": ""
+ }
 }

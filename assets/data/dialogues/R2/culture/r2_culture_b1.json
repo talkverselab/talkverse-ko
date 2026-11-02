@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "이거 딱 1화만 보자. 요즘 난리야.",
-   "rd": "igeo ttak 1hwaman boja. yojeum nalliya.",
-   "en": "Let's watch just one episode of this. Everyone's talking about it.",
+   "ko": "{name}아 이거 딱 1화만 보자 요즘 난리야",
+   "rd": "{name}a igeo ttak 1hwaman boja yojeum nalliya",
+   "en": "{name} let's watch just one of this, it's everywhere",
    "note": "난리야 = it's a craze",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "1화만? 내일 아침 수업인데.",
-   "rd": "1hwaman? naeil achim sueobinde.",
-   "en": "Just one? I have morning class.",
+   "ko": "1화만? 내일 아침 수업인데",
+   "rd": "1hwaman? naeil achim sueobinde",
+   "en": "Just one? I have morning class",
    "note": "-인데 = but I have…",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "1화만. 진짜. 약속.",
-   "rd": "1hwaman. jinjja. yaksok.",
-   "en": "One episode. Really. Promise.",
+   "ko": "1화만 진짜 약속",
+   "rd": "1hwaman jinjja yaksok",
+   "en": "One episode, for real, promise",
    "note": "약속 = promise",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "(1화 끝) …어? 여기서 끝나? 왜 끝나?",
-   "rd": "(1hwa kkeut) …eo? yeogiseo kkeunna? wae kkeunna?",
-   "en": "(end of ep. 1) …Huh? It ends here? Why here?",
+   "ko": "어? 여기서 끝나? 왜 끝나",
+   "rd": "eo? yeogiseo kkeunna? wae kkeunna",
+   "en": "Huh? It ends here? Why",
    "note": "여기서 = here",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "그니까. 2화 틀게.",
-   "rd": "geunikka. 2hwa teulge.",
-   "en": "Right? Playing episode two.",
+   "ko": "그니까 2화 틀게",
+   "rd": "geunikka 2hwa teulge",
+   "en": "Right, playing two",
    "note": "틀다 = to play / turn on",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "잠깐만, 1화만이라며… 아니 틀어, 빨리.",
-   "rd": "jamkkanman, 1hwamaniramyeo… ani teureo, ppalli.",
-   "en": "Wait, you said one… no, play it, quick.",
+   "ko": "잠깐만 1화만이라며… 아니 틀어 빨리",
+   "rd": "jamkkanman 1hwamaniramyeo… ani teureo ppalli",
+   "en": "Wait you said one… no play it quick",
    "note": "Kick: hooked in 60 minutes",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "(4화 끝) 재벌 아들이었어? 말이 돼?",
-   "rd": "(4hwa kkeut) jaebeol adeurieosseo? mari dwae?",
-   "en": "(end of ep. 4) He was a chaebol heir? Does that make sense?",
+   "ko": "재벌 아들이었어? 말이 돼?",
+   "rd": "jaebeol adeurieosseo? mari dwae?",
+   "en": "He was a chaebol heir? Does that make sense?",
    "note": "재벌 = conglomerate family",
    "tags": [],
    "new": []
@@ -102,9 +102,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "말이 안 되는데 멈출 수가 없어. 이게 뭐야.",
-   "rd": "mari an doeneunde meomchul suga eopseo. ige mwoya.",
-   "en": "It makes no sense but I can't stop. What is this.",
+   "ko": "말이 안 되는데 멈출 수가 없어 이게 뭐야",
+   "rd": "mari an doeneunde meomchul suga eopseo ige mwoya",
+   "en": "Makes no sense but I can't stop, what is this",
    "note": "멈추다 = to stop",
    "tags": [],
    "new": []
@@ -112,9 +112,9 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "그게 K-드라마야. 자, 5화.",
-   "rd": "geuge K-deuramaya. ja, 5hwa.",
-   "en": "That's K-drama. Okay, episode five.",
+   "ko": "그게 K-드라마야 자 5화",
+   "rd": "geuge K-deuramaya ja 5hwa",
+   "en": "That's K-drama, okay five",
    "note": "그게 = that is",
    "tags": [],
    "new": []
@@ -122,9 +122,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "됐어, 나 잔다… 5분만 보고.",
-   "rd": "dwaesseo, na janda… 5bunman bogo.",
-   "en": "Forget it, I'm going to bed… after five minutes.",
+   "ko": "됐어 나 잔다… 5분만 보고",
+   "rd": "dwaesseo na janda… 5bunman bogo",
+   "en": "Forget it I'm sleeping… after five minutes",
    "note": "-만 보고 = after just watching",
    "tags": [],
    "new": []
@@ -132,9 +132,9 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "(새벽 4시) 야, 기억상실이야. 기억상실!",
-   "rd": "(saebyeok 4si) ya, gieoksangsiriya. gieoksangsil!",
-   "en": "(4 a.m.) Dude, amnesia. Amnesia!",
+   "ko": "야 기억상실이야 기억상실!",
+   "rd": "ya gieoksangsiriya gieoksangsil!",
+   "en": "Dude it's amnesia, amnesia!",
    "note": "기억상실 = amnesia — classic plot",
    "tags": [],
    "new": []
@@ -142,12 +142,16 @@
   {
    "num": 12,
    "speaker": "A",
-   "ko": "아 몰라, 수업 안 가. 8화 틀어.",
-   "rd": "a molla, sueop an ga. 8hwa teureo.",
-   "en": "Ugh, I'm skipping class. Play eight.",
+   "ko": "아 몰라 수업 안 가 8화 틀어…",
+   "rd": "a molla sueop an ga 8hwa teureo…",
+   "en": "Ugh I'm skipping class, play eight…",
    "note": "수업 안 가 = not going to class",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_culture_b1_grok_rewrite.md [K055]",
+  "final": ""
+ }
 }

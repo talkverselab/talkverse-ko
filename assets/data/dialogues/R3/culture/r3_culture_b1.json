@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "다음 분! 90초입니다.",
-   "rd": "daeum bun! 90choimnida.",
-   "en": "Next! 90 seconds.",
+   "ko": "다음 분! 90초입니다",
+   "rd": "daeum bun! 90choimnida",
+   "en": "Next! 90 seconds",
    "note": "다음 분 = next person",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "(속으로) 외웠어. 「항상 응원하고 있어요. 건강 챙기세요.」",
-   "rd": "(sogeuro) oewosseo. 「hangsang eungwonhago isseoyo. geongang chaenggiseyo.」",
-   "en": "(to self) I memorized it. \"I always support you. Take care of your health.\"",
+   "ko": "외웠어 항상 응원하고 있어요 건강 챙기세요",
+   "rd": "oewosseo hangsang eungwonhago isseoyo geongang chaenggiseyo",
+   "en": "I memorized it, I always support you, take care of your health",
    "note": "응원하다 = to cheer for",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "…네.",
-   "rd": "…ne.",
-   "en": "…Yes.",
+   "ko": "…네",
+   "rd": "…ne",
+   "en": "…Yes",
    "note": "Kick: brain empty",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "ㅋㅋ 「네」가 이름이에요?",
-   "rd": "ㅋㅋ 「ne」ga ireumieyo?",
-   "en": "Haha, is your name \"Yes\"?",
+   "ko": "ㅋㅋ 네가 이름이에요?",
+   "rd": "ㅋㅋ nega ireumieyo?",
+   "en": "Lol is your name Yes?",
    "note": "-이에요? = is it?",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "아 몰라… {name}이요! 죄송해요, 다 까먹었어요.",
-   "rd": "a molla… {name}iyo! joesonghaeyo, da kkameogeosseoyo.",
-   "en": "Ugh… it's {name}! Sorry, I forgot everything.",
+   "ko": "아 몰라… {name}이요! 죄송해요 다 까먹었어요",
+   "rd": "a molla… {name}iyo! joesonghaeyo da kkameogeosseoyo",
+   "en": "Ugh… it's {name}! Sorry I forgot everything",
    "note": "까먹다 = to forget (slang)",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "뭘 까먹었어요? 천천히 말해 봐요.",
-   "rd": "mwol kkameogeosseoyo? cheoncheonhi malhae bwayo.",
-   "en": "What did you forget? Say it slowly.",
+   "ko": "뭘 까먹었어요? 천천히 말해 봐요",
+   "rd": "mwol kkameogeosseoyo? cheoncheonhi malhae bwayo",
+   "en": "What did you forget? Say it slowly",
    "note": "천천히 = slowly — callback S1",
    "tags": [],
    "new": []
@@ -103,9 +103,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "항상… 건강을… 응원하고 있어요.",
-   "rd": "hangsang… geongangeul… eungwonhago isseoyo.",
-   "en": "I always… cheer for… your health.",
+   "ko": "항상… 건강을… 응원하고 있어요",
+   "rd": "hangsang… geongangeul… eungwonhago isseoyo",
+   "en": "I always… cheer for… your health",
    "note": "mixed-up sentence",
    "tags": [],
    "new": []
@@ -113,9 +113,9 @@
   {
    "num": 9,
    "speaker": "C",
-   "ko": "ㅋㅋㅋ 건강을 응원해 줘서 고마워요. 어느 나라에서 왔어요?",
-   "rd": "ㅋㅋㅋ geongangeul eungwonhae jwoseo gomawoyo. eoneu naraeseo wasseoyo?",
-   "en": "Lolol thanks for cheering for my health. Which country are you from?",
+   "ko": "ㅋㅋㅋ 건강을 응원해 줘서 고마워요 어느 나라에서 왔어요?",
+   "rd": "ㅋㅋㅋ geongangeul eungwonhae jwoseo gomawoyo eoneu naraeseo wasseoyo?",
+   "en": "Lolol thanks for cheering for my health, which country are you from?",
    "note": "어느 나라 = which country",
    "tags": [],
    "new": []
@@ -123,9 +123,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "{country}요. 한국어 배운 지 2년 됐어요.",
-   "rd": "{country}yo. hangugeo baeun ji 2nyeon dwaesseoyo.",
-   "en": "{country}. I've been learning Korean for two years.",
+   "ko": "{country}요 한국어 배운 지 2년 됐어요",
+   "rd": "{country}yo hangugeo baeun ji 2nyeon dwaesseoyo",
+   "en": "{country}, I've been learning Korean for two years",
    "note": "-ㄴ 지 2년 = it's been two years since",
    "tags": [],
    "new": []
@@ -133,9 +133,9 @@
   {
    "num": 11,
    "speaker": "C",
-   "ko": "진짜요? 잘하는데요! 포스트잇 질문 볼게요… 「최애 음식」? 떡볶이요.",
-   "rd": "jinjjayo? jalhaneundeyo! poseuteuit jilmun bolgeyo… 「choeae eumsik」? tteokbokkiyo.",
-   "en": "Really? You're good! Let me see your post-it question… \"favorite food\"? Tteokbokki.",
+   "ko": "진짜요? 잘하는데요! 포스트잇 질문 볼게요… 최애 음식? 떡볶이요",
+   "rd": "jinjjayo? jalhaneundeyo! poseuteuit jilmun bolgeyo… choeae eumsik? tteokbokkiyo",
+   "en": "Really? You're good! Let me see your post-it… favorite food? Tteokbokki",
    "note": "포스트잇 = the question sticky note fans prepare",
    "tags": [],
    "new": []
@@ -143,9 +143,9 @@
   {
    "num": 12,
    "speaker": "B",
-   "ko": "10초 남았습니다.",
-   "rd": "10cho namatseumnida.",
-   "en": "10 seconds left.",
+   "ko": "10초 남았습니다",
+   "rd": "10cho namatseumnida",
+   "en": "10 seconds left",
    "note": "남다 = remain",
    "tags": [],
    "new": []
@@ -153,9 +153,9 @@
   {
    "num": 13,
    "speaker": "A",
-   "ko": "헐… 저, 사진… 아니 사인… 아니…",
-   "rd": "heol… jeo, sajin… ani sain… ani…",
-   "en": "Whoa… um, photo… no, autograph… no…",
+   "ko": "헐… 저 사진… 아니 사인… 아니…",
+   "rd": "heol… jeo sajin… ani sain… ani…",
+   "en": "Whoa… um photo… no autograph… no…",
    "note": "panic",
    "tags": [],
    "new": []
@@ -163,9 +163,9 @@
   {
    "num": 14,
    "speaker": "C",
-   "ko": "(손 하트) 다음에 또 와요. 그때는 이름부터 말해요.",
-   "rd": "(son hateu) daeume tto wayo. geuttaeneun ireumbuteo malhaeyo.",
-   "en": "(finger heart) Come again. Next time, start with your name.",
+   "ko": "다음에 또 와요 그때는 이름부터 말해요",
+   "rd": "daeume tto wayo geuttaeneun ireumbuteo malhaeyo",
+   "en": "Come again, next time start with your name",
    "note": "손 하트 = finger heart",
    "tags": [],
    "new": []
@@ -173,9 +173,9 @@
   {
    "num": 15,
    "speaker": "A",
-   "ko": "…감사합니다. 「네」는 잊어 주세요.",
-   "rd": "…gamsahamnida. 「ne」neun ijeo juseyo.",
-   "en": "…Thank you. Please forget the \"yes\".",
+   "ko": "…감사합니다 「네」는 잊어 주세요",
+   "rd": "…gamsahamnida 「ne」neun ijeo juseyo",
+   "en": "…Thank you, please forget the Yes",
    "note": "잊어 주세요 = please forget",
    "tags": [],
    "new": []
@@ -190,5 +190,9 @@
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r3_culture_b1_grok_rewrite.md [K062]",
+  "final": ""
+ }
 }

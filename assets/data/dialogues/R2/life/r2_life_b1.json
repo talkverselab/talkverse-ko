@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "C",
-   "ko": "이 방은 보증금 500에 월세 50이에요.",
-   "rd": "i bangeun bojeunggeum 500e wolse 50ieyo.",
-   "en": "This room is 500 deposit, 50 monthly.",
+   "ko": "이 방은 보증금 500에 월세 50이에요",
+   "rd": "i bangeun bojeunggeum 500e wolse 50ieyo",
+   "en": "This room is 500 deposit, 50 monthly",
    "note": "보증금 = deposit · 월세 = monthly rent — in units of 만 원",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "500만 원이야, 500만 원.",
-   "rd": "500man woniya, 500man won.",
-   "en": "5 million won, 5 million.",
+   "ko": "500만 원이야 500만 원",
+   "rd": "500man woniya 500man won",
+   "en": "5 million won, 5 million",
    "note": "만 원 = 10,000 won — the unspoken unit",
    "tags": [],
    "new": []
@@ -65,7 +65,7 @@
    "speaker": "A",
    "ko": "헐… 그럼 전세는 뭐예요?",
    "rd": "heol… geureom jeonseneun mwoyeyo?",
-   "en": "Whoa… then what's 전세?",
+   "en": "Whoa… then what's jeonse?",
    "note": "전세 = lump-sum lease, no monthly rent",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "전세는 보증금만 크게 내고 월세가 없어요. 이 방은 전세 1억이에요.",
-   "rd": "jeonseneun bojeunggeumman keuge naego wolsega eopseoyo. i bangeun jeonse 1eogieyo.",
-   "en": "With 전세 you pay a big deposit and no monthly rent. This room is 100 million.",
+   "ko": "전세는 보증금만 크게 내고 월세 없어요 이 방은 1억이에요",
+   "rd": "jeonseneun bojeunggeumman keuge naego wolse eopseoyo i bangeun 1eogieyo",
+   "en": "Jeonse is big deposit no monthly, this one's 100 million",
    "note": "억 = 100 million",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "1억… 그걸 왜 내요? 집 사는 거 아니에요?",
-   "rd": "1eok… geugeol wae naeyo? jip saneun geo anieyo?",
-   "en": "100 million… why pay that? Isn't that buying the house?",
+   "ko": "1억… 그걸 왜 내요 집 사는 거 아니에요?",
+   "rd": "1eok… geugeol wae naeyo jip saneun geo anieyo?",
+   "en": "100 million… why pay that, isn't that buying?",
    "note": "-는 거 아니에요? = isn't it…?",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "아니, 나갈 때 다 돌려받아. 그니까 그동안 공짜로 사는 거지.",
-   "rd": "ani, nagal ttae da dollyeobada. geunikka geudongan gongjjaro saneun geoji.",
-   "en": "No, you get it all back when you leave. So you live for free in between.",
+   "ko": "아니 나갈 때 다 돌려받아 그니까 공짜로 사는 거지",
+   "rd": "ani nagal ttae da dollyeobada geunikka gongjjaro saneun geoji",
+   "en": "No you get it all back when you leave, so free in between",
    "note": "돌려받다 = get back",
    "tags": [],
    "new": []
@@ -103,9 +103,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "잠깐만… 1억을 2년 뒤에 돌려줘요? 그냥?",
-   "rd": "jamkkanman… 1eogeul 2nyeon dwie dollyeojwoyo? geunyang?",
-   "en": "Wait… they return 100 million after two years? Just like that?",
+   "ko": "잠깐만… 1억을 2년 뒤에 그냥 돌려줘요?",
+   "rd": "jamkkanman… 1eogeul 2nyeon dwie geunyang dollyeojwoyo?",
+   "en": "Wait… they just return 100 million after two years?",
    "note": "그냥 = just",
    "tags": [],
    "new": []
@@ -113,9 +113,9 @@
   {
    "num": 9,
    "speaker": "C",
-   "ko": "네. 집주인은 그 돈으로 다른 걸 하죠.",
-   "rd": "ne. jipjuineun geu doneuro dareun geol hajyo.",
-   "en": "Yes. The landlord uses that money for other things.",
+   "ko": "네 집주인은 그 돈으로 다른 걸 하죠",
+   "rd": "ne jipjuineun geu doneuro dareun geol hajyo",
+   "en": "Yes the landlord uses that money for other things",
    "note": "집주인 = landlord",
    "tags": [],
    "new": []
@@ -133,9 +133,9 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "응, 거의. 외국인한테 설명하면 다 그 표정이야.",
-   "rd": "eung, geoui. oeguginhante seolmyeonghamyeon da geu pyojeongiya.",
-   "en": "Yeah, pretty much. Every foreigner makes that face.",
+   "ko": "응 거의 외국인한테 설명하면 다 그 표정이야",
+   "rd": "eung geoui oeguginhante seolmyeonghamyeon da geu pyojeongiya",
+   "en": "Yeah pretty much, every foreigner makes that face",
    "note": "그 표정 = that expression",
    "tags": [],
    "new": []
@@ -143,12 +143,16 @@
   {
    "num": 12,
    "speaker": "A",
-   "ko": "…저 월세로 할게요. 500만 원 모으는 것도 힘든데.",
-   "rd": "…jeo wolsero halgeyo. 500man won moeuneun geotdo himdeunde.",
-   "en": "…I'll take monthly. Saving 5 million is hard enough.",
+   "ko": "…저 월세로 할게요 500만 원 모으는 것도 힘든데",
+   "rd": "…jeo wolsero halgeyo 500man won moeuneun geotdo himdeunde",
+   "en": "…I'll take monthly, saving 5 million is hard enough",
    "note": "모으다 = to save (money)",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_life_b1_grok_rewrite.md [K058]",
+  "final": ""
+ }
 }
