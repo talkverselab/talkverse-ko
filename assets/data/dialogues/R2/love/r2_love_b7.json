@@ -1,0 +1,154 @@
+{
+ "id": "r2_love_b7",
+ "region": "R2",
+ "island": "love",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "우산 두 개",
+ "emoji": "☂️",
+ "scene": "비 오는 저녁, 연습실 앞. 태오가 우산 두 개를 들고 나온다 — 학습자 것까지. 그런데 자기 건 안 편다",
+ "speakers": {
+  "A": "{name}",
+  "B": "태오"
+ },
+ "register": "casual",
+ "twist": 9,
+ "flags": [],
+ "kdrama": "비 오는 날 우산 하나 — 일부러 고장 난 우산",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "그니까",
+  "아 몰라"
+ ],
+ "goal": "He brought you an umbrella — and the drama twist on the umbrella scene",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "어? 비 오네. 우산 없는데.",
+   "rd": "eo? bi one. usan eomneunde.",
+   "en": "Huh? It's raining. I don't have an umbrella.",
+   "note": "우산 = umbrella",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "여기. 네 거.",
+   "rd": "yeogi. ne geo.",
+   "en": "Here. Yours.",
+   "note": "네 거 = yours",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "헐, 두 개 들고 왔어? 나 올 줄 알았어?",
+   "rd": "heol, du gae deulgo wasseo? na ol jul arasseo?",
+   "en": "Whoa, you brought two? You knew I'd come?",
+   "note": "올 줄 알았어? = you knew I'd come?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "매일 오잖아. 연습 끝날 때.",
+   "rd": "maeil ojana. yeonseup kkeunnal ttae.",
+   "en": "You come every day. When practice ends.",
+   "note": "-잖아 = you know",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "…그럼 네 건 왜 안 펴?",
+   "rd": "…geureom ne geon wae an pyeo?",
+   "en": "…Then why aren't you opening yours?",
+   "note": "펴다 = open (an umbrella)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "이거 고장 났어.",
+   "rd": "igeo gojang nasseo.",
+   "en": "This one's broken.",
+   "note": "고장 나다 = be broken",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "진짜? 방금 멀쩡했는데?",
+   "rd": "jinjja? banggeum meoljjeonghaenneunde?",
+   "en": "Really? It was fine a second ago.",
+   "note": "멀쩡하다 = perfectly fine",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "…아 몰라. 고장 났다고.",
+   "rd": "…a molla. gojang natdago.",
+   "en": "…Ugh. I said it's broken.",
+   "note": "Kick: he wants to share hers",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "A",
+   "ko": "그니까 하나로 같이 쓰자고?",
+   "rd": "geunikka hanaro gachi sseujago?",
+   "en": "So you're saying let's share one?",
+   "note": "하나로 = with one",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "B",
+   "ko": "드라마에서 그렇게 하던데.",
+   "rd": "deuramaeseo geureoke hadeonde.",
+   "en": "That's what they do in dramas.",
+   "note": "-던데 = from what I've seen",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "A",
+   "ko": "너 아이돌 될 사람이 그런 거 봐도 돼?",
+   "rd": "neo aidol doel sarami geureon geo bwado dwae?",
+   "en": "You're going to be an idol — are you allowed to watch that stuff?",
+   "note": "될 사람 = someone who'll become",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "B",
+   "ko": "연습생도 사람이야. 들어와, 비 맞아.",
+   "rd": "yeonseupsaengdo saramiya. deureowa, bi maja.",
+   "en": "Trainees are people too. Get in, you're getting wet.",
+   "note": "비 맞다 = get rained on — callback 「우산, 하나」",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "initiator": "B"
+}

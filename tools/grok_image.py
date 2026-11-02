@@ -18,8 +18,9 @@ t0 = time.time()
 while time.time() - t0 < wait:
     c = g.CDP(g.tab(frag))
     n = len(c.ev("[...document.querySelectorAll('.response-content-markdown')]") or [])
-    busy = c.ev("document.body.innerText.includes('생성 중') || document.body.innerText.includes('작업 중') || !![...document.querySelectorAll('button')].find(e=>(e.getAttribute('aria-label')||'')==='응답 중지')")
-    imgs = c.ev("(()=>{const r=[...document.querySelectorAll('.response-content-markdown')];const l=r[r.length-1];return l?[...l.querySelectorAll('img')].map(i=>i.src).filter(s=>s.includes('generated')):[]})()") or []
+    # 답 본문에 「이미지 생성 중…」 글귀가 끝난 뒤에도 남아 있으므로 글자로 판단하지 않는다 — 중지 버튼 + 로드 끝난 generated 이미지로만
+    busy = c.ev("!![...document.querySelectorAll('button')].find(e=>(e.getAttribute('aria-label')||'')==='응답 중지')")
+    imgs = c.ev("(()=>{const r=[...document.querySelectorAll('.response-content-markdown')];const l=r[r.length-1];return l?[...l.querySelectorAll('img')].filter(i=>i.complete&&i.naturalWidth>0).map(i=>i.src).filter(s=>s.includes('generated')):[]})()") or []
     if n > before and not busy and imgs:
         u = imgs[0]
         r = c.call('Runtime.evaluate', expression=f"fetch('{u}',{{credentials:'include'}}).then(r=>r.blob()).then(b=>new Promise(res=>{{const f=new FileReader();f.onload=()=>res(f.result);f.readAsDataURL(b)}}))", awaitPromise=True, returnByValue=True)

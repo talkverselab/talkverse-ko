@@ -1,0 +1,153 @@
+{
+ "id": "r2_culture_b2",
+ "region": "R2",
+ "island": "culture",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "연습생 하루",
+ "emoji": "💃",
+ "scene": "태오의 연습실 구경. 거울 벽, 땀 냄새, 저녁은 닭가슴살. 학습자가 안무를 따라 하다가 사고",
+ "speakers": {
+  "A": "{name}",
+  "B": "태오"
+ },
+ "register": "casual",
+ "twist": 9,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "잠깐만",
+  "아 몰라"
+ ],
+ "goal": "Inside a K-pop trainee's day",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "여기가 연습실. 하루 10시간 있어.",
+   "rd": "yeogiga yeonseupsil. haru 10sigan isseo.",
+   "en": "This is the practice room. I'm here ten hours a day.",
+   "note": "연습실 = practice room",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "10시간? 학교는?",
+   "rd": "10sigan? hakgyoneun?",
+   "en": "Ten hours? What about school?",
+   "note": "학교 = school",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "오전에 가고 오후부터 여기. 보컬, 댄스, 외국어.",
+   "rd": "ojeone gago ohubuteo yeogi. bokeol, daenseu, oegugeo.",
+   "en": "School in the morning, here from the afternoon. Vocal, dance, languages.",
+   "note": "오전·오후 = a.m./p.m.",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "외국어도? 헐, 나보다 바쁘네.",
+   "rd": "oegugeodo? heol, naboda bappeune.",
+   "en": "Languages too? Whoa, you're busier than me.",
+   "note": "-보다 = than",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "영어 수업 있어. 발음 좀 봐 줘.",
+   "rd": "yeongeo sueop isseo. bareum jom bwa jwo.",
+   "en": "I have English class. Check my pronunciation.",
+   "note": "발음 = pronunciation",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "좋아. 대신 나 안무 하나 가르쳐 줘.",
+   "rd": "joa. daesin na anmu hana gareuchyeo jwo.",
+   "en": "Sure. In return, teach me one choreography.",
+   "note": "안무 = choreography",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "이거 쉬워. 오른발, 왼발, 턴!",
+   "rd": "igeo swiwo. oreunbal, oenbal, teon!",
+   "en": "This one's easy. Right foot, left foot, turn!",
+   "note": "오른발·왼발 = right/left foot",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "오른발, 왼발, 턴… 잠깐만, 어어—",
+   "rd": "oreunbal, oenbal, teon… jamkkanman, eoeo—",
+   "en": "Right, left, turn… wait, whoa—",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "…거울 괜찮아? 너는?",
+   "rd": "…geoul gwaenchana? neoneun?",
+   "en": "…Is the mirror okay? Are you?",
+   "note": "거울 = mirror",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "거울이 먼저야? 나보다?",
+   "rd": "geouri meonjeoya? naboda?",
+   "en": "The mirror comes first? Before me?",
+   "note": "먼저 = first",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "거울이 200만 원이야.",
+   "rd": "geouri 200man woniya.",
+   "en": "The mirror costs two million won.",
+   "note": "Kick: the priority",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "아 몰라… 진짜? 나 그냥 영어만 가르칠게.",
+   "rd": "a molla… jinjja? na geunyang yeongeoman gareuchilge.",
+   "en": "Ugh… really? I'll just teach English.",
+   "note": "-만 = only",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

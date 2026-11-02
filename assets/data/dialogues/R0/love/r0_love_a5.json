@@ -1,0 +1,113 @@
+{
+ "id": "r0_love_a5",
+ "region": "R0",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "사인해 주세요",
+ "emoji": "🎤",
+ "scene": "홍대 버스킹이 끝난 뒤. 학습자가 노래하던 태오에게 다가간다",
+ "speakers": {
+  "A": "{name}",
+  "B": "태오"
+ },
+ "register": "polite",
+ "twist": 4,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "저기요",
+  "진짜요?",
+  "감사합니다"
+ ],
+ "goal": "Approaching a street performer",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "저기요! 노래 진짜 잘해요.",
+   "rd": "jeogiyo! norae jinjja jalhaeyo.",
+   "en": "Excuse me! You sing really well.",
+   "note": "잘해요 = you're good at it",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "아, 감사합니다! 들어 주셔서요.",
+   "rd": "a, gamsahamnida! deureo jusyeoseoyo.",
+   "en": "Oh, thank you! For listening.",
+   "note": "들어 주셔서 = for listening",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "사인해 주세요!",
+   "rd": "sainhae juseyo!",
+   "en": "Please sign this!",
+   "note": "사인 = autograph",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "사인이요? 저 아이돌 아닌데요 ㅋㅋ",
+   "rd": "sainiyo? jeo aidol anindeyo ㅋㅋ",
+   "en": "Autograph? I'm not an idol lol",
+   "note": "Kick: he's just a busker",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "아직이요. 나중에 비싸져요.",
+   "rd": "ajigiyo. najunge bissajyeoyo.",
+   "en": "Not yet. It'll be worth a lot later.",
+   "note": "아직 = not yet · 비싸지다 = become expensive",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "ㅋㅋ 진짜요? 그럼 이름이…?",
+   "rd": "ㅋㅋ jinjjayo? geureom ireumi…?",
+   "en": "Haha really? Then your name is…?",
+   "note": "이름 = name",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "{name}이요. 「To. {name}」 써 주세요.",
+   "rd": "{name}iyo. 「To. {name}」 sseo juseyo.",
+   "en": "{name}. Write \"To. {name}\".",
+   "note": "To. = Korean autograph convention",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "네. …다음 주도 여기예요. 또 와요.",
+   "rd": "ne. …daeum judo yeogiyeyo. tto wayo.",
+   "en": "Okay. …I'm here next week too. Come again.",
+   "note": "또 와요 = come again — the hook",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "initiator": "A"
+}
