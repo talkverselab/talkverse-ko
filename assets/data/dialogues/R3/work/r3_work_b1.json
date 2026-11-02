@@ -39,7 +39,8 @@
    "en": "Senior I'm done with my work, can I go?",
    "note": "가도 돼요? = may I leave?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_work_b1/cut1"
   },
   {
    "num": 2,
@@ -59,7 +60,8 @@
    "en": "So what? My work is done",
    "note": "그게 왜요? = why does that matter?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_work_b1/cut2"
   },
   {
    "num": 4,
@@ -79,7 +81,8 @@
    "en": "Then how long do I stay?",
    "note": "언제까지 = until when",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_work_b1/cut3"
   },
   {
    "num": 6,
@@ -99,7 +102,8 @@
    "en": "Good work everyone, I'm heading out",
    "note": "수고했어요 = good work today",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_work_b1/cut4"
   },
   {
    "num": 8,
@@ -119,7 +123,8 @@
    "en": "Wait, four minutes left",
    "note": "남다 = remain",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_work_b1/cut5"
   },
   {
    "num": 10,
@@ -139,7 +144,8 @@
    "en": "That's why it's called nunchi, now! Say goodbye as you go",
    "note": "가면서 = while leaving",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_work_b1/cut6"
   },
   {
    "num": 12,
@@ -159,7 +165,8 @@
    "en": "Sure~ see you tomorrow {name} …but Jiho why aren't you leaving?",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_work_b1/cut7"
   },
   {
    "num": 14,
@@ -179,7 +186,8 @@
    "en": "Senior are you reading the room?",
    "note": "눈치 보다 = to watch others' reactions",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_work_b1/cut8"
   },
   {
    "num": 16,

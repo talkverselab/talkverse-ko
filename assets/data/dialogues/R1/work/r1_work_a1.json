@@ -37,7 +37,8 @@
    "en": "{name}, your Korean's good. Have you made coffee?",
    "note": "만들어 봤어요? = have you tried making?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_work_a1/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "Good, then do you know what 아아 is?",
    "note": "아아 = 아이스 아메리카노 (abbreviation)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_work_a1/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "Iced Americano. And 뜨아?",
    "note": "뜨아 = 뜨거운 아메리카노",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_work_a1/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "Oh fast learner, start tomorrow",
    "note": "나와요 = come (to work)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_work_a1/cut4"
   },
   {
    "num": 8,

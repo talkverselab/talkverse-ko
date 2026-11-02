@@ -38,7 +38,8 @@
    "en": "Set the nav, 40 minutes to destination",
    "note": "목적지 = destination",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b1/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "That was from the airport, now it's black pork",
    "note": "흑돼지 = Jeju black pork",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b1/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "If you're in Jeju, black pork is the law",
    "note": "국룰",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b1/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "Welcome~ how many of you?",
    "note": "Jeju dialect — 몇 분이에요?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b1/cut4"
   },
   {
    "num": 8,
@@ -118,7 +122,8 @@
    "en": "It's Jeju dialect, she said how many people",
    "note": "사투리 = dialect",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b1/cut5"
   },
   {
    "num": 10,
@@ -138,7 +143,8 @@
    "en": "Lol from the mainland? Two this way",
    "note": "육지 = the mainland (how Jeju people call the rest)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b1/cut6"
   },
   {
    "num": 12,

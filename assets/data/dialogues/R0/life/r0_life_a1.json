@@ -36,7 +36,8 @@
    "en": "{name} wait a sec, what's that?",
    "note": "잠깐만 = wait",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a1/cut1"
   },
   {
    "num": 2,
@@ -56,7 +57,8 @@
    "en": "No, did you mix them all in one?",
    "note": "다 같이 = all together",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a1/cut2"
   },
   {
    "num": 4,
@@ -76,7 +78,8 @@
    "en": "Plastic, paper, and food—all separate",
    "note": "Kick: four bins, not one — 따로 = separately",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a1/cut3"
   },
   {
    "num": 6,
@@ -96,7 +99,8 @@
    "en": "Yeah, food waste goes in that bin",
    "note": "음식 쓰레기 = food waste",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a1/cut4"
   },
   {
    "num": 8,

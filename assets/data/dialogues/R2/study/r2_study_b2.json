@@ -38,7 +38,8 @@
    "en": "(whispering) Seoa, there are no seats.",
    "note": "하나도 없어 = none at all",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_study_b2/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "There's only a bag. Where's the person?",
    "note": "어디 = where",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_study_b2/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Excuse me, does this seat have an owner?",
    "note": "주인 = owner",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_study_b2/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "…Tomorrow? Not today?",
    "note": "echo",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_study_b2/cut4"
   },
   {
    "num": 8,
@@ -118,7 +122,8 @@
    "en": "Whoa… then should I save tomorrow's seat now too?",
    "note": "sarcasm",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_study_b2/cut5"
   },
   {
    "num": 10,
@@ -138,7 +143,8 @@
    "en": "…Sorry. I'll move the bag.",
    "note": "치우다 = clear away",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_study_b2/cut6"
   },
   {
    "num": 12,

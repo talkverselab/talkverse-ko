@@ -37,7 +37,8 @@
    "en": "{name}, try reading this—닭",
    "note": "읽어 보세요 = try reading",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a1/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "No, dak. Say it one more time please",
    "note": "받침 = final consonant",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a1/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "It stays quiet. How do you read 닭이?",
    "note": "조용히 = quietly",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a1/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "Yes, when a vowel follows the ㄹ comes back",
    "note": "살아나다 = come back to life",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a1/cut4"
   },
   {
    "num": 8,

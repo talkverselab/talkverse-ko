@@ -38,7 +38,8 @@
    "en": "Welcome. How many hours?",
    "note": "대여 = rental",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b2/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "Yes, most palaces and historic sites are free.",
    "note": "유적지 = historic site",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b2/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Pick a color. This one is the most popular now.",
    "note": "인기 = popularity",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b2/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "(stepping out) How is it? I'm the king.",
    "note": "왕 = king",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b2/cut4"
   },
   {
    "num": 8,
@@ -118,7 +122,8 @@
    "en": "Sir, that's a king's outfit, so it's 5,000 won extra.",
    "note": "Kick: kings cost more",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b2/cut5"
   },
   {
    "num": 10,
@@ -138,7 +143,8 @@
    "en": "Haha, demoted from king to scholar.",
    "note": "강등 = demotion",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b2/cut6"
   },
   {
    "num": 12,

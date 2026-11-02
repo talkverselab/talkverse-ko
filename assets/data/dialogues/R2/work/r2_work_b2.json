@@ -38,7 +38,8 @@
    "en": "(whispering) Senior, how do I ask for a day off?",
    "note": "연차 = annual leave",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b2/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "Boss, do you have a moment?",
    "note": "시간 괜찮으세요? = are you free a moment?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b2/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "I've finished this week's report. So… may I take Friday off?",
    "note": "-아도 될까요? = may I…?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b2/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "My parents are visiting Korea for the first time.",
    "note": "처음 = first time",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b2/cut4"
   },
   {
    "num": 8,
@@ -118,7 +122,8 @@
    "en": "Really? Thursday too?",
    "note": "echo",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b2/cut5"
   },
   {
    "num": 10,
@@ -138,7 +143,8 @@
    "en": "Thank you! Thank you so much.",
    "note": "감사합니다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b2/cut6"
   },
   {
    "num": 12,

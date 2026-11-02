@@ -38,7 +38,8 @@
    "en": "There is a service at 4 a.m. tomorrow, I'll wake you at 3:30",
    "note": "예불 = Buddhist service",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_travel_b1/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "Yes, and from now until tomorrow morning it's silence",
    "note": "묵언 = vow of silence",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_travel_b1/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "You're talking right now",
    "note": "-고 있잖아 = you ARE doing it",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_travel_b1/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "I'm sorry…",
    "note": "죄송합니다 = formal apology",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_travel_b1/cut4"
   },
   {
    "num": 8,
@@ -118,7 +122,8 @@
    "en": "Not even one? Wait, what about this pepper?",
    "note": "고추 = chili pepper",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_travel_b1/cut5"
   },
   {
    "num": 10,
@@ -138,7 +143,8 @@
    "en": "Whoa… you drink that water?",
    "note": "그 물 = that water",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_travel_b1/cut6"
   },
   {
    "num": 12,
@@ -158,7 +164,8 @@
    "en": "…drinks the water, sorry it's tasty",
    "note": "맛있어요 = delicious",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_travel_b1/cut7"
   },
   {
    "num": 14,
@@ -178,7 +185,8 @@
    "en": "(bursts out laughing)",
    "note": "묵언 is over",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_travel_b1/cut8"
   },
   {
    "num": 16,

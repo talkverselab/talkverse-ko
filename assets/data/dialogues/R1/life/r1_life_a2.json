@@ -37,7 +37,8 @@
    "en": "Yo wait! This is 1+1.",
    "note": "1+1 = buy one get one free",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a2/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "No, buy one and they give you one more.",
    "note": "더 = more",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a2/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "(10 min later) ...four milks, six snacks, eight cup noodles.",
    "note": "Kick: they bought way too much",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a2/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "But it's half price. Totally worth it.",
    "note": "반값 = half price",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a2/cut4"
   },
   {
    "num": 8,

@@ -40,7 +40,8 @@
    "en": "Yo {name}, what's your MBTI?",
    "note": "MBTI = personality type — a Korean icebreaker",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b2/cut1"
   },
   {
    "num": 2,
@@ -60,7 +61,8 @@
    "en": "It totally matters. Gotta check if we click.",
    "note": "맞다 = to match",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b2/cut2"
   },
   {
    "num": 4,
@@ -80,7 +82,8 @@
    "en": "Whoa for real? Do it now. It's quick.",
    "note": "-면 돼 = it's enough if",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b2/cut3"
   },
   {
    "num": 6,
@@ -100,7 +103,8 @@
    "en": "Knew it. Totally gives E vibes.",
    "note": "그럴 줄 알았어 = I knew it",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b2/cut4"
   },
   {
    "num": 8,
@@ -120,7 +124,8 @@
    "en": "We just met and you came to round two. That's E.",
    "note": "2차 — callback",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b2/cut5"
   },
   {
    "num": 10,
@@ -140,7 +145,8 @@
    "en": "We're both I's. Wanna go home right now.",
    "note": "Kick: the introverts",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b2/cut6"
   },
   {
    "num": 12,

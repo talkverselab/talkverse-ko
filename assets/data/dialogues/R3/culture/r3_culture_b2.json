@@ -40,7 +40,8 @@
    "en": "Extras, gather here! Today is the rain scene.",
    "note": "엑스트라 = extra (actor)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_culture_b2/cut1"
   },
   {
    "num": 2,
@@ -60,7 +61,8 @@
    "en": "We spray it with a water truck. {name}, you're a passerby without an umbrella.",
    "note": "행인 = passerby",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_culture_b2/cut2"
   },
   {
    "num": 4,
@@ -80,7 +82,8 @@
    "en": "That's the point. You walk past the person the lead will hold an umbrella over.",
    "note": "씌워 주다 = cover (someone) with",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_culture_b2/cut3"
   },
   {
    "num": 6,
@@ -100,7 +103,8 @@
    "en": "(slips while walking) Waah!",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_culture_b2/cut4"
   },
   {
    "num": 8,
@@ -120,7 +124,8 @@
    "en": "Cut! Cut! Why are you covering the passerby?!",
    "note": "어떡해요 = what are you doing",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_culture_b2/cut5"
   },
   {
    "num": 10,
@@ -140,7 +145,8 @@
    "en": "No worries, but that take just now… wasn't it kind of good? For real?",
    "note": "괜찮다 = not bad",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_culture_b2/cut6"
   },
   {
    "num": 12,
@@ -160,7 +166,8 @@
    "en": "(watching the monitor) Whoa. The chemistry with the passerby is better?",
    "note": "케미 = chemistry",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_culture_b2/cut7"
   },
   {
    "num": 14,
@@ -180,7 +187,8 @@
    "en": "Yes! …Thank you.",
    "note": "his first line",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_culture_b2/cut8"
   },
   {
    "num": 16,

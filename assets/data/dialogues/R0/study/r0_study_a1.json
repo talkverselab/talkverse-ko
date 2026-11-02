@@ -37,7 +37,8 @@
    "en": "I'll take attendance. Maria?",
    "note": "출석 = attendance",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_study_a1/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "{name}?",
    "note": "name",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_study_a1/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "Haha, is this a restaurant?",
    "note": "Kick: restaurant word",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_study_a1/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "Good. For attendance it's \"네.\"",
    "note": "rule",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_study_a1/cut4"
   },
   {
    "num": 8,

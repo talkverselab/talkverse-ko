@@ -36,7 +36,8 @@
    "en": "Where to, sir/ma'am?",
    "note": "어디 가세요? = where are you going?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a1/cut1"
   },
   {
    "num": 2,
@@ -56,7 +57,8 @@
    "en": "Which part of Myeongdong?",
    "note": "어디 = where",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a1/cut2"
   },
   {
    "num": 4,
@@ -76,7 +78,8 @@
    "en": "Ah then I'll go to the station front",
    "note": "역 앞 = in front of the station",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a1/cut3"
   },
   {
    "num": 6,
@@ -96,7 +99,8 @@
    "en": "Card's fine, tap it in the back",
    "note": "카드 돼요 = card is accepted",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a1/cut4"
   },
   {
    "num": 8,

@@ -37,7 +37,8 @@
    "en": "How would you like it done?",
    "note": "해 드릴까요? = shall I do it for you?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b2/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "A little? About how much?",
    "note": "얼마나 = how much",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b2/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "Sure~ got it. I'll make it nice and fresh.",
    "note": "시원하게 = refreshingly (often means shorter!)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b2/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "(20 min later) All done. How is it?",
    "note": "다 됐습니다 = all done",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b2/cut4"
   },
   {
    "num": 8,
@@ -117,7 +121,8 @@
    "en": "It suits you! This is trendy now.",
    "note": "유행 = trend",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b2/cut5"
   },
   {
    "num": 10,
@@ -137,7 +142,8 @@
    "en": "Next time bring a photo. That's the most accurate.",
    "note": "정확하다 = accurate",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b2/cut6"
   },
   {
    "num": 12,

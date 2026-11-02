@@ -37,7 +37,8 @@
    "en": "Excuse me, what's that on the head?",
    "note": "그거 뭐예요? = what is that?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_travel_a1/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "For real? How do you do it?",
    "note": "어떻게요? = how?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_travel_a1/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "Like this? Whoa it worked!",
    "note": "됐다 = it worked",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_travel_a1/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "That too? Thank you",
    "note": "규칙 = rule",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_travel_a1/cut4"
   },
   {
    "num": 8,

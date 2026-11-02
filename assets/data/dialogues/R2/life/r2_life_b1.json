@@ -38,7 +38,8 @@
    "en": "This room is 500 deposit, 50 monthly",
    "note": "보증금 = deposit · 월세 = monthly rent — in units of 만 원",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b1/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "5 million won, 5 million",
    "note": "만 원 = 10,000 won — the unspoken unit",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b1/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Jeonse is big deposit no monthly, this one's 100 million",
    "note": "억 = 100 million",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b1/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "No you get it all back when you leave, so free in between",
    "note": "돌려받다 = get back",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b1/cut4"
   },
   {
    "num": 8,
@@ -118,7 +122,8 @@
    "en": "Yes the landlord uses that money for other things",
    "note": "집주인 = landlord",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b1/cut5"
   },
   {
    "num": 10,
@@ -138,7 +143,8 @@
    "en": "Yeah pretty much, every foreigner makes that face",
    "note": "그 표정 = that expression",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b1/cut6"
   },
   {
    "num": 12,

@@ -37,7 +37,8 @@
    "en": "Seoa I'm emailing my professor, look at this",
    "note": "봐 줘 = look at it for me",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_study_b1/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "Why? I wrote it kindly",
    "note": "친절하게 = kindly",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_study_b1/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "Really? Then what do I write?",
    "note": "뭐라고 = what (words)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_study_b1/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "-습니까? Isn't that army talk?",
    "note": "callback 「군대 다녀왔어요?」",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_study_b1/cut4"
   },
   {
    "num": 8,
@@ -117,7 +121,8 @@
    "en": "Then \"can I hand in the assignment a bit late?\"",
    "note": "늦게 내다 = submit late",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_study_b1/cut5"
   },
   {
    "num": 10,
@@ -137,7 +142,8 @@
    "en": "…Is this Korean? Six words I don't know in one sentence",
    "note": "문장 = sentence",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_study_b1/cut6"
   },
   {
    "num": 12,
@@ -157,7 +163,8 @@
    "en": "Huh? The professor replied, ㅇㅋ by next week",
    "note": "Kick: the professor uses chat shorthand",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_study_b1/cut7"
   },
   {
    "num": 14,

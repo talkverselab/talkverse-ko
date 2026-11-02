@@ -38,7 +38,8 @@
    "en": "{name}, now it's your turn to bow.",
    "note": "세배 = New Year's bow",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b3/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "Do a deep bow and say \"Happy New Year.\"",
    "note": "새해 복 많이 받으세요 = Happy New Year (lit. receive lots of luck)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b3/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Oh my, well done. Stay healthy and study hard this year.",
    "note": "덕담 = words of blessing",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b3/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "New Year's money. Keep it.",
    "note": "세뱃돈 = New Year gift money",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b3/cut4"
   },
   {
    "num": 8,
@@ -118,7 +122,8 @@
    "en": "That's why Lunar New Year is the best day.",
    "note": "제일 = the best",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b3/cut5"
   },
   {
    "num": 10,
@@ -138,7 +143,8 @@
    "en": "Haha, just once. But have two bowls of rice cake soup.",
    "note": "떡국 = New Year soup — eating one = +1 year",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b3/cut6"
   },
   {
    "num": 12,

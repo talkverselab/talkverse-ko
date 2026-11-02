@@ -40,7 +40,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:40"
+   "at": "17:40",
+   "art": "scene/ko/r1_work_c1/cut1"
   },
   {
    "num": 2,
@@ -64,7 +65,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:41"
+   "at": "17:41",
+   "art": "scene/ko/r1_work_c1/cut2"
   },
   {
    "num": 4,

@@ -37,7 +37,8 @@
    "en": "{name}, ready? Don't refresh",
    "note": "새로고침 = refresh",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_culture_a1/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "Okay 5 4 3 2 1 hit it now!",
    "note": "눌러 = press / click",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_culture_a1/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "It's 피켓팅 so yeah, blood-splattering for real",
    "note": "피 = blood + 티켓팅",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_culture_a1/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "Ugh whatever, another one quick—anywhere!",
    "note": "아무 데나 = anywhere",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_culture_a1/cut4"
   },
   {
    "num": 8,

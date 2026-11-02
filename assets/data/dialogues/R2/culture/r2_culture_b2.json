@@ -37,7 +37,8 @@
    "en": "{name}, this is the practice room. I'm here over 10 hours a day.",
    "note": "연습실 = practice room",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b2/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "Morning school, afternoon here. Vocal and dance, languages too.",
    "note": "오전·오후 = a.m./p.m.",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b2/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "I have English class. Can you check my pronunciation?",
    "note": "발음 = pronunciation",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b2/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "This one's easy. Right foot left foot turn!",
    "note": "오른발·왼발 = right/left foot",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b2/cut4"
   },
   {
    "num": 8,
@@ -117,7 +121,8 @@
    "en": "Is the mirror okay? Are you?",
    "note": "거울 = mirror",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b2/cut5"
   },
   {
    "num": 10,
@@ -137,7 +142,8 @@
    "en": "The mirror's two million won.",
    "note": "Kick: the priority",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b2/cut6"
   },
   {
    "num": 12,

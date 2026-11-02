@@ -31,9 +31,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "사진 찍어 줄게! 거기 서.",
-   "rd": "sajin jjigeo julge! geogi seo.",
-   "en": "I'll take your photo! Stand there.",
+   "ko": "내가 찍어 줄게, 거기 서 봐.",
+   "rd": "naega jjigeo julge, geogi seo bwa.",
+   "en": "I'll take it, stand over there.",
    "note": "찍어 줄게 = I'll take it for you",
    "tags": [],
    "new": [],
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "여기? 좋아.",
-   "rd": "yeogi? joa.",
-   "en": "Here? Okay.",
+   "ko": "여기면 돼? 좋아.",
+   "rd": "yeogimyeon dwae? joa.",
+   "en": "Here is fine? Good.",
    "note": "좋아 = okay",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "하나, 둘, 셋! …브이 해야지!",
-   "rd": "hana, dul, set! …beui haeyaji!",
-   "en": "One, two, three! …You have to do a V!",
+   "ko": "하나 둘 셋, 브이 해 봐.",
+   "rd": "hana dul set, beui hae bwa.",
+   "en": "One, two, three, try a V.",
    "note": "브이 = V-sign pose",
    "tags": [],
    "new": [],
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "브이? 이렇게?",
-   "rd": "beui? ireoke?",
-   "en": "A V? Like this?",
+   "ko": "브이? 이렇게 하면 돼?",
+   "rd": "beui? ireoke hamyeon dwae?",
+   "en": "V? Like this is okay?",
    "note": "이렇게 = like this",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "아니, 볼에. 이렇게. 귀엽게.",
-   "rd": "ani, bore. ireoke. gwiyeopge.",
-   "en": "No, on your cheek. Like this. Cute.",
+   "ko": "아니야, 볼에! 더 귀엽게!",
+   "rd": "aniya, bore! deo gwiyeopge!",
+   "en": "No, on your cheek! Cuter!",
    "note": "볼 = cheek",
    "tags": [],
    "new": [],
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "…진짜? 다 이렇게 해?",
-   "rd": "…jinjja? da ireoke hae?",
-   "en": "…Really? Does everyone do this?",
+   "ko": "진짜? 다들 이렇게 하는 거야?",
+   "rd": "jinjja? dadeul ireoke haneun geoya?",
+   "en": "Really? Does everyone do it like this?",
    "note": "Kick: the cheek-V",
    "tags": [],
    "new": []
@@ -94,9 +94,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "응. 한국 사진은 브이야.",
-   "rd": "eung. hanguk sajineun beuiya.",
-   "en": "Yep. Korean photos = V.",
+   "ko": "응 응, 한국에선 다 브이 해.",
+   "rd": "eung eung, hangugeseon da beui hae.",
+   "en": "Yeah yeah, in Korea everyone does a V.",
    "note": "rule",
    "tags": [],
    "new": [],
@@ -105,12 +105,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "알았어. 브이!",
-   "rd": "arasseo. beui!",
-   "en": "Got it. V!",
+   "ko": "알겠어. 브이 해 볼게.",
+   "rd": "algesseo. beui hae bolge.",
+   "en": "Got it. I'll try a V.",
    "note": "he commits",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_friends_a2_grok_rewrite.md [K103]",
+  "final": ""
+ }
 }

@@ -40,7 +40,8 @@
    "en": "Okay round two, karaoke!",
    "note": "2차 = second round (next place)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b1/cut1"
   },
   {
    "num": 2,
@@ -60,7 +61,8 @@
    "en": "Dinner was one, two is drinks, three is karaoke",
    "note": "1차·2차·3차 — the standard sequence",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b1/cut2"
   },
   {
    "num": 4,
@@ -80,7 +82,8 @@
    "en": "Come on it's Friday, let's go!",
    "note": "에이 = come on",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b1/cut3"
   },
   {
    "num": 6,
@@ -100,7 +103,8 @@
    "en": "We go because we're tired, so hurry",
    "note": "Korean logic",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b1/cut4"
   },
   {
    "num": 8,
@@ -120,7 +124,8 @@
    "en": "Two hours later, round three!",
    "note": "Kick: here we go again",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b1/cut5"
   },
   {
    "num": 10,
@@ -140,7 +145,8 @@
    "en": "Then round three at {name}'s!",
    "note": "Kick 2: they follow him home",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b1/cut6"
   },
   {
    "num": 12,

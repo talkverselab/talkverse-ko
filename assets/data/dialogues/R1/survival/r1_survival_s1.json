@@ -38,7 +38,8 @@
    "en": "Welcome, need a bag? Want me to heat it?",
    "note": "two questions at once, fast",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s1/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "Ah okay, heat up the lunch box?",
    "note": "데워 드릴까요? = shall I heat it for you?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s1/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Chopsticks, spoon, and straw too?",
    "note": "-이랑 = and · -도 = also",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s1/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "Yes, I'll put them all in",
    "note": "넣어 드릴게요 = I'll put (them) in for you",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s1/cut4"
   },
   {
    "num": 8,

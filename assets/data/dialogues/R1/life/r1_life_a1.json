@@ -37,7 +37,8 @@
    "en": "{name} I'm starving, wanna order delivery?",
    "note": "배달 시키다 = to order delivery",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a1/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "It's Korea, even 3 a.m. works",
    "note": "새벽 = early morning hours",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a1/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "Chicken of course, it's the rule lol",
    "note": "국룰 = unwritten rule (slang) — callback 커플티",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a1/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "Whoa it's already here…",
    "note": "Kick: 15 minutes feels like 0",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a1/cut4"
   },
   {
    "num": 8,

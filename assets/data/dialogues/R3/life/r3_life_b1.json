@@ -39,7 +39,8 @@
    "en": "They're stomping again, it's already eleven",
    "note": "쿵쿵거리다 = to thump",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_life_b1/cut1"
   },
   {
    "num": 2,
@@ -59,7 +60,8 @@
    "en": "Should I go up and say something?",
    "note": "올라가다 = go up",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_life_b1/cut2"
   },
   {
    "num": 4,
@@ -79,7 +81,8 @@
    "en": "Whoa is it that serious?",
    "note": "심하다 = severe",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_life_b1/cut3"
   },
   {
    "num": 6,
@@ -99,7 +102,8 @@
    "en": "…I already did once",
    "note": "이미 = already",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_life_b1/cut4"
   },
   {
    "num": 8,
@@ -119,7 +123,8 @@
    "en": "Hello we're from upstairs, it was loud yesterday right?",
    "note": "윗집 = the upstairs household",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_life_b1/cut5"
   },
   {
    "num": 10,
@@ -139,7 +144,8 @@
    "en": "No our kid was running, here rice cakes please have some",
    "note": "Kick: she apologizes with 떡",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_life_b1/cut6"
   },
   {
    "num": 12,
@@ -159,7 +165,8 @@
    "en": "You moved in and we never said hello, if the kid runs again tell us right away",
    "note": "말씀하세요 = please tell (honorific)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_life_b1/cut7"
   },
   {
    "num": 14,
@@ -179,7 +186,8 @@
    "en": "See? That's the Korean solution, with rice cakes",
    "note": "해결 = solution",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_life_b1/cut8"
   },
   {
    "num": 16,
