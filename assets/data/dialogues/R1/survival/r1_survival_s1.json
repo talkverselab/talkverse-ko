@@ -96,10 +96,10 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "네 다 넣어 드릴게요",
-   "rd": "ne da neoeo deurilgeyo",
-   "en": "Yes, I'll put them all in",
-   "note": "넣어 드릴게요 = I'll put (them) in for you",
+   "ko": "네~ 전부요. 봉투요? 영수증요? 적립하세요? 1+1인데 하나 더요?",
+   "rd": "ne~ jeonbuyo. bongtuyo? yeongsujeungyo? jeongnipaseyo? 1+1inde hana deoyo?",
+   "en": "Sure~ everything. Bag? Receipt? Points? It's 1+1, want one more?",
+   "note": "Kick: the questions pile up — chaos",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_survival_s1/cut4"
@@ -107,16 +107,18 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "아니… 다시 한 번 말해 주세요",
-   "rd": "ani… dasi han beon malhae juseyo",
-   "en": "No… please say that again",
-   "note": "다시 한 번 말해 주세요 = please say it once more",
+   "ko": "네! 네! 네! …아니, 잠깐만요! 다시 한 번 말해 주세요!",
+   "rd": "ne! ne! ne! …ani, jamkkanmanyo! dasi han beon malhae juseyo!",
+   "en": "Yes! Yes! Yes! …No, wait! Please say that again!",
+   "note": "다시 한 번 말해 주세요 = please say it again — finally",
    "tags": [],
    "new": []
   }
  ],
  "review": {
   "grok_rewrite": "data/review/r1_survival_s1_grok_rewrite.md [K050]",
-  "final": ""
- }
+  "final": "",
+  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성"
+ },
+ "twist_type": "chaos"
 }

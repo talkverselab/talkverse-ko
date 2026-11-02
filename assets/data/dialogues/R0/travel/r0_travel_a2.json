@@ -36,7 +36,8 @@
    "en": "How much is this?",
    "note": "얼마예요? = how much",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a2/cut1"
   },
   {
    "num": 2,
@@ -56,7 +57,8 @@
    "en": "Please give me a discount!",
    "note": "깎아 주세요 = please lower the price",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a2/cut2"
   },
   {
    "num": 4,
@@ -76,7 +78,8 @@
    "en": "Then... two bags for 5,000?",
    "note": "Kick: bold offer",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a2/cut3"
   },
   {
    "num": 6,
@@ -96,7 +99,8 @@
    "en": "Really? Thank you!",
    "note": "감사합니다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a2/cut4"
   },
   {
    "num": 8,

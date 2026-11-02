@@ -18,7 +18,7 @@
   "B": "유진"
  },
  "register": "chat",
- "twist": 3,
+ "twist": 7,
  "flags": [],
  "kdrama": "",
  "expressions": [
@@ -100,10 +100,10 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋㅋ 알겠어. 그럼 나도 실수할게 ❤️",
-   "rd": "ㅋㅋㅋ algesseo. geureom nado silsuhalge ❤️",
-   "en": "lolol got it. Then I’ll make a mistake too ❤️",
-   "note": "알겠어 = got it · -ㄹ게 = I'll (promise)",
+   "ko": "ㅋㅋㅋ 근데 {name}… 여기 우리 둘 방 아니고 단톡방이야.",
+   "rd": "ㅋㅋㅋ geunde {name}… yeogi uri dul bang anigo dantokbangiya.",
+   "en": "Lolol but {name}… this isn't our chat, it's the group chat.",
+   "note": "Kick: wrong room — chaos",
    "tags": [],
    "new": [],
    "ui": "bubble",
@@ -112,10 +112,10 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "진짜? 몇 번 할 건데?",
-   "rd": "jinjja? myeot beon hal geonde?",
-   "en": "Really? How many times are you gonna do?",
-   "note": "몇 번 = how many times · -ㄹ 건데? = are you going to…?",
+   "ko": "헐… 민준이랑 서아도 다 봤어?? 나 잠깐 나갔다 올게.",
+   "rd": "heol… minjunirang seoado da bwasseo?? na jamkkan nagatda olge.",
+   "en": "Whoa… Minjun and Seoa saw everything?? I'm leaving for a bit.",
+   "note": "나갔다 올게 = I'll step out (leave the chat)",
    "tags": [],
    "new": [],
    "ui": "bubble"
@@ -123,7 +123,9 @@
  ],
  "review": {
   "grok_rewrite": "data/review/r1_love_c1_grok_rewrite.md [K014]",
-  "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정"
+  "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정",
+  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성"
  },
- "learner_gender": "M"
+ "learner_gender": "M",
+ "twist_type": "chaos"
 }

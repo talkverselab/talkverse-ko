@@ -20,7 +20,7 @@
   "D": "대리님"
  },
  "register": "polite",
- "twist": 10,
+ "twist": 13,
  "flags": [],
  "kdrama": "",
  "expressions": [
@@ -160,10 +160,10 @@
   {
    "num": 13,
    "speaker": "D",
-   "ko": "네~ {name} 씨 내일 봐요 …근데 지호 씨는 왜 안 가요?",
-   "rd": "ne~ {name} ssi naeil bwayo …geunde jiho ssineun wae an gayo?",
-   "en": "Sure~ see you tomorrow {name} …but Jiho why aren't you leaving?",
-   "note": "Kick setup",
+   "ko": "오, {name} 씨 가요? 그럼 저도 갈게요.",
+   "rd": "o, {name} ssi gayo? geureom jeodo galgeyo.",
+   "en": "Oh, {name}'s leaving? Then I'll go too.",
+   "note": "one stands up…",
    "tags": [],
    "new": [],
    "art": "scene/ko/r3_work_b1/cut7"
@@ -171,20 +171,20 @@
   {
    "num": 14,
    "speaker": "B",
-   "ko": "아… 저는 할 일이 있어서요",
-   "rd": "a… jeoneun hal iri isseoseoyo",
-   "en": "Oh… I have things to do",
-   "note": "-어서요 = because",
+   "ko": "저도요! 다들 가요!",
+   "rd": "jeodoyo! dadeul gayo!",
+   "en": "Me too! Everyone, let's go!",
+   "note": "…then everyone — chaos",
    "tags": [],
    "new": []
   },
   {
    "num": 15,
    "speaker": "A",
-   "ko": "선배 눈치 보는 거예요?",
-   "rd": "seonbae nunchi boneun geoyeyo?",
-   "en": "Senior are you reading the room?",
-   "note": "눈치 보다 = to watch others' reactions",
+   "ko": "(문이 열리며) 우산 놓고 갔… 어, 다들 어디 가요?",
+   "rd": "(muni yeollimyeo) usan noko gat… eo, dadeul eodi gayo?",
+   "en": "(door opens) I left my umbrel… huh, where is everyone going?",
+   "note": "Kick: the boss comes back",
    "tags": [],
    "new": [],
    "art": "scene/ko/r3_work_b1/cut8"
@@ -192,16 +192,18 @@
   {
    "num": 16,
    "speaker": "B",
-   "ko": "…2교시는 내일",
-   "rd": "…2gyosineun naeil",
-   "en": "…Lesson two tomorrow",
-   "note": "Kick: the teacher is stuck",
+   "ko": "(메신저) …선배, 이것도 눈치예요?",
+   "rd": "(mesinjeo) …seonbae, igeotdo nunchiyeyo?",
+   "en": "(message) …Jiho, is this nunchi too?",
+   "note": "punchline",
    "tags": [],
    "new": []
   }
  ],
  "review": {
   "grok_rewrite": "data/review/r3_work_b1_grok_rewrite.md [K067]",
-  "final": ""
- }
+  "final": "",
+  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성"
+ },
+ "twist_type": "chaos"
 }

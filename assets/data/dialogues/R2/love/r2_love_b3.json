@@ -129,20 +129,20 @@
   {
    "num": 10,
    "speaker": "C",
-   "ko": "네~ 아무거나 두 개 나갑니다!",
-   "rd": "ne~ amugeona du gae nagamnida!",
-   "en": "Sure~ two anythings coming up!",
-   "note": "Some Korean diners really have a menu called 아무거나",
+   "ko": "네~ 아무거나 두 개! 떡볶이, 라면, 김밥, 순대, 튀김… 다 나갑니다!",
+   "rd": "ne~ amugeona du gae! tteokbokki, ramyeon, gimbap, sundae, twigim… da nagamnida!",
+   "en": "Coming right up~ two \"anythings\"! Tteokbokki, ramyeon, gimbap, sundae, fried stuff… everything!",
+   "note": "Kick: \"anything\" = literally everything — chaos",
    "tags": [],
    "new": []
   },
   {
    "num": 11,
    "speaker": "B",
-   "ko": "…진짜 그런 메뉴 있어?",
-   "rd": "…jinjja geureon menyu isseo?",
-   "en": "…There's really a menu like that?",
-   "note": "그런 = that kind of",
+   "ko": "…잠깐만, 이게 다 「아무거나」야? 테이블이 모자라.",
+   "rd": "…jamkkanman, ige da 「amugeona」ya? teibeuri mojara.",
+   "en": "…Wait, all of this is \"anything\"? The table's not big enough.",
+   "note": "모자라다 = not enough",
    "tags": [],
    "new": [],
    "art": "scene/ko/r2_love_b3/cut6"
@@ -150,17 +150,19 @@
   {
    "num": 12,
    "speaker": "A",
-   "ko": "응. 그래서 여기 온 거야. 됐어?",
-   "rd": "eung. geuraeseo yeogi on geoya. dwaesseo?",
-   "en": "Yep. That's why we came here. Happy now?",
-   "note": "됐지? = satisfied? / are we good?",
+   "ko": "응. 이제 「아무거나」 말하기 전에 잘 생각해.",
+   "rd": "eung. ije 「amugeona」 malhagi jeone jal saenggakae.",
+   "en": "Yep. Think hard before you say \"anything\" next time.",
+   "note": "punchline",
    "tags": [],
    "new": []
   }
  ],
  "review": {
   "grok_rewrite": "data/review/r2_love_b3_grok_rewrite.md [K028]",
-  "final": ""
+  "final": "",
+  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성"
  },
- "learner_gender": "M"
+ "learner_gender": "M",
+ "twist_type": "chaos"
 }

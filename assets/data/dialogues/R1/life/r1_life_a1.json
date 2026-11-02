@@ -95,10 +95,10 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "헐 벌써 왔네…",
-   "rd": "heol beolsseo wanne…",
-   "en": "Whoa it's already here…",
-   "note": "Kick: 15 minutes feels like 0",
+   "ko": "…벌써 왔어. 근데 왜 두 마리야?",
+   "rd": "…beolsseo wasseo. geunde wae du mariya?",
+   "en": "…It's already here. But why are there two chickens?",
+   "note": "Kick setup",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_life_a1/cut4"
@@ -106,16 +106,18 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "진짜 지금 시켰는데…",
-   "rd": "jinjja jigeum sikyeonneunde…",
-   "en": "For real we just ordered…",
-   "note": "방금 = just now (implied)",
+   "ko": "아… 나도 아까 몰래 시켰는데. 그럼 오늘 1인 1닭이다!",
+   "rd": "a… nado akka mollae sikyeonneunde. geureom oneul 1in 1dalgida!",
+   "en": "Oh… I secretly ordered one too. Then tonight it's one chicken each!",
+   "note": "1인 1닭 = one chicken per person (slang)",
    "tags": [],
    "new": []
   }
  ],
  "review": {
   "grok_rewrite": "data/review/r1_life_a1_grok_rewrite.md [K048]",
-  "final": ""
- }
+  "final": "",
+  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성"
+ },
+ "twist_type": "chaos"
 }

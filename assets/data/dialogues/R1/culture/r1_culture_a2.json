@@ -37,7 +37,8 @@
    "en": "Here, yours. A light stick.",
    "note": "응원봉 = official light stick",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_culture_a2/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "One's yours. It changes color by Bluetooth.",
    "note": "바뀌다 = change",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_culture_a2/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "Just shout the members' names in order. Memorize.",
    "note": "외우다 = memorize",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_culture_a2/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "Whoa. Then just shout \"I love you!\" loudly.",
    "note": "사랑해 = I love you",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_culture_a2/cut4"
   },
   {
    "num": 8,

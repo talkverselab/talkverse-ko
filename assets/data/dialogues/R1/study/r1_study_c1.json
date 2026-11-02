@@ -18,7 +18,7 @@
   "B": "서아"
  },
  "register": "chat",
- "twist": 5,
+ "twist": 7,
  "flags": [],
  "kdrama": "",
  "expressions": [
@@ -107,10 +107,10 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "…됐다!! 23시 59분!!",
-   "rd": "…dwaetda!! 23si 59bun!!",
-   "en": "…Done!! 11:59!!",
-   "note": "됐다 = it worked",
+   "ko": "…됐다!! 23시 59분!! …잠깐, 이거 경제학 파일 아니야?",
+   "rd": "…dwaetda!! 23si 59bun!! …jamkkan, igeo gyeongjehak pail aniya?",
+   "en": "…Done!! 11:59!! …Wait, isn't this the economics file?",
+   "note": "Kick: wrong file — chaos",
    "tags": [],
    "new": [],
    "ui": "bubble",
@@ -120,10 +120,10 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "ㅋㅋㅋ 아 몰라 나 심장 떨어질 뻔",
-   "rd": "ㅋㅋㅋ a molla na simjang tteoreojil ppeon",
-   "en": "Lolol ugh, my heart almost dropped",
-   "note": "-ㄹ 뻔 = almost",
+   "ko": "ㅋㅋㅋ 아 몰라 교수님한테 메일 써. 격식체로!",
+   "rd": "ㅋㅋㅋ a molla gyosunimhante meil sseo. gyeoksikchero!",
+   "en": "Lolol ugh, email the professor. Formal speech!",
+   "note": "callback 「교수님 메일」",
    "tags": [],
    "new": [],
    "ui": "bubble",
@@ -132,6 +132,8 @@
  ],
  "review": {
   "grok_rewrite": "data/review/r1_study_c1_grok_rewrite.md [K101]",
-  "final": ""
- }
+  "final": "",
+  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성"
+ },
+ "twist_type": "chaos"
 }

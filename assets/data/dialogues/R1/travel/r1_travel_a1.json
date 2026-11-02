@@ -95,10 +95,10 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "그것도요? 감사합니다",
-   "rd": "geugeotdoyo? gamsahamnida",
-   "en": "That too? Thank you",
-   "note": "규칙 = rule",
+   "ko": "그리고 계란은 이마에 깨는 거예요. 드라마처럼.",
+   "rd": "geurigo gyeraneun imae kkaeneun geoyeyo. deuramacheoreom.",
+   "en": "And you crack the egg on your forehead. Like in dramas.",
+   "note": "the jjimjilbang egg-on-forehead ritual",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_travel_a1/cut4"
@@ -106,16 +106,18 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "드라마 안 봤어요? 찜질방 국룰이에요…",
-   "rd": "deurama an bwasseoyo? jjimjilbang gungnurieyo…",
-   "en": "Haven't you seen dramas? It's the jjimjilbang rule…",
-   "note": "국룰 — running joke across episodes",
+   "ko": "(쾅) …아주머니, 이거 날계란이에요!!",
+   "rd": "(kwang) …ajumeoni, igeo nalgyeranieyo!!",
+   "en": "(thunk) …Ma'am, this one's raw!!",
+   "note": "Kick: raw egg on the head — chaos",
    "tags": [],
    "new": []
   }
  ],
  "review": {
   "grok_rewrite": "data/review/r1_travel_a1_grok_rewrite.md [K053]",
-  "final": ""
- }
+  "final": "",
+  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성"
+ },
+ "twist_type": "chaos"
 }

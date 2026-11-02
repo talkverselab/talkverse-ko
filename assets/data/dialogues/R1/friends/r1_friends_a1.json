@@ -37,7 +37,8 @@
    "en": "Hi {name}, what year were you born?",
    "note": "나이가 어떻게 되세요? = how old are you? (polite)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a1/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "Oh to drop the formalities—what year?",
    "note": "말 놓다 = speak casually · 몇 년생 = born what year",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a1/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "Whoa one year older, so 형 or 누나",
    "note": "형 = older brother (male→older male)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a1/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "Yes 형, what do you want? My treat",
    "note": "Kick: instant hierarchy, instant free meal",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a1/cut4"
   },
   {
    "num": 8,
