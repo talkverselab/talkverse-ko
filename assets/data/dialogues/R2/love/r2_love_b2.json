@@ -40,7 +40,8 @@
    "en": "{name}, I have something to say.",
    "note": "할 말 있어 = I have something to tell you",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b2/cut1"
   },
   {
    "num": 2,
@@ -60,7 +61,8 @@
    "en": "It's the soju. …No, it's not.",
    "note": "-때문 = because of",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b2/cut2"
   },
   {
    "num": 4,
@@ -80,7 +82,8 @@
    "en": "I… think I like you.",
    "note": "-는 것 같아 = I think (softened)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b2/cut3"
   },
   {
    "num": 6,
@@ -100,7 +103,8 @@
    "en": "Ugh whatever! I won't remember tomorrow. I'm drunk.",
    "note": "the classic \"blame the soju\" escape",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b2/cut4"
   },
   {
    "num": 8,
@@ -120,7 +124,8 @@
    "en": "…Really? Are you drunk too?",
    "note": "echoing her own excuse",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b2/cut5"
   },
   {
    "num": 10,
@@ -140,7 +145,8 @@
    "en": "…Then you'll remember all of it.",
    "note": "-겠네 = I guess you will",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b2/cut6"
   },
   {
    "num": 12,

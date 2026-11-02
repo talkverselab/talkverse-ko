@@ -40,7 +40,8 @@
    "en": "Hey! You alone?",
    "note": "혼자 = alone",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a5/cut1"
   },
   {
    "num": 2,
@@ -60,7 +61,8 @@
    "en": "Wanna dance?",
    "note": "춤 출래요? = want to dance?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a5/cut2"
   },
   {
    "num": 4,
@@ -80,7 +82,8 @@
    "en": "It’s fine! Just stand there, I’ll dance!",
    "note": "Kick: she'll do all the dancing",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a5/cut3"
   },
   {
    "num": 6,
@@ -100,7 +103,8 @@
    "en": "You’re totally good! Except the rhythm!",
    "note": "빼고 = except",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a5/cut4"
   },
   {
    "num": 8,

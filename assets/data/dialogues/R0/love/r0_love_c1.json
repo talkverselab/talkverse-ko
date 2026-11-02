@@ -37,7 +37,8 @@
    "note": "안 자? = you up? (lit. not sleeping?) — the classic late-night text",
    "tags": [],
    "new": [],
-   "ui": "bubble"
+   "ui": "bubble",
+   "art": "scene/ko/r0_love_c1/cut1"
   },
   {
    "num": 2,
@@ -59,7 +60,8 @@
    "note": "심심해 = bored · -해서 = because",
    "tags": [],
    "new": [],
-   "ui": "bubble"
+   "ui": "bubble",
+   "art": "scene/ko/r0_love_c1/cut2"
   },
   {
    "num": 4,
@@ -81,7 +83,8 @@
    "note": "실수로 = by mistake",
    "tags": [],
    "new": [],
-   "ui": "bubble"
+   "ui": "bubble",
+   "art": "scene/ko/r0_love_c1/cut3"
   },
   {
    "num": 6,
@@ -103,7 +106,8 @@
    "note": "Kick: 일부러 = on purpose — she takes it back",
    "tags": [],
    "new": [],
-   "ui": "bubble"
+   "ui": "bubble",
+   "art": "scene/ko/r0_love_c1/cut4"
   },
   {
    "num": 8,

@@ -37,7 +37,8 @@
    "en": "Um… can you give me your number?",
    "note": "번호 = number (phone number, order number…)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a2/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "For real? Thank you!",
    "note": "진짜요? = really? (polite)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a2/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "Wait… that's the order number.",
    "note": "-잖아요 = you know / come on (polite)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a2/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "Yeah. Phone number.",
    "note": "echo = patient smile",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a2/cut4"
   },
   {
    "num": 8,

@@ -31,19 +31,20 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "저기요! 노래 진짜 잘해요.",
-   "rd": "jeogiyo! norae jinjja jalhaeyo.",
-   "en": "Excuse me! You sing really well.",
+   "ko": "저기요, 방금 진짜 잘하시던데요.",
+   "rd": "jeogiyo, banggeum jinjja jalhasideondeyo.",
+   "en": "Excuse me, you were really good just now.",
    "note": "잘해요 = you're good at it",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a5/cut1"
   },
   {
    "num": 2,
    "speaker": "B",
-   "ko": "아, 감사합니다! 들어 주셔서요.",
-   "rd": "a, gamsahamnida! deureo jusyeoseoyo.",
-   "en": "Oh, thank you! For listening.",
+   "ko": "아, 감사합니다. 그냥 즐긴 거예요.",
+   "rd": "a, gamsahamnida. geunyang jeulgin geoyeyo.",
+   "en": "Oh, thank you. Just enjoyed it.",
    "note": "들어 주셔서 = for listening",
    "tags": [],
    "new": []
@@ -51,18 +52,19 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "사인해 주세요!",
-   "rd": "sainhae juseyo!",
-   "en": "Please sign this!",
+   "ko": "사인 좀 해주실래요?",
+   "rd": "sain jom haejusillaeyo?",
+   "en": "Could you sign this for me?",
    "note": "사인 = autograph",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a5/cut2"
   },
   {
    "num": 4,
    "speaker": "B",
-   "ko": "사인이요? 저 아이돌 아닌데요 ㅋㅋ",
-   "rd": "sainiyo? jeo aidol anindeyo ㅋㅋ",
+   "ko": "사인이요? 저 아이돌 아니에요 ㅋㅋ",
+   "rd": "sainiyo? jeo aidol anieyo ㅋㅋ",
    "en": "Autograph? I'm not an idol lol",
    "note": "Kick: he's just a busker",
    "tags": [],
@@ -71,19 +73,20 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "아직이요. 나중에 비싸져요.",
-   "rd": "ajigiyo. najunge bissajyeoyo.",
-   "en": "Not yet. It'll be worth a lot later.",
+   "ko": "아직이요. 나중에 비싸질 거예요.",
+   "rd": "ajigiyo. najunge bissajil geoyeyo.",
+   "en": "Not yet. It'll get expensive later.",
    "note": "아직 = not yet · 비싸지다 = become expensive",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a5/cut3"
   },
   {
    "num": 6,
    "speaker": "B",
-   "ko": "ㅋㅋ 진짜요? 그럼 이름이…?",
-   "rd": "ㅋㅋ jinjjayo? geureom ireumi…?",
-   "en": "Haha really? Then your name is…?",
+   "ko": "진짜요? ㅋㅋ 이름이요?",
+   "rd": "jinjjayo? ㅋㅋ ireumiyo?",
+   "en": "Really? Haha your name?",
    "note": "이름 = name",
    "tags": [],
    "new": []
@@ -91,23 +94,28 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "{name}이요. 「To. {name}」 써 주세요.",
-   "rd": "{name}iyo. 「To. {name}」 sseo juseyo.",
-   "en": "{name}. Write \"To. {name}\".",
+   "ko": "{name}이에요. 「To. {name}」 해주세요.",
+   "rd": "{name}ieyo. 「To. {name}」 haejuseyo.",
+   "en": "It's {name}. Please do “To. {name}”.",
    "note": "To. = Korean autograph convention",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a5/cut4"
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "네. …다음 주도 여기예요. 또 와요.",
-   "rd": "ne. …daeum judo yeogiyeyo. tto wayo.",
-   "en": "Okay. …I'm here next week too. Come again.",
+   "ko": "네… 다음 주도 여기예요. 또 오세요.",
+   "rd": "ne… daeum judo yeogiyeyo. tto oseyo.",
+   "en": "Yeah… I'm here next week too. Come again.",
    "note": "또 와요 = come again — the hook",
    "tags": [],
    "new": []
   }
  ],
- "initiator": "A"
+ "initiator": "A",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a5_grok_rewrite.md [K071]",
+  "final": ""
+ }
 }

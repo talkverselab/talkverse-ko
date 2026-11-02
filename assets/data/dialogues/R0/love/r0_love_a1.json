@@ -36,7 +36,8 @@
    "en": "Whoa, is it suddenly raining?",
    "note": "갑자기 = suddenly · 헐 = whoa",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a1/cut1"
   },
   {
    "num": 2,
@@ -56,7 +57,8 @@
    "en": "Ah, it's fine. I'll just run!",
    "note": "괜찮아 = it's fine / no thanks · 뛰어갈게 = I'll run (there)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a1/cut2"
   },
   {
    "num": 4,
@@ -76,7 +78,8 @@
    "en": "It's okay, I'm pretty fast.",
    "note": "-거든 = because, you see (giving a reason)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a1/cut3"
   },
   {
    "num": 6,
@@ -96,7 +99,8 @@
    "en": "Huh? What scene?",
    "note": "무슨 = what (kind of) · 장면 = scene",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a1/cut4"
   },
   {
    "num": 8,

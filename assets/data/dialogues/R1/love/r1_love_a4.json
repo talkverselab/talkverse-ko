@@ -38,7 +38,8 @@
    "en": "Excuse me, there’s writing on the cup holder?",
    "note": "써 있다 = to be written",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a4/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "Thanks for coming again today… Really?",
    "note": "와 줘서 = for coming (for me)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a4/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Whoa, you remembered?",
    "note": "알고 있었어요? = you knew?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a4/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "Huh? Then tomorrow I’ll write something.",
    "note": "-ㄹ게요 = I'll",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a4/cut4"
   },
   {
    "num": 8,

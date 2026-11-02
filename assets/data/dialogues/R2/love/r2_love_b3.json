@@ -39,7 +39,8 @@
    "en": "What should we get for lunch?",
    "note": "뭐 먹을래? = what do you want to eat?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b3/cut1"
   },
   {
    "num": 2,
@@ -59,7 +60,8 @@
    "en": "Then how about kimchi stew?",
    "note": "그럼 = then",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b3/cut2"
   },
   {
    "num": 4,
@@ -79,7 +81,8 @@
    "en": "Then pasta?",
    "note": "try two",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b3/cut3"
   },
   {
    "num": 6,
@@ -99,7 +102,8 @@
    "en": "Is it really anything?",
    "note": "맞아? = is that right?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b3/cut4"
   },
   {
    "num": 8,

@@ -38,7 +38,8 @@
    "en": "Excuse me, is this seat okay?",
    "note": "자리 있어요? = is this seat taken? (lit. is there a seat?)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a3/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "Mind if I sit?",
    "note": "-아도 돼요? = may I…?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a3/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Thanks. You here alone?",
    "note": "Kick: he asks the obvious flirt question",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a3/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "Oh… yeah. It’s two now.",
    "note": "echo = flustered",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a3/cut4"
   },
   {
    "num": 8,

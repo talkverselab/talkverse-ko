@@ -32,20 +32,21 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "연습 끝났어! 자?",
-   "rd": "yeonseup kkeunnasseo! ja?",
-   "en": "Practice is over! You asleep?",
+   "ko": "연습 끝났어 ㅋㅋ 너 자?",
+   "rd": "yeonseup kkeunnasseo ㅋㅋ neo ja?",
+   "en": "Practice done lol, you asleep?",
    "note": "연습 = practice (idol trainee)",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:02"
+   "at": "00:02",
+   "art": "scene/ko/r1_love_c4/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "아니 ㅋㅋ 12시에 끝나?",
-   "rd": "ani ㅋㅋ 12sie kkeunna?",
+   "ko": "아니야 ㅋㅋ 12시에 끝나?",
+   "rd": "aniya ㅋㅋ 12sie kkeunna?",
    "en": "Nope lol, you finish at midnight?",
    "note": "12시 = 12 o'clock",
    "tags": [],
@@ -56,20 +57,21 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "오늘은 일찍 끝난 거야.",
-   "rd": "oneureun iljjik kkeunnan geoya.",
-   "en": "Today was early.",
+   "ko": "오늘은 좀 일찍 끝남.",
+   "rd": "oneureun jom iljjik kkeunnam.",
+   "en": "Today ended a bit early.",
    "note": "일찍 = early",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:03"
+   "at": "00:03",
+   "art": "scene/ko/r1_love_c4/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "헐… 밥은 먹었어?",
-   "rd": "heol… babeun meogeosseo?",
+   "ko": "헐… 밥 먹었어?",
+   "rd": "heol… bap meogeosseo?",
    "en": "Whoa… did you eat?",
    "note": "밥은 먹었어? = did you eat? — care",
    "tags": [],
@@ -80,21 +82,22 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "닭가슴살 ㅋㅋ 3년째.",
-   "rd": "dakgaseumsal ㅋㅋ 3nyeonjjae.",
-   "en": "Chicken breast lol. Three years running.",
+   "ko": "닭가슴살 ㅋㅋ 진짜 3년째야 질려.",
+   "rd": "dakgaseumsal ㅋㅋ jinjja 3nyeonjjaeya jillyeo.",
+   "en": "Chicken breast lol, really been 3 years, sick of it.",
    "note": "Kick: the trainee diet",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:04"
+   "at": "00:04",
+   "art": "scene/ko/r1_love_c4/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "진짜? 내일 내가 떡볶이 사 줄게.",
-   "rd": "jinjja? naeil naega tteokbokki sa julge.",
-   "en": "Really? Tomorrow I'll buy you tteokbokki.",
+   "ko": "진짜? 내일 내가 떡볶이 사줄게.",
+   "rd": "jinjja? naeil naega tteokbokki sajulge.",
+   "en": "Really? Tomorrow I’ll buy you tteokbokki.",
    "note": "사 줄게 = I'll buy (for you)",
    "tags": [],
    "new": [],
@@ -106,19 +109,20 @@
    "speaker": "B",
    "ko": "…매니저 형한테 비밀이야.",
    "rd": "…maenijeo hyeonghante bimiriya.",
-   "en": "…Keep it secret from my manager.",
+   "en": "…Secret from manager hyung.",
    "note": "비밀 = secret",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:05"
+   "at": "00:05",
+   "art": "scene/ko/r1_love_c4/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "ㅋㅋ 알았어. 잘 자, 연습생.",
-   "rd": "ㅋㅋ arasseo. jal ja, yeonseupsaeng.",
-   "en": "Haha okay. Good night, trainee.",
+   "ko": "ㅋㅋ 알겠어. 잘 자.",
+   "rd": "ㅋㅋ algesseo. jal ja.",
+   "en": "Haha got it. Good night.",
    "note": "잘 자 = good night",
    "tags": [],
    "new": [],
@@ -126,5 +130,9 @@
    "at": "00:06"
   }
  ],
- "initiator": "B"
+ "initiator": "B",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_c4_grok_rewrite.md [K072]",
+  "final": ""
+ }
 }

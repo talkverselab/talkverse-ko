@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "{name}아 여기 연습실이야 하루 10시간 있어",
-   "rd": "{name}a yeogi yeonseupsiriya haru 10sigan isseo",
-   "en": "{name} this is the practice room, I'm here 10 hours a day",
+   "ko": "{name}아 여기가 연습실이야. 하루 10시간 넘게 있어.",
+   "rd": "{name}a yeogiga yeonseupsiriya. haru 10sigan neomge isseo.",
+   "en": "{name}, this is the practice room. I'm here over 10 hours a day.",
    "note": "연습실 = practice room",
    "tags": [],
    "new": []
@@ -42,8 +42,8 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "10시간? 학교는 언제 가?",
-   "rd": "10sigan? hakgyoneun eonje ga?",
+   "ko": "10시간? 학교는 언제 다녀?",
+   "rd": "10sigan? hakgyoneun eonje danyeo?",
    "en": "10 hours? When do you go to school?",
    "note": "학교 = school",
    "tags": [],
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "오전에 가고 오후부터 여기 보컬 댄스 외국어",
-   "rd": "ojeone gago ohubuteo yeogi bokeol daenseu oegugeo",
-   "en": "Morning school then here from afternoon—vocal dance languages",
+   "ko": "오전에 학교 가고 오후부터 여기. 보컬이랑 댄스, 외국어도.",
+   "rd": "ojeone hakgyo gago ohubuteo yeogi. bokeorirang daenseu, oegugeodo.",
+   "en": "Morning school, afternoon here. Vocal and dance, languages too.",
    "note": "오전·오후 = a.m./p.m.",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "외국어도? 헐 나보다 바쁘네",
-   "rd": "oegugeodo? heol naboda bappeune",
-   "en": "Languages too? Whoa you're busier than me",
+   "ko": "외국어도? 헐 나보다 바쁘네.",
+   "rd": "oegugeodo? heol naboda bappeune.",
+   "en": "Languages too? Whoa you're busier than me.",
    "note": "-보다 = than",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "영어 수업 있어 발음 좀 봐 줘",
-   "rd": "yeongeo sueop isseo bareum jom bwa jwo",
-   "en": "I have English class, check my pronunciation",
+   "ko": "영어 수업 있거든. 발음 좀 봐 줄래?",
+   "rd": "yeongeo sueop itgeodeun. bareum jom bwa jullae?",
+   "en": "I have English class. Can you check my pronunciation?",
    "note": "발음 = pronunciation",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "좋아 대신 나 안무 하나 가르쳐 줘",
-   "rd": "joa daesin na anmu hana gareuchyeo jwo",
-   "en": "Sure, in return teach me one choreo",
+   "ko": "좋아. 대신 안무 하나 가르쳐 줘.",
+   "rd": "joa. daesin anmu hana gareuchyeo jwo.",
+   "en": "Sure. In return teach me one choreo.",
    "note": "안무 = choreography",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "이거 쉬워 오른발 왼발 턴!",
-   "rd": "igeo swiwo oreunbal oenbal teon!",
-   "en": "This one's easy, right left turn!",
+   "ko": "이거 쉬워. 오른발 왼발 턴!",
+   "rd": "igeo swiwo. oreunbal oenbal teon!",
+   "en": "This one's easy. Right foot left foot turn!",
    "note": "오른발·왼발 = right/left foot",
    "tags": [],
    "new": []
@@ -132,9 +132,9 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "거울이 200만 원이야",
-   "rd": "geouri 200man woniya",
-   "en": "The mirror's two million won",
+   "ko": "거울이 200만 원이야.",
+   "rd": "geouri 200man woniya.",
+   "en": "The mirror's two million won.",
    "note": "Kick: the priority",
    "tags": [],
    "new": []
@@ -142,16 +142,16 @@
   {
    "num": 12,
    "speaker": "A",
-   "ko": "아 몰라… 진짜? 나 그냥 영어만 가르칠게",
-   "rd": "a molla… jinjja? na geunyang yeongeoman gareuchilge",
-   "en": "Ugh… for real? I'll just teach English",
+   "ko": "아 몰라… 진짜? 나 그냥 영어만 가르칠게.",
+   "rd": "a molla… jinjja? na geunyang yeongeoman gareuchilge.",
+   "en": "Ugh… for real? I'll just teach English then.",
    "note": "-만 = only",
    "tags": [],
    "new": []
   }
  ],
  "review": {
-  "grok_rewrite": "data/review/r2_culture_b2_grok_rewrite.md [K056]",
+  "grok_rewrite": "data/review/r2_culture_b2_grok_rewrite.md [K074]",
   "final": ""
  }
 }

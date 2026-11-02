@@ -37,7 +37,8 @@
    "note": "잘 들어갔지? = you got home okay, right? — the after-date check-in",
    "tags": [],
    "new": [],
-   "ui": "bubble"
+   "ui": "bubble",
+   "art": "scene/ko/r1_love_c1/cut1"
   },
   {
    "num": 2,
@@ -59,7 +60,8 @@
    "note": "헐 = whoa · 뭐야 이거 = what is this",
    "tags": [],
    "new": [],
-   "ui": "bubble"
+   "ui": "bubble",
+   "art": "scene/ko/r1_love_c1/cut2"
   },
   {
    "num": 4,
@@ -81,7 +83,8 @@
    "note": "Kick: -이나 = as many as (three!)",
    "tags": [],
    "new": [],
-   "ui": "bubble"
+   "ui": "bubble",
+   "art": "scene/ko/r1_love_c1/cut3"
   },
   {
    "num": 6,
@@ -103,7 +106,8 @@
    "note": "알겠어 = got it · -ㄹ게 = I'll (promise)",
    "tags": [],
    "new": [],
-   "ui": "bubble"
+   "ui": "bubble",
+   "art": "scene/ko/r1_love_c1/cut4"
   },
   {
    "num": 8,

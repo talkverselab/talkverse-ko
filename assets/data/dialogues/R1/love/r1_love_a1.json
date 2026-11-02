@@ -36,7 +36,8 @@
    "en": "You're {name}, right? You look exactly like your photo!",
    "note": "맞아요? = is that right? (checking politely)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a1/cut1"
   },
   {
    "num": 2,
@@ -56,7 +57,8 @@
    "en": "Hahaha what, did you just get out of the army?",
    "note": "Kick: 군대 = the army — formal -습니다 sounds like a soldier reporting",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a1/cut2"
   },
   {
    "num": 4,
@@ -76,7 +78,8 @@
    "en": "No, it's just cute. Shall we drop the formalities?",
    "note": "말 놓을까? = shall we speak casually (반말)?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a1/cut3"
   },
   {
    "num": 6,
@@ -96,7 +99,8 @@
    "en": "Drop the “-ssi” too. Just call me Yujin.",
    "note": "씨 = polite name suffix — friends drop it",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a1/cut4"
   },
   {
    "num": 8,

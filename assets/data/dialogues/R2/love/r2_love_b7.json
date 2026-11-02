@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "어? 비 오네. 우산 없는데.",
-   "rd": "eo? bi one. usan eomneunde.",
-   "en": "Huh? It's raining. I don't have an umbrella.",
+   "ko": "어? 비 오네. 우산 안 가져왔는데.",
+   "rd": "eo? bi one. usan an gajyeowanneunde.",
+   "en": "Huh? It's raining. I didn't bring an umbrella.",
    "note": "우산 = umbrella",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "여기. 네 거.",
-   "rd": "yeogi. ne geo.",
-   "en": "Here. Yours.",
+   "ko": "여기. 네 거 가져왔어.",
+   "rd": "yeogi. ne geo gajyeowasseo.",
+   "en": "Here. Brought yours.",
    "note": "네 거 = yours",
    "tags": [],
    "new": []
@@ -54,7 +54,7 @@
    "speaker": "A",
    "ko": "헐, 두 개 들고 왔어? 나 올 줄 알았어?",
    "rd": "heol, du gae deulgo wasseo? na ol jul arasseo?",
-   "en": "Whoa, you brought two? You knew I'd come?",
+   "en": "Whoa, you brought two? Knew I'd come?",
    "note": "올 줄 알았어? = you knew I'd come?",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "매일 오잖아. 연습 끝날 때.",
-   "rd": "maeil ojana. yeonseup kkeunnal ttae.",
-   "en": "You come every day. When practice ends.",
+   "ko": "매일 오잖아. 연습 끝날 때쯤.",
+   "rd": "maeil ojana. yeonseup kkeunnal ttaejjeum.",
+   "en": "You come every day. Around when practice ends.",
    "note": "-잖아 = you know",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "…그럼 네 건 왜 안 펴?",
-   "rd": "…geureom ne geon wae an pyeo?",
-   "en": "…Then why aren't you opening yours?",
+   "ko": "…근데 네 건 왜 안 펴?",
+   "rd": "…geunde ne geon wae an pyeo?",
+   "en": "…But why aren't you opening yours?",
    "note": "펴다 = open (an umbrella)",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "진짜? 방금 멀쩡했는데?",
-   "rd": "jinjja? banggeum meoljjeonghaenneunde?",
-   "en": "Really? It was fine a second ago.",
+   "ko": "진짜? 방금까지 멀쩡했는데?",
+   "rd": "jinjja? banggeumkkaji meoljjeonghaenneunde?",
+   "en": "Really? It was fine just a second ago?",
    "note": "멀쩡하다 = perfectly fine",
    "tags": [],
    "new": []
@@ -104,7 +104,7 @@
    "speaker": "B",
    "ko": "…아 몰라. 고장 났다고.",
    "rd": "…a molla. gojang natdago.",
-   "en": "…Ugh. I said it's broken.",
+   "en": "…Ugh whatever. I said it's broken.",
    "note": "Kick: he wants to share hers",
    "tags": [],
    "new": []
@@ -114,7 +114,7 @@
    "speaker": "A",
    "ko": "그니까 하나로 같이 쓰자고?",
    "rd": "geunikka hanaro gachi sseujago?",
-   "en": "So you're saying let's share one?",
+   "en": "So let's share one then?",
    "note": "하나로 = with one",
    "tags": [],
    "new": []
@@ -122,9 +122,9 @@
   {
    "num": 10,
    "speaker": "B",
-   "ko": "드라마에서 그렇게 하던데.",
-   "rd": "deuramaeseo geureoke hadeonde.",
-   "en": "That's what they do in dramas.",
+   "ko": "드라마에서 그렇게 하던데 ㅋㅋ",
+   "rd": "deuramaeseo geureoke hadeonde ㅋㅋ",
+   "en": "That's what they do in dramas lol",
    "note": "-던데 = from what I've seen",
    "tags": [],
    "new": []
@@ -134,7 +134,7 @@
    "speaker": "A",
    "ko": "너 아이돌 될 사람이 그런 거 봐도 돼?",
    "rd": "neo aidol doel sarami geureon geo bwado dwae?",
-   "en": "You're going to be an idol — are you allowed to watch that stuff?",
+   "en": "You're gonna be an idol, can you watch stuff like that?",
    "note": "될 사람 = someone who'll become",
    "tags": [],
    "new": []
@@ -142,13 +142,17 @@
   {
    "num": 12,
    "speaker": "B",
-   "ko": "연습생도 사람이야. 들어와, 비 맞아.",
-   "rd": "yeonseupsaengdo saramiya. deureowa, bi maja.",
-   "en": "Trainees are people too. Get in, you're getting wet.",
+   "ko": "연습생도 사람이잖아. 들어와, 비 맞아.",
+   "rd": "yeonseupsaengdo saramijana. deureowa, bi maja.",
+   "en": "Trainees are people too. Come in, you're getting wet.",
    "note": "비 맞다 = get rained on — callback 「우산, 하나」",
    "tags": [],
    "new": []
   }
  ],
- "initiator": "B"
+ "initiator": "B",
+ "review": {
+  "grok_rewrite": "data/review/r2_love_b7_grok_rewrite.md [K073]",
+  "final": ""
+ }
 }
