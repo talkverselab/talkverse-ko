@@ -12,7 +12,6 @@ on:
       - 'tools/**'
       - 'docs/**'
       - 'data/**'          # 리뷰·Grok 답·표현 풀 — 앱 번들 밖
-      - 'assets/data/dialogues/**'   # 새 회화 — 앱(pubspec assets)에 넣기 전까지는 빌드 안 함
   workflow_dispatch:
 
 permissions:

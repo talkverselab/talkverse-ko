@@ -37,7 +37,8 @@
    "en": "Huh? It's raining. I didn't bring an umbrella.",
    "note": "우산 = umbrella",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b7/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "Whoa, you brought two? Knew I'd come?",
    "note": "올 줄 알았어? = you knew I'd come?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b7/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "…But why aren't you opening yours?",
    "note": "펴다 = open (an umbrella)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b7/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "Really? It was fine just a second ago?",
    "note": "멀쩡하다 = perfectly fine",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b7/cut4"
   },
   {
    "num": 8,
@@ -117,7 +121,8 @@
    "en": "So let's share one then?",
    "note": "하나로 = with one",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b7/cut5"
   },
   {
    "num": 10,

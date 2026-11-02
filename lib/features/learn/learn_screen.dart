@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:k_universe/drama/series_screen.dart';
 import 'package:k_universe/features/dialogue/scenario_list_screen.dart';
 import 'package:k_universe/features/particles/particles_screen.dart';
 import 'package:k_universe/features/vocabulary/vocabulary_screen.dart';
@@ -25,6 +26,16 @@ class LearnScreen extends StatelessWidget {
                   color: KColors.inkSoft, fontSize: 15),
             ),
             const SizedBox(height: KSpace.lg),
+            _BigLearnTile(
+              emoji: '🎬',
+              tile: KColors.tileSage,
+              titleEn: 'K-Drama Conversations',
+              titleKo: tr('드라마 회화'),
+              description:
+                  'Every scene is an episode — rom-com flirting, first dates, roommates, office life.',
+              destination: (_) => const SeriesScreen(),
+            ),
+            const SizedBox(height: KSpace.md),
             _BigLearnTile(
               emoji: '💬',
               tile: KColors.tileBlush,

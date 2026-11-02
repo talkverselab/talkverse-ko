@@ -64,6 +64,23 @@ class TtsService {
     }
   }
 
+  /// 말이 끝날 때까지 기다린다(드라마 회화 순차 재생). rate 는 기기 엔진 속도(기본 0.45).
+  Future<void> speakAndWait(String text, {double rate = 0.45}) async {
+    await _ensureInit();
+    try {
+      await _tts.awaitSpeakCompletion(true);
+      await _tts.setSpeechRate(rate);
+      _isSpeaking = true;
+      await _tts.speak(text);
+    } catch (e) {
+      debugPrint('TTS speakAndWait failed: $e');
+    } finally {
+      _isSpeaking = false;
+      await _tts.awaitSpeakCompletion(false);
+      await _tts.setSpeechRate(0.45);
+    }
+  }
+
   Future<void> stop() async {
     if (!_initialized) return;
     await _tts.stop();
