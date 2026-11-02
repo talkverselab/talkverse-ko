@@ -1,0 +1,196 @@
+{
+ "id": "r3_culture_b2",
+ "region": "R3",
+ "island": "culture",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "엑스트라",
+ "emoji": "🎬",
+ "scene": "드라마 촬영장에 엑스트라 알바로 왔다. 장면은 「비 오는 날 주인공이 우산을 씌워 주는」 바로 그 장면. 대사 없는 행인 역할인데…",
+ "speakers": {
+  "A": "{name}",
+  "B": "조감독",
+  "C": "감독",
+  "D": "주연 배우"
+ },
+ "register": "polite",
+ "twist": 11,
+ "flags": [],
+ "kdrama": "비 오는 날 우산 씌워 주기 — 촬영장 비하인드",
+ "expressions": [
+  "네",
+  "죄송합니다",
+  "진짜요?",
+  "잠깐만요",
+  "헐"
+ ],
+ "goal": "Behind the scenes of a K-drama cliché",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "엑스트라분들, 여기 모이세요! 오늘은 비 오는 장면이에요.",
+   "rd": "ekseuteurabundeul, yeogi moiseyo! oneureun bi oneun jangmyeonieyo.",
+   "en": "Extras, gather here! Today is the rain scene.",
+   "note": "엑스트라 = extra (actor)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "비요? 오늘 날씨 맑은데요.",
+   "rd": "biyo? oneul nalssi malgeundeyo.",
+   "en": "Rain? The weather is clear today.",
+   "note": "맑다 = clear",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "살수차로 뿌려요. {name} 씨는 우산 없이 지나가는 행인이에요.",
+   "rd": "salsucharo ppuryeoyo. {name} ssineun usan eopsi jinaganeun haenginieyo.",
+   "en": "We spray it with a water truck. {name}, you're a passerby without an umbrella.",
+   "note": "행인 = passerby",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "우산 없이요? 그럼 젖잖아요.",
+   "rd": "usan eopsiyo? geureom jeotjanayo.",
+   "en": "Without an umbrella? Then I'll get wet.",
+   "note": "젖다 = get wet",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "그게 포인트예요. 주인공이 우산을 씌워 줄 사람 옆을 지나가는 거예요.",
+   "rd": "geuge pointeuyeyo. juingongi usaneul ssuiwo jul saram yeopeul jinaganeun geoyeyo.",
+   "en": "That's the point. You walk past the person the lead will hold an umbrella over.",
+   "note": "씌워 주다 = cover (someone) with",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "레디, 액션!",
+   "rd": "redi, aeksyeon!",
+   "en": "Ready, action!",
+   "note": "감독 = director",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "(걷다가 미끄러진다) 으악!",
+   "rd": "(geotdaga mikkeureojinda) euak!",
+   "en": "(slips while walking) Waah!",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "D",
+   "ko": "(주인공, 반사적으로 A 에게 우산을 씌워 준다) 괜찮아요?",
+   "rd": "(juingong, bansajeogeuro A ege usaneul ssuiwo junda) gwaenchanayo?",
+   "en": "(the lead, by reflex, holds the umbrella over A) Are you okay?",
+   "note": "Kick: wrong person",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "C",
+   "ko": "컷! 컷! 우산을 행인한테 씌우면 어떡해요!",
+   "rd": "keot! keot! usaneul haenginhante ssuiumyeon eotteokaeyo!",
+   "en": "Cut! Cut! Why are you covering the passerby?!",
+   "note": "어떡해요 = what are you doing",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "죄송합니다! 정말 죄송합니다!",
+   "rd": "joesonghamnida! jeongmal joesonghamnida!",
+   "en": "I'm sorry! I'm really sorry!",
+   "note": "죄송합니다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "D",
+   "ko": "아니에요, 근데 방금 장면… 괜찮지 않았어요?",
+   "rd": "anieyo, geunde banggeum jangmyeon… gwaenchanchi anasseoyo?",
+   "en": "No worries, but that take just now… wasn't it kind of good?",
+   "note": "괜찮다 = not bad",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "C",
+   "ko": "…잠깐만요. 다시 봐 볼게요.",
+   "rd": "…jamkkanmanyo. dasi bwa bolgeyo.",
+   "en": "…Hold on. Let me look again.",
+   "note": "다시 보다 = review",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 13,
+   "speaker": "B",
+   "ko": "(모니터를 보며) 헐. 행인이랑 케미가 더 좋은데요?",
+   "rd": "(moniteoreul bomyeo) heol. haenginirang kemiga deo joeundeyo?",
+   "en": "(watching the monitor) Whoa. The chemistry with the passerby is better?",
+   "note": "케미 = chemistry",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 14,
+   "speaker": "C",
+   "ko": "{name} 씨, 대사 하나 줄게요. 「…고마워요」 할 수 있어요?",
+   "rd": "{name} ssi, daesa hana julgeyo. 「…gomawoyo」 hal su isseoyo?",
+   "en": "{name}, I'll give you a line. Can you say \"…thank you\"?",
+   "note": "대사 = line",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 15,
+   "speaker": "A",
+   "ko": "네! …고마워요.",
+   "rd": "ne! …gomawoyo.",
+   "en": "Yes! …Thank you.",
+   "note": "his first line",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 16,
+   "speaker": "C",
+   "ko": "오케이. 행인 2에서 「우산의 그 사람」으로 승진.",
+   "rd": "okei. haengin 2eseo 「usanui geu saram」euro seungjin.",
+   "en": "Okay. Promoted from Passerby 2 to \"The Umbrella Person.\"",
+   "note": "승진 = promotion",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

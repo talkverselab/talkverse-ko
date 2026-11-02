@@ -1,0 +1,113 @@
+{
+ "id": "r1_culture_a2",
+ "region": "R1",
+ "island": "culture",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "응원봉",
+ "emoji": "💡",
+ "scene": "콘서트장 입구. 서아가 응원봉을 두 개 들고 있다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아"
+ },
+ "register": "casual",
+ "twist": 5,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "헐",
+  "완전",
+  "대박"
+ ],
+ "goal": "Concert culture: light sticks and fan chants",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "자, 네 거. 응원봉.",
+   "rd": "ja, ne geo. eungwonbong.",
+   "en": "Here, yours. A light stick.",
+   "note": "응원봉 = official light stick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "이거 왜 두 개 샀어?",
+   "rd": "igeo wae du gae sasseo?",
+   "en": "Why'd you buy two?",
+   "note": "왜 = why",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "하나는 네 거지. 블루투스로 색 바뀌어.",
+   "rd": "hananeun ne geoji. beullutuseuro saek bakkwieo.",
+   "en": "One's yours. It changes color by Bluetooth.",
+   "note": "바뀌다 = change",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "대박. 근데 응원법은 몰라.",
+   "rd": "daebak. geunde eungwonbeobeun molla.",
+   "en": "Awesome. But I don't know the fan chants.",
+   "note": "응원법 = fan chant",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "멤버 이름 순서대로 외치면 돼. 외워.",
+   "rd": "membeo ireum sunseodaero oechimyeon dwae. oewo.",
+   "en": "Just shout the members' names in order. Memorize.",
+   "note": "외우다 = memorize",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…일곱 명? 이름 다 몰라.",
+   "rd": "…ilgop myeong? ireum da molla.",
+   "en": "…Seven people? I don't know all their names.",
+   "note": "Kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "그럼 그냥 크게 「사랑해!」 해.",
+   "rd": "geureom geunyang keuge 「saranghae!」 hae.",
+   "en": "Then just shout \"I love you!\" loudly.",
+   "note": "사랑해 = I love you",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "그건 완전 할 수 있어.",
+   "rd": "geugeon wanjeon hal su isseo.",
+   "en": "That I can totally do.",
+   "note": "완전 = totally",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "id": "r1_life_a2",
+ "region": "R1",
+ "island": "life",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "원 플러스 원",
+ "emoji": "🏷️",
+ "scene": "편의점. 도윤이 「1+1」 앞에서 멈춘다",
+ "speakers": {
+  "A": "{name}",
+  "B": "도윤"
+ },
+ "register": "casual",
+ "twist": 5,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "완전",
+  "그니까",
+  "대박"
+ ],
+ "goal": "Convenience-store deals",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "잠깐! 이거 원 플러스 원이야.",
+   "rd": "jamkkan! igeo won peulleoseu woniya.",
+   "en": "Wait! This is buy-one-get-one.",
+   "note": "1+1 = buy one get one free",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "원 플러스 원? 두 개 사면 하나 공짜?",
+   "rd": "won peulleoseu won? du gae samyeon hana gongjja?",
+   "en": "1+1? Buy two, get one free?",
+   "note": "공짜 = free",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "아니, 하나 사면 하나 더 줘.",
+   "rd": "ani, hana samyeon hana deo jwo.",
+   "en": "No, buy one and they give one more.",
+   "note": "더 = more",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "대박. 그럼 다 원 플러스 원으로 사.",
+   "rd": "daebak. geureom da won peulleoseu woneuro sa.",
+   "en": "Awesome. Then let's buy everything that's 1+1.",
+   "note": "다 = all",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "(10분 뒤) …우유 넷, 과자 여섯, 컵라면 여덟.",
+   "rd": "(10bun dwi) …uyu net, gwaja yeoseot, keomnamyeon yeodeol.",
+   "en": "(10 min later) …Four milks, six snacks, eight cup noodles.",
+   "note": "Kick: they bought way too much",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "그니까… 우리 이거 다 먹어?",
+   "rd": "geunikka… uri igeo da meogeo?",
+   "en": "So… are we going to eat all this?",
+   "note": "다 먹어? = eat it all?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "그래도 반값이잖아.",
+   "rd": "geuraedo bangapsijana.",
+   "en": "But it's half price.",
+   "note": "반값 = half price",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "반값인데 두 배 샀잖아.",
+   "rd": "bangapsinde du bae satjana.",
+   "en": "It's half price, but we bought twice as much.",
+   "note": "두 배 = double",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

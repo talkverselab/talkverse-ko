@@ -1,0 +1,156 @@
+{
+ "id": "r2_friends_b2",
+ "region": "R2",
+ "island": "friends",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "MBTI 뭐야?",
+ "emoji": "🔤",
+ "scene": "새 학기 술자리. 처음 만난 한국 친구들이 이름 다음으로 묻는 것은 MBTI",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준"
+ },
+ "register": "casual",
+ "twist": 8,
+ "flags": [
+  "alcohol"
+ ],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "헐",
+  "그니까",
+  "완전"
+ ],
+ "goal": "The MBTI small-talk ritual",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "근데 {name}은 MBTI 뭐야?",
+   "rd": "geunde {name}eun MBTI mwoya?",
+   "en": "So {name}, what's your MBTI?",
+   "note": "MBTI = personality type — a Korean icebreaker",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "MBTI? 그게 왜 중요해?",
+   "rd": "MBTI? geuge wae jungyohae?",
+   "en": "MBTI? Why does that matter?",
+   "note": "중요하다 = important",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "중요하지! 나랑 맞는지 봐야지.",
+   "rd": "jungyohaji! narang manneunji bwayaji.",
+   "en": "Of course it matters! We need to see if we match.",
+   "note": "맞다 = to match",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "음… 몰라. 해 본 적 없어.",
+   "rd": "eum… molla. hae bon jeok eopseo.",
+   "en": "Hmm… I don't know. Never took it.",
+   "note": "-ㄴ 적 없어 = never did",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "헐, 진짜? 지금 해. 5분이면 돼.",
+   "rd": "heol, jinjja? jigeum hae. 5bunimyeon dwae.",
+   "en": "Whoa, really? Do it now. Takes five minutes.",
+   "note": "-면 돼 = it's enough if",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "(5분 뒤) …ENFP래.",
+   "rd": "(5bun dwi) …ENFPrae.",
+   "en": "(five minutes later) …It says ENFP.",
+   "note": "-래 = it says",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "아 그럴 줄 알았어. 완전 E야.",
+   "rd": "a geureol jul arasseo. wanjeon Eya.",
+   "en": "Knew it. Totally an E.",
+   "note": "그럴 줄 알았어 = I knew it",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "어떻게 알았어? 방금 만났잖아.",
+   "rd": "eotteoke arasseo? banggeum mannatjana.",
+   "en": "How did you know? We just met.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "처음 만났는데 2차까지 왔잖아. 그게 E야.",
+   "rd": "cheoeum mannanneunde 2chakkaji watjana. geuge Eya.",
+   "en": "We just met and you came to round two. That's an E.",
+   "note": "2차 — callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "그럼 너희는?",
+   "rd": "geureom neohuineun?",
+   "en": "Then what about you guys?",
+   "note": "너희 = you (plural)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "C",
+   "ko": "우리 둘 다 I야. 지금 집에 가고 싶어.",
+   "rd": "uri dul da Iya. jigeum jibe gago sipeo.",
+   "en": "We're both I's. We want to go home right now.",
+   "note": "Kick: the introverts",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "그니까 너희가 2차 가자고 했잖아!",
+   "rd": "geunikka neohuiga 2cha gajago haetjana!",
+   "en": "But you're the ones who said round two!",
+   "note": "그니까 = I mean",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

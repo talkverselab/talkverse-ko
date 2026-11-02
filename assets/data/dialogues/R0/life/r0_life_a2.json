@@ -1,0 +1,112 @@
+{
+ "id": "r0_life_a2",
+ "region": "R0",
+ "island": "life",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "문 앞에 놔 주세요",
+ "emoji": "📦",
+ "scene": "택배 기사님 전화. 학습자는 집에 없다",
+ "speakers": {
+  "A": "{name}",
+  "B": "택배 기사님"
+ },
+ "register": "polite",
+ "twist": 4,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "네",
+  "감사합니다",
+  "잠깐만요"
+ ],
+ "goal": "Phone call with a delivery driver",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "택배요. 집에 계세요?",
+   "rd": "taekbaeyo. jibe gyeseyo?",
+   "en": "Delivery. Are you home?",
+   "note": "계세요? = are you (home)? (honorific)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "아니요. 지금 밖이에요.",
+   "rd": "aniyo. jigeum bakkieyo.",
+   "en": "No. I'm out right now.",
+   "note": "밖 = outside",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "어디에 둘까요?",
+   "rd": "eodie dulkkayo?",
+   "en": "Where should I leave it?",
+   "note": "두다 = leave / put",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "음… 냉장고요.",
+   "rd": "eum… naengjanggoyo.",
+   "en": "Um… in the fridge.",
+   "note": "Kick: wrong word",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "네? 냉장고요?",
+   "rd": "ne? naengjanggoyo?",
+   "en": "Sorry? The fridge?",
+   "note": "echo",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "아니, 아니! 문 앞이요!",
+   "rd": "ani, ani! mun apiyo!",
+   "en": "No, no! In front of the door!",
+   "note": "문 앞 = in front of the door",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "ㅋㅋ 네, 문 앞에 둘게요.",
+   "rd": "ㅋㅋ ne, mun ape dulgeyo.",
+   "en": "Haha, okay, I'll leave it at the door.",
+   "note": "둘게요 = I'll leave it",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "감사합니다! 수고하세요!",
+   "rd": "gamsahamnida! sugohaseyo!",
+   "en": "Thank you! Take care!",
+   "note": "수고하세요 = keep up the work (goodbye to workers)",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "id": "r1_travel_a2",
+ "region": "R1",
+ "island": "travel",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "travel"
+ ],
+ "domain": [
+  "travel"
+ ],
+ "title": "따릉이",
+ "emoji": "🚲",
+ "scene": "한강. 민준이 공공 자전거 「따릉이」를 빌리자고 한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "민준"
+ },
+ "register": "casual",
+ "twist": 5,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "좋아",
+  "잠깐만",
+  "헐"
+ ],
+ "goal": "Renting a city bike by the Han River",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "한강 왔으면 따릉이 타야지.",
+   "rd": "hangang wasseumyeon ttareungi tayaji.",
+   "en": "If you're at the Han River, you ride a 따릉이.",
+   "note": "따릉이 = Seoul public bike",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "따릉이? 이름 귀엽다.",
+   "rd": "ttareungi? ireum gwiyeopda.",
+   "en": "따릉이? Cute name.",
+   "note": "귀엽다 = cute",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "앱으로 빌려. 한 시간에 천 원.",
+   "rd": "aebeuro billyeo. han sigane cheon won.",
+   "en": "Rent it with the app. 1,000 won an hour.",
+   "note": "빌리다 = rent",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "진짜 싸네. 좋아, 가자!",
+   "rd": "jinjja ssane. joa, gaja!",
+   "en": "That's so cheap. Okay, let's go!",
+   "note": "싸다 = cheap",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "잠깐만, 너 자전거 탈 줄 알아?",
+   "rd": "jamkkanman, neo jajeongeo tal jul ara?",
+   "en": "Wait, do you know how to ride a bike?",
+   "note": "탈 줄 알아? = do you know how to ride?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…어릴 때 한 번.",
+   "rd": "…eoril ttae han beon.",
+   "en": "…Once, when I was a kid.",
+   "note": "Kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "헐. 그럼 오늘은 걷자. 라면 먹으러.",
+   "rd": "heol. geureom oneureun geotja. ramyeon meogeureo.",
+   "en": "Whoa. Then let's walk today. To eat ramyeon.",
+   "note": "한강 라면 — classic",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "좋아. 따릉이는 다음에. 라면은 지금.",
+   "rd": "joa. ttareungineun daeume. ramyeoneun jigeum.",
+   "en": "Okay. Bike next time. Ramyeon now.",
+   "note": "다음에 = next time",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

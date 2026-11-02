@@ -1,0 +1,129 @@
+{
+ "id": "r1_culture_c1",
+ "region": "R1",
+ "island": "culture",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "컴백 D-day",
+ "emoji": "📢",
+ "scene": "최애 그룹 컴백 날 저녁 6시. 서아에게서 메시지 폭탄",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아"
+ },
+ "register": "chat",
+ "twist": 4,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "미쳤다",
+  "ㅋㅋ",
+  "진짜?"
+ ],
+ "goal": "Fangirl texting on comeback day",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "6시야!!! 뮤비 떴어!!!",
+   "rd": "6siya!!! myubi tteosseo!!!",
+   "en": "It's 6!!! The MV is out!!!",
+   "note": "뮤비 = music video",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:00"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "벌써? 볼게 ㅋㅋ",
+   "rd": "beolsseo? bolge ㅋㅋ",
+   "en": "Already? I'll watch lol",
+   "note": "벌써 = already",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:01"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "2분 30초 봐 봐. 미쳤어",
+   "rd": "2bun 30cho bwa bwa. michyeosseo",
+   "en": "Look at 2:30. Insane",
+   "note": "미쳤다 = insane (good)",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:01"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "…헐 진짜 미쳤다",
+   "rd": "…heol jinjja michyeotda",
+   "en": "…Whoa, it's really insane",
+   "note": "Kick: he's converted",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:04"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "ㅋㅋㅋ 입덕했네",
+   "rd": "ㅋㅋㅋ ipdeokaenne",
+   "en": "Lolol you just became a fan",
+   "note": "입덕 = fall into a fandom",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:04"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "아니야. 그냥 춤이 좋아서",
+   "rd": "aniya. geunyang chumi joaseo",
+   "en": "No. I just like the dance",
+   "note": "그냥 = just",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:05"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "그게 입덕이야. 직캠도 보내 줄게",
+   "rd": "geuge ipdeogiya. jikkaemdo bonae julge",
+   "en": "That's literally becoming a fan. I'll send fancams too",
+   "note": "직캠 = fancam",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:05"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…세 개만 보내 줘",
+   "rd": "…se gaeman bonae jwo",
+   "en": "…Send me just three",
+   "note": "-만 = only",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:06"
+  }
+ ]
+}

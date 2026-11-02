@@ -1,0 +1,129 @@
+{
+ "id": "r1_travel_c1",
+ "region": "R1",
+ "island": "travel",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "travel"
+ ],
+ "domain": [
+  "travel"
+ ],
+ "title": "KTX 놓쳤어",
+ "emoji": "🚄",
+ "scene": "부산 가는 KTX 출발 2분 전. 학습자는 아직 서울역 화장실",
+ "speakers": {
+  "A": "{name}",
+  "B": "민준"
+ },
+ "register": "chat",
+ "twist": 4,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "잠깐만",
+  "진짜?",
+  "아 몰라"
+ ],
+ "goal": "Panic texting about a missed train",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "어디야?? 2분 남았어",
+   "rd": "eodiya?? 2bun namasseo",
+   "en": "Where are you?? 2 minutes left",
+   "note": "남았어 = left",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "09:58"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "화장실! 금방 가!",
+   "rd": "hwajangsil! geumbang ga!",
+   "en": "Bathroom! Coming!",
+   "note": "금방 = soon",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "09:58"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "몇 번 출구야? 빨리!!",
+   "rd": "myeot beon chulguya? ppalli!!",
+   "en": "Which platform? Hurry!!",
+   "note": "빨리 = hurry",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "09:59"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "…방금 기차 떠났어?",
+   "rd": "…banggeum gicha tteonasseo?",
+   "en": "…Did the train just leave?",
+   "note": "Kick",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "10:01"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "응. 나 지금 기차 안이야 ㅋㅋ",
+   "rd": "eung. na jigeum gicha aniya ㅋㅋ",
+   "en": "Yep. I'm on the train now lol",
+   "note": "안 = inside",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "10:01"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "헐… 나 혼자 서울역이야",
+   "rd": "heol… na honja seouryeogiya",
+   "en": "Whoa… I'm alone at Seoul Station",
+   "note": "혼자 = alone",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "10:02"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "다음 KTX 30분 뒤. 표 바꿔. 부산에서 기다릴게",
+   "rd": "daeum KTX 30bun dwi. pyo bakkwo. busaneseo gidarilge",
+   "en": "Next KTX in 30 min. Change your ticket. I'll wait in Busan",
+   "note": "기다릴게 = I'll wait",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "10:02"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "아 몰라… 돼지국밥 먼저 먹지 마!",
+   "rd": "a molla… dwaejigukbap meonjeo meokji ma!",
+   "en": "Ugh… don't eat the pork soup without me!",
+   "note": "돼지국밥 = Busan pork soup",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "10:03"
+  }
+ ]
+}

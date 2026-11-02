@@ -1,0 +1,130 @@
+{
+ "id": "r1_work_c1",
+ "region": "R1",
+ "island": "work",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "work"
+ ],
+ "domain": [
+  "work"
+ ],
+ "title": "넵",
+ "emoji": "💼",
+ "scene": "팀 단톡방. 팀장님 메시지에 다들 「넵」. 학습자만 「네」",
+ "speakers": {
+  "A": "{name}",
+  "B": "지호 선배",
+  "C": "팀장님"
+ },
+ "register": "chat",
+ "twist": 4,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "넵",
+  "네",
+  "ㅋㅋ",
+  "알겠습니다"
+ ],
+ "goal": "Office chat etiquette: 넵 vs 네",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "C",
+   "ko": "내일 회의 9시입니다.",
+   "rd": "naeil hoeui 9siimnida.",
+   "en": "Tomorrow's meeting is at 9.",
+   "note": "회의 = meeting",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:40"
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "넵!",
+   "rd": "nep!",
+   "en": "Yep!",
+   "note": "넵 = cheerful office \"yes\"",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:40"
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "네.",
+   "rd": "ne.",
+   "en": "Yes.",
+   "note": "plain 네",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:41"
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "(개인톡) {name} 씨, 「네」는 좀 차가워요 ㅋㅋ",
+   "rd": "(gaeintok) {name} ssi, 「ne」neun jom chagawoyo ㅋㅋ",
+   "en": "(DM) {name}, \"네\" feels a bit cold lol",
+   "note": "차갑다 = cold",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:41"
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "(개인톡) 진짜요? 그럼 뭐라고 해요?",
+   "rd": "(gaeintok) jinjjayo? geureom mworago haeyo?",
+   "en": "(DM) Really? Then what do I say?",
+   "note": "뭐라고 = what",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:42"
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "(개인톡) 「넵」이나 「넵넵」. 기분 좋으면 「넵!!」",
+   "rd": "(gaeintok) 「nep」ina 「nemnep」. gibun joeumyeon 「nep!!」",
+   "en": "(DM) \"넵\" or \"넵넵\". If you're in a good mood, \"넵!!\"",
+   "note": "office slang",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:42"
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "넵넵!!",
+   "rd": "nemnep!!",
+   "en": "Yep yep!!",
+   "note": "Kick: overcorrects",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:43"
+  },
+  {
+   "num": 8,
+   "speaker": "C",
+   "ko": "{name} 씨 오늘 기분 좋네요 ㅋㅋ",
+   "rd": "{name} ssi oneul gibun jonneyo ㅋㅋ",
+   "en": "{name}, you're in a good mood today lol",
+   "note": "the boss noticed",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:43"
+  }
+ ]
+}

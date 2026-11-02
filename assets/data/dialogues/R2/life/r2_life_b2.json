@@ -1,0 +1,153 @@
+{
+ "id": "r2_life_b2",
+ "region": "R2",
+ "island": "life",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "조금만 다듬어 주세요",
+ "emoji": "💇",
+ "scene": "동네 미용실. 「조금만」의 길이가 사람마다 다르다",
+ "speakers": {
+  "A": "{name}",
+  "B": "미용사"
+ },
+ "register": "polite",
+ "twist": 8,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "네",
+  "괜찮아요",
+  "진짜요?",
+  "헐"
+ ],
+ "goal": "At the hair salon: saying exactly what you want",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "어떻게 해 드릴까요?",
+   "rd": "eotteoke hae deurilkkayo?",
+   "en": "How would you like it?",
+   "note": "해 드릴까요? = shall I do it for you?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "조금만 다듬어 주세요.",
+   "rd": "jogeumman dadeumeo juseyo.",
+   "en": "Just a little trim, please.",
+   "note": "다듬다 = trim",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "조금만이요? 얼마나요?",
+   "rd": "jogeummaniyo? eolmanayo?",
+   "en": "A little? How much?",
+   "note": "얼마나 = how much",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "음… 이 정도요.",
+   "rd": "eum… i jeongdoyo.",
+   "en": "Um… about this much.",
+   "note": "이 정도 = about this",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "네~ 알겠습니다. 시원하게 해 드릴게요.",
+   "rd": "ne~ algetseumnida. siwonhage hae deurilgeyo.",
+   "en": "Sure~ got it. I'll make it nice and fresh.",
+   "note": "시원하게 = refreshingly (often means shorter!)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "시원하게요? 네, 좋아요.",
+   "rd": "siwonhageyo? ne, joayo.",
+   "en": "Fresh? Sure, sounds good.",
+   "note": "didn't catch the hint",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "(20분 뒤) 다 됐습니다. 어때요?",
+   "rd": "(20bun dwi) da dwaetseumnida. eottaeyo?",
+   "en": "(20 min later) All done. How is it?",
+   "note": "다 됐습니다 = all done",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…헐. 진짜 시원하네요.",
+   "rd": "…heol. jinjja siwonhaneyo.",
+   "en": "…Whoa. It's really fresh.",
+   "note": "Kick: way shorter",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "잘 어울리세요! 요즘 이게 유행이에요.",
+   "rd": "jal eoulliseyo! yojeum ige yuhaengieyo.",
+   "en": "It suits you! This is in style now.",
+   "note": "유행 = trend",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "괜찮아요… 머리는 다시 자라니까요.",
+   "rd": "gwaenchanayo… meorineun dasi jaranikkayo.",
+   "en": "It's fine… hair grows back.",
+   "note": "자라다 = grow",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "다음엔 사진 가져오세요. 그게 제일 정확해요.",
+   "rd": "daeumen sajin gajyeooseyo. geuge jeil jeonghwakaeyo.",
+   "en": "Next time bring a photo. That's the most accurate.",
+   "note": "정확하다 = accurate",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "네. 그리고 「시원하게」는 이제 무서워요.",
+   "rd": "ne. geurigo 「siwonhage」neun ije museowoyo.",
+   "en": "Yes. And now I'm scared of \"fresh.\"",
+   "note": "무섭다 = scary",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

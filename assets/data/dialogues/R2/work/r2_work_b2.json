@@ -1,0 +1,154 @@
+{
+ "id": "r2_work_b2",
+ "region": "R2",
+ "island": "work",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "work"
+ ],
+ "domain": [
+  "work"
+ ],
+ "title": "연차 쓰기",
+ "emoji": "🏖️",
+ "scene": "부모님이 한국에 오신다. 금요일 연차를 쓰고 싶은데 팀장님께 어떻게 말할까",
+ "speakers": {
+  "A": "{name}",
+  "B": "지호 선배",
+  "C": "팀장님"
+ },
+ "register": "polite",
+ "twist": 8,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "잠깐만요",
+  "진짜요?",
+  "감사합니다",
+  "죄송합니다"
+ ],
+ "goal": "Asking for a day off politely",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "(속삭이며) 선배, 연차 쓰려면 어떻게 말해요?",
+   "rd": "(soksagimyeo) seonbae, yeoncha sseuryeomyeon eotteoke malhaeyo?",
+   "en": "(whispering) Jiho, how do I ask for a day off?",
+   "note": "연차 = annual leave",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "이유는 짧게, 일은 다 했다고 먼저 말해.",
+   "rd": "iyuneun jjalge, ireun da haetdago meonjeo malhae.",
+   "en": "Keep the reason short, and say first that your work is done.",
+   "note": "먼저 = first",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "팀장님, 잠깐 시간 괜찮으세요?",
+   "rd": "timjangnim, jamkkan sigan gwaenchaneuseyo?",
+   "en": "Boss, do you have a moment?",
+   "note": "시간 괜찮으세요? = are you free a moment?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "네, 말해요.",
+   "rd": "ne, malhaeyo.",
+   "en": "Sure, go ahead.",
+   "note": "말해요 = speak",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "이번 주 보고서는 다 끝냈습니다. 그래서… 금요일에 연차를 써도 될까요?",
+   "rd": "ibeon ju bogoseoneun da kkeunnaetseumnida. geuraeseo… geumyoire yeonchareul sseodo doelkkayo?",
+   "en": "I've finished this week's report. So… may I take Friday off?",
+   "note": "-아도 될까요? = may I…?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "금요일? 무슨 일 있어요?",
+   "rd": "geumyoil? museun il isseoyo?",
+   "en": "Friday? Is something going on?",
+   "note": "무슨 일 = what's up",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "부모님이 한국에 처음 오세요.",
+   "rd": "bumonimi hanguge cheoeum oseyo.",
+   "en": "My parents are visiting Korea for the first time.",
+   "note": "처음 = first time",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "C",
+   "ko": "아, 그럼 당연히 써야지. 목요일까지 쓰세요.",
+   "rd": "a, geureom dangyeonhi sseoyaji. mogyoilkkaji sseuseyo.",
+   "en": "Oh, then of course. Take Thursday too.",
+   "note": "Kick: more than asked",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "A",
+   "ko": "진짜요? 목요일까지요?",
+   "rd": "jinjjayo? mogyoilkkajiyo?",
+   "en": "Really? Thursday too?",
+   "note": "echo",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "C",
+   "ko": "부모님 처음 오시는데 하루로 돼요? 대신 맛집 추천은 내가 할게.",
+   "rd": "bumonim cheoeum osineunde haruro dwaeyo? daesin matjip chucheoneun naega halge.",
+   "en": "Their first time and just one day? But I'll recommend the restaurants.",
+   "note": "맛집 = great restaurant",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "A",
+   "ko": "감사합니다! 정말 감사합니다.",
+   "rd": "gamsahamnida! jeongmal gamsahamnida.",
+   "en": "Thank you! Thank you so much.",
+   "note": "감사합니다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "B",
+   "ko": "(속삭이며) 봐, 팀장님도 사람이야.",
+   "rd": "(soksagimyeo) bwa, timjangnimdo saramiya.",
+   "en": "(whispering) See, the boss is human too.",
+   "note": "사람이야 = is a person too",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "id": "r2_study_b2",
+ "region": "R2",
+ "island": "study",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "study"
+ ],
+ "domain": [
+  "study"
+ ],
+ "title": "자리 있어요",
+ "emoji": "📚",
+ "scene": "시험 기간 도서관. 빈자리마다 가방만 있고 사람이 없다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "옆자리 학생"
+ },
+ "register": "polite",
+ "twist": 8,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "저기요",
+  "진짜요?",
+  "죄송합니다",
+  "헐"
+ ],
+ "goal": "Library seat-saving culture",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "(속삭이며) 서아야, 자리가 하나도 없어.",
+   "rd": "(soksagimyeo) seoaya, jariga hanado eopseo.",
+   "en": "(whispering) Seoa, there are no seats.",
+   "note": "하나도 없어 = none at all",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "다 있는 거야. 가방이 사람이야.",
+   "rd": "da inneun geoya. gabangi saramiya.",
+   "en": "They're all taken. The bags are the people.",
+   "note": "Korean seat-saving",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "가방만 있는데? 사람은 어디 있어?",
+   "rd": "gabangman inneunde? sarameun eodi isseo?",
+   "en": "There's only a bag. Where's the person?",
+   "note": "어디 = where",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "밥 먹으러 갔겠지. 두 시간째.",
+   "rd": "bap meogeureo gatgetji. du siganjjae.",
+   "en": "Probably went to eat. For two hours now.",
+   "note": "-째 = for … now",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "저기요, 혹시 이 자리 주인 있어요?",
+   "rd": "jeogiyo, hoksi i jari juin isseoyo?",
+   "en": "Excuse me, does this seat have an owner?",
+   "note": "주인 = owner",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "아, 그거 제 친구 자리예요. 내일 와요.",
+   "rd": "a, geugeo je chingu jariyeyo. naeil wayo.",
+   "en": "Oh, that's my friend's seat. She's coming tomorrow.",
+   "note": "Kick: saved a day ahead",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "…내일요? 오늘이 아니라?",
+   "rd": "…naeiryo? oneuri anira?",
+   "en": "…Tomorrow? Not today?",
+   "note": "echo",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "C",
+   "ko": "네. 자리 맡기 힘들어서요.",
+   "rd": "ne. jari matgi himdeureoseoyo.",
+   "en": "Yes. Seats are hard to get.",
+   "note": "자리 맡다 = save a seat",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "A",
+   "ko": "헐… 그럼 저도 내일 자리 지금 맡을까요?",
+   "rd": "heol… geureom jeodo naeil jari jigeum mateulkkayo?",
+   "en": "Whoa… then should I save tomorrow's seat now too?",
+   "note": "sarcasm",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "B",
+   "ko": "그러지 마. 그래서 다 자리가 없는 거야.",
+   "rd": "geureoji ma. geuraeseo da jariga eomneun geoya.",
+   "en": "Don't. That's why there are no seats.",
+   "note": "그래서 = that's why",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "C",
+   "ko": "…죄송합니다. 가방 치울게요.",
+   "rd": "…joesonghamnida. gabang chiulgeyo.",
+   "en": "…Sorry. I'll move the bag.",
+   "note": "치우다 = clear away",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "감사합니다! 내일 친구분도 일찍 오라고 하세요.",
+   "rd": "gamsahamnida! naeil chingubundo iljjik orago haseyo.",
+   "en": "Thank you! Tell your friend to come early tomorrow too.",
+   "note": "일찍 = early",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

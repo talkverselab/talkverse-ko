@@ -1,0 +1,154 @@
+{
+ "id": "r2_culture_b3",
+ "region": "R2",
+ "island": "culture",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "세뱃돈",
+ "emoji": "🧧",
+ "scene": "설날 아침, 서아네 집. 한복 입은 어른들 앞에서 세배를 해야 한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "서아 할머니"
+ },
+ "register": "mixed",
+ "twist": 8,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "새해 복 많이 받으세요",
+  "진짜요?",
+  "감사합니다",
+  "헐"
+ ],
+ "goal": "Lunar New Year bows and gift money",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "{name}, 이제 세배할 차례야.",
+   "rd": "{name}, ije sebaehal charyeya.",
+   "en": "{name}, now it's your turn to bow.",
+   "note": "세배 = New Year's bow",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "세배? 어떻게 해?",
+   "rd": "sebae? eotteoke hae?",
+   "en": "A New Year's bow? How?",
+   "note": "어떻게 = how",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "큰절하고 「새해 복 많이 받으세요」 하면 돼.",
+   "rd": "keunjeolhago 「saehae bok mani badeuseyo」 hamyeon dwae.",
+   "en": "Do a deep bow and say \"Happy New Year.\"",
+   "note": "새해 복 많이 받으세요 = Happy New Year (lit. receive lots of luck)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "(절하며) 새해 복 많이 받으세요!",
+   "rd": "(jeolhamyeo) saehae bok mani badeuseyo!",
+   "en": "(bowing) Happy New Year!",
+   "note": "the phrase",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "아이고, 잘하네. 올해도 건강하고 공부 열심히 해.",
+   "rd": "aigo, jalhane. olhaedo geonganghago gongbu yeolsimhi hae.",
+   "en": "Oh my, well done. Stay healthy and study hard this year.",
+   "note": "덕담 = words of blessing",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "감사합니다! …근데 이거 뭐예요?",
+   "rd": "gamsahamnida! …geunde igeo mwoyeyo?",
+   "en": "Thank you! …But what is this?",
+   "note": "Kick setup: an envelope",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "세뱃돈이야. 넣어 둬.",
+   "rd": "sebaetdoniya. neoeo dwo.",
+   "en": "New Year's money. Keep it.",
+   "note": "세뱃돈 = New Year gift money",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "헐… 진짜요? 절 한 번에 돈을 줘요?",
+   "rd": "heol… jinjjayo? jeol han beone doneul jwoyo?",
+   "en": "Whoa… really? You get money for one bow?",
+   "note": "Kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "그니까 설날이 제일 좋은 날이야.",
+   "rd": "geunikka seollari jeil joeun nariya.",
+   "en": "That's why Lunar New Year is the best day.",
+   "note": "제일 = the best",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "그럼… 한 번 더 해도 돼요?",
+   "rd": "geureom… han beon deo haedo dwaeyo?",
+   "en": "Then… can I bow one more time?",
+   "note": "한 번 더 = once more",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "C",
+   "ko": "ㅋㅋ 한 번만이야. 대신 떡국 두 그릇 먹어.",
+   "rd": "ㅋㅋ han beonmaniya. daesin tteokguk du geureut meogeo.",
+   "en": "Haha, just once. But have two bowls of rice cake soup.",
+   "note": "떡국 = New Year soup — eating one = +1 year",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "두 그릇이면 두 살 먹어요?",
+   "rd": "du geureusimyeon du sal meogeoyo?",
+   "en": "Two bowls means I get two years older?",
+   "note": "나이 먹다 = to age (lit. eat age)",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

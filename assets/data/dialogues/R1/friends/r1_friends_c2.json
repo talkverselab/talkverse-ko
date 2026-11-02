@@ -1,0 +1,130 @@
+{
+ "id": "r1_friends_c2",
+ "region": "R1",
+ "island": "friends",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "단톡방 생일",
+ "emoji": "🎂",
+ "scene": "서아 생일 자정. 단톡방에 축하가 쏟아지고 학습자도 뭔가 보내야 한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준"
+ },
+ "register": "chat",
+ "twist": 5,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "헐",
+  "대박",
+  "고마워"
+ ],
+ "goal": "Group-chat birthday messages",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "C",
+   "ko": "서아 생일 축하해!! 🎉",
+   "rd": "seoa saengil chukahae!! 🎉",
+   "en": "Happy birthday Seoa!! 🎉",
+   "note": "생일 축하해 = happy birthday",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:00"
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "고마워ㅠㅠ 다들 안 잤어?",
+   "rd": "gomawoㅠㅠ dadeul an jasseo?",
+   "en": "Thanks ㅠㅠ none of you are asleep?",
+   "note": "고마워 = thanks",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:01"
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "생일 축하합니다. 행복한 하루 되십시오.",
+   "rd": "saengil chukahamnida. haengbokan haru doesipsio.",
+   "en": "Happy birthday. Please have a happy day.",
+   "note": "too formal for friends",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:02"
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "ㅋㅋㅋ {name} 뭐야 회사 메일이야?",
+   "rd": "ㅋㅋㅋ {name} mwoya hoesa meiriya?",
+   "en": "Lolol {name}, what is this, a work email?",
+   "note": "Kick: formal text in a friend chat",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:02"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "ㅋㅋ 귀여워. 근데 반말로 해 줘.",
+   "rd": "ㅋㅋ gwiyeowo. geunde banmallo hae jwo.",
+   "en": "Haha cute. But say it casually.",
+   "note": "반말 = casual speech",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:03"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "생축!! 대박 행복해라 ㅋㅋ",
+   "rd": "saengchuk!! daebak haengbokaera ㅋㅋ",
+   "en": "HBD!! Be super happy lol",
+   "note": "생축 = 생일 축하 (slang)",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:03"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "헐 생축도 알아? 완벽해.",
+   "rd": "heol saengchukdo ara? wanbyeokae.",
+   "en": "Whoa, you know 생축 too? Perfect.",
+   "note": "완벽 = perfect",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:04"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "어제 배웠어. 너 때문에.",
+   "rd": "eoje baewosseo. neo ttaemune.",
+   "en": "Learned it yesterday. Because of you.",
+   "note": "때문에 = because of",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:04"
+  }
+ ]
+}

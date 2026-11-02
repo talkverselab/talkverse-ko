@@ -1,0 +1,129 @@
+{
+ "id": "r1_life_c1",
+ "region": "R1",
+ "island": "life",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "보일러",
+ "emoji": "🔥",
+ "scene": "한겨울 밤, 집에 혼자 있는 학습자. 방이 너무 춥다. 도윤에게 카톡",
+ "speakers": {
+  "A": "{name}",
+  "B": "도윤"
+ },
+ "register": "chat",
+ "twist": 4,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "헐",
+  "잠깐만",
+  "진짜?"
+ ],
+ "goal": "Asking for help with the Korean floor heating",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "도윤아 방이 너무 추워 ㅠㅠ",
+   "rd": "doyuna bangi neomu chuwo ㅠㅠ",
+   "en": "Doyun, my room is freezing ㅠㅠ",
+   "note": "춥다 = cold",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:10"
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "보일러 켰어?",
+   "rd": "boilleo kyeosseo?",
+   "en": "Did you turn on the boiler?",
+   "note": "보일러 = floor heating",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:11"
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "보일러? 그게 뭐야?",
+   "rd": "boilleo? geuge mwoya?",
+   "en": "Boiler? What's that?",
+   "note": "그게 뭐야 = what is that",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:11"
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "헐… 3개월 동안 보일러 안 켰어?",
+   "rd": "heol… 3gaewol dongan boilleo an kyeosseo?",
+   "en": "Whoa… you haven't used the boiler for three months?",
+   "note": "Kick: three months in the cold",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:12"
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "난 그냥 이불 세 개 덮었는데…",
+   "rd": "nan geunyang ibul se gae deopeonneunde…",
+   "en": "I just used three blankets…",
+   "note": "이불 = blanket",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:12"
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "ㅋㅋㅋ 부엌 옆에 버튼 있어. 「난방」 눌러.",
+   "rd": "ㅋㅋㅋ bueok yeope beoteun isseo. 「nanbang」 nulleo.",
+   "en": "Lolol there's a button by the kitchen. Press \"heating\".",
+   "note": "난방 = heating",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:13"
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "잠깐만… 헐 바닥이 따뜻해!",
+   "rd": "jamkkanman… heol badagi ttatteuthae!",
+   "en": "Wait… whoa, the floor is warm!",
+   "note": "바닥 = floor",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:15"
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "한국 겨울은 바닥이야. 이제 이불 하나만 덮어.",
+   "rd": "hanguk gyeoureun badagiya. ije ibul hanaman deopeo.",
+   "en": "Korean winter is all about the floor. Now just one blanket.",
+   "note": "ondol culture",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:15"
+  }
+ ]
+}

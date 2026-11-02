@@ -1,0 +1,113 @@
+{
+ "id": "r0_study_a1",
+ "region": "R0",
+ "island": "study",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "study"
+ ],
+ "domain": [
+  "study"
+ ],
+ "title": "출석",
+ "emoji": "✋",
+ "scene": "어학당 첫 수업. 선생님이 출석을 부른다",
+ "speakers": {
+  "A": "{name}",
+  "B": "선생님",
+  "C": "마리아"
+ },
+ "register": "polite",
+ "twist": 5,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "네",
+  "여기요",
+  "죄송합니다"
+ ],
+ "goal": "Answering roll call",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "출석 부를게요. 마리아 씨?",
+   "rd": "chulseok bureulgeyo. maria ssi?",
+   "en": "I'll take attendance. Maria?",
+   "note": "출석 = attendance",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "C",
+   "ko": "네!",
+   "rd": "ne!",
+   "en": "Here!",
+   "note": "네 = here / yes",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "{name} 씨?",
+   "rd": "{name} ssi?",
+   "en": "{name}?",
+   "note": "name",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "여기요!",
+   "rd": "yeogiyo!",
+   "en": "Over here!",
+   "note": "여기요 = here (calling a waiter!)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "ㅋㅋ 식당이에요?",
+   "rd": "ㅋㅋ sikdangieyo?",
+   "en": "Haha, is this a restaurant?",
+   "note": "Kick: restaurant word",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "아… 죄송합니다. 네!",
+   "rd": "a… joesonghamnida. ne!",
+   "en": "Oh… sorry. Yes!",
+   "note": "죄송합니다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "좋아요. 출석은 「네」예요.",
+   "rd": "joayo. chulseogeun 「ne」yeyo.",
+   "en": "Good. For attendance it's \"네.\"",
+   "note": "rule",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "네! 그럼 「여기요」는 식당에서!",
+   "rd": "ne! geureom 「yeogiyo」neun sikdangeseo!",
+   "en": "Yes! Then \"여기요\" is for restaurants!",
+   "note": "learned",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

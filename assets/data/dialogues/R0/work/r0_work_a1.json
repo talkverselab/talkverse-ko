@@ -1,0 +1,112 @@
+{
+ "id": "r0_work_a1",
+ "region": "R0",
+ "island": "work",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "work"
+ ],
+ "domain": [
+  "work"
+ ],
+ "title": "첫 출근",
+ "emoji": "🧑‍💼",
+ "scene": "첫 출근 아침, 사무실 문 앞. 다들 바빠 보인다",
+ "speakers": {
+  "A": "{name}",
+  "B": "지호 선배"
+ },
+ "register": "polite",
+ "twist": 5,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "안녕하세요",
+  "네",
+  "잘 부탁드립니다"
+ ],
+ "goal": "First-day greetings at work",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "안녕하세요! 오늘부터 일해요.",
+   "rd": "annyeonghaseyo! oneulbuteo ilhaeyo.",
+   "en": "Hello! I start working today.",
+   "note": "오늘부터 = from today",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "아, {name} 씨? 반가워요.",
+   "rd": "a, {name} ssi? bangawoyo.",
+   "en": "Ah, {name}? Nice to meet you.",
+   "note": "반가워요 = nice to meet you",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "잘 부탁드립니다!",
+   "rd": "jal butakdeurimnida!",
+   "en": "I look forward to working with you!",
+   "note": "잘 부탁드립니다 = please take care of me",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "네. 자리 여기예요.",
+   "rd": "ne. jari yeogiyeyo.",
+   "en": "Sure. Your desk is here.",
+   "note": "자리 = seat / desk",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "감사합니다. …컴퓨터가 없어요.",
+   "rd": "gamsahamnida. …keompyuteoga eopseoyo.",
+   "en": "Thank you. …There's no computer.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "아, 다음 주에 와요.",
+   "rd": "a, daeum jue wayo.",
+   "en": "Oh, it comes next week.",
+   "note": "다음 주 = next week",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "그럼 오늘은 뭐 해요?",
+   "rd": "geureom oneureun mwo haeyo?",
+   "en": "Then what do I do today?",
+   "note": "뭐 해요 = what do I do",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "오늘은… 인사요. 다 돌면서.",
+   "rd": "oneureun… insayo. da dolmyeonseo.",
+   "en": "Today… greetings. Go around to everyone.",
+   "note": "인사 = greeting — real first-day job",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

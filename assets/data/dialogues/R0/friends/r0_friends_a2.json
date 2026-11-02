@@ -1,0 +1,112 @@
+{
+ "id": "r0_friends_a2",
+ "region": "R0",
+ "island": "friends",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "브이",
+ "emoji": "✌️",
+ "scene": "경복궁 앞. 서아가 사진을 찍어 준다며 「브이!」를 외친다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아"
+ },
+ "register": "casual",
+ "twist": 5,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "좋아",
+  "진짜?",
+  "하나 둘 셋"
+ ],
+ "goal": "Taking photos Korean-style",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "사진 찍어 줄게! 거기 서.",
+   "rd": "sajin jjigeo julge! geogi seo.",
+   "en": "I'll take your photo! Stand there.",
+   "note": "찍어 줄게 = I'll take it for you",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "여기? 좋아.",
+   "rd": "yeogi? joa.",
+   "en": "Here? Okay.",
+   "note": "좋아 = okay",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "하나, 둘, 셋! …브이 해야지!",
+   "rd": "hana, dul, set! …beui haeyaji!",
+   "en": "One, two, three! …You have to do a V!",
+   "note": "브이 = V-sign pose",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "브이? 이렇게?",
+   "rd": "beui? ireoke?",
+   "en": "A V? Like this?",
+   "note": "이렇게 = like this",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "아니, 볼에. 이렇게. 귀엽게.",
+   "rd": "ani, bore. ireoke. gwiyeopge.",
+   "en": "No, on your cheek. Like this. Cute.",
+   "note": "볼 = cheek",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…진짜? 다 이렇게 해?",
+   "rd": "…jinjja? da ireoke hae?",
+   "en": "…Really? Does everyone do this?",
+   "note": "Kick: the cheek-V",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "응. 한국 사진은 브이야.",
+   "rd": "eung. hanguk sajineun beuiya.",
+   "en": "Yep. Korean photos = V.",
+   "note": "rule",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "알았어. 브이!",
+   "rd": "arasseo. beui!",
+   "en": "Got it. V!",
+   "note": "he commits",
+   "tags": [],
+   "new": []
+  }
+ ]
+}
