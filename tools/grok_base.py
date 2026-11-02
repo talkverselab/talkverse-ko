@@ -34,13 +34,13 @@ g.tab = _tab_local
 
 
 def remote_paths(paths):
-    """첨부 파일은 브라우저가 있는 맥의 경로여야 한다 → M4 /tmp/grok_att/ 로 보내고 그 경로를 돌려준다."""
+    """첨부 파일은 브라우저가 있는 맥의 경로여야 한다 → M4 /tmp/grok_att/ko/ 로 보내고 그 경로를 돌려준다."""
     if not REMOTE:
         return [os.path.abspath(p) for p in paths]
-    subprocess.run(['ssh', REMOTE, 'mkdir -p /tmp/grok_att'], check=True)
+    subprocess.run(['ssh', REMOTE, 'mkdir -p /tmp/grok_att/ko'], check=True)
     out = []
     for p in paths:
-        dst = f'/tmp/grok_att/{os.path.basename(p)}'
+        dst = f'/tmp/grok_att/ko/{os.path.basename(p)}'  # 다른 언어앱 세션과 파일 이름이 겹치지 않게
         subprocess.run(['scp', '-q', p, f'{REMOTE}:{dst}'], check=True)
         out.append(dst)
     return out
