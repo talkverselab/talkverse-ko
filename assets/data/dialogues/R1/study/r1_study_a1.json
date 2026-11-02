@@ -1,0 +1,113 @@
+{
+ "id": "r1_study_a1",
+ "region": "R1",
+ "island": "study",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "study"
+ ],
+ "domain": [
+  "study"
+ ],
+ "title": "받침",
+ "emoji": "📖",
+ "scene": "어학당 수업. 선생님이 「닭」을 읽어 보라고 한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "선생님"
+ },
+ "register": "polite",
+ "twist": 4,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "잘 모르겠어요",
+  "다시 한 번 말해 주세요",
+  "네",
+  "진짜요?"
+ ],
+ "goal": "Final consonants (받침) in class",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "{name} 씨, 이거 읽어 보세요. 「닭」.",
+   "rd": "{name} ssi, igeo ilgeo boseyo. 「dak」.",
+   "en": "{name}, read this. 「닭」.",
+   "note": "읽어 보세요 = try reading",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "…달그?",
+   "rd": "…dalgeu?",
+   "en": "…dal-geu?",
+   "note": "Kick: reads both consonants",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "아니요, 「닥」. 받침 ㄺ 은 ㄱ 소리예요.",
+   "rd": "aniyo, 「dak」. batchim ㄺ eun ㄱ soriyeyo.",
+   "en": "No, \"dak\". The final ㄺ sounds like ㄱ.",
+   "note": "받침 = final consonant",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "ㄹ은 어디 갔어요?",
+   "rd": "ㄹeun eodi gasseoyo?",
+   "en": "Where did the ㄹ go?",
+   "note": "어디 갔어요? = where did it go?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "조용히 있어요. 「닭이」는요?",
+   "rd": "joyonghi isseoyo. 「dalgi」neunyo?",
+   "en": "It stays quiet. What about 「닭이」?",
+   "note": "조용히 = quietly",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…달기? 아니, 다기?",
+   "rd": "…dalgi? ani, dagi?",
+   "en": "…dal-gi? No, da-gi?",
+   "note": "trying",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "「달기」! 뒤에 모음이 오면 ㄹ이 살아나요.",
+   "rd": "「dalgi」! dwie moeumi omyeon ㄹi saranayo.",
+   "en": "\"Dal-gi\"! When a vowel follows, the ㄹ comes back.",
+   "note": "살아나다 = come back to life",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "살아나요? 받침이 좀비예요?",
+   "rd": "saranayo? batchimi jombiyeyo?",
+   "en": "Comes back to life? Is the 받침 a zombie?",
+   "note": "좀비 = zombie",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

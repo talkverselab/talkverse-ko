@@ -1,0 +1,136 @@
+{
+ "id": "r1_love_c3",
+ "region": "R1",
+ "island": "love",
+ "kind": "chat",
+ "stage": "플러팅",
+ "series": "flirt",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "어제 클럽",
+ "emoji": "🌅",
+ "scene": "클럽 다음 날 낮 1시. 인스타 맞팔한 하늘에게서 DM 이 왔다",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘"
+ },
+ "register": "chat",
+ "twist": 3,
+ "flags": [
+  "alcohol"
+ ],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "헐",
+  "진짜?"
+ ],
+ "goal": "The morning-after DM",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "어제 그 박자 없는 사람 맞아요? ㅋㅋ",
+   "rd": "eoje geu bakja eomneun saram majayo? ㅋㅋ",
+   "en": "You’re the no-rhythm person from last night, right? lol",
+   "note": "맞죠? = right? · callback 「춤 출래요?」",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "13:02"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "헐 ㅋㅋ 그걸로만 기억해요?",
+   "rd": "heol ㅋㅋ geugeolloman gieokaeyo?",
+   "en": "Omg lol that’s all you remember?",
+   "note": "그걸로 = by that",
+   "tags": [],
+   "new": [],
+   "ui": "bubble"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "다른 건 진짜 기억 안 나요. ㅋㅋ 박자만요.",
+   "rd": "dareun geon jinjja gieok an nayo. ㅋㅋ bakjamanyo.",
+   "en": "I don’t remember anything else for real. lol Just the rhythm.",
+   "note": "Kick: brutal honesty",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "13:03"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "이름은 기억 안 나요?",
+   "rd": "ireumeun gieok an nayo?",
+   "en": "You don’t remember the name?",
+   "note": "-은요? = what about…?",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "13:03"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "{name}요? 아니면 박자요? ㅋㅋ",
+   "rd": "{name}yo? animyeon bakjayo? ㅋㅋ",
+   "en": "{name}? Or Rhythm? lol",
+   "note": "teasing nickname",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "13:04"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "{name}이에요 ㅋㅋ 다음엔 연습하고 갈게요.",
+   "rd": "{name}ieyo ㅋㅋ daeumen yeonseupago galgeyo.",
+   "en": "It’s {name} lol. Next time I’ll practice first.",
+   "note": "-해 갈게요 = I'll do it before coming",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "13:05"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "다음이요? 진짜 다음이 있어요? ㅋㅋ",
+   "rd": "daeumiyo? jinjja daeumi isseoyo? ㅋㅋ",
+   "en": "Next? There’s really a next time? lol",
+   "note": "-이 있어요? = is there…?",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "13:05"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "이번 금요일 같은 데 어때요?",
+   "rd": "ibeon geumyoil gateun de eottaeyo?",
+   "en": "This Friday, same place?",
+   "note": "어때요? = how about it?",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "13:06"
+  }
+ ],
+ "initiator": "B",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_c3_grok_rewrite.md [K035]",
+  "final": ""
+ }
+}

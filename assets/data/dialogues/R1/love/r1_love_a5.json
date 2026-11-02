@@ -1,0 +1,121 @@
+{
+ "id": "r1_love_a5",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "stage": "플러팅",
+ "series": "flirt",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "춤 출래요?",
+ "emoji": "🪩",
+ "scene": "금요일 밤 홍대 클럽. 음악이 너무 커서 귀에 대고 말해야 한다. 하늘이 먼저 다가온다",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘"
+ },
+ "register": "casual",
+ "twist": 4,
+ "flags": [
+  "alcohol"
+ ],
+ "kdrama": "",
+ "expressions": [
+  "뭐라고요?",
+  "진짜?",
+  "완전"
+ ],
+ "goal": "Talking over loud music",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "야! 혼자 왔어?",
+   "rd": "ya! honja wasseo?",
+   "en": "Hey! You alone?",
+   "note": "혼자 = alone",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "뭐라고요? 하나도 안 들려요!",
+   "rd": "mworagoyo? hanado an deullyeoyo!",
+   "en": "What? I can’t hear a thing!",
+   "note": "뭐라고요? = sorry, what?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "춤 출래?",
+   "rd": "chum chullae?",
+   "en": "Wanna dance?",
+   "note": "춤 출래요? = want to dance?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "나 춤 완전 못 춰!",
+   "rd": "na chum wanjeon mot chwo!",
+   "en": "I totally can’t dance!",
+   "note": "못 춰요 = can't dance",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "괜찮아! 그냥 서 있어, 내가 출게!",
+   "rd": "gwaenchana! geunyang seo isseo, naega chulge!",
+   "en": "It’s fine! Just stand there, I’ll dance!",
+   "note": "Kick: she'll do all the dancing",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "진짜? …이렇게?",
+   "rd": "jinjja? …ireoke?",
+   "en": "Really? …Like this?",
+   "note": "이렇게 = like this",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "완전 잘하는데? 박자만 빼고!",
+   "rd": "wanjeon jalhaneunde? bakjaman ppaego!",
+   "en": "You’re totally good! Except the rhythm!",
+   "note": "빼고 = except",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "박자가 제일 중요한 거 아니야?",
+   "rd": "bakjaga jeil jungyohan geo aniya?",
+   "en": "Isn’t rhythm the most important?",
+   "note": "제일 = the most",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "initiator": "B",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a5_grok_rewrite.md [K034]",
+  "final": ""
+ }
+}

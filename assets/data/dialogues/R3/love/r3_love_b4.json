@@ -1,0 +1,201 @@
+{
+ "id": "r3_love_b4",
+ "region": "R3",
+ "island": "love",
+ "kind": "long",
+ "stage": "플러팅",
+ "series": "flirt",
+ "initiator": "B",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "밤 버스",
+ "emoji": "🚌",
+ "scene": "막차 광역버스. 옆자리 하늘이 졸다가 A 어깨에 기댄다 — 드라마 「어깨에 기대 잠들기」. 그런데 자는 게 아니었다",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘"
+ },
+ "register": "casual",
+ "twist": 10,
+ "flags": [],
+ "kdrama": "막차에서 어깨에 기대 잠드는 장면",
+ "expressions": [
+  "헐",
+  "설마",
+  "진짜?",
+  "됐어",
+  "아 몰라"
+ ],
+ "goal": "A late-bus flirt where she's pretending to sleep",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "(…어깨에 누가 기댔네.)",
+   "rd": "(…eokkaee nuga gidaenne.)",
+   "en": "(…Someone just leaned on my shoulder.)",
+   "note": "inner voice — the K-drama bus scene",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "……",
+   "rd": "……",
+   "en": "……",
+   "note": "sleeping? or not",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "저기… 나 다음에 내려.",
+   "rd": "jeogi… na daeume naeryeo.",
+   "en": "Hey… I get off at the next stop.",
+   "note": "내려요 = I get off",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "…5분만.",
+   "rd": "…5bunman.",
+   "en": "…Just five minutes.",
+   "note": "-만요 = just (polite)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "네? 안 잤어?",
+   "rd": "ne? an jasseo?",
+   "en": "Huh? You weren’t asleep?",
+   "note": "안 주무셨어요? = you weren't sleeping? (honorific)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "아까부터야. 어깨가 편해서.",
+   "rd": "akkabuteoya. eokkaega pyeonhaeseo.",
+   "en": "Since a while ago. Your shoulder’s comfortable.",
+   "note": "편하다 = comfortable",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "헐… 그럼 왜 기댔어?",
+   "rd": "heol… geureom wae gidaesseo?",
+   "en": "Whoa… then why did you lean on me?",
+   "note": "-었어요? = past question",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "드라마에서 이러면 사귀던데.",
+   "rd": "deuramaeseo ireomyeon sagwideonde.",
+   "en": "In dramas, people start dating after this.",
+   "note": "-던데요 = from what I've seen",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "A",
+   "ko": "설마… 나 노리고 탄 거야?",
+   "rd": "seolma… na norigo tan geoya?",
+   "en": "Don’t tell me… you got on this bus for me?",
+   "note": "노리다 = to target / aim for",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "B",
+   "ko": "아니. 그냥 같은 동네야. 매일 이 버스 타던데.",
+   "rd": "ani. geunyang gateun dongneya. maeil i beoseu tadeonde.",
+   "en": "No. We just live in the same area. You take this bus every day.",
+   "note": "Kick: she's been watching for a while",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "A",
+   "ko": "…매일 봤어?",
+   "rd": "…maeil bwasseo?",
+   "en": "…You’ve seen me every day?",
+   "note": "매일 = every day",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "B",
+   "ko": "응. 맨날 졸아, {name} 씨는. 오늘은 내가 졸아 봤어.",
+   "rd": "eung. maennal jora, {name} ssineun. oneureun naega jora bwasseo.",
+   "en": "Yeah. You always doze off, {name}. Today I tried dozing.",
+   "note": "졸다 = to doze off",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 13,
+   "speaker": "A",
+   "ko": "아 몰라… 이름은 어떻게 알아?",
+   "rd": "a molla… ireumeun eotteoke ara?",
+   "en": "Ugh… how do you know my name?",
+   "note": "어떻게 = how",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 14,
+   "speaker": "B",
+   "ko": "가방에 써 있어.",
+   "rd": "gabange sseo isseo.",
+   "en": "It’s written on your bag.",
+   "note": "써 있다 = is written",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 15,
+   "speaker": "A",
+   "ko": "…됐어. 다음 정류장에서 같이 내려. 커피 사 줄게.",
+   "rd": "…dwaesseo. daeum jeongnyujangeseo gachi naeryeo. keopi sa julge.",
+   "en": "…Fine. Let’s get off together at the next stop. I’ll buy you a coffee.",
+   "note": "사 줄게요 = I'll buy (for you)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 16,
+   "speaker": "B",
+   "ko": "진짜? 그럼 5분 더 기댈게.",
+   "rd": "jinjja? geureom 5bun deo gidaelge.",
+   "en": "Really? Then I’ll lean five more minutes.",
+   "note": "기댈게요 = I'll lean",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r3_love_b4_grok_rewrite.md [K040]",
+  "final": ""
+ }
+}

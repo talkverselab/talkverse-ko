@@ -1,0 +1,119 @@
+{
+ "id": "r1_love_a4",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "stage": "플러팅",
+ "series": "flirt",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "컵에 적힌 말",
+ "emoji": "🥤",
+ "scene": "단골 카페. 오늘 받은 아이스 아메리카노 컵 홀더에 바리스타 지안이 뭔가 적어 놓았다",
+ "speakers": {
+  "A": "{name}",
+  "B": "지안"
+ },
+ "register": "polite",
+ "twist": 6,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜요?",
+  "헐",
+  "어?"
+ ],
+ "goal": "Small talk with a regular-café barista",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "저기요, 컵 홀더에 글씨 있는데요?",
+   "rd": "jeogiyo, keop holdeoe geulssi inneundeyo?",
+   "en": "Excuse me, there’s writing on the cup holder?",
+   "note": "써 있다 = to be written",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "아, 그거요? 한번 읽어 보실래요?",
+   "rd": "a, geugeoyo? hanbeon ilgeo bosillaeyo?",
+   "en": "Oh, that? Want to read it?",
+   "note": "-아 보세요 = try (doing)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "오늘도 와 줘서 고마워요… 진짜요?",
+   "rd": "oneuldo wa jwoseo gomawoyo… jinjjayo?",
+   "en": "Thanks for coming again today… Really?",
+   "note": "와 줘서 = for coming (for me)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "매일 이 시간에 오시잖아요.",
+   "rd": "maeil i sigane osijanayo.",
+   "en": "You come at this time every day.",
+   "note": "-잖아요 = you know",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "헐, 기억하고 있었어요?",
+   "rd": "heol, gieokago isseosseoyo?",
+   "en": "Whoa, you remembered?",
+   "note": "알고 있었어요? = you knew?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "아메리카노에 얼음 많이요. 주문까지 다 외웠어요.",
+   "rd": "amerikanoe eoreum maniyo. jumunkkaji da oewosseoyo.",
+   "en": "Americano, extra ice. I’ve got the whole order memorized.",
+   "note": "Kick: he memorized the order — and the customer",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "어? 그럼 내일은 제가 뭐라도 쓸게요.",
+   "rd": "eo? geureom naeireun jega mworado sseulgeyo.",
+   "en": "Huh? Then tomorrow I’ll write something.",
+   "note": "-ㄹ게요 = I'll",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "좋아요. 영수증 뒤에 번호 적으면 더 좋고요.",
+   "rd": "joayo. yeongsujeung dwie beonho jeogeumyeon deo jokoyo.",
+   "en": "Nice. Even better if you put your number on the back of the receipt.",
+   "note": "번호 = (phone) number · callback 「번호 줄래요?」",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "initiator": "B",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a4_grok_rewrite.md [K033]",
+  "final": ""
+ }
+}

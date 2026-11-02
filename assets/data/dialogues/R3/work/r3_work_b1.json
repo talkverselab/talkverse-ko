@@ -1,0 +1,195 @@
+{
+ "id": "r3_work_b1",
+ "region": "R3",
+ "island": "work",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "work"
+ ],
+ "domain": [
+  "work"
+ ],
+ "title": "퇴근 안 하세요?",
+ "emoji": "🏢",
+ "scene": "저녁 6시 반. 할 일은 끝났는데 아무도 안 일어난다. 눈치 게임. 지호 선배가 메신저로 코치",
+ "speakers": {
+  "A": "{name}",
+  "B": "지호 선배",
+  "C": "팀장님",
+  "D": "대리님"
+ },
+ "register": "polite",
+ "twist": 10,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "잠깐만요",
+  "진짜요?",
+  "그니까",
+  "먼저 가 보겠습니다"
+ ],
+ "goal": "Reading the room (눈치) at quitting time",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "(메신저) 선배, 저 일 다 끝났는데 가도 돼요?",
+   "rd": "(mesinjeo) seonbae, jeo il da kkeunnanneunde gado dwaeyo?",
+   "en": "(message) Jiho, I'm done with my work. Can I go?",
+   "note": "가도 돼요? = may I leave?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "(메신저) 팀장님 아직 안 가셨잖아.",
+   "rd": "(mesinjeo) timjangnim ajik an gasyeotjana.",
+   "en": "(message) The boss hasn't left yet.",
+   "note": "안 가셨잖아 = hasn't left (honorific)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "(메신저) 그게 왜요? 제 일은 끝났는데.",
+   "rd": "(mesinjeo) geuge waeyo? je ireun kkeunnanneunde.",
+   "en": "(message) So what? My work is done.",
+   "note": "그게 왜요? = why does that matter?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "(메신저) 눈치. 한국 회사 1교시.",
+   "rd": "(mesinjeo) nunchi. hanguk hoesa 1gyosi.",
+   "en": "(message) Nunchi. Lesson one of Korean companies.",
+   "note": "눈치 = reading the room",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "(메신저) 그럼 언제까지 있어요?",
+   "rd": "(mesinjeo) geureom eonjekkaji isseoyo?",
+   "en": "(message) Then how long do I stay?",
+   "note": "언제까지 = until when",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "(메신저) 팀장님이 일어나면 5분 뒤.",
+   "rd": "(mesinjeo) timjangnimi ireonamyeon 5bun dwi.",
+   "en": "(message) Five minutes after the boss stands up.",
+   "note": "일어나다 = stand up",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "(7시) 다들 수고했어요. 나 먼저 갈게요.",
+   "rd": "(7si) dadeul sugohaesseoyo. na meonjeo galgeyo.",
+   "en": "(7 p.m.) Good work, everyone. I'm heading out.",
+   "note": "수고했어요 = good work today",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "(메신저) 지금이에요? 지금 가요?",
+   "rd": "(mesinjeo) jigeumieyo? jigeum gayo?",
+   "en": "(message) Now? Do I go now?",
+   "note": "지금 = now",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "(메신저) 잠깐만. 4분 남았어.",
+   "rd": "(mesinjeo) jamkkanman. 4bun namasseo.",
+   "en": "(message) Wait. Four minutes left.",
+   "note": "남다 = remain",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "(메신저) 진짜요? 초까지 재요?",
+   "rd": "(mesinjeo) jinjjayo? chokkaji jaeyo?",
+   "en": "(message) Really? Down to the second?",
+   "note": "재다 = to time / measure",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "(메신저) 그니까 눈치라고. 지금! 가면서 인사해.",
+   "rd": "(mesinjeo) geunikka nunchirago. jigeum! gamyeonseo insahae.",
+   "en": "(message) That's why it's called nunchi. Now! Say goodbye as you go.",
+   "note": "가면서 = while leaving",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "(일어나며) 저 먼저 가 보겠습니다!",
+   "rd": "(ireonamyeo) jeo meonjeo ga bogetseumnida!",
+   "en": "(standing) I'll be heading out first!",
+   "note": "먼저 가 보겠습니다 = the standard leaving phrase",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 13,
+   "speaker": "D",
+   "ko": "네~ {name} 씨, 내일 봐요. …근데 지호 씨는 왜 안 가요?",
+   "rd": "ne~ {name} ssi, naeil bwayo. …geunde jiho ssineun wae an gayo?",
+   "en": "Sure~ see you tomorrow, {name}. …But Jiho, why aren't you leaving?",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 14,
+   "speaker": "B",
+   "ko": "아… 저는 할 일이 있어서요.",
+   "rd": "a… jeoneun hal iri isseoseoyo.",
+   "en": "Oh… I have things to do.",
+   "note": "-어서요 = because",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 15,
+   "speaker": "A",
+   "ko": "(메신저) 선배, 눈치 보는 거예요?",
+   "rd": "(mesinjeo) seonbae, nunchi boneun geoyeyo?",
+   "en": "(message) Jiho, are you reading the room?",
+   "note": "눈치 보다 = to watch others' reactions",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 16,
+   "speaker": "B",
+   "ko": "(메신저) …2교시는 내일.",
+   "rd": "(mesinjeo) …2gyosineun naeil.",
+   "en": "(message) …Lesson two, tomorrow.",
+   "note": "Kick: the teacher is stuck",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

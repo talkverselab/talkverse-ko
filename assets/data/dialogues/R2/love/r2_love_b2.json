@@ -1,0 +1,160 @@
+{
+ "id": "r2_love_b2",
+ "region": "R2",
+ "island": "love",
+ "kind": "long",
+ "stage": "고백 직전",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "술김에",
+ "emoji": "🍢",
+ "scene": "썸 석 달째, 포장마차. 소주 두 잔 마신 유진이 갑자기 진지해진다 — 드라마의 「취한 척 고백」",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진"
+ },
+ "register": "casual",
+ "twist": 10,
+ "flags": [
+  "alcohol"
+ ],
+ "kdrama": "포장마차 소주 뒤 「취한 척」 고백",
+ "expressions": [
+  "진짜?",
+  "아 몰라",
+  "그니까",
+  "설마"
+ ],
+ "goal": "Confessing feelings — and the \"I was drunk\" excuse",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "{name}, 나 할 말 있는데.",
+   "rd": "{name}, na hal mal inneunde.",
+   "en": "{name}, I have something to say.",
+   "note": "할 말 있어 = I have something to tell you",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "뭔데? 얼굴 왜 이래.",
+   "rd": "mwonde? eolgul wae irae.",
+   "en": "What is it? Why's your face like that.",
+   "note": "빨개 = (it's) red",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "소주 때문이야. …아니, 아니야.",
+   "rd": "soju ttaemuniya. …ani, aniya.",
+   "en": "It's the soju. …No, it's not.",
+   "note": "-때문 = because of",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "진짜? 뭔데.",
+   "rd": "jinjja? mwonde.",
+   "en": "Really? What is it.",
+   "note": "진짜? = really?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "나… 너 좋아하는 거 같아.",
+   "rd": "na… neo joahaneun geo gata.",
+   "en": "I… think I like you.",
+   "note": "-는 것 같아 = I think (softened)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…설마 지금 고백하는 거야?",
+   "rd": "…seolma jigeum gobaekaneun geoya?",
+   "en": "…No way, is this a confession?",
+   "note": "설마 = no way · 고백 = confession",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "아 몰라! 내일 기억 안 날 거야. 취했으니까.",
+   "rd": "a molla! naeil gieok an nal geoya. chwihaesseunikka.",
+   "en": "Ugh whatever! I won't remember tomorrow. I'm drunk.",
+   "note": "the classic \"blame the soju\" escape",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "그럼 나도 말할게. 나도 너 좋아.",
+   "rd": "geureom nado malhalge. nado neo joa.",
+   "en": "Then I'll say it too. I like you too.",
+   "note": "-ㄹ게 = I'll",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "…진짜? 너도 취했어?",
+   "rd": "…jinjja? neodo chwihaesseo?",
+   "en": "…Really? Are you drunk too?",
+   "note": "echoing her own excuse",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "아니. 나 계속 콜라 마셨어.",
+   "rd": "ani. na gyesok kolla masyeosseo.",
+   "en": "No. I've been drinking cola the whole time.",
+   "note": "Kick: he was sober — no excuse for him",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "…그럼 다 기억하겠네.",
+   "rd": "…geureom da gieokagenne.",
+   "en": "…Then you'll remember all of it.",
+   "note": "-겠네 = I guess you will",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "응. 그니까 내일 맨정신으로 다시 말해 줘.",
+   "rd": "eung. geunikka naeil maenjeongsineuro dasi malhae jwo.",
+   "en": "Yeah. So tell me again tomorrow when you're sober.",
+   "note": "맨정신 = sober mind",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_love_b2_grok_rewrite.md [K027]",
+  "final": ""
+ }
+}

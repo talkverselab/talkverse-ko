@@ -1,0 +1,113 @@
+{
+ "id": "r1_culture_a1",
+ "region": "R1",
+ "island": "culture",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "티켓팅",
+ "emoji": "🎫",
+ "scene": "콘서트 티켓 오픈 8시 정각. 서아 집, 노트북 두 대. 학습자는 처음 겪는 「피켓팅」",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아"
+ },
+ "register": "casual",
+ "twist": 6,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "잠깐만",
+  "헐",
+  "진짜?",
+  "아 몰라"
+ ],
+ "goal": "Korean concert ticketing = war",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "7시 59분 50초… 준비됐지? 새로고침 금지!",
+   "rd": "7si 59bun 50cho… junbidwaetji? saerogochim geumji!",
+   "en": "7:59:50… ready? No refreshing!",
+   "note": "새로고침 = refresh",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "알았어. 근데 왜 이렇게 긴장돼?",
+   "rd": "arasseo. geunde wae ireoke ginjangdwae?",
+   "en": "Okay. But why am I so nervous?",
+   "note": "긴장되다 = to be nervous",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "5, 4, 3, 2, 1… 눌러!",
+   "rd": "5, 4, 3, 2, 1… nulleo!",
+   "en": "5, 4, 3, 2, 1… click!",
+   "note": "눌러 = press / click",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "눌렀어! …잠깐만, 「대기 인원 48,000명」?",
+   "rd": "nulleosseo! …jamkkanman, 「daegi inwon 48,000myeong」?",
+   "en": "Clicked! …Wait, \"48,000 people in queue\"?",
+   "note": "대기 = waiting",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "피켓팅이니까. 피 튀기는 티켓팅.",
+   "rd": "pikettinginikka. pi twigineun tiketting.",
+   "en": "It's 피켓팅. Blood-splattering ticketing.",
+   "note": "피 = blood + 티켓팅",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "헐… 들어갔다! 자리 골라… 어? 없어졌어.",
+   "rd": "heol… deureogatda! jari golla… eo? eopseojyeosseo.",
+   "en": "Whoa… I'm in! Pick a seat… huh? It's gone.",
+   "note": "Kick: seats vanish mid-click",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "아 몰라, 다른 데! 빨리! 아무 데나!",
+   "rd": "a molla, dareun de! ppalli! amu dena!",
+   "en": "Ugh, another one! Quick! Anywhere!",
+   "note": "아무 데나 = anywhere",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…「예매 완료」. 서아야, 나 됐어. 진짜 됐어.",
+   "rd": "…「yemae wallyo」. seoaya, na dwaesseo. jinjja dwaesseo.",
+   "en": "…\"Booking complete.\" Seoa, I got it. I really got it.",
+   "note": "예매 = booking",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

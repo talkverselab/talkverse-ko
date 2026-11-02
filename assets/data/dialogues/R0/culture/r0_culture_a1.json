@@ -1,0 +1,113 @@
+{
+ "id": "r0_culture_a1",
+ "region": "R0",
+ "island": "culture",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "최애가 누구야?",
+ "emoji": "💜",
+ "scene": "어학당 쉬는 시간. 서아가 폰 배경화면을 보여 주며 묻는다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아"
+ },
+ "register": "casual",
+ "twist": 4,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "최애",
+  "진짜?",
+  "귀여워",
+  "헐"
+ ],
+ "goal": "Fandom basics: 최애",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "{name}, 최애 누구야?",
+   "rd": "{name}, choeae nuguya?",
+   "en": "{name}, who's your 최애?",
+   "note": "최애 = favorite member / bias",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "최애? 그게 뭐야?",
+   "rd": "choeae? geuge mwoya?",
+   "en": "최애? What's that?",
+   "note": "그게 뭐야 = what is that",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "제일 좋아하는 사람! 아이돌!",
+   "rd": "jeil joahaneun saram! aidol!",
+   "en": "The person you like most! An idol!",
+   "note": "제일 = the most",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "아… 나는… 너?",
+   "rd": "a… naneun… neo?",
+   "en": "Oh… mine is… you?",
+   "note": "Kick: he picks her",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "헐 ㅋㅋ 아이돌 중에서!",
+   "rd": "heol ㅋㅋ aidol jungeseo!",
+   "en": "Omg lol among idols!",
+   "note": "중에서 = among",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "아이돌 몰라. 한 명도.",
+   "rd": "aidol molla. han myeongdo.",
+   "en": "I don't know idols. Not one.",
+   "note": "한 명도 = not even one",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "진짜? 오늘부터 입덕이야. 앉아.",
+   "rd": "jinjja? oneulbuteo ipdeogiya. anja.",
+   "en": "Really? From today you're a fan. Sit.",
+   "note": "입덕 = becoming a fan",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…귀여워, 얘.",
+   "rd": "…gwiyeowo, yae.",
+   "en": "…This one's cute.",
+   "note": "귀여워 = cute — it begins",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

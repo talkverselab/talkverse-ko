@@ -1,0 +1,195 @@
+{
+ "id": "r3_life_b1",
+ "region": "R3",
+ "island": "life",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "층간소음",
+ "emoji": "🔨",
+ "scene": "밤 11시, 윗집에서 쿵쿵 소리. 도윤이 「천장 치지 마」라고 말린다. 다음 날 윗집 아주머니가 떡을 들고 온다",
+ "speakers": {
+  "A": "{name}",
+  "B": "도윤",
+  "C": "윗집 아주머니"
+ },
+ "register": "mixed",
+ "twist": 11,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "됐어",
+  "그니까",
+  "죄송합니다"
+ ],
+ "goal": "Neighbor noise — and the apartment etiquette around it",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "또 쿵쿵거려. 벌써 열한 시야.",
+   "rd": "tto kungkunggeoryeo. beolsseo yeolhan siya.",
+   "en": "They're stomping again. It's already eleven.",
+   "note": "쿵쿵거리다 = to thump",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "층간소음이지 뭐. 참아.",
+   "rd": "cheunggansoeumiji mwo. chama.",
+   "en": "Floor noise, what can you do. Bear with it.",
+   "note": "층간소음 = noise between floors · 참다 = to endure",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "올라가서 말할까?",
+   "rd": "ollagaseo malhalkka?",
+   "en": "Should I go up and say something?",
+   "note": "올라가다 = go up",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "밤에 직접 가면 싸움 나. 경비실에 말해.",
+   "rd": "bame jikjeop gamyeon ssaum na. gyeongbisire malhae.",
+   "en": "If you go yourself at night, it turns into a fight. Tell the security office.",
+   "note": "경비실 = security office",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "헐, 그렇게 심해?",
+   "rd": "heol, geureoke simhae?",
+   "en": "Whoa, is it that serious?",
+   "note": "심하다 = severe",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "뉴스에 맨날 나와. 그니까 천장 치지 마.",
+   "rd": "nyuseue maennal nawa. geunikka cheonjang chiji ma.",
+   "en": "It's on the news all the time. So don't bang the ceiling.",
+   "note": "천장 치다 = bang the ceiling (classic retaliation)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "…이미 한 번 쳤는데.",
+   "rd": "…imi han beon chyeonneunde.",
+   "en": "…I already did once.",
+   "note": "이미 = already",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "아 진짜? 됐어, 내일 보자.",
+   "rd": "a jinjja? dwaesseo, naeil boja.",
+   "en": "Oh really? Fine, we'll see tomorrow.",
+   "note": "됐어 = forget it",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "C",
+   "ko": "(다음 날) 안녕하세요, 윗집이에요. 어제 시끄러웠죠?",
+   "rd": "(daeum nal) annyeonghaseyo, witjibieyo. eoje sikkeureowotjyo?",
+   "en": "(next day) Hello, we're from upstairs. It was loud yesterday, right?",
+   "note": "윗집 = the upstairs household",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "아… 네, 조금요. 죄송합니다, 제가 천장을…",
+   "rd": "a… ne, jogeumyo. joesonghamnida, jega cheonjangeul…",
+   "en": "Oh… yes, a little. I'm sorry, I hit the ceiling…",
+   "note": "죄송합니다 = I'm sorry (formal)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "C",
+   "ko": "아니에요, 우리 애가 뛰어서요. 이거 떡이에요. 드세요.",
+   "rd": "anieyo, uri aega ttwieoseoyo. igeo tteogieyo. deuseyo.",
+   "en": "No, our kid was running. Here, rice cakes. Please have some.",
+   "note": "Kick: she apologizes with 떡",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "떡…이요? 진짜요?",
+   "rd": "tteok…iyo? jinjjayo?",
+   "en": "Rice cakes…? Really?",
+   "note": "떡 = rice cake — the neighbor gift",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 13,
+   "speaker": "C",
+   "ko": "이사 오셨는데 인사도 못 드렸네요. 애가 다시 뛰면 바로 말씀하세요.",
+   "rd": "isa osyeonneunde insado mot deuryeonneyo. aega dasi ttwimyeon baro malsseumhaseyo.",
+   "en": "You moved in and we never said hello. If the kid runs again, tell us right away.",
+   "note": "말씀하세요 = please tell (honorific)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 14,
+   "speaker": "A",
+   "ko": "감사합니다… 저, 어제 천장 친 거 정말 죄송해요.",
+   "rd": "gamsahamnida… jeo, eoje cheonjang chin geo jeongmal joesonghaeyo.",
+   "en": "Thank you… and I'm really sorry about hitting the ceiling.",
+   "note": "친 거 = the hitting",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 15,
+   "speaker": "B",
+   "ko": "(문 닫고) 봤지? 이게 한국식 해결이야. 떡으로.",
+   "rd": "(mun datgo) bwatji? ige hanguksik haegyeoriya. tteogeuro.",
+   "en": "(door closed) See? That's the Korean solution. With rice cakes.",
+   "note": "해결 = solution",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 16,
+   "speaker": "A",
+   "ko": "…나도 내일 떡 사 가야겠다.",
+   "rd": "…nado naeil tteok sa gayagetda.",
+   "en": "…I should bring rice cakes tomorrow too.",
+   "note": "-아야겠다 = I should",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

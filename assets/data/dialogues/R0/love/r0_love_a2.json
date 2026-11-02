@@ -1,0 +1,117 @@
+{
+ "id": "r0_love_a2",
+ "region": "R0",
+ "island": "love",
+ "kind": "short",
+ "stage": "플러팅",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "번호 줄래요?",
+ "emoji": "📱",
+ "scene": "카페 픽업대. 옆에 선 유진이 용기 내 번호를 묻는다. 학습자 손에는 진동벨",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진"
+ },
+ "register": "polite",
+ "twist": 4,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "네",
+  "진짜요?",
+  "감사합니다"
+ ],
+ "goal": "Being asked for your number — and what 번호 can mean",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "저기… 번호 알려주실래요?",
+   "rd": "jeogi… beonho allyeojusillaeyo?",
+   "en": "Um… can you give me your number?",
+   "note": "번호 = number (phone number, order number…)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네? 아, 네!",
+   "rd": "ne? a, ne!",
+   "en": "Huh? Oh, sure!",
+   "note": "네? = pardon? · 네! = yes!",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "진짜요? 감사합니다!",
+   "rd": "jinjjayo? gamsahamnida!",
+   "en": "For real? Thank you!",
+   "note": "진짜요? = really? (polite)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "37번이요.",
+   "rd": "37beoniyo.",
+   "en": "It's 37.",
+   "note": "Kick: he reads out his order number from the buzzer",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "헐… 그거 주문번호잖아요.",
+   "rd": "heol… geugeo jumunbeonhojanayo.",
+   "en": "Wait… that's the order number.",
+   "note": "-잖아요 = you know / come on (polite)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "아! 전화번호요?",
+   "rd": "a! jeonhwabeonhoyo?",
+   "en": "Oh! You mean phone?",
+   "note": "전화번호 = phone number",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "네. 전화번호요.",
+   "rd": "ne. jeonhwabeonhoyo.",
+   "en": "Yeah. Phone number.",
+   "note": "echo = patient smile",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "010… 아, 37번 나왔다!",
+   "rd": "010… a, 37beon nawatda!",
+   "en": "010… oh, 37's ready!",
+   "note": "잠깐만요 = one moment · 나왔다 = it's ready",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a2_grok_rewrite.md [K021]",
+  "final": ""
+ }
+}

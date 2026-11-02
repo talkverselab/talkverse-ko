@@ -1,0 +1,163 @@
+{
+ "id": "r2_love_b5",
+ "region": "R2",
+ "island": "love",
+ "kind": "long",
+ "stage": "플러팅",
+ "series": "flirt",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "합석",
+ "emoji": "🍻",
+ "scene": "헌팅포차(처음 보는 사람끼리 합석하는 술집). 옆 테이블 하늘과 친구 해솔. A 의 친구가 「가 봐!」 하고 등을 민다",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘",
+  "C": "해솔"
+ },
+ "register": "casual",
+ "twist": 8,
+ "flags": [
+  "alcohol"
+ ],
+ "kdrama": "",
+ "expressions": [
+  "저기요",
+  "진짜요?",
+  "그니까",
+  "아 몰라"
+ ],
+ "goal": "Asking a nearby table to join you, Korean pub style",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "저기요… 합석해도 될까요?",
+   "rd": "jeogiyo… hapseokaedo doelkkayo?",
+   "en": "Excuse me… can we join your table?",
+   "note": "합석 = sharing a table",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "음… 몇 명이에요?",
+   "rd": "eum… myeot myeongieyo?",
+   "en": "Hmm… how many of you?",
+   "note": "몇 명 = how many people",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "둘이요. 저랑 저 친구요.",
+   "rd": "duriyo. jeorang jeo chinguyo.",
+   "en": "Two. Me and that friend.",
+   "note": "저 친구 = that friend (over there)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "저 친구 지금 화장실 갔는데요?",
+   "rd": "jeo chingu jigeum hwajangsil ganneundeyo?",
+   "en": "Your friend just went to the bathroom, though?",
+   "note": "Kick setup: the friend vanished",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "아… 그럼 지금은 한 명이요.",
+   "rd": "a… geureom jigeumeun han myeongiyo.",
+   "en": "Oh… then right now it’s just one.",
+   "note": "지금은 = for now",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "ㅋㅋ 혼자 와서 합석하자는 거예요?",
+   "rd": "ㅋㅋ honja waseo hapseokajaneun geoyeyo?",
+   "en": "Haha, you came over alone to ask us to join?",
+   "note": "-자는 거예요? = are you suggesting we…?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "친구가 가라고 해서요. 근데 걔가 도망갔어요.",
+   "rd": "chinguga garago haeseoyo. geunde gyaega domanggasseoyo.",
+   "en": "My friend told me to go. But he ran away.",
+   "note": "도망갔어요 = ran away",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "C",
+   "ko": "그니까. 저기 계산하고 있어.",
+   "rd": "geunikka. jeogi gyesanhago isseo.",
+   "en": "Right. He’s over there paying the bill.",
+   "note": "Kick: the friend is literally leaving",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "A",
+   "ko": "…아 몰라. 그냥 저 혼자 껴도 돼요?",
+   "rd": "…a molla. geunyang jeo honja kkyeodo dwaeyo?",
+   "en": "…Ugh, whatever. Can I just squeeze in alone?",
+   "note": "껴도 돼요? = can I squeeze in / join?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "B",
+   "ko": "용기가 귀여워서 봐 준다. 앉아요.",
+   "rd": "yonggiga gwiyeowoseo bwa junda. anjayo.",
+   "en": "Your courage is cute, so I’ll let it slide. Sit.",
+   "note": "봐 준다 = I'll let you off",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "A",
+   "ko": "진짜요? 그럼 안주는 제가 살게요.",
+   "rd": "jinjjayo? geureom anjuneun jega salgeyo.",
+   "en": "Really? Then I’ll buy the snacks.",
+   "note": "안주 = food you eat with drinks",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "B",
+   "ko": "좋아. 대신 친구 다시 오면 쫓아내.",
+   "rd": "joa. daesin chingu dasi omyeon jjochanae.",
+   "en": "Deal. But if your friend comes back, kick him out.",
+   "note": "쫓아내 = kick (someone) out",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "initiator": "A",
+ "review": {
+  "grok_rewrite": "data/review/r2_love_b5_grok_rewrite.md [K037]",
+  "final": ""
+ }
+}

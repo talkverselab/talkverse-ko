@@ -1,0 +1,160 @@
+{
+ "id": "r2_love_b4",
+ "region": "R2",
+ "island": "love",
+ "kind": "long",
+ "stage": "플러팅",
+ "series": "flirt",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "충전기",
+ "emoji": "🔌",
+ "scene": "시험 기간 카공(카페에서 공부) 중. 노트북 배터리 3%. 옆자리 해솔에게 충전기를 빌린다",
+ "speakers": {
+  "A": "{name}",
+  "B": "해솔"
+ },
+ "register": "polite",
+ "twist": 9,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "저기요",
+  "잠깐만요",
+  "진짜요?",
+  "감사합니다"
+ ],
+ "goal": "Borrowing something from a stranger — and turning it into a chat",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "저기요, 죄송한데 충전기 좀 빌릴 수 있을까요?",
+   "rd": "jeogiyo, joesonghande chungjeongi jom billil su isseulkkayo?",
+   "en": "Excuse me, could I borrow a charger?",
+   "note": "죄송한데 = sorry, but… (polite opener)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "C타입이요? 잠깐만요.",
+   "rd": "Ctaibiyo? jamkkanmanyo.",
+   "en": "USB-C? One sec.",
+   "note": "C타입 = USB-C",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "네! 감사합니다. 배터리가 3%밖에 안 남았어요.",
+   "rd": "ne! gamsahamnida. baeteoriga 3%bakke an namasseoyo.",
+   "en": "Yes! Thank you. I’m down to 3%.",
+   "note": "남았어요 = there's … left",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "시험 공부하시는 거예요? 저도 내일 시험이에요.",
+   "rd": "siheom gongbuhasineun geoyeyo? jeodo naeil siheomieyo.",
+   "en": "Are you studying for an exam? Mine’s tomorrow too.",
+   "note": "저도 = me too",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "진짜요? 무슨 과목이요?",
+   "rd": "jinjjayo? museun gwamogiyo?",
+   "en": "Really? Which subject?",
+   "note": "무슨 = what (kind of)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "경제학원론이요. 완전 망했어요.",
+   "rd": "gyeongjehagwolloniyo. wanjeon manghaesseoyo.",
+   "en": "Intro to Economics. I’m totally doomed.",
+   "note": "망했어요 = I'm done for (slang)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "저도 그 과목이에요! 같은 수업 아니에요?",
+   "rd": "jeodo geu gwamogieyo! gateun sueop anieyo?",
+   "en": "Me too! Aren’t we in the same class?",
+   "note": "-아니에요? = isn't it…?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "어… 맨 앞줄에서 맨날 주무시는 분 아니에요?",
+   "rd": "eo… maen apjureseo maennal jumusineun bun anieyo?",
+   "en": "Uh… aren’t you the one who always sleeps in the front row?",
+   "note": "맨 앞줄 = the very front row",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "A",
+   "ko": "…아니라고 하고 싶은데 맞아요. 들켰네요.",
+   "rd": "…anirago hago sipeunde majayo. deulkyeonneyo.",
+   "en": "…I’d love to say no, but yes. Busted.",
+   "note": "Kick: caught",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "B",
+   "ko": "ㅋㅋ 그럼 노트도 빌려 드릴까요? 충전기랑 세트로요.",
+   "rd": "ㅋㅋ geureom noteudo billyeo deurilkkayo? chungjeongirang seteuroyo.",
+   "en": "Haha, want to borrow my notes too? Comes as a set with the charger.",
+   "note": "세트로 = as a set",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "A",
+   "ko": "대신 시험 끝나고 밥 살게요.",
+   "rd": "daesin siheom kkeunnago bap salgeyo.",
+   "en": "In return, I’ll buy you a meal after the exam.",
+   "note": "대신 = in return · 밥 살게요 = I'll treat you to a meal",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "B",
+   "ko": "좋아요. 근데 그날은 앞줄에서 자지 마세요.",
+   "rd": "joayo. geunde geunareun apjureseo jaji maseyo.",
+   "en": "Deal. But don’t sleep in the front row that day.",
+   "note": "-지 마요 = don't (polite)",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "initiator": "A",
+ "review": {
+  "grok_rewrite": "data/review/r2_love_b4_grok_rewrite.md [K036]",
+  "final": ""
+ }
+}

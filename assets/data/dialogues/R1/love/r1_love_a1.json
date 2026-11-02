@@ -51,10 +51,10 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "ㅋㅋㅋㅋ 뭐야, 군대 말투야? 훈련소 다녀왔어요?",
-   "rd": "ㅋㅋㅋㅋ mwoya, gundae maltuya? hullyeonso danyeowasseoyo?",
-   "en": "Hahaha what, army talk? Did you just get out of boot camp?",
-   "note": "Kick: 군대 말투 = army talk · 훈련소 = boot camp — -습니다 sounds like a soldier",
+   "ko": "ㅋㅋㅋㅋ 뭐야, 군대 다녀왔어요?",
+   "rd": "ㅋㅋㅋㅋ mwoya, gundae danyeowasseoyo?",
+   "en": "Hahaha what, did you just get out of the army?",
+   "note": "Kick: 군대 = the army — formal -습니다 sounds like a soldier reporting",
    "tags": [],
    "new": []
   },
@@ -111,6 +111,7 @@
  ],
  "review": {
   "grok_rewrite": "data/review/r1_love_a1_grok_rewrite.md [K013]",
-  "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정"
+  "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정",
+  "user": "2026-11-02 19:04 사용자 리뷰 3턴 「훈련소 -> 군대」 반영"
  }
 }

@@ -1,0 +1,160 @@
+{
+ "id": "r2_love_b6",
+ "region": "R2",
+ "island": "love",
+ "kind": "long",
+ "stage": "플러팅",
+ "series": "flirt",
+ "initiator": "B",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "헬스장",
+ "emoji": "🏋️",
+ "scene": "헬스장. 러닝머신 옆자리 하늘이 먼저 말을 건다 — 운동 핑계로",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘"
+ },
+ "register": "casual",
+ "twist": 8,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "헐",
+  "그니까",
+  "잠깐만"
+ ],
+ "goal": "Being approached at the gym (she makes the first move)",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "저기, 이 기구 어떻게 쓰는지 알아?",
+   "rd": "jeogi, i gigu eotteoke sseuneunji ara?",
+   "en": "Hey, do you know how to use this machine?",
+   "note": "어떻게 쓰는지 = how to use",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "아, 이거요? 여기 앉아서 당기면 돼요.",
+   "rd": "a, igeoyo? yeogi anjaseo danggimyeon dwaeyo.",
+   "en": "Oh, this one? You sit here and pull.",
+   "note": "-면 돼요 = you just…",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "아하. 자주 와? 여기서 처음 봐서.",
+   "rd": "aha. jaju wa? yeogiseo cheoeum bwaseo.",
+   "en": "I see. You come often? First time I’ve seen you.",
+   "note": "자주 = often",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "매일 와. 아침 7시에.",
+   "rd": "maeil wa. achim 7sie.",
+   "en": "Every day. At 7 a.m.",
+   "note": "매일 = every day",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "헐, 아침 7시? 그래서 못 봤구나.",
+   "rd": "heol, achim 7si? geuraeseo mot bwatguna.",
+   "en": "Whoa, 7 a.m.? That’s why I never saw you.",
+   "note": "-구나 = ah, so that's why",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "하늘 씨는 보통 언제 와?",
+   "rd": "haneul ssineun botong eonje wa?",
+   "en": "When do you usually come, 하늘?",
+   "note": "보통 = usually",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "…내일부터 7시요.",
+   "rd": "…naeilbuteo 7siyo.",
+   "en": "…From tomorrow, 7 a.m.",
+   "note": "Kick: she changes her schedule on the spot",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "진짜? 아침에 힘들지 않아?",
+   "rd": "jinjja? achime himdeulji ana?",
+   "en": "Really? Isn’t mornings hard?",
+   "note": "힘들다 = hard / tough",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "그니까. 그러니까 깨워 줘. 번호 주면.",
+   "rd": "geunikka. geureonikka kkaewo jwo. beonho jumyeon.",
+   "en": "Exactly. So wake me up. If you give me your number.",
+   "note": "깨워 줘요 = wake me up",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "잠깐만… 이 기구, 원래 쓸 줄 알았지?",
+   "rd": "jamkkanman… i gigu, wollae sseul jul aratji?",
+   "en": "Wait… you knew how to use this machine all along, didn’t you?",
+   "note": "쓸 줄 알다 = know how to use",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "ㅋㅋ 3년 다녔어.",
+   "rd": "ㅋㅋ 3nyeon danyeosseo.",
+   "en": "Haha, I’ve been coming here three years.",
+   "note": "다녔어 = have been attending",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "…번호 줄게. 알람 대신.",
+   "rd": "…beonho julge. allam daesin.",
+   "en": "…I’ll give you my number. Instead of an alarm.",
+   "note": "대신 = instead of",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_love_b6_grok_rewrite.md [K038]",
+  "final": ""
+ }
+}

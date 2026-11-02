@@ -1,0 +1,168 @@
+{
+ "id": "r2_study_b1",
+ "region": "R2",
+ "island": "study",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "study"
+ ],
+ "domain": [
+  "study"
+ ],
+ "title": "조별 과제",
+ "emoji": "👥",
+ "scene": "대학 교양 수업 조별 과제 단톡방. 아무도 답이 없다가 발표 전날 밤 난리",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준",
+  "D": "민호"
+ },
+ "register": "chat",
+ "twist": 7,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "헐",
+  "그니까",
+  "아 몰라",
+  "ㄱㄱ"
+ ],
+ "goal": "Group-project chat: the night before",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "다들 PPT 몇 장 했어?",
+   "rd": "dadeul PPT myeot jang haesseo?",
+   "en": "How many slides has everyone done?",
+   "note": "PPT = slides",
+   "tags": [],
+   "new": [],
+   "at": "22:40"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "난 내 부분 다 했어. 3장.",
+   "rd": "nan nae bubun da haesseo. 3jang.",
+   "en": "I finished my part. Three slides.",
+   "note": "부분 = part",
+   "tags": [],
+   "new": [],
+   "at": "22:41"
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "나 아직… 내일 몇 시 발표였지?",
+   "rd": "na ajik… naeil myeot si balpyoyeotji?",
+   "en": "Not yet… what time was the presentation tomorrow?",
+   "note": "발표 = presentation",
+   "tags": [],
+   "new": [],
+   "at": "22:50"
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "9시. 아침 9시.",
+   "rd": "9si. achim 9si.",
+   "en": "9. 9 a.m.",
+   "note": "아침 = morning",
+   "tags": [],
+   "new": [],
+   "at": "22:50"
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "헐",
+   "rd": "heol",
+   "en": "Whoa",
+   "note": "one word",
+   "tags": [],
+   "new": [],
+   "at": "22:51"
+  },
+  {
+   "num": 6,
+   "speaker": "D",
+   "ko": "(읽음)",
+   "rd": "(ilgeum)",
+   "en": "(read)",
+   "note": "읽씹 = read but no reply",
+   "tags": [],
+   "new": [],
+   "at": "23:10"
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "민호는 읽씹이야? 그니까 우리 셋이 하자는 거야?",
+   "rd": "minhoneun ikssibiya? geunikka uri sesi hajaneun geoya?",
+   "en": "Minho read and ignored? So it's the three of us?",
+   "note": "읽씹 = leaving on read",
+   "tags": [],
+   "new": [],
+   "at": "23:12"
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "아 몰라. 일단 내가 틀 만들게. ㄱㄱ",
+   "rd": "a molla. ildan naega teul mandeulge. ㄱㄱ",
+   "en": "Ugh. I'll make the template first. Go go.",
+   "note": "틀 = template",
+   "tags": [],
+   "new": [],
+   "at": "23:13"
+  },
+  {
+   "num": 9,
+   "speaker": "C",
+   "ko": "나 디자인 할게. 글은 못 써.",
+   "rd": "na dijain halge. geureun mot sseo.",
+   "en": "I'll do design. I can't write.",
+   "note": "디자인 = design",
+   "tags": [],
+   "new": [],
+   "at": "23:14"
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "그럼 내가 민호 부분도 쓸게. 3장 더.",
+   "rd": "geureom naega minho bubundo sseulge. 3jang deo.",
+   "en": "Then I'll write Minho's part too. Three more.",
+   "note": "-도 = also",
+   "tags": [],
+   "new": [],
+   "at": "23:15"
+  },
+  {
+   "num": 11,
+   "speaker": "D",
+   "ko": "(새벽 3시) 미안 자고 있었어 ㅋㅋ 뭐 하면 돼?",
+   "rd": "(saebyeok 3si) mian jago isseosseo ㅋㅋ mwo hamyeon dwae?",
+   "en": "(3 a.m.) Sorry I was asleep lol, what should I do?",
+   "note": "Kick: he appears when it's done",
+   "tags": [],
+   "new": [],
+   "at": "03:02"
+  },
+  {
+   "num": 12,
+   "speaker": "B",
+   "ko": "발표. 네가 다 해.",
+   "rd": "balpyo. nega da hae.",
+   "en": "The presentation. You do all of it.",
+   "note": "네가 다 해 = you do it all",
+   "tags": [],
+   "new": [],
+   "at": "03:03"
+  }
+ ]
+}

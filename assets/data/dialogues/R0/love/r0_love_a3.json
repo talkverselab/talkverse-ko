@@ -1,0 +1,119 @@
+{
+ "id": "r0_love_a3",
+ "region": "R0",
+ "island": "love",
+ "kind": "short",
+ "stage": "플러팅",
+ "series": "flirt",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "자리 있어요?",
+ "emoji": "☕",
+ "scene": "토요일 오후, 꽉 찬 카페. 창가 2인석에 해솔이 혼자 앉아 있다",
+ "speakers": {
+  "A": "{name}",
+  "B": "해솔"
+ },
+ "register": "polite",
+ "twist": 5,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "저기요",
+  "네",
+  "괜찮아요"
+ ],
+ "goal": "Asking to share a table — and reading the signal",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "저기요, 이 자리 괜찮아요?",
+   "rd": "jeogiyo, i jari gwaenchanayo?",
+   "en": "Excuse me, is this seat okay?",
+   "note": "자리 있어요? = is this seat taken? (lit. is there a seat?)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "네, 비어 있어요.",
+   "rd": "ne, bieo isseoyo.",
+   "en": "Yeah, it’s free.",
+   "note": "없어요 = there isn't (anyone)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "앉아도 될까요?",
+   "rd": "anjado doelkkayo?",
+   "en": "Mind if I sit?",
+   "note": "-아도 돼요? = may I…?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "네, 편하게 앉으세요.",
+   "rd": "ne, pyeonhage anjeuseyo.",
+   "en": "Sure, go ahead.",
+   "note": "앉으세요 = please sit",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "감사합니다. 혼자 오셨어요?",
+   "rd": "gamsahamnida. honja osyeosseoyo?",
+   "en": "Thanks. You here alone?",
+   "note": "Kick: he asks the obvious flirt question",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "어, 지금은 둘이잖아요.",
+   "rd": "eo, jigeumeun durijanayo.",
+   "en": "Oh, now there’s two of us though.",
+   "note": "-는데요 = (soft) well, actually…",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "아… 맞아요. 둘이네요.",
+   "rd": "a… majayo. durineyo.",
+   "en": "Oh… yeah. It’s two now.",
+   "note": "echo = flustered",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "커피 다 마실 때까진요.",
+   "rd": "keopi da masil ttaekkajinyo.",
+   "en": "At least till the coffee’s done.",
+   "note": "-ㄹ 때까지 = until — the flirt",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "initiator": "A",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a3_grok_rewrite.md [K031]",
+  "final": ""
+ }
+}

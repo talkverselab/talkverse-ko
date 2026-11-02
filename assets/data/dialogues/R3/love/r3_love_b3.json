@@ -1,0 +1,203 @@
+{
+ "id": "r3_love_b3",
+ "region": "R3",
+ "island": "love",
+ "kind": "long",
+ "stage": "플러팅",
+ "series": "flirt",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "작업 멘트",
+ "emoji": "😎",
+ "scene": "클럽 바 앞. A 는 인터넷에서 「한국 작업 멘트 TOP 10」을 외워 왔다. 상대는 하늘",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘"
+ },
+ "register": "casual",
+ "twist": 11,
+ "flags": [
+  "alcohol"
+ ],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "설마",
+  "됐어",
+  "아 몰라"
+ ],
+ "goal": "Pickup lines — and why the honest one works",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "혹시… 하늘에서 떨어졌어?",
+   "rd": "hoksi… haneureseo tteoreojyeosseo?",
+   "en": "Did you… fall from the sky?",
+   "note": "Pickup line #1 — 하늘 = sky / heaven (and her name)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "ㅋㅋㅋ 헐. 내 이름이 하늘이라 그거 백 번 들었어.",
+   "rd": "ㅋㅋㅋ heol. nae ireumi haneurira geugeo baek beon deureosseo.",
+   "en": "Lolol whoa. My name’s 하늘, so I’ve heard that a hundred times.",
+   "note": "Kick: her name is literally \"sky\"",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "아… 그럼 2번. 지도 있어? 눈에서 길을 잃어서.",
+   "rd": "a… geureom 2beon. jido isseo? nuneseo gireul ileoseo.",
+   "en": "Oh… then number two. Got a map? I got lost in your eyes.",
+   "note": "멘트 #2",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "설마 TOP 10 외워 온 거야?",
+   "rd": "seolma TOP 10 oewo on geoya?",
+   "en": "Don’t tell me you memorized a top 10 list?",
+   "note": "설마 = don't tell me",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "…어떻게 알았어?",
+   "rd": "…eotteoke arasseo?",
+   "en": "…How did you know?",
+   "note": "어떻게 = how",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "그거 10년 전 멘트야. 우리 아빠가 엄마한테 한 거.",
+   "rd": "geugeo 10nyeon jeon menteuya. uri appaga eommahante han geo.",
+   "en": "That line’s ten years old. My dad used it on my mom.",
+   "note": "-한테 = to (a person)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "그럼 성공한 멘트네?",
+   "rd": "geureom seonggonghan menteune?",
+   "en": "Then it’s a line that worked?",
+   "note": "성공한 = successful",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "ㅋㅋ 말은 잘하네. 근데 3번은 하지 마.",
+   "rd": "ㅋㅋ mareun jalhane. geunde 3beoneun haji ma.",
+   "en": "Haha, smooth talker. But don’t do number three.",
+   "note": "-지 마 = don't",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "A",
+   "ko": "3번 뭔지 알아?",
+   "rd": "3beon mwonji ara?",
+   "en": "You know what number three is?",
+   "note": "뭔지 = what it is",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "B",
+   "ko": "「라면 먹을래」 비슷한 거지?",
+   "rd": "「ramyeon meogeullae」 biseuthan geoji?",
+   "en": "Something like “want some ramyeon”?",
+   "note": "a famous Korean invitation-line cliché",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "A",
+   "ko": "…됐어, 다 버릴게. 아 몰라, 그냥 솔직하게 말할게.",
+   "rd": "…dwaesseo, da beorilge. a molla, geunyang soljikage malhalge.",
+   "en": "…Fine, I’ll throw them all out. Ugh, whatever, I’ll just be honest.",
+   "note": "솔직하게 = honestly",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "B",
+   "ko": "오, 그게 제일 어려운 건데. 해 봐.",
+   "rd": "o, geuge jeil eoryeoun geonde. hae bwa.",
+   "en": "Ooh, that’s the hardest one. Go on.",
+   "note": "제일 어려운 = the hardest",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 13,
+   "speaker": "A",
+   "ko": "아까부터 웃는 게 예뻐서, 말 걸고 싶었어.",
+   "rd": "akkabuteo unneun ge yeppeoseo, mal geolgo sipeosseo.",
+   "en": "I’ve wanted to talk to you since earlier, because your smile is pretty.",
+   "note": "-아서 = because · 말 걸다 = to strike up a conversation",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 14,
+   "speaker": "B",
+   "ko": "…그건 TOP 10에 없던데?",
+   "rd": "…geugeon TOP 10e eopdeonde?",
+   "en": "…That one wasn’t on the top 10.",
+   "note": "the honest line wins",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 15,
+   "speaker": "A",
+   "ko": "방금 내가 만든 거야.",
+   "rd": "banggeum naega mandeun geoya.",
+   "en": "I just made it up.",
+   "note": "방금 = just now",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 16,
+   "speaker": "B",
+   "ko": "인정. 인스타 줘. 번호는 다음 판에.",
+   "rd": "injeong. inseuta jwo. beonhoneun daeum pane.",
+   "en": "Fair. Give me your Insta. Number’s for next round.",
+   "note": "인정 = respect / I'll give you that (slang)",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "initiator": "A",
+ "review": {
+  "grok_rewrite": "data/review/r3_love_b3_grok_rewrite.md [K039]",
+  "final": ""
+ }
+}

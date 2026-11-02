@@ -1,0 +1,112 @@
+{
+ "id": "r0_friends_a1",
+ "region": "R0",
+ "island": "friends",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "밥 먹었어?",
+ "emoji": "🍚",
+ "scene": "어학당 복도. 같은 반 서아가 인사 대신 「밥 먹었어?」라고 묻는다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아"
+ },
+ "register": "casual",
+ "twist": 3,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "밥 먹었어?",
+  "응",
+  "아니"
+ ],
+ "goal": "Korean greeting = \"did you eat?\"",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "{name}! 밥 먹었어?",
+   "rd": "{name}! bap meogeosseo?",
+   "en": "{name}! Did you eat?",
+   "note": "밥 먹었어? = did you eat? — a Korean hello",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "아니. 왜? 같이 먹어?",
+   "rd": "ani. wae? gachi meogeo?",
+   "en": "No. Why? Eat together?",
+   "note": "아니 = no",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "어? 아니, 그냥 인사야 ㅋㅋ",
+   "rd": "eo? ani, geunyang insaya ㅋㅋ",
+   "en": "Huh? No, it's just a greeting lol",
+   "note": "Kick: he took it literally",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "인사? 밥이?",
+   "rd": "insa? babi?",
+   "en": "A greeting? Rice is?",
+   "note": "밥 = rice / a meal",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "응. 「안녕」 같은 거야.",
+   "rd": "eung. 「annyeong」 gateun geoya.",
+   "en": "Yeah. It's like \"hi\".",
+   "note": "같은 거야 = it's like",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "아… 그럼 나도. 밥 먹었어?",
+   "rd": "a… geureom nado. bap meogeosseo?",
+   "en": "Oh… then me too. Did you eat?",
+   "note": "trying it back",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "아니, 아직.",
+   "rd": "ani, ajik.",
+   "en": "No, not yet.",
+   "note": "아직 = not yet",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "그럼 진짜 먹자. 배고파.",
+   "rd": "geureom jinjja meokja. baegopa.",
+   "en": "Then let's really eat. I'm hungry.",
+   "note": "배고파 = I'm hungry",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

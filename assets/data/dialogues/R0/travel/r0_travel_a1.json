@@ -1,0 +1,112 @@
+{
+ "id": "r0_travel_a1",
+ "region": "R0",
+ "island": "travel",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "travel"
+ ],
+ "domain": [
+  "travel"
+ ],
+ "title": "택시",
+ "emoji": "🚕",
+ "scene": "서울역 앞 택시. 기사님이 빠르게 묻는다",
+ "speakers": {
+  "A": "{name}",
+  "B": "기사님"
+ },
+ "register": "polite",
+ "twist": 4,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "네",
+  "감사합니다",
+  "잠깐만요"
+ ],
+ "goal": "Taxi basics",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "어디 가세요?",
+   "rd": "eodi gaseyo?",
+   "en": "Where to?",
+   "note": "어디 가세요? = where are you going?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "명동이요.",
+   "rd": "myeongdongiyo.",
+   "en": "Myeongdong, please.",
+   "note": "-이요 = (place) please",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "명동 어디요?",
+   "rd": "myeongdong eodiyo?",
+   "en": "Where in Myeongdong?",
+   "note": "어디 = where",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "…명동이요.",
+   "rd": "…myeongdongiyo.",
+   "en": "…Myeongdong.",
+   "note": "Kick: that's all he knows",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "ㅋㅋ 알았어요. 명동역 앞.",
+   "rd": "ㅋㅋ arasseoyo. myeongdongyeok ap.",
+   "en": "Haha okay. In front of Myeongdong station.",
+   "note": "역 앞 = in front of the station",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "네! 감사합니다.",
+   "rd": "ne! gamsahamnida.",
+   "en": "Yes! Thank you.",
+   "note": "감사합니다 = thank you",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "카드 돼요. 뒤에서 찍어요.",
+   "rd": "kadeu dwaeyo. dwieseo jjigeoyo.",
+   "en": "Card works. Tap it in the back.",
+   "note": "카드 돼요 = card is accepted",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "잠깐만요… 어디요?",
+   "rd": "jamkkanmanyo… eodiyo?",
+   "en": "One moment… where?",
+   "note": "어디요? = where? (polite)",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

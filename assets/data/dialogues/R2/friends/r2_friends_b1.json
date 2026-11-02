@@ -1,0 +1,156 @@
+{
+ "id": "r2_friends_b1",
+ "region": "R2",
+ "island": "friends",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "2차 가자",
+ "emoji": "🍻",
+ "scene": "금요일 밤, 친구들과 1차 삼겹살 끝. 민준이 「2차!」를 외친다. 학습자는 집에 가고 싶다",
+ "speakers": {
+  "A": "{name}",
+  "B": "민준",
+  "C": "서아"
+ },
+ "register": "casual",
+ "twist": 9,
+ "flags": [
+  "alcohol"
+ ],
+ "kdrama": "",
+ "expressions": [
+  "그니까",
+  "됐어",
+  "진짜?",
+  "아 몰라"
+ ],
+ "goal": "Korean night-out culture: 1차·2차·3차",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "자, 2차 가자! 노래방!",
+   "rd": "ja, 2cha gaja! noraebang!",
+   "en": "Okay, round two! Karaoke!",
+   "note": "2차 = second round (next place)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "2차? 밥 다 먹었잖아.",
+   "rd": "2cha? bap da meogeotjana.",
+   "en": "Round two? We already ate.",
+   "note": "-잖아 = you know",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "밥은 1차고. 2차는 술, 3차는 노래방.",
+   "rd": "babeun 1chago. 2chaneun sul, 3chaneun noraebang.",
+   "en": "Dinner was round one. Round two is drinks, round three is karaoke.",
+   "note": "1차·2차·3차 — the standard sequence",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "세 번이나? 나 내일 수업 있는데…",
+   "rd": "se beonina? na naeil sueop inneunde…",
+   "en": "Three rounds? I have class tomorrow…",
+   "note": "-는데 = but… (trailing off)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "에이, 금요일이잖아. 가자!",
+   "rd": "ei, geumyoirijana. gaja!",
+   "en": "Come on, it's Friday. Let's go!",
+   "note": "에이 = come on",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "진짜? 다들 안 피곤해?",
+   "rd": "jinjja? dadeul an pigonhae?",
+   "en": "Really? Aren't you all tired?",
+   "note": "다들 = everyone",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "피곤하니까 가는 거야. 그니까 빨리 와.",
+   "rd": "pigonhanikka ganeun geoya. geunikka ppalli wa.",
+   "en": "We go because we're tired. So hurry up.",
+   "note": "Korean logic",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…알았어. 근데 딱 한 시간만이야.",
+   "rd": "…arasseo. geunde ttak han siganmaniya.",
+   "en": "…Fine. But just one hour.",
+   "note": "딱 = exactly / just",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "C",
+   "ko": "(두 시간 뒤) 3차 가자!",
+   "rd": "(du sigan dwi) 3cha gaja!",
+   "en": "(two hours later) Round three!",
+   "note": "Kick: here we go again",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "됐어, 나 간다. 진짜 간다.",
+   "rd": "dwaesseo, na ganda. jinjja ganda.",
+   "en": "Forget it, I'm leaving. Really leaving.",
+   "note": "나 간다 = I'm off",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "그럼 3차는 {name} 집에서!",
+   "rd": "geureom 3chaneun {name} jibeseo!",
+   "en": "Then round three at {name}'s place!",
+   "note": "Kick 2: they follow him home",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "아 몰라… 라면밖에 없어.",
+   "rd": "a molla… ramyeonbakke eopseo.",
+   "en": "Ugh… all I have is ramyeon.",
+   "note": "-밖에 없어 = I only have",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

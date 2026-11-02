@@ -1,0 +1,113 @@
+{
+ "id": "r1_travel_a1",
+ "region": "R1",
+ "island": "travel",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "travel"
+ ],
+ "domain": [
+  "travel"
+ ],
+ "title": "찜질방",
+ "emoji": "🧖",
+ "scene": "부산 여행, 숙소를 못 구해 찜질방에 왔다. 양머리 수건을 어떻게 만드는지 모른다",
+ "speakers": {
+  "A": "{name}",
+  "B": "아주머니"
+ },
+ "register": "polite",
+ "twist": 5,
+ "flags": [],
+ "kdrama": "찜질방 양머리 수건 + 식혜·구운 계란",
+ "expressions": [
+  "이거 뭐예요?",
+  "진짜요?",
+  "감사합니다",
+  "헐"
+ ],
+ "goal": "Jjimjilbang culture: sheep-head towels and 식혜",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "저기요, 다들 머리에 그거 뭐예요?",
+   "rd": "jeogiyo, dadeul meorie geugeo mwoyeyo?",
+   "en": "Excuse me, what is that on everyone's head?",
+   "note": "그거 뭐예요? = what is that?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "양머리요. 수건으로 만들어요.",
+   "rd": "yangmeoriyo. sugeoneuro mandeureoyo.",
+   "en": "A sheep head. You make it with a towel.",
+   "note": "양머리 = \"sheep head\" towel",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "진짜요? 어떻게요?",
+   "rd": "jinjjayo? eotteokeyo?",
+   "en": "Really? How?",
+   "note": "어떻게요? = how?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "이렇게 접고… 돌돌 말아요. 자, 해 봐요.",
+   "rd": "ireoke jeopgo… doldol marayo. ja, hae bwayo.",
+   "en": "Fold like this… and roll. Here, try.",
+   "note": "접다 = fold · 말다 = roll",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "…이렇게요? 헐, 됐다!",
+   "rd": "…ireokeyo? heol, dwaetda!",
+   "en": "…Like this? Whoa, it worked!",
+   "note": "됐다 = it worked",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "ㅋㅋ 잘했어요. 이제 식혜랑 구운 계란 사 와요.",
+   "rd": "ㅋㅋ jalhaesseoyo. ije sikyerang guun gyeran sa wayo.",
+   "en": "Haha, well done. Now go buy 식혜 and baked eggs.",
+   "note": "Kick: the mandatory combo",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "그것도 규칙이에요?",
+   "rd": "geugeotdo gyuchigieyo?",
+   "en": "Is that a rule too?",
+   "note": "규칙 = rule",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "드라마 안 봤어요? 찜질방 국룰이에요.",
+   "rd": "deurama an bwasseoyo? jjimjilbang gungnurieyo.",
+   "en": "Haven't you watched dramas? It's the jjimjilbang law.",
+   "note": "국룰 — running joke across episodes",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

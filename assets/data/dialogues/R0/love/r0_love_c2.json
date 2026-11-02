@@ -1,0 +1,133 @@
+{
+ "id": "r0_love_c2",
+ "region": "R0",
+ "island": "love",
+ "kind": "chat",
+ "stage": "썸",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "사진 보내 줘",
+ "emoji": "📸",
+ "scene": "썸 타는 중인 밤 카톡. 유진이 「지금 뭐 해? 사진!」을 보낸다",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진"
+ },
+ "register": "chat",
+ "twist": 5,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "뭐야",
+  "귀여워"
+ ],
+ "goal": "Casual texting while getting to know someone",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "지금 뭐 하고 있어~",
+   "rd": "jigeum mwo hago isseo~",
+   "en": "What're you up to now~",
+   "note": "뭐 해? = what are you up to?",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:10"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "집에 있어 ㅋㅋ",
+   "rd": "jibe isseo ㅋㅋ",
+   "en": "Just at home lol",
+   "note": "그냥 = just",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:11"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "사진 좀 보내줘~",
+   "rd": "sajin jom bonaejwo~",
+   "en": "Send me a pic~",
+   "note": "-아/어 줘 = (please) do it for me",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:11"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "잠시만~",
+   "rd": "jamsiman~",
+   "en": "Just a sec~",
+   "note": "잠깐만 = wait a sec",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:12"
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "🐱 [사진]",
+   "rd": "🐱 [sajin]",
+   "en": "🐱 [photo]",
+   "note": "Kick: he sends his cat instead of himself",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:12"
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "ㅋㅋㅋ 뭐야 고양이만?",
+   "rd": "ㅋㅋㅋ mwoya goyangiman?",
+   "en": "lolol what, just a cat?",
+   "note": "뭐야 = what the… · -잖아 = come on, it's…",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:13"
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "귀여워?",
+   "rd": "gwiyeowo?",
+   "en": "Cute though?",
+   "note": "귀여워 = cute",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:13"
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "응... 근데 너 얼굴은?",
+   "rd": "eung... geunde neo eolgureun?",
+   "en": "Yeah... but what about your face?",
+   "note": "근데 = but · 달라고 = (I said) give me",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:14"
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_love_c2_grok_rewrite.md [K022]",
+  "final": ""
+ }
+}

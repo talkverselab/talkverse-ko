@@ -1,0 +1,112 @@
+{
+ "id": "r0_life_a1",
+ "region": "R0",
+ "island": "life",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "분리수거",
+ "emoji": "♻️",
+ "scene": "셰어하우스 첫 주. 룸메이트 도윤이 쓰레기 봉투를 보고 멈춰 선다",
+ "speakers": {
+  "A": "{name}",
+  "B": "도윤"
+ },
+ "register": "casual",
+ "twist": 4,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "잠깐만",
+  "아니",
+  "어?"
+ ],
+ "goal": "Korean recycling rules, the hard way",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "잠깐만! 그거 뭐야?",
+   "rd": "jamkkanman! geugeo mwoya?",
+   "en": "Wait! What's that?",
+   "note": "잠깐만 = wait",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "쓰레기. 버리러 가.",
+   "rd": "sseuregi. beorireo ga.",
+   "en": "Trash. Going to throw it out.",
+   "note": "버리다 = to throw away",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "아니아니. 이거 다 같이?",
+   "rd": "aniani. igeo da gachi?",
+   "en": "No no. All of this together?",
+   "note": "다 같이 = all together",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "어? 응. 왜?",
+   "rd": "eo? eung. wae?",
+   "en": "Huh? Yeah. Why?",
+   "note": "왜? = why",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "플라스틱, 종이, 음식… 다 따로!",
+   "rd": "peullaseutik, jongi, eumsik… da ttaro!",
+   "en": "Plastic, paper, food… all separate!",
+   "note": "Kick: four bins, not one — 따로 = separately",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "다 따로? 네 개?",
+   "rd": "da ttaro? ne gae?",
+   "en": "All separate? Four?",
+   "note": "네 개 = four (things)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "응. 그리고 음식 쓰레기는 저 통.",
+   "rd": "eung. geurigo eumsik sseuregineun jeo tong.",
+   "en": "Yeah. And food waste goes in that bin.",
+   "note": "음식 쓰레기 = food waste",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…한국 쓰레기 어렵다.",
+   "rd": "…hanguk sseuregi eoryeopda.",
+   "en": "…Korean trash is hard.",
+   "note": "어렵다 = (it's) hard",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

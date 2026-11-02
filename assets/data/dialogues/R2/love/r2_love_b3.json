@@ -1,0 +1,159 @@
+{
+ "id": "r2_love_b3",
+ "region": "R2",
+ "island": "love",
+ "kind": "long",
+ "stage": "연인",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "아무거나",
+ "emoji": "🍜",
+ "scene": "사귄 지 반년, 점심시간. 「뭐 먹을래?」 「아무거나」 — 한국 커플이 매일 겪는 전쟁",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진",
+  "C": "사장님"
+ },
+ "register": "casual",
+ "twist": 9,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "아무거나",
+  "그럼",
+  "진짜?",
+  "됐어"
+ ],
+ "goal": "The eternal \"what do you want to eat\" fight",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "점심 뭐 먹을까?",
+   "rd": "jeomsim mwo meogeulkka?",
+   "en": "What should we get for lunch?",
+   "note": "뭐 먹을래? = what do you want to eat?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "아무거나 괜찮아.",
+   "rd": "amugeona gwaenchana.",
+   "en": "Anything's fine.",
+   "note": "아무거나 = anything — the dangerous answer",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "그럼 김치찌개 어때?",
+   "rd": "geureom gimchijjigae eottae?",
+   "en": "Then how about kimchi stew?",
+   "note": "그럼 = then",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "어제 먹었는데.",
+   "rd": "eoje meogeonneunde.",
+   "en": "We had that yesterday though.",
+   "note": "-잖아 = you know",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "그럼 파스타는?",
+   "rd": "geureom paseutaneun?",
+   "en": "Then pasta?",
+   "note": "try two",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "음… 별로야.",
+   "rd": "eum… byeolloya.",
+   "en": "Hmm… not really.",
+   "note": "안 당겨 = I'm not craving it",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "진짜 아무거나야?",
+   "rd": "jinjja amugeonaya?",
+   "en": "Is it really anything?",
+   "note": "맞아? = is that right?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "응. 진짜 아무거나.",
+   "rd": "eung. jinjja amugeona.",
+   "en": "Yeah. Really anything.",
+   "note": "괜찮아 = fine",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "A",
+   "ko": "알았어. 사장님! 아무거나 두 개요!",
+   "rd": "arasseo. sajangnim! amugeona du gaeyo!",
+   "en": "Got it. Boss! Two anythings please!",
+   "note": "Kick: he literally orders \"anything\"",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "C",
+   "ko": "네~ 아무거나 두 개 나갑니다!",
+   "rd": "ne~ amugeona du gae nagamnida!",
+   "en": "Sure~ two anythings coming up!",
+   "note": "Some Korean diners really have a menu called 아무거나",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "…진짜 그런 메뉴 있어?",
+   "rd": "…jinjja geureon menyu isseo?",
+   "en": "…There's really a menu like that?",
+   "note": "그런 = that kind of",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "응. 그래서 여기 온 거야. 됐어?",
+   "rd": "eung. geuraeseo yeogi on geoya. dwaesseo?",
+   "en": "Yep. That's why we came here. Happy now?",
+   "note": "됐지? = satisfied? / are we good?",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_love_b3_grok_rewrite.md [K028]",
+  "final": ""
+ }
+}

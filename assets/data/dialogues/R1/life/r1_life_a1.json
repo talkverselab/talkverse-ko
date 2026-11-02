@@ -1,0 +1,113 @@
+{
+ "id": "r1_life_a1",
+ "region": "R1",
+ "island": "life",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "배달 시킬까?",
+ "emoji": "🛵",
+ "scene": "밤 10시, 셰어하우스 거실. 배고픈 둘. 도윤이 배달 앱을 연다",
+ "speakers": {
+  "A": "{name}",
+  "B": "도윤"
+ },
+ "register": "casual",
+ "twist": 5,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "배고파",
+  "좋아",
+  "진짜?",
+  "헐"
+ ],
+ "goal": "Late-night delivery culture",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "아, 배고파. 배달 시킬까?",
+   "rd": "a, baegopa. baedal sikilkka?",
+   "en": "Ugh, I'm hungry. Should we order delivery?",
+   "note": "배달 시키다 = to order delivery",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "지금? 밤 10시인데 돼?",
+   "rd": "jigeum? bam 10siinde dwae?",
+   "en": "Now? It's 10 p.m., is that possible?",
+   "note": "-인데 = it is…, but",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "한국이잖아. 새벽 3시도 돼.",
+   "rd": "hangugijana. saebyeok 3sido dwae.",
+   "en": "It's Korea. Even 3 a.m. works.",
+   "note": "새벽 = early morning hours",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "진짜? 뭐 시켜?",
+   "rd": "jinjja? mwo sikyeo?",
+   "en": "Really? What do we order?",
+   "note": "시켜? = order?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "치킨. 치킨은 국룰이야.",
+   "rd": "chikin. chikineun gungnuriya.",
+   "en": "Chicken. Chicken is the rule.",
+   "note": "국룰 = unwritten rule (slang) — callback 커플티",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "좋아! 얼마나 걸려?",
+   "rd": "joa! eolmana geollyeo?",
+   "en": "Okay! How long does it take?",
+   "note": "얼마나 걸려? = how long does it take?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "…벌써 왔어.",
+   "rd": "…beolsseo wasseo.",
+   "en": "…It's already here.",
+   "note": "Kick: 15 minutes feels like 0",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "헐, 지금 시켰잖아!",
+   "rd": "heol, jigeum sikyeotjana!",
+   "en": "Whoa, we just ordered!",
+   "note": "방금 = just now (implied)",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "id": "r1_love_c2",
+ "region": "R1",
+ "island": "love",
+ "kind": "chat",
+ "stage": "연인",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "D-1",
+ "emoji": "🎁",
+ "scene": "사귄 지 99일째 밤. 유진이 「내일 무슨 날인지 알지?」를 보낸다",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진"
+ },
+ "register": "chat",
+ "twist": 4,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "당연하지",
+  "설마"
+ ],
+ "goal": "Couple texting around anniversaries",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "내일 무슨 날이야?",
+   "rd": "naeil museun nariya?",
+   "en": "What day is tomorrow?",
+   "note": "무슨 날 = what (special) day",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:30"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "당연하지 ㅋㅋ",
+   "rd": "dangyeonhaji ㅋㅋ",
+   "en": "Of course lol",
+   "note": "당연하지 = of course",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:31"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "뭔데 그럼? 말해 봐.",
+   "rd": "mwonde geureom? malhae bwa.",
+   "en": "What is it then? Tell me.",
+   "note": "말해 봐 = try saying it",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:31"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "…그냥 월요일?",
+   "rd": "…geunyang woryoil?",
+   "en": "…Just Monday?",
+   "note": "Kick: he guesses the weekday",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:33"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "설마… 진심이야?",
+   "rd": "seolma… jinsimiya?",
+   "en": "No way… are you serious?",
+   "note": "설마 = no way · 진심 = for real",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:33"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "ㅋㅋㅋ 농담이야. 100일이지. 알람도 맞춰 놨어.",
+   "rd": "ㅋㅋㅋ nongdamiya. 100iriji. allamdo matchwo nwasseo.",
+   "en": "lolol just kidding. It's Day 100. I even set an alarm.",
+   "note": "callback: the alarm from 「오늘부터 1일」",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:34"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "휴… 심장 내려앉을 뻔했어.",
+   "rd": "hyu… simjang naeryeoanjeul ppeonhaesseo.",
+   "en": "Phew… my heart almost stopped.",
+   "note": "-ㄹ 뻔했어 = almost happened",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:34"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "내일 예쁘게 입고 나와~ ❤️",
+   "rd": "naeil yeppeuge ipgo nawa~ ❤️",
+   "en": "Dress up nice tomorrow~ ❤️",
+   "note": "예쁘게 하고 나와 = come out looking pretty",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:35"
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_love_c2_grok_rewrite.md [K025]",
+  "final": ""
+ }
+}

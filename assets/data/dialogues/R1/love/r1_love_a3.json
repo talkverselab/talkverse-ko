@@ -1,0 +1,117 @@
+{
+ "id": "r1_love_a3",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "stage": "고백",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "오늘부터 1일",
+ "emoji": "💌",
+ "scene": "한강 벤치, 고백에 성공한 직후. 유진이 「그럼 오늘부터 1일이다」라고 한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진"
+ },
+ "register": "casual",
+ "twist": 5,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "좋아",
+  "그니까"
+ ],
+ "goal": "Korean couple-day counting (1일, 100일)",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "그럼… 오늘부터 1일이야.",
+   "rd": "geureom… oneulbuteo 1iriya.",
+   "en": "So… today is Day 1.",
+   "note": "오늘부터 1일 = from today we're a couple (Day 1)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "1일? 내일은 뭐야?",
+   "rd": "1il? naeireun mwoya?",
+   "en": "Day 1? What's tomorrow?",
+   "note": "내일 = tomorrow",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "2일이지. 100일도 있고…",
+   "rd": "2iriji. 100ildo itgo…",
+   "en": "Day 2. There's Day 100 too…",
+   "note": "Korean couples count days together",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "진짜? 다 세는 거야?",
+   "rd": "jinjja? da seneun geoya?",
+   "en": "Really? You count all of them?",
+   "note": "다 세? = you count all of them?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "당연하지 ㅋㅋ 100일엔 선물도 줘야 해.",
+   "rd": "dangyeonhaji ㅋㅋ 100iren seonmuldo jwoya hae.",
+   "en": "Of course lol you even have to give a gift on Day 100.",
+   "note": "당연하지 = of course",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…알람 맞춰 놓을게.",
+   "rd": "…allam matchwo noeulge.",
+   "en": "…I'll set a reminder.",
+   "note": "Kick: he's already scared of forgetting",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "ㅋㅋ 그니까. 잊으면 안 돼.",
+   "rd": "ㅋㅋ geunikka. ijeumyeon an dwae.",
+   "en": "Haha exactly. Can't forget it.",
+   "note": "그니까 = exactly · 끝이야 = it's over",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "좋아. 오늘 진짜 좋다.",
+   "rd": "joa. oneul jinjja jota.",
+   "en": "Okay. Today's really nice.",
+   "note": "좋다 = (this is) nice — feeling it",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a3_grok_rewrite.md [K024]",
+  "final": ""
+ }
+}

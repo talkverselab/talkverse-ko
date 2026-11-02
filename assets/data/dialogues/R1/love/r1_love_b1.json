@@ -1,0 +1,117 @@
+{
+ "id": "r1_love_b1",
+ "region": "R1",
+ "island": "love",
+ "kind": "long",
+ "stage": "연인",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "커플티",
+ "emoji": "👕",
+ "scene": "주말 놀이공원. 유진이 몰래 준비한 커플티를 꺼낸다",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진"
+ },
+ "register": "casual",
+ "twist": 6,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "완전",
+  "진짜?"
+ ],
+ "goal": "Couple culture: matching outfits",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "짠! 오늘 이거 입고 다녀.",
+   "rd": "jjan! oneul igeo ipgo danyeo.",
+   "en": "Ta-da! Let's wear these today.",
+   "note": "짠! = ta-da!",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "헐 커플티? 진짜 입어?",
+   "rd": "heol keopeulti? jinjja ibeo?",
+   "en": "Whoa couple tees? For real?",
+   "note": "커플티 = matching couple T-shirts",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "놀이공원은 커플티가 국룰이지. 완전 필수야.",
+   "rd": "norigongwoneun keopeultiga gungnuriji. wanjeon pilsuya.",
+   "en": "Amusement parks are all about couple tees. Totally essential.",
+   "note": "국룰 = unwritten national rule (slang)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "좀 창피한데… 그래 입자.",
+   "rd": "jom changpihande… geurae ipja.",
+   "en": "A bit embarrassing… okay let's do it.",
+   "note": "-는데 = but… (softening)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "봐 봐, 잘 어울리잖아!",
+   "rd": "bwa bwa, jal eoullijana!",
+   "en": "Look, it looks good on you!",
+   "note": "잘 어울리다 = to suit someone",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "근데… 저기 커플도 똑같은 거 입었네.",
+   "rd": "geunde… jeogi keopeuldo ttokgateun geo ibeonne.",
+   "en": "But… that couple over there has the exact same one.",
+   "note": "Kick: they bought the exact same shirt",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "어? 저기도? 저기도?!",
+   "rd": "eo? jeogido? jeogido?!",
+   "en": "Huh? There too? And there?!",
+   "note": "저기도 = over there too",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "완전 국룰이네. 우리 한 팀 같다.",
+   "rd": "wanjeon gungnurine. uri han tim gatda.",
+   "en": "Totally the rule. We look like one big team.",
+   "note": "callback 국룰 — punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_love_b1_grok_rewrite.md [K026]",
+  "final": ""
+ }
+}

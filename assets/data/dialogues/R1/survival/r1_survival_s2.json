@@ -1,0 +1,113 @@
+{
+ "id": "r1_survival_s2",
+ "region": "R1",
+ "island": "survival",
+ "kind": "survival",
+ "draft": true,
+ "purpose": [
+  "survival"
+ ],
+ "domain": [
+  "survival"
+ ],
+ "title": "이거 한국어로 뭐예요?",
+ "emoji": "☕",
+ "scene": "카페 주문. 메뉴판 그림을 가리키며 이름을 묻는다",
+ "speakers": {
+  "A": "{name}",
+  "B": "직원"
+ },
+ "register": "polite",
+ "twist": 5,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "한국어로 뭐예요?",
+  "이거 주세요",
+  "얼마예요?",
+  "포장이요"
+ ],
+ "goal": "Ordering by pointing and asking the word",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "저기요, 이거 한국어로 뭐예요?",
+   "rd": "jeogiyo, igeo hangugeoro mwoyeyo?",
+   "en": "Excuse me, what is this in Korean?",
+   "note": "한국어로 뭐예요? = what is it in Korean?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "아, 그거 「아이스 아메리카노」예요.",
+   "rd": "a, geugeo 「aiseu amerikano」yeyo.",
+   "en": "Oh, that's an \"iced Americano\".",
+   "note": "Konglish loanword",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "아… 영어네요. 그럼 이거는요?",
+   "rd": "a… yeongeoneyo. geureom igeoneunyo?",
+   "en": "Oh… that's English. Then this one?",
+   "note": "-는요? = and what about…?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "「카페라떼」요.",
+   "rd": "「kaperatte」yo.",
+   "en": "\"Caffè latte\".",
+   "note": "another loanword",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "전부 영어예요? 한국어 공부하러 왔는데!",
+   "rd": "jeonbu yeongeoyeyo? hangugeo gongbuhareo wanneunde!",
+   "en": "Is everything English? I came here to study Korean!",
+   "note": "Kick: the menu is all loanwords",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "ㅋㅋ 그럼 「유자차」 드세요. 그건 한국어예요.",
+   "rd": "ㅋㅋ geureom 「yujacha」 deuseyo. geugeon hangugeoyeyo.",
+   "en": "Haha, then have 유자차. That one's Korean.",
+   "note": "유자차 = citron tea",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "좋아요, 유자차 하나 주세요. 얼마예요?",
+   "rd": "joayo, yujacha hana juseyo. eolmayeyo?",
+   "en": "Great, one 유자차 please. How much?",
+   "note": "얼마예요? = how much is it?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "4,500원이요. 포장이요, 드시고 가세요?",
+   "rd": "4,500woniyo. pojangiyo, deusigo gaseyo?",
+   "en": "4,500 won. To go, or for here?",
+   "note": "포장 = to go · 드시고 가세요? = eat/drink here?",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

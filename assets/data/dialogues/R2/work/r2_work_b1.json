@@ -1,0 +1,156 @@
+{
+ "id": "r2_work_b1",
+ "region": "R2",
+ "island": "work",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "work"
+ ],
+ "domain": [
+  "work"
+ ],
+ "title": "회식",
+ "emoji": "🍖",
+ "scene": "첫 회식. 팀장님이 소주를 따라 준다. 잔 받는 법, 고개 돌리는 법, 「원샷」까지 선배 지호가 귓속말로 코치",
+ "speakers": {
+  "A": "{name}",
+  "B": "지호 선배",
+  "C": "팀장님"
+ },
+ "register": "polite",
+ "twist": 8,
+ "flags": [
+  "alcohol"
+ ],
+ "kdrama": "",
+ "expressions": [
+  "감사합니다",
+  "잘 모르겠어요",
+  "네",
+  "헐"
+ ],
+ "goal": "Korean company dinner etiquette",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "C",
+   "ko": "{name} 씨, 한 잔 받아요.",
+   "rd": "{name} ssi, han jan badayo.",
+   "en": "{name}, have a drink.",
+   "note": "한 잔 받아요 = take a glass",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "(속삭이며) 두 손! 두 손으로 받아.",
+   "rd": "(soksagimyeo) du son! du soneuro bada.",
+   "en": "(whispering) Two hands! Receive with both hands.",
+   "note": "두 손 = both hands",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "아, 네! 감사합니다.",
+   "rd": "a, ne! gamsahamnida.",
+   "en": "Oh, yes! Thank you.",
+   "note": "감사합니다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "자, 우리 팀 새 식구를 위하여!",
+   "rd": "ja, uri tim sae sikgureul wihayeo!",
+   "en": "To our team's new family member!",
+   "note": "-를 위하여 = to… (toast)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "(속삭이며) 고개 돌리고 마셔. 팀장님 안 보게.",
+   "rd": "(soksagimyeo) gogae dolligo masyeo. timjangnim an boge.",
+   "en": "(whispering) Turn your head when you drink. Don't face the boss.",
+   "note": "고개 돌리다 = turn one's head",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "(속삭이며) 왜? 내 술인데?",
+   "rd": "(soksagimyeo) wae? nae surinde?",
+   "en": "(whispering) Why? It's my drink.",
+   "note": "내 술 = my drink",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "예의야. 그냥 해.",
+   "rd": "yeuiya. geunyang hae.",
+   "en": "It's manners. Just do it.",
+   "note": "예의 = etiquette",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "(고개를 돌리고 마신다) …다 마셨어요.",
+   "rd": "(gogaereul dolligo masinda) …da masyeosseoyo.",
+   "en": "(turns and drinks) …I finished it.",
+   "note": "다 마셨어요 = drank it all",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "C",
+   "ko": "오, 원샷! {name} 씨 한국 사람 다 됐네. 한 잔 더!",
+   "rd": "o, wonsyat! {name} ssi hanguk saram da dwaenne. han jan deo!",
+   "en": "Oh, bottoms up! {name}, you've become Korean. One more!",
+   "note": "원샷 = one shot · 다 됐네 = you've fully become",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "헐… 지호 선배, 저 원샷하라고 한 적 없잖아요.",
+   "rd": "heol… jiho seonbae, jeo wonsyatharago han jeok eopjanayo.",
+   "en": "Whoa… Jiho, you never told me to one-shot it.",
+   "note": "-한 적 없다 = never did",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "그건 네가 알아서 한 거지. 이제 2차 노래방이다.",
+   "rd": "geugeon nega araseo han geoji. ije 2cha noraebangida.",
+   "en": "That one's on you. Now round two, karaoke.",
+   "note": "알아서 = on your own",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "…잘 모르겠어요, 저 이 회사 다닐 수 있을까요?",
+   "rd": "…jal moreugesseoyo, jeo i hoesa danil su isseulkkayo?",
+   "en": "…I'm not sure I can survive this company.",
+   "note": "다니다 = to attend / work at",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

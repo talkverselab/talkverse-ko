@@ -1,0 +1,173 @@
+{
+ "id": "r3_study_b1",
+ "region": "R3",
+ "island": "study",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "study"
+ ],
+ "domain": [
+  "study"
+ ],
+ "title": "교수님 메일",
+ "emoji": "📧",
+ "scene": "교수님께 과제 연장 메일을 보내야 한다. 카톡 말투로 쓴 초안을 서아가 보고 기겁한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아"
+ },
+ "register": "mixed",
+ "twist": 8,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "그니까",
+  "됐어"
+ ],
+ "goal": "Writing a formal email to a professor (격식체)",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "서아야, 교수님한테 메일 쓰는데 이거 봐 줘.",
+   "rd": "seoaya, gyosunimhante meil sseuneunde igeo bwa jwo.",
+   "en": "Seoa, I'm emailing my professor. Look at this.",
+   "note": "봐 줘 = look at it for me",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "「교수님 안녕~ 저 {name}인데요 ㅋㅋ」 …헐.",
+   "rd": "「gyosunim annyeong~ jeo {name}indeyo ㅋㅋ」 …heol.",
+   "en": "\"Hi prof~ it's {name} lol\" …Whoa.",
+   "note": "Kick: chat-speak to a professor",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "왜? 친절하게 썼는데.",
+   "rd": "wae? chinjeolhage sseonneunde.",
+   "en": "Why? I wrote it kindly.",
+   "note": "친절하게 = kindly",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "ㅋㅋ를 교수님한테 보내면 F야.",
+   "rd": "ㅋㅋreul gyosunimhante bonaemyeon Fya.",
+   "en": "Send ㅋㅋ to a professor and you get an F.",
+   "note": "F = failing grade",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "진짜? 그럼 뭐라고 써?",
+   "rd": "jinjja? geureom mworago sseo?",
+   "en": "Really? Then what do I write?",
+   "note": "뭐라고 = what (words)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "「안녕하십니까, 교수님. ○○ 수업 수강 중인 {name}입니다.」",
+   "rd": "「annyeonghasimnikka, gyosunim. ○○ sueop sugang jungin {name}imnida.」",
+   "en": "\"Dear Professor. This is {name}, enrolled in your ○○ class.\"",
+   "note": "수강 중 = currently taking (a course)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "-습니까? 그거 군대 말투 아니야?",
+   "rd": "-seumnikka? geugeo gundae maltu aniya?",
+   "en": "-습니까? Isn't that army talk?",
+   "note": "callback 「군대 다녀왔어요?」",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "교수님한테는 그게 맞아. 그니까 격식체.",
+   "rd": "gyosunimhanteneun geuge maja. geunikka gyeoksikche.",
+   "en": "To a professor, that's correct. That's formal speech.",
+   "note": "격식체 = formal register",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "A",
+   "ko": "그럼 「과제 좀 늦게 내도 돼요?」는?",
+   "rd": "geureom 「gwaje jom neutge naedo dwaeyo?」neun?",
+   "en": "Then \"can I hand in the assignment a bit late?\"",
+   "note": "늦게 내다 = submit late",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "B",
+   "ko": "「부득이한 사정으로 제출 기한 연장을 부탁드려도 될지 여쭙고자 합니다.」",
+   "rd": "「budeugihan sajeongeuro jechul gihan yeonjangeul butakdeuryeodo doelji yeojjupgoja hamnida.」",
+   "en": "\"Due to unavoidable circumstances, I would like to ask whether an extension of the deadline might be possible.\"",
+   "note": "여쭙다 = to ask (humble)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "A",
+   "ko": "…이게 한국어야? 한 문장에 모르는 단어가 여섯 개야.",
+   "rd": "…ige hangugeoya? han munjange moreuneun daneoga yeoseot gaeya.",
+   "en": "…Is this Korean? Six words I don't know in one sentence.",
+   "note": "문장 = sentence",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "B",
+   "ko": "그래서 다들 복붙해. 자, 보내.",
+   "rd": "geuraeseo dadeul bokbutae. ja, bonae.",
+   "en": "That's why everyone copy-pastes. Go, send it.",
+   "note": "복붙 = copy-paste",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 13,
+   "speaker": "A",
+   "ko": "(전송) …어? 교수님 답장 왔어. 「ㅇㅋ 다음 주까지」.",
+   "rd": "(jeonsong) …eo? gyosunim dapjang wasseo. 「ㅇㅋ daeum jukkaji」.",
+   "en": "(sent) …Huh? The professor replied. \"ㅇㅋ by next week.\"",
+   "note": "Kick: the professor uses chat shorthand",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 14,
+   "speaker": "B",
+   "ko": "…됐어. 세상이 변했네.",
+   "rd": "…dwaesseo. sesangi byeonhaenne.",
+   "en": "…Forget it. The world has changed.",
+   "note": "변하다 = to change",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

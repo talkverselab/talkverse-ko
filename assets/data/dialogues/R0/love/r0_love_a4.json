@@ -1,0 +1,119 @@
+{
+ "id": "r0_love_a4",
+ "region": "R0",
+ "island": "love",
+ "kind": "short",
+ "stage": "플러팅",
+ "series": "flirt",
+ "initiator": "B",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "펜 빌려줘요",
+ "emoji": "🖊️",
+ "scene": "도서관 열람실. 옆자리 해솔이 펜을 빌리더니 자꾸 돌려준다",
+ "speakers": {
+  "A": "{name}",
+  "B": "해솔"
+ },
+ "register": "polite",
+ "twist": 6,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "저기요",
+  "네",
+  "감사합니다"
+ ],
+ "goal": "Borrowing — the oldest excuse to talk",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "저기요, 펜 하나 빌려도 돼요?",
+   "rd": "jeogiyo, pen hana billyeodo dwaeyo?",
+   "en": "Excuse me, can I borrow a pen?",
+   "note": "저기요 = excuse me (getting attention)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네, 여기 있어요.",
+   "rd": "ne, yeogi isseoyo.",
+   "en": "Yeah, here you go.",
+   "note": "여기요 = here you go",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "감사합니다. 다 썼네요.",
+   "rd": "gamsahamnida. da sseonneyo.",
+   "en": "Thanks. I’m done.",
+   "note": "다 썼어요 = I'm done using it",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "벌써 다 쓰셨어요?",
+   "rd": "beolsseo da sseusyeosseoyo?",
+   "en": "Already done?",
+   "note": "벌써 = already",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "네, 또 빌리면 안 돼요?",
+   "rd": "ne, tto billimyeon an dwaeyo?",
+   "en": "Yeah, can I borrow it again?",
+   "note": "또 = again",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "또요? 방금 드렸는데요.",
+   "rd": "ttoyo? banggeum deuryeonneundeyo.",
+   "en": "Again? I just gave it to you.",
+   "note": "Kick: she only wants an excuse to talk",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "펜이 아니라 이름이요.",
+   "rd": "peni anira ireumiyo.",
+   "en": "Not the pen. Your name.",
+   "note": "말고 = not (this), but…",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "아… {name}이에요. 펜은 그냥 쓰세요.",
+   "rd": "a… {name}ieyo. peneun geunyang sseuseyo.",
+   "en": "Oh… {name}. Just keep the pen.",
+   "note": "가지세요 = keep it",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a4_grok_rewrite.md [K032]",
+  "final": ""
+ }
+}

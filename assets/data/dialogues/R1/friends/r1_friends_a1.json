@@ -1,0 +1,113 @@
+{
+ "id": "r1_friends_a1",
+ "region": "R1",
+ "island": "friends",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "나이가 어떻게 돼?",
+ "emoji": "🎂",
+ "scene": "동아리 첫 모임. 민준이 처음 만나자마자 나이를 묻는다",
+ "speakers": {
+  "A": "{name}",
+  "B": "민준"
+ },
+ "register": "mixed",
+ "twist": 4,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "헐",
+  "형",
+  "누나"
+ ],
+ "goal": "Why Koreans ask your age first (형·누나·오빠·언니)",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "안녕하세요! 혹시 나이가 어떻게 되세요?",
+   "rd": "annyeonghaseyo! hoksi naiga eotteoke doeseyo?",
+   "en": "Hi! If you don't mind, how old are you?",
+   "note": "나이가 어떻게 되세요? = how old are you? (polite)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "어… 처음 만났는데 나이요?",
+   "rd": "eo… cheoeum mannanneunde naiyo?",
+   "en": "Uh… we just met and you ask my age?",
+   "note": "처음 = first (time)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "아, 말 놓으려고요! 몇 년생이에요?",
+   "rd": "a, mal noeuryeogoyo! myeot nyeonsaengieyo?",
+   "en": "Oh, so I know how to talk to you! What year were you born?",
+   "note": "말 놓다 = speak casually · 몇 년생 = born what year",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "2001년이요.",
+   "rd": "2001nyeoniyo.",
+   "en": "2001.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "헐, 저보다 한 살 많네요. 그럼 형이네!",
+   "rd": "heol, jeoboda han sal manneyo. geureom hyeongine!",
+   "en": "Whoa, one year older than me. Then you're my 형!",
+   "note": "형 = older brother (male→older male)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "형? 제가요? 진짜?",
+   "rd": "hyeong? jegayo? jinjja?",
+   "en": "형? Me? Really?",
+   "note": "진짜? = really?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "네, 형! 형, 뭐 드실래요? 제가 살게요.",
+   "rd": "ne, hyeong! hyeong, mwo deusillaeyo? jega salgeyo.",
+   "en": "Yes, 형! 형, what will you have? My treat.",
+   "note": "Kick: instant hierarchy, instant free meal",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…한 살 차이로 밥을 사요?",
+   "rd": "…han sal chairo babeul sayo?",
+   "en": "…You buy a meal over one year?",
+   "note": "차이 = difference",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

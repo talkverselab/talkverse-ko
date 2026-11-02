@@ -1,0 +1,113 @@
+{
+ "id": "r1_work_a1",
+ "region": "R1",
+ "island": "work",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "work"
+ ],
+ "domain": [
+  "work"
+ ],
+ "title": "알바 면접",
+ "emoji": "🧾",
+ "scene": "카페 아르바이트 면접. 사장님의 첫 질문이 예상 밖",
+ "speakers": {
+  "A": "{name}",
+  "B": "사장님"
+ },
+ "register": "polite",
+ "twist": 4,
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "네",
+  "잘 모르겠어요",
+  "감사합니다",
+  "진짜요?"
+ ],
+ "goal": "Part-time job interview basics",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "{name} 씨, 한국어 잘하시네요. 커피 만들어 봤어요?",
+   "rd": "{name} ssi, hangugeo jalhasineyo. keopi mandeureo bwasseoyo?",
+   "en": "{name}, your Korean is good. Have you made coffee before?",
+   "note": "만들어 봤어요? = have you tried making?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네! 집에서 매일 만들어요.",
+   "rd": "ne! jibeseo maeil mandeureoyo.",
+   "en": "Yes! I make it at home every day.",
+   "note": "매일 = every day",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "좋아요. 그럼 「아아」가 뭔지 알아요?",
+   "rd": "joayo. geureom 「aa」ga mwonji arayo?",
+   "en": "Good. Then do you know what 아아 is?",
+   "note": "아아 = 아이스 아메리카노 (abbreviation)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "아아요? …잘 모르겠어요.",
+   "rd": "aayo? …jal moreugesseoyo.",
+   "en": "아아? …I'm not sure.",
+   "note": "Kick: the abbreviation test",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "아이스 아메리카노. 「뜨아」는요?",
+   "rd": "aiseu amerikano. 「tteua」neunyo?",
+   "en": "Iced Americano. And 뜨아?",
+   "note": "뜨아 = 뜨거운 아메리카노",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "뜨거운… 아메리카노요?",
+   "rd": "tteugeoun… amerikanoyo?",
+   "en": "Hot… Americano?",
+   "note": "guessing right",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "오, 빨리 배우네. 내일부터 나와요.",
+   "rd": "o, ppalli baeune. naeilbuteo nawayo.",
+   "en": "Oh, fast learner. Start tomorrow.",
+   "note": "나와요 = come (to work)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "진짜요? 감사합니다! 「아아」 열심히 만들게요.",
+   "rd": "jinjjayo? gamsahamnida! 「aa」 yeolsimhi mandeulgeyo.",
+   "en": "Really? Thank you! I'll make 아아 diligently.",
+   "note": "열심히 = diligently",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

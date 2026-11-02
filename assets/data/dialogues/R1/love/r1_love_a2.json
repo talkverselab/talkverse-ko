@@ -1,0 +1,117 @@
+{
+ "id": "r1_love_a2",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "stage": "썸",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "팝콘",
+ "emoji": "🍿",
+ "scene": "썸 타는 중, 처음 같이 간 영화관. 어두운 객석, 팝콘은 하나 — 드라마에서 백 번 본 그 장면",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진"
+ },
+ "register": "casual",
+ "twist": 4,
+ "flags": [],
+ "kdrama": "영화관 팝콘 통에서 손이 닿는 장면",
+ "expressions": [
+  "어?",
+  "미안",
+  "아니"
+ ],
+ "goal": "Small awkward moments while still 썸",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "이 팝콘 완전 맛있네.",
+   "rd": "i papkon wanjeon masinne.",
+   "en": "This popcorn is so good.",
+   "note": "맛있다 = (it's) tasty — said to yourself",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "그치? 반반으로 시켰어.",
+   "rd": "geuchi? banbaneuro sikyeosseo.",
+   "en": "Right? I got the half-and-half.",
+   "note": "그치? = right? (casual 그렇지)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "어? …손 닿았어. 미안!",
+   "rd": "eo? …son daasseo. mian!",
+   "en": "Huh? …Our hands touched. Sorry!",
+   "note": "our hands touched in the bucket",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "아니… 괜찮아. 나도 미안.",
+   "rd": "ani… gwaenchana. nado mian.",
+   "en": "No… it's fine. Sorry too.",
+   "note": "Kick: the K-drama popcorn hand-touch",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "…하나 더 사 올까?",
+   "rd": "…hana deo sa olkka?",
+   "en": "…Want me to get another one?",
+   "note": "-ㄹ까? = should I…?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "아니. 이걸로 충분해.",
+   "rd": "ani. igeollo chungbunhae.",
+   "en": "No. This one's enough.",
+   "note": "하나면 돼 = one is fine",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "왜 그래?",
+   "rd": "wae geurae?",
+   "en": "Why though?",
+   "note": "왜? = why?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "…그래야 또 닿지.",
+   "rd": "…geuraeya tto dachi.",
+   "en": "…So we can touch again.",
+   "note": "-아야 = so that / only if — the flirt line",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a2_grok_rewrite.md [K023]",
+  "final": ""
+ }
+}

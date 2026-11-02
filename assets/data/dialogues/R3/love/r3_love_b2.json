@@ -1,0 +1,198 @@
+{
+ "id": "r3_love_b2",
+ "region": "R3",
+ "island": "love",
+ "kind": "long",
+ "stage": "연인",
+ "draft": true,
+ "purpose": [
+  "dating"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "돈봉투",
+ "emoji": "✉️",
+ "scene": "연애 1년. 유진 엄마가 따로 만나자고 했다. 고급 호텔 커피숍 — 드라마라면 「이 돈 받고 헤어져」 장면",
+ "speakers": {
+  "A": "{name}",
+  "C": "유진 엄마"
+ },
+ "register": "polite",
+ "twist": 12,
+ "flags": [],
+ "kdrama": "애인 엄마의 「이 돈 받고 헤어져」 돈봉투",
+ "expressions": [
+  "네",
+  "그럼요",
+  "진짜요?",
+  "잠깐만요"
+ ],
+ "goal": "Meeting a partner's parent — formal speech under pressure",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "C",
+   "ko": "{name} 씨 맞죠? 앉으세요.",
+   "rd": "{name} ssi matjyo? anjeuseyo.",
+   "en": "You're {name}, right? Please sit.",
+   "note": "앉아요 = please sit",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네, 처음 뵙겠습니다. 유진 씨한테 말씀 많이 들었어요.",
+   "rd": "ne, cheoeum boepgetseumnida. yujin ssihante malsseum mani deureosseoyo.",
+   "en": "Yes, nice to meet you. I've heard a lot about you from Yujin.",
+   "note": "얘기 많이 들었습니다 = I've heard a lot (about you)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "우리 유진이랑 사귄 지 1년 됐다고요?",
+   "rd": "uri yujinirang sagwin ji 1nyeon dwaetdagoyo?",
+   "en": "You've been dating our Yujin for a year?",
+   "note": "-다고요? = I hear that…?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "네. 다음 주가 딱 1년이에요.",
+   "rd": "ne. daeum juga ttak 1nyeonieyo.",
+   "en": "Yes. Next week is exactly one year.",
+   "note": "딱 = exactly",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "그래요. 그럼 본론만 할게요.",
+   "rd": "geuraeyo. geureom bollonman halgeyo.",
+   "en": "I see. Then I'll get straight to the point.",
+   "note": "본론 = the main point",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…네.",
+   "rd": "…ne.",
+   "en": "…Yes.",
+   "note": "silence — he knows this scene",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "이거 받으세요.",
+   "rd": "igeo badeuseyo.",
+   "en": "Take this.",
+   "note": "she slides a white envelope across the table",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "잠깐만요. 설마… 헤어지라는 건가요?",
+   "rd": "jamkkanmanyo. seolma… heeojiraneun geongayo?",
+   "en": "Wait. Don't tell me… you want me to break up with her?",
+   "note": "-라는 거예요? = are you saying (I should)…?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "C",
+   "ko": "헤어져요? 누가?",
+   "rd": "heeojyeoyo? nuga?",
+   "en": "Break up? Who?",
+   "note": "echo question = total confusion",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "드라마에서는 이런 봉투 주면서 그러던데요.",
+   "rd": "deuramaeseoneun ireon bongtu jumyeonseo geureodeondeyo.",
+   "en": "In dramas they hand over an envelope like this and say that.",
+   "note": "-던데요 = from what I've seen…",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "C",
+   "ko": "어머, 드라마를 너무 많이 봤네요. 열어 보세요.",
+   "rd": "eomeo, deuramareul neomu mani bwanneyo. yeoreo boseyo.",
+   "en": "Oh my, you've watched too many dramas. Open it.",
+   "note": "어머 = oh my (often older women)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "…놀이공원 자유이용권 두 장요?",
+   "rd": "…norigongwon jayuiyonggwon du jangyo?",
+   "en": "…Two all-day amusement park passes?",
+   "note": "Kick: the envelope is a gift",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 13,
+   "speaker": "C",
+   "ko": "1주년이라며. 우리 유진이 커플티 좋아해요.",
+   "rd": "1junyeoniramyeo. uri yujini keopeulti joahaeyo.",
+   "en": "It's your first anniversary, isn't it. Our Yujin loves couple tees.",
+   "note": "-라며 = I heard that… · callback 커플티",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 14,
+   "speaker": "A",
+   "ko": "아… 감사합니다. 진짜요, 정말 감사합니다.",
+   "rd": "a… gamsahamnida. jinjjayo, jeongmal gamsahamnida.",
+   "en": "Oh… thank you. Really, thank you so much.",
+   "note": "진짜요 = really",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 15,
+   "speaker": "C",
+   "ko": "그럼 됐어요. 대신 우리 딸 울리면 그땐 진짜 봉투예요.",
+   "rd": "geureom dwaesseoyo. daesin uri ttal ullimyeon geuttaen jinjja bongtuyeyo.",
+   "en": "Then we're good. But if you make my daughter cry, then it's a real envelope.",
+   "note": "울리면 = if you make (her) cry",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 16,
+   "speaker": "A",
+   "ko": "…그럼요. 절대 안 울릴게요.",
+   "rd": "…geureomyo. jeoldae an ullilgeyo.",
+   "en": "…Of course. I'll never make her cry.",
+   "note": "그럼요 = of course (polite)",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r3_love_b2_grok_rewrite.md [K029]",
+  "final": ""
+ }
+}
