@@ -1,5 +1,5 @@
 # 사용: cuts4.sh <코드접두어> <편 경로...> — 편마다 컷 4개씩 한 요청(그림 최대 4장)으로 생성
-cd ~/talkverse/ko  # 재개: tools/cuts4.sh KD <편 경로...>(4장 묶음) · tools/cuts.sh(1장씩) · tools/push_loop.sh(15분 푸시) — 스크래치 대신 tools/ 에 보관(2026-11-03 01:00 재개 예정)
+cd ~/talkverse/ko  # 재개: tools/cuts4.sh KD <편 경로...>(4장 묶음) · tools/cuts.sh(1장씩) · tools/push_loop.sh(15분 푸시) — 스크래치 대신 tools/ 에 보관(2026-11-03 13:00 재개 예정)
 pre=$1; shift; n=0
 for f in "$@"; do
   id=$(basename $f); n=$((n+1)); code=$(printf "%s%02d" $pre $n)
