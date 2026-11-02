@@ -11,6 +11,7 @@ on:
       - '.github/workflows/ios-*.yml'
       - 'tools/**'
       - 'docs/**'
+      - 'data/**'          # 리뷰·Grok 답·표현 풀 — 앱 번들 밖
   workflow_dispatch:
 
 permissions:

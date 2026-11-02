@@ -1,0 +1,93 @@
+expr,rd,en,register,region,scene,note,min_count_r1
+네,ne,yes / okay,존댓말,R1,리액션,정중한 긍정·맞장구,3
+응,eung,yeah,반말,R1,리액션,가벼운 긍정,3
+아니요,aniyo,no,존댓말,R1,리액션,정중한 부정,2
+아니,ani,no / nah,반말,R1,리액션,가벼운 부정·말 시작,2
+어?,eo?,huh?,공통,R1,리액션,놀람·되묻기,3
+진짜?,jinjja?,really?,반말,R1,리액션,놀람 — 가장 흔한 맞장구,3
+진짜요?,jinjjayo?,really?,존댓말,R1,리액션,진짜? 의 존댓말,2
+헐,heol,whoa / no way,반말,R1,리액션,놀람·어이없음 감탄,2
+대박,daebak,amazing / insane,공통,R1,리액션,감탄(좋든 나쁘든),2
+그니까,geunikka,right? / exactly,반말,R1,리액션,강한 동의(그러니까 줄임),2
+맞아,maja,right,반말,R1,리액션,동의,2
+맞아요,majayo,that's right,존댓말,R1,리액션,동의 존댓말,2
+그래?,geurae?,is that so?,반말,R1,리액션,가벼운 되물음,2
+그렇구나,geureokuna,I see,반말,R1,리액션,이해했다는 맞장구,2
+아 그래요?,a geuraeyo?,"oh, really?",존댓말,R1,리액션,관심 표시 맞장구,2
+아 몰라,a molla,"ugh, whatever",반말,R1,리액션,포기·회피(귀여운 투정),1
+됐어,dwaesseo,forget it / never mind,반말,R1,리액션,거절·체념,1
+괜찮아요,gwaenchanayo,it's fine / no thanks,존댓말,R1,서바이벌,괜찮다 + 정중한 거절 둘 다,2
+괜찮아,gwaenchana,it's okay,반말,R1,리액션,위로·괜찮음,2
+좋아요,joayo,sounds good,존댓말,R1,리액션,찬성,2
+좋아,joa,okay! / sure,반말,R1,리액션,찬성,2
+감사합니다,gamsahamnida,thank you,존댓말,R1,서바이벌,정중한 감사,2
+고마워,gomawo,thanks,반말,R1,리액션,친구 사이 감사,2
+죄송합니다,joesonghamnida,I'm sorry,존댓말,R1,서바이벌,정중한 사과,2
+미안,mian,sorry,반말,R1,리액션,친구 사이 사과,2
+저기요,jeogiyo,excuse me (calling someone),존댓말,R1,서바이벌,가게·길에서 부르기,2
+여기요,yeogiyo,over here! (calling staff),존댓말,R1,서바이벌,식당에서 직원 부르기,2
+잠깐만요,jamkkanmanyo,just a moment,존댓말,R1,서바이벌,잠시 기다려 달라,2
+잠깐만,jamkkanman,wait a sec,반말,R1,리액션,잠시 멈춤,2
+이거 주세요,igeo juseyo,"this one, please",존댓말,R1,서바이벌,가리키며 주문,2
+얼마예요?,eolmayeyo?,how much is it?,존댓말,R1,서바이벌,값 묻기,2
+천천히 말해 주세요,cheoncheonhi malhae juseyo,please speak slowly,존댓말,R1,메타,못 알아들었을 때,2
+다시 한 번 말해 주세요,dasi han beon malhae juseyo,could you say that again?,존댓말,R1,메타,되묻기,2
+뭐라고요?,mworagoyo?,"sorry, what?",존댓말,R1,메타,되묻기(짧게),2
+뭐라고?,mworago?,what?,반말,R1,메타,되묻기(반말),2
+한국어로 뭐예요?,hangugeoro mwoyeyo?,what is it in Korean?,존댓말,R1,메타,단어 묻기,2
+무슨 뜻이에요?,museun tteusieyo?,what does it mean?,존댓말,R1,메타,뜻 묻기,2
+잘 모르겠어요,jal moreugesseoyo,I'm not sure,존댓말,R1,메타,모를 때,2
+몰라,molla,I don't know,반말,R1,리액션,모름,2
+카드 돼요?,kadeu dwaeyo?,can I pay by card?,존댓말,R1,서바이벌,계산,1
+봉투 필요하세요?,bongtu piryohaseyo?,do you need a bag?,존댓말,R1,서바이벌,편의점 점원 단골 질문,1
+데워 드릴까요?,dewo deurilkkayo?,shall I heat it up?,존댓말,R1,서바이벌,편의점 도시락·삼각김밥,1
+포장이요,pojangiyo,"to go, please",존댓말,R1,서바이벌,가져갈 때,1
+매장에서요,maejangeseoyo,for here,존댓말,R1,서바이벌,먹고 갈 때,1
+안 맵게 해 주세요,an maepge hae juseyo,"not spicy, please",존댓말,R1,서바이벌,주문 요청,1
+화장실 어디예요?,hwajangsil eodiyeyo?,where's the bathroom?,존댓말,R1,서바이벌,길·가게,1
+여기 어디예요?,yeogi eodiyeyo?,where is this?,존댓말,R1,서바이벌,길 잃었을 때,1
+배고파,baegopa,I'm starving,반말,R1,감정,배고픔,2
+졸려,jollyeo,I'm sleepy,반말,R1,감정,졸림,1
+귀여워,gwiyeowo,so cute,반말,R1,감정,귀엽다 감탄,2
+멋있다,meositda,so cool,반말,R1,감정,멋지다 감탄,2
+미쳤다,michyeotda,insane (in a good way),반말,R1,감정,최고라는 감탄(과장),1
+설렌다,seollenda,my heart's fluttering,반말,R1,연애,두근거림,1
+보고 싶어,bogo sipeo,I miss you,반말,R1,연애,그리움,1
+좋아해,joahae,I like you,반말,R1,연애,고백·호감,1
+왜?,wae?,why?,반말,R1,리액션,이유 묻기,2
+뭐야,mwoya,what the—,반말,R1,리액션,어이없음·놀람,2
+에이,ei,come on / nah,반말,R1,리액션,가벼운 부정·놀림 받아치기,2
+설마,seolma,no way / you don't mean,반말,R1,리액션,의심·놀람,1
+그럼,geureom,then / of course,공통,R1,리액션,당연함·그러면,2
+당연하지,dangyeonhaji,of course,반말,R1,리액션,강한 긍정,1
+알겠어,algesseo,got it,반말,R1,리액션,수락,2
+알겠습니다,algetseumnida,understood,존댓말,R1,서바이벌,정중한 수락,2
+화이팅,hwaiting,you got this!,공통,R1,감정,응원,1
+수고하셨습니다,sugohasyeotseumnida,thanks for your hard work,존댓말,R1,서바이벌,일 끝 인사·가게 나갈 때,1
+ㅋㅋ,ㅋㅋ,lol,채팅,R1,채팅,웃음,2
+ㅋㅋㅋ,ㅋㅋㅋ,lolol,채팅,R1,채팅,더 크게 웃음,2
+ㅇㅇ,ㅇㅇ,yep,채팅,R1,채팅,응(초성),2
+ㄴㄴ,ㄴㄴ,nope,채팅,R1,채팅,아니(초성),1
+ㄱㄱ,ㄱㄱ,let's go,채팅,R1,채팅,가자(초성),1
+ㅠㅠ,ㅠㅠ,(crying),채팅,R1,채팅,슬픔·감동,2
+헐 대박,heol daebak,OMG,채팅,R1,채팅,큰 놀람,1
+어쩔,eojjeol,so what? (teasing),채팅,R2,채팅,놀리며 받아치기(신조어),1
+노답,nodap,hopeless,반말,R2,리액션,답이 없다(포기),1
+레알,real,for real,반말,R2,채팅,진짜(신조어),1
+갑자기?,gapjagi?,out of nowhere?,반말,R1,리액션,뜬금없음 지적,1
+최애,choeae,my favorite (bias),공통,R1,덕질,가장 좋아하는 멤버·캐릭터,1
+입덕,ipdeok,getting into (a fandom),공통,R2,덕질,팬이 되기 시작,1
+덕질,deokjil,fangirling / fanboying,공통,R2,덕질,팬 활동,1
+직캠,jikkaem,fancam,공통,R2,덕질,개인 직촬 영상,1
+컴백,keombaek,comeback,공통,R2,덕질,새 앨범 활동,1
+티켓팅,tiketting,ticket war,공통,R2,덕질,예매 전쟁,1
+떡상,tteoksang,blew up,반말,R2,채팅,확 뜨다(신조어),1
+짱,jjang,the best,반말,R1,감정,최고,1
+오케이,okei,okay,공통,R1,리액션,수락(영어 그대로),1
+아싸,assa,yes!,반말,R1,감정,기쁨 감탄,1
+에휴,ehyu,sigh,반말,R1,감정,한숨,1
+아이고,aigo,oh dear,공통,R1,감정,놀람·탄식(어른 말투),1
+그냥,geunyang,just because,공통,R1,리액션,이유 없음,2
+완전,wanjeon,totally,반말,R1,리액션,강조 부사(완전 좋아),2
+너무,neomu,so / too,공통,R1,리액션,강조 부사,2
+진심,jinsim,seriously,반말,R1,리액션,진짜로(강조),1
