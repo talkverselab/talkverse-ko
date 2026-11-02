@@ -39,7 +39,8 @@
    "en": "Excuse me, could I borrow a charger?",
    "note": "죄송한데 = sorry, but… (polite opener)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b4/cut1"
   },
   {
    "num": 2,
@@ -59,7 +60,8 @@
    "en": "Yes! Thank you. I’m down to 3%.",
    "note": "남았어요 = there's … left",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b4/cut2"
   },
   {
    "num": 4,
@@ -79,7 +81,8 @@
    "en": "Really? Which subject?",
    "note": "무슨 = what (kind of)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b4/cut3"
   },
   {
    "num": 6,
@@ -99,7 +102,8 @@
    "en": "Me too! Aren’t we in the same class?",
    "note": "-아니에요? = isn't it…?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b4/cut4"
   },
   {
    "num": 8,
@@ -119,7 +123,8 @@
    "en": "…I’d love to say no, but yes. Busted.",
    "note": "Kick: caught",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b4/cut5"
   },
   {
    "num": 10,
@@ -139,7 +144,8 @@
    "en": "In return, I’ll buy you a meal after the exam.",
    "note": "대신 = in return · 밥 살게요 = I'll treat you to a meal",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b4/cut6"
   },
   {
    "num": 12,

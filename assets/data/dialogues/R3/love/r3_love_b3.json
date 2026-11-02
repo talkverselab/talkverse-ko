@@ -42,7 +42,8 @@
    "en": "Did you… fall from the sky?",
    "note": "Pickup line #1 — 하늘 = sky / heaven (and her name)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b3/cut1"
   },
   {
    "num": 2,
@@ -62,7 +63,8 @@
    "en": "Oh… then number two. Got a map? I got lost in your eyes.",
    "note": "멘트 #2",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b3/cut2"
   },
   {
    "num": 4,
@@ -82,7 +84,8 @@
    "en": "…How did you know?",
    "note": "어떻게 = how",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b3/cut3"
   },
   {
    "num": 6,
@@ -102,7 +105,8 @@
    "en": "Then it’s a line that worked?",
    "note": "성공한 = successful",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b3/cut4"
   },
   {
    "num": 8,
@@ -122,7 +126,8 @@
    "en": "You know what number three is?",
    "note": "뭔지 = what it is",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b3/cut5"
   },
   {
    "num": 10,
@@ -142,7 +147,8 @@
    "en": "…Fine, I’ll throw them all out. Ugh, whatever, I’ll just be honest.",
    "note": "솔직하게 = honestly",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b3/cut6"
   },
   {
    "num": 12,
@@ -162,7 +168,8 @@
    "en": "I’ve wanted to talk to you since earlier, because your smile is pretty.",
    "note": "-아서 = because · 말 걸다 = to strike up a conversation",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b3/cut7"
   },
   {
    "num": 14,

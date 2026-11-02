@@ -40,7 +40,8 @@
    "en": "Hey, do you know how to use this machine?",
    "note": "어떻게 쓰는지 = how to use",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b6/cut1"
   },
   {
    "num": 2,
@@ -60,7 +61,8 @@
    "en": "I see. You come often? First time I’ve seen you.",
    "note": "자주 = often",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b6/cut2"
   },
   {
    "num": 4,
@@ -80,7 +82,8 @@
    "en": "Whoa, 7 a.m.? That’s why I never saw you.",
    "note": "-구나 = ah, so that's why",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b6/cut3"
   },
   {
    "num": 6,
@@ -100,7 +103,8 @@
    "en": "…From tomorrow, 7 a.m.",
    "note": "Kick: she changes her schedule on the spot",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b6/cut4"
   },
   {
    "num": 8,
@@ -120,7 +124,8 @@
    "en": "Exactly. So wake me up. If you give me your number.",
    "note": "깨워 줘요 = wake me up",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b6/cut5"
   },
   {
    "num": 10,
@@ -140,7 +145,8 @@
    "en": "Haha, I’ve been coming here three years.",
    "note": "다녔어 = have been attending",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b6/cut6"
   },
   {
    "num": 12,

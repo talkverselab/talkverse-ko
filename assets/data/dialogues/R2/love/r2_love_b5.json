@@ -42,7 +42,8 @@
    "en": "Excuse me… can we join your table?",
    "note": "합석 = sharing a table",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b5/cut1"
   },
   {
    "num": 2,
@@ -62,7 +63,8 @@
    "en": "Two. Me and that friend.",
    "note": "저 친구 = that friend (over there)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b5/cut2"
   },
   {
    "num": 4,
@@ -82,7 +84,8 @@
    "en": "Oh… then right now it’s just one.",
    "note": "지금은 = for now",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b5/cut3"
   },
   {
    "num": 6,
@@ -102,7 +105,8 @@
    "en": "My friend told me to go. But he ran away.",
    "note": "도망갔어요 = ran away",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b5/cut4"
   },
   {
    "num": 8,
@@ -122,7 +126,8 @@
    "en": "…Ugh, whatever. Can I just squeeze in alone?",
    "note": "껴도 돼요? = can I squeeze in / join?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b5/cut5"
   },
   {
    "num": 10,
@@ -142,7 +147,8 @@
    "en": "Really? Then I’ll buy the snacks.",
    "note": "안주 = food you eat with drinks",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b5/cut6"
   },
   {
    "num": 12,
