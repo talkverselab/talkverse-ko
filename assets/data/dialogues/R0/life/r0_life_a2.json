@@ -31,8 +31,8 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "택배요. 집에 계세요?",
-   "rd": "taekbaeyo. jibe gyeseyo?",
+   "ko": "택배입니다. 집에 계세요?",
+   "rd": "taekbaeimnida. jibe gyeseyo?",
    "en": "Delivery. Are you home?",
    "note": "계세요? = are you (home)? (honorific)",
    "tags": [],
@@ -41,9 +41,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "아니요. 지금 밖이에요.",
-   "rd": "aniyo. jigeum bakkieyo.",
-   "en": "No. I'm out right now.",
+   "ko": "아니요. 지금 없어요.",
+   "rd": "aniyo. jigeum eopseoyo.",
+   "en": "No. I'm not home right now.",
    "note": "밖 = outside",
    "tags": [],
    "new": []
@@ -51,8 +51,8 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "어디에 둘까요?",
-   "rd": "eodie dulkkayo?",
+   "ko": "어디다 둘까요?",
+   "rd": "eodida dulkkayo?",
    "en": "Where should I leave it?",
    "note": "두다 = leave / put",
    "tags": [],
@@ -61,9 +61,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "음… 냉장고요.",
-   "rd": "eum… naengjanggoyo.",
-   "en": "Um… in the fridge.",
+   "ko": "음... 냉장고요.",
+   "rd": "eum... naengjanggoyo.",
+   "en": "Um... the fridge.",
    "note": "Kick: wrong word",
    "tags": [],
    "new": []
@@ -71,8 +71,8 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "네? 냉장고요?",
-   "rd": "ne? naengjanggoyo?",
+   "ko": "네? 냉장고라고요?",
+   "rd": "ne? naengjanggoragoyo?",
    "en": "Sorry? The fridge?",
    "note": "echo",
    "tags": [],
@@ -81,9 +81,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "아니, 아니! 문 앞이요!",
-   "rd": "ani, ani! mun apiyo!",
-   "en": "No, no! In front of the door!",
+   "ko": "잠깐만요! 문 앞이요!",
+   "rd": "jamkkanmanyo! mun apiyo!",
+   "en": "Wait a second! In front of the door!",
    "note": "문 앞 = in front of the door",
    "tags": [],
    "new": []
@@ -91,9 +91,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋ 네, 문 앞에 둘게요.",
-   "rd": "ㅋㅋ ne, mun ape dulgeyo.",
-   "en": "Haha, okay, I'll leave it at the door.",
+   "ko": "네, 문 앞에 둘게요.",
+   "rd": "ne, mun ape dulgeyo.",
+   "en": "Okay, I'll leave it at the door.",
    "note": "둘게요 = I'll leave it",
    "tags": [],
    "new": []
@@ -108,5 +108,9 @@
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_life_a2_grok_rewrite.md [K085]",
+  "final": ""
+ }
 }

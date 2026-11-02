@@ -35,7 +35,7 @@
    "speaker": "A",
    "ko": "(속삭이며) 선배, 연차 쓰려면 어떻게 말해요?",
    "rd": "(soksagimyeo) seonbae, yeoncha sseuryeomyeon eotteoke malhaeyo?",
-   "en": "(whispering) Jiho, how do I ask for a day off?",
+   "en": "(whispering) Senior, how do I ask for a day off?",
    "note": "연차 = annual leave",
    "tags": [],
    "new": []
@@ -150,5 +150,9 @@
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_work_b2_grok_rewrite.md [K099]",
+  "final": ""
+ }
 }

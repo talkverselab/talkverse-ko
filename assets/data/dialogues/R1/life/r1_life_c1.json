@@ -34,7 +34,7 @@
    "speaker": "A",
    "ko": "도윤아 방이 너무 추워 ㅠㅠ",
    "rd": "doyuna bangi neomu chuwo ㅠㅠ",
-   "en": "Doyun, my room is freezing ㅠㅠ",
+   "en": "Doyun my room is freezing ㅠㅠ",
    "note": "춥다 = cold",
    "tags": [],
    "new": [],
@@ -46,7 +46,7 @@
    "speaker": "B",
    "ko": "보일러 켰어?",
    "rd": "boilleo kyeosseo?",
-   "en": "Did you turn on the boiler?",
+   "en": "Did you turn the boiler on?",
    "note": "보일러 = floor heating",
    "tags": [],
    "new": [],
@@ -68,9 +68,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "헐… 3개월 동안 보일러 안 켰어?",
-   "rd": "heol… 3gaewol dongan boilleo an kyeosseo?",
-   "en": "Whoa… you haven't used the boiler for three months?",
+   "ko": "헐... 3개월 동안 안 켰어? 진짜?",
+   "rd": "heol... 3gaewol dongan an kyeosseo? jinjja?",
+   "en": "Whoa... you haven't turned it on for three months? For real?",
    "note": "Kick: three months in the cold",
    "tags": [],
    "new": [],
@@ -80,9 +80,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "난 그냥 이불 세 개 덮었는데…",
-   "rd": "nan geunyang ibul se gae deopeonneunde…",
-   "en": "I just used three blankets…",
+   "ko": "난 그냥 이불 세 개 덮었는데...",
+   "rd": "nan geunyang ibul se gae deopeonneunde...",
+   "en": "I just piled on three blankets...",
    "note": "이불 = blanket",
    "tags": [],
    "new": [],
@@ -92,9 +92,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "ㅋㅋㅋ 부엌 옆에 버튼 있어. 「난방」 눌러.",
-   "rd": "ㅋㅋㅋ bueok yeope beoteun isseo. 「nanbang」 nulleo.",
-   "en": "Lolol there's a button by the kitchen. Press \"heating\".",
+   "ko": "ㅋㅋㅋ 부엌 옆에 버튼 있어. 난방 눌러 봐.",
+   "rd": "ㅋㅋㅋ bueok yeope beoteun isseo. nanbang nulleo bwa.",
+   "en": "Lolol there's a button by the kitchen. Try pressing heating.",
    "note": "난방 = heating",
    "tags": [],
    "new": [],
@@ -104,9 +104,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "잠깐만… 헐 바닥이 따뜻해!",
-   "rd": "jamkkanman… heol badagi ttatteuthae!",
-   "en": "Wait… whoa, the floor is warm!",
+   "ko": "잠깐만... 헐 바닥이 따뜻해!",
+   "rd": "jamkkanman... heol badagi ttatteuthae!",
+   "en": "Wait... whoa the floor is warm!",
    "note": "바닥 = floor",
    "tags": [],
    "new": [],
@@ -116,14 +116,18 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "한국 겨울은 바닥이야. 이제 이불 하나만 덮어.",
-   "rd": "hanguk gyeoureun badagiya. ije ibul hanaman deopeo.",
-   "en": "Korean winter is all about the floor. Now just one blanket.",
+   "ko": "한국 겨울은 바닥이야. 이제 이불 하나만...",
+   "rd": "hanguk gyeoureun badagiya. ije ibul hanaman...",
+   "en": "Korean winter is all about the floor. Now just one blanket...",
    "note": "ondol culture",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "23:15"
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_life_c1_grok_rewrite.md [K087]",
+  "final": ""
+ }
 }

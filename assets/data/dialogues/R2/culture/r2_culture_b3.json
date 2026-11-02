@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "감사합니다! …근데 이거 뭐예요?",
-   "rd": "gamsahamnida! …geunde igeo mwoyeyo?",
-   "en": "Thank you! …But what is this?",
+   "ko": "감사합니다! ...근데 이거 뭐예요?",
+   "rd": "gamsahamnida! ...geunde igeo mwoyeyo?",
+   "en": "Thank you! ...But what is this?",
    "note": "Kick setup: an envelope",
    "tags": [],
    "new": []
@@ -103,9 +103,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "헐… 진짜요? 절 한 번에 돈을 줘요?",
-   "rd": "heol… jinjjayo? jeol han beone doneul jwoyo?",
-   "en": "Whoa… really? You get money for one bow?",
+   "ko": "헐... 진짜요? 절 한 번에 돈을 줘요?",
+   "rd": "heol... jinjjayo? jeol han beone doneul jwoyo?",
+   "en": "Whoa... for real? You get money for one bow?",
    "note": "Kick",
    "tags": [],
    "new": []
@@ -123,9 +123,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "그럼… 한 번 더 해도 돼요?",
-   "rd": "geureom… han beon deo haedo dwaeyo?",
-   "en": "Then… can I bow one more time?",
+   "ko": "그럼... 한 번 더 해도 돼요?",
+   "rd": "geureom... han beon deo haedo dwaeyo?",
+   "en": "Then... can I bow one more time?",
    "note": "한 번 더 = once more",
    "tags": [],
    "new": []
@@ -150,5 +150,9 @@
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_culture_b3_grok_rewrite.md [K095]",
+  "final": ""
+ }
 }

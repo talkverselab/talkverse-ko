@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "C",
-   "ko": "서아 생일 축하해!! 🎉",
-   "rd": "seoa saengil chukahae!! 🎉",
-   "en": "Happy birthday Seoa!! 🎉",
+   "ko": "서아야 생일이다!! 🎉🎉",
+   "rd": "seoaya saengirida!! 🎉🎉",
+   "en": "Seoa, it's your birthday!! 🎉🎉",
    "note": "생일 축하해 = happy birthday",
    "tags": [],
    "new": [],
@@ -45,9 +45,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "고마워ㅠㅠ 다들 안 잤어?",
-   "rd": "gomawoㅠㅠ dadeul an jasseo?",
-   "en": "Thanks ㅠㅠ none of you are asleep?",
+   "ko": "헐 고마워ㅠㅠ 다들 안 잤네?",
+   "rd": "heol gomawoㅠㅠ dadeul an janne?",
+   "en": "Whoa thanks ㅠㅠ nobody's asleep?",
    "note": "고마워 = thanks",
    "tags": [],
    "new": [],
@@ -57,9 +57,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "생일 축하합니다. 행복한 하루 되십시오.",
-   "rd": "saengil chukahamnida. haengbokan haru doesipsio.",
-   "en": "Happy birthday. Please have a happy day.",
+   "ko": "생일 축하합니다. 좋은 하루 되시길 바랍니다.",
+   "rd": "saengil chukahamnida. joeun haru doesigil baramnida.",
+   "en": "Happy birthday. Wishing you a good day.",
    "note": "too formal for friends",
    "tags": [],
    "new": [],
@@ -69,9 +69,9 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "ㅋㅋㅋ {name} 뭐야 회사 메일이야?",
-   "rd": "ㅋㅋㅋ {name} mwoya hoesa meiriya?",
-   "en": "Lolol {name}, what is this, a work email?",
+   "ko": "ㅋㅋㅋ {name} 이거 뭐야 공문 보낸 거?",
+   "rd": "ㅋㅋㅋ {name} igeo mwoya gongmun bonaen geo?",
+   "en": "Lolol {name} what is this, a formal notice?",
    "note": "Kick: formal text in a friend chat",
    "tags": [],
    "new": [],
@@ -81,9 +81,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "ㅋㅋ 귀여워. 근데 반말로 해 줘.",
-   "rd": "ㅋㅋ gwiyeowo. geunde banmallo hae jwo.",
-   "en": "Haha cute. But say it casually.",
+   "ko": "ㅋㅋ 웃기네. 근데 반말로 해 줘.",
+   "rd": "ㅋㅋ utgine. geunde banmallo hae jwo.",
+   "en": "Lol that's funny. But talk casually.",
    "note": "반말 = casual speech",
    "tags": [],
    "new": [],
@@ -105,9 +105,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "헐 생축도 알아? 완벽해.",
-   "rd": "heol saengchukdo ara? wanbyeokae.",
-   "en": "Whoa, you know 생축 too? Perfect.",
+   "ko": "헐 생축도 알아? 완전 잘한다.",
+   "rd": "heol saengchukdo ara? wanjeon jalhanda.",
+   "en": "Whoa you know 생축 too? You're really good.",
    "note": "완벽 = perfect",
    "tags": [],
    "new": [],
@@ -117,14 +117,18 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "어제 배웠어. 너 때문에.",
-   "rd": "eoje baewosseo. neo ttaemune.",
-   "en": "Learned it yesterday. Because of you.",
+   "ko": "어제 배웠어... 너 때문에.",
+   "rd": "eoje baewosseo... neo ttaemune.",
+   "en": "Learned it yesterday... because of you.",
    "note": "때문에 = because of",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "00:04"
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_friends_c2_grok_rewrite.md [K083]",
+  "final": ""
+ }
 }

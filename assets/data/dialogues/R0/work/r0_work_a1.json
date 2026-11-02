@@ -71,9 +71,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "감사합니다. …컴퓨터가 없어요.",
-   "rd": "gamsahamnida. …keompyuteoga eopseoyo.",
-   "en": "Thank you. …There's no computer.",
+   "ko": "감사합니다. ...컴퓨터가 없어요.",
+   "rd": "gamsahamnida. ...keompyuteoga eopseoyo.",
+   "en": "Thank you. ...There's no computer.",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -101,12 +101,16 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "오늘은… 인사요. 다 돌면서.",
-   "rd": "oneureun… insayo. da dolmyeonseo.",
-   "en": "Today… greetings. Go around to everyone.",
+   "ko": "오늘은... 인사요. 다 돌면서.",
+   "rd": "oneureun... insayo. da dolmyeonseo.",
+   "en": "Today... greetings. Go around to everyone.",
    "note": "인사 = greeting — real first-day job",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_work_a1_grok_rewrite.md [K097]",
+  "final": ""
+ }
 }

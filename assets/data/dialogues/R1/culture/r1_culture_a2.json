@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "…일곱 명? 이름 다 몰라.",
-   "rd": "…ilgop myeong? ireum da molla.",
-   "en": "…Seven people? I don't know all their names.",
+   "ko": "...일곱 명? 이름 다 몰라. 진짜?",
+   "rd": "...ilgop myeong? ireum da molla. jinjja?",
+   "en": "...Seven people? I don't know all their names. For real?",
    "note": "Kick",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "그럼 그냥 크게 「사랑해!」 해.",
-   "rd": "geureom geunyang keuge 「saranghae!」 hae.",
-   "en": "Then just shout \"I love you!\" loudly.",
+   "ko": "헐. 그럼 그냥 크게 「사랑해!」 해.",
+   "rd": "heol. geureom geunyang keuge 「saranghae!」 hae.",
+   "en": "Whoa. Then just shout \"I love you!\" loudly.",
    "note": "사랑해 = I love you",
    "tags": [],
    "new": []
@@ -102,12 +102,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "그건 완전 할 수 있어.",
-   "rd": "geugeon wanjeon hal su isseo.",
-   "en": "That I can totally do.",
+   "ko": "그건 완전 할 수 있어...",
+   "rd": "geugeon wanjeon hal su isseo...",
+   "en": "That I can totally do...",
    "note": "완전 = totally",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_culture_a2_grok_rewrite.md [K093]",
+  "final": ""
+ }
 }

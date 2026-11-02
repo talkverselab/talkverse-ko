@@ -80,9 +80,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "잠깐만… 헐 파일이 안 올라가",
-   "rd": "jamkkanman… heol pairi an ollaga",
-   "en": "Wait… whoa, the file won't upload",
+   "ko": "잠깐만… 헐 파일이 안 올라가 진짜?",
+   "rd": "jamkkanman… heol pairi an ollaga jinjja?",
+   "en": "Wait… whoa the file won't upload for real?",
    "note": "Kick setup",
    "tags": [],
    "new": [],
@@ -125,5 +125,9 @@
    "ui": "bubble",
    "at": "23:59"
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_study_c1_grok_rewrite.md [K101]",
+  "final": ""
+ }
 }

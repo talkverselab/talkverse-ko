@@ -105,8 +105,8 @@
   {
    "num": 8,
    "speaker": "D",
-   "ko": "(주인공, 반사적으로 A 에게 우산을 씌워 준다) 괜찮아요?",
-   "rd": "(juingong, bansajeogeuro A ege usaneul ssuiwo junda) gwaenchanayo?",
+   "ko": "(주인공, 반사적으로 A에게 우산을 씌워 준다) 괜찮아요?",
+   "rd": "(juingong, bansajeogeuro Aege usaneul ssuiwo junda) gwaenchanayo?",
    "en": "(the lead, by reflex, holds the umbrella over A) Are you okay?",
    "note": "Kick: wrong person",
    "tags": [],
@@ -135,9 +135,9 @@
   {
    "num": 11,
    "speaker": "D",
-   "ko": "아니에요, 근데 방금 장면… 괜찮지 않았어요?",
-   "rd": "anieyo, geunde banggeum jangmyeon… gwaenchanchi anasseoyo?",
-   "en": "No worries, but that take just now… wasn't it kind of good?",
+   "ko": "아니에요, 근데 방금 장면… 괜찮지 않았어요? 진짜요?",
+   "rd": "anieyo, geunde banggeum jangmyeon… gwaenchanchi anasseoyo? jinjjayo?",
+   "en": "No worries, but that take just now… wasn't it kind of good? For real?",
    "note": "괜찮다 = not bad",
    "tags": [],
    "new": []
@@ -145,9 +145,9 @@
   {
    "num": 12,
    "speaker": "C",
-   "ko": "…잠깐만요. 다시 봐 볼게요.",
-   "rd": "…jamkkanmanyo. dasi bwa bolgeyo.",
-   "en": "…Hold on. Let me look again.",
+   "ko": "...잠깐만요. 다시 봐 볼게요.",
+   "rd": "...jamkkanmanyo. dasi bwa bolgeyo.",
+   "en": "...Hold on. Let me look again.",
    "note": "다시 보다 = review",
    "tags": [],
    "new": []
@@ -192,5 +192,9 @@
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r3_culture_b2_grok_rewrite.md [K096]",
+  "final": ""
+ }
 }

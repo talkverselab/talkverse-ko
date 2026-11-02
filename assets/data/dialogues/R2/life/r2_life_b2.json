@@ -34,7 +34,7 @@
    "speaker": "B",
    "ko": "어떻게 해 드릴까요?",
    "rd": "eotteoke hae deurilkkayo?",
-   "en": "How would you like it?",
+   "en": "How would you like it done?",
    "note": "해 드릴까요? = shall I do it for you?",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "조금만이요? 얼마나요?",
-   "rd": "jogeummaniyo? eolmanayo?",
-   "en": "A little? How much?",
+   "ko": "조금만이요? 어느 정도요?",
+   "rd": "jogeummaniyo? eoneu jeongdoyo?",
+   "en": "A little? About how much?",
    "note": "얼마나 = how much",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "음… 이 정도요.",
-   "rd": "eum… i jeongdoyo.",
-   "en": "Um… about this much.",
+   "ko": "음... 이 정도요.",
+   "rd": "eum... i jeongdoyo.",
+   "en": "Um... about this much.",
    "note": "이 정도 = about this",
    "tags": [],
    "new": []
@@ -102,9 +102,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…헐. 진짜 시원하네요.",
-   "rd": "…heol. jinjja siwonhaneyo.",
-   "en": "…Whoa. It's really fresh.",
+   "ko": "...헐. 진짜요? 완전 시원하네요.",
+   "rd": "...heol. jinjjayo? wanjeon siwonhaneyo.",
+   "en": "...Whoa. For real? It's really short.",
    "note": "Kick: way shorter",
    "tags": [],
    "new": []
@@ -114,7 +114,7 @@
    "speaker": "B",
    "ko": "잘 어울리세요! 요즘 이게 유행이에요.",
    "rd": "jal eoulliseyo! yojeum ige yuhaengieyo.",
-   "en": "It suits you! This is in style now.",
+   "en": "It suits you! This is trendy now.",
    "note": "유행 = trend",
    "tags": [],
    "new": []
@@ -122,9 +122,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "괜찮아요… 머리는 다시 자라니까요.",
-   "rd": "gwaenchanayo… meorineun dasi jaranikkayo.",
-   "en": "It's fine… hair grows back.",
+   "ko": "괜찮아요... 머리는 다시 자라니까요.",
+   "rd": "gwaenchanayo... meorineun dasi jaranikkayo.",
+   "en": "It's fine... hair grows back.",
    "note": "자라다 = grow",
    "tags": [],
    "new": []
@@ -149,5 +149,9 @@
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_life_b2_grok_rewrite.md [K088]",
+  "final": ""
+ }
 }

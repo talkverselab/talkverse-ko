@@ -109,5 +109,9 @@
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_study_a1_grok_rewrite.md [K100]",
+  "final": ""
+ }
 }

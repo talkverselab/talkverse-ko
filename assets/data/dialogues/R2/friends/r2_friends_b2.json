@@ -35,9 +35,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "근데 {name}은 MBTI 뭐야?",
-   "rd": "geunde {name}eun MBTI mwoya?",
-   "en": "So {name}, what's your MBTI?",
+   "ko": "야 {name}은 MBTI 뭐야?",
+   "rd": "ya {name}eun MBTI mwoya?",
+   "en": "Yo {name}, what's your MBTI?",
    "note": "MBTI = personality type — a Korean icebreaker",
    "tags": [],
    "new": []
@@ -45,9 +45,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "MBTI? 그게 왜 중요해?",
-   "rd": "MBTI? geuge wae jungyohae?",
-   "en": "MBTI? Why does that matter?",
+   "ko": "MBTI? 그게 그렇게 중요해?",
+   "rd": "MBTI? geuge geureoke jungyohae?",
+   "en": "MBTI? Is it really that important?",
    "note": "중요하다 = important",
    "tags": [],
    "new": []
@@ -55,9 +55,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "중요하지! 나랑 맞는지 봐야지.",
-   "rd": "jungyohaji! narang manneunji bwayaji.",
-   "en": "Of course it matters! We need to see if we match.",
+   "ko": "중요하지 완전. 우리랑 잘 맞나 봐야지.",
+   "rd": "jungyohaji wanjeon. urirang jal manna bwayaji.",
+   "en": "It totally matters. Gotta check if we click.",
    "note": "맞다 = to match",
    "tags": [],
    "new": []
@@ -65,9 +65,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "음… 몰라. 해 본 적 없어.",
-   "rd": "eum… molla. hae bon jeok eopseo.",
-   "en": "Hmm… I don't know. Never took it.",
+   "ko": "음... 몰라. 한 번도 안 해봤어.",
+   "rd": "eum... molla. han beondo an haebwasseo.",
+   "en": "Hmm... no idea. Never done it.",
    "note": "-ㄴ 적 없어 = never did",
    "tags": [],
    "new": []
@@ -75,9 +75,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "헐, 진짜? 지금 해. 5분이면 돼.",
-   "rd": "heol, jinjja? jigeum hae. 5bunimyeon dwae.",
-   "en": "Whoa, really? Do it now. Takes five minutes.",
+   "ko": "헐 진짜? 지금 해 봐. 금방이야.",
+   "rd": "heol jinjja? jigeum hae bwa. geumbangiya.",
+   "en": "Whoa for real? Do it now. It's quick.",
    "note": "-면 돼 = it's enough if",
    "tags": [],
    "new": []
@@ -85,9 +85,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "(5분 뒤) …ENFP래.",
-   "rd": "(5bun dwi) …ENFPrae.",
-   "en": "(five minutes later) …It says ENFP.",
+   "ko": "(5분 뒤) 음... ENFP래.",
+   "rd": "(5bun dwi) eum... ENFPrae.",
+   "en": "(five min later) Um... it says ENFP.",
    "note": "-래 = it says",
    "tags": [],
    "new": []
@@ -95,9 +95,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "아 그럴 줄 알았어. 완전 E야.",
-   "rd": "a geureol jul arasseo. wanjeon Eya.",
-   "en": "Knew it. Totally an E.",
+   "ko": "아 그럴 줄 알았다. 완전 E 느낌이야.",
+   "rd": "a geureol jul aratda. wanjeon E neukkimiya.",
+   "en": "Knew it. Totally gives E vibes.",
    "note": "그럴 줄 알았어 = I knew it",
    "tags": [],
    "new": []
@@ -105,9 +105,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "어떻게 알았어? 방금 만났잖아.",
-   "rd": "eotteoke arasseo? banggeum mannatjana.",
-   "en": "How did you know? We just met.",
+   "ko": "어떻게 알았어? 방금 만났는데.",
+   "rd": "eotteoke arasseo? banggeum mannanneunde.",
+   "en": "How'd you know? We just met.",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -115,9 +115,9 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "처음 만났는데 2차까지 왔잖아. 그게 E야.",
-   "rd": "cheoeum mannanneunde 2chakkaji watjana. geuge Eya.",
-   "en": "We just met and you came to round two. That's an E.",
+   "ko": "처음인데 2차까지 왔잖아. 그게 E지.",
+   "rd": "cheoeuminde 2chakkaji watjana. geuge Eji.",
+   "en": "We just met and you came to round two. That's E.",
    "note": "2차 — callback",
    "tags": [],
    "new": []
@@ -125,9 +125,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "그럼 너희는?",
-   "rd": "geureom neohuineun?",
-   "en": "Then what about you guys?",
+   "ko": "그럼 너희는 뭐야?",
+   "rd": "geureom neohuineun mwoya?",
+   "en": "What about you guys then?",
    "note": "너희 = you (plural)",
    "tags": [],
    "new": []
@@ -135,9 +135,9 @@
   {
    "num": 11,
    "speaker": "C",
-   "ko": "우리 둘 다 I야. 지금 집에 가고 싶어.",
-   "rd": "uri dul da Iya. jigeum jibe gago sipeo.",
-   "en": "We're both I's. We want to go home right now.",
+   "ko": "우리 둘 다 I야. 지금 집 가고 싶어.",
+   "rd": "uri dul da Iya. jigeum jip gago sipeo.",
+   "en": "We're both I's. Wanna go home right now.",
    "note": "Kick: the introverts",
    "tags": [],
    "new": []
@@ -147,10 +147,14 @@
    "speaker": "A",
    "ko": "그니까 너희가 2차 가자고 했잖아!",
    "rd": "geunikka neohuiga 2cha gajago haetjana!",
-   "en": "But you're the ones who said round two!",
+   "en": "But you're the ones who said let's do round two!",
    "note": "그니까 = I mean",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_friends_b2_grok_rewrite.md [K084]",
+  "final": ""
+ }
 }

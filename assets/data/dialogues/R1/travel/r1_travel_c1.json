@@ -46,7 +46,7 @@
    "speaker": "A",
    "ko": "화장실! 금방 가!",
    "rd": "hwajangsil! geumbang ga!",
-   "en": "Bathroom! Coming!",
+   "en": "Bathroom! Coming right now!",
    "note": "금방 = soon",
    "tags": [],
    "new": [],
@@ -56,9 +56,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "몇 번 출구야? 빨리!!",
-   "rd": "myeot beon chulguya? ppalli!!",
-   "en": "Which platform? Hurry!!",
+   "ko": "몇 번이야? 빨리!!",
+   "rd": "myeot beoniya? ppalli!!",
+   "en": "Which one? Hurry!!",
    "note": "빨리 = hurry",
    "tags": [],
    "new": [],
@@ -68,9 +68,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "…방금 기차 떠났어?",
-   "rd": "…banggeum gicha tteonasseo?",
-   "en": "…Did the train just leave?",
+   "ko": "...방금 기차 떠났어? 진짜?",
+   "rd": "...banggeum gicha tteonasseo? jinjja?",
+   "en": "...Did the train just leave? For real?",
    "note": "Kick",
    "tags": [],
    "new": [],
@@ -92,9 +92,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "헐… 나 혼자 서울역이야",
-   "rd": "heol… na honja seouryeogiya",
-   "en": "Whoa… I'm alone at Seoul Station",
+   "ko": "헐... 나 혼자 서울역이야",
+   "rd": "heol... na honja seouryeogiya",
+   "en": "Whoa... I'm alone at Seoul Station",
    "note": "혼자 = alone",
    "tags": [],
    "new": [],
@@ -116,14 +116,18 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "아 몰라… 돼지국밥 먼저 먹지 마!",
-   "rd": "a molla… dwaejigukbap meonjeo meokji ma!",
-   "en": "Ugh… don't eat the pork soup without me!",
+   "ko": "아 몰라... 돼지국밥 먼저 먹지 마!",
+   "rd": "a molla... dwaejigukbap meonjeo meokji ma!",
+   "en": "Ugh... don't eat the pork soup without me!",
    "note": "돼지국밥 = Busan pork soup",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "10:03"
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_travel_c1_grok_rewrite.md [K091]",
+  "final": ""
+ }
 }

@@ -41,8 +41,8 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "한 봉지 오천 원.",
-   "rd": "han bongji ocheon won.",
+   "ko": "한 봉지 오천 원이에요.",
+   "rd": "han bongji ocheon wonieyo.",
    "en": "5,000 won a bag.",
    "note": "봉지 = bag",
    "tags": [],
@@ -53,7 +53,7 @@
    "speaker": "A",
    "ko": "깎아 주세요!",
    "rd": "kkakka juseyo!",
-   "en": "Give me a discount, please!",
+   "en": "Please give me a discount!",
    "note": "깎아 주세요 = please lower the price",
    "tags": [],
    "new": []
@@ -71,9 +71,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "그럼… 두 봉지 오천 원?",
-   "rd": "geureom… du bongji ocheon won?",
-   "en": "Then… two bags for 5,000?",
+   "ko": "그럼... 두 봉지 오천 원요?",
+   "rd": "geureom... du bongji ocheon wonyo?",
+   "en": "Then... two bags for 5,000?",
    "note": "Kick: bold offer",
    "tags": [],
    "new": []
@@ -81,9 +81,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "ㅋㅋ 장사 잘하네. 한 봉지 사천 원.",
-   "rd": "ㅋㅋ jangsa jalhane. han bongji sacheon won.",
-   "en": "Haha, you're a good bargainer. One bag, 4,000.",
+   "ko": "ㅋㅋ 흥정 잘하네. 사천 원에 줄게.",
+   "rd": "ㅋㅋ heungjeong jalhane. sacheon wone julge.",
+   "en": "Haha, you bargain well. I'll give it to you for 4,000.",
    "note": "장사 = business",
    "tags": [],
    "new": []
@@ -101,12 +101,16 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "귤 하나 더 넣었어. 맛있게 먹어요.",
-   "rd": "gyul hana deo neoeosseo. masitge meogeoyo.",
-   "en": "I put in one extra tangerine. Enjoy.",
+   "ko": "귤 하나 더 넣었어요. 맛있게 드세요.",
+   "rd": "gyul hana deo neoeosseoyo. masitge deuseyo.",
+   "en": "I put in one extra. Enjoy.",
    "note": "덤 = bonus extra",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_travel_a2_grok_rewrite.md [K089]",
+  "final": ""
+ }
 }

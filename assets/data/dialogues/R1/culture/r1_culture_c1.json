@@ -58,7 +58,7 @@
    "speaker": "B",
    "ko": "2분 30초 봐 봐. 미쳤어",
    "rd": "2bun 30cho bwa bwa. michyeosseo",
-   "en": "Look at 2:30. Insane",
+   "en": "Look at 2:30. It's insane",
    "note": "미쳤다 = insane (good)",
    "tags": [],
    "new": [],
@@ -68,9 +68,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "…헐 진짜 미쳤다",
-   "rd": "…heol jinjja michyeotda",
-   "en": "…Whoa, it's really insane",
+   "ko": "...헐 진짜? 미쳤다",
+   "rd": "...heol jinjja? michyeotda",
+   "en": "...Whoa for real? It's insane",
    "note": "Kick: he's converted",
    "tags": [],
    "new": [],
@@ -116,14 +116,18 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…세 개만 보내 줘",
-   "rd": "…se gaeman bonae jwo",
-   "en": "…Send me just three",
+   "ko": "...세 개만 보내 줘",
+   "rd": "...se gaeman bonae jwo",
+   "en": "...Send me just three",
    "note": "-만 = only",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "18:06"
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_culture_c1_grok_rewrite.md [K094]",
+  "final": ""
+ }
 }

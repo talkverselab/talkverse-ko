@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "1분 남았어! 마지막 곡 뭐 할래?",
-   "rd": "1bun namasseo! majimak gok mwo hallae?",
-   "en": "One minute left! What's the last song?",
+   "ko": "야 시간 없다! 마지막 뭐로 할래?",
+   "rd": "ya sigan eopda! majimak mworo hallae?",
+   "en": "Yo, no time left! What's the last one gonna be?",
    "note": "남았어 = there's … left",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "나 한국 노래 하나밖에 몰라.",
-   "rd": "na hanguk norae hanabakke molla.",
-   "en": "I only know one Korean song.",
+   "ko": "나 아는 거 하나밖에 없는데...",
+   "rd": "na aneun geo hanabakke eomneunde...",
+   "en": "I only know one thing though...",
    "note": "-밖에 = only",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "그거 해! 빨리!",
-   "rd": "geugeo hae! ppalli!",
-   "en": "Do that one! Quick!",
+   "ko": "그거 해! 지금 바로!",
+   "rd": "geugeo hae! jigeum baro!",
+   "en": "Do that one! Right now!",
    "note": "빨리 = quickly",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "…생일 축하합니다?",
-   "rd": "…saengil chukahamnida?",
-   "en": "…Happy birthday?",
+   "ko": "음... 생일 축하합니다?",
+   "rd": "eum... saengil chukahamnida?",
+   "en": "Um... Happy birthday?",
    "note": "Kick: the only song he knows",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "ㅋㅋㅋ 그니까 그게 노래야?",
-   "rd": "ㅋㅋㅋ geunikka geuge noraeya?",
-   "en": "Lolol, that counts as a song?",
+   "ko": "ㅋㅋㅋ 그니까 그게 노래야? 진짜?",
+   "rd": "ㅋㅋㅋ geunikka geuge noraeya? jinjja?",
+   "en": "Lolol so that counts as a song? For real?",
    "note": "그니까 = like, seriously",
    "tags": [],
    "new": []
@@ -82,8 +82,8 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "잠깐만, 너 오늘 생일이잖아.",
-   "rd": "jamkkanman, neo oneul saengirijana.",
+   "ko": "잠깐만, 너 오늘 생일이지.",
+   "rd": "jamkkanman, neo oneul saengiriji.",
    "en": "Wait, it's your birthday today.",
    "note": "-잖아 = you know",
    "tags": [],
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "헐… 기억했어?",
-   "rd": "heol… gieokaesseo?",
-   "en": "Whoa… you remembered?",
+   "ko": "헐... 너 기억하고 있었어?",
+   "rd": "heol... neo gieokago isseosseo?",
+   "en": "Whoa... you remembered?",
    "note": "기억하다 = remember",
    "tags": [],
    "new": []
@@ -102,12 +102,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "응. 그래서 연습했어. 이 곡만.",
-   "rd": "eung. geuraeseo yeonseupaesseo. i gongman.",
-   "en": "Yeah. So I practiced. Just this song.",
+   "ko": "응. {name}가 이 노래만 연습했어...",
+   "rd": "eung. {name}ga i noraeman yeonseupaesseo...",
+   "en": "Yeah. {name} practiced just this one...",
    "note": "연습 = practice — the real kick",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_friends_a2_grok_rewrite.md [K082]",
+  "final": ""
+ }
 }

@@ -15,7 +15,7 @@ before = set(g.CDP(g.tab(frag)).ev(GEN) or [])
 cmd = ['/usr/bin/python3', f'{here}/grok_send.py', src, pre + '.md', '--tab', frag, '--wait', '45']
 if '--attach' in a: cmd += ['--attach', a[a.index('--attach') + 1]]
 subprocess.run(cmd, capture_output=True, text=True)
-t0 = time.time(); got = []
+t0 = time.time(); got = []; reloaded = False
 def save(urls):
     c = g.CDP(g.tab(frag))
     for k, u in enumerate(urls, 1):
@@ -28,6 +28,8 @@ while time.time() - t0 < wait:
     new = [u for u in (c.ev(GEN) or []) if u not in before]
     if len(new) >= want and not busy:
         save(new[:want]); print('OK', want); sys.exit(0)
+    if not new and not busy and time.time() - t0 > 60 and not reloaded:  # 답은 끝났는데 그림이 안 보임 = 렌더 버그 → 새로고침(2026-11-03)
+        c.call('Page.reload'); reloaded = True; time.sleep(10); continue
     if new and not busy and time.time() - t0 > 150:  # 다 안 왔는데 끝남 → 있는 만큼 저장
         save(new); print('PARTIAL', len(new)); sys.exit(2)
     time.sleep(8)

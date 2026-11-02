@@ -103,9 +103,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "헐… 진짜 사극 같아.",
-   "rd": "heol… jinjja sageuk gata.",
-   "en": "Whoa… you look straight out of a period drama.",
+   "ko": "헐... 진짜요? 완전 사극 같아.",
+   "rd": "heol... jinjjayo? wanjeon sageuk gata.",
+   "en": "Whoa... for real? You look straight out of a period drama.",
    "note": "사극 = historical drama",
    "tags": [],
    "new": []
@@ -123,9 +123,9 @@
   {
    "num": 10,
    "speaker": "C",
-   "ko": "…잠깐만요. 그냥 선비 할게요.",
-   "rd": "…jamkkanmanyo. geunyang seonbi halgeyo.",
-   "en": "…Hold on. I'll just be a scholar.",
+   "ko": "...잠깐만요. 그냥 선비 할게요.",
+   "rd": "...jamkkanmanyo. geunyang seonbi halgeyo.",
+   "en": "...Hold on. I'll just be a scholar.",
    "note": "선비 = scholar",
    "tags": [],
    "new": []
@@ -143,12 +143,16 @@
   {
    "num": 12,
    "speaker": "C",
-   "ko": "선비도 무료면 충분해.",
-   "rd": "seonbido muryomyeon chungbunhae.",
-   "en": "A scholar gets in free too. That's enough.",
+   "ko": "선비도 무료면 충분해...",
+   "rd": "seonbido muryomyeon chungbunhae...",
+   "en": "A scholar gets in free too. That's enough...",
    "note": "충분하다 = enough",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_travel_b2_grok_rewrite.md [K092]",
+  "final": ""
+ }
 }
