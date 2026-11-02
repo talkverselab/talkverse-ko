@@ -1,0 +1,131 @@
+{
+ "id": "r1_culture_c2",
+ "region": "R1",
+ "island": "culture",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "데뷔 날",
+ "emoji": "🌟",
+ "scene": "태오 데뷔 무대 30분 전. 대기실에서 카톡이 온다",
+ "speakers": {
+  "A": "{name}",
+  "B": "태오"
+ },
+ "register": "chat",
+ "twist": 5,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "화이팅",
+  "진짜?",
+  "떨려",
+  "ㅋㅋ"
+ ],
+ "goal": "Cheering someone before a big moment",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "30분 뒤에 무대야.",
+   "rd": "30bun dwie mudaeya.",
+   "en": "I'm on stage in 30 minutes.",
+   "note": "무대 = stage",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:30"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "화이팅!! 떨려?",
+   "rd": "hwaiting!! tteollyeo?",
+   "en": "You got this!! Nervous?",
+   "note": "화이팅 = fighting!",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:30"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "응. 손 떨려.",
+   "rd": "eung. son tteollyeo.",
+   "en": "Yeah. My hands are shaking.",
+   "note": "떨리다 = shake",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:31"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "괜찮아. 3년 연습했잖아.",
+   "rd": "gwaenchana. 3nyeon yeonseupaetjana.",
+   "en": "It's okay. You practiced for three years.",
+   "note": "-잖아 = you know",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:31"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "너 어디 있어?",
+   "rd": "neo eodi isseo?",
+   "en": "Where are you?",
+   "note": "어디",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:32"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "맨 앞줄. 응원봉 들고.",
+   "rd": "maen apjul. eungwonbong deulgo.",
+   "en": "Front row. With a light stick.",
+   "note": "응원봉 = light stick",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:32"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "그럼 너만 보고 할게.",
+   "rd": "geureom neoman bogo halge.",
+   "en": "Then I'll only look at you.",
+   "note": "심쿵",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:33"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…나 지금 더 떨려.",
+   "rd": "…na jigeum deo tteollyeo.",
+   "en": "…Now I'm more nervous.",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:33"
+  }
+ ],
+ "learner_gender": "F"
+}

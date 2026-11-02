@@ -1,0 +1,157 @@
+{
+ "id": "r2_love_b9",
+ "region": "R2",
+ "island": "love",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "들키면 안 돼",
+ "emoji": "🕶️",
+ "scene": "태오와 첫 데이트. 한강인데 지나가는 사람마다 태오를 본다",
+ "speakers": {
+  "A": "{name}",
+  "B": "태오",
+  "C": "지나가던 사람",
+  "D": "팬들"
+ },
+ "register": "casual",
+ "twist": 8,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "몰래 데이트하다 들켜서 도망치기",
+ "expressions": [
+  "헐",
+  "잠깐만",
+  "아 몰라",
+  "진짜?"
+ ],
+ "goal": "A secret date that keeps getting noticed",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "모자 썼고, 마스크 썼고. 완벽해.",
+   "rd": "moja sseotgo, maseukeu sseotgo. wanbyeokae.",
+   "en": "Hat on, mask on. Perfect.",
+   "note": "완벽하다 = perfect",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "근데 머리가 너무 뾰족해서 다 알아보겠다.",
+   "rd": "geunde meoriga neomu ppyojokaeseo da arabogetda.",
+   "en": "But your hair is so spiky, everyone will recognize you.",
+   "note": "뾰족하다 = spiky",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "어? 저 사람 태오 아니야?",
+   "rd": "eo? jeo saram taeo aniya?",
+   "en": "Huh? Isn't that Taeo?",
+   "note": "recognized",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "잠깐만, 이쪽으로!",
+   "rd": "jamkkanman, ijjogeuro!",
+   "en": "Wait, this way!",
+   "note": "이쪽 = this way",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "D",
+   "ko": "태오다! 사진 찍어도 돼요?",
+   "rd": "taeoda! sajin jjigeodo dwaeyo?",
+   "en": "It's Taeo! Can we take a photo?",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "헐, 사람들이 더 와.",
+   "rd": "heol, saramdeuri deo wa.",
+   "en": "Whoa, more people are coming.",
+   "note": "더 = more",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "아 몰라. 뛰어!",
+   "rd": "a molla. ttwieo!",
+   "en": "Ugh, whatever. Run!",
+   "note": "뛰다 = run",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "(헉헉) 따릉이! 따릉이 타자!",
+   "rd": "(heokeok) ttareungi! ttareungi taja!",
+   "en": "(panting) A city bike! Let's take a 따릉이!",
+   "note": "callback 따릉이 — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "나 자전거 못 타는데?",
+   "rd": "na jajeongeo mot taneunde?",
+   "en": "I can't ride a bike!",
+   "note": "Kick: chaos peak",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "그럼 뒤에 타. 내가 할게.",
+   "rd": "geureom dwie ta. naega halge.",
+   "en": "Then ride behind. I'll pedal.",
+   "note": "뒤에 타다 = ride on the back",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "…이거 드라마 같다.",
+   "rd": "…igeo deurama gatda.",
+   "en": "…This is like a drama.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "그니까. 근데 따릉이는 1인용이야.",
+   "rd": "geunikka. geunde ttareungineun 1inyongiya.",
+   "en": "Right. But a 따릉이 is for one person.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "F"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "r0_love_a10",
+ "region": "R0",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "모자 쓴 사람",
+ "emoji": "🧢",
+ "scene": "편의점. 모자·마스크 쓴 사람이 과자 앞에서 고민 중. 알고 보니 태오",
+ "speakers": {
+  "A": "{name}",
+  "B": "태오"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "쉿"
+ ],
+ "goal": "Running into the idol trainee in disguise",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "이거 맛있어요.",
+   "rd": "igeo masisseoyo.",
+   "en": "This one's good.",
+   "note": "맛있다 = tasty",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "진짜요? 감사합니다.",
+   "rd": "jinjjayo? gamsahamnida.",
+   "en": "Really? Thanks.",
+   "note": "감사합니다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "…어? 그 목소리?",
+   "rd": "…eo? geu moksori?",
+   "en": "…Huh? That voice?",
+   "note": "recognition",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "쉿. 비밀이에요.",
+   "rd": "swit. bimirieyo.",
+   "en": "Shh. It's a secret.",
+   "note": "쉿 = shh",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "헐, 태오?",
+   "rd": "heol, taeo?",
+   "en": "Whoa, Taeo?",
+   "note": "심쿵 setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "과자 먹는 거 비밀. 매니저 형한테.",
+   "rd": "gwaja meongneun geo bimil. maenijeo hyeonghante.",
+   "en": "Eating snacks is a secret. From my manager.",
+   "note": "callback: 닭가슴살",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "ㅋㅋ 알았어. 나도 하나 살게.",
+   "rd": "ㅋㅋ arasseo. nado hana salge.",
+   "en": "Lol okay. I'll buy one too.",
+   "note": "살게 = I'll buy",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "그럼 같이 먹자. 비밀 공범.",
+   "rd": "geureom gachi meokja. bimil gongbeom.",
+   "en": "Then let's eat together. Partners in crime.",
+   "note": "공범 = accomplice — 심쿵",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "F"
+}

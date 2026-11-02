@@ -1,0 +1,195 @@
+{
+ "id": "r3_love_b6",
+ "region": "R3",
+ "island": "love",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "열애설",
+ "emoji": "📰",
+ "scene": "아침 9시. 「연습생 태오, 한강 데이트 포착」 기사가 떴다. 태오에게서 전화가 온다",
+ "speakers": {
+  "A": "{name}",
+  "B": "태오"
+ },
+ "register": "mixed",
+ "twist": 10,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "괜찮아",
+  "진짜?",
+  "설마",
+  "됐어"
+ ],
+ "goal": "When a relationship becomes news",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "기사 봤어?",
+   "rd": "gisa bwasseo?",
+   "en": "Did you see the article?",
+   "note": "기사 = news article",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "응… 사진 흐리게 나와서 다행이야.",
+   "rd": "eung… sajin heurige nawaseo dahaengiya.",
+   "en": "Yeah… luckily the photo is blurry.",
+   "note": "다행 = fortunate",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "회사에서 연락 왔어. 오늘 말해야 한대.",
+   "rd": "hoesaeseo yeollak wasseo. oneul malhaeya handae.",
+   "en": "The agency called. They say I have to say something today.",
+   "note": "회사 = agency",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "설마… 헤어지라고?",
+   "rd": "seolma… heeojirago?",
+   "en": "Don't tell me… they want us to break up?",
+   "note": "설마",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "아니. 「친구」라고 하래.",
+   "rd": "ani. 「chingu」rago harae.",
+   "en": "No. They want me to say \"friend.\"",
+   "note": "친구 = friend",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…그래. 괜찮아. 데뷔했으니까.",
+   "rd": "…geurae. gwaenchana. debwihaesseunikka.",
+   "en": "…Okay. It's fine. You just debuted.",
+   "note": "이해",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "안 괜찮아.",
+   "rd": "an gwaenchana.",
+   "en": "It's not fine.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "뭐가?",
+   "rd": "mwoga?",
+   "en": "What isn't?",
+   "note": "뭐가 = what",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "친구라고 하는 거. 나 그거 못 해.",
+   "rd": "chingurago haneun geo. na geugeo mot hae.",
+   "en": "Calling you a friend. I can't do that.",
+   "note": "못 하다 = can't",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "…태오야.",
+   "rd": "…taeoya.",
+   "en": "…Taeo.",
+   "note": "심쿵 silence",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "그래서 오늘 방송에서 말할 거야. 「좋아하는 사람 있어요」.",
+   "rd": "geuraeseo oneul bangsongeseo malhal geoya. 「joahaneun saram isseoyo」.",
+   "en": "So I'll say it on the broadcast today. \"There's someone I like.\"",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "진짜? 그래도 돼?",
+   "rd": "jinjja? geuraedo dwae?",
+   "en": "Really? Is that okay?",
+   "note": "-아도 돼? = is it okay to",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 13,
+   "speaker": "B",
+   "ko": "모르겠어. 근데 거짓말은 노래가 안 돼.",
+   "rd": "moreugesseo. geunde geojinmareun noraega an dwae.",
+   "en": "I don't know. But lies don't make good songs.",
+   "note": "reasoning",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 14,
+   "speaker": "A",
+   "ko": "…그럼 나도 맨 앞줄에서 볼게.",
+   "rd": "…geureom nado maen apjureseo bolge.",
+   "en": "…Then I'll watch from the front row.",
+   "note": "support",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 15,
+   "speaker": "B",
+   "ko": "응원봉 들고?",
+   "rd": "eungwonbong deulgo?",
+   "en": "With your light stick?",
+   "note": "callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 16,
+   "speaker": "A",
+   "ko": "응. 이번엔 네 이름 크게 외칠게.",
+   "rd": "eung. ibeonen ne ireum keuge oechilge.",
+   "en": "Yeah. This time I'll shout your name loud.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "F"
+}

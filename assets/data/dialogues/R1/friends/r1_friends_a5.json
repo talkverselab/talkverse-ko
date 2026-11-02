@@ -1,0 +1,117 @@
+{
+ "id": "r1_friends_a5",
+ "region": "R1",
+ "island": "friends",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "연습실 간식",
+ "emoji": "🍙",
+ "scene": "서아와 함께 태오 연습실에 간식을 들고 갔다. 연습생 열 명이 몰려든다",
+ "speakers": {
+  "A": "{name}",
+  "B": "태오",
+  "C": "서아",
+  "D": "연습생들"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "대박",
+  "잠깐만",
+  "진짜?"
+ ],
+ "goal": "Visiting a friend's practice room",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "C",
+   "ko": "태오야! 간식 사 왔어!",
+   "rd": "taeoya! gansik sa wasseo!",
+   "en": "Taeo! We brought snacks!",
+   "note": "간식 = snacks",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "헐, 대박. 고마워!",
+   "rd": "heol, daebak. gomawo!",
+   "en": "Whoa, awesome. Thanks!",
+   "note": "대박",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "삼각김밥 다섯 개 샀어.",
+   "rd": "samgakgimbap daseot gae sasseo.",
+   "en": "I bought five triangle gimbap.",
+   "note": "삼각김밥 = triangle rice ball",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "잠깐만… 애들아! 간식!",
+   "rd": "jamkkanman… aedeura! gansik!",
+   "en": "Wait… guys! Snacks!",
+   "note": "calls others",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "D",
+   "ko": "(우르르) 와아아! 누나들 최고!",
+   "rd": "(ureureu) waaa! nunadeul choego!",
+   "en": "(stampede) Waaah! You're the best!",
+   "note": "Kick: ten trainees — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "다섯 개인데… 열 명이야.",
+   "rd": "daseot gaeinde… yeol myeongiya.",
+   "en": "There are five… and ten people.",
+   "note": "숫자",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "반씩 먹으면 돼. 연습생은 나눠 먹어.",
+   "rd": "banssik meogeumyeon dwae. yeonseupsaengeun nanwo meogeo.",
+   "en": "Half each. Trainees share.",
+   "note": "나눠 먹다 = share food",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "C",
+   "ko": "다음엔 스무 개 사 올게.",
+   "rd": "daeumen seumu gae sa olge.",
+   "en": "Next time we'll bring twenty.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "F"
+}
