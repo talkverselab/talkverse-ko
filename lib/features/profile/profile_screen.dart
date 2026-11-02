@@ -6,6 +6,7 @@ import 'package:k_universe/ui/mascot.dart';
 import 'package:k_universe/ui/spacing.dart';
 import '../../core/l10n.dart';
 import '../../core/platform.dart';
+import 'account_section.dart';
 
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({super.key});
@@ -20,6 +21,9 @@ class ProfileScreen extends StatelessWidget {
           padding: const EdgeInsets.fromLTRB(
               KSpace.lg, KSpace.md, KSpace.lg, KSpace.xxxl),
           children: [
+            _SectionLabel(label: tr('계정')),
+            const AccountSection(),
+            const SizedBox(height: KSpace.lg),
             if (isIOS)
               const _SettingRow(
                 emoji: '✈️',
