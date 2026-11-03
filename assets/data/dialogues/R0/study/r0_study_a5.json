@@ -1,0 +1,115 @@
+{
+ "id": "r0_study_a5",
+ "region": "R0",
+ "island": "study",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "study"
+ ],
+ "domain": [
+  "study"
+ ],
+ "title": "지각",
+ "emoji": "⏰",
+ "scene": "어학당 9시 수업. 9시 30분에 도착",
+ "speakers": {
+  "A": "{name}",
+  "B": "선생님",
+  "C": "마리아",
+  "D": "다른 학생"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "죄송합니다",
+  "늦었어요",
+  "네"
+ ],
+ "goal": "Being late to class",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "죄송합니다! 늦었어요.",
+   "rd": "joesonghamnida! neujeosseoyo.",
+   "en": "Sorry! I'm late.",
+   "note": "늦다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "왜 늦었어요?",
+   "rd": "wae neujeosseoyo?",
+   "en": "Why are you late?",
+   "note": "왜",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "버스가… 반대였어요.",
+   "rd": "beoseuga… bandaeyeosseoyo.",
+   "en": "The bus… went the wrong way.",
+   "note": "callback 버스 반대",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "(문 열며) 죄송합니다!",
+   "rd": "(mun yeolmyeo) joesonghamnida!",
+   "en": "(door opens) Sorry!",
+   "note": "another",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "D",
+   "ko": "저도요!",
+   "rd": "jeodoyo!",
+   "en": "Me too!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "…다 같은 버스예요?",
+   "rd": "…da gateun beoseuyeyo?",
+   "en": "…Was it all the same bus?",
+   "note": "같은",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "네. 반대 버스.",
+   "rd": "ne. bandae beoseu.",
+   "en": "Yes. The wrong-way bus.",
+   "note": "punchline 1",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "ㅋㅋ 오늘 수업은 「반대」예요.",
+   "rd": "ㅋㅋ oneul sueobeun 「bandae」yeyo.",
+   "en": "Haha, today's lesson word is \"opposite.\"",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

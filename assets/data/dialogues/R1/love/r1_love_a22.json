@@ -1,0 +1,116 @@
+{
+ "id": "r1_love_a22",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "첫 손잡기",
+ "emoji": "🤝",
+ "scene": "세 번째 데이트. 지안이 걷다가 손을 슬쩍 잡는다",
+ "speakers": {
+  "A": "{name}",
+  "B": "지안"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "괜찮아요",
+  "진짜요?",
+  "좋아요"
+ ],
+ "goal": "The first hand-hold",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "추워요.",
+   "rd": "chuwoyo.",
+   "en": "It's cold.",
+   "note": "춥다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "장갑 빌려줄까요?",
+   "rd": "janggap billyeojulkkayo?",
+   "en": "Want to borrow my gloves?",
+   "note": "장갑",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "아니요. 장갑 말고…",
+   "rd": "aniyo. janggap malgo…",
+   "en": "No. Not gloves…",
+   "note": "말고",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "네?",
+   "rd": "ne?",
+   "en": "Sorry?",
+   "note": "네",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "(손을 잡는다) 이거요.",
+   "rd": "(soneul jamneunda) igeoyo.",
+   "en": "(takes his hand) This.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…괜찮아요?",
+   "rd": "…gwaenchanayo?",
+   "en": "…Is this okay?",
+   "note": "괜찮아요",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "제가 물어봐야죠.",
+   "rd": "jega mureobwayajyo.",
+   "en": "I should be the one asking.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "좋아요. 많이.",
+   "rd": "joayo. mani.",
+   "en": "It's good. Very.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

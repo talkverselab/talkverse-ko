@@ -1,0 +1,114 @@
+{
+ "id": "r1_friends_a11",
+ "region": "R1",
+ "island": "friends",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "눈싸움",
+ "emoji": "❄️",
+ "scene": "첫눈 온 날 캠퍼스. 민준이 눈덩이를 던졌는데 지나가던 교수님이 맞았다",
+ "speakers": {
+  "A": "{name}",
+  "B": "민준",
+  "C": "교수님"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "잠깐만",
+  "죄송합니다"
+ ],
+ "goal": "A snowball fight gone wrong",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "받아라! (휙)",
+   "rd": "badara! (hwik)",
+   "en": "Take this! (whoosh)",
+   "note": "던지다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "어? 피해! …어?",
+   "rd": "eo? pihae! …eo?",
+   "en": "Huh? Dodge! …Huh?",
+   "note": "피하다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "(퍽) …누구야?",
+   "rd": "(peok) …nuguya?",
+   "en": "(thud) …Who did this?",
+   "note": "Kick: the professor",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "헐… 교수님이다.",
+   "rd": "heol… gyosunimida.",
+   "en": "Whoa… it's the professor.",
+   "note": "교수님",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "죄송합니다! 민준이가…",
+   "rd": "joesonghamnida! minjuniga…",
+   "en": "I'm sorry! Minjun…",
+   "note": "죄송",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "(눈덩이를 만들며) 둘 다 이리 와.",
+   "rd": "(nundeongireul mandeulmyeo) dul da iri wa.",
+   "en": "(making a snowball) Both of you, come here.",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "잠깐만요, 교수님?!",
+   "rd": "jamkkanmanyo, gyosunim?!",
+   "en": "Wait, Professor?!",
+   "note": "잠깐만",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "C",
+   "ko": "첫눈이잖아. 학점은 안 깎아.",
+   "rd": "cheonnunijana. hakjeomeun an kkakka.",
+   "en": "It's the first snow. I won't cut your grade.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

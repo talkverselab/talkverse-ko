@@ -1,0 +1,155 @@
+{
+ "id": "r2_travel_b4",
+ "region": "R2",
+ "island": "travel",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "travel"
+ ],
+ "domain": [
+  "travel"
+ ],
+ "title": "공항 이별",
+ "emoji": "🛫",
+ "scene": "유진이 1년 유학을 떠난다. 공항 출국장",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진"
+ },
+ "register": "casual",
+ "twist": 9,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "공항 출국장 이별",
+ "expressions": [
+  "괜찮아",
+  "보고 싶을 거야",
+  "진짜?",
+  "잘 다녀와"
+ ],
+ "goal": "A goodbye at the airport",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "이제 들어가야 돼.",
+   "rd": "ije deureogaya dwae.",
+   "en": "I have to go in now.",
+   "note": "들어가다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "응… 잘 다녀와.",
+   "rd": "eung… jal danyeowa.",
+   "en": "Yeah… have a good trip.",
+   "note": "잘 다녀와",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "울지 마.",
+   "rd": "ulji ma.",
+   "en": "Don't cry.",
+   "note": "울다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "안 울어. 눈에 뭐 들어갔어.",
+   "rd": "an ureo. nune mwo deureogasseo.",
+   "en": "I'm not crying. Something's in my eye.",
+   "note": "classic",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "1년이야. 금방 가.",
+   "rd": "1nyeoniya. geumbang ga.",
+   "en": "It's a year. It'll fly by.",
+   "note": "금방",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "365일이잖아.",
+   "rd": "365irijana.",
+   "en": "That's 365 days.",
+   "note": "숫자",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "매일 영상 통화하자. 시차 있어도.",
+   "rd": "maeil yeongsang tonghwahaja. sicha isseodo.",
+   "en": "Let's video call every day. Even with the time difference.",
+   "note": "시차",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "응. 알람 맞출게.",
+   "rd": "eung. allam matchulge.",
+   "en": "Yeah. I'll set an alarm.",
+   "note": "callback 알람",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "…그리고 이거. 비행기 타고 열어 봐.",
+   "rd": "…geurigo igeo. bihaenggi tago yeoreo bwa.",
+   "en": "…And this. Open it on the plane.",
+   "note": "심쿵 setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "이거 내가 너한테 주려던 건데.",
+   "rd": "igeo naega neohante juryeodeon geonde.",
+   "en": "I was going to give this to you.",
+   "note": "reveal",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "ㅋㅋ 똑같은 편지네. 우리 진짜 비슷하다.",
+   "rd": "ㅋㅋ ttokgateun pyeonjine. uri jinjja biseuthada.",
+   "en": "Lol it's the same letter. We're really alike.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "1년 뒤에 여기서 기다릴게.",
+   "rd": "1nyeon dwie yeogiseo gidarilge.",
+   "en": "I'll wait right here in a year.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "M"
+}

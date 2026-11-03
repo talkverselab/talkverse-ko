@@ -1,0 +1,114 @@
+{
+ "id": "r0_friends_a6",
+ "region": "R0",
+ "island": "friends",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "PC방",
+ "emoji": "🖥️",
+ "scene": "PC방. 민준이 처음 온 학습자에게 라면부터 시킨다",
+ "speakers": {
+  "A": "{name}",
+  "B": "민준",
+  "C": "직원"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "헐",
+  "좋아"
+ ],
+ "goal": "PC bang culture",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "게임 전에 라면!",
+   "rd": "geim jeone ramyeon!",
+   "en": "Ramyeon before games!",
+   "note": "라면",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "PC방에서 라면?",
+   "rd": "PCbangeseo ramyeon?",
+   "en": "Ramyeon at a PC bang?",
+   "note": "PC방",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "응. 자리에서 시켜.",
+   "rd": "eung. jarieseo sikyeo.",
+   "en": "Yeah. Order from your seat.",
+   "note": "시키다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "(쾅) 어? 국물!",
+   "rd": "(kwang) eo? gungmul!",
+   "en": "(bump) Huh? The soup!",
+   "note": "Kick: spill — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "헐, 키보드!",
+   "rd": "heol, kibodeu!",
+   "en": "Whoa, the keyboard!",
+   "note": "키보드",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "괜찮아요, 새 거 드릴게요.",
+   "rd": "gwaenchanayo, sae geo deurilgeyo.",
+   "en": "It's fine, I'll give you a new one.",
+   "note": "새 거",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "감사합니다… 라면은요?",
+   "rd": "gamsahamnida… ramyeoneunyo?",
+   "en": "Thank you… and the ramyeon?",
+   "note": "라면",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "라면도 새 거!",
+   "rd": "ramyeondo sae geo!",
+   "en": "A new ramyeon too!",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

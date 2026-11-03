@@ -1,0 +1,116 @@
+{
+ "id": "r1_love_a23",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "같은 노래",
+ "emoji": "🎵",
+ "scene": "코인노래방. 해솔이 고른 노래가 학습자가 예약한 노래와 같다",
+ "speakers": {
+  "A": "{name}",
+  "B": "해솔"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "진짜요?",
+  "같이"
+ ],
+ "goal": "Same song, same heart",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "저 이 노래 예약했어요.",
+   "rd": "jeo i norae yeyakaesseoyo.",
+   "en": "I reserved this song.",
+   "note": "예약",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "헐, 저도 그 노래 예약했는데요.",
+   "rd": "heol, jeodo geu norae yeyakaenneundeyo.",
+   "en": "Whoa, I reserved the same song.",
+   "note": "저도",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "진짜요? 그럼 같이 불러요.",
+   "rd": "jinjjayo? geureom gachi bulleoyo.",
+   "en": "Really? Then let's sing together.",
+   "note": "같이",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "듀엣 노래 아닌데요?",
+   "rd": "dyuet norae anindeyo?",
+   "en": "It's not a duet song, though?",
+   "note": "듀엣",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "지금부터 듀엣이에요.",
+   "rd": "jigeumbuteo dyuesieyo.",
+   "en": "From now on it's a duet.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…가사가 「너밖에 없어」인데.",
+   "rd": "…gasaga 「neobakke eopseo」inde.",
+   "en": "…The lyrics are \"you're the only one.\"",
+   "note": "가사",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "알아요. 그래서 골랐어요.",
+   "rd": "arayo. geuraeseo gollasseoyo.",
+   "en": "I know. That's why I picked it.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…두 번 불러요.",
+   "rd": "…du beon bulleoyo.",
+   "en": "…Let's sing it twice.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

@@ -37,7 +37,8 @@
    "en": "Where ya headed?",
    "note": "Busan dialect: 어디 가니?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_travel_a4/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "I said where are you going. Going to Haeundae?",
    "note": "repeat",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_travel_a4/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "Hey, just go straight.",
    "note": "마 = hey (Busan)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_travel_a4/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "It’s like “ya”. A friendly way to call someone.",
    "note": "친하다 = be close",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_travel_a4/cut4"
   },
   {
    "num": 8,

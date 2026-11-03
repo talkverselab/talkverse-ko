@@ -39,7 +39,8 @@
    "en": "(beep) Insufficient balance.",
    "note": "잔액 = balance",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s4/cut1"
   },
   {
    "num": 2,
@@ -54,19 +55,20 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "현금 있어요?",
-   "rd": "hyeongeum isseoyo?",
+   "ko": "현금 있으세요?",
+   "rd": "hyeongeum isseuseyo?",
    "en": "Do you have cash?",
    "note": "현금 = cash",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s4/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "(뒤에서) 빨리요!",
-   "rd": "(dwieseo) ppalliyo!",
-   "en": "(from behind) Hurry!",
+   "ko": "(뒤에서) 빨리 좀 해요!",
+   "rd": "(dwieseo) ppalli jom haeyo!",
+   "en": "(from behind) Hurry up a bit!",
    "note": "Kick: line behind — chaos",
    "tags": [],
    "new": []
@@ -74,18 +76,19 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "죄송합니다! 카드가…",
-   "rd": "joesonghamnida! kadeuga…",
-   "en": "Sorry! My card…",
+   "ko": "죄송합니다! 카드가 안 돼요…",
+   "rd": "joesonghamnida! kadeuga an dwaeyo…",
+   "en": "Sorry! The card doesn't work…",
    "note": "죄송합니다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s4/cut3"
   },
   {
    "num": 6,
    "speaker": "D",
-   "ko": "제가 찍어 줄게요.",
-   "rd": "jega jjigeo julgeyo.",
+   "ko": "제가 찍어 드릴게요.",
+   "rd": "jega jjigeo deurilgeyo.",
    "en": "I'll tap for you.",
    "note": "찍다 = tap",
    "tags": [],
@@ -94,22 +97,27 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "진짜요? 감사합니다!",
-   "rd": "jinjjayo? gamsahamnida!",
-   "en": "Really? Thank you!",
+   "ko": "감사합니다!",
+   "rd": "gamsahamnida!",
+   "en": "Thank you!",
    "note": "감사합니다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s4/cut4"
   },
   {
    "num": 8,
    "speaker": "D",
-   "ko": "다음에 커피 사요.",
-   "rd": "daeume keopi sayo.",
+   "ko": "다음에 커피 사 주세요.",
+   "rd": "daeume keopi sa juseyo.",
    "en": "Buy me a coffee next time.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_survival_s4_grok_rewrite.md [K210]",
+  "final": ""
+ }
 }

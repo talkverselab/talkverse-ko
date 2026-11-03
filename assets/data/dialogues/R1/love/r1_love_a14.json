@@ -34,19 +34,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "이 파트 같이 해 줘. 상대 역할.",
-   "rd": "i pateu gachi hae jwo. sangdae yeokal.",
-   "en": "Do this part with me. As my partner.",
+   "ko": "이 안무 같이 해. 상대 해 줘.",
+   "rd": "i anmu gachi hae. sangdae hae jwo.",
+   "en": "Do this choreo with me. Be my partner.",
    "note": "역할 = role",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a14/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "나 춤 못 춰. 진짜로.",
-   "rd": "na chum mot chwo. jinjjaro.",
-   "en": "I can't dance. Seriously.",
+   "ko": "나 춤 진짜 못 춰.",
+   "rd": "na chum jinjja mot chwo.",
+   "en": "I really can't dance.",
    "note": "진짜로",
    "tags": [],
    "new": []
@@ -54,19 +55,20 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "괜찮아. 내 손만 잡아.",
-   "rd": "gwaenchana. nae sonman jaba.",
+   "ko": "괜찮아. 손만 잡아.",
+   "rd": "gwaenchana. sonman jaba.",
    "en": "It's fine. Just hold my hand.",
    "note": "손",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a14/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "(빙글) 어어— 잠깐만!",
-   "rd": "(binggeul) eoeo— jamkkanman!",
-   "en": "(spin) Whoa— wait!",
+   "ko": "(빙글빙글) 헐 잠깐만!",
+   "rd": "(binggeulbinggeul) heol jamkkanman!",
+   "en": "(spinning) Whoa, wait!",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -74,19 +76,20 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "(쾅) 거울! 거울!",
-   "rd": "(kwang) geoul! geoul!",
-   "en": "(crash) The mirror! The mirror!",
+   "ko": "(쾅) 거울 깨졌어! 거울!",
+   "rd": "(kwang) geoul kkaejyeosseo! geoul!",
+   "en": "(crash) The mirror broke! The mirror!",
    "note": "chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a14/cut3"
   },
   {
    "num": 6,
    "speaker": "B",
-   "ko": "괜찮아? 다친 데 없어?",
-   "rd": "gwaenchana? dachin de eopseo?",
-   "en": "You okay? Hurt anywhere?",
+   "ko": "괜찮아? 어디 다쳤어?",
+   "rd": "gwaenchana? eodi dachyeosseo?",
+   "en": "You okay? Where does it hurt?",
    "note": "다치다 = get hurt",
    "tags": [],
    "new": []
@@ -94,23 +97,28 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "응… 근데 거울이 200만 원이라며.",
-   "rd": "eung… geunde geouri 200man woniramyeo.",
-   "en": "Yeah… but you said the mirror is two million won.",
+   "ko": "응… 근데 거울 200만 원이라며. 진짜?",
+   "rd": "eung… geunde geoul 200man woniramyeo. jinjja?",
+   "en": "Yeah… but the mirror's 2 million, really?",
    "note": "callback",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a14/cut4"
   },
   {
    "num": 8,
    "speaker": "B",
    "ko": "아 몰라. 너만 괜찮으면 돼.",
    "rd": "a molla. neoman gwaenchaneumyeon dwae.",
-   "en": "Ugh, whatever. As long as you're okay.",
+   "en": "Whatever. As long as you're okay.",
    "note": "punchline 심쿵",
    "tags": [],
    "new": []
   }
  ],
- "learner_gender": "F"
+ "learner_gender": "F",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a14_grok_rewrite.md [K218]",
+  "final": ""
+ }
 }

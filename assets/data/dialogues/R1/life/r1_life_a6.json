@@ -1,0 +1,114 @@
+{
+ "id": "r1_life_a6",
+ "region": "R1",
+ "island": "life",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "집들이",
+ "emoji": "🏠",
+ "scene": "학습자 원룸 집들이. 다들 휴지와 세제를 들고 왔다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "reveal",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "고마워",
+  "진짜?",
+  "헐"
+ ],
+ "goal": "Housewarming gifts",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "집들이 선물! 휴지!",
+   "rd": "jipdeuri seonmul! hyuji!",
+   "en": "Housewarming gift! Toilet paper!",
+   "note": "휴지",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "C",
+   "ko": "나는 세제!",
+   "rd": "naneun seje!",
+   "en": "Detergent from me!",
+   "note": "세제",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "고마워! 근데 왜 다 휴지랑 세제야?",
+   "rd": "gomawo! geunde wae da hyujirang sejeya?",
+   "en": "Thanks! But why is it all toilet paper and detergent?",
+   "note": "왜",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "한국 집들이 국룰이야.",
+   "rd": "hanguk jipdeuri gungnuriya.",
+   "en": "It's the Korean housewarming rule.",
+   "note": "국룰",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "진짜? 무슨 뜻이 있어?",
+   "rd": "jinjja? museun tteusi isseo?",
+   "en": "Really? Is there a meaning?",
+   "note": "뜻",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "휴지처럼 잘 풀리고, 거품처럼 돈 불어나라고.",
+   "rd": "hyujicheoreom jal pulligo, geopumcheoreom don bureonarago.",
+   "en": "Things unroll smoothly like tissue, money grows like bubbles.",
+   "note": "meaning",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "헐, 멋있다. 그럼 나 부자 되겠네.",
+   "rd": "heol, meositda. geureom na buja doegenne.",
+   "en": "Whoa, nice. Then I'll get rich.",
+   "note": "부자",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "그전에 휴지 30롤 어디 둬?",
+   "rd": "geujeone hyuji 30rol eodi dwo?",
+   "en": "First, where will you put 30 rolls?",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

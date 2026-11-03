@@ -1,0 +1,114 @@
+{
+ "id": "r0_life_a9",
+ "region": "R0",
+ "island": "life",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "택배 왔어요",
+ "emoji": "📦",
+ "scene": "문 앞에 상자가 열 개. 학습자는 하나만 샀다",
+ "speakers": {
+  "A": "{name}",
+  "B": "택배 기사님",
+  "C": "엄마"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "네?",
+  "헐",
+  "감사합니다"
+ ],
+ "goal": "Surprise deliveries",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "택배 왔어요!",
+   "rd": "taekbae wasseoyo!",
+   "en": "Delivery!",
+   "note": "택배",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "감사합니다!",
+   "rd": "gamsahamnida!",
+   "en": "Thank you!",
+   "note": "감사합니다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "여기 사인요.",
+   "rd": "yeogi sainyo.",
+   "en": "Sign here.",
+   "note": "사인",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "…상자가 열 개예요?",
+   "rd": "…sangjaga yeol gaeyeyo?",
+   "en": "…Ten boxes?",
+   "note": "Kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "네. {name} 씨 거요.",
+   "rd": "ne. {name} ssi geoyo.",
+   "en": "Yes. They're yours, {name}.",
+   "note": "이름",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "저 하나만 샀어요!",
+   "rd": "jeo hanaman sasseoyo!",
+   "en": "I only bought one!",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "(전화) 아들, 엄마가 보냈어!",
+   "rd": "(jeonhwa) adeul, eommaga bonaesseo!",
+   "en": "(phone) Son, Mom sent them!",
+   "note": "Kick: mom",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…김치 열 통?",
+   "rd": "…gimchi yeol tong?",
+   "en": "…Ten tubs of kimchi?",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

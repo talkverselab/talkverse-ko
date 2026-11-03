@@ -1,0 +1,115 @@
+{
+ "id": "r1_love_a21",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "길 막아서기",
+ "emoji": "🚧",
+ "scene": "골목길. 태오가 학습자 앞을 팔로 막는다 — 드라마 「벽치기」인 줄 알았는데",
+ "speakers": {
+  "A": "{name}",
+  "B": "태오",
+  "C": "자전거 탄 사람"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "벽치기",
+ "expressions": [
+  "잠깐만",
+  "헐",
+  "진짜?"
+ ],
+ "goal": "The K-drama \"wall pin,\" gone wrong",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "잠깐만. 가지 마.",
+   "rd": "jamkkanman. gaji ma.",
+   "en": "Wait. Don't go.",
+   "note": "가지 마",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "…이거 드라마 그 장면이야?",
+   "rd": "…igeo deurama geu jangmyeoniya?",
+   "en": "…Is this that drama scene?",
+   "note": "드라마",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "아니. 앞에 똥 있어.",
+   "rd": "ani. ape ttong isseo.",
+   "en": "No. There's poop ahead.",
+   "note": "Kick: reality",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "헐… 고마워.",
+   "rd": "heol… gomawo.",
+   "en": "Whoa… thanks.",
+   "note": "고마워",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "근데 이왕 막은 김에…",
+   "rd": "geunde iwang mageun gime…",
+   "en": "But since I'm already blocking you…",
+   "note": "심쿵 setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "(자전거) 비켜요!!",
+   "rd": "(jajeongeo) bikyeoyo!!",
+   "en": "(bicycle) Move!!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "(둘 다 벽에 붙는다) …",
+   "rd": "(dul da byeoge bunneunda) …",
+   "en": "(both press against the wall) …",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "…이제 진짜 그 장면 됐다.",
+   "rd": "…ije jinjja geu jangmyeon dwaetda.",
+   "en": "…Now it really became that scene.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "F"
+}

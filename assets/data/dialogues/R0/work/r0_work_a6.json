@@ -1,0 +1,116 @@
+{
+ "id": "r0_work_a6",
+ "region": "R0",
+ "island": "work",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "work"
+ ],
+ "domain": [
+  "work"
+ ],
+ "title": "첫 월급",
+ "emoji": "💸",
+ "scene": "첫 월급날. 해솔이 축하해 준다",
+ "speakers": {
+  "A": "{name}",
+  "B": "해솔"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "축하해요",
+  "진짜요?",
+  "감사합니다"
+ ],
+ "goal": "First paycheck",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "오늘 첫 월급이죠? 축하해요!",
+   "rd": "oneul cheot wolgeubijyo? chukahaeyo!",
+   "en": "Your first paycheck today? Congrats!",
+   "note": "월급",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "감사합니다! 엄마 선물 사려고요.",
+   "rd": "gamsahamnida! eomma seonmul saryeogoyo.",
+   "en": "Thanks! I'm buying my mom a gift.",
+   "note": "선물",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "착하다. 저는요?",
+   "rd": "chakada. jeoneunyo?",
+   "en": "So sweet. And me?",
+   "note": "착하다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "네?",
+   "rd": "ne?",
+   "en": "Sorry?",
+   "note": "네",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "농담이에요. 대신 저녁 같이 먹어요.",
+   "rd": "nongdamieyo. daesin jeonyeok gachi meogeoyo.",
+   "en": "Just kidding. Have dinner with me instead.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "진짜요? 제가 살게요!",
+   "rd": "jinjjayo? jega salgeyo!",
+   "en": "Really? I'll pay!",
+   "note": "살게요",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "아니요. 오늘은 제가요.",
+   "rd": "aniyo. oneureun jegayo.",
+   "en": "No. Today it's on me.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…월급날인데요?",
+   "rd": "…wolgeumnarindeyo?",
+   "en": "…But it's my payday?",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

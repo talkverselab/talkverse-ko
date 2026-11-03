@@ -1,0 +1,131 @@
+{
+ "id": "r1_friends_c4",
+ "region": "R1",
+ "island": "friends",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "짤 보내기",
+ "emoji": "🖼️",
+ "scene": "단톡방. 민준이 학습자의 웃긴 사진을 짤로 만들었다",
+ "speakers": {
+  "A": "{name}",
+  "B": "민준",
+  "C": "서아",
+  "D": "학과 사람"
+ },
+ "register": "chat",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "헐",
+  "아 몰라"
+ ],
+ "goal": "Meme chaos in a group chat",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "[짤] ㅋㅋㅋㅋ",
+   "rd": "[jjal] ㅋㅋㅋㅋ",
+   "en": "[meme] lolololol",
+   "note": "짤",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "20:00"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "헐 그거 나야??",
+   "rd": "heol geugeo naya??",
+   "en": "Whoa is that me??",
+   "note": "나",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "20:00"
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "ㅋㅋㅋ 표정 미쳤다",
+   "rd": "ㅋㅋㅋ pyojeong michyeotda",
+   "en": "Lol your face is insane",
+   "note": "표정",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "20:01"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "지워!! 당장!!",
+   "rd": "jiwo!! dangjang!!",
+   "en": "Delete it!! Now!!",
+   "note": "지우다",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "20:01"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "이미 학과 단톡에 올렸어",
+   "rd": "imi hakgwa dantoge ollyeosseo",
+   "en": "Already posted it in the department chat",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "20:02"
+  },
+  {
+   "num": 6,
+   "speaker": "D",
+   "ko": "(학과 단톡) ㅋㅋㅋ 이거 누구예요?",
+   "rd": "(hakgwa dantok) ㅋㅋㅋ igeo nuguyeyo?",
+   "en": "(dept chat) Lolol who is this?",
+   "note": "spreading",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "20:02"
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "아 몰라 나 학교 안 가",
+   "rd": "a molla na hakgyo an ga",
+   "en": "Ugh, I'm not going to school",
+   "note": "결심",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "20:03"
+  },
+  {
+   "num": 8,
+   "speaker": "C",
+   "ko": "근데 좋아요 200개 ㅋㅋ",
+   "rd": "geunde joayo 200gae ㅋㅋ",
+   "en": "But it has 200 likes lol",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "20:03"
+  }
+ ]
+}

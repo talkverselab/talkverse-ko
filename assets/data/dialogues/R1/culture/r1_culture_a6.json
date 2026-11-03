@@ -1,0 +1,114 @@
+{
+ "id": "r1_culture_a6",
+ "region": "R1",
+ "island": "culture",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "추석 송편",
+ "emoji": "🌕",
+ "scene": "서아네 추석. 송편을 빚는데 학습자 송편만 이상하다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "서아 할머니"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "예쁘다"
+ ],
+ "goal": "Making songpyeon at Chuseok",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "이렇게 반달 모양으로.",
+   "rd": "ireoke bandal moyangeuro.",
+   "en": "Like this, a half-moon shape.",
+   "note": "반달",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "반달… 이렇게?",
+   "rd": "bandal… ireoke?",
+   "en": "Half-moon… like this?",
+   "note": "이렇게",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "어머, 그건 별이네.",
+   "rd": "eomeo, geugeon byeorine.",
+   "en": "Oh my, that's a star.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "다시! …이건?",
+   "rd": "dasi! …igeon?",
+   "en": "Again! …This one?",
+   "note": "다시",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "ㅋㅋ 그건 하트야.",
+   "rd": "ㅋㅋ geugeon hateuya.",
+   "en": "Lol that's a heart.",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "예쁜 송편 빚으면 예쁜 딸 낳는대.",
+   "rd": "yeppeun songpyeon bijeumyeon yeppeun ttal nanneundae.",
+   "en": "They say pretty songpyeon means a pretty daughter.",
+   "note": "tradition",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "그럼 저는 별이랑 하트를 낳아요?",
+   "rd": "geureom jeoneun byeorirang hateureul naayo?",
+   "en": "Then will I have a star and a heart?",
+   "note": "Kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "C",
+   "ko": "ㅋㅋ 그것도 좋다. 많이 빚어.",
+   "rd": "ㅋㅋ geugeotdo jota. mani bijeo.",
+   "en": "Haha, that's nice too. Make lots.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

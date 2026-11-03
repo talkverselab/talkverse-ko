@@ -1,0 +1,115 @@
+{
+ "id": "r0_survival_s6",
+ "region": "R0",
+ "island": "survival",
+ "kind": "survival",
+ "draft": true,
+ "purpose": [
+  "survival"
+ ],
+ "domain": [
+  "survival"
+ ],
+ "title": "얼마예요?",
+ "emoji": "💰",
+ "scene": "시장. 가격을 물었는데 숫자가 너무 빠르다",
+ "speakers": {
+  "A": "{name}",
+  "B": "상인",
+  "C": "옆 상인",
+  "D": "다른 손님"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "얼마예요?",
+  "천천히",
+  "감사합니다"
+ ],
+ "goal": "Numbers at the market",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "이거 얼마예요?",
+   "rd": "igeo eolmayeyo?",
+   "en": "How much is this?",
+   "note": "얼마예요?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "만 이천 오백 원!",
+   "rd": "man icheon obaek won!",
+   "en": "Twelve thousand five hundred!",
+   "note": "숫자",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "천천히요…",
+   "rd": "cheoncheonhiyo…",
+   "en": "Slowly please…",
+   "note": "천천히",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "만! 이천! 오백!",
+   "rd": "man! icheon! obaek!",
+   "en": "Ten thousand! Two thousand! Five hundred!",
+   "note": "숫자",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "…만 이천 오백 원?",
+   "rd": "…man icheon obaek won?",
+   "en": "…12,500 won?",
+   "note": "Kick: he got it",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "어머, 잘하네! 하나 더 줄게.",
+   "rd": "eomeo, jalhane! hana deo julge.",
+   "en": "Oh my, well done! I'll give you one more.",
+   "note": "덤",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "D",
+   "ko": "나도 한국어 잘해요! 깎아 줘요!",
+   "rd": "nado hangugeo jalhaeyo! kkakka jwoyo!",
+   "en": "I speak Korean well too! Discount!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "…오늘은 한국어 할인 끝!",
+   "rd": "…oneureun hangugeo harin kkeut!",
+   "en": "…Korean-language discount is over today!",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

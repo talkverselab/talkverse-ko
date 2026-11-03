@@ -1,0 +1,114 @@
+{
+ "id": "r1_friends_a9",
+ "region": "R1",
+ "island": "friends",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "계모임",
+ "emoji": "💰",
+ "scene": "서아·민준과 매달 만 원씩 모으는 계모임. 1년째",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "헐",
+  "그니까"
+ ],
+ "goal": "A friends' savings club",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "계모임 돈 1년 모았어. 36만 원!",
+   "rd": "gyemoim don 1nyeon moasseo. 36man won!",
+   "en": "We saved for a year. 360,000 won!",
+   "note": "계모임",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "C",
+   "ko": "여행 가자! 제주도!",
+   "rd": "yeohaeng gaja! jejudo!",
+   "en": "Let's travel! Jeju!",
+   "note": "여행",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "좋아! 근데 36만 원으로 셋이?",
+   "rd": "joa! geunde 36man woneuro sesi?",
+   "en": "Great! But three of us with 360,000?",
+   "note": "셋",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "…비행기만 가능해.",
+   "rd": "…bihaenggiman ganeunghae.",
+   "en": "…Just enough for flights.",
+   "note": "Kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "그럼 잠은?",
+   "rd": "geureom jameun?",
+   "en": "Then where do we sleep?",
+   "note": "잠",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "민준이 집. 부산.",
+   "rd": "minjuni jip. busan.",
+   "en": "Minjun's place. Busan.",
+   "note": "Kick: chaos plan",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "우리 집 제주도 아니고 부산인데?",
+   "rd": "uri jip jejudo anigo busaninde?",
+   "en": "My home's in Busan, not Jeju?",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "그니까. 그냥 부산 가자.",
+   "rd": "geunikka. geunyang busan gaja.",
+   "en": "Right. Let's just go to Busan.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

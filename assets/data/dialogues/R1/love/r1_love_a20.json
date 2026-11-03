@@ -1,0 +1,116 @@
+{
+ "id": "r1_love_a20",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "과외 선생님",
+ "emoji": "📝",
+ "scene": "하늘이 학습자에게 한국어 과외를 해 준다. 오늘 단어는 「설레다」",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "설레다",
+  "진짜?",
+  "알겠어"
+ ],
+ "goal": "A tutoring session that turns personal",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "오늘 단어. 「설레다」.",
+   "rd": "oneul daneo. 「seolleda」.",
+   "en": "Today's word: \"설레다\" (to flutter).",
+   "note": "설레다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "무슨 뜻이야?",
+   "rd": "museun tteusiya?",
+   "en": "What does it mean?",
+   "note": "뜻",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "좋아하는 사람 볼 때 느낌.",
+   "rd": "joahaneun saram bol ttae neukkim.",
+   "en": "The feeling when you see someone you like.",
+   "note": "느낌",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "예문 만들어 볼게. 「나는 지금 설레요.」",
+   "rd": "yemun mandeureo bolge. 「naneun jigeum seolleyo.」",
+   "en": "Let me make an example. \"I'm fluttering right now.\"",
+   "note": "예문",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "…왜 지금이야?",
+   "rd": "…wae jigeumiya?",
+   "en": "…Why right now?",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "선생님 보고 있어서.",
+   "rd": "seonsaengnim bogo isseoseo.",
+   "en": "Because I'm looking at my teacher.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "…그건 숙제 아니야.",
+   "rd": "…geugeon sukje aniya.",
+   "en": "…That's not homework.",
+   "note": "flustered",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "그럼 시험에 내 줘.",
+   "rd": "geureom siheome nae jwo.",
+   "en": "Then put it on the test.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

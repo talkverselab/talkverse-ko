@@ -1,0 +1,157 @@
+{
+ "id": "r2_love_b10",
+ "region": "R2",
+ "island": "love",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "계약 연애",
+ "emoji": "📄",
+ "scene": "하늘이 「석 달만 연인인 척해 줘」라고 한다 — 드라마 클리셰 「계약 연애」",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘"
+ },
+ "register": "casual",
+ "twist": 9,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "계약 연애",
+ "expressions": [
+  "진짜?",
+  "그니까",
+  "설마",
+  "됐어"
+ ],
+ "goal": "A fake-dating contract",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "부탁이 있어. 석 달만 내 남자친구인 척해 줘.",
+   "rd": "butagi isseo. seok dalman nae namjachinguin cheokae jwo.",
+   "en": "I have a favor. Pretend to be my boyfriend for three months.",
+   "note": "척하다 = pretend",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "…드라마 찍어?",
+   "rd": "…deurama jjigeo?",
+   "en": "…Are we filming a drama?",
+   "note": "드라마",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "엄마가 소개팅을 계속 잡아. 남자친구 있다고 하면 끝나.",
+   "rd": "eommaga sogaetingeul gyesok jaba. namjachingu itdago hamyeon kkeunna.",
+   "en": "My mom keeps setting up blind dates. If I say I have a boyfriend, it'll stop.",
+   "note": "소개팅",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "설마 계약서도 있어?",
+   "rd": "seolma gyeyakseodo isseo?",
+   "en": "Don't tell me there's a contract too?",
+   "note": "설마",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "응. (종이) 조건 1: 손잡기 가능. 조건 2: 진짜로 좋아하기 금지.",
+   "rd": "eung. (jongi) jogeon 1: sonjapgi ganeung. jogeon 2: jinjjaro joahagi geumji.",
+   "en": "Yep. (paper) Condition 1: hand-holding allowed. Condition 2: no really falling for each other.",
+   "note": "조건",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "조건 2가 제일 어렵겠는데.",
+   "rd": "jogeon 2ga jeil eoryeopgenneunde.",
+   "en": "Condition 2 sounds the hardest.",
+   "note": "어렵다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "왜?",
+   "rd": "wae?",
+   "en": "Why?",
+   "note": "왜",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…그냥.",
+   "rd": "…geunyang.",
+   "en": "…Just because.",
+   "note": "심쿵 setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "(작게) 사실 그 조건, 나도 벌써 어겼어.",
+   "rd": "(jakge) sasil geu jogeon, nado beolsseo eogyeosseo.",
+   "en": "(quietly) Actually, I already broke that condition.",
+   "note": "심쿵 kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "…그럼 계약 취소?",
+   "rd": "…geureom gyeyak chwiso?",
+   "en": "…Then is the contract canceled?",
+   "note": "취소",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "아니. 계약서 다시 쓰자. 기간 없이.",
+   "rd": "ani. gyeyakseo dasi sseuja. gigan eopsi.",
+   "en": "No. Let's rewrite it. No end date.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "그니까, 진짜 연애네.",
+   "rd": "geunikka, jinjja yeonaene.",
+   "en": "So, it's a real relationship.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

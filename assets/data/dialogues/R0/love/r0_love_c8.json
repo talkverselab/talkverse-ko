@@ -1,0 +1,130 @@
+{
+ "id": "r0_love_c8",
+ "region": "R0",
+ "island": "love",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "잘못 보낸 하트",
+ "emoji": "💗",
+ "scene": "태오가 실수로 학습자에게 하트를 보냈다. …실수일까",
+ "speakers": {
+  "A": "{name}",
+  "B": "태오"
+ },
+ "register": "chat",
+ "twist": 4,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "헐",
+  "진짜?"
+ ],
+ "goal": "A \"mistaken\" heart",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "❤️",
+   "rd": "❤️",
+   "en": "❤️",
+   "note": "heart",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:50"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "어? 이거 나한테?",
+   "rd": "eo? igeo nahante?",
+   "en": "Huh? Is this for me?",
+   "note": "나한테",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:51"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "아 실수!",
+   "rd": "a silsu!",
+   "en": "Oops, mistake!",
+   "note": "실수",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:51"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "ㅋㅋ 그래?",
+   "rd": "ㅋㅋ geurae?",
+   "en": "Lol really?",
+   "note": "그래?",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:51"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "…아니. 실수 아니야.",
+   "rd": "…ani. silsu aniya.",
+   "en": "…No. Not a mistake.",
+   "note": "심쿵",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:52"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "헐.",
+   "rd": "heol.",
+   "en": "Whoa.",
+   "note": "헐",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:52"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "자. 내일 말할게.",
+   "rd": "ja. naeil malhalge.",
+   "en": "Sleep. I'll tell you tomorrow.",
+   "note": "내일",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:53"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "지금 말해 줘!",
+   "rd": "jigeum malhae jwo!",
+   "en": "Tell me now!",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:53"
+  }
+ ],
+ "learner_gender": "F"
+}

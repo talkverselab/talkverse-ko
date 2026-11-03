@@ -33,19 +33,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "저기, 할 말 있어.",
-   "rd": "jeogi, hal mal isseo.",
+   "ko": "야 할 말 있어.",
+   "rd": "ya hal mal isseo.",
    "en": "Hey, I have something to say.",
    "note": "할 말",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a15/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
    "ko": "뭔데? 라면 불어.",
    "rd": "mwonde? ramyeon bureo.",
-   "en": "What? Your noodles are getting soggy.",
+   "en": "What? Noodles are getting soggy.",
    "note": "붇다 = get soggy",
    "tags": [],
    "new": []
@@ -58,14 +59,15 @@
    "en": "I like you.",
    "note": "좋아해",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a15/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "…지금? 여기서?",
-   "rd": "…jigeum? yeogiseo?",
-   "en": "…Now? Here?",
+   "ko": "…진짜? 지금 여기서?",
+   "rd": "…jinjja? jigeum yeogiseo?",
+   "en": "…Really? Now, here?",
    "note": "여기서",
    "tags": [],
    "new": []
@@ -73,19 +75,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "응. 컵라면 먹을 때 제일 편해 보여서.",
-   "rd": "eung. keomnamyeon meogeul ttae jeil pyeonhae boyeoseo.",
-   "en": "Yeah. You look the most relaxed when eating cup noodles.",
+   "ko": "응. 컵라면 먹을 때 제일 예뻐 보여서.",
+   "rd": "eung. keomnamyeon meogeul ttae jeil yeppeo boyeoseo.",
+   "en": "Yeah. You look the prettiest when eating cup noodles.",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a15/cut3"
   },
   {
    "num": 6,
    "speaker": "C",
-   "ko": "(직원) 봉투 필요하세요?",
-   "rd": "(jigwon) bongtu piryohaseyo?",
-   "en": "(clerk) Need a bag?",
+   "ko": "봉투 필요하세요?",
+   "rd": "bongtu piryohaseyo?",
+   "en": "Need a bag?",
    "note": "Kick: timing",
    "tags": [],
    "new": []
@@ -93,19 +96,20 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "…아니요. 대답은 필요해요.",
-   "rd": "…aniyo. daedabeun piryohaeyo.",
-   "en": "…No. But I need an answer.",
+   "ko": "…아니요. 헐 대답은 필요해요.",
+   "rd": "…aniyo. heol daedabeun piryohaeyo.",
+   "en": "…No. Whoa, but I need an answer.",
    "note": "pun",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a15/cut4"
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "ㅋㅋ 그니까 대답해.",
-   "rd": "ㅋㅋ geunikka daedapae.",
-   "en": "Lol exactly, so answer me.",
+   "ko": "ㅋㅋ 그니까 빨리 대답해.",
+   "rd": "ㅋㅋ geunikka ppalli daedapae.",
+   "en": "Lol exactly, so answer quickly.",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -113,5 +117,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a15_grok_rewrite.md [K219]",
+  "final": ""
+ }
 }

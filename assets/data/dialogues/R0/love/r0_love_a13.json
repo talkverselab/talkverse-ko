@@ -37,7 +37,8 @@
    "en": "Excuse me, did you come alone?",
    "note": "혼자 = alone",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a13/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "I’m alone too. Want to ride together?",
    "note": "타다 = ride",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a13/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "Actually… I didn’t invite anyone on purpose.",
    "note": "심쿵: she came alone on purpose",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a13/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "I saw you in the line… from earlier.",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a13/cut4"
   },
   {
    "num": 8,

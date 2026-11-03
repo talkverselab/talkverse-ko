@@ -33,21 +33,22 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "[사진] 우리 어제 사진! 보정했어 😊",
-   "rd": "[sajin] uri eoje sajin! bojeonghaesseo 😊",
-   "en": "[photo] Our photo from yesterday! I edited it 😊",
+   "ko": "[사진] 어제 우리 사진 보정했어!",
+   "rd": "[sajin] eoje uri sajin bojeonghaesseo!",
+   "en": "[photo] Edited our photo from yesterday!",
    "note": "보정 = photo editing",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "10:00"
+   "at": "10:00",
+   "art": "scene/ko/r1_love_c10/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "헐 너 완전 예쁘다",
-   "rd": "heol neo wanjeon yeppeuda",
-   "en": "Whoa you look so pretty",
+   "ko": "헐 너 진짜 예쁘다",
+   "rd": "heol neo jinjja yeppeuda",
+   "en": "Whoa, you look really pretty",
    "note": "예쁘다",
    "tags": [],
    "new": [],
@@ -57,21 +58,22 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "근데… 나 얼굴이 왜 이래?",
-   "rd": "geunde… na eolguri wae irae?",
-   "en": "But… what happened to my face?",
+   "ko": "근데 뭐야… 내 얼굴 왜 이래?",
+   "rd": "geunde mwoya… nae eolgul wae irae?",
+   "en": "But what… why does my face look like this?",
    "note": "왜 이래",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "10:01"
+   "at": "10:01",
+   "art": "scene/ko/r1_love_c10/cut2"
   },
   {
    "num": 4,
    "speaker": "B",
-   "ko": "ㅋㅋㅋ 필터가 너한테만 고양이 귀 붙였어",
-   "rd": "ㅋㅋㅋ pilteoga neohanteman goyangi gwi butyeosseo",
-   "en": "Lolol the filter put cat ears only on you",
+   "ko": "ㅋㅋㅋ 필터가 너한테만 고양이 귀랑 눈 세 개 붙였어",
+   "rd": "ㅋㅋㅋ pilteoga neohanteman goyangi gwirang nun se gae butyeosseo",
+   "en": "Lolol the filter put cat ears and three eyes only on you",
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
@@ -81,21 +83,22 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "…눈도 세 개야",
-   "rd": "…nundo se gaeya",
-   "en": "…I have three eyes too",
+   "ko": "…진짜 눈도 세 개야",
+   "rd": "…jinjja nundo se gaeya",
+   "en": "…Really three eyes too",
    "note": "chaos",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "10:02"
+   "at": "10:02",
+   "art": "scene/ko/r1_love_c10/cut3"
   },
   {
    "num": 6,
    "speaker": "B",
-   "ko": "그건 실수 ㅋㅋㅋㅋ",
-   "rd": "geugeon silsu ㅋㅋㅋㅋ",
-   "en": "That one's a mistake lololol",
+   "ko": "그건 실수 ㅋㅋ",
+   "rd": "geugeon silsu ㅋㅋ",
+   "en": "That one's a mistake lol",
    "note": "실수",
    "tags": [],
    "new": [],
@@ -112,14 +115,15 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "10:03"
+   "at": "10:03",
+   "art": "scene/ko/r1_love_c10/cut4"
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "…응. 벌써 좋아요 30개",
-   "rd": "…eung. beolsseo joayo 30gae",
-   "en": "…Yep. Already 30 likes",
+   "ko": "…응. 벌써 좋아요 50개 넘어",
+   "rd": "…eung. beolsseo joayo 50gae neomeo",
+   "en": "…Yep. Already over 50 likes",
    "note": "punchline",
    "tags": [],
    "new": [],
@@ -127,5 +131,9 @@
    "at": "10:04"
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_c10_grok_rewrite.md [K220]",
+  "final": ""
+ }
 }

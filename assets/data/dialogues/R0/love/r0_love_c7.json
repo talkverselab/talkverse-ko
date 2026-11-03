@@ -32,21 +32,22 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "잘 들어갔어?",
-   "rd": "jal deureogasseo?",
+   "ko": "집에 잘 들어갔어?",
+   "rd": "jibe jal deureogasseo?",
    "en": "Got home okay?",
    "note": "잘 들어갔어?",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "21:40"
+   "at": "21:40",
+   "art": "scene/ko/r0_love_c7/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "응! 방금.",
-   "rd": "eung! banggeum.",
-   "en": "Yeah! Just now.",
+   "ko": "응 방금 도착.",
+   "rd": "eung banggeum dochak.",
+   "en": "Yeah, just got in.",
    "note": "방금",
    "tags": [],
    "new": [],
@@ -56,21 +57,22 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "오늘 고마웠어.",
-   "rd": "oneul gomawosseo.",
+   "ko": "오늘 고마워.",
+   "rd": "oneul gomawo.",
    "en": "Thanks for today.",
    "note": "고마웠어",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "21:41"
+   "at": "21:41",
+   "art": "scene/ko/r0_love_c7/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "나도. 재밌었어.",
-   "rd": "nado. jaemisseosseo.",
-   "en": "Me too. It was fun.",
+   "ko": "나도. 진짜 재밌었어.",
+   "rd": "nado. jinjja jaemisseosseo.",
+   "en": "Me too. It was really fun.",
    "note": "재밌다",
    "tags": [],
    "new": [],
@@ -80,14 +82,15 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "그리고… 오늘 예뻤어.",
-   "rd": "geurigo… oneul yeppeosseo.",
-   "en": "And… you looked pretty today.",
+   "ko": "그리고… 오늘 너무 예뻤어…",
+   "rd": "geurigo… oneul neomu yeppeosseo…",
+   "en": "And… you looked so pretty today…",
    "note": "심쿵",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "21:43"
+   "at": "21:43",
+   "art": "scene/ko/r0_love_c7/cut3"
   },
   {
    "num": 6,
@@ -104,21 +107,22 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "2분 걸렸네 ㅋㅋ",
-   "rd": "2bun geollyeonne ㅋㅋ",
-   "en": "That took you 2 minutes lol",
+   "ko": "답장 2분 걸렸네 ㅋㅋ",
+   "rd": "dapjang 2bun geollyeonne ㅋㅋ",
+   "en": "Took you 2 minutes to reply lol",
    "note": "teasing",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "21:45"
+   "at": "21:45",
+   "art": "scene/ko/r0_love_c7/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "심장 소리 너무 커서.",
-   "rd": "simjang sori neomu keoseo.",
-   "en": "My heart was too loud.",
+   "ko": "심장이 너무 뛰어서…",
+   "rd": "simjangi neomu ttwieoseo…",
+   "en": "My heart was beating too hard…",
    "note": "punchline",
    "tags": [],
    "new": [],
@@ -126,5 +130,9 @@
    "at": "21:45"
   }
  ],
- "learner_gender": "F"
+ "learner_gender": "F",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_c7_grok_rewrite.md [K208]",
+  "final": ""
+ }
 }

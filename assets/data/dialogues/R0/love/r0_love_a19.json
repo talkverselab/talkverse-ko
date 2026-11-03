@@ -1,0 +1,116 @@
+{
+ "id": "r0_love_a19",
+ "region": "R0",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "다이어트",
+ "emoji": "🍰",
+ "scene": "카페. 하늘이 「다이어트 중」이라면서 학습자 케이크를 계속 먹는다",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "헐",
+  "괜찮아"
+ ],
+ "goal": "Diet \"rules\"",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "나 다이어트 중이야.",
+   "rd": "na daieoteu jungiya.",
+   "en": "I'm on a diet.",
+   "note": "다이어트",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "그래? 그럼 나만 먹을게.",
+   "rd": "geurae? geureom naman meogeulge.",
+   "en": "Really? Then I'll eat alone.",
+   "note": "나만",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "한 입만.",
+   "rd": "han imman.",
+   "en": "Just one bite.",
+   "note": "한 입",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "…또?",
+   "rd": "…tto?",
+   "en": "…Again?",
+   "note": "또",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "이건 다이어트 아니야. 맛보기야.",
+   "rd": "igeon daieoteu aniya. matbogiya.",
+   "en": "This isn't diet. It's tasting.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "헐, 다 먹었어!",
+   "rd": "heol, da meogeosseo!",
+   "en": "Whoa, you ate it all!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "두 개 시켜. 하나는 내 거.",
+   "rd": "du gae sikyeo. hananeun nae geo.",
+   "en": "Order two. One's mine.",
+   "note": "주문",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "다이어트는?",
+   "rd": "daieoteuneun?",
+   "en": "What about the diet?",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

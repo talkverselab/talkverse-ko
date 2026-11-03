@@ -37,7 +37,8 @@
    "en": "Excuse me, did a package come here?",
    "note": "택배 = delivery",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a5/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "Yeah it’s mine. Thanks.",
    "note": "제 거 = mine",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a5/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "Uh… are they all mine?",
    "note": "세 개",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a5/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "I’m sorry! The address was wrong…",
    "note": "주소 = address",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a5/cut4"
   },
   {
    "num": 8,

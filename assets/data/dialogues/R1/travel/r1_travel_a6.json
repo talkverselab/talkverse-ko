@@ -1,0 +1,113 @@
+{
+ "id": "r1_travel_a6",
+ "region": "R1",
+ "island": "travel",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "travel"
+ ],
+ "domain": [
+  "travel"
+ ],
+ "title": "부산 어묵",
+ "emoji": "🍢",
+ "scene": "부산 시장. 어묵 하나 사 먹으려는데 사장님이 계속 국물을 준다",
+ "speakers": {
+  "A": "{name}",
+  "B": "시장 사장님"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "감사합니다",
+  "진짜요?",
+  "맛있어요"
+ ],
+ "goal": "Market kindness",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "어묵 하나 주세요.",
+   "rd": "eomuk hana juseyo.",
+   "en": "One fishcake, please.",
+   "note": "어묵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "국물도 먹어라. 추운데.",
+   "rd": "gungmuldo meogeora. chuunde.",
+   "en": "Have some broth too. It's cold.",
+   "note": "국물",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "감사합니다! 맛있어요.",
+   "rd": "gamsahamnida! masisseoyo.",
+   "en": "Thank you! Delicious.",
+   "note": "맛있다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "한 컵 더 무라.",
+   "rd": "han keop deo mura.",
+   "en": "Have another cup.",
+   "note": "dialect 무라 = 먹어라",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "진짜요? 공짜예요?",
+   "rd": "jinjjayo? gongjjayeyo?",
+   "en": "Really? Free?",
+   "note": "공짜",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "국물은 공짜다. 정이다, 정.",
+   "rd": "gungmureun gongjjada. jeongida, jeong.",
+   "en": "Broth is free. That's jeong.",
+   "note": "정",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "…세 컵째예요.",
+   "rd": "…se keopjjaeyeyo.",
+   "en": "…That's my third cup.",
+   "note": "Kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "배부르면 어묵 하나 더 사 가라.",
+   "rd": "baebureumyeon eomuk hana deo sa gara.",
+   "en": "If you're full, buy one more fishcake.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

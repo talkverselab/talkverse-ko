@@ -1,0 +1,116 @@
+{
+ "id": "r1_love_a17",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "실수로 고백",
+ "emoji": "🎤",
+ "scene": "유진 생일 파티 축사. 「좋아해」가 마이크로 크게 나갔다",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진",
+  "C": "친구들",
+  "D": "민준"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "잠깐만",
+  "아 몰라"
+ ],
+ "goal": "A confession over the mic",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "(마이크) 유진아 생일 축하해. 그리고… 좋아해.",
+   "rd": "(maikeu) yujina saengil chukahae. geurigo… joahae.",
+   "en": "(mic) Happy birthday, Yujin. And… I like you.",
+   "note": "마이크",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "…어?",
+   "rd": "…eo?",
+   "en": "…Huh?",
+   "note": "surprise",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "와아아아!",
+   "rd": "waaaa!",
+   "en": "Waaah!",
+   "note": "crowd",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "잠깐만! 이거 켜져 있었어?",
+   "rd": "jamkkanman! igeo kyeojyeo isseosseo?",
+   "en": "Wait! Was this on?",
+   "note": "Kick: mic on — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "D",
+   "ko": "처음부터 켜져 있었어 ㅋㅋ",
+   "rd": "cheoeumbuteo kyeojyeo isseosseo ㅋㅋ",
+   "en": "It was on from the start lol",
+   "note": "처음부터",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "아 몰라… 취소!",
+   "rd": "a molla… chwiso!",
+   "en": "Ugh… cancel!",
+   "note": "취소",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "취소 안 돼.",
+   "rd": "chwiso an dwae.",
+   "en": "No canceling.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…진짜?",
+   "rd": "…jinjja?",
+   "en": "…Really?",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "M"
+}

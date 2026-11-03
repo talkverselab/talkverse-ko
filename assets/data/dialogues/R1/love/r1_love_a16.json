@@ -1,0 +1,116 @@
+{
+ "id": "r1_love_a16",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "편의점 알바",
+ "emoji": "🏪",
+ "scene": "편의점 야간 알바 중. 매일 밤 같은 시간에 오는 손님(하늘)",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "어서 오세요",
+  "진짜요?",
+  "감사합니다"
+ ],
+ "goal": "A regular customer",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "어서 오세요.",
+   "rd": "eoseo oseyo.",
+   "en": "Welcome.",
+   "note": "어서 오세요",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "오늘도 바나나 우유요.",
+   "rd": "oneuldo banana uyuyo.",
+   "en": "Banana milk again today.",
+   "note": "오늘도",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "매일 오시네요.",
+   "rd": "maeil osineyo.",
+   "en": "You come every day.",
+   "note": "매일",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "네. 바나나 우유 좋아해서요.",
+   "rd": "ne. banana uyu joahaeseoyo.",
+   "en": "Yes. Because I like banana milk.",
+   "note": "좋아하다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "…저도 좋아해요.",
+   "rd": "…jeodo joahaeyo.",
+   "en": "…I like it too.",
+   "note": "ambiguous",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "바나나 우유요? 아니면…",
+   "rd": "banana uyuyo? animyeon…",
+   "en": "Banana milk? Or…",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "…바나나 우유요.",
+   "rd": "…banana uyuyo.",
+   "en": "…Banana milk.",
+   "note": "flustered",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "ㅋㅋ 내일은 답 바꿔요.",
+   "rd": "ㅋㅋ naeireun dap bakkwoyo.",
+   "en": "Haha, change your answer tomorrow.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

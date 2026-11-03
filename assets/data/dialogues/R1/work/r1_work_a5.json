@@ -1,0 +1,114 @@
+{
+ "id": "r1_work_a5",
+ "region": "R1",
+ "island": "work",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "work"
+ ],
+ "domain": [
+  "work"
+ ],
+ "title": "회식 메뉴",
+ "emoji": "🥩",
+ "scene": "팀장님이 「아무거나 먹자」. 지호 선배가 눈치를 준다",
+ "speakers": {
+  "A": "{name}",
+  "B": "지호 선배",
+  "C": "팀장님"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "slip",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "아무거나",
+  "진짜요?",
+  "네"
+ ],
+ "goal": "Reading the boss's \"anything\"",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "C",
+   "ko": "오늘 회식은 아무거나 먹자.",
+   "rd": "oneul hoesigeun amugeona meokja.",
+   "en": "Let's eat anything for the team dinner.",
+   "note": "아무거나",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "그럼 파스타 어때요?",
+   "rd": "geureom paseuta eottaeyo?",
+   "en": "Then how about pasta?",
+   "note": "파스타",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "(속삭이며) 팀장님은 삼겹살이야.",
+   "rd": "(soksagimyeo) timjangnimeun samgyeopsariya.",
+   "en": "(whisper) The boss means samgyeopsal.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "네? 아무거나라고 하셨는데요.",
+   "rd": "ne? amugeonarago hasyeonneundeyo.",
+   "en": "Sorry? He said anything.",
+   "note": "아무거나",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "팀장님 「아무거나」 = 삼겹살.",
+   "rd": "timjangnim 「amugeona」 = samgyeopsal.",
+   "en": "The boss's \"anything\" = samgyeopsal.",
+   "note": "rule",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…팀장님, 삼겹살 어떠세요?",
+   "rd": "…timjangnim, samgyeopsal eotteoseyo?",
+   "en": "…Boss, how about samgyeopsal?",
+   "note": "correction",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "오! {name} 씨 센스 있네!",
+   "rd": "o! {name} ssi senseu inne!",
+   "en": "Oh! {name}, you've got good sense!",
+   "note": "센스",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "(속삭이며) 이게 눈치야.",
+   "rd": "(soksagimyeo) ige nunchiya.",
+   "en": "(whisper) That's nunchi.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "id": "r0_love_a20",
+ "region": "R0",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "같이 사진",
+ "emoji": "📷",
+ "scene": "남산. 태오가 셀카를 찍자고 한다. 그런데 아무도 몰라보게 해야 한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "태오",
+  "C": "행인",
+  "D": "팬들"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "쉿",
+  "진짜?",
+  "하나 둘 셋"
+ ],
+ "goal": "A selfie with someone famous",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "같이 찍자.",
+   "rd": "gachi jjikja.",
+   "en": "Let's take one together.",
+   "note": "찍다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "괜찮아? 사람 많아.",
+   "rd": "gwaenchana? saram mana.",
+   "en": "Is it okay? Lots of people.",
+   "note": "많다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "마스크 쓰면 돼.",
+   "rd": "maseukeu sseumyeon dwae.",
+   "en": "I'll just wear a mask.",
+   "note": "마스크",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "어? 저 사람 태오 아니야?",
+   "rd": "eo? jeo saram taeo aniya?",
+   "en": "Huh? Isn't that Taeo?",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "쉿! 하나, 둘…",
+   "rd": "swit! hana, dul…",
+   "en": "Shh! One, two…",
+   "note": "쉿",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "D",
+   "ko": "(다 같이) 태오다!!",
+   "rd": "(da gachi) taeoda!!",
+   "en": "(everyone) It's Taeo!!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "빨리 찍어! 셋!",
+   "rd": "ppalli jjigeo! set!",
+   "en": "Quick, shoot! Three!",
+   "note": "셋",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "…사진에 백 명 나왔어.",
+   "rd": "…sajine baek myeong nawasseo.",
+   "en": "…A hundred people are in the photo.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "F"
+}

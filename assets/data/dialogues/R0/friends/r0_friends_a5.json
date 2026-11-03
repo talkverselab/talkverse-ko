@@ -34,19 +34,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "점수 나온다!",
-   "rd": "jeomsu naonda!",
-   "en": "Here comes the score!",
+   "ko": "점수 떴다!",
+   "rd": "jeomsu tteotda!",
+   "en": "Score's up!",
    "note": "점수 = score",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a5/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "…100점?",
-   "rd": "…100jeom?",
-   "en": "…100 points?",
+   "ko": "진짜 100점…?",
+   "rd": "jinjja 100jeom…?",
+   "en": "Really 100…?",
    "note": "100점",
    "tags": [],
    "new": []
@@ -54,19 +55,20 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "헐, 대박!",
-   "rd": "heol, daebak!",
-   "en": "Whoa, amazing!",
+   "ko": "헐 대박이다!",
+   "rd": "heol daebagida!",
+   "en": "Whoa that's crazy!",
    "note": "대박",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a5/cut2"
   },
   {
    "num": 4,
    "speaker": "C",
-   "ko": "(옆방) 100점 누구야?!",
-   "rd": "(yeopbang) 100jeom nuguya?!",
-   "en": "(next room) Who got 100?!",
+   "ko": "(옆방) 100점 누구야!! 우리도 갈게!!",
+   "rd": "(yeopbang) 100jeom nuguya!! urido galge!!",
+   "en": "(next room) Who got 100!! We're coming too!!",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -74,19 +76,20 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "어? 옆방 사람들이…",
-   "rd": "eo? yeopbang saramdeuri…",
-   "en": "Huh? People from next door…",
+   "ko": "어? 옆방 사람들 온다…",
+   "rd": "eo? yeopbang saramdeul onda…",
+   "en": "Huh? Next room people are coming…",
    "note": "옆방",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a5/cut3"
   },
   {
    "num": 6,
    "speaker": "D",
-   "ko": "한 곡 더! 한 곡 더!",
-   "rd": "han gok deo! han gok deo!",
-   "en": "One more! One more!",
+   "ko": "한 곡 더!! 다 같이 불러!!",
+   "rd": "han gok deo!! da gachi bulleo!!",
+   "en": "One more!! Everybody sing!!",
    "note": "crowd",
    "tags": [],
    "new": []
@@ -94,22 +97,27 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋ 너 이제 스타야.",
-   "rd": "ㅋㅋ neo ije seutaya.",
-   "en": "Lol you're a star now.",
+   "ko": "ㅋㅋ 이제 완전 난리야.",
+   "rd": "ㅋㅋ ije wanjeon nalliya.",
+   "en": "Lol it's total chaos now.",
    "note": "스타",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a5/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "근데 나 노래 가사 몰라.",
-   "rd": "geunde na norae gasa molla.",
-   "en": "But I don't know the lyrics.",
+   "ko": "근데 나 가사 몰라…",
+   "rd": "geunde na gasa molla…",
+   "en": "But I don't even know the lyrics…",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_friends_a5_grok_rewrite.md [K202]",
+  "final": ""
+ }
 }

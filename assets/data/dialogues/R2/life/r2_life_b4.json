@@ -1,0 +1,156 @@
+{
+ "id": "r2_life_b4",
+ "region": "R2",
+ "island": "life",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "윗집 강아지",
+ "emoji": "🐶",
+ "scene": "윗집 강아지가 매일 밤 짖는다. 올라가 보니",
+ "speakers": {
+  "A": "{name}",
+  "B": "윗집 사람",
+  "C": "강아지"
+ },
+ "register": "casual",
+ "twist": 8,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "죄송합니다",
+  "진짜요?",
+  "괜찮아요",
+  "귀여워"
+ ],
+ "goal": "Noise complaint turns friendly",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "(띵동) 안녕하세요, 아랫집이에요.",
+   "rd": "(ttingdong) annyeonghaseyo, araetjibieyo.",
+   "en": "(ding-dong) Hello, I'm from downstairs.",
+   "note": "아랫집",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "아… 강아지 때문이죠? 죄송해요.",
+   "rd": "a… gangaji ttaemunijyo? joesonghaeyo.",
+   "en": "Ah… it's about the dog, right? Sorry.",
+   "note": "강아지",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "네… 밤에 좀 짖어서요.",
+   "rd": "ne… bame jom jijeoseoyo.",
+   "en": "Yes… it barks a bit at night.",
+   "note": "짖다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "혼자 있을 때 무서워해요. 제가 밤 근무라서.",
+   "rd": "honja isseul ttae museowohaeyo. jega bam geunmuraseo.",
+   "en": "He gets scared alone. I work nights.",
+   "note": "근무",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "(멍!)",
+   "rd": "(meong!)",
+   "en": "(woof!)",
+   "note": "강아지",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…헐, 너무 귀여워.",
+   "rd": "…heol, neomu gwiyeowo.",
+   "en": "…Whoa, so cute.",
+   "note": "귀엽다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "혹시… 저 없을 때 가끔 봐 줄 수 있어요?",
+   "rd": "hoksi… jeo eopseul ttae gakkeum bwa jul su isseoyo?",
+   "en": "By any chance… could you check on him sometimes when I'm out?",
+   "note": "부탁",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "저요? 진짜요?",
+   "rd": "jeoyo? jinjjayo?",
+   "en": "Me? Really?",
+   "note": "진짜요",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "짖는 거 들리면 바로 올라와 주세요. 비밀번호 알려 드릴게요.",
+   "rd": "jinneun geo deullimyeon baro ollawa juseyo. bimilbeonho allyeo deurilgeyo.",
+   "en": "If you hear barking, just come up. I'll give you the passcode.",
+   "note": "비밀번호",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "그럼 이제 짖는 소리가 반갑겠네요.",
+   "rd": "geureom ije jinneun soriga bangapgenneyo.",
+   "en": "Then I'll actually be glad to hear barking now.",
+   "note": "심쿵(정)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "C",
+   "ko": "(멍멍!)",
+   "rd": "(meongmeong!)",
+   "en": "(woof woof!)",
+   "note": "강아지",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "B",
+   "ko": "벌써 좋아하네요. 저도요.",
+   "rd": "beolsseo joahaneyo. jeodoyo.",
+   "en": "He likes you already. Me too.",
+   "note": "punchline 심쿵",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "M"
+}

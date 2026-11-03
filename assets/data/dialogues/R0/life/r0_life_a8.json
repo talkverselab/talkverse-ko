@@ -1,0 +1,114 @@
+{
+ "id": "r0_life_a8",
+ "region": "R0",
+ "island": "life",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "벌레!",
+ "emoji": "🪳",
+ "scene": "셰어하우스 부엌. 바퀴벌레가 나타났다",
+ "speakers": {
+  "A": "{name}",
+  "B": "도윤",
+  "C": "서아"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "빨리",
+  "잠깐만"
+ ],
+ "goal": "Bug panic",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "헐! 벌레!",
+   "rd": "heol! beolle!",
+   "en": "Whoa! A bug!",
+   "note": "벌레 = bug",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "어디? 어디?",
+   "rd": "eodi? eodi?",
+   "en": "Where? Where?",
+   "note": "어디",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "저기! 냉장고 밑!",
+   "rd": "jeogi! naengjanggo mit!",
+   "en": "There! Under the fridge!",
+   "note": "밑",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "잠깐만, 휴지!",
+   "rd": "jamkkanman, hyuji!",
+   "en": "Wait, tissues!",
+   "note": "휴지",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "(비명) 날았어!!",
+   "rd": "(bimyeong) narasseo!!",
+   "en": "(scream) It flew!!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "다 나가! 빨리!",
+   "rd": "da naga! ppalli!",
+   "en": "Everyone out! Quick!",
+   "note": "빨리",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "(밖에서) …누가 잡아?",
+   "rd": "(bakkeseo) …nuga jaba?",
+   "en": "(outside) …Who's going to catch it?",
+   "note": "누가",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "가위바위보.",
+   "rd": "gawibawibo.",
+   "en": "Rock-paper-scissors.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

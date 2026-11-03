@@ -1,0 +1,114 @@
+{
+ "id": "r0_friends_a7",
+ "region": "R0",
+ "island": "friends",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "MBTI 뭐야",
+ "emoji": "🔤",
+ "scene": "처음 만난 서아 친구가 이름보다 MBTI 를 먼저 묻는다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아 친구",
+  "C": "서아"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "slip",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "몰라",
+  "ㅋㅋ"
+ ],
+ "goal": "Small talk with MBTI",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "안녕! MBTI 뭐야?",
+   "rd": "annyeong! MBTI mwoya?",
+   "en": "Hi! What's your MBTI?",
+   "note": "MBTI",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "이름 먼저 말할게. {name}.",
+   "rd": "ireum meonjeo malhalge. {name}.",
+   "en": "Let me say my name first. {name}.",
+   "note": "이름",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "ㅋㅋ 알아. MBTI는?",
+   "rd": "ㅋㅋ ara. MBTIneun?",
+   "en": "Lol I know. MBTI?",
+   "note": "MBTI",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "몰라. 해 본 적 없어.",
+   "rd": "molla. hae bon jeok eopseo.",
+   "en": "Don't know. Never took it.",
+   "note": "몰라",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "헐… 그럼 지금 해!",
+   "rd": "heol… geureom jigeum hae!",
+   "en": "Whoa… then do it now!",
+   "note": "지금",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "(5분 뒤) …I래.",
+   "rd": "(5bun dwi) …Irae.",
+   "en": "(5 min later) …It says I.",
+   "note": "Kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "에이, 거짓말! 너 완전 E야!",
+   "rd": "ei, geojinmal! neo wanjeon Eya!",
+   "en": "No way, liar! You're totally E!",
+   "note": "reveal",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…시험이 틀렸나 봐.",
+   "rd": "…siheomi teullyeonna bwa.",
+   "en": "…Maybe the test is wrong.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

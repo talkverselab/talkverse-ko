@@ -1,0 +1,113 @@
+{
+ "id": "r0_survival_s5",
+ "region": "R0",
+ "island": "survival",
+ "kind": "survival",
+ "draft": true,
+ "purpose": [
+  "survival"
+ ],
+ "domain": [
+  "survival"
+ ],
+ "title": "포장이요",
+ "emoji": "🥡",
+ "scene": "분식집. 「포장」이라는 말을 몰라서…",
+ "speakers": {
+  "A": "{name}",
+  "B": "사장님"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "slip",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "포장이요",
+  "여기서요",
+  "감사합니다"
+ ],
+ "goal": "To go or for here",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "드시고 가세요?",
+   "rd": "deusigo gaseyo?",
+   "en": "Eating here?",
+   "note": "드시고 가세요?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네?",
+   "rd": "ne?",
+   "en": "Sorry?",
+   "note": "네",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "여기서 먹어요? 포장이요?",
+   "rd": "yeogiseo meogeoyo? pojangiyo?",
+   "en": "Eat here? Or to go?",
+   "note": "포장 = takeout",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "포… 포장이 뭐예요?",
+   "rd": "po… pojangi mwoyeyo?",
+   "en": "Ta… what's \"to go\"?",
+   "note": "뭐예요",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "집에 가져가는 거요.",
+   "rd": "jibe gajyeoganeun geoyo.",
+   "en": "Taking it home.",
+   "note": "가져가다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "아! 포장이요!",
+   "rd": "a! pojangiyo!",
+   "en": "Oh! To go!",
+   "note": "포장이요",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "네, 김밥 하나 포장!",
+   "rd": "ne, gimbap hana pojang!",
+   "en": "Okay, one gimbap to go!",
+   "note": "김밥",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…근데 지금 먹고 싶어요.",
+   "rd": "…geunde jigeum meokgo sipeoyo.",
+   "en": "…But I want to eat it now.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

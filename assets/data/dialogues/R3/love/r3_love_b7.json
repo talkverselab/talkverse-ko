@@ -1,0 +1,197 @@
+{
+ "id": "r3_love_b7",
+ "region": "R3",
+ "island": "love",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "기억상실",
+ "emoji": "🏥",
+ "scene": "교통사고 뒤 깨어난 유진이 「누구세요?」라고 한다 — 드라마 클리셰 기억상실. 그런데",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진",
+  "C": "의사"
+ },
+ "register": "casual",
+ "twist": 10,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "교통사고 뒤 기억상실",
+ "expressions": [
+  "진짜?",
+  "설마",
+  "헐",
+  "아 몰라",
+  "괜찮아"
+ ],
+ "goal": "The amnesia cliché, flipped",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "유진아! 정신 들어? 괜찮아?",
+   "rd": "yujina! jeongsin deureo? gwaenchana?",
+   "en": "Yujin! Are you awake? Are you okay?",
+   "note": "정신 들다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "…누구세요?",
+   "rd": "…nuguseyo?",
+   "en": "…Who are you?",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "설마… 나 몰라? 우리 1년 사귀었잖아.",
+   "rd": "seolma… na molla? uri 1nyeon sagwieotjana.",
+   "en": "No way… you don't know me? We've dated for a year.",
+   "note": "설마",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "죄송해요. 아무것도 기억이 안 나요.",
+   "rd": "joesonghaeyo. amugeotdo gieogi an nayo.",
+   "en": "I'm sorry. I can't remember anything.",
+   "note": "기억",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "(의사) 일시적인 기억상실이에요. 익숙한 걸 보여 주세요.",
+   "rd": "(uisa) ilsijeogin gieoksangsirieyo. iksukan geol boyeo juseyo.",
+   "en": "(doctor) It's temporary amnesia. Show her familiar things.",
+   "note": "기억상실",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "이거… 우리 커플티 사진.",
+   "rd": "igeo… uri keopeulti sajin.",
+   "en": "This… our couple-tee photo.",
+   "note": "callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "…모르겠어요.",
+   "rd": "…moreugesseoyo.",
+   "en": "…I don't know.",
+   "note": "모르다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "그럼 이거. 첫눈 오는 날 준 목도리.",
+   "rd": "geureom igeo. cheonnun oneun nal jun mokdori.",
+   "en": "Then this. The scarf I gave you on the first snow.",
+   "note": "callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "……",
+   "rd": "……",
+   "en": "……",
+   "note": "silence",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "제발… 「먼저 들어가」 한 거 기억 안 나? 엄마가 창문에서 소리친 거.",
+   "rd": "jebal… 「meonjeo deureoga」 han geo gieok an na? eommaga changmuneseo sorichin geo.",
+   "en": "Please… don't you remember \"you go in first\"? Your mom yelling from the window?",
+   "note": "callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "…ㅋㅋㅋ 아, 더는 못 참겠다.",
+   "rd": "…ㅋㅋㅋ a, deoneun mot chamgetda.",
+   "en": "…Lolol, ugh, I can't hold it in anymore.",
+   "note": "Kick: reveal",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "…뭐?",
+   "rd": "…mwo?",
+   "en": "…What?",
+   "note": "뭐",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 13,
+   "speaker": "B",
+   "ko": "다 기억나. 손목만 삐었어. 의사 선생님이랑 짰어.",
+   "rd": "da gieongna. sonmongman ppieosseo. uisa seonsaengnimirang jjasseo.",
+   "en": "I remember everything. I just sprained my wrist. I planned it with the doctor.",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 14,
+   "speaker": "C",
+   "ko": "(의사) 죄송합니다. 드라마 팬이라서요.",
+   "rd": "(uisa) joesonghamnida. deurama paeniraseoyo.",
+   "en": "(doctor) Sorry. I'm a drama fan.",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 15,
+   "speaker": "A",
+   "ko": "아 몰라… 진짜 심장 멈출 뻔했어.",
+   "rd": "a molla… jinjja simjang meomchul ppeonhaesseo.",
+   "en": "Ugh… my heart almost stopped.",
+   "note": "멈추다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 16,
+   "speaker": "B",
+   "ko": "근데 네가 기억 하나하나 다 말해 줘서… 다시 반했어.",
+   "rd": "geunde nega gieok hanahana da malhae jwoseo… dasi banhaesseo.",
+   "en": "But you listed every memory one by one… I fell for you all over again.",
+   "note": "punchline 심쿵",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "M"
+}

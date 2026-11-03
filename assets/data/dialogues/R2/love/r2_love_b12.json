@@ -1,0 +1,156 @@
+{
+ "id": "r2_love_b12",
+ "region": "R2",
+ "island": "love",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "재벌 2세?",
+ "emoji": "💳",
+ "scene": "태오가 데뷔 후 처음 받은 정산으로 학습자에게 저녁을 산다. 레스토랑이 너무 비싸다",
+ "speakers": {
+  "A": "{name}",
+  "B": "태오",
+  "C": "직원"
+ },
+ "register": "casual",
+ "twist": 9,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "재벌 2세처럼 비싼 레스토랑",
+ "expressions": [
+  "진짜?",
+  "헐",
+  "잠깐만",
+  "괜찮아"
+ ],
+ "goal": "An expensive first treat",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "오늘은 내가 쏠게. 첫 정산 받았어.",
+   "rd": "oneureun naega ssolge. cheot jeongsan badasseo.",
+   "en": "Today's on me. I got my first payout.",
+   "note": "정산",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "헐, 축하해! 근데 여기 너무 비싸 보여.",
+   "rd": "heol, chukahae! geunde yeogi neomu bissa boyeo.",
+   "en": "Whoa, congrats! But this place looks so expensive.",
+   "note": "비싸다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "괜찮아. 재벌 2세처럼 시켜.",
+   "rd": "gwaenchana. jaebeol 2secheoreom sikyeo.",
+   "en": "It's fine. Order like a chaebol heir.",
+   "note": "재벌",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "…스테이크 하나에 30만 원이야.",
+   "rd": "…seuteikeu hanae 30man woniya.",
+   "en": "…One steak is 300,000 won.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "…잠깐만. 내 정산이 얼마였더라.",
+   "rd": "…jamkkanman. nae jeongsani eolmayeotdeora.",
+   "en": "…Wait. How much was my payout again.",
+   "note": "잠깐만",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "얼마였는데?",
+   "rd": "eolmayeonneunde?",
+   "en": "How much?",
+   "note": "얼마",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "…25만 원.",
+   "rd": "…25man won.",
+   "en": "…250,000 won.",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "ㅋㅋㅋ 일어나. 떡볶이 먹으러 가자.",
+   "rd": "ㅋㅋㅋ ireona. tteokbokki meogeureo gaja.",
+   "en": "Lolol get up. Let's go eat tteokbokki.",
+   "note": "떡볶이",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "C",
+   "ko": "(직원) 물은 무료예요~",
+   "rd": "(jigwon) mureun muryoyeyo~",
+   "en": "(waiter) The water is free~",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "B",
+   "ko": "그럼 물만 마시고 갈까?",
+   "rd": "geureom mulman masigo galkka?",
+   "en": "Then should we just drink water and leave?",
+   "note": "joke",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "A",
+   "ko": "응. 떡볶이는 내가 쏠게.",
+   "rd": "eung. tteokbokkineun naega ssolge.",
+   "en": "Yeah. Tteokbokki's on me.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "B",
+   "ko": "나중에 진짜 재벌 되면 여기 다시 오자.",
+   "rd": "najunge jinjja jaebeol doemyeon yeogi dasi oja.",
+   "en": "When I'm a real chaebol someday, let's come back here.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "F"
+}

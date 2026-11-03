@@ -1,0 +1,130 @@
+{
+ "id": "r0_friends_c1",
+ "region": "R0",
+ "island": "friends",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "생일 축하해",
+ "emoji": "🎉",
+ "scene": "자정. 서아 생일. 단톡에 가장 먼저 보내고 싶다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준"
+ },
+ "register": "chat",
+ "twist": 4,
+ "twist_type": "slip",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "생일 축하해",
+  "ㅋㅋ",
+  "고마워"
+ ],
+ "goal": "Birthday at midnight",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "생일 축하해!!",
+   "rd": "saengil chukahae!!",
+   "en": "Happy birthday!!",
+   "note": "생일 축하해",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:00"
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "헐 1등! 고마워 ㅠㅠ",
+   "rd": "heol 1deung! gomawo ㅠㅠ",
+   "en": "Whoa first! Thanks ㅠㅠ",
+   "note": "1등",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:00"
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "아 2등…",
+   "rd": "a 2deung…",
+   "en": "Ah, second…",
+   "note": "2등",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:00"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "ㅋㅋ 선물은 내일!",
+   "rd": "ㅋㅋ seonmureun naeil!",
+   "en": "Lol gift tomorrow!",
+   "note": "선물",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:01"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "뭐야? 힌트!",
+   "rd": "mwoya? hinteu!",
+   "en": "What is it? Hint!",
+   "note": "힌트",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:01"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "먹는 거.",
+   "rd": "meongneun geo.",
+   "en": "Something to eat.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:01"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "케이크?",
+   "rd": "keikeu?",
+   "en": "Cake?",
+   "note": "케이크",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:02"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "아니 떡볶이 ㅋㅋ",
+   "rd": "ani tteokbokki ㅋㅋ",
+   "en": "No, tteokbokki lol",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "00:02"
+  }
+ ]
+}

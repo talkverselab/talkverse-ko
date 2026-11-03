@@ -1,0 +1,116 @@
+{
+ "id": "r1_travel_a7",
+ "region": "R1",
+ "island": "travel",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "travel"
+ ],
+ "domain": [
+  "travel"
+ ],
+ "title": "경주 자전거",
+ "emoji": "🚲",
+ "scene": "경주. 자전거를 빌렸는데 유적지마다 「자전거 금지」",
+ "speakers": {
+  "A": "{name}",
+  "B": "대여점 사장님",
+  "C": "관리인",
+  "D": "다른 관리인",
+  "E": "민준"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "네?",
+  "잠깐만요",
+  "진짜요?"
+ ],
+ "goal": "Biking around historic Gyeongju",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "자전거 두 대 빌릴게요.",
+   "rd": "jajeongeo du dae billilgeyo.",
+   "en": "Two bikes, please.",
+   "note": "빌리다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "네. 하루 만 원이에요.",
+   "rd": "ne. haru man wonieyo.",
+   "en": "Sure. 10,000 won a day.",
+   "note": "하루",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "(첫 유적지) 자전거는 밖에 세워 주세요.",
+   "rd": "(cheot yujeokji) jajeongeoneun bakke sewo juseyo.",
+   "en": "(first site) Please park bikes outside.",
+   "note": "금지",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "네. (두 번째) 여기도요?",
+   "rd": "ne. (du beonjjae) yeogidoyo?",
+   "en": "Okay. (second site) Here too?",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "네. 여기도 금지예요.",
+   "rd": "ne. yeogido geumjiyeyo.",
+   "en": "Yes. Banned here too.",
+   "note": "금지",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "D",
+   "ko": "(세 번째) 자전거 금지!",
+   "rd": "(se beonjjae) jajeongeo geumji!",
+   "en": "(third site) No bikes!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "E",
+   "ko": "(민준) 결국 계속 끌고 걷네.",
+   "rd": "(minjun) gyeolguk gyesok kkeulgo geonne.",
+   "en": "(Minjun) We're just pushing them everywhere.",
+   "note": "끌다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "자전거 산책이다.",
+   "rd": "jajeongeo sanchaegida.",
+   "en": "It's a bike walk.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "id": "r2_study_b3",
+ "region": "R2",
+ "island": "study",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "study"
+ ],
+ "domain": [
+  "study"
+ ],
+ "title": "조별 과제 2",
+ "emoji": "👥",
+ "scene": "또 조별 과제. 이번엔 민호가 리더를 하겠다고 한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준",
+  "D": "민호"
+ },
+ "register": "casual",
+ "twist": 8,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "헐",
+  "그니까",
+  "아 몰라"
+ ],
+ "goal": "Group project redemption",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "D",
+   "ko": "이번엔 내가 리더 할게.",
+   "rd": "ibeonen naega rideo halge.",
+   "en": "This time I'll be the leader.",
+   "note": "리더",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "…진짜? 지난번에 읽씹했잖아.",
+   "rd": "…jinjja? jinanbeone ikssipaetjana.",
+   "en": "…Really? You left us on read last time.",
+   "note": "callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "D",
+   "ko": "반성했어. 일정표도 만들었어.",
+   "rd": "banseonghaesseo. iljeongpyodo mandeureosseo.",
+   "en": "I reflected. I even made a schedule.",
+   "note": "반성",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "헐, 일정표가 엑셀이야?",
+   "rd": "heol, iljeongpyoga ekseriya?",
+   "en": "Whoa, the schedule's in Excel?",
+   "note": "엑셀",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "D",
+   "ko": "응. 색깔도 칠했어.",
+   "rd": "eung. saekkkaldo chilhaesseo.",
+   "en": "Yeah. Color-coded too.",
+   "note": "색깔",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "근데 발표 날짜가 틀렸는데?",
+   "rd": "geunde balpyo naljjaga teullyeonneunde?",
+   "en": "But the presentation date is wrong?",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "D",
+   "ko": "…어제야?",
+   "rd": "…eojeya?",
+   "en": "…Was it yesterday?",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "아니. 내일이야.",
+   "rd": "ani. naeiriya.",
+   "en": "No. Tomorrow.",
+   "note": "reveal",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "D",
+   "ko": "그럼 오늘 밤에 다 하자! 내가 치킨 쏠게!",
+   "rd": "geureom oneul bame da haja! naega chikin ssolge!",
+   "en": "Then let's do everything tonight! Chicken's on me!",
+   "note": "치킨",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "결국 또 전날 밤이네.",
+   "rd": "gyeolguk tto jeonnal bamine.",
+   "en": "So it's the night before again.",
+   "note": "전날",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "C",
+   "ko": "그래도 이번엔 리더가 있잖아.",
+   "rd": "geuraedo ibeonen rideoga itjana.",
+   "en": "But this time there's a leader.",
+   "note": "있다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "B",
+   "ko": "그니까. 치킨 리더.",
+   "rd": "geunikka. chikin rideo.",
+   "en": "Right. A chicken leader.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

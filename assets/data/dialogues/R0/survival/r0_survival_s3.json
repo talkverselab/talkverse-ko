@@ -39,7 +39,8 @@
    "en": "Excuse me, where’s the restroom?",
    "note": "화장실 = restroom",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s3/cut1"
   },
   {
    "num": 2,
@@ -59,7 +60,8 @@
    "en": "(that way) Excuse me, is the restroom this way?",
    "note": "again",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s3/cut2"
   },
   {
    "num": 4,
@@ -79,7 +81,8 @@
    "en": "(other side) Uh… the restroom?",
    "note": "Kick: chaos — going in circles",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s3/cut3"
   },
   {
    "num": 6,
@@ -99,7 +102,8 @@
    "en": "Thank you! It’s urgent.",
    "note": "빨리",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s3/cut4"
   },
   {
    "num": 8,

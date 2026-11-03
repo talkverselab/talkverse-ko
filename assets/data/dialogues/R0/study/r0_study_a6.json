@@ -1,0 +1,113 @@
+{
+ "id": "r0_study_a6",
+ "region": "R0",
+ "island": "study",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "study"
+ ],
+ "domain": [
+  "study"
+ ],
+ "title": "칠판",
+ "emoji": "🧑‍🏫",
+ "scene": "선생님이 학습자를 칠판 앞으로 부른다",
+ "speakers": {
+  "A": "{name}",
+  "B": "선생님"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "slip",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "네",
+  "잘 모르겠어요",
+  "감사합니다"
+ ],
+ "goal": "Writing on the board",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "{name} 씨, 써 보세요. 「사랑」.",
+   "rd": "{name} ssi, sseo boseyo. 「sarang」.",
+   "en": "{name}, write it. \"Love.\"",
+   "note": "써 보다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네! (쓱쓱) 사람.",
+   "rd": "ne! (sseuksseuk) saram.",
+   "en": "Yes! (scribble) \"Person.\"",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "ㅋㅋ 「사람」 말고 「사랑」.",
+   "rd": "ㅋㅋ 「saram」 malgo 「sarang」.",
+   "en": "Haha, not \"person,\" \"love.\"",
+   "note": "말고",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "아… ㅁ이랑 ㅇ이 비슷해요.",
+   "rd": "a… ㅁirang ㅇi biseuthaeyo.",
+   "en": "Ah… ㅁ and ㅇ look similar.",
+   "note": "비슷하다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "네. 근데 아주 달라요.",
+   "rd": "ne. geunde aju dallayo.",
+   "en": "Yes. But very different.",
+   "note": "다르다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "사람이 없으면 사랑도 없어요.",
+   "rd": "sarami eopseumyeon sarangdo eopseoyo.",
+   "en": "Without people, there's no love.",
+   "note": "Kick: wisdom",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "…오, 멋있는 말이네요.",
+   "rd": "…o, meosinneun marineyo.",
+   "en": "…Oh, that's a nice line.",
+   "note": "멋있다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "감사합니다. 우연이에요.",
+   "rd": "gamsahamnida. uyeonieyo.",
+   "en": "Thank you. By accident.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

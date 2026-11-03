@@ -1,0 +1,177 @@
+{
+ "id": "r3_work_b2",
+ "region": "R3",
+ "island": "work",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "work"
+ ],
+ "domain": [
+  "work"
+ ],
+ "title": "프로젝트 발표",
+ "emoji": "📊",
+ "scene": "회사 첫 발표. 노트북이 꺼지고, 마이크가 울리고, 대표님이 들어온다",
+ "speakers": {
+  "A": "{name}",
+  "B": "지호 선배",
+  "C": "팀장님",
+  "D": "대리님",
+  "E": "대표님"
+ },
+ "register": "polite",
+ "twist": 10,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "잠깐만요",
+  "죄송합니다",
+  "진짜요?",
+  "괜찮습니다"
+ ],
+ "goal": "A presentation where everything goes wrong",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "C",
+   "ko": "{name} 씨, 시작해요.",
+   "rd": "{name} ssi, sijakaeyo.",
+   "en": "{name}, go ahead.",
+   "note": "시작",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네. 안녕하십니까, 오늘 발표할…",
+   "rd": "ne. annyeonghasimnikka, oneul balpyohal…",
+   "en": "Yes. Good afternoon, today I'll present…",
+   "note": "발표",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "(노트북 화면이 꺼진다) …어?",
+   "rd": "(noteubuk hwamyeoni kkeojinda) …eo?",
+   "en": "(laptop screen goes black) …Huh?",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "(속삭이며) 배터리! 충전기!",
+   "rd": "(soksagimyeo) baeteori! chungjeongi!",
+   "en": "(whisper) Battery! Charger!",
+   "note": "충전기",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "잠깐만요… (삐이이—)",
+   "rd": "jamkkanmanyo… (ppiii—)",
+   "en": "Just a moment… (feedback squeal—)",
+   "note": "Kick: mic — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "D",
+   "ko": "마이크 끄세요!",
+   "rd": "maikeu kkeuseyo!",
+   "en": "Turn off the mic!",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "E",
+   "ko": "(문 열리며) 발표 중이에요? 대표입니다. 저도 들을게요.",
+   "rd": "(mun yeollimyeo) balpyo jungieyo? daepyoimnida. jeodo deureulgeyo.",
+   "en": "(door opens) Presenting? I'm the CEO. I'll listen too.",
+   "note": "Kick: CEO — chaos peak",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…네. 그럼 화면 없이 말로 하겠습니다.",
+   "rd": "…ne. geureom hwamyeon eopsi mallo hagetseumnida.",
+   "en": "…Yes. Then I'll present without slides.",
+   "note": "결심",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "A",
+   "ko": "제 제안은 하나입니다. 회의는 5분만, 진짜 5분만.",
+   "rd": "je jeaneun hanaimnida. hoeuineun 5bunman, jinjja 5bunman.",
+   "en": "My proposal is one thing. Meetings of five minutes — really five.",
+   "note": "callback 5분",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "C",
+   "ko": "…",
+   "rd": "…",
+   "en": "…",
+   "note": "silence",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "E",
+   "ko": "(웃으며) 좋네요. 지금 이 발표도 5분이었죠?",
+   "rd": "(useumyeo) jonneyo. jigeum i balpyodo 5bunieotjyo?",
+   "en": "(smiling) Good. This presentation was five minutes too, right?",
+   "note": "reveal",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "네. 노트북이 도와줬습니다.",
+   "rd": "ne. noteubugi dowajwotseumnida.",
+   "en": "Yes. The laptop helped.",
+   "note": "joke",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 13,
+   "speaker": "E",
+   "ko": "다음 주부터 시행합시다. 팀장님, 김치찌개는 계속 드셔도 돼요.",
+   "rd": "daeum jubuteo sihaenghapsida. timjangnim, gimchijjigaeneun gyesok deusyeodo dwaeyo.",
+   "en": "Let's start next week. Team leader, you can keep your kimchi stew.",
+   "note": "callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 14,
+   "speaker": "B",
+   "ko": "(속삭이며) 이번 발표, 전설 된다.",
+   "rd": "(soksagimyeo) ibeon balpyo, jeonseol doenda.",
+   "en": "(whisper) This presentation is going to be a legend.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

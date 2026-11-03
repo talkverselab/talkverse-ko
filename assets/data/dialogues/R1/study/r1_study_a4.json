@@ -39,7 +39,8 @@
    "en": "{name}, please start.",
    "note": "시작",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a4/cut1"
   },
   {
    "num": 2,
@@ -59,7 +60,8 @@
    "en": "Wait! My notes are flying away!",
    "note": "대본 = script",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a4/cut2"
   },
   {
    "num": 4,
@@ -79,7 +81,8 @@
    "en": "The pages flew into the hallway and the stairs!",
    "note": "복도",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a4/cut3"
   },
   {
    "num": 6,
@@ -99,7 +102,8 @@
    "en": "Sorry… my presentation went with the wind.",
    "note": "joke",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a4/cut4"
   },
   {
    "num": 8,

@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "C",
-   "ko": "잠깐 회의할까요? 5분만.",
-   "rd": "jamkkan hoeuihalkkayo? 5bunman.",
-   "en": "Shall we have a quick meeting? Just 5 min.",
+   "ko": "잠깐 회의 할까요? 5분이면 돼요.",
+   "rd": "jamkkan hoeui halkkayo? 5bunimyeon dwaeyo.",
+   "en": "Quick meeting? Five minutes is enough.",
    "note": "회의 = meeting",
    "tags": [],
    "new": [],
@@ -46,9 +46,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "(개인톡) 헐 5시 55분에? ㅋㅋ",
-   "rd": "(gaeintok) heol 5si 55bune? ㅋㅋ",
-   "en": "(DM) Whoa at 5:55?",
+   "ko": "(개인톡) 헐 5시 55분에 회의? ㅋㅋ",
+   "rd": "(gaeintok) heol 5si 55bune hoeui? ㅋㅋ",
+   "en": "(DM) Whoa, meeting at 5:55? lol",
    "note": "헐",
    "tags": [],
    "new": [],
@@ -60,7 +60,7 @@
    "speaker": "A",
    "ko": "(개인톡) 5분이면 괜찮지 않아요?",
    "rd": "(gaeintok) 5bunimyeon gwaenchanchi anayo?",
-   "en": "(DM) Five minutes is okay, right?",
+   "en": "(DM) Five minutes should be okay, right?",
    "note": "괜찮다",
    "tags": [],
    "new": [],
@@ -70,9 +70,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "(개인톡) 팀장님 5분은 1시간이야",
-   "rd": "(gaeintok) timjangnim 5buneun 1siganiya",
-   "en": "(DM) The boss's 5 minutes is an hour",
+   "ko": "(개인톡) 팀장님 5분은 진짜 2시간이야 ㅋㅋ",
+   "rd": "(gaeintok) timjangnim 5buneun jinjja 2siganiya ㅋㅋ",
+   "en": "(DM) The boss's 5 minutes is really 2 hours lol",
    "note": "Kick setup",
    "tags": [],
    "new": [],
@@ -82,9 +82,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "(7시) 마지막으로 하나만 더요.",
-   "rd": "(7si) majimageuro hanaman deoyo.",
-   "en": "(7 p.m.) Just one last thing.",
+   "ko": "(8시) 마지막으로 하나만 더요. 아 몰라 두 개요.",
+   "rd": "(8si) majimageuro hanaman deoyo. a molla du gaeyo.",
+   "en": "(8 p.m.) Just one last thing. Ah whatever, two things.",
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
@@ -106,9 +106,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "(개인톡) 다음 주엔 5시 50분에 나가",
-   "rd": "(gaeintok) daeum juen 5si 50bune naga",
-   "en": "(DM) Next week leave at 5:50",
+   "ko": "(개인톡) 다음 주엔 5시 40분에 나가",
+   "rd": "(gaeintok) daeum juen 5si 40bune naga",
+   "en": "(DM) Next week leave at 5:40",
    "note": "punchline",
    "tags": [],
    "new": [],
@@ -127,5 +127,9 @@
    "ui": "bubble",
    "at": "19:02"
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_work_c2_grok_rewrite.md [K224]",
+  "final": ""
+ }
 }

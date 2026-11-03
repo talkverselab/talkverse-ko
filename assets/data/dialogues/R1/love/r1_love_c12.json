@@ -1,0 +1,132 @@
+{
+ "id": "r1_love_c12",
+ "region": "R1",
+ "island": "love",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "질투",
+ "emoji": "😤",
+ "scene": "유진이 학습자 인스타 사진에 달린 댓글을 봤다",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진",
+  "C": "이모"
+ },
+ "register": "chat",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "헐",
+  "진짜?",
+  "됐어"
+ ],
+ "goal": "Jealousy over a comment",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "이 「귀여워요」 댓글 누구야?",
+   "rd": "i 「gwiyeowoyo」 daetgeul nuguya?",
+   "en": "Who left this \"so cute\" comment?",
+   "note": "댓글",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:00"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "어? 그거 우리 이모야",
+   "rd": "eo? geugeo uri imoya",
+   "en": "Huh? That's my aunt",
+   "note": "이모",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:01"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "…이모?",
+   "rd": "…imo?",
+   "en": "…Your aunt?",
+   "note": "이모",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:01"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "응. 하트도 열 개 눌렀어",
+   "rd": "eung. hateudo yeol gae nulleosseo",
+   "en": "Yeah. She hit like ten hearts too",
+   "note": "Kick setup",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:01"
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "(댓글) 유진 씨도 귀여워요~ 언제 와요?",
+   "rd": "(daetgeul) yujin ssido gwiyeowoyo~ eonje wayo?",
+   "en": "(comment) Yujin is cute too~ when are you visiting?",
+   "note": "Kick: aunt joins — chaos",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:02"
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "헐 이모님이 나 알아??",
+   "rd": "heol imonimi na ara??",
+   "en": "Whoa your aunt knows me??",
+   "note": "알다",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:02"
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "엄마가 다 말했대",
+   "rd": "eommaga da malhaetdae",
+   "en": "My mom told everyone",
+   "note": "엄마",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:03"
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "…됐어. 질투 취소. 다음 주에 인사 갈게",
+   "rd": "…dwaesseo. jiltu chwiso. daeum jue insa galge",
+   "en": "…Forget it. Jealousy canceled. I'll visit next week",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:03"
+  }
+ ],
+ "learner_gender": "M"
+}

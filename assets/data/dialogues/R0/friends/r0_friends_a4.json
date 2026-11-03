@@ -38,7 +38,8 @@
    "en": "Make a wish and blow!",
    "note": "소원 = wish",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a4/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "Huh? These aren’t going out.",
    "note": "꺼지다 = go out",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a4/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Whoa wait, these are trick candles!",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a4/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "Me… it’s a prank lol I have more.",
    "note": "장난 = prank",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a4/cut4"
   },
   {
    "num": 8,

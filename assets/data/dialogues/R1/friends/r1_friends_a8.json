@@ -1,0 +1,114 @@
+{
+ "id": "r1_friends_a8",
+ "region": "R1",
+ "island": "friends",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "군대 휴가",
+ "emoji": "🪖",
+ "scene": "민준 첫 휴가. 치킨집에서 만나기로 했는데",
+ "speakers": {
+  "A": "{name}",
+  "B": "민준"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "보고 싶었어",
+  "헐"
+ ],
+ "goal": "A friend's first leave from the army",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "야! 나 휴가 나왔어!",
+   "rd": "ya! na hyuga nawasseo!",
+   "en": "Hey! I'm out on leave!",
+   "note": "휴가",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "헐, 민준아! 머리 짧다!",
+   "rd": "heol, minjuna! meori jjalda!",
+   "en": "Whoa, Minjun! Your hair's so short!",
+   "note": "짧다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "군인이잖아. 치킨 시켰어?",
+   "rd": "guninijana. chikin sikyeosseo?",
+   "en": "I'm a soldier. Did you order chicken?",
+   "note": "군인",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "당연하지. 세 마리.",
+   "rd": "dangyeonhaji. se mari.",
+   "en": "Of course. Three.",
+   "note": "세 마리",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "…편지 고마웠어. 한국어 많이 늘었더라.",
+   "rd": "…pyeonji gomawosseo. hangugeo mani neureotdeora.",
+   "en": "…Thanks for the letters. Your Korean improved a lot.",
+   "note": "편지",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "진짜? 틀린 거 많았지?",
+   "rd": "jinjja? teullin geo manatji?",
+   "en": "Really? Lots of mistakes?",
+   "note": "틀리다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "응. 그래서 다 외웠어. 웃겨서.",
+   "rd": "eung. geuraeseo da oewosseo. utgyeoseo.",
+   "en": "Yeah. That's why I memorized them all. They were funny.",
+   "note": "심쿵(우정)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…치킨 하나 더 시킬게.",
+   "rd": "…chikin hana deo sikilge.",
+   "en": "…I'll order one more chicken.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "M"
+}

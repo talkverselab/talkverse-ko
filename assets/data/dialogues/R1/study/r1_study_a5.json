@@ -32,12 +32,13 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "저기요, 여기 자리 있어요?",
-   "rd": "jeogiyo, yeogi jari isseoyo?",
+   "ko": "저기요, 이 자리 있어요?",
+   "rd": "jeogiyo, i jari isseoyo?",
    "en": "Excuse me, is this seat taken?",
    "note": "자리 있어요?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a5/cut1"
   },
   {
    "num": 2,
@@ -52,19 +53,20 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "아, 죄송해요. 누구 자리예요?",
-   "rd": "a, joesonghaeyo. nugu jariyeyo?",
+   "ko": "아 죄송해요. 누구 자리예요?",
+   "rd": "a joesonghaeyo. nugu jariyeyo?",
    "en": "Oh, sorry. Whose seat is it?",
    "note": "누구",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a5/cut2"
   },
   {
    "num": 4,
    "speaker": "B",
-   "ko": "{name} 씨 자리요.",
-   "rd": "{name} ssi jariyo.",
-   "en": "Yours.",
+   "ko": "{name} 씨 자리요. 제가 맡아 놨어요.",
+   "rd": "{name} ssi jariyo. jega mata nwasseoyo.",
+   "en": "It's your seat. I saved it.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -72,19 +74,20 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "…네? 제 자리요?",
-   "rd": "…ne? je jariyo?",
-   "en": "…Sorry? Mine?",
+   "ko": "…진짜요? 제 자리요?",
+   "rd": "…jinjjayo? je jariyo?",
+   "en": "…Really? Mine?",
    "note": "제 자리",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a5/cut3"
   },
   {
    "num": 6,
    "speaker": "B",
-   "ko": "매일 이 시간에 오시잖아요. 맡아 놨어요.",
-   "rd": "maeil i sigane osijanayo. mata nwasseoyo.",
-   "en": "You come at this time every day. I saved it.",
+   "ko": "매일 이 시간에 오시잖아요. 맡아 놨어요…",
+   "rd": "maeil i sigane osijanayo. mata nwasseoyo…",
+   "en": "You come at this time every day. I saved it…",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -92,19 +95,20 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "감사합니다… 근데 저 공부 안 될 것 같아요.",
-   "rd": "gamsahamnida… geunde jeo gongbu an doel geot gatayo.",
+   "ko": "감사합니다… 근데 공부 안 될 것 같아요.",
+   "rd": "gamsahamnida… geunde gongbu an doel geot gatayo.",
    "en": "Thank you… but I don't think I'll get any studying done.",
    "note": "공부",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a5/cut4"
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "저도요.",
-   "rd": "jeodoyo.",
-   "en": "Me neither.",
+   "ko": "저도요…",
+   "rd": "jeodoyo…",
+   "en": "Me neither…",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -112,5 +116,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_study_a5_grok_rewrite.md [K221]",
+  "final": ""
+ }
 }

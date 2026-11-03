@@ -1,0 +1,114 @@
+{
+ "id": "r0_culture_a7",
+ "region": "R0",
+ "island": "culture",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "한강 치맥",
+ "emoji": "🍗",
+ "scene": "한강. 치킨을 시켰는데 배달 기사님이 「어디세요?」",
+ "speakers": {
+  "A": "{name}",
+  "B": "배달 기사님",
+  "C": "민준"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "여기요",
+  "헐",
+  "빨리"
+ ],
+ "goal": "Delivery to a park",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "(전화) 한강 어디세요?",
+   "rd": "(jeonhwa) hangang eodiseyo?",
+   "en": "(phone) Where at the Han River?",
+   "note": "어디",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "여기요! 나무 옆!",
+   "rd": "yeogiyo! namu yeop!",
+   "en": "Here! Next to a tree!",
+   "note": "여기요",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "나무가 백 개예요.",
+   "rd": "namuga baek gaeyeyo.",
+   "en": "There are a hundred trees.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "어… 파란 텐트!",
+   "rd": "eo… paran tenteu!",
+   "en": "Uh… a blue tent!",
+   "note": "텐트",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "파란 텐트도 오십 개예요.",
+   "rd": "paran tenteudo osip gaeyeyo.",
+   "en": "There are fifty blue tents too.",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "손 흔들어! 크게!",
+   "rd": "son heundeureo! keuge!",
+   "en": "Wave! Big!",
+   "note": "흔들다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "(다 같이 흔든다) 여기요!!",
+   "rd": "(da gachi heundeunda) yeogiyo!!",
+   "en": "(everyone waves) Over here!!",
+   "note": "Kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "…찾았다. 다들 흔드네요.",
+   "rd": "…chajatda. dadeul heundeuneyo.",
+   "en": "…Found you. Everyone is waving.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

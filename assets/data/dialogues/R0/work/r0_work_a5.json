@@ -1,0 +1,114 @@
+{
+ "id": "r0_work_a5",
+ "region": "R0",
+ "island": "work",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "work"
+ ],
+ "domain": [
+  "work"
+ ],
+ "title": "회의실 예약",
+ "emoji": "📅",
+ "scene": "회의실에 들어갔는데 이미 다른 팀이 있다",
+ "speakers": {
+  "A": "{name}",
+  "B": "다른 팀",
+  "C": "또 다른 팀"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "죄송합니다",
+  "네?",
+  "잠깐만요"
+ ],
+ "goal": "Meeting-room mixup",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "어? 여기 예약했는데요.",
+   "rd": "eo? yeogi yeyakaenneundeyo.",
+   "en": "Huh? I booked this room.",
+   "note": "예약",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "저희도 예약했어요.",
+   "rd": "jeohuido yeyakaesseoyo.",
+   "en": "We booked it too.",
+   "note": "저희도",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "(문 열며) 저희도요!",
+   "rd": "(mun yeolmyeo) jeohuidoyo!",
+   "en": "(opening door) Us too!",
+   "note": "Kick: triple booking — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "잠깐만요… 시간이요?",
+   "rd": "jamkkanmanyo… siganiyo?",
+   "en": "Wait… the time?",
+   "note": "시간",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "3시요.",
+   "rd": "3siyo.",
+   "en": "3 o'clock.",
+   "note": "3시",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "3시!",
+   "rd": "3si!",
+   "en": "3 o'clock!",
+   "note": "same",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "…다 같이 회의할까요?",
+   "rd": "…da gachi hoeuihalkkayo?",
+   "en": "…Shall we all have the meeting together?",
+   "note": "같이",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "안건이 다른데요?",
+   "rd": "angeoni dareundeyo?",
+   "en": "But our topics are different.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

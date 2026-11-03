@@ -1,0 +1,116 @@
+{
+ "id": "r0_love_a18",
+ "region": "R0",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "우산 빼앗기",
+ "emoji": "☂️",
+ "scene": "비 오는 정문. 지안이 학습자 우산 속으로 쏙 들어온다",
+ "speakers": {
+  "A": "{name}",
+  "B": "지안"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "같이",
+  "진짜요?",
+  "괜찮아요"
+ ],
+ "goal": "Sharing an umbrella — her move",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "저 우산 없어요.",
+   "rd": "jeo usan eopseoyo.",
+   "en": "I don't have an umbrella.",
+   "note": "우산",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "아… 같이 쓸래요?",
+   "rd": "a… gachi sseullaeyo?",
+   "en": "Oh… want to share?",
+   "note": "같이",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "네! 근데…",
+   "rd": "ne! geunde…",
+   "en": "Yes! But…",
+   "note": "근데",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "네?",
+   "rd": "ne?",
+   "en": "Yes?",
+   "note": "네",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "사실 가방에 있어요.",
+   "rd": "sasil gabange isseoyo.",
+   "en": "Actually there's one in my bag.",
+   "note": "심쿵: she lied",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "헐… 그럼 왜요?",
+   "rd": "heol… geureom waeyo?",
+   "en": "Whoa… then why?",
+   "note": "왜요",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "이게 더 좋아서요.",
+   "rd": "ige deo joaseoyo.",
+   "en": "Because this is better.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…비 그치지 마라.",
+   "rd": "…bi geuchiji mara.",
+   "en": "…Rain, don't stop.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

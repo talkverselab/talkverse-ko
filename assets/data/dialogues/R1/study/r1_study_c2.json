@@ -1,0 +1,130 @@
+{
+ "id": "r1_study_c2",
+ "region": "R1",
+ "island": "study",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "study"
+ ],
+ "domain": [
+  "study"
+ ],
+ "title": "교수님 답장",
+ "emoji": "📧",
+ "scene": "교수님께 메일을 보냈는데 답장이 이상하게 빠르다",
+ "speakers": {
+  "A": "{name}",
+  "B": "교수님",
+  "C": "서아"
+ },
+ "register": "chat",
+ "twist": 4,
+ "twist_type": "reveal",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "감사합니다",
+  "헐",
+  "진짜?"
+ ],
+ "goal": "An unexpectedly fast reply",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "(메일) 교수님, 과제 질문이 있습니다.",
+   "rd": "(meil) gyosunim, gwaje jilmuni itseumnida.",
+   "en": "(email) Professor, I have a question about the assignment.",
+   "note": "질문",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:00"
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "(메일) 네, 말씀하세요.",
+   "rd": "(meil) ne, malsseumhaseyo.",
+   "en": "(email) Yes, go ahead.",
+   "note": "말씀하세요",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:00"
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "헐 1분 만에 답장…",
+   "rd": "heol 1bun mane dapjang…",
+   "en": "Whoa, a reply in one minute…",
+   "note": "답장",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:01"
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "(카톡) 교수님 지금 안 주무셔?",
+   "rd": "(katok) gyosunim jigeum an jumusyeo?",
+   "en": "(KakaoTalk) The professor's not sleeping?",
+   "note": "주무시다",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:01"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "(메일) 저도 과제 채점 중이에요.",
+   "rd": "(meil) jeodo gwaje chaejeom jungieyo.",
+   "en": "(email) I'm grading assignments too.",
+   "note": "Kick",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:02"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "(메일) 혹시 제 거도요?",
+   "rd": "(meil) hoksi je geodoyo?",
+   "en": "(email) Including mine by any chance?",
+   "note": "혹시",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:02"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "(메일) 네. 지금 보고 있어요.",
+   "rd": "(meil) ne. jigeum bogo isseoyo.",
+   "en": "(email) Yes. Looking at it now.",
+   "note": "Kick: chaos-ish",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:03"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "(카톡) …나 지금 자러 갈게",
+   "rd": "(katok) …na jigeum jareo galge",
+   "en": "(KakaoTalk) …I'm going to sleep now",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:03"
+  }
+ ]
+}

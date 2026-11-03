@@ -32,19 +32,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "한 바구니만 따요.",
-   "rd": "han baguniman ttayo.",
+   "ko": "한 바구니만 따세요.",
+   "rd": "han baguniman ttaseyo.",
    "en": "Pick just one basket.",
    "note": "따다 = pick",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a5/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "네! 진짜 많아요.",
-   "rd": "ne! jinjja manayo.",
-   "en": "Okay! There are so many.",
+   "ko": "네, 진짜 많네요.",
+   "rd": "ne, jinjja manneyo.",
+   "en": "Yes, there are so many.",
    "note": "많다",
    "tags": [],
    "new": []
@@ -52,12 +53,13 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "먹어도 돼요.",
-   "rd": "meogeodo dwaeyo.",
-   "en": "You can eat them too.",
+   "ko": "먹어도 괜찮아요.",
+   "rd": "meogeodo gwaenchanayo.",
+   "en": "You can eat them.",
    "note": "먹어도 돼요",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a5/cut2"
   },
   {
    "num": 4,
@@ -72,19 +74,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "(30분 뒤) …몇 개 먹었어요?",
-   "rd": "(30bun dwi) …myeot gae meogeosseoyo?",
-   "en": "(30 min later) …How many did you eat?",
+   "ko": "(30분 뒤) 몇 개나 먹었어요?",
+   "rd": "(30bun dwi) myeot gaena meogeosseoyo?",
+   "en": "(30 min later) How many did you eat?",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a5/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "스무 개요. 바구니는 비었어요.",
-   "rd": "seumu gaeyo. bagunineun bieosseoyo.",
-   "en": "Twenty. The basket's empty.",
+   "ko": "서른 개요. 바구니는 다 비었어요.",
+   "rd": "seoreun gaeyo. bagunineun da bieosseoyo.",
+   "en": "Thirty. The basket's all empty.",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -92,22 +95,27 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "헐… 배 괜찮아요?",
-   "rd": "heol… bae gwaenchanayo?",
+   "ko": "헐… 배는 괜찮아요?",
+   "rd": "heol… baeneun gwaenchanayo?",
    "en": "Whoa… is your stomach okay?",
    "note": "배",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a5/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "손이 노래졌어요.",
-   "rd": "soni noraejyeosseoyo.",
-   "en": "My hands turned yellow.",
+   "ko": "손이 완전 노래졌어요…",
+   "rd": "soni wanjeon noraejyeosseoyo…",
+   "en": "My hands turned completely yellow…",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_travel_a5_grok_rewrite.md [K211]",
+  "final": ""
+ }
 }

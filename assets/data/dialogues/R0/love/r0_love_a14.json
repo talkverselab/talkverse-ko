@@ -32,19 +32,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "네 거 맛있어?",
-   "rd": "ne geo masisseo?",
-   "en": "Is yours good?",
+   "ko": "너 거 맛있어?",
+   "rd": "neo geo masisseo?",
+   "en": "Yours good?",
    "note": "네 거 = yours",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a14/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "응. 딸기 맛.",
-   "rd": "eung. ttalgi mat.",
-   "en": "Yeah. Strawberry.",
+   "ko": "응, 진짜 맛있어.",
+   "rd": "eung, jinjja masisseo.",
+   "en": "Yeah, really good.",
    "note": "맛 = flavor",
    "tags": [],
    "new": []
@@ -52,12 +53,13 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "한 입만.",
-   "rd": "han imman.",
+   "ko": "한 입만 줘.",
+   "rd": "han imman jwo.",
    "en": "Just one bite.",
    "note": "한 입",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a14/cut2"
   },
   {
    "num": 4,
@@ -72,18 +74,19 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "…음, 맛있다.",
-   "rd": "…eum, masitda.",
-   "en": "…Mm, it's good.",
+   "ko": "헐… 진짜 맛있다.",
+   "rd": "heol… jinjja masitda.",
+   "en": "Whoa… really good.",
    "note": "심쿵: same spoon",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a14/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "헐, 내 숟가락…",
-   "rd": "heol, nae sutgarak…",
+   "ko": "헐 내 숟가락…",
+   "rd": "heol nae sutgarak…",
    "en": "Whoa, my spoon…",
    "note": "숟가락 = spoon",
    "tags": [],
@@ -92,19 +95,20 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "알아. 일부러야.",
-   "rd": "ara. ilbureoya.",
-   "en": "I know. On purpose.",
+   "ko": "알아… 일부러야…",
+   "rd": "ara… ilbureoya…",
+   "en": "I know… on purpose…",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a14/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…나도 네 거 한 입.",
-   "rd": "…nado ne geo han ip.",
-   "en": "…One bite of yours, then.",
+   "ko": "그럼 나도 네 거…",
+   "rd": "geureom nado ne geo…",
+   "en": "Then me too yours…",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -112,5 +116,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a14_grok_rewrite.md [K204]",
+  "final": ""
+ }
 }

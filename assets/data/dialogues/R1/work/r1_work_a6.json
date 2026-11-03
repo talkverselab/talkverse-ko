@@ -1,0 +1,116 @@
+{
+ "id": "r1_work_a6",
+ "region": "R1",
+ "island": "work",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "work"
+ ],
+ "domain": [
+  "work"
+ ],
+ "title": "이름 실수",
+ "emoji": "📛",
+ "scene": "팀장님 이름을 계속 틀리게 불렀다. 3개월 동안",
+ "speakers": {
+  "A": "{name}",
+  "B": "지호 선배",
+  "C": "팀장님",
+  "D": "대리님",
+  "E": "다른 동료"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "죄송합니다",
+  "진짜요?",
+  "헐"
+ ],
+ "goal": "Getting the boss's name wrong",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "김 팀장님, 보고서입니다.",
+   "rd": "gim timjangnim, bogoseoimnida.",
+   "en": "Team leader Kim, here's the report.",
+   "note": "팀장님",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "(속삭이며) …팀장님 박 씨야.",
+   "rd": "(soksagimyeo) …timjangnim bak ssiya.",
+   "en": "(whisper) …The boss is Park.",
+   "note": "Kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "네? 3개월 동안 김이라고 했는데요?",
+   "rd": "ne? 3gaewol dongan gimirago haenneundeyo?",
+   "en": "What? I've been calling him Kim for three months?",
+   "note": "3개월",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "괜찮아요. 저도 몰랐네요, 내가 김인 줄.",
+   "rd": "gwaenchanayo. jeodo mollanneyo, naega gimin jul.",
+   "en": "It's fine. I didn't realize I was Kim either.",
+   "note": "joke",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "D",
+   "ko": "(옆에서) 저도 김 팀장님이라고 했어요…",
+   "rd": "(yeopeseo) jeodo gim timjangnimirago haesseoyo…",
+   "en": "(nearby) I've been calling him Kim too…",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "E",
+   "ko": "저도요.",
+   "rd": "jeodoyo.",
+   "en": "Me too.",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "…이제부터 김 팀장 할까요?",
+   "rd": "…ijebuteo gim timjang halkkayo?",
+   "en": "…Should I just be Team Leader Kim from now on?",
+   "note": "joke",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "죄송합니다, 박 팀장님!",
+   "rd": "joesonghamnida, bak timjangnim!",
+   "en": "Sorry, Team Leader Park!",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "id": "r0_travel_a6",
+ "region": "R0",
+ "island": "travel",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "travel"
+ ],
+ "domain": [
+  "travel"
+ ],
+ "title": "길 잃었어요",
+ "emoji": "🗺️",
+ "scene": "명동. 길을 잃어 물어봤는데 다들 영어로 대답한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "행인"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "slip",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "저기요",
+  "감사합니다",
+  "한국어로"
+ ],
+ "goal": "Asking for directions in Korean",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "저기요, 명동역 어디예요?",
+   "rd": "jeogiyo, myeongdongyeok eodiyeyo?",
+   "en": "Excuse me, where is Myeongdong station?",
+   "note": "어디",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "Go straight!",
+   "rd": "Go straight!",
+   "en": "Go straight!",
+   "note": "English reply",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "한국어로 말해 주세요!",
+   "rd": "hangugeoro malhae juseyo!",
+   "en": "Please speak Korean!",
+   "note": "한국어로",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "어? 한국어 잘해요!",
+   "rd": "eo? hangugeo jalhaeyo!",
+   "en": "Oh? You speak Korean well!",
+   "note": "잘하다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "감사합니다. 역은요?",
+   "rd": "gamsahamnida. yeogeunyo?",
+   "en": "Thank you. And the station?",
+   "note": "역",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "쭉 가요. 저기!",
+   "rd": "jjuk gayo. jeogi!",
+   "en": "Go straight. There!",
+   "note": "쭉",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "…\"Go straight\"랑 똑같네요.",
+   "rd": "…\"Go straight\"rang ttokganneyo.",
+   "en": "…Same as \"go straight.\"",
+   "note": "Kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "ㅋㅋ 네. 똑같아요.",
+   "rd": "ㅋㅋ ne. ttokgatayo.",
+   "en": "Haha, yes. Same.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

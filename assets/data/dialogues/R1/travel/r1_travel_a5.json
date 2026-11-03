@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "조금만 더 뒤로! 파도랑 같이 나오게.",
-   "rd": "jogeumman deo dwiro! padorang gachi naoge.",
-   "en": "A bit further back! So the wave is in the shot.",
+   "ko": "조금만 더 뒤로! 파도 나오게.",
+   "rd": "jogeumman deo dwiro! pado naoge.",
+   "en": "A bit further back! Get the wave in.",
    "note": "뒤로 = back",
    "tags": [],
    "new": []
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "여기? 신발 젖는데.",
-   "rd": "yeogi? sinbal jeonneunde.",
-   "en": "Here? My shoes will get wet.",
+   "ko": "여기? 신발 젖어.",
+   "rd": "yeogi? sinbal jeojeo.",
+   "en": "Here? Shoes are getting wet.",
    "note": "젖다",
    "tags": [],
    "new": []
@@ -54,9 +54,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "조금만 더!",
-   "rd": "jogeumman deo!",
-   "en": "Just a bit more!",
+   "ko": "조금만 더! 진짜 조금만!",
+   "rd": "jogeumman deo! jinjja jogeumman!",
+   "en": "Just a bit more! Really just a bit!",
    "note": "더",
    "tags": [],
    "new": []
@@ -64,9 +64,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "여기?",
-   "rd": "yeogi?",
-   "en": "Here?",
+   "ko": "여기 괜찮아?",
+   "rd": "yeogi gwaenchana?",
+   "en": "Is here okay?",
    "note": "여기",
    "tags": [],
    "new": []
@@ -74,9 +74,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "(파도) 쏴아아—",
-   "rd": "(pado) sswaaa—",
-   "en": "(wave) Whoosh—",
+   "ko": "(파도) 쏴아아— 더 크게!",
+   "rd": "(pado) sswaaa— deo keuge!",
+   "en": "(wave) Whoosh— even bigger!",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "헐… 다 젖었어!",
-   "rd": "heol… da jeojeosseo!",
-   "en": "Whoa… I'm soaked!",
+   "ko": "헐… 옷까지 다 젖었어!",
+   "rd": "heol… otkkaji da jeojeosseo!",
+   "en": "Whoa… clothes are all soaked too!",
    "note": "다",
    "tags": [],
    "new": []
@@ -94,9 +94,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "근데 사진 대박이야. 인생 사진.",
-   "rd": "geunde sajin daebagiya. insaeng sajin.",
-   "en": "But the photo is amazing. Photo of a lifetime.",
+   "ko": "근데 사진 대박이야. 진짜 인생 사진.",
+   "rd": "geunde sajin daebagiya. jinjja insaeng sajin.",
+   "en": "But the photo is amazing. Really a life photo.",
    "note": "인생 사진",
    "tags": [],
    "new": []
@@ -106,10 +106,14 @@
    "speaker": "A",
    "ko": "아 몰라. 그 사진 꼭 올려.",
    "rd": "a molla. geu sajin kkok ollyeo.",
-   "en": "Ugh. You'd better post that photo.",
+   "en": "Whatever. You'd better post that photo.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_travel_a5_grok_rewrite.md [K223]",
+  "final": ""
+ }
 }

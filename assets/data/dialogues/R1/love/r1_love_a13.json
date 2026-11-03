@@ -32,12 +32,13 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "어디 가세요? 같은 방향이면 같이 타요.",
-   "rd": "eodi gaseyo? gateun banghyangimyeon gachi tayo.",
+   "ko": "어디 가시나요? 같은 방향이면 같이 타요.",
+   "rd": "eodi gasinayo? gateun banghyangimyeon gachi tayo.",
    "en": "Where are you headed? If it's the same way, let's share.",
    "note": "방향 = direction",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a13/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "I'm in Mangwon-dong too.",
    "note": "저도",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a13/cut2"
   },
   {
    "num": 4,
@@ -72,19 +74,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "…사실 합정이에요.",
-   "rd": "…sasil hapjeongieyo.",
-   "en": "…Actually I live in Hapjeong.",
+   "ko": "…사실 저는 합정이에요.",
+   "rd": "…sasil jeoneun hapjeongieyo.",
+   "en": "…Actually I'm in Hapjeong.",
    "note": "심쿵: she lied",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a13/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "헐, 그럼 왜…",
-   "rd": "heol, geureom wae…",
-   "en": "Whoa, then why…",
+   "ko": "헐 그럼 왜 같이…",
+   "rd": "heol geureom wae gachi…",
+   "en": "Whoa, then why together…",
    "note": "왜",
    "tags": [],
    "new": []
@@ -92,12 +95,13 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "같이 타고 싶어서요.",
-   "rd": "gachi tago sipeoseoyo.",
-   "en": "Because I wanted to ride with you.",
+   "ko": "같이 타고 싶어서요…",
+   "rd": "gachi tago sipeoseoyo…",
+   "en": "Because I wanted to ride with you…",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a13/cut4"
   },
   {
    "num": 8,
@@ -112,5 +116,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a13_grok_rewrite.md [K217]",
+  "final": ""
+ }
 }

@@ -1,0 +1,130 @@
+{
+ "id": "r1_culture_c3",
+ "region": "R1",
+ "island": "culture",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "드라마 스포",
+ "emoji": "📺",
+ "scene": "서아가 학습자가 보는 드라마의 결말을 단톡에서 말해 버렸다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준"
+ },
+ "register": "chat",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "재벌 2세 · 기억상실 클리셰 스포",
+ "expressions": [
+  "헐",
+  "ㅋㅋ",
+  "아 몰라"
+ ],
+ "goal": "Spoiler chaos",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "헐 마지막 회 봤어? 남주가 재벌 2세였어",
+   "rd": "heol majimak hoe bwasseo? namjuga jaebeol 2seyeosseo",
+   "en": "Whoa did you see the finale? The male lead was a chaebol heir",
+   "note": "재벌",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:00"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "야!! 나 아직 3화야!!",
+   "rd": "ya!! na ajik 3hwaya!!",
+   "en": "Hey!! I'm still on episode 3!!",
+   "note": "Kick: spoiler",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:00"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "헐 미안!! 근데 3화도 재벌이야",
+   "rd": "heol mian!! geunde 3hwado jaebeoriya",
+   "en": "Whoa sorry!! But he's rich in episode 3 too",
+   "note": "chaos",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:01"
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "그리고 기억상실도 있어",
+   "rd": "geurigo gieoksangsildo isseo",
+   "en": "And there's amnesia too",
+   "note": "more spoilers",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:01"
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "다 말하지 마!!",
+   "rd": "da malhaji ma!!",
+   "en": "Stop telling me everything!!",
+   "note": "말하다",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:01"
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "ㅋㅋ 근데 이거 다 클리셰야",
+   "rd": "ㅋㅋ geunde igeo da keullisyeya",
+   "en": "Lol but these are all clichés",
+   "note": "클리셰",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:02"
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "그래서 몰라도 다 알아",
+   "rd": "geuraeseo mollado da ara",
+   "en": "So you know it all even without knowing",
+   "note": "logic",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:02"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…그럼 그냥 마지막 회 볼게",
+   "rd": "…geureom geunyang majimak hoe bolge",
+   "en": "…Then I'll just watch the finale",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:03"
+  }
+ ]
+}

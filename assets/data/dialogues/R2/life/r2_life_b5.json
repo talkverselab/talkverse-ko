@@ -1,0 +1,155 @@
+{
+ "id": "r2_life_b5",
+ "region": "R2",
+ "island": "life",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "전기 끊김",
+ "emoji": "💡",
+ "scene": "태풍 오는 밤. 셰어하우스 전기가 나갔다",
+ "speakers": {
+  "A": "{name}",
+  "B": "도윤",
+  "C": "서아"
+ },
+ "register": "casual",
+ "twist": 8,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "잠깐만",
+  "괜찮아",
+  "아 몰라"
+ ],
+ "goal": "Blackout night",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "헐, 불 나갔어!",
+   "rd": "heol, bul nagasseo!",
+   "en": "Whoa, the power's out!",
+   "note": "불",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "태풍 때문인가 봐.",
+   "rd": "taepung ttaemuninga bwa.",
+   "en": "Must be the typhoon.",
+   "note": "태풍",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "촛불 어디 있어?",
+   "rd": "chotbul eodi isseo?",
+   "en": "Where are the candles?",
+   "note": "촛불",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "폰 라이트 켤게.",
+   "rd": "pon raiteu kyeolge.",
+   "en": "I'll turn on my phone light.",
+   "note": "라이트",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "냉장고 아이스크림 어떡해!",
+   "rd": "naengjanggo aiseukeurim eotteokae!",
+   "en": "What about the ice cream in the fridge!",
+   "note": "아이스크림",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "지금 다 먹어야 돼!",
+   "rd": "jigeum da meogeoya dwae!",
+   "en": "We have to eat it all now!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "(셋이 어둠 속에서 아이스크림을 먹는다)",
+   "rd": "(sesi eodum sogeseo aiseukeurimeul meongneunda)",
+   "en": "(the three eat ice cream in the dark)",
+   "note": "scene",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "…무서운 얘기 할까?",
+   "rd": "…museoun yaegi halkka?",
+   "en": "…Shall we tell scary stories?",
+   "note": "무섭다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "C",
+   "ko": "(쾅!) 으아아!",
+   "rd": "(kwang!) euaa!",
+   "en": "(bang!) Waaah!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "그냥 창문 바람이야!",
+   "rd": "geunyang changmun baramiya!",
+   "en": "It's just the window in the wind!",
+   "note": "바람",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "(불 들어온다) …아.",
+   "rd": "(bul deureoonda) …a.",
+   "en": "(power returns) …Oh.",
+   "note": "reveal",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "C",
+   "ko": "아이스크림 다 먹었는데…",
+   "rd": "aiseukeurim da meogeonneunde…",
+   "en": "We already ate all the ice cream…",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

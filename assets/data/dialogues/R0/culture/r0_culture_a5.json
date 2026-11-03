@@ -32,19 +32,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "이사 왔어요? 이거 떡이에요.",
-   "rd": "isa wasseoyo? igeo tteogieyo.",
-   "en": "Did you just move in? Here, rice cakes.",
+   "ko": "이사 왔나 봐요. 떡 가져왔어요.",
+   "rd": "isa wanna bwayo. tteok gajyeowasseoyo.",
+   "en": "Looks like you moved in. Brought some rice cakes.",
    "note": "떡 = rice cake",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_culture_a5/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "진짜요? 감사합니다!",
-   "rd": "jinjjayo? gamsahamnida!",
-   "en": "Really? Thank you!",
+   "ko": "어, 진짜요? 감사합니다.",
+   "rd": "eo, jinjjayo? gamsahamnida.",
+   "en": "Oh, really? Thank you.",
    "note": "감사합니다",
    "tags": [],
    "new": []
@@ -52,19 +53,20 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "혼자 살아요?",
-   "rd": "honja sarayo?",
-   "en": "Do you live alone?",
+   "ko": "혼자 사시는 거예요?",
+   "rd": "honja sasineun geoyeyo?",
+   "en": "You live by yourself?",
    "note": "혼자",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_culture_a5/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "네. 한국 처음이에요.",
-   "rd": "ne. hanguk cheoeumieyo.",
-   "en": "Yes. My first time in Korea.",
+   "ko": "네, 혼자예요. 밥은 아직...",
+   "rd": "ne, honjayeyo. babeun ajik...",
+   "en": "Yeah, alone. Food's still...",
    "note": "처음",
    "tags": [],
    "new": []
@@ -72,19 +74,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "그럼 밥은 우리 집에서 먹어요.",
-   "rd": "geureom babeun uri jibeseo meogeoyo.",
-   "en": "Then eat at our place.",
+   "ko": "그럼 우리 집에 와서 먹어요.",
+   "rd": "geureom uri jibe waseo meogeoyo.",
+   "en": "Then come eat at our place.",
    "note": "심쿵(정): her warmth",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_culture_a5/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "괜찮아요… 진짜요?",
-   "rd": "gwaenchanayo… jinjjayo?",
-   "en": "It's fine… really?",
+   "ko": "괜찮아요... 진짜요?",
+   "rd": "gwaenchanayo... jinjjayo?",
+   "en": "It's okay... really?",
    "note": "괜찮아요",
    "tags": [],
    "new": []
@@ -92,22 +95,27 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "진짜. 할머니 혼자 먹으면 심심해.",
-   "rd": "jinjja. halmeoni honja meogeumyeon simsimhae.",
-   "en": "Really. Eating alone is boring for grandma.",
+   "ko": "진짜야. 혼자 먹으면 심심해서...",
+   "rd": "jinjjaya. honja meogeumyeon simsimhaeseo...",
+   "en": "Really. Eating alone gets lonely...",
    "note": "심심하다 = bored",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_culture_a5/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "그럼 매일 갈게요!",
-   "rd": "geureom maeil galgeyo!",
-   "en": "Then I'll come every day!",
+   "ko": "그럼 저도 뭐 가져올게요.",
+   "rd": "geureom jeodo mwo gajyeoolgeyo.",
+   "en": "Then I'll bring something too.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_culture_a5_grok_rewrite.md [K201]",
+  "final": ""
+ }
 }

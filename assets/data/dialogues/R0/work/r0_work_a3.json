@@ -38,7 +38,8 @@
    "en": "What shall we have for lunch?",
    "note": "점심 = lunch",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_work_a3/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "Then how about kimchi stew?",
    "note": "김치찌개",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_work_a3/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "(whisper) The boss eats that every day.",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_work_a3/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "Already four years.",
    "note": "Kick",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_work_a3/cut4"
   },
   {
    "num": 8,

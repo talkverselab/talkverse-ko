@@ -1,0 +1,130 @@
+{
+ "id": "r1_work_c3",
+ "region": "R1",
+ "island": "work",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "work"
+ ],
+ "domain": [
+  "work"
+ ],
+ "title": "단톡 실수",
+ "emoji": "💬",
+ "scene": "팀 단톡방에 지호 선배에게 보낼 말을 보냈다",
+ "speakers": {
+  "A": "{name}",
+  "B": "지호 선배",
+  "C": "팀장님"
+ },
+ "register": "chat",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "죄송합니다",
+  "넵"
+ ],
+ "goal": "Sending a private message to the team chat",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "선배 오늘 팀장님 기분 안 좋으세요?",
+   "rd": "seonbae oneul timjangnim gibun an joeuseyo?",
+   "en": "Jiho, is the boss in a bad mood today?",
+   "note": "기분",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "14:00"
+  },
+  {
+   "num": 2,
+   "speaker": "C",
+   "ko": "(팀 단톡) 기분 좋은데요?",
+   "rd": "(tim dantok) gibun joeundeyo?",
+   "en": "(team chat) I'm in a fine mood?",
+   "note": "Kick: wrong chat — chaos",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "14:00"
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "헐… 죄송합니다!!",
+   "rd": "heol… joesonghamnida!!",
+   "en": "Whoa… I'm so sorry!!",
+   "note": "죄송",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "14:01"
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "(개인톡) ㅋㅋㅋㅋ 큰일 났다",
+   "rd": "(gaeintok) ㅋㅋㅋㅋ keunil natda",
+   "en": "(DM) Lolololol big trouble",
+   "note": "큰일",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "14:01"
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "(팀 단톡) 괜찮아요. 근데 왜 그렇게 생각했어요?",
+   "rd": "(tim dantok) gwaenchanayo. geunde wae geureoke saenggakaesseoyo?",
+   "en": "(team chat) It's okay. But why did you think so?",
+   "note": "question",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "14:02"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…회의 때 한숨 쉬셔서요",
+   "rd": "…hoeui ttae hansum swisyeoseoyo",
+   "en": "…Because you sighed in the meeting",
+   "note": "honest",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "14:02"
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "(팀 단톡) 그건 점심 메뉴 고민이었어요 ㅋㅋ",
+   "rd": "(tim dantok) geugeon jeomsim menyu gominieosseoyo ㅋㅋ",
+   "en": "(team chat) I was thinking about lunch lol",
+   "note": "reveal",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "14:03"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "넵!!! 다행입니다!!!",
+   "rd": "nep!!! dahaengimnida!!!",
+   "en": "Yes!!! What a relief!!!",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "14:03"
+  }
+ ]
+}

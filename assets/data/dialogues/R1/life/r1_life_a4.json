@@ -38,7 +38,8 @@
    "en": "Doyun, where’d the remote go?",
    "note": "리모컨 = remote",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a4/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "No. It’s so hot I’m dying.",
    "note": "덥다 = hot",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a4/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Whoa… it’s actually here. Totally cold.",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a4/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "Then where are the ice cream and pizza?",
    "note": "Kick 2",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a4/cut4"
   },
   {
    "num": 8,

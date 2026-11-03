@@ -1,0 +1,116 @@
+{
+ "id": "r0_love_a21",
+ "region": "R0",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "첫 데이트 옷",
+ "emoji": "👕",
+ "scene": "첫 데이트. 유진과 학습자가 똑같은 옷을 입고 왔다",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진",
+  "C": "행인",
+  "D": "점원"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "ㅋㅋ"
+ ],
+ "goal": "Accidental matching outfits",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "어? 너 그 옷…",
+   "rd": "eo? neo geu ot…",
+   "en": "Huh? Your clothes…",
+   "note": "옷",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "헐. 너도?",
+   "rd": "heol. neodo?",
+   "en": "Whoa. You too?",
+   "note": "너도",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "똑같아!",
+   "rd": "ttokgata!",
+   "en": "Identical!",
+   "note": "똑같다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "커플티 아니야. 진짜로.",
+   "rd": "keopeulti aniya. jinjjaro.",
+   "en": "These aren't couple tees. Seriously.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "어머, 커플이다~",
+   "rd": "eomeo, keopeurida~",
+   "en": "Aww, a couple~",
+   "note": "Kick: everyone notices — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "D",
+   "ko": "사진 찍어 드릴까요?",
+   "rd": "sajin jjigeo deurilkkayo?",
+   "en": "Shall I take your picture?",
+   "note": "사진",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "ㅋㅋ 이제 진짜 커플이네.",
+   "rd": "ㅋㅋ ije jinjja keopeurine.",
+   "en": "Lol now we're really a couple.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…그럼 오늘부터 1일?",
+   "rd": "…geureom oneulbuteo 1il?",
+   "en": "…Then is today Day 1?",
+   "note": "punchline callback",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "M"
+}

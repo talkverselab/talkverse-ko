@@ -1,0 +1,114 @@
+{
+ "id": "r0_life_a10",
+ "region": "R0",
+ "island": "life",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "반찬 나눠 먹기",
+ "emoji": "🥢",
+ "scene": "도윤 엄마가 반찬을 보냈다. 셰어하우스 냉장고가 꽉 찼다",
+ "speakers": {
+  "A": "{name}",
+  "B": "도윤",
+  "C": "서아"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "고마워"
+ ],
+ "goal": "Too many side dishes",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "엄마가 반찬 보냈어.",
+   "rd": "eommaga banchan bonaesseo.",
+   "en": "My mom sent side dishes.",
+   "note": "반찬",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "와, 고마워! 몇 개야?",
+   "rd": "wa, gomawo! myeot gaeya?",
+   "en": "Wow, thanks! How many?",
+   "note": "몇 개",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "…스무 통.",
+   "rd": "…seumu tong.",
+   "en": "…Twenty containers.",
+   "note": "Kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "헐. 냉장고 꽉 찼어.",
+   "rd": "heol. naengjanggo kkwak chasseo.",
+   "en": "Whoa. The fridge is full.",
+   "note": "꽉",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "내 우유 어디 갔어?",
+   "rd": "nae uyu eodi gasseo?",
+   "en": "Where did my milk go?",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "김치 뒤에.",
+   "rd": "gimchi dwie.",
+   "en": "Behind the kimchi.",
+   "note": "뒤",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "오늘 저녁 반찬 파티 하자.",
+   "rd": "oneul jeonyeok banchan pati haja.",
+   "en": "Let's have a side-dish party tonight.",
+   "note": "파티",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "C",
+   "ko": "밥만 있으면 돼!",
+   "rd": "bamman isseumyeon dwae!",
+   "en": "All we need is rice!",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

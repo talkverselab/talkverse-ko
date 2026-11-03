@@ -1,0 +1,178 @@
+{
+ "id": "r3_culture_b3",
+ "region": "R3",
+ "island": "culture",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "설날 귀성길",
+ "emoji": "🚗",
+ "scene": "설날 귀성길. 민준 가족 차에 끼어 부산까지 10시간",
+ "speakers": {
+  "A": "{name}",
+  "B": "민준",
+  "C": "민준 아빠",
+  "D": "민준 엄마",
+  "E": "민준 동생",
+  "F": "할머니"
+ },
+ "register": "casual",
+ "twist": 10,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "헐",
+  "아 몰라",
+  "그니까"
+ ],
+ "goal": "The Lunar New Year traffic marathon",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "C",
+   "ko": "(민준 아빠) 서울에서 부산까지 다섯 시간이면 간다!",
+   "rd": "(minjun appa) seoureseo busankkaji daseot siganimyeon ganda!",
+   "en": "(Minjun's dad) Seoul to Busan in five hours!",
+   "note": "다섯 시간",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "다섯 시간이요? 생각보다 짧네요.",
+   "rd": "daseot siganiyo? saenggakboda jjalleyo.",
+   "en": "Five hours? Shorter than I thought.",
+   "note": "짧다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "(두 시간 뒤) …아직 서울이야.",
+   "rd": "(du sigan dwi) …ajik seouriya.",
+   "en": "(two hours later) …We're still in Seoul.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "D",
+   "ko": "(민준 엄마) 휴게소 들르자. 호두과자!",
+   "rd": "(minjun eomma) hyugeso deulleuja. hodugwaja!",
+   "en": "(Minjun's mom) Let's stop at a rest stop. Walnut cakes!",
+   "note": "휴게소",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "휴게소가 주차장 같아요.",
+   "rd": "hyugesoga juchajang gatayo.",
+   "en": "The rest stop looks like a parking lot.",
+   "note": "주차장",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "설날엔 다 그래. 전국이 이동해.",
+   "rd": "seollaren da geurae. jeongugi idonghae.",
+   "en": "It's always like this at Lunar New Year. The whole country moves.",
+   "note": "전국",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "E",
+   "ko": "(동생) 화장실! 급해!",
+   "rd": "(dongsaeng) hwajangsil! geupae!",
+   "en": "(little brother) Bathroom! Urgent!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "C",
+   "ko": "다음 휴게소까지 참아!",
+   "rd": "daeum hyugesokkaji chama!",
+   "en": "Hold it till the next rest stop!",
+   "note": "참다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "D",
+   "ko": "다음 휴게소 두 시간이래.",
+   "rd": "daeum hyugeso du siganirae.",
+   "en": "The next one's two hours away.",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "아 몰라… 저 호두과자 다 먹었어요.",
+   "rd": "a molla… jeo hodugwaja da meogeosseoyo.",
+   "en": "Ugh… I ate all the walnut cakes.",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "(열 시간 뒤) 도착! 할머니!",
+   "rd": "(yeol sigan dwi) dochak! halmeoni!",
+   "en": "(ten hours later) We're here! Grandma!",
+   "note": "도착",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "F",
+   "ko": "(할머니) 아이고, 외국 손님까지! 떡국 먹어라.",
+   "rd": "(halmeoni) aigo, oeguk sonnimkkaji! tteokguk meogeora.",
+   "en": "(Grandma) Oh my, even a foreign guest! Eat rice cake soup.",
+   "note": "환영",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 13,
+   "speaker": "A",
+   "ko": "10시간이 아깝지 않아요.",
+   "rd": "10sigani akkapji anayo.",
+   "en": "The ten hours were worth it.",
+   "note": "감동",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 14,
+   "speaker": "B",
+   "ko": "그니까. 이게 설날이야. 다음 주엔 올라가는 길 또 10시간.",
+   "rd": "geunikka. ige seollariya. daeum juen ollaganeun gil tto 10sigan.",
+   "en": "Right. That's Lunar New Year. And next week, ten hours back.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

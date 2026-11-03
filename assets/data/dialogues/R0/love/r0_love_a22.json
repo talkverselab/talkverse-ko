@@ -1,0 +1,117 @@
+{
+ "id": "r0_love_a22",
+ "region": "R0",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "번호 바꿨어요",
+ "emoji": "📱",
+ "scene": "하늘이 학습자 폰에 자기 이름을 「남편」으로 저장했다",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘",
+  "C": "민준"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "뭐야",
+  "ㅋㅋ"
+ ],
+ "goal": "A contact-name prank",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "어? 전화 왔다. 「남편」?",
+   "rd": "eo? jeonhwa watda. 「nampyeon」?",
+   "en": "Huh? A call. \"Husband\"?",
+   "note": "남편",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "ㅋㅋ 나야.",
+   "rd": "ㅋㅋ naya.",
+   "en": "Lol it's me.",
+   "note": "나야",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "왜 남편이야?",
+   "rd": "wae nampyeoniya?",
+   "en": "Why \"husband\"?",
+   "note": "왜",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "미리 저장했어.",
+   "rd": "miri jeojanghaesseo.",
+   "en": "I saved it in advance.",
+   "note": "심쿵 kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "(옆에서) 헐, 결혼했어?",
+   "rd": "(yeopeseo) heol, gyeolhonhaesseo?",
+   "en": "(nearby) Whoa, you're married?",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "아니야!",
+   "rd": "aniya!",
+   "en": "No!",
+   "note": "아니야",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "아직.",
+   "rd": "ajik.",
+   "en": "Not yet.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…아직?",
+   "rd": "…ajik?",
+   "en": "…Not yet?",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

@@ -34,19 +34,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "비 오면 파전이지.",
-   "rd": "bi omyeon pajeoniji.",
-   "en": "Rainy days mean pajeon.",
+   "ko": "비 오면 무조건 파전이야.",
+   "rd": "bi omyeon mujogeon pajeoniya.",
+   "en": "Rainy days mean pajeon, no question.",
    "note": "파전 = scallion pancake",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_culture_a5/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "왜? 비랑 파전이 무슨 상관이야?",
-   "rd": "wae? birang pajeoni museun sanggwaniya?",
-   "en": "Why? What do rain and pajeon have to do with each other?",
+   "ko": "왜? 비랑 파전이 뭐가 관련 있어?",
+   "rd": "wae? birang pajeoni mwoga gwallyeon isseo?",
+   "en": "Why? What's rain got to do with pajeon?",
    "note": "상관 = relation",
    "tags": [],
    "new": []
@@ -54,18 +55,19 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "부치는 소리가 빗소리 같아서.",
-   "rd": "buchineun soriga bitsori gataseo.",
-   "en": "The frying sound is like the sound of rain.",
+   "ko": "부치는 소리가 빗소리랑 똑같아서.",
+   "rd": "buchineun soriga bitsorirang ttokgataseo.",
+   "en": "The frying sound is exactly like rain.",
    "note": "부치다 = fry (pancake)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_culture_a5/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "진짜? 그게 이유야?",
-   "rd": "jinjja? geuge iyuya?",
+   "ko": "진짜? 그게 이유라고?",
+   "rd": "jinjja? geuge iyurago?",
    "en": "Really? That's the reason?",
    "note": "이유 = reason",
    "tags": [],
@@ -74,19 +76,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "응. 들어 봐. (치익—)",
-   "rd": "eung. deureo bwa. (chiik—)",
-   "en": "Yep. Listen. (sizzle—)",
+   "ko": "응 들어 봐. (치익치익—) 완전 비 소리야.",
+   "rd": "eung deureo bwa. (chiikchiik—) wanjeon bi soriya.",
+   "en": "Yep, listen. (sizzle sizzle—) Totally sounds like rain.",
    "note": "listen",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_culture_a5/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "…헐, 진짜 비 소리 같다.",
-   "rd": "…heol, jinjja bi sori gatda.",
-   "en": "…Whoa, it really sounds like rain.",
+   "ko": "헐 진짜 비 소리 같다. 좋아.",
+   "rd": "heol jinjja bi sori gatda. joa.",
+   "en": "Whoa, it really sounds like rain. Nice.",
    "note": "Kick: it's true",
    "tags": [],
    "new": []
@@ -94,22 +97,27 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "그니까. 한국 사람 다 알아.",
-   "rd": "geunikka. hanguk saram da ara.",
-   "en": "Right. Every Korean knows.",
+   "ko": "그니까. 한국 사람 다 아는 거야.",
+   "rd": "geunikka. hanguk saram da aneun geoya.",
+   "en": "Right. Every Korean knows this.",
    "note": "그니까",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_culture_a5/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "그럼 오늘부터 나도 한국 사람.",
-   "rd": "geureom oneulbuteo nado hanguk saram.",
+   "ko": "그럼 오늘부터 나도 한국 사람이야.",
+   "rd": "geureom oneulbuteo nado hanguk saramiya.",
    "en": "Then from today I'm Korean too.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_culture_a5_grok_rewrite.md [K213]",
+  "final": ""
+ }
 }

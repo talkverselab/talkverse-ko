@@ -32,20 +32,21 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "도착했어?",
-   "rd": "dochakaesseo?",
-   "en": "Home yet?",
+   "ko": "집에 도착했어?",
+   "rd": "jibe dochakaesseo?",
+   "en": "You home yet?",
    "note": "도착하다 = arrive",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:10"
+   "at": "22:10",
+   "art": "scene/ko/r0_love_c6/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "아직. 버스야.",
-   "rd": "ajik. beoseuya.",
+   "ko": "아직. 버스 타고 있어.",
+   "rd": "ajik. beoseu tago isseo.",
    "en": "Not yet. On the bus.",
    "note": "아직",
    "tags": [],
@@ -56,21 +57,22 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "지금은?",
-   "rd": "jigeumeun?",
-   "en": "Now?",
+   "ko": "지금은 어디야?",
+   "rd": "jigeumeun eodiya?",
+   "en": "Where are you now?",
    "note": "지금",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:15"
+   "at": "22:15",
+   "art": "scene/ko/r0_love_c6/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "ㅋㅋ 아직 버스.",
-   "rd": "ㅋㅋ ajik beoseu.",
-   "en": "Lol still the bus.",
+   "ko": "ㅋㅋ 아직 버스야.",
+   "rd": "ㅋㅋ ajik beoseuya.",
+   "en": "Lol still on the bus.",
    "note": "ㅋㅋ",
    "tags": [],
    "new": [],
@@ -80,21 +82,22 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "…그냥 보고 싶어서.",
-   "rd": "…geunyang bogo sipeoseo.",
-   "en": "…I just miss you.",
+   "ko": "…그냥 보고 싶어서 또.",
+   "rd": "…geunyang bogo sipeoseo tto.",
+   "en": "…Just missing you again.",
    "note": "심쿵",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:16"
+   "at": "22:16",
+   "art": "scene/ko/r0_love_c6/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "10분 전에 봤잖아.",
-   "rd": "10bun jeone bwatjana.",
-   "en": "We saw each other 10 minutes ago.",
+   "ko": "10분 전에 봤는데.",
+   "rd": "10bun jeone bwanneunde.",
+   "en": "We just saw each other 10 min ago.",
    "note": "-잖아",
    "tags": [],
    "new": [],
@@ -104,21 +107,22 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "10분이 길어.",
-   "rd": "10buni gireo.",
-   "en": "10 minutes is long.",
+   "ko": "10분이 너무 길어…",
+   "rd": "10buni neomu gireo…",
+   "en": "10 minutes feels too long…",
    "note": "심쿵",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:17"
+   "at": "22:17",
+   "art": "scene/ko/r0_love_c6/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "나도. 내일 또 보자.",
-   "rd": "nado. naeil tto boja.",
-   "en": "Me too. See you tomorrow.",
+   "ko": "나도. 잘 자.",
+   "rd": "nado. jal ja.",
+   "en": "Me too. Good night.",
    "note": "punchline",
    "tags": [],
    "new": [],
@@ -126,5 +130,9 @@
    "at": "22:17"
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_c6_grok_rewrite.md [K207]",
+  "final": ""
+ }
 }

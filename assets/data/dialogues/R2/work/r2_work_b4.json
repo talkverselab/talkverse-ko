@@ -1,0 +1,154 @@
+{
+ "id": "r2_work_b4",
+ "region": "R2",
+ "island": "work",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "work"
+ ],
+ "domain": [
+  "work"
+ ],
+ "title": "퇴사 선언",
+ "emoji": "🚪",
+ "scene": "지호 선배가 「나 그만둔다」고 선언한다. 진짜 이유는",
+ "speakers": {
+  "A": "{name}",
+  "B": "지호 선배"
+ },
+ "register": "polite",
+ "twist": 9,
+ "twist_type": "reveal",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜요?",
+  "헐",
+  "잠깐만요",
+  "축하해요"
+ ],
+ "goal": "A senior colleague quits",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "{name} 씨, 나 이번 달까지만 해.",
+   "rd": "{name} ssi, na ibeon dalkkajiman hae.",
+   "en": "{name}, this month is my last.",
+   "note": "그만두다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네? 진짜요? 왜요?",
+   "rd": "ne? jinjjayo? waeyo?",
+   "en": "What? Really? Why?",
+   "note": "왜",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "…말 못 해.",
+   "rd": "…mal mot hae.",
+   "en": "…I can't say.",
+   "note": "비밀",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "설마 저 때문이에요? 복사 500장?",
+   "rd": "seolma jeo ttaemunieyo? boksa 500jang?",
+   "en": "Don't tell me it's because of me? The 500 copies?",
+   "note": "callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "ㅋㅋ 아니야.",
+   "rd": "ㅋㅋ aniya.",
+   "en": "Haha, no.",
+   "note": "아니",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "그럼 팀장님 김치찌개 때문이에요?",
+   "rd": "geureom timjangnim gimchijjigae ttaemunieyo?",
+   "en": "Then is it the boss's kimchi stew?",
+   "note": "callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "그것도 조금. 근데 진짜 이유는…",
+   "rd": "geugeotdo jogeum. geunde jinjja iyuneun…",
+   "en": "A little. But the real reason…",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…",
+   "rd": "…",
+   "en": "…",
+   "note": "silence",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "나 카페 차려. 꿈이었어.",
+   "rd": "na kape charyeo. kkumieosseo.",
+   "en": "I'm opening a café. It was my dream.",
+   "note": "reveal",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "헐, 축하해요! 어디요?",
+   "rd": "heol, chukahaeyo! eodiyo?",
+   "en": "Whoa, congrats! Where?",
+   "note": "축하",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "회사 앞. 매일 와.",
+   "rd": "hoesa ap. maeil wa.",
+   "en": "In front of the office. Come every day.",
+   "note": "punchline setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "그럼 팀장님도 매일 가시겠네요.",
+   "rd": "geureom timjangnimdo maeil gasigenneyo.",
+   "en": "Then the boss will come every day too.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

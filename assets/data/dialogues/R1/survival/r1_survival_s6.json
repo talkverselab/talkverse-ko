@@ -37,7 +37,8 @@
    "en": "Where does it hurt?",
    "note": "아프다 = hurt",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s6/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "You know the word well. Any fever?",
    "note": "열 = fever",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s6/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "Do you have a cough?",
    "note": "기침 = cough",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s6/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "Haha got it. Take it three times a day.",
    "note": "세 번",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s6/cut4"
   },
   {
    "num": 8,

@@ -1,0 +1,158 @@
+{
+ "id": "r2_love_b11",
+ "region": "R2",
+ "island": "love",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "엄마랑 영상 통화",
+ "emoji": "📹",
+ "scene": "유진과 영상 통화 중. 갑자기 학습자 엄마가 화면에 끼어든다",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진",
+  "C": "엄마",
+  "D": "아빠",
+  "E": "할머니"
+ },
+ "register": "casual",
+ "twist": 8,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "잠깐만",
+  "안녕하세요",
+  "아 몰라"
+ ],
+ "goal": "Mom crashes a video call",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "오늘 뭐 했어?",
+   "rd": "oneul mwo haesseo?",
+   "en": "What did you do today?",
+   "note": "오늘",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "그냥 집에서… 어? 엄마?",
+   "rd": "geunyang jibeseo… eo? eomma?",
+   "en": "Just at home… huh? Mom?",
+   "note": "엄마",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "어머, 이 아가씨가 유진이니?",
+   "rd": "eomeo, i agassiga yujinini?",
+   "en": "Oh my, is this young lady Yujin?",
+   "note": "Kick: mom appears",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "헐… 안, 안녕하세요!",
+   "rd": "heol… an, annyeonghaseyo!",
+   "en": "Whoa… h-hello!",
+   "note": "안녕하세요",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "한국어 잘하는 우리 아들 여자친구! 예쁘다!",
+   "rd": "hangugeo jalhaneun uri adeul yeojachingu! yeppeuda!",
+   "en": "My son's girlfriend who speaks Korean! So pretty!",
+   "note": "칭찬",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "엄마, 한국어 알아?",
+   "rd": "eomma, hangugeo ara?",
+   "en": "Mom, you know Korean?",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "드라마로 배웠지. 사랑해요~",
+   "rd": "deuramaro baewotji. saranghaeyo~",
+   "en": "Learned from dramas. Saranghaeyo~",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "D",
+   "ko": "(아빠) 나도 보자! 누구야?",
+   "rd": "(appa) nado boja! nuguya?",
+   "en": "(Dad) Let me see too! Who is it?",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "E",
+   "ko": "(할머니) 결혼은 언제?",
+   "rd": "(halmeoni) gyeolhoneun eonje?",
+   "en": "(Grandma) When's the wedding?",
+   "note": "chaos peak",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "아 몰라… 다들 나가!",
+   "rd": "a molla… dadeul naga!",
+   "en": "Ugh… everyone out!",
+   "note": "아 몰라",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "ㅋㅋ 아니야. 다 너무 좋아.",
+   "rd": "ㅋㅋ aniya. da neomu joa.",
+   "en": "Lol no. I love them all.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "C",
+   "ko": "유진아, 다음 달에 놀러 와!",
+   "rd": "yujina, daeum dare nolleo wa!",
+   "en": "Yujin, come visit next month!",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "M"
+}

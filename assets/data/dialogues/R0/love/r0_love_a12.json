@@ -38,7 +38,8 @@
    "en": "Oh? Sorry. You go first.",
    "note": "죄송합니다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a12/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "No, you go first.",
    "note": "그쪽 = you (polite)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a12/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Whoa… is it really because of us?",
    "note": "때문에 = because of",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a12/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "(three hours later) …still half left.",
    "note": "정리 = tidy",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a12/cut4"
   },
   {
    "num": 8,

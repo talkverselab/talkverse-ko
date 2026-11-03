@@ -39,7 +39,8 @@
    "en": "Excuse me, please take our picture.",
    "note": "찍어 주세요 = please take",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a4/cut1"
   },
   {
    "num": 2,
@@ -59,7 +60,8 @@
    "en": "Thanks. Just one more.",
    "note": "한 장 더",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a4/cut2"
   },
   {
    "num": 4,
@@ -79,7 +81,8 @@
    "en": "Our whole group too! All of us together!",
    "note": "more people",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a4/cut3"
   },
   {
    "num": 6,
@@ -99,7 +102,8 @@
    "en": "(an hour later) Are you a pro?",
    "note": "사진사 = photographer",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a4/cut4"
   },
   {
    "num": 8,

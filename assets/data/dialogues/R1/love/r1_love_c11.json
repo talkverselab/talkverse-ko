@@ -1,0 +1,130 @@
+{
+ "id": "r1_love_c11",
+ "region": "R1",
+ "island": "love",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "사진 한 장만",
+ "emoji": "📸",
+ "scene": "태오가 해외 공연 중. 시차 때문에 새벽에 카톡이 온다",
+ "speakers": {
+  "A": "{name}",
+  "B": "태오"
+ },
+ "register": "chat",
+ "twist": 5,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "보고 싶어",
+  "잘 자"
+ ],
+ "goal": "Long-distance texting with time zones",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "자?",
+   "rd": "ja?",
+   "en": "You up?",
+   "note": "자?",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "03:10"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "응… 지금 새벽 3시야",
+   "rd": "eung… jigeum saebyeok 3siya",
+   "en": "Mm… it's 3 a.m. here",
+   "note": "새벽",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "03:12"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "미안. 여기는 저녁이야",
+   "rd": "mian. yeogineun jeonyeogiya",
+   "en": "Sorry. It's evening here",
+   "note": "저녁",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "03:12"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "공연 끝났어?",
+   "rd": "gongyeon kkeunnasseo?",
+   "en": "Is the concert over?",
+   "note": "끝나다",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "03:13"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "응. 사진 한 장만 보내 줘",
+   "rd": "eung. sajin han jangman bonae jwo",
+   "en": "Yeah. Send me just one photo",
+   "note": "사진",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "03:13"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "지금? 나 완전 자다 깼는데",
+   "rd": "jigeum? na wanjeon jada kkaenneunde",
+   "en": "Now? I just woke up",
+   "note": "자다 깨다",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "03:14"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "그래서 보고 싶어",
+   "rd": "geuraeseo bogo sipeo",
+   "en": "That's why I want to see",
+   "note": "심쿵",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "03:14"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…10초만 기다려",
+   "rd": "…10choman gidaryeo",
+   "en": "…Give me 10 seconds",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "03:15"
+  }
+ ],
+ "learner_gender": "F"
+}

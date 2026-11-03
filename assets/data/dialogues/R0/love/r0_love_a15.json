@@ -33,18 +33,19 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "어? 멈췄어요.",
-   "rd": "eo? meomchwosseoyo.",
-   "en": "Huh? It stopped.",
+   "ko": "어? 갑자기 멈췄어요.",
+   "rd": "eo? gapjagi meomchwosseoyo.",
+   "en": "Huh? It suddenly stopped.",
    "note": "멈추다 = stop",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a15/cut1"
   },
   {
    "num": 2,
    "speaker": "B",
-   "ko": "헐… 불도 꺼졌어요.",
-   "rd": "heol… buldo kkeojyeosseoyo.",
+   "ko": "헐… 불도 나갔어요.",
+   "rd": "heol… buldo nagasseoyo.",
    "en": "Whoa… the lights went out too.",
    "note": "불 = light",
    "tags": [],
@@ -53,19 +54,20 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "괜찮아요. 버튼 누를게요.",
-   "rd": "gwaenchanayo. beoteun nureulgeyo.",
-   "en": "It's okay. I'll press the button.",
+   "ko": "괜찮아요. 버튼 눌러볼게요.",
+   "rd": "gwaenchanayo. beoteun nulleobolgeyo.",
+   "en": "It's okay. I'll try the button.",
    "note": "버튼",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a15/cut2"
   },
   {
    "num": 4,
    "speaker": "C",
-   "ko": "(스피커) 네~ 30분 걸려요.",
-   "rd": "(seupikeo) ne~ 30bun geollyeoyo.",
-   "en": "(speaker) Okay~ it'll take 30 minutes.",
+   "ko": "(스피커) 네~ 한 시간 걸려요. 더워요.",
+   "rd": "(seupikeo) ne~ han sigan geollyeoyo. deowoyo.",
+   "en": "(speaker) Okay~ it'll take an hour. It's hot.",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -73,18 +75,19 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "30분이요? 저 화장실…",
-   "rd": "30buniyo? jeo hwajangsil…",
-   "en": "30 minutes? I need the bathroom…",
+   "ko": "한 시간이요? 저 화장실…",
+   "rd": "han siganiyo? jeo hwajangsil…",
+   "en": "An hour? I need the bathroom…",
    "note": "화장실",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a15/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "잠깐만요, 제 배도…",
-   "rd": "jamkkanmanyo, je baedo…",
+   "ko": "잠깐만요 저도 배가…",
+   "rd": "jamkkanmanyo jeodo baega…",
    "en": "Wait, my stomach too…",
    "note": "배 = stomach",
    "tags": [],
@@ -93,19 +96,20 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋ 그럼 얘기해요. 빨리 가게.",
-   "rd": "ㅋㅋ geureom yaegihaeyo. ppalli gage.",
-   "en": "Haha, then let's talk. Makes time fly.",
+   "ko": "그럼 얘기해요. 시간 빨리 가요.",
+   "rd": "geureom yaegihaeyo. sigan ppalli gayo.",
+   "en": "Then let's talk. Time goes faster.",
    "note": "심쿵-ish",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a15/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "30분 너무 짧은데요.",
-   "rd": "30bun neomu jjalbeundeyo.",
-   "en": "30 minutes is too short.",
+   "ko": "근데 제 폰도 꺼졌어요…",
+   "rd": "geunde je pondo kkeojyeosseoyo…",
+   "en": "But my phone died too…",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -113,5 +117,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a15_grok_rewrite.md [K205]",
+  "final": ""
+ }
 }

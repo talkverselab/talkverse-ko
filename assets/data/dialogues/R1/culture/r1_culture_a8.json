@@ -1,0 +1,114 @@
+{
+ "id": "r1_culture_a8",
+ "region": "R1",
+ "island": "culture",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "김장",
+ "emoji": "🥬",
+ "scene": "서아 할머니 댁 김장. 배추가 200포기",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "서아 할머니"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "맛있다"
+ ],
+ "goal": "Kimjang — making kimchi together",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "C",
+   "ko": "오늘 배추 200포기다.",
+   "rd": "oneul baechu 200pogida.",
+   "en": "Today it's 200 heads of cabbage.",
+   "note": "포기",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "200? 오늘 하루에요?",
+   "rd": "200? oneul harueyo?",
+   "en": "200? In one day?",
+   "note": "하루",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "응. 온 가족 다 와.",
+   "rd": "eung. on gajok da wa.",
+   "en": "Yep. The whole family comes.",
+   "note": "가족",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "(장갑 끼고) 이렇게 양념 발라요?",
+   "rd": "(janggap kkigo) ireoke yangnyeom ballayo?",
+   "en": "(gloves on) Spread the seasoning like this?",
+   "note": "양념",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "더 많이! 팍팍!",
+   "rd": "deo mani! pakpak!",
+   "en": "More! Lots!",
+   "note": "팍팍",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "(얼굴에 튀어서) 헐, 매워!",
+   "rd": "(eolgure twieoseo) heol, maewo!",
+   "en": "(splashes face) Whoa, spicy!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "ㅋㅋ 이제 진짜 김장한 얼굴이야.",
+   "rd": "ㅋㅋ ije jinjja gimjanghan eolguriya.",
+   "en": "Lol now you have a real kimjang face.",
+   "note": "얼굴",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "C",
+   "ko": "수육 먹고 하자. 그게 김장이야.",
+   "rd": "suyuk meokgo haja. geuge gimjangiya.",
+   "en": "Let's eat boiled pork first. That's kimjang.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

@@ -1,0 +1,174 @@
+{
+ "id": "r3_friends_b3",
+ "region": "R3",
+ "island": "friends",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "10년 뒤 편지",
+ "emoji": "✉️",
+ "scene": "어학당 졸업식. 10년 뒤에 열어 볼 편지를 쓰기로 했다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준"
+ },
+ "register": "mixed",
+ "twist": 11,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "그니까",
+  "진짜?",
+  "보고 싶을 거야"
+ ],
+ "goal": "Letters to the future",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "10년 뒤에 같이 열자. 약속.",
+   "rd": "10nyeon dwie gachi yeolja. yaksok.",
+   "en": "Let's open them together in ten years. Promise.",
+   "note": "약속",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "10년 뒤면 우리 몇 살이야?",
+   "rd": "10nyeon dwimyeon uri myeot sariya?",
+   "en": "How old will we be in ten years?",
+   "note": "몇 살",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "난 서른넷. 아마 팀장.",
+   "rd": "nan seoreunnet. ama timjang.",
+   "en": "I'll be 34. Probably a team leader.",
+   "note": "팀장",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "그럼 너도 「아무거나」 하면 삼겹살이야?",
+   "rd": "geureom neodo 「amugeona」 hamyeon samgyeopsariya?",
+   "en": "Then will your \"anything\" mean samgyeopsal too?",
+   "note": "callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "ㅋㅋ 뭐 쓸 거야?",
+   "rd": "ㅋㅋ mwo sseul geoya?",
+   "en": "Lol what are you writing?",
+   "note": "쓰다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "비밀. 근데 하나만 말해 줄게.",
+   "rd": "bimil. geunde hanaman malhae julge.",
+   "en": "Secret. But I'll tell you one thing.",
+   "note": "비밀",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "너 처음 왔을 때 「밥 먹었어?」에 진짜 밥 먹자고 한 거.",
+   "rd": "neo cheoeum wasseul ttae 「bap meogeosseo?」e jinjja bap meokjago han geo.",
+   "en": "When you first came and took \"did you eat?\" literally.",
+   "note": "callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "그걸 아직 기억해?",
+   "rd": "geugeol ajik gieokae?",
+   "en": "You still remember that?",
+   "note": "기억",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "응. 그때부터 친구였으니까.",
+   "rd": "eung. geuttaebuteo chinguyeosseunikka.",
+   "en": "Yeah. That's when we became friends.",
+   "note": "심쿵(우정)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "C",
+   "ko": "나는 「군대 다녀왔어요?」 할 때.",
+   "rd": "naneun 「gundae danyeowasseoyo?」 hal ttae.",
+   "en": "For me it was when you got the \"army talk\" joke.",
+   "note": "callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "A",
+   "ko": "…다들 내 실수만 기억하네.",
+   "rd": "…dadeul nae silsuman gieokane.",
+   "en": "…You all only remember my mistakes.",
+   "note": "joke",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "B",
+   "ko": "그 실수가 다 우리 추억이야.",
+   "rd": "geu silsuga da uri chueogiya.",
+   "en": "Those mistakes are all our memories.",
+   "note": "따뜻",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 13,
+   "speaker": "A",
+   "ko": "그럼 10년 뒤에는 실수 없이 한국어로 읽어 줄게.",
+   "rd": "geureom 10nyeon dwieneun silsu eopsi hangugeoro ilgeo julge.",
+   "en": "Then in ten years I'll read it to you in Korean without mistakes.",
+   "note": "약속",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 14,
+   "speaker": "C",
+   "ko": "틀리면 치킨 쏘기.",
+   "rd": "teullimyeon chikin ssogi.",
+   "en": "If you get it wrong, you buy chicken.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

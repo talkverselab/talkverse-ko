@@ -1,0 +1,156 @@
+{
+ "id": "r2_friends_b4",
+ "region": "R2",
+ "island": "friends",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "이사 도와줘",
+ "emoji": "📦",
+ "scene": "서아 이사 날. 민준이 「트럭 빌렸어」라며 왔는데 경차",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준",
+  "D": "용달 기사님"
+ },
+ "register": "casual",
+ "twist": 8,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "헐",
+  "그니까",
+  "아 몰라"
+ ],
+ "goal": "Moving day with a tiny car",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "트럭 빌렸다며?",
+   "rd": "teureok billyeotdamyeo?",
+   "en": "You said you rented a truck?",
+   "note": "트럭",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "C",
+   "ko": "응. 저기.",
+   "rd": "eung. jeogi.",
+   "en": "Yeah. Over there.",
+   "note": "저기",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "…저거 경차인데?",
+   "rd": "…jeogeo gyeongchainde?",
+   "en": "…That's a compact car?",
+   "note": "경차",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "트럭은 너무 비싸서.",
+   "rd": "teureogeun neomu bissaseo.",
+   "en": "Trucks were too expensive.",
+   "note": "비싸다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "냉장고는 어떻게 넣어?",
+   "rd": "naengjanggoneun eotteoke neoeo?",
+   "en": "How do we fit the fridge?",
+   "note": "냉장고",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "…안 들어가지?",
+   "rd": "…an deureogaji?",
+   "en": "…It won't fit, right?",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "몇 번 왔다 갔다 해야 돼?",
+   "rd": "myeot beon watda gatda haeya dwae?",
+   "en": "How many trips will it take?",
+   "note": "몇 번",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "C",
+   "ko": "열두 번?",
+   "rd": "yeoldu beon?",
+   "en": "Twelve?",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "아 몰라… 용달 부르자.",
+   "rd": "a molla… yongdal bureuja.",
+   "en": "Ugh… let's call a moving van.",
+   "note": "용달",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "D",
+   "ko": "(용달 기사님) 짐이 이거밖에 없어요?",
+   "rd": "(yongdal gisanim) jimi igeobakke eopseoyo?",
+   "en": "(van driver) This is all the stuff?",
+   "note": "reveal",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "A",
+   "ko": "경차로 이미 열한 번 옮겼어요.",
+   "rd": "gyeongcharo imi yeolhan beon omgyeosseoyo.",
+   "en": "We already moved eleven loads by compact car.",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "B",
+   "ko": "그니까 마지막 하나만 부탁해요. 냉장고.",
+   "rd": "geunikka majimak hanaman butakaeyo. naengjanggo.",
+   "en": "So please just take the last one. The fridge.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "id": "r1_life_a9",
+ "region": "R1",
+ "island": "life",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "반상회",
+ "emoji": "🏢",
+ "scene": "아파트 반상회에 처음 갔다. 다들 학습자를 반긴다",
+ "speakers": {
+  "A": "{name}",
+  "B": "부녀회장님",
+  "C": "윗집 아주머니",
+  "D": "옆집 사람"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "안녕하세요",
+  "감사합니다",
+  "진짜요?"
+ ],
+ "goal": "A neighborhood meeting",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "어머, 새로 이사 온 학생이죠?",
+   "rd": "eomeo, saero isa on haksaengijyo?",
+   "en": "Oh my, you're the student who just moved in?",
+   "note": "이사",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네, 안녕하세요. 1203호예요.",
+   "rd": "ne, annyeonghaseyo. 1203hoyeyo.",
+   "en": "Yes, hello. Unit 1203.",
+   "note": "호",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "아, 차 없는 1203호!",
+   "rd": "a, cha eomneun 1203ho!",
+   "en": "Ah, 1203 with no car!",
+   "note": "callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "D",
+   "ko": "와이파이 「iloveyou」 쓰는 집!",
+   "rd": "waipai 「iloveyou」 sseuneun jip!",
+   "en": "The one using \"iloveyou\" Wi-Fi!",
+   "note": "callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "…다들 저를 아세요?",
+   "rd": "…dadeul jeoreul aseyo?",
+   "en": "…Do you all know me?",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "강아지 봐 주는 학생이잖아. 소문났어.",
+   "rd": "gangaji bwa juneun haksaengijana. somunnasseo.",
+   "en": "You're the student who looks after the dog. Word got around.",
+   "note": "소문",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "오늘 안건: 학생 반찬 당번 정하기.",
+   "rd": "oneul angeon: haksaeng banchan dangbeon jeonghagi.",
+   "en": "Today's agenda: deciding who brings the student side dishes.",
+   "note": "안건",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…저 반찬 이미 스무 통 있어요.",
+   "rd": "…jeo banchan imi seumu tong isseoyo.",
+   "en": "…I already have twenty containers of side dishes.",
+   "note": "punchline callback",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

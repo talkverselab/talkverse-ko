@@ -1,0 +1,130 @@
+{
+ "id": "r1_life_c4",
+ "region": "R1",
+ "island": "life",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "택배 도둑?",
+ "emoji": "📦",
+ "scene": "택배가 없어졌다. 셰어하우스 단톡",
+ "speakers": {
+  "A": "{name}",
+  "B": "도윤",
+  "C": "서아"
+ },
+ "register": "chat",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "ㅋㅋ"
+ ],
+ "goal": "The missing package",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "내 택배 없어졌어 ㅠㅠ",
+   "rd": "nae taekbae eopseojyeosseo ㅠㅠ",
+   "en": "My package disappeared ㅠㅠ",
+   "note": "택배",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:00"
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "헐 도둑?",
+   "rd": "heol doduk?",
+   "en": "Whoa a thief?",
+   "note": "도둑",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:00"
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "CCTV 보자",
+   "rd": "CCTV boja",
+   "en": "Let's check the CCTV",
+   "note": "CCTV",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:01"
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "[영상] …이거 고양이야",
+   "rd": "[yeongsang] …igeo goyangiya",
+   "en": "[video] …it's a cat",
+   "note": "Kick",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:05"
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "고양이가 가져갔어??",
+   "rd": "goyangiga gajyeogasseo??",
+   "en": "The cat took it??",
+   "note": "chaos",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:05"
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "옆집 고양이. 박스 좋아해",
+   "rd": "yeopjip goyangi. bakseu joahae",
+   "en": "The neighbor's cat. Loves boxes",
+   "note": "박스",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:06"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "지금 박스 안에서 자고 있대",
+   "rd": "jigeum bakseu aneseo jago itdae",
+   "en": "Apparently it's sleeping in the box now",
+   "note": "chaos",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:06"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…박스는 줄게. 안에 거만 줘",
+   "rd": "…bakseuneun julge. ane geoman jwo",
+   "en": "…It can have the box. Just give me what's inside",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "18:07"
+  }
+ ]
+}

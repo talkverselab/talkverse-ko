@@ -1,0 +1,156 @@
+{
+ "id": "r2_friends_b5",
+ "region": "R2",
+ "island": "friends",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "첫 노래방 회식",
+ "emoji": "🎤",
+ "scene": "동아리 첫 회식 후 노래방. 아무도 첫 곡을 안 부른다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준",
+  "D": "동아리 선배"
+ },
+ "register": "casual",
+ "twist": 9,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "헐",
+  "그니까",
+  "잠깐만"
+ ],
+ "goal": "Who sings first at karaoke",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "누가 첫 곡 할래?",
+   "rd": "nuga cheot gok hallae?",
+   "en": "Who's singing first?",
+   "note": "첫 곡",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "C",
+   "ko": "(조용)",
+   "rd": "(joyong)",
+   "en": "(silence)",
+   "note": "silence",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "왜 아무도 안 해?",
+   "rd": "wae amudo an hae?",
+   "en": "Why is no one singing?",
+   "note": "아무도",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "첫 곡은 원래 부담돼.",
+   "rd": "cheot gogeun wollae budamdwae.",
+   "en": "The first song is always pressure.",
+   "note": "부담",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "{name}이 해! 외국인 첫 곡!",
+   "rd": "{name}i hae! oegugin cheot gok!",
+   "en": "{name} should go! A foreigner's first song!",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "잠깐만, 나 한국 노래 「생일 축하합니다」밖에 몰라.",
+   "rd": "jamkkanman, na hanguk norae 「saengil chukahamnida」bakke molla.",
+   "en": "Wait, I only know \"Happy Birthday\" in Korean.",
+   "note": "callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "그거 해!",
+   "rd": "geugeo hae!",
+   "en": "Do that!",
+   "note": "그거",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "(노래) 생일 축하합니다~",
+   "rd": "(norae) saengil chukahamnida~",
+   "en": "(singing) Happy birthday to you~",
+   "note": "노래",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "D",
+   "ko": "(갑자기) 오늘 내 생일인데?!",
+   "rd": "(gapjagi) oneul nae saengirinde?!",
+   "en": "(suddenly) It's actually my birthday today?!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "C",
+   "ko": "헐 진짜? 케이크 시켜!",
+   "rd": "heol jinjja? keikeu sikyeo!",
+   "en": "Whoa really? Order a cake!",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "노래방이 생일 파티 됐네.",
+   "rd": "noraebangi saengil pati dwaenne.",
+   "en": "The karaoke turned into a birthday party.",
+   "note": "파티",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "그니까 첫 곡이 중요해.",
+   "rd": "geunikka cheot gogi jungyohae.",
+   "en": "See, the first song matters.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

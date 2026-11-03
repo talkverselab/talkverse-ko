@@ -32,19 +32,20 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "도윤아, 관리비 이거 맞아?",
-   "rd": "doyuna, gwallibi igeo maja?",
-   "en": "Doyun, is this utility bill right?",
+   "ko": "야 도윤아, 관리비 이상해.",
+   "rd": "ya doyuna, gwallibi isanghae.",
+   "en": "Yo Doyoon, the bill looks weird.",
    "note": "관리비 = maintenance fee",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a5/cut1"
   },
   {
    "num": 2,
    "speaker": "B",
-   "ko": "얼마 나왔는데?",
-   "rd": "eolma nawanneunde?",
-   "en": "How much is it?",
+   "ko": "얼마 나왔어?",
+   "rd": "eolma nawasseo?",
+   "en": "How much did it come to?",
    "note": "얼마",
    "tags": [],
    "new": []
@@ -57,14 +58,15 @@
    "en": "300,000 won.",
    "note": "30만 원",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a5/cut2"
   },
   {
    "num": 4,
    "speaker": "B",
-   "ko": "헐? 보통 10만 원인데.",
-   "rd": "heol? botong 10man woninde.",
-   "en": "What? It's usually 100,000.",
+   "ko": "헐 보통 10만 원인데.",
+   "rd": "heol botong 10man woninde.",
+   "en": "Whoa, it's usually 100,000.",
    "note": "보통",
    "tags": [],
    "new": []
@@ -72,19 +74,20 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "잠깐만… 보일러를 한 달 동안 켜 놨어.",
-   "rd": "jamkkanman… boilleoreul han dal dongan kyeo nwasseo.",
-   "en": "Wait… I left the heating on for a month.",
+   "ko": "잠깐만… 보일러랑 에어컨 한 달 내내 켜 놨어.",
+   "rd": "jamkkanman… boilleorang eeokeon han dal naenae kyeo nwasseo.",
+   "en": "Wait… I left the boiler and AC on the whole month.",
    "note": "Kick: callback 보일러",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a5/cut3"
   },
   {
    "num": 6,
    "speaker": "B",
-   "ko": "너 보일러 몰랐잖아!",
-   "rd": "neo boilleo mollatjana!",
-   "en": "You didn't even know about the boiler!",
+   "ko": "진짜? 너 보일러 있는 줄도 몰랐잖아!",
+   "rd": "jinjja? neo boilleo inneun juldo mollatjana!",
+   "en": "Really? You didn't even know there was a boiler!",
    "note": "callback",
    "tags": [],
    "new": []
@@ -92,22 +95,27 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "알고 나서 안 껐어.",
-   "rd": "algo naseo an kkeosseo.",
-   "en": "After I learned, I never turned it off.",
+   "ko": "알고 나서도 안 껐어…",
+   "rd": "algo naseodo an kkeosseo…",
+   "en": "Even after I knew, I never turned it off…",
    "note": "안 끄다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a5/cut4"
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "이제 끄는 법도 배우자.",
-   "rd": "ije kkeuneun beopdo baeuja.",
-   "en": "Let's learn how to turn it off now.",
+   "ko": "이제 끄는 법부터 배우자.",
+   "rd": "ije kkeuneun beopbuteo baeuja.",
+   "en": "Let's learn how to turn it off first.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_life_a5_grok_rewrite.md [K216]",
+  "final": ""
+ }
 }

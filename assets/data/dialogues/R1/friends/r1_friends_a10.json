@@ -1,0 +1,114 @@
+{
+ "id": "r1_friends_a10",
+ "region": "R1",
+ "island": "friends",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "다 같이 다이어트",
+ "emoji": "🥗",
+ "scene": "셋이 다이어트를 결심한 다음 날 밤",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "헐",
+  "아 몰라"
+ ],
+ "goal": "A group diet that lasts one day",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "우리 오늘부터 다이어트!",
+   "rd": "uri oneulbuteo daieoteu!",
+   "en": "Starting today, we diet!",
+   "note": "다이어트",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "C",
+   "ko": "좋아! 치킨 금지!",
+   "rd": "joa! chikin geumji!",
+   "en": "Okay! No chicken!",
+   "note": "금지",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "(밤 11시) …배고파.",
+   "rd": "(bam 11si) …baegopa.",
+   "en": "(11 p.m.) …Hungry.",
+   "note": "배고프다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "참아!",
+   "rd": "chama!",
+   "en": "Hold it in!",
+   "note": "참다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "(띵동) …누가 시켰어?",
+   "rd": "(ttingdong) …nuga sikyeosseo?",
+   "en": "(ding-dong) …Who ordered?",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "…나.",
+   "rd": "…na.",
+   "en": "…Me.",
+   "note": "reveal",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "다이어트 몇 시간 했어?",
+   "rd": "daieoteu myeot sigan haesseo?",
+   "en": "How many hours did the diet last?",
+   "note": "몇 시간",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "C",
+   "ko": "아 몰라. 내일부터 진짜.",
+   "rd": "a molla. naeilbuteo jinjja.",
+   "en": "Ugh. For real starting tomorrow.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

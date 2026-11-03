@@ -1,0 +1,115 @@
+{
+ "id": "r1_culture_a7",
+ "region": "R1",
+ "island": "culture",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "응원법",
+ "emoji": "📣",
+ "scene": "태오 그룹 콘서트. 서아가 응원법을 외우라고 한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "태오"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "외워",
+  "헐",
+  "진짜?"
+ ],
+ "goal": "Fan chants",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "이 부분에서 「태오!」 세 번.",
+   "rd": "i bubuneseo 「taeo!」 se beon.",
+   "en": "At this part, \"Taeo!\" three times.",
+   "note": "응원법",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "세 번. 알았어.",
+   "rd": "se beon. arasseo.",
+   "en": "Three times. Got it.",
+   "note": "알다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "그다음 「사랑해!」, 그다음 박수 두 번.",
+   "rd": "geudaeum 「saranghae!」, geudaeum baksu du beon.",
+   "en": "Then \"I love you!\", then two claps.",
+   "note": "박수",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "잠깐만… 태오 세 번, 사랑해, 박수…",
+   "rd": "jamkkanman… taeo se beon, saranghae, baksu…",
+   "en": "Wait… Taeo three times, I love you, claps…",
+   "note": "잠깐만",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "(무대) …",
+   "rd": "(mudae) …",
+   "en": "(on stage) …",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "태오! 태오! 사랑해! 짝짝!",
+   "rd": "taeo! taeo! saranghae! jjakjjak!",
+   "en": "Taeo! Taeo! I love you! Clap clap!",
+   "note": "Kick: wrong order",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "헐, 태오 두 번이었어!",
+   "rd": "heol, taeo du beonieosseo!",
+   "en": "Whoa, you only said Taeo twice!",
+   "note": "틀리다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "C",
+   "ko": "(무대에서 웃으며) 한 번 더 해 줘요.",
+   "rd": "(mudaeeseo useumyeo) han beon deo hae jwoyo.",
+   "en": "(laughing on stage) Do it once more.",
+   "note": "punchline 심쿵",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "F"
+}

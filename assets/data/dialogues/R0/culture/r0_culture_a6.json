@@ -1,0 +1,114 @@
+{
+ "id": "r0_culture_a6",
+ "region": "R0",
+ "island": "culture",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "노래방 탬버린",
+ "emoji": "🎤",
+ "scene": "노래방. 서아가 탬버린을 건넨다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "옆방 사람"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "신나",
+  "헐",
+  "좋아"
+ ],
+ "goal": "Karaoke tambourine",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "자, 탬버린!",
+   "rd": "ja, taembeorin!",
+   "en": "Here, a tambourine!",
+   "note": "탬버린",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "이거 어떻게 해?",
+   "rd": "igeo eotteoke hae?",
+   "en": "How do I use this?",
+   "note": "어떻게",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "그냥 막 쳐!",
+   "rd": "geunyang mak chyeo!",
+   "en": "Just bang it!",
+   "note": "막",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "(쾅쾅쾅) 이렇게?",
+   "rd": "(kwangkwangkwang) ireoke?",
+   "en": "(bang bang bang) Like this?",
+   "note": "쾅",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "헐, 너무 세!",
+   "rd": "heol, neomu se!",
+   "en": "Whoa, too hard!",
+   "note": "세다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "(옆방에서) 조용히 해요!",
+   "rd": "(yeopbangeseo) joyonghi haeyo!",
+   "en": "(next room) Keep it down!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "…탬버린 금지야?",
+   "rd": "…taembeorin geumjiya?",
+   "en": "…Is the tambourine banned?",
+   "note": "금지",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "아니. 박수로 해.",
+   "rd": "ani. baksuro hae.",
+   "en": "No. Clap instead.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

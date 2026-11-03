@@ -39,7 +39,8 @@
    "en": "Hand in your homework.",
    "note": "숙제 = homework",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_study_a3/cut1"
   },
   {
    "num": 2,
@@ -59,7 +60,8 @@
    "en": "Really?",
    "note": "진짜요?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_study_a3/cut2"
   },
   {
    "num": 4,
@@ -79,7 +81,8 @@
    "en": "Me too! The dog took it!",
    "note": "chaos: everyone",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_study_a3/cut3"
   },
   {
    "num": 6,
@@ -99,7 +102,8 @@
    "en": "…Do you all live in a zoo?",
    "note": "zoo joke",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_study_a3/cut4"
   },
   {
    "num": 8,

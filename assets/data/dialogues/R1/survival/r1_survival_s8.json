@@ -1,0 +1,114 @@
+{
+ "id": "r1_survival_s8",
+ "region": "R1",
+ "island": "survival",
+ "kind": "survival",
+ "draft": true,
+ "purpose": [
+  "survival"
+ ],
+ "domain": [
+  "survival"
+ ],
+ "title": "병원 접수",
+ "emoji": "🏥",
+ "scene": "동네 병원. 접수처에서 질문이 쏟아진다",
+ "speakers": {
+  "A": "{name}",
+  "B": "접수 직원",
+  "C": "다른 환자"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "네",
+  "잘 모르겠어요",
+  "천천히 말해 주세요"
+ ],
+ "goal": "Checking in at a clinic",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "처음 오셨어요? 신분증요.",
+   "rd": "cheoeum osyeosseoyo? sinbunjeungyo.",
+   "en": "First visit? ID please.",
+   "note": "신분증",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네, 여기요.",
+   "rd": "ne, yeogiyo.",
+   "en": "Yes, here.",
+   "note": "여기요",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "주소, 전화번호, 증상, 알레르기, 복용 중인 약 써 주세요.",
+   "rd": "juso, jeonhwabeonho, jeungsang, allereugi, bogyong jungin yak sseo juseyo.",
+   "en": "Write your address, phone, symptoms, allergies, and current medication.",
+   "note": "Kick: too many questions",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "천천히 말해 주세요…",
+   "rd": "cheoncheonhi malhae juseyo…",
+   "en": "Please speak slowly…",
+   "note": "천천히",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "하나씩 할게요. 어디가 아파요?",
+   "rd": "hanassik halgeyo. eodiga apayo?",
+   "en": "One at a time. Where does it hurt?",
+   "note": "하나씩",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "배요. 어제 떡볶이 세 그릇 먹었어요.",
+   "rd": "baeyo. eoje tteokbokki se geureut meogeosseoyo.",
+   "en": "My stomach. I ate three bowls of tteokbokki yesterday.",
+   "note": "Kick: callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "(옆 환자) 저도요!",
+   "rd": "(yeop hwanja) jeodoyo!",
+   "en": "(another patient) Me too!",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "…오늘 떡볶이 환자 다섯 번째예요.",
+   "rd": "…oneul tteokbokki hwanja daseot beonjjaeyeyo.",
+   "en": "…You're the fifth tteokbokki patient today.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

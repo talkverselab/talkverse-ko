@@ -37,7 +37,8 @@
    "en": "Good morning, {name}.",
    "note": "좋은 아침",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_work_a4/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "You’ve been busy lately, right?",
    "note": "힘들다 = hard",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_work_a4/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "I really liked your report yesterday.",
    "note": "심쿵 (work version): praise",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_work_a4/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "Lunch is on me… the whole team.",
    "note": "treat",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_work_a4/cut4"
   },
   {
    "num": 8,

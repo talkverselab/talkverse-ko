@@ -1,0 +1,177 @@
+{
+ "id": "r3_love_b8",
+ "region": "R3",
+ "island": "love",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "소개 시켜 줘",
+ "emoji": "💞",
+ "scene": "하늘이 학습자에게 「친구 소개해 줘」라고 한다. 학습자는 속이 탄다",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘"
+ },
+ "register": "casual",
+ "twist": 11,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "그니까",
+  "진짜?",
+  "설마",
+  "됐어"
+ ],
+ "goal": "\"Introduce me to someone\" — or not",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "너 친구 중에 괜찮은 사람 없어? 소개 좀 해 줘.",
+   "rd": "neo chingu junge gwaenchaneun saram eopseo? sogae jom hae jwo.",
+   "en": "Any decent people among your friends? Introduce me.",
+   "note": "소개",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "…갑자기 왜?",
+   "rd": "…gapjagi wae?",
+   "en": "…Why all of a sudden?",
+   "note": "갑자기",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "그냥. 연애하고 싶어서.",
+   "rd": "geunyang. yeonaehago sipeoseo.",
+   "en": "Just. I want to date.",
+   "note": "연애",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "어떤 사람이 좋은데?",
+   "rd": "eotteon sarami joeunde?",
+   "en": "What kind of person do you like?",
+   "note": "어떤",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "음… 한국어 공부 열심히 하고, 편의점 라면 잘 끓이고.",
+   "rd": "eum… hangugeo gongbu yeolsimhi hago, pyeonuijeom ramyeon jal kkeuligo.",
+   "en": "Hmm… studies Korean hard, makes great convenience-store ramyeon.",
+   "note": "hint",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "그런 사람 많은데.",
+   "rd": "geureon saram maneunde.",
+   "en": "There are lots of people like that.",
+   "note": "많다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "내 말에 매일 답장 빨리 하고, 우산 맨날 까먹고.",
+   "rd": "nae mare maeil dapjang ppalli hago, usan maennal kkameokgo.",
+   "en": "Replies to me fast every day, always forgets his umbrella.",
+   "note": "hint",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…그건 좀 구체적인데.",
+   "rd": "…geugeon jom guchejeoginde.",
+   "en": "…That's pretty specific.",
+   "note": "구체적",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "오늘 회색 후드티 입었고.",
+   "rd": "oneul hoesaek hudeuti ibeotgo.",
+   "en": "And is wearing a gray hoodie today.",
+   "note": "hint",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "설마…",
+   "rd": "seolma…",
+   "en": "No way…",
+   "note": "설마",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "(작게) 언제 알아챌까 했는데, 진짜 늦다.",
+   "rd": "(jakge) eonje arachaelkka haenneunde, jinjja neutda.",
+   "en": "(quietly) I was wondering when you'd notice. You're really slow.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "…소개 안 해도 되겠네.",
+   "rd": "…sogae an haedo doegenne.",
+   "en": "…Guess I don't need to introduce anyone.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 13,
+   "speaker": "B",
+   "ko": "응. 이미 와 있으니까.",
+   "rd": "eung. imi wa isseunikka.",
+   "en": "Right. He's already here.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 14,
+   "speaker": "A",
+   "ko": "그럼 오늘 라면은 내가 끓일게.",
+   "rd": "geureom oneul ramyeoneun naega kkeulilge.",
+   "en": "Then I'll make the ramyeon today.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

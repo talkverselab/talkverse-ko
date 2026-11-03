@@ -1,0 +1,129 @@
+{
+ "id": "r1_travel_c2",
+ "region": "R1",
+ "island": "travel",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "travel"
+ ],
+ "domain": [
+  "travel"
+ ],
+ "title": "비행기 지연",
+ "emoji": "✈️",
+ "scene": "제주 가는 비행기가 3시간 지연. 민준과 카톡",
+ "speakers": {
+  "A": "{name}",
+  "B": "민준"
+ },
+ "register": "chat",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "아 몰라"
+ ],
+ "goal": "Flight delay chaos",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "비행기 3시간 지연이래",
+   "rd": "bihaenggi 3sigan jiyeonirae",
+   "en": "The flight is delayed 3 hours",
+   "note": "지연",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "10:00"
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "헐 나도 공항인데",
+   "rd": "heol nado gonghanginde",
+   "en": "Whoa I'm at the airport too",
+   "note": "공항",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "10:00"
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "어디?",
+   "rd": "eodi?",
+   "en": "Where?",
+   "note": "어디",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "10:01"
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "김포. 너는?",
+   "rd": "gimpo. neoneun?",
+   "en": "Gimpo. You?",
+   "note": "김포",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "10:01"
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "…나 인천인데?",
+   "rd": "…na incheoninde?",
+   "en": "…I'm at Incheon?",
+   "note": "Kick: wrong airport — chaos",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "10:01"
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "제주는 김포에서 가!!",
+   "rd": "jejuneun gimpoeseo ga!!",
+   "en": "Jeju flights are from Gimpo!!",
+   "note": "chaos",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "10:02"
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "아 몰라 지금 갈게. 3시간 지연 다행이다",
+   "rd": "a molla jigeum galge. 3sigan jiyeon dahaengida",
+   "en": "Ugh, coming now. Lucky it's delayed 3 hours",
+   "note": "다행",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "10:02"
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "ㅋㅋ 지연이 너 살렸네",
+   "rd": "ㅋㅋ jiyeoni neo sallyeonne",
+   "en": "Lol the delay saved you",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "10:03"
+  }
+ ]
+}

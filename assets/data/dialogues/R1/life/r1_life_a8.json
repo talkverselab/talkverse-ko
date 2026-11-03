@@ -1,0 +1,115 @@
+{
+ "id": "r1_life_a8",
+ "region": "R1",
+ "island": "life",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "이웃 와이파이",
+ "emoji": "📶",
+ "scene": "이사 첫날. 와이파이가 없어 옆집 비밀번호를 물으러 간다",
+ "speakers": {
+  "A": "{name}",
+  "B": "옆집 사람",
+  "C": "옆옆집",
+  "D": "건너편 집"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "저기요",
+  "죄송합니다",
+  "감사합니다"
+ ],
+ "goal": "Asking a neighbor for Wi-Fi",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "저기요… 와이파이 비밀번호 있어요?",
+   "rd": "jeogiyo… waipai bimilbeonho isseoyo?",
+   "en": "Excuse me… do you have a Wi-Fi password?",
+   "note": "비밀번호",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "이사 오셨어요? 「iloveyou」예요.",
+   "rd": "isa osyeosseoyo? 「iloveyou」yeyo.",
+   "en": "Did you just move in? It's \"iloveyou.\"",
+   "note": "비밀번호",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "네? 아… 감사합니다.",
+   "rd": "ne? a… gamsahamnida.",
+   "en": "Sorry? Oh… thank you.",
+   "note": "감사",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "(옆옆집 문 열며) 우리 것도 그거예요!",
+   "rd": "(yeopyeopjip mun yeolmyeo) uri geotdo geugeoyeyo!",
+   "en": "(the next door opens) Ours is that too!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "D",
+   "ko": "저희도요!",
+   "rd": "jeohuidoyo!",
+   "en": "Ours too!",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "이 층 사람들 다 써요. 한 명이 만들었어요.",
+   "rd": "i cheung saramdeul da sseoyo. han myeongi mandeureosseoyo.",
+   "en": "Everyone on this floor uses it. One person set it up.",
+   "note": "reveal",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "누가요?",
+   "rd": "nugayo?",
+   "en": "Who?",
+   "note": "누가",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "모르는데… 다들 고마워해요.",
+   "rd": "moreuneunde… dadeul gomawohaeyo.",
+   "en": "Don't know… but everyone's grateful.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

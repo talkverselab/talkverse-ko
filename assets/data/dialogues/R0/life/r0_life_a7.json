@@ -33,18 +33,19 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "오늘 쓰레기 날이야!",
-   "rd": "oneul sseuregi nariya!",
-   "en": "Today's trash day!",
+   "ko": "야 오늘 쓰레기 날이야!",
+   "rd": "ya oneul sseuregi nariya!",
+   "en": "Yo, today's trash day!",
    "note": "쓰레기 날",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a7/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "헐, 지금 몇 시야?",
-   "rd": "heol, jigeum myeot siya?",
+   "ko": "헐 지금 몇 시야?",
+   "rd": "heol jigeum myeot siya?",
    "en": "Whoa, what time is it?",
    "note": "몇 시",
    "tags": [],
@@ -53,19 +54,20 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "7시 59분! 8시까지야!",
-   "rd": "7si 59bun! 8sikkajiya!",
-   "en": "7:59! Until 8!",
+   "ko": "7시 59분! 곧 온다!",
+   "rd": "7si 59bun! got onda!",
+   "en": "7:59! Truck's coming soon!",
    "note": "까지 = until",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a7/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "잠깐만, 신발!",
-   "rd": "jamkkanman, sinbal!",
-   "en": "Wait, my shoes!",
+   "ko": "잠깐만! 신발 어디야!",
+   "rd": "jamkkanman! sinbal eodiya!",
+   "en": "Wait! Where are my shoes!",
    "note": "신발 = shoes",
    "tags": [],
    "new": []
@@ -73,19 +75,20 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "나도 갈게! 봉투 터졌어!",
-   "rd": "nado galge! bongtu teojyeosseo!",
-   "en": "I'm coming too! The bag burst!",
+   "ko": "나도 갈게!! 봉투 터졌어!! 다 쏟아졌어!!",
+   "rd": "nado galge!! bongtu teojyeosseo!! da ssodajyeosseo!!",
+   "en": "I'm coming too!! Bag burst!! Everything spilled!!",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a7/cut3"
   },
   {
    "num": 6,
    "speaker": "B",
-   "ko": "빨리! 차 온다!",
-   "rd": "ppalli! cha onda!",
-   "en": "Hurry! The truck's coming!",
+   "ko": "빨리 와!! 차 온다!!",
+   "rd": "ppalli wa!! cha onda!!",
+   "en": "Hurry!! Truck's here!!",
    "note": "차",
    "tags": [],
    "new": []
@@ -93,22 +96,27 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "(헉헉) …차 갔어.",
-   "rd": "(heokeok) …cha gasseo.",
-   "en": "(panting) …The truck left.",
+   "ko": "헉헉… 차 갔어… 근데 또 있어…",
+   "rd": "heokeok… cha gasseo… geunde tto isseo…",
+   "en": "Panting… truck left… but there's more…",
    "note": "갔다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a7/cut4"
   },
   {
    "num": 8,
    "speaker": "C",
-   "ko": "다음 주에 또 뛰자.",
-   "rd": "daeum jue tto ttwija.",
-   "en": "Let's run again next week.",
+   "ko": "아 다음 주도 또 뛰어야겠네…",
+   "rd": "a daeum judo tto ttwieoyagenne…",
+   "en": "Ah, guess we'll run again next week…",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_life_a7_grok_rewrite.md [K203]",
+  "final": ""
+ }
 }

@@ -1,0 +1,132 @@
+{
+ "id": "r1_love_c13",
+ "region": "R1",
+ "island": "love",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "오늘 뭐 입어?",
+ "emoji": "👗",
+ "scene": "데이트 전. 지안이 옷 사진 세 장을 보낸다. 다 똑같아 보인다",
+ "speakers": {
+  "A": "{name}",
+  "B": "지안"
+ },
+ "register": "chat",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "헐",
+  "셋 다"
+ ],
+ "goal": "Outfit choice confusion",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "[사진 세 장] 뭐 입을까?",
+   "rd": "[sajin se jang] mwo ibeulkka?",
+   "en": "[three photos] What should I wear?",
+   "note": "옷",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:00"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "다 똑같은데?",
+   "rd": "da ttokgateunde?",
+   "en": "They're all the same?",
+   "note": "똑같다",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:01"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "헐 하나는 베이지, 하나는 아이보리, 하나는 크림이야",
+   "rd": "heol hananeun beiji, hananeun aibori, hananeun keurimiya",
+   "en": "Whoa one's beige, one's ivory, one's cream",
+   "note": "색",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:01"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "…그게 달라?",
+   "rd": "…geuge dalla?",
+   "en": "…Is that different?",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:02"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "완전 다르지!",
+   "rd": "wanjeon dareuji!",
+   "en": "Totally different!",
+   "note": "다르다",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:02"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "그럼 아이보리",
+   "rd": "geureom aibori",
+   "en": "Then ivory",
+   "note": "선택",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:03"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "그건 베이지야 ㅋㅋㅋ",
+   "rd": "geugeon beijiya ㅋㅋㅋ",
+   "en": "That's the beige one lolol",
+   "note": "chaos",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:03"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "아무거나 입어. 다 예뻐",
+   "rd": "amugeona ibeo. da yeppeo",
+   "en": "Wear anything. They're all pretty",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:04"
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

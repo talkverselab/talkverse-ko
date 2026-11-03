@@ -1,0 +1,155 @@
+{
+ "id": "r2_culture_b5",
+ "region": "R2",
+ "island": "culture",
+ "kind": "long",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "팬사인회 당첨",
+ "emoji": "✍️",
+ "scene": "서아가 태오 팬사인회에 당첨됐다. 그런데 날짜가 서아 시험 날",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "교수님"
+ },
+ "register": "casual",
+ "twist": 8,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "그니까",
+  "아 몰라"
+ ],
+ "goal": "A fansign on exam day",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "헐 나 팬사인회 당첨됐어!!",
+   "rd": "heol na paensainhoe dangcheomdwaesseo!!",
+   "en": "Whoa I won a fansign spot!!",
+   "note": "당첨",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "대박! 언제야?",
+   "rd": "daebak! eonjeya?",
+   "en": "Awesome! When?",
+   "note": "언제",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "다음 주 화요일 2시.",
+   "rd": "daeum ju hwayoil 2si.",
+   "en": "Next Tuesday at 2.",
+   "note": "날짜",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "…그날 너 기말고사잖아.",
+   "rd": "…geunal neo gimalgosajana.",
+   "en": "…That's your final exam day.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "…헐. 시험 몇 시야?",
+   "rd": "…heol. siheom myeot siya?",
+   "en": "…Whoa. What time is the exam?",
+   "note": "몇 시",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "1시부터 3시.",
+   "rd": "1sibuteo 3si.",
+   "en": "1 to 3.",
+   "note": "시간",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "아 몰라… 시험 30분 만에 내고 뛰어갈게.",
+   "rd": "a molla… siheom 30bun mane naego ttwieogalge.",
+   "en": "Ugh… I'll finish in 30 minutes and run.",
+   "note": "Kick: chaos plan",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "C",
+   "ko": "(교수님) 이번 시험은 늦게 내면 감점입니다. 일찍 내는 건 자유예요.",
+   "rd": "(gyosunim) ibeon siheomeun neutge naemyeon gamjeomimnida. iljjik naeneun geon jayuyeyo.",
+   "en": "(professor) Late submissions lose points. Leaving early is up to you.",
+   "note": "reveal",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 9,
+   "speaker": "B",
+   "ko": "봤지? 일찍 내는 건 자유래.",
+   "rd": "bwatji? iljjik naeneun geon jayurae.",
+   "en": "See? Leaving early is allowed.",
+   "note": "logic",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 10,
+   "speaker": "A",
+   "ko": "점수는?",
+   "rd": "jeomsuneun?",
+   "en": "And your score?",
+   "note": "점수",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "태오 사인이 A+야.",
+   "rd": "taeo saini A+ya.",
+   "en": "Taeo's autograph is my A+.",
+   "note": "joke",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 12,
+   "speaker": "A",
+   "ko": "그니까 공부는 오늘 밤에 해.",
+   "rd": "geunikka gongbuneun oneul bame hae.",
+   "en": "So study tonight.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

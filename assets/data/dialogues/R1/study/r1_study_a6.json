@@ -1,0 +1,115 @@
+{
+ "id": "r1_study_a6",
+ "region": "R1",
+ "island": "study",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "study"
+ ],
+ "domain": [
+  "study"
+ ],
+ "title": "도서관 코골이",
+ "emoji": "😴",
+ "scene": "시험 기간 도서관. 누가 크게 코를 곤다. 알고 보니 민준",
+ "speakers": {
+  "A": "{name}",
+  "B": "민준",
+  "C": "서아",
+  "D": "도서관 사람들"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "쉿",
+  "헐",
+  "잠깐만"
+ ],
+ "goal": "Snoring in the library",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "(드르렁) …",
+   "rd": "(deureureong) …",
+   "en": "(snore) …",
+   "note": "코골이",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "(속삭이며) 헐, 누구야?",
+   "rd": "(soksagimyeo) heol, nuguya?",
+   "en": "(whisper) Who is that?",
+   "note": "누구",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "(속삭이며) …민준이야.",
+   "rd": "(soksagimyeo) …minjuniya.",
+   "en": "(whisper) …It's Minjun.",
+   "note": "Kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "깨워. 빨리.",
+   "rd": "kkaewo. ppalli.",
+   "en": "Wake him up. Quick.",
+   "note": "깨우다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "민준아! (툭)",
+   "rd": "minjuna! (tuk)",
+   "en": "Minjun! (poke)",
+   "note": "툭",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "어? 시험 끝났어?!",
+   "rd": "eo? siheom kkeunnasseo?!",
+   "en": "Huh? Is the exam over?!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "D",
+   "ko": "쉿!!!",
+   "rd": "swit!!!",
+   "en": "Shh!!!",
+   "note": "everyone",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…우리 셋 다 나가야겠다.",
+   "rd": "…uri set da nagayagetda.",
+   "en": "…All three of us should leave.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

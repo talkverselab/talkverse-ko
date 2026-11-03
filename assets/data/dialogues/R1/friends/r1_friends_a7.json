@@ -33,18 +33,19 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "이거 우리가 쓴 거야. 롤링페이퍼.",
-   "rd": "igeo uriga sseun geoya. rollingpeipeo.",
-   "en": "We wrote this. A rolling paper.",
+   "ko": "이거 우리가 만든 거야. 롤링페이퍼.",
+   "rd": "igeo uriga mandeun geoya. rollingpeipeo.",
+   "en": "We made this. A rolling paper.",
    "note": "롤링페이퍼 = group message card",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a7/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "헐, 진짜? 고마워!",
-   "rd": "heol, jinjja? gomawo!",
+   "ko": "헐 진짜? 고마워!",
+   "rd": "heol jinjja? gomawo!",
    "en": "Whoa, really? Thanks!",
    "note": "고마워",
    "tags": [],
@@ -53,19 +54,20 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "지금 읽지 마! 집에서 읽어!",
-   "rd": "jigeum ikji ma! jibeseo ilgeo!",
-   "en": "Don't read it now! Read it at home!",
+   "ko": "지금 읽지 마. 집에서 읽어.",
+   "rd": "jigeum ikji ma. jibeseo ilgeo.",
+   "en": "Don't read it now. Read it at home.",
    "note": "지금",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a7/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "…벌써 읽었어.",
-   "rd": "…beolsseo ilgeosseo.",
-   "en": "…I already read it.",
+   "ko": "…벌써 다 읽었어.",
+   "rd": "…beolsseo da ilgeosseo.",
+   "en": "…I already read it all.",
    "note": "읽다",
    "tags": [],
    "new": []
@@ -73,19 +75,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "어? 울어?",
-   "rd": "eo? ureo?",
-   "en": "Huh? Are you crying?",
+   "ko": "어? 눈물이… 울고 있어?",
+   "rd": "eo? nunmuri… ulgo isseo?",
+   "en": "Huh? Tears… are you crying?",
    "note": "울다 = cry",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a7/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "아니… 눈에 뭐 들어갔어.",
-   "rd": "ani… nune mwo deureogasseo.",
-   "en": "No… something got in my eye.",
+   "ko": "아니… 눈에 뭐가 들어갔어…",
+   "rd": "ani… nune mwoga deureogasseo…",
+   "en": "No… something got in my eye…",
    "note": "classic excuse",
    "tags": [],
    "new": []
@@ -98,17 +101,22 @@
    "en": "Lol we'll miss you too.",
    "note": "보고 싶다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a7/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "다음 학기에 또 오면 돼?",
-   "rd": "daeum hakgie tto omyeon dwae?",
-   "en": "Can I just come back next term?",
+   "ko": "그럼 다음 학기에 또 오면 돼?",
+   "rd": "geureom daeum hakgie tto omyeon dwae?",
+   "en": "Then can I just come back next term?",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_friends_a7_grok_rewrite.md [K214]",
+  "final": ""
+ }
 }

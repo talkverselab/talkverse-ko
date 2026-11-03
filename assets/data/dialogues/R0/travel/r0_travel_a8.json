@@ -1,0 +1,113 @@
+{
+ "id": "r0_travel_a8",
+ "region": "R0",
+ "island": "travel",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "travel"
+ ],
+ "domain": [
+  "travel"
+ ],
+ "title": "찜질방 계란",
+ "emoji": "🥚",
+ "scene": "찜질방. 구운 계란 까는 법",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "slip",
+ "flags": [],
+ "kdrama": "찜질방에서 계란을 이마에 깨기",
+ "expressions": [
+  "이렇게",
+  "진짜?",
+  "맛있어"
+ ],
+ "goal": "Peeling jjimjilbang eggs",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "계란 까 봐.",
+   "rd": "gyeran kka bwa.",
+   "en": "Peel the egg.",
+   "note": "까다 = peel",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "어떻게?",
+   "rd": "eotteoke?",
+   "en": "How?",
+   "note": "어떻게",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "머리에 쿵!",
+   "rd": "meorie kung!",
+   "en": "Bonk it on your head!",
+   "note": "머리",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "머리에? 진짜?",
+   "rd": "meorie? jinjja?",
+   "en": "On my head? Really?",
+   "note": "진짜?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "응. 드라마에서 다 그래.",
+   "rd": "eung. deuramaeseo da geurae.",
+   "en": "Yeah. Everyone does it in dramas.",
+   "note": "드라마",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "(쿵) 아야! …안 깨졌어.",
+   "rd": "(kung) aya! …an kkaejyeosseo.",
+   "en": "(bonk) Ouch! …It didn't crack.",
+   "note": "Kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "ㅋㅋ 살살 해.",
+   "rd": "ㅋㅋ salsal hae.",
+   "en": "Lol gently.",
+   "note": "살살",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "이마가 계란보다 약해.",
+   "rd": "imaga gyeranboda yakae.",
+   "en": "My forehead is weaker than the egg.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

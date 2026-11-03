@@ -34,18 +34,19 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "「달」 써 보세요.",
-   "rd": "「dal」 sseo boseyo.",
-   "en": "Write 「달」.",
+   "ko": "「달」이라고 적어 보세요.",
+   "rd": "「dal」irago jeogeo boseyo.",
+   "en": "Write \"dal\".",
    "note": "달 = moon",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_study_a4/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "(쓱) …딸?",
-   "rd": "(sseuk) …ttal?",
+   "ko": "(쓱) …딸요?",
+   "rd": "(sseuk) …ttaryo?",
    "en": "(scribble) …딸?",
    "note": "spelling",
    "tags": [],
@@ -54,19 +55,20 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "(속삭이며) 달! 달!",
-   "rd": "(soksagimyeo) dal! dal!",
-   "en": "(whisper) 달! 달!",
+   "ko": "(속삭이며) 달! 달이에요!",
+   "rd": "(soksagimyeo) dal! darieyo!",
+   "en": "(whisper) Dal! It's dal!",
    "note": "help",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_study_a4/cut2"
   },
   {
    "num": 4,
    "speaker": "B",
-   "ko": "마리아 씨, 쉿.",
-   "rd": "maria ssi, swit.",
-   "en": "Maria, shh.",
+   "ko": "마리아 씨 쉿! 다들 조용히!",
+   "rd": "maria ssi swit! dadeul joyonghi!",
+   "en": "Maria, shh! Everyone be quiet!",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -74,19 +76,20 @@
   {
    "num": 5,
    "speaker": "D",
-   "ko": "(옆에서) 저도 몰라요!",
-   "rd": "(yeopeseo) jeodo mollayo!",
-   "en": "(next to them) I don't know either!",
+   "ko": "저도 몰라요! 딸로 썼어요!",
+   "rd": "jeodo mollayo! ttallo sseosseoyo!",
+   "en": "I don't know either! I wrote 딸!",
    "note": "chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_study_a4/cut3"
   },
   {
    "num": 6,
    "speaker": "C",
-   "ko": "다 같이 틀렸어요!",
-   "rd": "da gachi teullyeosseoyo!",
-   "en": "We all got it wrong!",
+   "ko": "진짜요? 다 같이 틀렸어요!",
+   "rd": "jinjjayo? da gachi teullyeosseoyo!",
+   "en": "Really? We all got it wrong!",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -94,22 +97,27 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋ 다 같이 다시 해요.",
-   "rd": "ㅋㅋ da gachi dasi haeyo.",
-   "en": "Haha, let's all do it again.",
+   "ko": "네, 다 같이 다시 해요.",
+   "rd": "ne, da gachi dasi haeyo.",
+   "en": "Yes, let's all do it again.",
    "note": "다시",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_study_a4/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "이번엔 「딸」 말고 「달」!",
-   "rd": "ibeonen 「ttal」 malgo 「dal」!",
-   "en": "This time 달, not 딸!",
+   "ko": "죄송합니다. 이번엔 달!",
+   "rd": "joesonghamnida. ibeonen dal!",
+   "en": "Sorry. This time dal!",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_study_a4_grok_rewrite.md [K209]",
+  "final": ""
+ }
 }
