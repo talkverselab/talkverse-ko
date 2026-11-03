@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "(속으로) 어깨에… 기댔다.",
-   "rd": "(sogeuro) eokkaee… gidaetda.",
-   "en": "(inner) She… leaned on my shoulder.",
+   "ko": "(속으로) 어… 내 어깨에 기대고 있네.",
+   "rd": "(sogeuro) eo… nae eokkaee gidaego inne.",
+   "en": "(inner) Whoa… she’s leaning on my shoulder.",
    "note": "기대다",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "C",
-   "ko": "(방송) 이번 역은 강남역입니다.",
-   "rd": "(bangsong) ibeon yeogeun gangnamyeogimnida.",
-   "en": "(announcement) This stop is Gangnam.",
+   "ko": "(방송) 이번 역은 강남역입니다. 내리실 문은 왼쪽입니다.",
+   "rd": "(bangsong) ibeon yeogeun gangnamyeogimnida. naerisil muneun oenjjogimnida.",
+   "en": "(announcement) This stop is Gangnam. Doors open on the left.",
    "note": "방송",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "저기요… 강남역이에요.",
-   "rd": "jeogiyo… gangnamyeogieyo.",
-   "en": "Excuse me… it's Gangnam.",
+   "ko": "잠깐만요… 저기요, 강남역이에요.",
+   "rd": "jamkkanmanyo… jeogiyo, gangnamyeogieyo.",
+   "en": "Hold on a sec… Excuse me, it’s Gangnam.",
    "note": "저기요",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "어? 죄송해요! 제가…",
-   "rd": "eo? joesonghaeyo! jega…",
-   "en": "Oh? Sorry! I…",
+   "ko": "어? 아, 죄송해요! 제가 깜빡 잠이 들어서…",
+   "rd": "eo? a, joesonghaeyo! jega kkamppak jami deureoseo…",
+   "en": "Huh? Ah, sorry! I just dozed off…",
    "note": "죄송",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "괜찮아요. 저도 강남이에요.",
-   "rd": "gwaenchanayo. jeodo gangnamieyo.",
-   "en": "It's fine. I'm getting off at Gangnam too.",
+   "ko": "괜찮아요. 저도 여기서 내려요.",
+   "rd": "gwaenchanayo. jeodo yeogiseo naeryeoyo.",
+   "en": "It’s fine. I’m getting off here too.",
    "note": "저도",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "…매일 같은 칸이죠?",
-   "rd": "…maeil gateun kanijyo?",
-   "en": "…We're in the same car every day, right?",
+   "ko": "…매일 같은 칸이시네요?",
+   "rd": "…maeil gateun kanisineyo?",
+   "en": "…We’re in the same car every day, huh?",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "알고 있었어요?",
-   "rd": "algo isseosseoyo?",
-   "en": "You knew?",
+   "ko": "진짜요? 알고 있었어요?",
+   "rd": "jinjjayo? algo isseosseoyo?",
+   "en": "Really? You knew?",
    "note": "알다",
    "tags": [],
    "new": []
@@ -103,9 +103,9 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "네. 그래서 기댄 거예요.",
-   "rd": "ne. geuraeseo gidaen geoyeyo.",
-   "en": "Yes. That's why I leaned.",
+   "ko": "네… 그래서 일부러 기댄 거예요.",
+   "rd": "ne… geuraeseo ilbureo gidaen geoyeyo.",
+   "en": "Yeah… that’s why I leaned on purpose.",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -113,5 +113,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a18_grok_rewrite.md [KS01]",
+  "final": ""
+ }
 }
