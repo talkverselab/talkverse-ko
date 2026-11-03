@@ -40,7 +40,24 @@
    "note": "저기요 = excuse me (getting attention)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a4/cut1"
+   "art": "scene/ko/r0_love_a4/cut1",
+   "lemmas": [
+    [
+     "저기요",
+     "저기요",
+     "jeogiyo"
+    ],
+    [
+     "펜",
+     "펜",
+     "pen"
+    ],
+    [
+     "빌려",
+     "빌리다",
+     "billida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +67,8 @@
    "en": "Yeah, here you go.",
    "note": "여기요 = here you go",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 3,
@@ -61,7 +79,19 @@
    "note": "다 썼어요 = I'm done using it",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a4/cut2"
+   "art": "scene/ko/r0_love_a4/cut2",
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "썼",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +101,19 @@
    "en": "Already done?",
    "note": "벌써 = already",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "벌써",
+     "벌써",
+     "beolsseo"
+    ],
+    [
+     "쓰",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +124,14 @@
    "note": "또 = again",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a4/cut3"
+   "art": "scene/ko/r0_love_a4/cut3",
+   "lemmas": [
+    [
+     "빌리",
+     "빌리다",
+     "billida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +141,19 @@
    "en": "Again? I just gave it to you.",
    "note": "Kick: she only wants an excuse to talk",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "방금",
+     "방금",
+     "banggeum"
+    ],
+    [
+     "드렸",
+     "드리다",
+     "deurida"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +164,19 @@
    "note": "말고 = not (this), but…",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a4/cut4"
+   "art": "scene/ko/r0_love_a4/cut4",
+   "lemmas": [
+    [
+     "펜",
+     "펜",
+     "pen"
+    ],
+    [
+     "이름",
+     "이름",
+     "ireum"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +186,19 @@
    "en": "Oh… {name}. Just keep the pen.",
    "note": "가지세요 = keep it",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "펜",
+     "펜",
+     "pen"
+    ],
+    [
+     "쓰",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   }
  ],
  "review": {

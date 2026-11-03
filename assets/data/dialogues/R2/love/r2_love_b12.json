@@ -40,7 +40,34 @@
    "note": "정산",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b12/cut1"
+   "art": "scene/ko/r2_love_b12/cut1",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "낼",
+     "내다",
+     "naeda"
+    ],
+    [
+     "데뷔",
+     "데뷔",
+     "debwi"
+    ],
+    [
+     "정산",
+     "정산",
+     "jeongsan"
+    ],
+    [
+     "들어왔",
+     "들어오다",
+     "deureooda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +77,29 @@
    "en": "Whoa, congrats! But looking at the menu, I'm kinda nervous.",
    "note": "비싸다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "축하",
+     "축하",
+     "chuka"
+    ],
+    [
+     "메뉴",
+     "메뉴",
+     "menyu"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "떨린",
+     "떨리다",
+     "tteollida"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +110,24 @@
    "note": "재벌",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b12/cut2"
+   "art": "scene/ko/r2_love_b12/cut2",
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "재벌",
+     "재벌",
+     "jaebeol"
+    ],
+    [
+     "시켜",
+     "시키다",
+     "sikida"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +137,19 @@
    "en": "One steak is 300,000 won. For real?",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "스테이크",
+     "스테이크",
+     "seuteikeu"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +160,24 @@
    "note": "잠깐만",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b12/cut3"
+   "art": "scene/ko/r2_love_b12/cut3",
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "정산",
+     "정산",
+     "jeongsan"
+    ],
+    [
+     "얼마",
+     "얼마",
+     "eolma"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +187,19 @@
    "en": "What was the payout?",
    "note": "얼마",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "정산",
+     "정산",
+     "jeongsan"
+    ],
+    [
+     "얼마",
+     "얼마",
+     "eolma"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +210,8 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b12/cut4"
+   "art": "scene/ko/r2_love_b12/cut4",
+   "lemmas": []
   },
   {
    "num": 8,
@@ -113,7 +221,29 @@
    "en": "Lolol let's get up. Let's go eat tteokbokki.",
    "note": "떡볶이",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "일어나",
+     "일어나다",
+     "ireonada"
+    ],
+    [
+     "떡볶이",
+     "떡볶이",
+     "tteokbokki"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -124,7 +254,44 @@
    "note": "chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b12/cut5"
+   "art": "scene/ko/r2_love_b12/cut5",
+   "lemmas": [
+    [
+     "물",
+     "물",
+     "mul"
+    ],
+    [
+     "무료",
+     "무료",
+     "muryo"
+    ],
+    [
+     "주문",
+     "주문",
+     "jumun"
+    ],
+    [
+     "샴페인",
+     "샴페인",
+     "syampein"
+    ],
+    [
+     "타워",
+     "타워",
+     "tawo"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "나오",
+     "나오다",
+     "naoda"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -134,7 +301,24 @@
    "en": "What? We didn't order that. Wait a sec!",
    "note": "joke",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "뭐",
+     "뭐",
+     "mwo"
+    ],
+    [
+     "시켰",
+     "시키다",
+     "sikida"
+    ],
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -145,7 +329,24 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b12/cut6"
+   "art": "scene/ko/r2_love_b12/cut6",
+   "lemmas": [
+    [
+     "일어나",
+     "일어나다",
+     "ireonada"
+    ],
+    [
+     "떡볶이",
+     "떡볶이",
+     "tteokbokki"
+    ],
+    [
+     "쏠",
+     "쏘다",
+     "ssoda"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -155,7 +356,44 @@
    "en": "Next time when I actually have money, let's come back. Then I'll...",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "돈",
+     "돈",
+     "don"
+    ],
+    [
+     "생기",
+     "생기다",
+     "saenggida"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ],
+    [
+     "그때",
+     "그때",
+     "geuttae"
+    ]
+   ]
   }
  ],
  "learner_gender": "F",

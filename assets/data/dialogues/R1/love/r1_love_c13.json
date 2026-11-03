@@ -40,7 +40,24 @@
    "new": [],
    "ui": "bubble",
    "at": "17:00",
-   "art": "scene/ko/r1_love_c13/cut1"
+   "art": "scene/ko/r1_love_c13/cut1",
+   "lemmas": [
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "모르",
+     "모르다",
+     "moreuda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -52,7 +69,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:01"
+   "at": "17:01",
+   "lemmas": [
+    [
+     "똑같",
+     "똑같다",
+     "ttokgatda"
+    ],
+    [
+     "보이",
+     "보이다",
+     "boida"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -65,7 +94,29 @@
    "new": [],
    "ui": "bubble",
    "at": "17:01",
-   "art": "scene/ko/r1_love_c13/cut2"
+   "art": "scene/ko/r1_love_c13/cut2",
+   "lemmas": [
+    [
+     "아니야",
+     "아니야",
+     "aniya"
+    ],
+    [
+     "베이지",
+     "베이지",
+     "beiji"
+    ],
+    [
+     "아이보리",
+     "아이보리",
+     "aibori"
+    ],
+    [
+     "크림색",
+     "크림색",
+     "keurimsaek"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -77,7 +128,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:02"
+   "at": "17:02",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "구별",
+     "구별",
+     "gubyeol"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -90,7 +153,39 @@
    "new": [],
    "ui": "bubble",
    "at": "17:02",
-   "art": "scene/ko/r1_love_c13/cut3"
+   "art": "scene/ko/r1_love_c13/cut3",
+   "lemmas": [
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "다르",
+     "다르다",
+     "dareuda"
+    ],
+    [
+     "친구",
+     "친구",
+     "chingu"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ],
+    [
+     "옷",
+     "옷",
+     "ot"
+    ],
+    [
+     "골",
+     "고르다",
+     "goreuda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -102,7 +197,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:03"
+   "at": "17:03",
+   "lemmas": [
+    [
+     "아이보리",
+     "아이보리",
+     "aibori"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -115,7 +217,34 @@
    "new": [],
    "ui": "bubble",
    "at": "17:03",
-   "art": "scene/ko/r1_love_c13/cut4"
+   "art": "scene/ko/r1_love_c13/cut4",
+   "lemmas": [
+    [
+     "베이지야",
+     "베이지야",
+     "beijiya"
+    ],
+    [
+     "카톡",
+     "카톡",
+     "katok"
+    ],
+    [
+     "쌓였",
+     "쌓이다",
+     "ssaida"
+    ],
+    [
+     "동생",
+     "동생",
+     "dongsaeng"
+    ],
+    [
+     "보냈",
+     "보내다",
+     "bonaeda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -127,7 +256,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:04"
+   "at": "17:04",
+   "lemmas": [
+    [
+     "예쁠",
+     "예쁘다",
+     "yeppeuda"
+    ]
+   ]
   }
  ],
  "series": "flirt",

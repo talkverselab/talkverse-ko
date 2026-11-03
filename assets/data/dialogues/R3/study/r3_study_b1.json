@@ -38,7 +38,34 @@
    "note": "봐 줘 = look at it for me",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_study_b1/cut1"
+   "art": "scene/ko/r3_study_b1/cut1",
+   "lemmas": [
+    [
+     "서아야",
+     "서아야",
+     "seoaya"
+    ],
+    [
+     "교수",
+     "교수",
+     "gyosu"
+    ],
+    [
+     "메일",
+     "메일",
+     "meil"
+    ],
+    [
+     "쓰",
+     "쓰다",
+     "sseuda"
+    ],
+    [
+     "봐",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +75,19 @@
    "en": "Hi prof~ it's {name} lol …whoa",
    "note": "Kick: chat-speak to a professor",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "교수",
+     "교수",
+     "gyosu"
+    ],
+    [
+     "안녕",
+     "안녕",
+     "annyeong"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +98,24 @@
    "note": "친절하게 = kindly",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_study_b1/cut2"
+   "art": "scene/ko/r3_study_b1/cut2",
+   "lemmas": [
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "친절",
+     "친절",
+     "chinjeol"
+    ],
+    [
+     "썼",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +125,19 @@
    "en": "Send ㅋㅋ to a professor and you get an F",
    "note": "F = failing grade",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "교수",
+     "교수",
+     "gyosu"
+    ],
+    [
+     "보내",
+     "보내다",
+     "bonaeda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +148,19 @@
    "note": "뭐라고 = what (words)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_study_b1/cut3"
+   "art": "scene/ko/r3_study_b1/cut3",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "써",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +170,34 @@
    "en": "Dear Professor, this is {name} enrolled in your ○○ class",
    "note": "수강 중 = currently taking (a course)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "안녕",
+     "안녕",
+     "annyeong"
+    ],
+    [
+     "교수",
+     "교수",
+     "gyosu"
+    ],
+    [
+     "수업",
+     "수업",
+     "sueop"
+    ],
+    [
+     "수강",
+     "수강",
+     "sugang"
+    ],
+    [
+     "입",
+     "이",
+     "i"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +208,19 @@
    "note": "callback 「군대 다녀왔어요?」",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_study_b1/cut4"
+   "art": "scene/ko/r3_study_b1/cut4",
+   "lemmas": [
+    [
+     "군대",
+     "군대",
+     "gundae"
+    ],
+    [
+     "말투",
+     "말투",
+     "maltu"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +230,29 @@
    "en": "To a professor that's correct, so formal speech",
    "note": "격식체 = formal register",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "교수",
+     "교수",
+     "gyosu"
+    ],
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ],
+    [
+     "격식",
+     "격식",
+     "gyeoksik"
+    ],
+    [
+     "체",
+     "체",
+     "che"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -122,7 +263,29 @@
    "note": "늦게 내다 = submit late",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_study_b1/cut5"
+   "art": "scene/ko/r3_study_b1/cut5",
+   "lemmas": [
+    [
+     "과제",
+     "과제",
+     "gwaje"
+    ],
+    [
+     "늦",
+     "늦다",
+     "neutda"
+    ],
+    [
+     "내",
+     "내다",
+     "naeda"
+    ],
+    [
+     "는",
+     "늘다",
+     "neulda"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -132,7 +295,44 @@
    "en": "Due to unavoidable circumstances I would like to ask whether an extension might be possible",
    "note": "여쭙다 = to ask (humble)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "부득이",
+     "부득이",
+     "budeugi"
+    ],
+    [
+     "사정",
+     "사정",
+     "sajeong"
+    ],
+    [
+     "제출",
+     "제출",
+     "jechul"
+    ],
+    [
+     "기한",
+     "기한",
+     "gihan"
+    ],
+    [
+     "연장",
+     "연장",
+     "yeonjang"
+    ],
+    [
+     "부탁",
+     "부탁",
+     "butak"
+    ],
+    [
+     "드려",
+     "드리다",
+     "deurida"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -143,7 +343,29 @@
    "note": "문장 = sentence",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_study_b1/cut6"
+   "art": "scene/ko/r3_study_b1/cut6",
+   "lemmas": [
+    [
+     "한국어",
+     "한국어",
+     "hangugeo"
+    ],
+    [
+     "문장",
+     "문장",
+     "munjang"
+    ],
+    [
+     "모르",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "단어",
+     "단어",
+     "daneo"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -153,7 +375,19 @@
    "en": "That's why everyone copy-pastes, go send it",
    "note": "복붙 = copy-paste",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "복붙해",
+     "복붙해",
+     "bokbutae"
+    ],
+    [
+     "보내",
+     "보내다",
+     "bonaeda"
+    ]
+   ]
   },
   {
    "num": 13,
@@ -164,7 +398,34 @@
    "note": "Kick: the professor uses chat shorthand",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_study_b1/cut7"
+   "art": "scene/ko/r3_study_b1/cut7",
+   "lemmas": [
+    [
+     "교수",
+     "교수",
+     "gyosu"
+    ],
+    [
+     "답장",
+     "답장",
+     "dapjang"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ],
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "주",
+     "주",
+     "ju"
+    ]
+   ]
   },
   {
    "num": 14,
@@ -174,7 +435,19 @@
    "en": "…Forget it, the world has changed",
    "note": "변하다 = to change",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "세상",
+     "세상",
+     "sesang"
+    ],
+    [
+     "변했",
+     "변하다",
+     "byeonhada"
+    ]
+   ]
   }
  ],
  "review": {

@@ -41,7 +41,29 @@
    "new": [],
    "ui": "bubble",
    "at": "10:00",
-   "art": "scene/ko/r1_love_c10/cut1"
+   "art": "scene/ko/r1_love_c10/cut1",
+   "lemmas": [
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "어제",
+     "어제",
+     "eoje"
+    ],
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "보정",
+     "보정",
+     "bojeong"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -53,7 +75,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "10:01"
+   "at": "10:01",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "예쁘",
+     "예쁘다",
+     "yeppeuda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -66,7 +100,19 @@
    "new": [],
    "ui": "bubble",
    "at": "10:01",
-   "art": "scene/ko/r1_love_c10/cut2"
+   "art": "scene/ko/r1_love_c10/cut2",
+   "lemmas": [
+    [
+     "얼굴",
+     "얼굴",
+     "eolgul"
+    ],
+    [
+     "왜",
+     "왜",
+     "wae"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -78,7 +124,34 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "10:02"
+   "at": "10:02",
+   "lemmas": [
+    [
+     "필터",
+     "필터",
+     "pilteo"
+    ],
+    [
+     "고양이",
+     "고양이",
+     "goyangi"
+    ],
+    [
+     "귀",
+     "귀",
+     "gwi"
+    ],
+    [
+     "눈",
+     "눈",
+     "nun"
+    ],
+    [
+     "붙였",
+     "붙이다",
+     "buchida"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -91,7 +164,19 @@
    "new": [],
    "ui": "bubble",
    "at": "10:02",
-   "art": "scene/ko/r1_love_c10/cut3"
+   "art": "scene/ko/r1_love_c10/cut3",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "눈",
+     "눈",
+     "nun"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -103,7 +188,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "10:03"
+   "at": "10:03",
+   "lemmas": [
+    [
+     "실수",
+     "실수",
+     "silsu"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -116,7 +208,19 @@
    "new": [],
    "ui": "bubble",
    "at": "10:03",
-   "art": "scene/ko/r1_love_c10/cut4"
+   "art": "scene/ko/r1_love_c10/cut4",
+   "lemmas": [
+    [
+     "단톡",
+     "단톡",
+     "dantok"
+    ],
+    [
+     "올렸",
+     "올리다",
+     "ollida"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -128,7 +232,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "10:04"
+   "at": "10:04",
+   "lemmas": [
+    [
+     "벌써",
+     "벌써",
+     "beolsseo"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "넘",
+     "넘다",
+     "neomda"
+    ]
+   ]
   }
  ],
  "learner_gender": "M",

@@ -38,7 +38,29 @@
    "note": "어서 오세요",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a16/cut1"
+   "art": "scene/ko/r1_love_a16/cut1",
+   "lemmas": [
+    [
+     "어서",
+     "어서",
+     "eoseo"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +70,24 @@
    "en": "Yeah, one banana milk please.",
    "note": "오늘도",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "바나나",
+     "바나나",
+     "banana"
+    ],
+    [
+     "우유",
+     "우유",
+     "uyu"
+    ],
+    [
+     "주",
+     "주다",
+     "juda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +98,39 @@
    "note": "매일",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a16/cut2"
+   "art": "scene/ko/r1_love_a16/cut2",
+   "lemmas": [
+    [
+     "바나나",
+     "바나나",
+     "banana"
+    ],
+    [
+     "우유",
+     "우유",
+     "uyu"
+    ],
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "매일",
+     "매일",
+     "maeil"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +140,29 @@
    "en": "Yeah. I just really like banana milk.",
    "note": "좋아하다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "바나나",
+     "바나나",
+     "banana"
+    ],
+    [
+     "우유",
+     "우유",
+     "uyu"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "좋아해",
+     "좋아하다",
+     "joahada"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +173,39 @@
    "note": "ambiguous",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a16/cut3"
+   "art": "scene/ko/r1_love_a16/cut3",
+   "lemmas": [
+    [
+     "매일",
+     "매일",
+     "maeil"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "바나나",
+     "바나나",
+     "banana"
+    ],
+    [
+     "우유",
+     "우유",
+     "uyu"
+    ],
+    [
+     "좋아해",
+     "좋아하다",
+     "joahada"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +215,24 @@
    "en": "Wanna see it? Or the banana milk?",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "바나나",
+     "바나나",
+     "banana"
+    ],
+    [
+     "우유",
+     "우유",
+     "uyu"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +243,19 @@
    "note": "flustered",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a16/cut4"
+   "art": "scene/ko/r1_love_a16/cut4",
+   "lemmas": [
+    [
+     "바나나",
+     "바나나",
+     "banana"
+    ],
+    [
+     "우유",
+     "우유",
+     "uyu"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +265,24 @@
    "en": "Haha, try being a bit more honest tomorrow.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "솔직",
+     "솔직",
+     "soljik"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   }
  ],
  "series": "flirt",

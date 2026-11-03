@@ -39,7 +39,19 @@
    "note": "안내 방송",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a3/cut1"
+   "art": "scene/ko/r0_life_a3/cut1",
+   "lemmas": [
+    [
+     "층",
+     "층",
+     "cheung"
+    ],
+    [
+     "도착",
+     "도착",
+     "dochak"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +61,14 @@
    "en": "Huh? It's the 2nd floor?",
    "note": "echo",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "층",
+     "층",
+     "cheung"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +79,24 @@
    "note": "every floor",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a3/cut2"
+   "art": "scene/ko/r0_life_a3/cut2",
+   "lemmas": [
+    [
+     "층",
+     "층",
+     "cheung"
+    ],
+    [
+     "층",
+     "층",
+     "cheung"
+    ],
+    [
+     "도착",
+     "도착",
+     "dochak"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +106,19 @@
    "en": "Whoa, all the buttons are pressed!",
    "note": "Kick: every button — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "버튼",
+     "버튼",
+     "beoteun"
+    ],
+    [
+     "눌렸",
+     "눌리다",
+     "nullida"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +129,14 @@
    "note": "꼬마 = little kid",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a3/cut3"
+   "art": "scene/ko/r0_life_a3/cut3",
+   "lemmas": [
+    [
+     "헤헤",
+     "헤헤",
+     "hehe"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +146,19 @@
    "en": "Oh dear… I'm on the 20th.",
    "note": "층 = floor",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아이고",
+     "아이고",
+     "aigo"
+    ],
+    [
+     "층",
+     "층",
+     "cheung"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +169,29 @@
    "note": "세다 = count",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a3/cut4"
+   "art": "scene/ko/r0_life_a3/cut4",
+   "lemmas": [
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "세",
+     "세다",
+     "seda"
+    ],
+    [
+     "층",
+     "층",
+     "cheung"
+    ],
+    [
+     "층",
+     "층",
+     "cheung"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +201,34 @@
    "en": "It's fine… I'll practice counting floors...",
    "note": "punchline: counting floors",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "층",
+     "층",
+     "cheung"
+    ],
+    [
+     "세",
+     "세다",
+     "seda"
+    ],
+    [
+     "공부",
+     "공부",
+     "gongbu"
+    ],
+    [
+     "뭐",
+     "뭐",
+     "mwo"
+    ]
+   ]
   }
  ],
  "review": {

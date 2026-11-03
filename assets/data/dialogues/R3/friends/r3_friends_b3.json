@@ -39,7 +39,34 @@
    "note": "약속",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_friends_b3/cut1"
+   "art": "scene/ko/r3_friends_b3/cut1",
+   "lemmas": [
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "열",
+     "열다",
+     "yeolda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "약속",
+     "약속",
+     "yaksok"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +76,29 @@
    "en": "How old will we be in ten years? Counting ages is already a pain.",
    "note": "몇 살",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ],
+    [
+     "나이",
+     "나이",
+     "nai"
+    ],
+    [
+     "세",
+     "세다",
+     "seda"
+    ],
+    [
+     "귀찮",
+     "귀찮다",
+     "gwichanta"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +109,24 @@
    "note": "팀장",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_friends_b3/cut2"
+   "art": "scene/ko/r3_friends_b3/cut2",
+   "lemmas": [
+    [
+     "아마",
+     "아마",
+     "ama"
+    ],
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "달",
+     "달다",
+     "dalda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +136,24 @@
    "en": "Then if you say \"anything,\" is it still samgyeopsal? lol You're consistent.",
    "note": "callback",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ],
+    [
+     "삼겹살",
+     "삼겹살",
+     "samgyeopsal"
+    ],
+    [
+     "변함없",
+     "변함없다",
+     "byeonhameopda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +164,34 @@
    "note": "쓰다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_friends_b3/cut3"
+   "art": "scene/ko/r3_friends_b3/cut3",
+   "lemmas": [
+    [
+     "뭐",
+     "뭐",
+     "mwo"
+    ],
+    [
+     "쓰",
+     "쓰다",
+     "sseuda"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "진지",
+     "진지",
+     "jinji"
+    ],
+    [
+     "표정",
+     "표정",
+     "pyojeong"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +201,19 @@
    "en": "It's a secret. But I'll tell you one thing.",
    "note": "비밀",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "비밀",
+     "비밀",
+     "bimil"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +224,49 @@
    "note": "callback",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_friends_b3/cut4"
+   "art": "scene/ko/r3_friends_b3/cut4",
+   "lemmas": [
+    [
+     "처음",
+     "처음",
+     "cheoeum"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ],
+    [
+     "때",
+     "때",
+     "ttae"
+    ],
+    [
+     "밥",
+     "밥",
+     "bap"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "밥",
+     "밥",
+     "bap"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +276,34 @@
    "en": "You still remember that? For real? I was so embarrassed.",
    "note": "기억",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ],
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "창피",
+     "창피",
+     "changpi"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -123,7 +314,19 @@
    "note": "심쿵(우정)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_friends_b3/cut5"
+   "art": "scene/ko/r3_friends_b3/cut5",
+   "lemmas": [
+    [
+     "그때",
+     "그때",
+     "geuttae"
+    ],
+    [
+     "친구",
+     "친구",
+     "chingu"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -133,7 +336,39 @@
    "en": "For me it was the \"have you done your military service?\" thing. You looked so flustered.",
    "note": "callback",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "군대",
+     "군대",
+     "gundae"
+    ],
+    [
+     "다녀왔",
+     "다녀오다",
+     "danyeooda"
+    ],
+    [
+     "때",
+     "때",
+     "ttae"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "당황",
+     "당황",
+     "danghwang"
+    ],
+    [
+     "모습",
+     "모습",
+     "moseup"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -144,7 +379,49 @@
    "note": "joke",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_friends_b3/cut6"
+   "art": "scene/ko/r3_friends_b3/cut6",
+   "lemmas": [
+    [
+     "흑역사",
+     "흑역사",
+     "heugyeoksa"
+    ],
+    [
+     "골",
+     "고르다",
+     "goreuda"
+    ],
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "인생",
+     "인생",
+     "insaeng"
+    ],
+    [
+     "최고",
+     "최고",
+     "choego"
+    ],
+    [
+     "웃긴",
+     "웃기다",
+     "utgida"
+    ],
+    [
+     "장면",
+     "장면",
+     "jangmyeon"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -154,7 +431,24 @@
    "en": "Those mistakes are all our memories. So… I'll miss you even more.",
    "note": "따뜻",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "실수",
+     "실수",
+     "silsu"
+    ],
+    [
+     "추억",
+     "추억",
+     "chueok"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 13,
@@ -165,7 +459,34 @@
    "note": "약속",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_friends_b3/cut7"
+   "art": "scene/ko/r3_friends_b3/cut7",
+   "lemmas": [
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ],
+    [
+     "실수",
+     "실수",
+     "silsu"
+    ],
+    [
+     "없이",
+     "없이",
+     "eopsi"
+    ],
+    [
+     "한국어",
+     "한국어",
+     "hangugeo"
+    ],
+    [
+     "읽",
+     "읽다",
+     "ikda"
+    ]
+   ]
   },
   {
    "num": 14,
@@ -175,7 +496,29 @@
    "en": "If you mess up, you're buying chicken. Remember that.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "틀리",
+     "틀리다",
+     "teullida"
+    ],
+    [
+     "치킨",
+     "치킨",
+     "chikin"
+    ],
+    [
+     "쏘",
+     "쏘다",
+     "ssoda"
+    ],
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ]
+   ]
   }
  ],
  "review": {

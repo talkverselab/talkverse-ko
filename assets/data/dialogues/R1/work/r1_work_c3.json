@@ -41,7 +41,39 @@
    "new": [],
    "ui": "bubble",
    "at": "14:00",
-   "art": "scene/ko/r1_work_c3/cut1"
+   "art": "scene/ko/r1_work_c3/cut1",
+   "lemmas": [
+    [
+     "선배",
+     "선배",
+     "seonbae"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "표정",
+     "표정",
+     "pyojeong"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "보이",
+     "보이다",
+     "boida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -53,7 +85,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "14:00"
+   "at": "14:00",
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -66,7 +115,24 @@
    "new": [],
    "ui": "bubble",
    "at": "14:01",
-   "art": "scene/ko/r1_work_c3/cut2"
+   "art": "scene/ko/r1_work_c3/cut2",
+   "lemmas": [
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ],
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "착각",
+     "착각",
+     "chakgak"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -78,7 +144,29 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "14:01"
+   "at": "14:01",
+   "lemmas": [
+    [
+     "큰일",
+     "큰일",
+     "keunil"
+    ],
+    [
+     "났",
+     "나다",
+     "nada"
+    ],
+    [
+     "단톡",
+     "단톡",
+     "dantok"
+    ],
+    [
+     "떴",
+     "뜨다",
+     "tteuda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -91,7 +179,29 @@
    "new": [],
    "ui": "bubble",
    "at": "14:02",
-   "art": "scene/ko/r1_work_c3/cut3"
+   "art": "scene/ko/r1_work_c3/cut3",
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "생각",
+     "생각",
+     "saenggak"
+    ],
+    [
+     "궁금",
+     "궁금",
+     "gunggeum"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -103,7 +213,39 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "14:02"
+   "at": "14:02",
+   "lemmas": [
+    [
+     "아까",
+     "아까",
+     "akka"
+    ],
+    [
+     "회의",
+     "회의",
+     "hoeui"
+    ],
+    [
+     "한숨",
+     "한숨",
+     "hansum"
+    ],
+    [
+     "소리",
+     "소리",
+     "sori"
+    ],
+    [
+     "크",
+     "크다",
+     "keuda"
+    ],
+    [
+     "들려",
+     "들리다",
+     "deullida"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -116,7 +258,34 @@
    "new": [],
    "ui": "bubble",
    "at": "14:03",
-   "art": "scene/ko/r1_work_c3/cut4"
+   "art": "scene/ko/r1_work_c3/cut4",
+   "lemmas": [
+    [
+     "점심",
+     "점심",
+     "jeomsim"
+    ],
+    [
+     "고민",
+     "고민",
+     "gomin"
+    ],
+    [
+     "채팅",
+     "채팅",
+     "chaeting"
+    ],
+    [
+     "창",
+     "창",
+     "chang"
+    ],
+    [
+     "난리",
+     "난리",
+     "nalli"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -128,7 +297,34 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "14:03"
+   "at": "14:03",
+   "lemmas": [
+    [
+     "넵",
+     "넵",
+     "nep"
+    ],
+    [
+     "다행",
+     "다행",
+     "dahaeng"
+    ],
+    [
+     "채팅",
+     "채팅",
+     "chaeting"
+    ],
+    [
+     "점점",
+     "점점",
+     "jeomjeom"
+    ],
+    [
+     "터져",
+     "터지다",
+     "teojida"
+    ]
+   ]
   }
  ],
  "review": {

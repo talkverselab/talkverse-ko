@@ -41,7 +41,8 @@
    "new": [],
    "ui": "bubble",
    "at": "23:58",
-   "art": "scene/ko/r1_love_c5/cut1"
+   "art": "scene/ko/r1_love_c5/cut1",
+   "lemmas": []
   },
   {
    "num": 2,
@@ -53,7 +54,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:59"
+   "at": "23:59",
+   "lemmas": [
+    [
+     "이제",
+     "이제",
+     "ije"
+    ],
+    [
+     "자",
+     "자다",
+     "jada"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -66,7 +79,19 @@
    "new": [],
    "ui": "bubble",
    "at": "23:59",
-   "art": "scene/ko/r1_love_c5/cut2"
+   "art": "scene/ko/r1_love_c5/cut2",
+   "lemmas": [
+    [
+     "잠",
+     "잠",
+     "jam"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -78,7 +103,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:00"
+   "at": "00:00",
+   "lemmas": [
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "일",
+     "일",
+     "il"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -91,7 +128,14 @@
    "new": [],
    "ui": "bubble",
    "at": "00:00",
-   "art": "scene/ko/r1_love_c5/cut3"
+   "art": "scene/ko/r1_love_c5/cut3",
+   "lemmas": [
+    [
+     "생각나",
+     "생각나다",
+     "saenggangnada"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -103,7 +147,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:02"
+   "at": "00:02",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -116,7 +167,14 @@
    "new": [],
    "ui": "bubble",
    "at": "00:02",
-   "art": "scene/ko/r1_love_c5/cut4"
+   "art": "scene/ko/r1_love_c5/cut4",
+   "lemmas": [
+    [
+     "동안",
+     "동안",
+     "dongan"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -128,7 +186,29 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:03"
+   "at": "00:03",
+   "lemmas": [
+    [
+     "설레",
+     "설레다",
+     "seolleda"
+    ],
+    [
+     "폰",
+     "폰",
+     "pon"
+    ],
+    [
+     "떨어뜨렸",
+     "떨어뜨리다",
+     "tteoreotteurida"
+    ],
+    [
+     "자",
+     "자다",
+     "jada"
+    ]
+   ]
   }
  ],
  "series": "flirt",

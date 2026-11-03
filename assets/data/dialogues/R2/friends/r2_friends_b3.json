@@ -39,7 +39,24 @@
    "note": "입대 = enlist",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b3/cut1"
+   "art": "scene/ko/r2_friends_b3/cut1",
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "달",
+     "달",
+     "dal"
+    ],
+    [
+     "입대",
+     "입대",
+     "ipdae"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +66,29 @@
    "en": "Enlist? Going to the army? Really?",
    "note": "군대 = military",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "입대",
+     "입대",
+     "ipdae"
+    ],
+    [
+     "군대",
+     "군대",
+     "gundae"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +99,24 @@
    "note": "다 = all",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b3/cut2"
+   "art": "scene/ko/r2_friends_b3/cut2",
+   "lemmas": [
+    [
+     "한국",
+     "한국",
+     "hanguk"
+    ],
+    [
+     "남자",
+     "남자",
+     "namja"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +126,19 @@
    "en": "For how long?",
    "note": "얼마나 = how long",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "얼마나",
+     "얼마나",
+     "eolmana"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +149,29 @@
    "note": "휴가 = leave",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b3/cut3"
+   "art": "scene/ko/r2_friends_b3/cut3",
+   "lemmas": [
+    [
+     "반",
+     "반",
+     "ban"
+    ],
+    [
+     "휴가",
+     "휴가",
+     "hyuga"
+    ],
+    [
+     "가끔",
+     "가끔",
+     "gakkeum"
+    ],
+    [
+     "나와",
+     "나오다",
+     "naoda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +181,14 @@
    "en": "Whoa then what about chicken?",
    "note": "치킨 = fried chicken",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "치킨",
+     "치킨",
+     "chikin"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +199,19 @@
    "note": "걱정 = worry",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b3/cut4"
+   "art": "scene/ko/r2_friends_b3/cut4",
+   "lemmas": [
+    [
+     "치킨",
+     "치킨",
+     "chikin"
+    ],
+    [
+     "걱정",
+     "걱정",
+     "geokjeong"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +221,29 @@
    "en": "No we ate it together every week, that's going away.",
    "note": "Kick: real feeling",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "매주",
+     "매주",
+     "maeju"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -123,7 +254,24 @@
    "note": "편지 = letter",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b3/cut5"
+   "art": "scene/ko/r2_friends_b3/cut5",
+   "lemmas": [
+    [
+     "울",
+     "울다",
+     "ulda"
+    ],
+    [
+     "편지",
+     "편지",
+     "pyeonji"
+    ],
+    [
+     "써",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -133,7 +281,24 @@
    "en": "I'll write in Korean, don't laugh at mistakes.",
    "note": "틀리다 = make a mistake",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "한국어",
+     "한국어",
+     "hangugeo"
+    ],
+    [
+     "쓸",
+     "쓰다",
+     "sseuda"
+    ],
+    [
+     "틀려",
+     "틀리다",
+     "teullida"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -144,7 +309,29 @@
    "note": "검사 = check",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b3/cut6"
+   "art": "scene/ko/r2_friends_b3/cut6",
+   "lemmas": [
+    [
+     "열심히",
+     "열심히",
+     "yeolsimhi"
+    ],
+    [
+     "공부",
+     "공부",
+     "gongbu"
+    ],
+    [
+     "나오",
+     "나오다",
+     "naoda"
+    ],
+    [
+     "검사",
+     "검사",
+     "geomsa"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -154,7 +341,34 @@
    "en": "When you're on leave, chicken's on me, it's fine.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "휴가",
+     "휴가",
+     "hyuga"
+    ],
+    [
+     "나오",
+     "나오다",
+     "naoda"
+    ],
+    [
+     "치킨",
+     "치킨",
+     "chikin"
+    ],
+    [
+     "살",
+     "살다",
+     "salda"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   }
  ],
  "review": {

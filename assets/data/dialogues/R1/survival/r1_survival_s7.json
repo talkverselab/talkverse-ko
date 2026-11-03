@@ -41,7 +41,14 @@
    "note": "아야 = ouch",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s7/cut1"
+   "art": "scene/ko/r1_survival_s7/cut1",
+   "lemmas": [
+    [
+     "아야",
+     "아야",
+     "aya"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +58,19 @@
    "en": "Are you okay? Where does it hurt?",
    "note": "다치다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "다쳤",
+     "다치다",
+     "dachida"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +81,29 @@
    "note": "아프다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s7/cut2"
+   "art": "scene/ko/r1_survival_s7/cut2",
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "무릎",
+     "무릎",
+     "mureup"
+    ],
+    [
+     "조금",
+     "조금",
+     "jogeum"
+    ],
+    [
+     "아파",
+     "아프다",
+     "apeuda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +113,14 @@
    "en": "Here, a bandage!",
    "note": "밴드 = band-aid",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "밴드",
+     "밴드",
+     "baendeu"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +131,29 @@
    "note": "Kick: more helpers — chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s7/cut3"
+   "art": "scene/ko/r1_survival_s7/cut3",
+   "lemmas": [
+    [
+     "물",
+     "물",
+     "mul"
+    ],
+    [
+     "드세",
+     "드세다",
+     "deuseda"
+    ],
+    [
+     "우산",
+     "우산",
+     "usan"
+    ],
+    [
+     "드릴",
+     "드리다",
+     "deurida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +163,19 @@
    "en": "I have candy and snacks too!",
    "note": "chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "사탕",
+     "사탕",
+     "satang"
+    ],
+    [
+     "과자",
+     "과자",
+     "gwaja"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +186,29 @@
    "note": "친절하다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s7/cut4"
+   "art": "scene/ko/r1_survival_s7/cut4",
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "많",
+     "많다",
+     "manta"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +218,29 @@
    "en": "In Korea, if you fall you get gifts. I'll give more.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "한국",
+     "한국",
+     "hanguk"
+    ],
+    [
+     "넘어지",
+     "넘어지다",
+     "neomeojida"
+    ],
+    [
+     "선물",
+     "선물",
+     "seonmul"
+    ],
+    [
+     "줄",
+     "주다",
+     "juda"
+    ]
+   ]
   }
  ],
  "review": {

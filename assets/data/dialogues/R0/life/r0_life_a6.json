@@ -40,7 +40,24 @@
    "note": "반 개 = half",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a6/cut1"
+   "art": "scene/ko/r0_life_a6/cut1",
+   "lemmas": [
+    [
+     "라면",
+     "라면",
+     "ramyeon"
+    ],
+    [
+     "끓이",
+     "끓이다",
+     "kkeulida"
+    ],
+    [
+     "반",
+     "반",
+     "ban"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +67,19 @@
    "en": "Okay. Half.",
    "note": "좋아",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "반",
+     "반",
+     "ban"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +90,19 @@
    "note": "another",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a6/cut2"
+   "art": "scene/ko/r0_life_a6/cut2",
+   "lemmas": [
+    [
+     "반",
+     "반",
+     "ban"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +112,8 @@
    "en": "Me me too!",
    "note": "more",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 5,
@@ -82,7 +124,14 @@
    "note": "math",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a6/cut3"
+   "art": "scene/ko/r0_life_a6/cut3",
+   "lemmas": [
+    [
+     "반",
+     "반",
+     "ban"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +141,19 @@
    "en": "Put some kimchi in too.",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "김치",
+     "김치",
+     "gimchi"
+    ],
+    [
+     "넣",
+     "넣다",
+     "neota"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +164,29 @@
    "note": "Kick: chaos escalates",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a6/cut4"
+   "art": "scene/ko/r0_life_a6/cut4",
+   "lemmas": [
+    [
+     "계란",
+     "계란",
+     "gyeran"
+    ],
+    [
+     "치즈",
+     "치즈",
+     "chijeu"
+    ],
+    [
+     "떡",
+     "떡",
+     "tteok"
+    ],
+    [
+     "햄",
+     "햄",
+     "haem"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +196,19 @@
    "en": "This isn’t ramyeon anymore, it’s basically stew.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "거의",
+     "거의",
+     "geoui"
+    ],
+    [
+     "찌개",
+     "찌개",
+     "jjigae"
+    ]
+   ]
   }
  ],
  "review": {

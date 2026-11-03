@@ -40,7 +40,34 @@
    "note": "예쁘다 = pretty",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_culture_a4/cut1"
+   "art": "scene/ko/r0_culture_a4/cut1",
+   "lemmas": [
+    [
+     "한복",
+     "한복",
+     "hanbok"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "예뻐",
+     "예쁘다",
+     "yeppeuda"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "찍",
+     "찍다",
+     "jjikda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +77,19 @@
    "en": "Me? Sure, I’m a foreigner too.",
    "note": "외국인 = foreigner",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "외국인",
+     "외국인",
+     "oegugin"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +100,8 @@
    "note": "괜찮아요",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_culture_a4/cut2"
+   "art": "scene/ko/r0_culture_a4/cut2",
+   "lemmas": []
   },
   {
    "num": 4,
@@ -71,7 +111,19 @@
    "en": "Us too! Our whole group all together!",
    "note": "Kick: crowd — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "그룹",
+     "그룹",
+     "geurup"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +134,19 @@
    "note": "50명",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_culture_a4/cut3"
+   "art": "scene/ko/r0_culture_a4/cut3",
+   "lemmas": [
+    [
+     "넘",
+     "넘다",
+     "neomda"
+    ],
+    [
+     "정신",
+     "정신",
+     "jeongsin"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +156,19 @@
    "en": "Lol you’re totally a celebrity now.",
    "note": "연예인 = celebrity",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "연예인",
+     "연예인",
+     "yeonyein"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +179,24 @@
    "note": "사인 = autograph",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_culture_a4/cut4"
+   "art": "scene/ko/r0_culture_a4/cut4",
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "사인",
+     "사인",
+     "sain"
+    ],
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +206,24 @@
    "en": "Oh, but it’s time to return the hanbok.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "한복",
+     "한복",
+     "hanbok"
+    ],
+    [
+     "반납",
+     "반납",
+     "bannap"
+    ],
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ]
+   ]
   }
  ],
  "review": {

@@ -37,7 +37,29 @@
    "note": "맞아요? = is that right? (checking politely)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a1/cut1"
+   "art": "scene/ko/r1_love_a1/cut1",
+   "lemmas": [
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ],
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "똑같",
+     "똑같다",
+     "ttokgatda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -47,7 +69,19 @@
    "en": "Good day. It's a pleasure to meet you. I'm {name}.",
    "note": "-습니다 = very formal — interviews, the army, news",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "안녕",
+     "안녕",
+     "annyeong"
+    ],
+    [
+     "만나",
+     "만나다",
+     "mannada"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -58,7 +92,19 @@
    "note": "Kick: 군대 = the army — formal -습니다 sounds like a soldier reporting",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a1/cut2"
+   "art": "scene/ko/r1_love_a1/cut2",
+   "lemmas": [
+    [
+     "군대",
+     "군대",
+     "gundae"
+    ],
+    [
+     "다녀왔",
+     "다녀오다",
+     "danyeooda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -68,7 +114,29 @@
    "en": "Uh… is it weird? That's how I learned it from the book.",
    "note": "-거든요 = you see (giving a reason, polite)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "이상",
+     "이상",
+     "isang"
+    ],
+    [
+     "책",
+     "책",
+     "chaek"
+    ],
+    [
+     "이렇게",
+     "이렇게",
+     "ireoke"
+    ],
+    [
+     "배웠",
+     "배우다",
+     "baeuda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -79,7 +147,24 @@
    "note": "말 놓을까? = shall we speak casually (반말)?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a1/cut3"
+   "art": "scene/ko/r1_love_a1/cut3",
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ],
+    [
+     "놓",
+     "놓다",
+     "nota"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -89,7 +174,19 @@
    "en": "Really? Um… okay, Yujin-ssi!",
    "note": "진짜? = really?",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -100,7 +197,19 @@
    "note": "씨 = polite name suffix — friends drop it",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a1/cut4"
+   "art": "scene/ko/r1_love_a1/cut4",
+   "lemmas": [
+    [
+     "빼",
+     "빼다",
+     "ppaeda"
+    ],
+    [
+     "유진이",
+     "유진이",
+     "yujini"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -110,7 +219,19 @@
    "en": "Yujin-a…? Ugh, whatever, this is too hard!",
    "note": "유진아 = name + 아 (friends' way to call) · 아 몰라 = ugh, whatever",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ]
+   ]
   }
  ],
  "review": {

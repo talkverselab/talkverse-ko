@@ -39,7 +39,24 @@
    "note": "아무거나",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_work_a5/cut1"
+   "art": "scene/ko/r1_work_a5/cut1",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "저녁",
+     "저녁",
+     "jeonyeok"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +66,14 @@
    "en": "Oh, then how about pasta?",
    "note": "파스타",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "파스타",
+     "파스타",
+     "paseuta"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +84,24 @@
    "note": "Kick setup",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_work_a5/cut2"
+   "art": "scene/ko/r1_work_a5/cut2",
+   "lemmas": [
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "삼겹살",
+     "삼겹살",
+     "samgyeopsal"
+    ],
+    [
+     "좋아하",
+     "좋아하다",
+     "joahada"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +111,14 @@
    "en": "Really? But he said anything.",
    "note": "아무거나",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +129,19 @@
    "note": "rule",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_work_a5/cut3"
+   "art": "scene/ko/r1_work_a5/cut3",
+   "lemmas": [
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "삼겹살",
+     "삼겹살",
+     "samgyeopsal"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +151,14 @@
    "en": "Yes, how about this, samgyeopsal?",
    "note": "correction",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "삼겹살",
+     "삼겹살",
+     "samgyeopsal"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +169,19 @@
    "note": "센스",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_work_a5/cut4"
+   "art": "scene/ko/r1_work_a5/cut4",
+   "lemmas": [
+    [
+     "센스",
+     "센스",
+     "senseu"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +191,19 @@
    "en": "(whispering) This is exactly nunchi.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "바로",
+     "바로",
+     "baro"
+    ],
+    [
+     "눈치",
+     "눈치",
+     "nunchi"
+    ]
+   ]
   }
  ],
  "review": {

@@ -38,7 +38,19 @@
    "note": "1+1 = buy one get one free",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a2/cut1"
+   "art": "scene/ko/r1_life_a2/cut1",
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "원플원",
+     "원플원",
+     "wonpeurwon"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +60,24 @@
    "en": "1+1? Buy two get one free?",
    "note": "공짜 = free",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "원플원",
+     "원플원",
+     "wonpeurwon"
+    ],
+    [
+     "사",
+     "사다",
+     "sada"
+    ],
+    [
+     "공짜",
+     "공짜",
+     "gongjja"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +88,24 @@
    "note": "더 = more",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a2/cut2"
+   "art": "scene/ko/r1_life_a2/cut2",
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "사",
+     "사다",
+     "sada"
+    ],
+    [
+     "주",
+     "주다",
+     "juda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +115,24 @@
    "en": "Awesome. Then let's grab all the 1+1s.",
    "note": "다 = all",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "대박",
+     "대박",
+     "daebak"
+    ],
+    [
+     "원플원",
+     "원플원",
+     "wonpeurwon"
+    ],
+    [
+     "담",
+     "담다",
+     "damda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +143,24 @@
    "note": "Kick: they bought way too much",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a2/cut3"
+   "art": "scene/ko/r1_life_a2/cut3",
+   "lemmas": [
+    [
+     "우유",
+     "우유",
+     "uyu"
+    ],
+    [
+     "과자",
+     "과자",
+     "gwaja"
+    ],
+    [
+     "컵라면",
+     "컵라면",
+     "keomnamyeon"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +170,19 @@
    "en": "So... are we really gonna eat all this?",
    "note": "다 먹어? = eat it all?",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +193,24 @@
    "note": "반값 = half price",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a2/cut4"
+   "art": "scene/ko/r1_life_a2/cut4",
+   "lemmas": [
+    [
+     "반값",
+     "반값",
+     "bangap"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "이득",
+     "이득",
+     "ideuk"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +220,24 @@
    "en": "It's half price but we bought twice as much...",
    "note": "두 배 = double",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "반값",
+     "반값",
+     "bangap"
+    ],
+    [
+     "배",
+     "배",
+     "bae"
+    ],
+    [
+     "샀",
+     "사다",
+     "sada"
+    ]
+   ]
   }
  ],
  "review": {

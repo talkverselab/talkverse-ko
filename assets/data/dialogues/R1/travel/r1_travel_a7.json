@@ -41,7 +41,29 @@
    "note": "빌리다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a7/cut1"
+   "art": "scene/ko/r1_travel_a7/cut1",
+   "lemmas": [
+    [
+     "자전거",
+     "자전거",
+     "jajeongeo"
+    ],
+    [
+     "하루",
+     "하루",
+     "haru"
+    ],
+    [
+     "종일",
+     "종일",
+     "jongil"
+    ],
+    [
+     "빌려",
+     "빌리다",
+     "billida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +73,29 @@
    "en": "Yeah, ten thousand a day. Locks are here, take them with you.",
    "note": "하루",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "하루",
+     "하루",
+     "haru"
+    ],
+    [
+     "자물쇠",
+     "자물쇠",
+     "jamulsoe"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "가져가",
+     "가져가다",
+     "gajyeogada"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +106,29 @@
    "note": "금지",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a7/cut2"
+   "art": "scene/ko/r1_travel_a7/cut2",
+   "lemmas": [
+    [
+     "자전거",
+     "자전거",
+     "jajeongeo"
+    ],
+    [
+     "세우",
+     "세우다",
+     "seuda"
+    ],
+    [
+     "밖",
+     "밖",
+     "bak"
+    ],
+    [
+     "세워",
+     "세우다",
+     "seuda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +138,34 @@
    "en": "What? Here too? Wait a sec, I'll just take one photo and leave right away.",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "찍",
+     "찍다",
+     "jjikda"
+    ],
+    [
+     "바로",
+     "바로",
+     "baro"
+    ],
+    [
+     "나갈",
+     "나가다",
+     "nagada"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +176,34 @@
    "note": "금지",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a7/cut3"
+   "art": "scene/ko/r1_travel_a7/cut3",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ],
+    [
+     "밖",
+     "밖",
+     "bak"
+    ],
+    [
+     "세웠",
+     "세우다",
+     "seuda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +213,29 @@
    "en": "Bikes again? Not here either! Go back and park them quick!",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "자전거",
+     "자전거",
+     "jajeongeo"
+    ],
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ],
+    [
+     "세우",
+     "세우다",
+     "seuda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +246,39 @@
    "note": "끌다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a7/cut4"
+   "art": "scene/ko/r1_travel_a7/cut4",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "자전거",
+     "자전거",
+     "jajeongeo"
+    ],
+    [
+     "끌",
+     "끌다",
+     "kkeulda"
+    ],
+    [
+     "산책",
+     "산책",
+     "sanchaek"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ],
+    [
+     "쳐다봐",
+     "쳐다보다",
+     "chyeodaboda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +288,34 @@
    "en": "This is a real bike walk, it'll be the most memorable.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "자전거",
+     "자전거",
+     "jajeongeo"
+    ],
+    [
+     "산책",
+     "산책",
+     "sanchaek"
+    ],
+    [
+     "제일",
+     "제일",
+     "jeil"
+    ],
+    [
+     "기억날",
+     "기억나다",
+     "gieongnada"
+    ]
+   ]
   }
  ],
  "review": {

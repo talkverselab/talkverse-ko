@@ -40,7 +40,8 @@
    "note": "옷",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a21/cut1"
+   "art": "scene/ko/r0_love_a21/cut1",
+   "lemmas": []
   },
   {
    "num": 2,
@@ -50,7 +51,14 @@
    "en": "Whoa, seriously? You too?",
    "note": "너도",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +69,19 @@
    "note": "똑같다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a21/cut2"
+   "art": "scene/ko/r0_love_a21/cut2",
+   "lemmas": [
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "똑같",
+     "똑같다",
+     "ttokgatda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +91,24 @@
    "en": "No, these aren't couple tees",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아니야",
+     "아니야",
+     "aniya"
+    ],
+    [
+     "커플",
+     "커플",
+     "keopeul"
+    ],
+    [
+     "티",
+     "티",
+     "ti"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +119,19 @@
    "note": "Kick: everyone notices — chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a21/cut3"
+   "art": "scene/ko/r0_love_a21/cut3",
+   "lemmas": [
+    [
+     "커플",
+     "커플",
+     "keopeul"
+    ],
+    [
+     "봐",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +141,24 @@
    "en": "I'll take a picture, couple over here~",
    "note": "사진",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "찍",
+     "찍다",
+     "jjikda"
+    ],
+    [
+     "커플",
+     "커플",
+     "keopeul"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +169,29 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a21/cut4"
+   "art": "scene/ko/r0_love_a21/cut4",
+   "lemmas": [
+    [
+     "사람",
+     "사람",
+     "saram"
+    ],
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "이렇게",
+     "이렇게",
+     "ireoke"
+    ],
+    [
+     "많",
+     "많다",
+     "manta"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +201,19 @@
    "en": "Then are we dating from today…?",
    "note": "punchline callback",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "사귀",
+     "사귀다",
+     "sagwida"
+    ]
+   ]
   }
  ],
  "learner_gender": "M",

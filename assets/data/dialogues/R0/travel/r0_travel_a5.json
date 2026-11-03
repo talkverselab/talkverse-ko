@@ -38,7 +38,19 @@
    "note": "따다 = pick",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a5/cut1"
+   "art": "scene/ko/r0_travel_a5/cut1",
+   "lemmas": [
+    [
+     "바구니",
+     "바구니",
+     "baguni"
+    ],
+    [
+     "따",
+     "따다",
+     "ttada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +60,19 @@
    "en": "Yes, there are so many.",
    "note": "많다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "많",
+     "많다",
+     "manta"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +83,19 @@
    "note": "먹어도 돼요",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a5/cut2"
+   "art": "scene/ko/r0_travel_a5/cut2",
+   "lemmas": [
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +105,19 @@
    "en": "Really? Thank you!",
    "note": "감사합니다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +128,14 @@
    "note": "Kick setup",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a5/cut3"
+   "art": "scene/ko/r0_travel_a5/cut3",
+   "lemmas": [
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +145,19 @@
    "en": "Thirty. The basket's all empty.",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "바구니",
+     "바구니",
+     "baguni"
+    ],
+    [
+     "비",
+     "비다",
+     "bida"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +168,19 @@
    "note": "배",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a5/cut4"
+   "art": "scene/ko/r0_travel_a5/cut4",
+   "lemmas": [
+    [
+     "배",
+     "배",
+     "bae"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +190,24 @@
    "en": "My hands turned completely yellow…",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "손",
+     "손",
+     "son"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "노래졌",
+     "노래지다",
+     "noraejida"
+    ]
+   ]
   }
  ],
  "review": {

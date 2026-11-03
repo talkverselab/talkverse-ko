@@ -38,7 +38,19 @@
    "note": "숙제 = homework",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a2/cut1"
+   "art": "scene/ko/r1_study_a2/cut1",
+   "lemmas": [
+    [
+     "씨",
+     "씨",
+     "ssi"
+    ],
+    [
+     "숙제",
+     "숙제",
+     "sukje"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +60,8 @@
    "en": "Yeah I did it all!",
    "note": "반말 to a teacher",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 3,
@@ -59,7 +72,8 @@
    "note": "Kick: teacher reacts",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a2/cut2"
+   "art": "scene/ko/r1_study_a2/cut2",
+   "lemmas": []
   },
   {
    "num": 4,
@@ -69,7 +83,14 @@
    "en": "Ah sorry, yes I did it all.",
    "note": "correction",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "죄송합",
+     "죄송하다",
+     "joesonghada"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +101,29 @@
    "note": "친구한테 = to friends",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a2/cut3"
+   "art": "scene/ko/r1_study_a2/cut3",
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "친구",
+     "친구",
+     "chingu"
+    ],
+    [
+     "쓰",
+     "쓰다",
+     "sseuda"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +133,29 @@
    "en": "Yes I spoke casually with a friend yesterday.",
    "note": "하루 종일 = all day",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "어제",
+     "어제",
+     "eoje"
+    ],
+    [
+     "친구",
+     "친구",
+     "chingu"
+    ],
+    [
+     "반",
+     "반",
+     "ban"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +166,24 @@
    "note": "존댓말 = polite speech",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a2/cut4"
+   "art": "scene/ko/r1_study_a2/cut4",
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "선생",
+     "선생",
+     "seonsaeng"
+    ],
+    [
+     "존댓말",
+     "존댓말",
+     "jondaenmal"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +193,24 @@
    "en": "Yes polite for teachers, \"yeah\" for friends!",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "선생",
+     "선생",
+     "seonsaeng"
+    ],
+    [
+     "존댓말",
+     "존댓말",
+     "jondaenmal"
+    ],
+    [
+     "친구",
+     "친구",
+     "chingu"
+    ]
+   ]
   }
  ],
  "review": {

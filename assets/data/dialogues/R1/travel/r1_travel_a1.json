@@ -38,7 +38,19 @@
    "note": "그거 뭐예요? = what is that?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a1/cut1"
+   "art": "scene/ko/r1_travel_a1/cut1",
+   "lemmas": [
+    [
+     "저기",
+     "저기",
+     "jeogi"
+    ],
+    [
+     "머리",
+     "머리",
+     "meori"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +60,24 @@
    "en": "Sheep head, you make it with a towel",
    "note": "양머리 = \"sheep head\" towel",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "머리",
+     "머리",
+     "meori"
+    ],
+    [
+     "수건",
+     "수건",
+     "sugeon"
+    ],
+    [
+     "만들",
+     "만들다",
+     "mandeulda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +88,14 @@
    "note": "어떻게요? = how?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a1/cut2"
+   "art": "scene/ko/r1_travel_a1/cut2",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +105,19 @@
    "en": "Fold like this and roll it, try",
    "note": "접다 = fold · 말다 = roll",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "돌돌",
+     "돌돌",
+     "doldol"
+    ],
+    [
+     "말",
+     "말다",
+     "malda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +128,8 @@
    "note": "됐다 = it worked",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a1/cut3"
+   "art": "scene/ko/r1_travel_a1/cut3",
+   "lemmas": []
   },
   {
    "num": 6,
@@ -90,7 +139,34 @@
    "en": "Lol good job, now go buy sikhye and eggs",
    "note": "Kick: the mandatory combo",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "이제",
+     "이제",
+     "ije"
+    ],
+    [
+     "식혜",
+     "식혜",
+     "sikye"
+    ],
+    [
+     "계란",
+     "계란",
+     "gyeran"
+    ],
+    [
+     "사",
+     "사다",
+     "sada"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +177,29 @@
    "note": "the jjimjilbang egg-on-forehead ritual",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a1/cut4"
+   "art": "scene/ko/r1_travel_a1/cut4",
+   "lemmas": [
+    [
+     "계란",
+     "계란",
+     "gyeran"
+    ],
+    [
+     "이마",
+     "이마",
+     "ima"
+    ],
+    [
+     "깨",
+     "깨다",
+     "kkaeda"
+    ],
+    [
+     "드라마",
+     "드라마",
+     "deurama"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +209,14 @@
    "en": "(thunk) …Ma'am, this one's raw!!",
    "note": "Kick: raw egg on the head — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "계란",
+     "계란",
+     "gyeran"
+    ]
+   ]
   }
  ],
  "review": {

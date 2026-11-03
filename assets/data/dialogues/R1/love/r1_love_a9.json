@@ -39,7 +39,14 @@
    "note": "첫눈 = first snow",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a9/cut1"
+   "art": "scene/ko/r1_love_a9/cut1",
+   "lemmas": [
+    [
+     "첫눈",
+     "첫눈",
+     "cheonnun"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +56,19 @@
    "en": "Come here.",
    "note": "이리 = this way",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "이리",
+     "이리",
+     "iri"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +79,14 @@
    "note": "surprise",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a9/cut2"
+   "art": "scene/ko/r1_love_a9/cut2",
+   "lemmas": [
+    [
+     "왜",
+     "왜",
+     "wae"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +96,24 @@
    "en": "I'll give you half the scarf, let's share.",
    "note": "반 = half",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "목도리",
+     "목도리",
+     "mokdori"
+    ],
+    [
+     "반",
+     "반",
+     "ban"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +124,19 @@
    "note": "가깝다 = close",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a9/cut3"
+   "art": "scene/ko/r1_love_a9/cut3",
+   "lemmas": [
+    [
+     "이러",
+     "이러다",
+     "ireoda"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +146,19 @@
    "en": "Don't like it? Then I'll take it back.",
    "note": "심쿵: teasing",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "싫",
+     "싫다",
+     "silta"
+    ],
+    [
+     "가져갈",
+     "가져가다",
+     "gajyeogada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +169,29 @@
    "note": "완전 = totally",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a9/cut4"
+   "art": "scene/ko/r1_love_a9/cut4",
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +201,19 @@
    "en": "I'm feeling it too, honestly...",
    "note": "심쿵 punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "설렌",
+     "설레다",
+     "seolleda"
+    ],
+    [
+     "사실",
+     "사실",
+     "sasil"
+    ]
+   ]
   }
  ],
  "learner_gender": "M",

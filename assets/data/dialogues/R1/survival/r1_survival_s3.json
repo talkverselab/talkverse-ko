@@ -38,7 +38,24 @@
    "note": "-에 가요? = does it go to…?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s3/cut1"
+   "art": "scene/ko/r1_survival_s3/cut1",
+   "lemmas": [
+    [
+     "저기요",
+     "저기요",
+     "jeogiyo"
+    ],
+    [
+     "홍대",
+     "홍대",
+     "hongdae"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +65,24 @@
    "en": "Hongdae? Opposite, opposite",
    "note": "반대 = the opposite",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "홍대",
+     "홍대",
+     "hongdae"
+    ],
+    [
+     "반대",
+     "반대",
+     "bandae"
+    ],
+    [
+     "반대",
+     "반대",
+     "bandae"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +93,14 @@
    "note": "echoing to check",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s3/cut2"
+   "art": "scene/ko/r1_survival_s3/cut2",
+   "lemmas": [
+    [
+     "반대",
+     "반대",
+     "bandae"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +110,39 @@
    "en": "Oh dear, student, get off next and cross",
    "note": "Kick: the ajumma takes over — 학생 = she calls him \"student\"",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아이고",
+     "아이고",
+     "aigo"
+    ],
+    [
+     "학생",
+     "학생",
+     "haksaeng"
+    ],
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "역",
+     "역",
+     "yeok"
+    ],
+    [
+     "내려",
+     "내리다",
+     "naerida"
+    ],
+    [
+     "건너가",
+     "건너가다",
+     "geonneogada"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +153,14 @@
    "note": "잘 모르겠어요 = I'm not sure",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s3/cut3"
+   "art": "scene/ko/r1_survival_s3/cut3",
+   "lemmas": [
+    [
+     "모르",
+     "모르다",
+     "moreuda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +170,19 @@
    "en": "Follow me, I transfer there too",
    "note": "갈아타다 = to transfer",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "따라와",
+     "따라오다",
+     "ttaraoda"
+    ],
+    [
+     "갈아타",
+     "갈아타다",
+     "garatada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +193,24 @@
    "note": "정말 = really",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s3/cut4"
+   "art": "scene/ko/r1_survival_s3/cut4",
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "정말",
+     "정말",
+     "jeongmal"
+    ],
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +220,19 @@
    "en": "Don't mention it, your Korean's good, student…",
    "note": "뭘 = (it's) nothing",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "한국말",
+     "한국말",
+     "hangungmal"
+    ],
+    [
+     "학생",
+     "학생",
+     "haksaeng"
+    ]
+   ]
   }
  ],
  "review": {

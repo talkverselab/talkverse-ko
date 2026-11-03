@@ -40,7 +40,19 @@
    "new": [],
    "ui": "bubble",
    "at": "23:10",
-   "art": "scene/ko/r1_life_c1/cut1"
+   "art": "scene/ko/r1_life_c1/cut1",
+   "lemmas": [
+    [
+     "방",
+     "방",
+     "bang"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -52,7 +64,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:11"
+   "at": "23:11",
+   "lemmas": [
+    [
+     "보일러",
+     "보일러",
+     "boilleo"
+    ],
+    [
+     "켰",
+     "켜다",
+     "kyeoda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -65,7 +89,14 @@
    "new": [],
    "ui": "bubble",
    "at": "23:11",
-   "art": "scene/ko/r1_life_c1/cut2"
+   "art": "scene/ko/r1_life_c1/cut2",
+   "lemmas": [
+    [
+     "보일러",
+     "보일러",
+     "boilleo"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -77,7 +108,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:12"
+   "at": "23:12",
+   "lemmas": [
+    [
+     "동안",
+     "동안",
+     "dongan"
+    ],
+    [
+     "켰",
+     "켜다",
+     "kyeoda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -90,7 +138,19 @@
    "new": [],
    "ui": "bubble",
    "at": "23:12",
-   "art": "scene/ko/r1_life_c1/cut3"
+   "art": "scene/ko/r1_life_c1/cut3",
+   "lemmas": [
+    [
+     "이불",
+     "이불",
+     "ibul"
+    ],
+    [
+     "덮",
+     "덮다",
+     "deopda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -102,7 +162,34 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:13"
+   "at": "23:13",
+   "lemmas": [
+    [
+     "부엌",
+     "부엌",
+     "bueok"
+    ],
+    [
+     "옆",
+     "옆",
+     "yeop"
+    ],
+    [
+     "버튼",
+     "버튼",
+     "beoteun"
+    ],
+    [
+     "난방",
+     "난방",
+     "nanbang"
+    ],
+    [
+     "눌",
+     "누르다",
+     "nureuda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -115,7 +202,24 @@
    "new": [],
    "ui": "bubble",
    "at": "23:15",
-   "art": "scene/ko/r1_life_c1/cut4"
+   "art": "scene/ko/r1_life_c1/cut4",
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "바닥",
+     "바닥",
+     "badak"
+    ],
+    [
+     "따뜻",
+     "따뜻",
+     "ttatteut"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -127,7 +231,34 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:15"
+   "at": "23:15",
+   "lemmas": [
+    [
+     "한국",
+     "한국",
+     "hanguk"
+    ],
+    [
+     "겨울",
+     "겨울",
+     "gyeoul"
+    ],
+    [
+     "바닥",
+     "바닥",
+     "badak"
+    ],
+    [
+     "이제",
+     "이제",
+     "ije"
+    ],
+    [
+     "이불",
+     "이불",
+     "ibul"
+    ]
+   ]
   }
  ],
  "review": {

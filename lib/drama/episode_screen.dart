@@ -2,14 +2,18 @@ import 'package:flutter/material.dart';
 
 import '../core/l10n.dart';
 import '../core/platform.dart';
+import '../services/content_sync.dart';
 import '../services/tts_service.dart';
 import 'drama_service.dart';
 import 'drama_theme.dart';
+import 'learner_setup_dialog.dart';
+import 'lemma_chips.dart';
 import 'scene_art.dart';
 
 /// 드라마 한 회 보기 — Grok UXUI 시안 04(사용자 채택, `data/review/uxui/sian_04.md`).
-/// 넓으면(900+) 왼쪽 「대화 스크립트」 · 오른쪽 「회화 장면」(점토 컷 + 말풍선 + 자막), 좁으면 장면 위 · 스크립트 아래.
-/// 아래 고정 컨트롤 = ▶ · 진행 · 속도 · 자막 칩(한국어/로마자/English). 컷엔 말풍선이 없고 대사는 앱이 얹는다(문장이 바뀌어도 그림 재사용).
+/// 넓으면(900+) 왼쪽 「대화 스크립트」 · 오른쪽 「회화 장면」(점토 컷 + 아래 자막), 좁으면 장면 위 · 스크립트 아래.
+/// 아래 고정 컨트롤 = ▶ · 진행 · 속도 · 자막 칩(한국어/로마자/English). 그림 위에는 말풍선을 얹지 않는다(2026-11-04 사용자 지시 — 그림을 덮음).
+/// 대사는 그림 아래 자막 칸 + 내용어 칩(단어장 연결).
 /// 끝까지 들으면 「다음 회 예고」.
 class EpisodeScreen extends StatefulWidget {
   final DramaEpisode ep;
@@ -40,6 +44,11 @@ class _EpisodeScreenState extends State<EpisodeScreen> {
   void initState() {
     super.initState();
     SceneArt.instance.ensureLoaded().then((_) { if (mounted) setState(() {}); });
+    WidgetsBinding.instance.addPostFrameCallback((_) async {
+      if (!mounted) return;
+      await ensureLearnerName(context, needed: ep.needsName);
+      if (mounted) setState(() {});
+    });
     if (widget.autoPlay) WidgetsBinding.instance.addPostFrameCallback((_) => _play());
   }
 
@@ -210,7 +219,7 @@ class _Script extends StatelessWidget {
       ]);
 }
 
-/// 「회화 장면」 — 현재 A·B 쌍의 점토 컷 + 앱이 얹는 말풍선 + 아래 자막. 그림이 없으면 이모지 장면 카드.
+/// 「회화 장면」 — 현재 A·B 쌍의 점토 컷 + 아래 자막·내용어 칩. 그림이 없으면 이모지 장면 카드.
 class _ScenePanel extends StatelessWidget {
   final DramaEpisode ep;
   final int epNo, index;
@@ -220,8 +229,6 @@ class _ScenePanel extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final t = ep.turns[index];
-    final pairStart = index - index % 2;
-    final pair = [ep.turns[pairStart], if (pairStart + 1 < ep.turns.length) ep.turns[pairStart + 1]];
     final url = SceneArt.instance.cut(ep.id, t.num);
     return Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
       Padding(
@@ -238,31 +245,12 @@ class _ScenePanel extends StatelessWidget {
         ]),
       ),
       Expanded(
-        child: LayoutBuilder(builder: (context, c) {
-          return Stack(fit: StackFit.expand, children: [
-            AnimatedSwitcher(
-              duration: const Duration(milliseconds: 400),
-              child: url == null
-                  ? _SceneCard(key: ValueKey('card${ep.id}'), ep: ep)
-                  : Image.network(url, key: ValueKey(url), fit: BoxFit.cover, errorBuilder: (_, _, _) => _SceneCard(ep: ep)),
-            ),
-            // 말풍선: 쌍의 첫 줄 = 왼쪽 위, 둘째 줄 = 오른쪽 위. 지금 줄은 진하게.
-            for (var k = 0; k < pair.length; k++)
-              Positioned(
-                top: 12 + (k * 0.0),
-                left: k == 0 ? 12 : null,
-                right: k == 1 ? 12 : null,
-                child: ConstrainedBox(
-                  constraints: BoxConstraints(maxWidth: c.maxWidth * 0.46),
-                  child: AnimatedOpacity(
-                    duration: const Duration(milliseconds: 250),
-                    opacity: pair[k].num - 1 <= index ? 1 : 0,
-                    child: _Bubble(turn: pair[k], name: ep.speakerName(pair[k].speaker), on: pair[k].num - 1 == index, en: en),
-                  ),
-                ),
-              ),
-          ]);
-        }),
+        child: AnimatedSwitcher(
+          duration: const Duration(milliseconds: 400),
+          child: url == null
+              ? _SceneCard(key: ValueKey('card${ep.id}'), ep: ep)
+              : Image(image: artProvider(url), key: ValueKey(url), fit: BoxFit.cover, width: double.infinity, errorBuilder: (_, _, _) => _SceneCard(ep: ep)),
+        ),
       ),
       Container(
         padding: const EdgeInsets.fromLTRB(16, 10, 16, 12),
@@ -276,34 +264,13 @@ class _ScenePanel extends StatelessWidget {
               if (rd) Text(DramaEpisode.fill(t.rd), style: const TextStyle(fontSize: 13, color: DramaColors.jade)),
               if (en) Text(DramaEpisode.fill(t.en), style: const TextStyle(fontSize: 14, color: DramaColors.body)),
               if (t.note.isNotEmpty) Padding(padding: const EdgeInsets.only(top: 4), child: Text(t.note, style: const TextStyle(fontSize: 12, color: DramaColors.muted))),
+              if (t.lemmas.isNotEmpty) Padding(padding: const EdgeInsets.only(top: 8), child: LemmaChips(turn: t, compact: true)),
             ]),
           ),
         ]),
       ),
     ]);
   }
-}
-
-class _Bubble extends StatelessWidget {
-  final DramaTurn turn;
-  final String name;
-  final bool on, en;
-  const _Bubble({required this.turn, required this.name, required this.on, required this.en});
-  @override
-  Widget build(BuildContext context) => Container(
-        padding: const EdgeInsets.fromLTRB(12, 8, 12, 9),
-        decoration: BoxDecoration(
-          color: Colors.white.withValues(alpha: on ? 0.97 : 0.85),
-          borderRadius: BorderRadius.circular(16),
-          border: Border.all(color: on ? DramaColors.jade : Colors.white, width: 1.6),
-          boxShadow: const [BoxShadow(color: Color(0x22000000), blurRadius: 8, offset: Offset(0, 2))],
-        ),
-        child: Column(crossAxisAlignment: CrossAxisAlignment.start, mainAxisSize: MainAxisSize.min, children: [
-          Text(name, style: const TextStyle(fontSize: 10.5, color: DramaColors.muted, fontWeight: FontWeight.w700)),
-          Text(DramaEpisode.fill(turn.ko), style: TextStyle(fontSize: 14.5, fontWeight: on ? FontWeight.w800 : FontWeight.w600, color: DramaColors.ink, height: 1.3)),
-          if (en) Text(DramaEpisode.fill(turn.en), style: const TextStyle(fontSize: 11.5, color: DramaColors.body, height: 1.25)),
-        ]),
-      );
 }
 
 class _SceneCard extends StatelessWidget {
@@ -407,7 +374,7 @@ class _NextEpisode extends StatelessWidget {
               ),
               AspectRatio(
                 aspectRatio: 1168 / 784,
-                child: url == null ? _SceneCard(ep: next!) : Image.network(url, fit: BoxFit.cover, errorBuilder: (_, _, _) => _SceneCard(ep: next!)),
+                child: url == null ? _SceneCard(ep: next!) : Image(image: artProvider(url), fit: BoxFit.cover, errorBuilder: (_, _, _) => _SceneCard(ep: next!)),
               ),
               Padding(
                 padding: const EdgeInsets.fromLTRB(20, 12, 20, 4),

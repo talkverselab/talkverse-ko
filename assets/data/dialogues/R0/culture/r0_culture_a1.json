@@ -38,7 +38,14 @@
    "note": "최애 = favorite member / bias",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_culture_a1/cut1"
+   "art": "scene/ko/r0_culture_a1/cut1",
+   "lemmas": [
+    [
+     "봐",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +55,8 @@
    "en": "최애? What's that even?",
    "note": "그게 뭐야 = what is that",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 3,
@@ -59,7 +67,24 @@
    "note": "제일 = the most",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_culture_a1/cut2"
+   "art": "scene/ko/r0_culture_a1/cut2",
+   "lemmas": [
+    [
+     "제일",
+     "제일",
+     "jeil"
+    ],
+    [
+     "좋아하",
+     "좋아하다",
+     "joahada"
+    ],
+    [
+     "아이돌",
+     "아이돌",
+     "aidol"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +94,14 @@
    "en": "Whoa, is it you? Are you my fave?",
    "note": "Kick: he picks her",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "애",
+     "애",
+     "ae"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +112,19 @@
    "note": "중에서 = among",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_culture_a1/cut3"
+   "art": "scene/ko/r0_culture_a1/cut3",
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "아이돌",
+     "아이돌",
+     "aidol"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +134,19 @@
    "en": "I don't know a single idol.",
    "note": "한 명도 = not even one",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아이돌",
+     "아이돌",
+     "aidol"
+    ],
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +157,34 @@
    "note": "입덕 = becoming a fan",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_culture_a1/cut4"
+   "art": "scene/ko/r0_culture_a1/cut4",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "입",
+     "입",
+     "ip"
+    ],
+    [
+     "덕",
+     "덕",
+     "deok"
+    ],
+    [
+     "앉",
+     "앉다",
+     "anda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +194,8 @@
    "en": "Uh… this one's cute…",
    "note": "귀여워 = cute — it begins",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   }
  ],
  "review": {

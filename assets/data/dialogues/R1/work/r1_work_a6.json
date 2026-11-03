@@ -41,7 +41,34 @@
    "note": "팀장님",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_work_a6/cut1"
+   "art": "scene/ko/r1_work_a6/cut1",
+   "lemmas": [
+    [
+     "김",
+     "김",
+     "gim"
+    ],
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "보고서",
+     "보고서",
+     "bogoseo"
+    ],
+    [
+     "가져왔",
+     "가져오다",
+     "gajyeooda"
+    ],
+    [
+     "봐",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +78,24 @@
    "en": "(softly) …The team leader is Park. Not Kim.",
    "note": "Kick",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "박",
+     "박",
+     "bak"
+    ],
+    [
+     "김",
+     "김",
+     "gim"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +106,29 @@
    "note": "3개월",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_work_a6/cut2"
+   "art": "scene/ko/r1_work_a6/cut2",
+   "lemmas": [
+    [
+     "동안",
+     "동안",
+     "dongan"
+    ],
+    [
+     "김",
+     "김",
+     "gim"
+    ],
+    [
+     "불",
+     "부르다",
+     "bureuda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +138,29 @@
    "en": "Huh? I just found out too. Thought I was Kim for three months.",
    "note": "joke",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "방금",
+     "방금",
+     "banggeum"
+    ],
+    [
+     "알",
+     "알다",
+     "alda"
+    ],
+    [
+     "김",
+     "김",
+     "gim"
+    ],
+    [
+     "알",
+     "알다",
+     "alda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +171,34 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_work_a6/cut3"
+   "art": "scene/ko/r1_work_a6/cut3",
+   "lemmas": [
+    [
+     "어라",
+     "어라",
+     "eora"
+    ],
+    [
+     "계속",
+     "계속",
+     "gyesok"
+    ],
+    [
+     "김",
+     "김",
+     "gim"
+    ],
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "불",
+     "부르다",
+     "bureuda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +208,34 @@
    "en": "Really? Me too. Then the email signatures must have all gone out as Kim.",
    "note": "chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "메일",
+     "메일",
+     "meil"
+    ],
+    [
+     "서명",
+     "서명",
+     "seomyeong"
+    ],
+    [
+     "김",
+     "김",
+     "gim"
+    ],
+    [
+     "나갔",
+     "나가다",
+     "nagada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +246,34 @@
    "note": "joke",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_work_a6/cut4"
+   "art": "scene/ko/r1_work_a6/cut4",
+   "lemmas": [
+    [
+     "이제",
+     "이제",
+     "ije"
+    ],
+    [
+     "김",
+     "김",
+     "gim"
+    ],
+    [
+     "박",
+     "박",
+     "bak"
+    ],
+    [
+     "김",
+     "김",
+     "gim"
+    ],
+    [
+     "바꿀",
+     "바꾸다",
+     "bakkuda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +283,29 @@
    "en": "I’m sorry, Team Leader Park! I got it mixed up.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ],
+    [
+     "박",
+     "박",
+     "bak"
+    ],
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "착각",
+     "착각",
+     "chakgak"
+    ]
+   ]
   }
  ],
  "review": {

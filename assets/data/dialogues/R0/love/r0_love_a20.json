@@ -40,7 +40,19 @@
    "note": "찍다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a20/cut1"
+   "art": "scene/ko/r0_love_a20/cut1",
+   "lemmas": [
+    [
+     "셀카",
+     "셀카",
+     "selka"
+    ],
+    [
+     "찍",
+     "찍다",
+     "jjikda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +62,24 @@
    "en": "There are so many people, for real?",
    "note": "많다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "사람",
+     "사람",
+     "saram"
+    ],
+    [
+     "많",
+     "많다",
+     "manta"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +90,19 @@
    "note": "마스크",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a20/cut2"
+   "art": "scene/ko/r0_love_a20/cut2",
+   "lemmas": [
+    [
+     "마스크",
+     "마스크",
+     "maseukeu"
+    ],
+    [
+     "쓰",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +112,19 @@
    "en": "Whoa, isn't that Taeo over there?!",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "저기",
+     "저기",
+     "jeogi"
+    ],
+    [
+     "아",
+     "알다",
+     "alda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +135,14 @@
    "note": "쉿",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a20/cut3"
+   "art": "scene/ko/r0_love_a20/cut3",
+   "lemmas": [
+    [
+     "쉿",
+     "쉿",
+     "swit"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +152,14 @@
    "en": "It's Taeo!! Everyone come!!",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "모여",
+     "모이다",
+     "moida"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +170,19 @@
    "note": "셋",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a20/cut4"
+   "art": "scene/ko/r0_love_a20/cut4",
+   "lemmas": [
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "찍",
+     "찍다",
+     "jjikda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +192,19 @@
    "en": "Wow… over a hundred people in the photo.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "넘",
+     "넘다",
+     "neomda"
+    ]
+   ]
   }
  ],
  "learner_gender": "F",

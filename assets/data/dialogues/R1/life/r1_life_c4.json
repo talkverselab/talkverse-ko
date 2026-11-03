@@ -41,7 +41,24 @@
    "new": [],
    "ui": "bubble",
    "at": "18:00",
-   "art": "scene/ko/r1_life_c4/cut1"
+   "art": "scene/ko/r1_life_c4/cut1",
+   "lemmas": [
+    [
+     "택배",
+     "택배",
+     "taekbae"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ],
+    [
+     "뒤져",
+     "뒤지다",
+     "dwijida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -53,7 +70,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "18:00"
+   "at": "18:00",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "간",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -66,7 +95,19 @@
    "new": [],
    "ui": "bubble",
    "at": "18:01",
-   "art": "scene/ko/r1_life_c4/cut2"
+   "art": "scene/ko/r1_life_c4/cut2",
+   "lemmas": [
+    [
+     "일단",
+     "일단",
+     "ildan"
+    ],
+    [
+     "돌려",
+     "돌리다",
+     "dollida"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -78,7 +119,39 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "18:05"
+   "at": "18:05",
+   "lemmas": [
+    [
+     "영상",
+     "영상",
+     "yeongsang"
+    ],
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "고양이",
+     "고양이",
+     "goyangi"
+    ],
+    [
+     "택배",
+     "택배",
+     "taekbae"
+    ],
+    [
+     "물",
+     "물다",
+     "mulda"
+    ],
+    [
+     "뛰",
+     "뛰다",
+     "ttwida"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -91,7 +164,29 @@
    "new": [],
    "ui": "bubble",
    "at": "18:05",
-   "art": "scene/ko/r1_life_c4/cut3"
+   "art": "scene/ko/r1_life_c4/cut3",
+   "lemmas": [
+    [
+     "고양이",
+     "고양이",
+     "goyangi"
+    ],
+    [
+     "택배",
+     "택배",
+     "taekbae"
+    ],
+    [
+     "훔친",
+     "훔치다",
+     "humchida"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -103,7 +198,39 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "18:06"
+   "at": "18:06",
+   "lemmas": [
+    [
+     "옆집",
+     "옆집",
+     "yeopjip"
+    ],
+    [
+     "고양이",
+     "고양이",
+     "goyangi"
+    ],
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ],
+    [
+     "박스",
+     "박스",
+     "bakseu"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "훔쳐",
+     "훔치다",
+     "humchida"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -116,7 +243,39 @@
    "new": [],
    "ui": "bubble",
    "at": "18:06",
-   "art": "scene/ko/r1_life_c4/cut4"
+   "art": "scene/ko/r1_life_c4/cut4",
+   "lemmas": [
+    [
+     "박스",
+     "박스",
+     "bakseu"
+    ],
+    [
+     "서",
+     "서",
+     "seo"
+    ],
+    [
+     "자",
+     "자다",
+     "jada"
+    ],
+    [
+     "옆집",
+     "옆집",
+     "yeopjip"
+    ],
+    [
+     "누나",
+     "누나",
+     "nuna"
+    ],
+    [
+     "택배",
+     "택배",
+     "taekbae"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -128,7 +287,29 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "18:07"
+   "at": "18:07",
+   "lemmas": [
+    [
+     "박스",
+     "박스",
+     "bakseu"
+    ],
+    [
+     "고양이",
+     "고양이",
+     "goyangi"
+    ],
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "빼",
+     "빼다",
+     "ppaeda"
+    ]
+   ]
   }
  ],
  "review": {

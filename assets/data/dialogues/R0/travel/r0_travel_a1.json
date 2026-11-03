@@ -37,7 +37,19 @@
    "note": "어디 가세요? = where are you going?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a1/cut1"
+   "art": "scene/ko/r0_travel_a1/cut1",
+   "lemmas": [
+    [
+     "손",
+     "손",
+     "son"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -47,7 +59,19 @@
    "en": "To Myeongdong, please",
    "note": "-이요 = (place) please",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "명동",
+     "명동",
+     "myeongdong"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -58,7 +82,14 @@
    "note": "어디 = where",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a1/cut2"
+   "art": "scene/ko/r0_travel_a1/cut2",
+   "lemmas": [
+    [
+     "명동",
+     "명동",
+     "myeongdong"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -68,7 +99,14 @@
    "en": "Uh… just Myeongdong…",
    "note": "Kick: that's all he knows",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "명동",
+     "명동",
+     "myeongdong"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -79,7 +117,24 @@
    "note": "역 앞 = in front of the station",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a1/cut3"
+   "art": "scene/ko/r0_travel_a1/cut3",
+   "lemmas": [
+    [
+     "역",
+     "역",
+     "yeok"
+    ],
+    [
+     "앞",
+     "앞",
+     "ap"
+    ],
+    [
+     "갈",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -89,7 +144,14 @@
    "en": "Yes, thank you",
    "note": "감사합니다 = thank you",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -100,7 +162,24 @@
    "note": "카드 돼요 = card is accepted",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a1/cut4"
+   "art": "scene/ko/r0_travel_a1/cut4",
+   "lemmas": [
+    [
+     "카드",
+     "카드",
+     "kadeu"
+    ],
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ],
+    [
+     "찍",
+     "찍다",
+     "jjikda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -110,7 +189,14 @@
    "en": "One moment, where…?",
    "note": "어디요? = where? (polite)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ]
+   ]
   }
  ],
  "review": {

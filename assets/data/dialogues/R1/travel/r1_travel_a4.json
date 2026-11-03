@@ -38,7 +38,14 @@
    "note": "Busan dialect: 어디 가니?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a4/cut1"
+   "art": "scene/ko/r1_travel_a4/cut1",
+   "lemmas": [
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +55,19 @@
    "en": "Sorry? Please say it again.",
    "note": "다시 한 번",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +78,24 @@
    "note": "repeat",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a4/cut2"
+   "art": "scene/ko/r1_travel_a4/cut2",
+   "lemmas": [
+    [
+     "가",
+     "가다",
+     "gada"
+    ],
+    [
+     "해운대",
+     "해운대",
+     "haeundae"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +105,14 @@
    "en": "Oh yes, Haeundae.",
    "note": "understood",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "해운대",
+     "해운대",
+     "haeundae"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +123,24 @@
    "note": "마 = hey (Busan)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a4/cut3"
+   "art": "scene/ko/r1_travel_a4/cut3",
+   "lemmas": [
+    [
+     "마",
+     "마",
+     "ma"
+    ],
+    [
+     "똑바로",
+     "똑바로",
+     "ttokbaro"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +150,14 @@
    "en": "What’s “ma”?",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "마",
+     "마",
+     "ma"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +168,24 @@
    "note": "친하다 = be close",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a4/cut4"
+   "art": "scene/ko/r1_travel_a4/cut4",
+   "lemmas": [
+    [
+     "친하",
+     "친하다",
+     "chinhada"
+    ],
+    [
+     "부르",
+     "부르다",
+     "bureuda"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +195,19 @@
    "en": "Then ma, thank you!",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "마",
+     "마",
+     "ma"
+    ],
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   }
  ],
  "review": {

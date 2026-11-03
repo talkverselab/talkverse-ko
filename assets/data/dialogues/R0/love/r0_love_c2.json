@@ -40,7 +40,14 @@
    "new": [],
    "ui": "bubble",
    "at": "22:10",
-   "art": "scene/ko/r0_love_c2/cut1"
+   "art": "scene/ko/r0_love_c2/cut1",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -52,7 +59,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:11"
+   "at": "22:11",
+   "lemmas": [
+    [
+     "집",
+     "집",
+     "jip"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -65,7 +79,19 @@
    "new": [],
    "ui": "bubble",
    "at": "22:11",
-   "art": "scene/ko/r0_love_c2/cut2"
+   "art": "scene/ko/r0_love_c2/cut2",
+   "lemmas": [
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "보내",
+     "보내다",
+     "bonaeda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -77,7 +103,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:12"
+   "at": "22:12",
+   "lemmas": [
+    [
+     "잠시",
+     "잠시",
+     "jamsi"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -90,7 +123,14 @@
    "new": [],
    "ui": "bubble",
    "at": "22:12",
-   "art": "scene/ko/r0_love_c2/cut3"
+   "art": "scene/ko/r0_love_c2/cut3",
+   "lemmas": [
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -102,7 +142,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:13"
+   "at": "22:13",
+   "lemmas": [
+    [
+     "고양이",
+     "고양이",
+     "goyangi"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -115,7 +162,8 @@
    "new": [],
    "ui": "bubble",
    "at": "22:13",
-   "art": "scene/ko/r0_love_c2/cut4"
+   "art": "scene/ko/r0_love_c2/cut4",
+   "lemmas": []
   },
   {
    "num": 8,
@@ -127,7 +175,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:14"
+   "at": "22:14",
+   "lemmas": [
+    [
+     "얼굴",
+     "얼굴",
+     "eolgul"
+    ]
+   ]
   }
  ],
  "review": {

@@ -38,7 +38,14 @@
    "note": "까다 = peel",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a8/cut1"
+   "art": "scene/ko/r0_travel_a8/cut1",
+   "lemmas": [
+    [
+     "까",
+     "까다",
+     "kkada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +55,8 @@
    "en": "How am I supposed to do it?",
    "note": "어떻게",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 3,
@@ -59,7 +67,24 @@
    "note": "머리",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a8/cut2"
+   "art": "scene/ko/r0_travel_a8/cut2",
+   "lemmas": [
+    [
+     "이마",
+     "이마",
+     "ima"
+    ],
+    [
+     "탁",
+     "탁",
+     "tak"
+    ],
+    [
+     "쳐",
+     "치다",
+     "chida"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +94,19 @@
    "en": "On my forehead? For real?",
    "note": "진짜?",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "이마",
+     "이마",
+     "ima"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +117,14 @@
    "note": "드라마",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a8/cut3"
+   "art": "scene/ko/r0_travel_a8/cut3",
+   "lemmas": [
+    [
+     "드라마",
+     "드라마",
+     "deurama"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +134,24 @@
    "en": "(tap) Ouch, my forehead is weak.",
    "note": "Kick",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아야",
+     "아야",
+     "aya"
+    ],
+    [
+     "이마",
+     "이마",
+     "ima"
+    ],
+    [
+     "약해",
+     "약하다",
+     "yakada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +162,14 @@
    "note": "살살",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a8/cut4"
+   "art": "scene/ko/r0_travel_a8/cut4",
+   "lemmas": [
+    [
+     "살살",
+     "살살",
+     "salsal"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +179,14 @@
    "en": "Still tastes good.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "맛있",
+     "맛있다",
+     "masitda"
+    ]
+   ]
   }
  ],
  "review": {

@@ -38,7 +38,19 @@
    "note": "남았어 = there's … left",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a2/cut1"
+   "art": "scene/ko/r1_friends_a2/cut1",
+   "lemmas": [
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ],
+    [
+     "마지막",
+     "마지막",
+     "majimak"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +60,8 @@
    "en": "I only know one thing though...",
    "note": "-밖에 = only",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 3,
@@ -59,7 +72,19 @@
    "note": "빨리 = quickly",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a2/cut2"
+   "art": "scene/ko/r1_friends_a2/cut2",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "바로",
+     "바로",
+     "baro"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +94,19 @@
    "en": "Um... Happy birthday?",
    "note": "Kick: the only song he knows",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "생일",
+     "생일",
+     "saengil"
+    ],
+    [
+     "축하",
+     "축하",
+     "chuka"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +117,19 @@
    "note": "그니까 = like, seriously",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a2/cut3"
+   "art": "scene/ko/r1_friends_a2/cut3",
+   "lemmas": [
+    [
+     "노래",
+     "노래",
+     "norae"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +139,24 @@
    "en": "Wait, it's your birthday today.",
    "note": "-잖아 = you know",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "생일",
+     "생일",
+     "saengil"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +167,14 @@
    "note": "기억하다 = remember",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a2/cut4"
+   "art": "scene/ko/r1_friends_a2/cut4",
+   "lemmas": [
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +184,24 @@
    "en": "Yeah. {name} practiced just this one...",
    "note": "연습 = practice — the real kick",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "가",
+     "가다",
+     "gada"
+    ],
+    [
+     "노래",
+     "노래",
+     "norae"
+    ],
+    [
+     "연습",
+     "연습",
+     "yeonseup"
+    ]
+   ]
   }
  ],
  "review": {

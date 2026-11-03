@@ -39,7 +39,24 @@
    "note": "라면",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a6/cut1"
+   "art": "scene/ko/r0_friends_a6/cut1",
+   "lemmas": [
+    [
+     "라면",
+     "라면",
+     "ramyeon"
+    ],
+    [
+     "먼저",
+     "먼저",
+     "meonjeo"
+    ],
+    [
+     "시킬",
+     "시키다",
+     "sikida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +66,19 @@
    "en": "For real? At a PC bang?",
    "note": "PC방",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "방",
+     "방",
+     "bang"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +89,14 @@
    "note": "시키다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a6/cut2"
+   "art": "scene/ko/r0_friends_a6/cut2",
+   "lemmas": [
+    [
+     "눌",
+     "누르다",
+     "nureuda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +106,19 @@
    "en": "Ahh, all the soup!",
    "note": "Kick: spill — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아악",
+     "아악",
+     "aak"
+    ],
+    [
+     "국물",
+     "국물",
+     "gungmul"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +129,24 @@
    "note": "키보드",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a6/cut3"
+   "art": "scene/ko/r0_friends_a6/cut3",
+   "lemmas": [
+    [
+     "키보드",
+     "키보드",
+     "kibodeu"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "젖",
+     "젖다",
+     "jeotda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +156,19 @@
    "en": "I'll bring a new keyboard.",
    "note": "새 거",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "키보드",
+     "키보드",
+     "kibodeu"
+    ],
+    [
+     "드릴",
+     "드리다",
+     "deurida"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +179,24 @@
    "note": "라면",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a6/cut4"
+   "art": "scene/ko/r0_friends_a6/cut4",
+   "lemmas": [
+    [
+     "옆",
+     "옆",
+     "yeop"
+    ],
+    [
+     "자리",
+     "자리",
+     "jari"
+    ],
+    [
+     "갔",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +206,24 @@
    "en": "Alright, let's just reorder everything!",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "새로",
+     "새로",
+     "saero"
+    ],
+    [
+     "시키",
+     "시키다",
+     "sikida"
+    ]
+   ]
   }
  ],
  "review": {

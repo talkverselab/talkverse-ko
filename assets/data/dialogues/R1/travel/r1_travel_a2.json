@@ -38,7 +38,29 @@
    "note": "따릉이 = Seoul public bike",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a2/cut1"
+   "art": "scene/ko/r1_travel_a2/cut1",
+   "lemmas": [
+    [
+     "한강",
+     "한강",
+     "hangang"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ],
+    [
+     "따릉이",
+     "따릉이",
+     "ttareungi"
+    ],
+    [
+     "타",
+     "타다",
+     "tada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +70,24 @@
    "en": "따릉이? The name is really cute.",
    "note": "귀엽다 = cute",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "따릉이",
+     "따릉이",
+     "ttareungi"
+    ],
+    [
+     "이름",
+     "이름",
+     "ireum"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +98,24 @@
    "note": "빌리다 = rent",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a2/cut2"
+   "art": "scene/ko/r1_travel_a2/cut2",
+   "lemmas": [
+    [
+     "앱",
+     "앱",
+     "aep"
+    ],
+    [
+     "빌려",
+     "빌리다",
+     "billida"
+    ],
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +125,29 @@
    "en": "So cheap. Okay, let's go!",
    "note": "싸다 = cheap",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "싸",
+     "싸다",
+     "ssada"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +158,29 @@
    "note": "탈 줄 알아? = do you know how to ride?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a2/cut3"
+   "art": "scene/ko/r1_travel_a2/cut3",
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "자전거",
+     "자전거",
+     "jajeongeo"
+    ],
+    [
+     "탈",
+     "타다",
+     "tada"
+    ],
+    [
+     "알",
+     "알다",
+     "alda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +190,19 @@
    "en": "...Once, when I was a kid.",
    "note": "Kick",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "어릴",
+     "어리다",
+     "eorida"
+    ],
+    [
+     "때",
+     "때",
+     "ttae"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +213,24 @@
    "note": "한강 라면 — classic",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a2/cut4"
+   "art": "scene/ko/r1_travel_a2/cut4",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "라면",
+     "라면",
+     "ramyeon"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +240,34 @@
    "en": "Okay. Bike next time. Ramyeon now...",
    "note": "다음에 = next time",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "따릉이",
+     "따릉이",
+     "ttareungi"
+    ],
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "라면",
+     "라면",
+     "ramyeon"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ]
+   ]
   }
  ],
  "review": {

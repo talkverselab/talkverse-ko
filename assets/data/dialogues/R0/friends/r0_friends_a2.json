@@ -37,7 +37,19 @@
    "note": "찍어 줄게 = I'll take it for you",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a2/cut1"
+   "art": "scene/ko/r0_friends_a2/cut1",
+   "lemmas": [
+    [
+     "찍",
+     "찍다",
+     "jjikda"
+    ],
+    [
+     "봐",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -47,7 +59,14 @@
    "en": "Here is fine? Good.",
    "note": "좋아 = okay",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "좋아",
+     "좋아",
+     "joa"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -58,7 +77,14 @@
    "note": "브이 = V-sign pose",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a2/cut2"
+   "art": "scene/ko/r0_friends_a2/cut2",
+   "lemmas": [
+    [
+     "브이",
+     "브이",
+     "beui"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -68,7 +94,14 @@
    "en": "V? Like this is okay?",
    "note": "이렇게 = like this",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "브이",
+     "브이",
+     "beui"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -79,7 +112,19 @@
    "note": "볼 = cheek",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a2/cut3"
+   "art": "scene/ko/r0_friends_a2/cut3",
+   "lemmas": [
+    [
+     "아니야",
+     "아니야",
+     "aniya"
+    ],
+    [
+     "볼",
+     "볼",
+     "bol"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -89,7 +134,14 @@
    "en": "Really? Does everyone do it like this?",
    "note": "Kick: the cheek-V",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -100,7 +152,19 @@
    "note": "rule",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a2/cut4"
+   "art": "scene/ko/r0_friends_a2/cut4",
+   "lemmas": [
+    [
+     "한국",
+     "한국",
+     "hanguk"
+    ],
+    [
+     "브이",
+     "브이",
+     "beui"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -110,7 +174,19 @@
    "en": "Got it. I'll try a V.",
    "note": "he commits",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "알",
+     "알다",
+     "alda"
+    ],
+    [
+     "브이",
+     "브이",
+     "beui"
+    ]
+   ]
   }
  ],
  "review": {

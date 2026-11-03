@@ -38,7 +38,24 @@
    "note": "새로고침 = refresh",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a1/cut1"
+   "art": "scene/ko/r1_culture_a1/cut1",
+   "lemmas": [
+    [
+     "준비",
+     "준비",
+     "junbi"
+    ],
+    [
+     "새로",
+     "새로",
+     "saero"
+    ],
+    [
+     "고침",
+     "고치다",
+     "gochida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +65,19 @@
    "en": "Yeah but why am I shaking like this?",
    "note": "긴장되다 = to be nervous",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "떨려",
+     "떨리다",
+     "tteollida"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +88,19 @@
    "note": "눌러 = press / click",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a1/cut2"
+   "art": "scene/ko/r1_culture_a1/cut2",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "눌",
+     "누르다",
+     "nureuda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +110,24 @@
    "en": "Clicked—wait, 40,000 in queue?",
    "note": "대기 = waiting",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "눌",
+     "누르다",
+     "nureuda"
+    ],
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "대기",
+     "대기",
+     "daegi"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +138,29 @@
    "note": "피 = blood + 티켓팅",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a1/cut3"
+   "art": "scene/ko/r1_culture_a1/cut3",
+   "lemmas": [
+    [
+     "피켓팅",
+     "피켓팅",
+     "piketting"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "피",
+     "피",
+     "pi"
+    ],
+    [
+     "튀겨",
+     "튀기다",
+     "twigida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +170,34 @@
    "en": "Whoa I'm in! Picking a seat and it just vanished",
    "note": "Kick: seats vanish mid-click",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "들어갔",
+     "들어가다",
+     "deureogada"
+    ],
+    [
+     "자리",
+     "자리",
+     "jari"
+    ],
+    [
+     "고르",
+     "고르다",
+     "goreuda"
+    ],
+    [
+     "바로",
+     "바로",
+     "baro"
+    ],
+    [
+     "날아갔",
+     "날아가다",
+     "naragada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +208,19 @@
    "note": "아무 데나 = anywhere",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a1/cut4"
+   "art": "scene/ko/r1_culture_a1/cut4",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +230,24 @@
    "en": "Uh… booking done. Seoa, I actually got it…",
    "note": "예매 = booking",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "예매",
+     "예매",
+     "yemae"
+    ],
+    [
+     "서",
+     "서",
+     "seo"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   }
  ],
  "review": {

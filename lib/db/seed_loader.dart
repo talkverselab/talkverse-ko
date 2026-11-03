@@ -6,19 +6,26 @@ import 'package:k_universe/db/database.dart';
 
 /// Loads bundled JSON seeds into the local drift DB on first launch.
 ///
-/// Idempotent: if `content_seed_version` in `app_meta` matches the current
-/// hard-coded version, the seed step is skipped. Bumping `seedVersion` clears
-/// all content tables and re-seeds — useful when content schema or data
-/// changes during dev.
+/// DB 업데이트 번호(2026-11-04, 모든 언어앱 공통): 번들 `assets/data/version.json` 의 `db` 번호가
+/// 저장된 번호(app_meta `content_seed_version`)와 다르면 내용 표를 전부 지우고 다시 채운다(user_progress 는 남김).
+/// 데이터를 바꾸면 version.json 의 `db` 번호만 올리고 `log` 에 한 줄.
 class SeedLoader {
   final AppDatabase db;
   SeedLoader(this.db);
 
-  /// Bump this when seed content changes — triggers re-seed on next launch.
-  static const seedVersion = '8'; // 2026-11-03 단어장 = 한국 영화·드라마 형태소 절벽표(data/corpus/lang_ko_top2500.csv)
   static const _versionKey = 'content_seed_version';
 
+  static Future<String> bundledVersion() async {
+    try {
+      final j = json.decode(await rootBundle.loadString('assets/data/version.json')) as Map<String, dynamic>;
+      return '${j['db']}';
+    } catch (_) {
+      return '0';
+    }
+  }
+
   Future<void> ensureSeeded() async {
+    final seedVersion = await bundledVersion();
     final current = await db.getMeta(_versionKey);
     if (current == seedVersion) return;
 

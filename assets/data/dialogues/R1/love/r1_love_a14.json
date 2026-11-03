@@ -40,7 +40,24 @@
    "note": "역할 = role",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a14/cut1"
+   "art": "scene/ko/r1_love_a14/cut1",
+   "lemmas": [
+    [
+     "안무",
+     "안무",
+     "anmu"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "상대",
+     "상대",
+     "sangdae"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +67,24 @@
    "en": "I really can't dance.",
    "note": "진짜로",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "춤",
+     "춤",
+     "chum"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "춰",
+     "추다",
+     "chuda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +95,19 @@
    "note": "손",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a14/cut2"
+   "art": "scene/ko/r1_love_a14/cut2",
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "손",
+     "손",
+     "son"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +117,14 @@
    "en": "(spinning) Whoa, wait!",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +135,24 @@
    "note": "chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a14/cut3"
+   "art": "scene/ko/r1_love_a14/cut3",
+   "lemmas": [
+    [
+     "거울",
+     "거울",
+     "geoul"
+    ],
+    [
+     "깨졌",
+     "깨지다",
+     "kkaejida"
+    ],
+    [
+     "거울",
+     "거울",
+     "geoul"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +162,19 @@
    "en": "You okay? Where does it hurt?",
    "note": "다치다 = get hurt",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "다쳤",
+     "다치다",
+     "dachida"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +185,19 @@
    "note": "callback",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a14/cut4"
+   "art": "scene/ko/r1_love_a14/cut4",
+   "lemmas": [
+    [
+     "거울",
+     "거울",
+     "geoul"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +207,19 @@
    "en": "Whatever. As long as you're okay.",
    "note": "punchline 심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   }
  ],
  "learner_gender": "F",

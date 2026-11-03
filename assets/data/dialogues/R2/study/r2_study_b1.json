@@ -42,7 +42,8 @@
    "tags": [],
    "new": [],
    "at": "22:40",
-   "art": "scene/ko/r2_study_b1/cut1"
+   "art": "scene/ko/r2_study_b1/cut1",
+   "lemmas": []
   },
   {
    "num": 2,
@@ -53,7 +54,19 @@
    "note": "부분 = part",
    "tags": [],
    "new": [],
-   "at": "22:41"
+   "at": "22:41",
+   "lemmas": [
+    [
+     "부분",
+     "부분",
+     "bubun"
+    ],
+    [
+     "장",
+     "장",
+     "jang"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -65,7 +78,24 @@
    "tags": [],
    "new": [],
    "at": "22:50",
-   "art": "scene/ko/r2_study_b1/cut2"
+   "art": "scene/ko/r2_study_b1/cut2",
+   "lemmas": [
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ],
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "발표",
+     "발표",
+     "balpyo"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -76,7 +106,14 @@
    "note": "아침 = morning",
    "tags": [],
    "new": [],
-   "at": "22:50"
+   "at": "22:50",
+   "lemmas": [
+    [
+     "아침",
+     "아침",
+     "achim"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -88,7 +125,8 @@
    "tags": [],
    "new": [],
    "at": "22:51",
-   "art": "scene/ko/r2_study_b1/cut3"
+   "art": "scene/ko/r2_study_b1/cut3",
+   "lemmas": []
   },
   {
    "num": 6,
@@ -99,7 +137,8 @@
    "note": "읽씹 = read but no reply",
    "tags": [],
    "new": [],
-   "at": "23:10"
+   "at": "23:10",
+   "lemmas": []
   },
   {
    "num": 7,
@@ -111,7 +150,14 @@
    "tags": [],
    "new": [],
    "at": "23:12",
-   "art": "scene/ko/r2_study_b1/cut4"
+   "art": "scene/ko/r2_study_b1/cut4",
+   "lemmas": [
+    [
+     "읽씹",
+     "읽씹",
+     "ikssip"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -122,7 +168,29 @@
    "note": "틀 = template",
    "tags": [],
    "new": [],
-   "at": "23:13"
+   "at": "23:13",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "일단",
+     "일단",
+     "ildan"
+    ],
+    [
+     "틀",
+     "틀",
+     "teul"
+    ],
+    [
+     "만들",
+     "만들다",
+     "mandeulda"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -134,7 +202,24 @@
    "tags": [],
    "new": [],
    "at": "23:14",
-   "art": "scene/ko/r2_study_b1/cut5"
+   "art": "scene/ko/r2_study_b1/cut5",
+   "lemmas": [
+    [
+     "디자인",
+     "디자인",
+     "dijain"
+    ],
+    [
+     "글",
+     "글",
+     "geul"
+    ],
+    [
+     "써",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -145,7 +230,29 @@
    "note": "-도 = also",
    "tags": [],
    "new": [],
-   "at": "23:15"
+   "at": "23:15",
+   "lemmas": [
+    [
+     "민",
+     "민",
+     "min"
+    ],
+    [
+     "호",
+     "호",
+     "ho"
+    ],
+    [
+     "부분",
+     "부분",
+     "bubun"
+    ],
+    [
+     "쓸",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -157,7 +264,29 @@
    "tags": [],
    "new": [],
    "at": "03:02",
-   "art": "scene/ko/r2_study_b1/cut6"
+   "art": "scene/ko/r2_study_b1/cut6",
+   "lemmas": [
+    [
+     "새벽",
+     "새벽",
+     "saebyeok"
+    ],
+    [
+     "미",
+     "미",
+     "mi"
+    ],
+    [
+     "자",
+     "자다",
+     "jada"
+    ],
+    [
+     "뭐",
+     "뭐",
+     "mwo"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -168,7 +297,14 @@
    "note": "네가 다 해 = you do it all",
    "tags": [],
    "new": [],
-   "at": "03:03"
+   "at": "03:03",
+   "lemmas": [
+    [
+     "발표",
+     "발표",
+     "balpyo"
+    ]
+   ]
   }
  ],
  "review": {

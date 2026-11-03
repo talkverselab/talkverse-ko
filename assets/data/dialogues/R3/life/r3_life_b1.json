@@ -40,7 +40,19 @@
    "note": "쿵쿵거리다 = to thump",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_life_b1/cut1"
+   "art": "scene/ko/r3_life_b1/cut1",
+   "lemmas": [
+    [
+     "쿵쿵거려",
+     "쿵쿵거리다",
+     "kungkunggeorida"
+    ],
+    [
+     "벌써",
+     "벌써",
+     "beolsseo"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +62,34 @@
    "en": "Floor noise, what can you do, bear with it",
    "note": "층간소음 = noise between floors · 참다 = to endure",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "층",
+     "층",
+     "cheung"
+    ],
+    [
+     "간",
+     "가다",
+     "gada"
+    ],
+    [
+     "소음",
+     "소음",
+     "soeum"
+    ],
+    [
+     "뭐",
+     "뭐",
+     "mwo"
+    ],
+    [
+     "참",
+     "참다",
+     "chamda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +100,19 @@
    "note": "올라가다 = go up",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_life_b1/cut2"
+   "art": "scene/ko/r3_life_b1/cut2",
+   "lemmas": [
+    [
+     "올라가",
+     "올라가다",
+     "ollagada"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +122,44 @@
    "en": "If you go yourself at night it turns into a fight, tell security",
    "note": "경비실 = security office",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "밤",
+     "밤",
+     "bam"
+    ],
+    [
+     "직접",
+     "직접",
+     "jikjeop"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ],
+    [
+     "싸움",
+     "싸움",
+     "ssaum"
+    ],
+    [
+     "나",
+     "나다",
+     "nada"
+    ],
+    [
+     "경비실",
+     "경비실",
+     "gyeongbisil"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +170,19 @@
    "note": "심하다 = severe",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_life_b1/cut3"
+   "art": "scene/ko/r3_life_b1/cut3",
+   "lemmas": [
+    [
+     "그렇게",
+     "그렇게",
+     "geureoke"
+    ],
+    [
+     "심해",
+     "심하다",
+     "simhada"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +192,34 @@
    "en": "It's on the news all the time, so don't bang the ceiling",
    "note": "천장 치다 = bang the ceiling (classic retaliation)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "뉴스",
+     "뉴스",
+     "nyuseu"
+    ],
+    [
+     "맨날",
+     "맨날",
+     "maennal"
+    ],
+    [
+     "나와",
+     "나오다",
+     "naoda"
+    ],
+    [
+     "천장",
+     "천장",
+     "cheonjang"
+    ],
+    [
+     "치",
+     "치다",
+     "chida"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +230,19 @@
    "note": "이미 = already",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_life_b1/cut4"
+   "art": "scene/ko/r3_life_b1/cut4",
+   "lemmas": [
+    [
+     "이미",
+     "이미",
+     "imi"
+    ],
+    [
+     "쳤",
+     "치다",
+     "chida"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +252,24 @@
    "en": "Oh really? Fine we'll see tomorrow",
    "note": "됐어 = forget it",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -124,7 +280,24 @@
    "note": "윗집 = the upstairs household",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_life_b1/cut5"
+   "art": "scene/ko/r3_life_b1/cut5",
+   "lemmas": [
+    [
+     "안녕",
+     "안녕",
+     "annyeong"
+    ],
+    [
+     "윗집",
+     "윗집",
+     "witjip"
+    ],
+    [
+     "어제",
+     "어제",
+     "eoje"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -134,7 +307,19 @@
    "en": "Oh… yes a little, I'm sorry I hit the ceiling…",
    "note": "죄송합니다 = I'm sorry (formal)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "조금",
+     "조금",
+     "jogeum"
+    ],
+    [
+     "죄송합",
+     "죄송하다",
+     "joesonghada"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -145,7 +330,29 @@
    "note": "Kick: she apologizes with 떡",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_life_b1/cut6"
+   "art": "scene/ko/r3_life_b1/cut6",
+   "lemmas": [
+    [
+     "애",
+     "애",
+     "ae"
+    ],
+    [
+     "뛰",
+     "뛰다",
+     "ttwida"
+    ],
+    [
+     "떡",
+     "떡",
+     "tteok"
+    ],
+    [
+     "드세",
+     "드세다",
+     "deuseda"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -155,7 +362,19 @@
    "en": "Rice cakes…? Really?",
    "note": "떡 = rice cake — the neighbor gift",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "떡",
+     "떡",
+     "tteok"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 13,
@@ -166,7 +385,54 @@
    "note": "말씀하세요 = please tell (honorific)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_life_b1/cut7"
+   "art": "scene/ko/r3_life_b1/cut7",
+   "lemmas": [
+    [
+     "이사",
+     "이사",
+     "isa"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ],
+    [
+     "인사",
+     "인사",
+     "insa"
+    ],
+    [
+     "드렸",
+     "드리다",
+     "deurida"
+    ],
+    [
+     "애",
+     "애",
+     "ae"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "뛰",
+     "뛰다",
+     "ttwida"
+    ],
+    [
+     "바로",
+     "바로",
+     "baro"
+    ],
+    [
+     "말씀",
+     "말씀",
+     "malsseum"
+    ]
+   ]
   },
   {
    "num": 14,
@@ -176,7 +442,39 @@
    "en": "Thank you… and I'm really sorry about hitting the ceiling",
    "note": "친 거 = the hitting",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "어제",
+     "어제",
+     "eoje"
+    ],
+    [
+     "천장",
+     "천장",
+     "cheonjang"
+    ],
+    [
+     "친",
+     "치다",
+     "chida"
+    ],
+    [
+     "정말",
+     "정말",
+     "jeongmal"
+    ],
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ]
+   ]
   },
   {
    "num": 15,
@@ -187,7 +485,29 @@
    "note": "해결 = solution",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_life_b1/cut8"
+   "art": "scene/ko/r3_life_b1/cut8",
+   "lemmas": [
+    [
+     "봤",
+     "보다",
+     "boda"
+    ],
+    [
+     "한국식",
+     "한국식",
+     "hanguksik"
+    ],
+    [
+     "해결",
+     "해결",
+     "haegyeol"
+    ],
+    [
+     "떡",
+     "떡",
+     "tteok"
+    ]
+   ]
   },
   {
    "num": 16,
@@ -197,7 +517,29 @@
    "en": "…I should bring rice cakes tomorrow too",
    "note": "-아야겠다 = I should",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "떡",
+     "떡",
+     "tteok"
+    ],
+    [
+     "사",
+     "사다",
+     "sada"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   }
  ],
  "review": {

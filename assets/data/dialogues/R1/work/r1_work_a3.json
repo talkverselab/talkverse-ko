@@ -41,7 +41,24 @@
    "note": "화면 공유 = screen share",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_work_a3/cut1"
+   "art": "scene/ko/r1_work_a3/cut1",
+   "lemmas": [
+    [
+     "자료",
+     "자료",
+     "jaryo"
+    ],
+    [
+     "화면",
+     "화면",
+     "hwamyeon"
+    ],
+    [
+     "공유",
+     "공유",
+     "gongyu"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +68,19 @@
    "en": "Yes, sharing now.",
    "note": "공유 = share",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "공유",
+     "공유",
+     "gongyu"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +91,24 @@
    "note": "Kick setup",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_work_a3/cut2"
+   "art": "scene/ko/r1_work_a3/cut2",
+   "lemmas": [
+    [
+     "쇼핑몰",
+     "쇼핑몰",
+     "syopingmol"
+    ],
+    [
+     "장",
+     "장",
+     "jang"
+    ],
+    [
+     "바구니",
+     "바구니",
+     "baguni"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +118,19 @@
    "en": "Wait, I'm sorry!",
    "note": "apology",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +141,34 @@
    "note": "사료 = pet food",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_work_a3/cut3"
+   "art": "scene/ko/r1_work_a3/cut3",
+   "lemmas": [
+    [
+     "고양이",
+     "고양이",
+     "goyangi"
+    ],
+    [
+     "사료",
+     "사료",
+     "saryo"
+    ],
+    [
+     "많이",
+     "많이",
+     "mani"
+    ],
+    [
+     "사",
+     "살다",
+     "salda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +178,24 @@
    "en": "I buy that too, send the link!",
    "note": "Kick: chaos — meeting derails",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "사",
+     "사다",
+     "sada"
+    ],
+    [
+     "링크",
+     "링크",
+     "ringkeu"
+    ],
+    [
+     "주",
+     "주다",
+     "juda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +206,24 @@
    "note": "punchline setup",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_work_a3/cut4"
+   "art": "scene/ko/r1_work_a3/cut4",
+   "lemmas": [
+    [
+     "회의",
+     "회의",
+     "hoeui"
+    ],
+    [
+     "쉬",
+     "쉬다",
+     "swida"
+    ],
+    [
+     "볼",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +233,24 @@
    "en": "Can I share the slides now?",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "이제",
+     "이제",
+     "ije"
+    ],
+    [
+     "자료",
+     "자료",
+     "jaryo"
+    ],
+    [
+     "공유",
+     "공유",
+     "gongyu"
+    ]
+   ]
   }
  ],
  "review": {

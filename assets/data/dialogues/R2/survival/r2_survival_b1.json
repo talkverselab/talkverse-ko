@@ -39,7 +39,44 @@
    "note": "서류",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_survival_b1/cut1"
+   "art": "scene/ko/r2_survival_b1/cut1",
+   "lemmas": [
+    [
+     "여권",
+     "여권",
+     "yeogwon"
+    ],
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "신청서",
+     "신청서",
+     "sincheongseo"
+    ],
+    [
+     "재학",
+     "재학",
+     "jaehak"
+    ],
+    [
+     "증명서",
+     "증명서",
+     "jeungmyeongseo"
+    ],
+    [
+     "가지",
+     "가지다",
+     "gajida"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +86,8 @@
    "en": "Yes, here they are.",
    "note": "여기요",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 3,
@@ -60,7 +98,34 @@
    "note": "Kick setup",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_survival_b1/cut2"
+   "art": "scene/ko/r2_survival_b1/cut2",
+   "lemmas": [
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "배경",
+     "배경",
+     "baegyeong"
+    ],
+    [
+     "하얀색",
+     "하얀색",
+     "hayansaek"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "찍",
+     "찍다",
+     "jjikda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +135,34 @@
    "en": "What? Then just a sec. I’ll go retake it. Sorry.",
    "note": "다시",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "찍",
+     "찍다",
+     "jjikda"
+    ],
+    [
+     "올",
+     "오다",
+     "oda"
+    ],
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +173,34 @@
    "note": "chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_survival_b1/cut3"
+   "art": "scene/ko/r2_survival_b1/cut3",
+   "lemmas": [
+    [
+     "이번",
+     "이번",
+     "ibeon"
+    ],
+    [
+     "주소",
+     "주소",
+     "juso"
+    ],
+    [
+     "증명",
+     "증명",
+     "jeungmyeong"
+    ],
+    [
+     "서류",
+     "서류",
+     "seoryu"
+    ],
+    [
+     "빠졌",
+     "빠지다",
+     "ppajida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +210,29 @@
    "en": "Please say that again. The address documents?",
    "note": "다시 한 번",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ],
+    [
+     "주소",
+     "주소",
+     "juso"
+    ],
+    [
+     "서류",
+     "서류",
+     "seoryu"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +243,19 @@
    "note": "계약서",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_survival_b1/cut4"
+   "art": "scene/ko/r2_survival_b1/cut4",
+   "lemmas": [
+    [
+     "임대차",
+     "임대차",
+     "imdaecha"
+    ],
+    [
+     "계약서",
+     "계약서",
+     "gyeyakseo"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +265,14 @@
    "en": "(Two hours later) Here! I brought everything.",
    "note": "Kick",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "가져왔",
+     "가져오다",
+     "gajyeooda"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -123,7 +283,59 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_survival_b1/cut5"
+   "art": "scene/ko/r2_survival_b1/cut5",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "접수",
+     "접수",
+     "jeopsu"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "넘",
+     "넘다",
+     "neomda"
+    ],
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ],
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ],
+    [
+     "줄",
+     "줄",
+     "jul"
+    ],
+    [
+     "점점",
+     "점점",
+     "jeomjeom"
+    ],
+    [
+     "길",
+     "길다",
+     "gilda"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -133,7 +345,19 @@
    "en": "Ah… then do I need to take another number? Sorry.",
    "note": "번호표",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "번호표",
+     "번호표",
+     "beonhopyo"
+    ],
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -144,7 +368,34 @@
    "note": "kindness",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_survival_b1/cut6"
+   "art": "scene/ko/r2_survival_b1/cut6",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "마지막",
+     "마지막",
+     "majimak"
+    ],
+    [
+     "처리",
+     "처리",
+     "cheori"
+    ],
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "봐",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -154,7 +405,29 @@
    "en": "Thank you! I didn’t expect to go back and forth so many times.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ],
+    [
+     "갔",
+     "가다",
+     "gada"
+    ],
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ]
+   ]
   }
  ],
  "review": {

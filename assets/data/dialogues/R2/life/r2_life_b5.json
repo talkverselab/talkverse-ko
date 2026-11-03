@@ -40,7 +40,19 @@
    "note": "불",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b5/cut1"
+   "art": "scene/ko/r2_life_b5/cut1",
+   "lemmas": [
+    [
+     "갑자기",
+     "갑자기",
+     "gapjagi"
+    ],
+    [
+     "꺼졌",
+     "꺼지다",
+     "kkeojida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +62,39 @@
    "en": "Must be the typhoon right? Wind's crazy strong",
    "note": "태풍",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "태풍",
+     "태풍",
+     "taepung"
+    ],
+    [
+     "그런",
+     "그러다",
+     "geureoda"
+    ],
+    [
+     "아",
+     "알다",
+     "alda"
+    ],
+    [
+     "바람",
+     "바람",
+     "baram"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "세",
+     "세다",
+     "seda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +105,29 @@
    "note": "촛불",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b5/cut2"
+   "art": "scene/ko/r2_life_b5/cut2",
+   "lemmas": [
+    [
+     "촛불",
+     "촛불",
+     "chotbul"
+    ],
+    [
+     "뒀",
+     "두다",
+     "duda"
+    ],
+    [
+     "서랍",
+     "서랍",
+     "seorap"
+    ],
+    [
+     "열",
+     "열다",
+     "yeolda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +137,29 @@
    "en": "Hold on I'll turn on my phone light, right here",
    "note": "라이트",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "폰",
+     "폰",
+     "pon"
+    ],
+    [
+     "라이트",
+     "라이트",
+     "raiteu"
+    ],
+    [
+     "켤",
+     "켜다",
+     "kyeoda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +170,39 @@
    "note": "아이스크림",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b5/cut3"
+   "art": "scene/ko/r2_life_b5/cut3",
+   "lemmas": [
+    [
+     "냉장고",
+     "냉장고",
+     "naengjanggo"
+    ],
+    [
+     "열",
+     "열다",
+     "yeolda"
+    ],
+    [
+     "아이스크림",
+     "아이스크림",
+     "aiseukeurim"
+    ],
+    [
+     "벌써",
+     "벌써",
+     "beolsseo"
+    ],
+    [
+     "녹",
+     "녹다",
+     "nokda"
+    ],
+    [
+     "시작",
+     "시작",
+     "sijak"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +212,34 @@
    "en": "Then let's just eat it all, whatever before it melts",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ],
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "녹",
+     "녹다",
+     "nokda"
+    ],
+    [
+     "전",
+     "전",
+     "jeon"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +250,29 @@
    "note": "scene",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b5/cut4"
+   "art": "scene/ko/r2_life_b5/cut4",
+   "lemmas": [
+    [
+     "녹",
+     "녹다",
+     "nokda"
+    ],
+    [
+     "손",
+     "손",
+     "son"
+    ],
+    [
+     "휴지",
+     "휴지",
+     "hyuji"
+    ],
+    [
+     "줘",
+     "주다",
+     "juda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +282,24 @@
    "en": "Hey with this vibe we gotta do a scary story, perfect",
    "note": "무섭다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "분위기",
+     "분위기",
+     "bunwigi"
+    ],
+    [
+     "얘기",
+     "얘기",
+     "yaegi"
+    ],
+    [
+     "딱",
+     "딱",
+     "ttak"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -124,7 +310,44 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b5/cut5"
+   "art": "scene/ko/r2_life_b5/cut5",
+   "lemmas": [
+    [
+     "아악",
+     "아악",
+     "aak"
+    ],
+    [
+     "방금",
+     "방금",
+     "banggeum"
+    ],
+    [
+     "뭐",
+     "뭐",
+     "mwo"
+    ],
+    [
+     "떨어졌",
+     "떨어지다",
+     "tteoreojida"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "심장",
+     "심장",
+     "simjang"
+    ],
+    [
+     "떨어질",
+     "떨어지다",
+     "tteoreojida"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -134,7 +357,39 @@
    "en": "It's okay it's okay, just the wind slamming the window hard",
    "note": "바람",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "바람",
+     "바람",
+     "baram"
+    ],
+    [
+     "창문",
+     "창문",
+     "changmun"
+    ],
+    [
+     "세",
+     "세다",
+     "seda"
+    ],
+    [
+     "닫힌",
+     "닫히다",
+     "datida"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -145,7 +400,44 @@
    "note": "reveal",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b5/cut6"
+   "art": "scene/ko/r2_life_b5/cut6",
+   "lemmas": [
+    [
+     "불",
+     "불",
+     "bul"
+    ],
+    [
+     "들어왔",
+     "들어오다",
+     "deureooda"
+    ],
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "현관문",
+     "현관문",
+     "hyeongwanmun"
+    ],
+    [
+     "열려",
+     "열리다",
+     "yeollida"
+    ],
+    [
+     "물",
+     "물",
+     "mul"
+    ],
+    [
+     "들어오",
+     "들어오다",
+     "deureooda"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -155,7 +447,54 @@
    "en": "Ice cream spilled everywhere and even the neighbor came in soaked, whatever I give up",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아이스크림",
+     "아이스크림",
+     "aiseukeurim"
+    ],
+    [
+     "바닥",
+     "바닥",
+     "badak"
+    ],
+    [
+     "옆집",
+     "옆집",
+     "yeopjip"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ],
+    [
+     "물",
+     "물",
+     "mul"
+    ],
+    [
+     "묻히",
+     "묻히다",
+     "mutida"
+    ],
+    [
+     "들어왔",
+     "들어오다",
+     "deureooda"
+    ],
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "포기",
+     "포기",
+     "pogi"
+    ]
+   ]
   }
  ],
  "review": {

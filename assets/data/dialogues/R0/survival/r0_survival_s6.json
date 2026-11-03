@@ -40,7 +40,14 @@
    "note": "얼마예요?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s6/cut1"
+   "art": "scene/ko/r0_survival_s6/cut1",
+   "lemmas": [
+    [
+     "얼마",
+     "얼마",
+     "eolma"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +57,8 @@
    "en": "Twelve thousand five hundred won!",
    "note": "숫자",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 3,
@@ -61,7 +69,14 @@
    "note": "천천히",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s6/cut2"
+   "art": "scene/ko/r0_survival_s6/cut2",
+   "lemmas": [
+    [
+     "천천히",
+     "천천히",
+     "cheoncheonhi"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +86,14 @@
    "en": "Ten! Two thousand! Five hundred! Freebie!",
    "note": "숫자",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "서비스",
+     "서비스",
+     "seobiseu"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +104,14 @@
    "note": "Kick: he got it",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s6/cut3"
+   "art": "scene/ko/r0_survival_s6/cut3",
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +121,19 @@
    "en": "Oh my, you're good! I'll give you this extra!",
    "note": "덤",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "어머나",
+     "어머나",
+     "eomeona"
+    ],
+    [
+     "줄",
+     "주다",
+     "juda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +144,19 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s6/cut4"
+   "art": "scene/ko/r0_survival_s6/cut4",
+   "lemmas": [
+    [
+     "한국어",
+     "한국어",
+     "hangugeo"
+    ],
+    [
+     "깎",
+     "깎다",
+     "kkakda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +166,29 @@
    "en": "Ah, it's really over now! Please go!",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "이제",
+     "이제",
+     "ije"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "끝났",
+     "끝나다",
+     "kkeunnada"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   }
  ],
  "review": {

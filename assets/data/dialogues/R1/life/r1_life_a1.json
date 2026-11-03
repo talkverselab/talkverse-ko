@@ -38,7 +38,24 @@
    "note": "배달 시키다 = to order delivery",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a1/cut1"
+   "art": "scene/ko/r1_life_a1/cut1",
+   "lemmas": [
+    [
+     "배고파",
+     "배고프다",
+     "baegopeuda"
+    ],
+    [
+     "배달",
+     "배달",
+     "baedal"
+    ],
+    [
+     "시킬",
+     "시키다",
+     "sikida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +65,19 @@
    "en": "Now at 10 p.m., is that okay?",
    "note": "-인데 = it is…, but",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "밤",
+     "밤",
+     "bam"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +88,19 @@
    "note": "새벽 = early morning hours",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a1/cut2"
+   "art": "scene/ko/r1_life_a1/cut2",
+   "lemmas": [
+    [
+     "한국",
+     "한국",
+     "hanguk"
+    ],
+    [
+     "새벽",
+     "새벽",
+     "saebyeok"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +110,19 @@
    "en": "For real? What do we get?",
    "note": "시켜? = order?",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "시켜",
+     "시키다",
+     "sikida"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +133,24 @@
    "note": "국룰 = unwritten rule (slang) — callback 커플티",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a1/cut3"
+   "art": "scene/ko/r1_life_a1/cut3",
+   "lemmas": [
+    [
+     "치킨",
+     "치킨",
+     "chikin"
+    ],
+    [
+     "국",
+     "국",
+     "guk"
+    ],
+    [
+     "룰",
+     "룰",
+     "rul"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +160,24 @@
    "en": "Nice, how long does it take?",
    "note": "얼마나 걸려? = how long does it take?",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "얼마나",
+     "얼마나",
+     "eolmana"
+    ],
+    [
+     "걸려",
+     "걸리다",
+     "geollida"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +188,24 @@
    "note": "Kick setup",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a1/cut4"
+   "art": "scene/ko/r1_life_a1/cut4",
+   "lemmas": [
+    [
+     "벌써",
+     "벌써",
+     "beolsseo"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ],
+    [
+     "왜",
+     "왜",
+     "wae"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +215,39 @@
    "en": "Oh… I secretly ordered one too. Then tonight it's one chicken each!",
    "note": "1인 1닭 = one chicken per person (slang)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아까",
+     "아까",
+     "akka"
+    ],
+    [
+     "몰래",
+     "몰래",
+     "mollae"
+    ],
+    [
+     "시켰",
+     "시키다",
+     "sikida"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "인",
+     "인",
+     "in"
+    ],
+    [
+     "닭",
+     "닭",
+     "dak"
+    ]
+   ]
   }
  ],
  "review": {

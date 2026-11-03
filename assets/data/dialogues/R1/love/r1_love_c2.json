@@ -40,7 +40,19 @@
    "new": [],
    "ui": "bubble",
    "at": "23:30",
-   "art": "scene/ko/r1_love_c2/cut1"
+   "art": "scene/ko/r1_love_c2/cut1",
+   "lemmas": [
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "날",
+     "날",
+     "nal"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -52,7 +64,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:31"
+   "at": "23:31",
+   "lemmas": [
+    [
+     "당연",
+     "당연",
+     "dangyeon"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -65,7 +84,19 @@
    "new": [],
    "ui": "bubble",
    "at": "23:31",
-   "art": "scene/ko/r1_love_c2/cut2"
+   "art": "scene/ko/r1_love_c2/cut2",
+   "lemmas": [
+    [
+     "그럼",
+     "그럼",
+     "geureom"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -77,7 +108,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:33"
+   "at": "23:33",
+   "lemmas": [
+    [
+     "월요일",
+     "월요일",
+     "woryoil"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -90,7 +128,19 @@
    "new": [],
    "ui": "bubble",
    "at": "23:33",
-   "art": "scene/ko/r1_love_c2/cut3"
+   "art": "scene/ko/r1_love_c2/cut3",
+   "lemmas": [
+    [
+     "설마",
+     "설마",
+     "seolma"
+    ],
+    [
+     "진심",
+     "진심",
+     "jinsim"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -102,7 +152,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:34"
+   "at": "23:34",
+   "lemmas": [
+    [
+     "농담",
+     "농담",
+     "nongdam"
+    ],
+    [
+     "알람",
+     "알람",
+     "allam"
+    ],
+    [
+     "맞춰",
+     "맞추다",
+     "matchuda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -115,7 +182,24 @@
    "new": [],
    "ui": "bubble",
    "at": "23:34",
-   "art": "scene/ko/r1_love_c2/cut4"
+   "art": "scene/ko/r1_love_c2/cut4",
+   "lemmas": [
+    [
+     "휴",
+     "휴",
+     "hyu"
+    ],
+    [
+     "심장",
+     "심장",
+     "simjang"
+    ],
+    [
+     "내려앉",
+     "내려앉다",
+     "naeryeoanda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -127,7 +211,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:35"
+   "at": "23:35",
+   "lemmas": [
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "예쁘",
+     "예쁘다",
+     "yeppeuda"
+    ],
+    [
+     "나와",
+     "나오다",
+     "naoda"
+    ]
+   ]
   }
  ],
  "review": {

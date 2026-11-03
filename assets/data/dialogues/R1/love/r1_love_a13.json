@@ -38,7 +38,29 @@
    "note": "방향 = direction",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a13/cut1"
+   "art": "scene/ko/r1_love_a13/cut1",
+   "lemmas": [
+    [
+     "가",
+     "가다",
+     "gada"
+    ],
+    [
+     "방향",
+     "방향",
+     "banghyang"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "타",
+     "타다",
+     "tada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +70,19 @@
    "en": "Mangwon-dong. Is that okay?",
    "note": "괜찮아요?",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "망원동",
+     "망원동",
+     "mangwondong"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +93,14 @@
    "note": "저도",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a13/cut2"
+   "art": "scene/ko/r1_love_a13/cut2",
+   "lemmas": [
+    [
+     "망원동",
+     "망원동",
+     "mangwondong"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +110,19 @@
    "en": "Really? I didn't know.",
    "note": "몰랐다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +133,19 @@
    "note": "심쿵: she lied",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a13/cut3"
+   "art": "scene/ko/r1_love_a13/cut3",
+   "lemmas": [
+    [
+     "사실",
+     "사실",
+     "sasil"
+    ],
+    [
+     "합정",
+     "합정",
+     "hapjeong"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +155,19 @@
    "en": "Whoa, then why together…",
    "note": "왜",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +178,19 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a13/cut4"
+   "art": "scene/ko/r1_love_a13/cut4",
+   "lemmas": [
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "타",
+     "타다",
+     "tada"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +200,24 @@
    "en": "…Driver, please go slowly.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "기사",
+     "기사",
+     "gisa"
+    ],
+    [
+     "천천히",
+     "천천히",
+     "cheoncheonhi"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   }
  ],
  "series": "flirt",

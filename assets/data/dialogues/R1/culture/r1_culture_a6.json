@@ -39,7 +39,29 @@
    "note": "반달",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a6/cut1"
+   "art": "scene/ko/r1_culture_a6/cut1",
+   "lemmas": [
+    [
+     "반달",
+     "반달",
+     "bandal"
+    ],
+    [
+     "딱",
+     "딱",
+     "ttak"
+    ],
+    [
+     "손",
+     "손",
+     "son"
+    ],
+    [
+     "세",
+     "세다",
+     "seda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +71,29 @@
    "en": "Half-moon… like this? My fingers won't cooperate.",
    "note": "이렇게",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "반달",
+     "반달",
+     "bandal"
+    ],
+    [
+     "이렇게",
+     "이렇게",
+     "ireoke"
+    ],
+    [
+     "손가락",
+     "손가락",
+     "songarak"
+    ],
+    [
+     "움직여",
+     "움직이다",
+     "umjigida"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +104,24 @@
    "note": "Kick setup",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a6/cut2"
+   "art": "scene/ko/r1_culture_a6/cut2",
+   "lemmas": [
+    [
+     "별",
+     "별",
+     "byeol"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "반짝반짝",
+     "반짝반짝",
+     "banjjakbanjjak"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +131,29 @@
    "en": "Whoa for real? Again! This one… is it a heart?",
    "note": "다시",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "하트",
+     "하트",
+     "hateu"
+    ],
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +164,24 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a6/cut3"
+   "art": "scene/ko/r1_culture_a6/cut3",
+   "lemmas": [
+    [
+     "하트",
+     "하트",
+     "hateu"
+    ],
+    [
+     "폭탄",
+     "폭탄",
+     "poktan"
+    ],
+    [
+     "생겼",
+     "생기다",
+     "saenggida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +191,39 @@
    "en": "They say pretty ones mean a pretty daughter. But all of these are weird.",
    "note": "tradition",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "예쁘",
+     "예쁘다",
+     "yeppeuda"
+    ],
+    [
+     "빚",
+     "빚다",
+     "bitda"
+    ],
+    [
+     "예쁜",
+     "예쁘다",
+     "yeppeuda"
+    ],
+    [
+     "딸",
+     "딸",
+     "ttal"
+    ],
+    [
+     "낳",
+     "낳다",
+     "nata"
+    ],
+    [
+     "이상",
+     "이상",
+     "isang"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +234,29 @@
    "note": "Kick",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a6/cut4"
+   "art": "scene/ko/r1_culture_a6/cut4",
+   "lemmas": [
+    [
+     "별",
+     "별",
+     "byeol"
+    ],
+    [
+     "폭탄",
+     "폭탄",
+     "poktan"
+    ],
+    [
+     "낳",
+     "낳다",
+     "nata"
+    ],
+    [
+     "주",
+     "주다",
+     "juda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +266,29 @@
    "en": "Haha make lots. Minji brought more dough again and everything's gonna tip over.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "많이",
+     "많이",
+     "mani"
+    ],
+    [
+     "반죽",
+     "반죽",
+     "banjuk"
+    ],
+    [
+     "들",
+     "들다",
+     "deulda"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ]
+   ]
   }
  ],
  "review": {

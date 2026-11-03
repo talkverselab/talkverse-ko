@@ -40,7 +40,8 @@
    "note": "코골이",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a6/cut1"
+   "art": "scene/ko/r1_study_a6/cut1",
+   "lemmas": []
   },
   {
    "num": 2,
@@ -50,7 +51,8 @@
    "en": "(whispering) Whoa, who's that?",
    "note": "누구",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 3,
@@ -61,7 +63,8 @@
    "note": "Kick",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a6/cut2"
+   "art": "scene/ko/r1_study_a6/cut2",
+   "lemmas": []
   },
   {
    "num": 4,
@@ -71,7 +74,24 @@
    "en": "Wait, we gotta wake him. Quick.",
    "note": "깨우다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "깨워",
+     "깨우다",
+     "kkaeuda"
+    ],
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +102,8 @@
    "note": "툭",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a6/cut3"
+   "art": "scene/ko/r1_study_a6/cut3",
+   "lemmas": []
   },
   {
    "num": 6,
@@ -92,7 +113,24 @@
    "en": "Huh? What, is the exam over?! (knocking the chair over)",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "시험",
+     "시험",
+     "siheom"
+    ],
+    [
+     "끝",
+     "끝",
+     "kkeut"
+    ],
+    [
+     "났",
+     "나다",
+     "nada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +141,14 @@
    "note": "everyone",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a6/cut4"
+   "art": "scene/ko/r1_study_a6/cut4",
+   "lemmas": [
+    [
+     "쉿",
+     "쉿",
+     "swit"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +158,24 @@
    "en": "...I think we really need to leave. Everyone's staring.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "이제",
+     "이제",
+     "ije"
+    ],
+    [
+     "나가",
+     "나가다",
+     "nagada"
+    ],
+    [
+     "쳐다보",
+     "쳐다보다",
+     "chyeodaboda"
+    ]
+   ]
   }
  ],
  "review": {

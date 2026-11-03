@@ -40,7 +40,19 @@
    "note": "화장실 = restroom",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s3/cut1"
+   "art": "scene/ko/r0_survival_s3/cut1",
+   "lemmas": [
+    [
+     "저기요",
+     "저기요",
+     "jeogiyo"
+    ],
+    [
+     "화장실",
+     "화장실",
+     "hwajangsil"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +62,14 @@
    "en": "Go that way.",
    "note": "저쪽 = that way",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +80,24 @@
    "note": "again",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s3/cut2"
+   "art": "scene/ko/r0_survival_s3/cut2",
+   "lemmas": [
+    [
+     "저기요",
+     "저기요",
+     "jeogiyo"
+    ],
+    [
+     "화장실",
+     "화장실",
+     "hwajangsil"
+    ],
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +107,19 @@
    "en": "No, it’s the other side.",
    "note": "반대쪽 = the other side",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아니요",
+     "아니요",
+     "aniyo"
+    ],
+    [
+     "반대쪽",
+     "반대쪽",
+     "bandaejjok"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +130,19 @@
    "note": "Kick: chaos — going in circles",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s3/cut3"
+   "art": "scene/ko/r0_survival_s3/cut3",
+   "lemmas": [
+    [
+     "화장실",
+     "화장실",
+     "hwajangsil"
+    ],
+    [
+     "요",
+     "요",
+     "yo"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +152,19 @@
    "en": "It’s underground. This is the 5th floor.",
    "note": "층 = floor",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "지하",
+     "지하",
+     "jiha"
+    ],
+    [
+     "층",
+     "층",
+     "cheung"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +175,19 @@
    "note": "빨리",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s3/cut4"
+   "art": "scene/ko/r0_survival_s3/cut4",
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "급해",
+     "급하다",
+     "geupada"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +197,24 @@
    "en": "Both the stairs and elevator are blocked.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "계단",
+     "계단",
+     "gyedan"
+    ],
+    [
+     "엘리베이터",
+     "엘리베이터",
+     "ellibeiteo"
+    ],
+    [
+     "막혔",
+     "막히다",
+     "makida"
+    ]
+   ]
   }
  ],
  "review": {

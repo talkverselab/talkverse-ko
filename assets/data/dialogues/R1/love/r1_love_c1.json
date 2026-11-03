@@ -38,7 +38,29 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "art": "scene/ko/r1_love_c1/cut1"
+   "art": "scene/ko/r1_love_c1/cut1",
+   "lemmas": [
+    [
+     "어제",
+     "어제",
+     "eoje"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "재밌",
+     "재밌다",
+     "jaemitda"
+    ],
+    [
+     "들어갔",
+     "들어가다",
+     "deureogada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +71,19 @@
    "note": "너무 좋았어 = I really loved it",
    "tags": [],
    "new": [],
-   "ui": "bubble"
+   "ui": "bubble",
+   "lemmas": [
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +95,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "art": "scene/ko/r1_love_c1/cut2"
+   "art": "scene/ko/r1_love_c1/cut2",
+   "lemmas": [
+    [
+     "하트",
+     "하트",
+     "hateu"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +113,24 @@
    "note": "실수 = mistake · 미끄러졌어 = slipped",
    "tags": [],
    "new": [],
-   "ui": "bubble"
+   "ui": "bubble",
+   "lemmas": [
+    [
+     "실수",
+     "실수",
+     "silsu"
+    ],
+    [
+     "손가락",
+     "손가락",
+     "songarak"
+    ],
+    [
+     "미끄러졌",
+     "미끄러지다",
+     "mikkeureojida"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -84,7 +142,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "art": "scene/ko/r1_love_c1/cut3"
+   "art": "scene/ko/r1_love_c1/cut3",
+   "lemmas": [
+    [
+     "미끄러진",
+     "미끄러지다",
+     "mikkeureojida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -95,7 +160,8 @@
    "note": "repeating = owning it",
    "tags": [],
    "new": [],
-   "ui": "bubble"
+   "ui": "bubble",
+   "lemmas": []
   },
   {
    "num": 7,
@@ -107,7 +173,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "art": "scene/ko/r1_love_c1/cut4"
+   "art": "scene/ko/r1_love_c1/cut4",
+   "lemmas": [
+    [
+     "방",
+     "방",
+     "bang"
+    ],
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "단톡방",
+     "단톡방",
+     "dantokbang"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -118,7 +201,29 @@
    "note": "나갔다 올게 = I'll step out (leave the chat)",
    "tags": [],
    "new": [],
-   "ui": "bubble"
+   "ui": "bubble",
+   "lemmas": [
+    [
+     "봤",
+     "보다",
+     "boda"
+    ],
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "나갔",
+     "나가다",
+     "nagada"
+    ],
+    [
+     "올",
+     "오다",
+     "oda"
+    ]
+   ]
   }
  ],
  "review": {

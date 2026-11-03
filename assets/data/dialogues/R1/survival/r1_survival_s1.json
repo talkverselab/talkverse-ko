@@ -39,7 +39,34 @@
    "note": "two questions at once, fast",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s1/cut1"
+   "art": "scene/ko/r1_survival_s1/cut1",
+   "lemmas": [
+    [
+     "어서",
+     "어서",
+     "eoseo"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ],
+    [
+     "봉투",
+     "봉투",
+     "bongtu"
+    ],
+    [
+     "필요",
+     "필요",
+     "piryo"
+    ],
+    [
+     "데워",
+     "데우다",
+     "deuda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +76,24 @@
    "en": "Sorry, please speak slowly",
    "note": "천천히 말해 주세요 = please speak slowly",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ],
+    [
+     "천천히",
+     "천천히",
+     "cheoncheonhi"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +104,19 @@
    "note": "데워 드릴까요? = shall I heat it for you?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s1/cut2"
+   "art": "scene/ko/r1_survival_s1/cut2",
+   "lemmas": [
+    [
+     "도시락",
+     "도시락",
+     "dosirak"
+    ],
+    [
+     "데워",
+     "데우다",
+     "deuda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +126,19 @@
    "en": "Yes, please",
    "note": "부탁드려요 = please (do it for me)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "부탁",
+     "부탁",
+     "butak"
+    ],
+    [
+     "드려",
+     "드리다",
+     "deurida"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +149,29 @@
    "note": "-이랑 = and · -도 = also",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s1/cut3"
+   "art": "scene/ko/r1_survival_s1/cut3",
+   "lemmas": [
+    [
+     "젓가락",
+     "젓가락",
+     "jeotgarak"
+    ],
+    [
+     "숟가락",
+     "숟가락",
+     "sutgarak"
+    ],
+    [
+     "빨대",
+     "빨대",
+     "ppaldae"
+    ],
+    [
+     "드릴",
+     "드리다",
+     "deurida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +181,14 @@
    "en": "Yes yes… uh, all of them?",
    "note": "Kick: he said yes to everything",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "전부",
+     "전부",
+     "jeonbu"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +199,29 @@
    "note": "Kick: the questions pile up — chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s1/cut4"
+   "art": "scene/ko/r1_survival_s1/cut4",
+   "lemmas": [
+    [
+     "전부",
+     "전부",
+     "jeonbu"
+    ],
+    [
+     "봉투",
+     "봉투",
+     "bongtu"
+    ],
+    [
+     "영수증",
+     "영수증",
+     "yeongsujeung"
+    ],
+    [
+     "적립",
+     "적립",
+     "jeongnip"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +231,29 @@
    "en": "Yes! Yes! Yes! …No, wait! Please say that again!",
    "note": "다시 한 번 말해 주세요 = please say it again — finally",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   }
  ],
  "review": {

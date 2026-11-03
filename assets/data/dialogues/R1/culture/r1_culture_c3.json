@@ -41,7 +41,39 @@
    "new": [],
    "ui": "bubble",
    "at": "22:00",
-   "art": "scene/ko/r1_culture_c3/cut1"
+   "art": "scene/ko/r1_culture_c3/cut1",
+   "lemmas": [
+    [
+     "대박",
+     "대박",
+     "daebak"
+    ],
+    [
+     "마지막",
+     "마지막",
+     "majimak"
+    ],
+    [
+     "봤",
+     "보다",
+     "boda"
+    ],
+    [
+     "남",
+     "남",
+     "nam"
+    ],
+    [
+     "주",
+     "주",
+     "ju"
+    ],
+    [
+     "재벌",
+     "재벌",
+     "jaebeol"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -53,7 +85,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:00"
+   "at": "22:00",
+   "lemmas": [
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ],
+    [
+     "스포",
+     "스포",
+     "seupo"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -66,7 +110,24 @@
    "new": [],
    "ui": "bubble",
    "at": "22:01",
-   "art": "scene/ko/r1_culture_c3/cut2"
+   "art": "scene/ko/r1_culture_c3/cut2",
+   "lemmas": [
+    [
+     "미안",
+     "미안",
+     "mian"
+    ],
+    [
+     "이미",
+     "이미",
+     "imi"
+    ],
+    [
+     "재벌",
+     "재벌",
+     "jaebeol"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -78,7 +139,34 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:01"
+   "at": "22:01",
+   "lemmas": [
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ],
+    [
+     "상실",
+     "상실",
+     "sangsil"
+    ],
+    [
+     "쌍둥이",
+     "쌍둥이",
+     "ssangdungi"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "대박",
+     "대박",
+     "daebak"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -91,7 +179,24 @@
    "new": [],
    "ui": "bubble",
    "at": "22:01",
-   "art": "scene/ko/r1_culture_c3/cut3"
+   "art": "scene/ko/r1_culture_c3/cut3",
+   "lemmas": [
+    [
+     "말",
+     "말",
+     "mal"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "그만",
+     "그만",
+     "geuman"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -103,7 +208,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:02"
+   "at": "22:02",
+   "lemmas": [
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "클리셰",
+     "클리셰",
+     "keullisye"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -116,7 +233,39 @@
    "new": [],
    "ui": "bubble",
    "at": "22:02",
-   "art": "scene/ko/r1_culture_c3/cut4"
+   "art": "scene/ko/r1_culture_c3/cut4",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "알",
+     "알다",
+     "alda"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "톡",
+     "톡",
+     "tok"
+    ],
+    [
+     "난리",
+     "난리",
+     "nalli"
+    ],
+    [
+     "났",
+     "나다",
+     "nada"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -128,7 +277,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:03"
+   "at": "22:03",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "마지막",
+     "마지막",
+     "majimak"
+    ],
+    [
+     "볼",
+     "보다",
+     "boda"
+    ]
+   ]
   }
  ],
  "review": {

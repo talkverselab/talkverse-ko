@@ -38,7 +38,19 @@
    "note": "자리 있어요?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a5/cut1"
+   "art": "scene/ko/r1_study_a5/cut1",
+   "lemmas": [
+    [
+     "저기요",
+     "저기요",
+     "jeogiyo"
+    ],
+    [
+     "자리",
+     "자리",
+     "jari"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +60,19 @@
    "en": "Yes. It's saved.",
    "note": "맡다 = save",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "맡",
+     "맡다",
+     "matda"
+    ],
+    [
+     "자리",
+     "자리",
+     "jari"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +83,19 @@
    "note": "누구",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a5/cut2"
+   "art": "scene/ko/r1_study_a5/cut2",
+   "lemmas": [
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ],
+    [
+     "자리",
+     "자리",
+     "jari"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +105,19 @@
    "en": "It's your seat. I saved it.",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "자리",
+     "자리",
+     "jari"
+    ],
+    [
+     "맡",
+     "맡다",
+     "matda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +128,19 @@
    "note": "제 자리",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a5/cut3"
+   "art": "scene/ko/r1_study_a5/cut3",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "자리",
+     "자리",
+     "jari"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +150,29 @@
    "en": "You come at this time every day. I saved it…",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "매일",
+     "매일",
+     "maeil"
+    ],
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ],
+    [
+     "맡",
+     "맡다",
+     "matda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +183,19 @@
    "note": "공부",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a5/cut4"
+   "art": "scene/ko/r1_study_a5/cut4",
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "공부",
+     "공부",
+     "gongbu"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +205,8 @@
    "en": "Me neither…",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   }
  ],
  "series": "flirt",

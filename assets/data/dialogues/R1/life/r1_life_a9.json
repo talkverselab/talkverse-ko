@@ -40,7 +40,44 @@
    "note": "이사",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a9/cut1"
+   "art": "scene/ko/r1_life_a9/cut1",
+   "lemmas": [
+    [
+     "어머나",
+     "어머나",
+     "eomeona"
+    ],
+    [
+     "새로",
+     "새로",
+     "saero"
+    ],
+    [
+     "이사",
+     "이사",
+     "isa"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ],
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ],
+    [
+     "어서",
+     "어서",
+     "eoseo"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +87,14 @@
    "en": "Yes, hello. I'm {name} from 1203.",
    "note": "호",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "안녕",
+     "안녕",
+     "annyeong"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +105,19 @@
    "note": "callback",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a9/cut2"
+   "art": "scene/ko/r1_life_a9/cut2",
+   "lemmas": [
+    [
+     "차",
+     "차",
+     "cha"
+    ],
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +127,34 @@
    "en": "The house using \"iloveyou\" for the Wi-Fi password, right? We all know.",
    "note": "callback",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "와이파이",
+     "와이파이",
+     "waipai"
+    ],
+    [
+     "비밀번호",
+     "비밀번호",
+     "bimilbeonho"
+    ],
+    [
+     "쓰",
+     "쓰다",
+     "sseuda"
+    ],
+    [
+     "집",
+     "집",
+     "jip"
+    ],
+    [
+     "알",
+     "알다",
+     "alda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +165,19 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a9/cut3"
+   "art": "scene/ko/r1_life_a9/cut3",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "아",
+     "알다",
+     "alda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +187,34 @@
    "en": "Yeah, word got around that you're the student who looks after the dog.",
    "note": "소문",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ],
+    [
+     "봐",
+     "보다",
+     "boda"
+    ],
+    [
+     "학생",
+     "학생",
+     "haksaeng"
+    ],
+    [
+     "소문",
+     "소문",
+     "somun"
+    ],
+    [
+     "났",
+     "나다",
+     "nada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +225,44 @@
    "note": "안건",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a9/cut4"
+   "art": "scene/ko/r1_life_a9/cut4",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "학생",
+     "학생",
+     "haksaeng"
+    ],
+    [
+     "반찬",
+     "반찬",
+     "banchan"
+    ],
+    [
+     "당번",
+     "당번",
+     "dangbeon"
+    ],
+    [
+     "집",
+     "집",
+     "jip"
+    ],
+    [
+     "아랫집",
+     "아랫집",
+     "araetjip"
+    ],
+    [
+     "가져오",
+     "가져오다",
+     "gajyeooda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +272,24 @@
    "en": "Thank you. But I already have like twenty containers of side dishes.",
    "note": "punchline callback",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "이미",
+     "이미",
+     "imi"
+    ],
+    [
+     "반찬",
+     "반찬",
+     "banchan"
+    ]
+   ]
   }
  ],
  "review": {

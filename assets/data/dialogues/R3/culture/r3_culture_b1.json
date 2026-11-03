@@ -39,7 +39,14 @@
    "note": "다음 분 = next person",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b1/cut1"
+   "art": "scene/ko/r3_culture_b1/cut1",
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +56,34 @@
    "en": "I memorized it, I always support you, take care of your health",
    "note": "응원하다 = to cheer for",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "외웠",
+     "외우다",
+     "oeuda"
+    ],
+    [
+     "항상",
+     "항상",
+     "hangsang"
+    ],
+    [
+     "응원",
+     "응원",
+     "eungwon"
+    ],
+    [
+     "건강",
+     "건강",
+     "geongang"
+    ],
+    [
+     "챙기",
+     "챙기다",
+     "chaenggida"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +94,19 @@
    "note": "이름 = name",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b1/cut2"
+   "art": "scene/ko/r3_culture_b1/cut2",
+   "lemmas": [
+    [
+     "안녕",
+     "안녕",
+     "annyeong"
+    ],
+    [
+     "이름",
+     "이름",
+     "ireum"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +116,8 @@
    "en": "…Yes",
    "note": "Kick: brain empty",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 5,
@@ -81,7 +128,14 @@
    "note": "-이에요? = is it?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b1/cut3"
+   "art": "scene/ko/r3_culture_b1/cut3",
+   "lemmas": [
+    [
+     "이름",
+     "이름",
+     "ireum"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +145,24 @@
    "en": "Ugh… it's {name}! Sorry I forgot everything",
    "note": "까먹다 = to forget (slang)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ],
+    [
+     "까먹",
+     "까먹다",
+     "kkameokda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +173,24 @@
    "note": "천천히 = slowly — callback S1",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b1/cut4"
+   "art": "scene/ko/r3_culture_b1/cut4",
+   "lemmas": [
+    [
+     "까먹",
+     "까먹다",
+     "kkameokda"
+    ],
+    [
+     "천천히",
+     "천천히",
+     "cheoncheonhi"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +200,24 @@
    "en": "I always… cheer for… your health",
    "note": "mixed-up sentence",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "항상",
+     "항상",
+     "hangsang"
+    ],
+    [
+     "건강",
+     "건강",
+     "geongang"
+    ],
+    [
+     "응원",
+     "응원",
+     "eungwon"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -123,7 +228,29 @@
    "note": "어느 나라 = which country",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b1/cut5"
+   "art": "scene/ko/r3_culture_b1/cut5",
+   "lemmas": [
+    [
+     "건강",
+     "건강",
+     "geongang"
+    ],
+    [
+     "응원",
+     "응원",
+     "eungwon"
+    ],
+    [
+     "나라",
+     "나라",
+     "nara"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -133,7 +260,19 @@
    "en": "{country}, I've been learning Korean for two years",
    "note": "-ㄴ 지 2년 = it's been two years since",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "한국어",
+     "한국어",
+     "hangugeo"
+    ],
+    [
+     "배운",
+     "배우다",
+     "baeuda"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -144,7 +283,39 @@
    "note": "포스트잇 = the question sticky note fans prepare",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b1/cut6"
+   "art": "scene/ko/r3_culture_b1/cut6",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "포스트잇",
+     "포스트잇",
+     "poseuteuit"
+    ],
+    [
+     "질문",
+     "질문",
+     "jilmun"
+    ],
+    [
+     "볼",
+     "보다",
+     "boda"
+    ],
+    [
+     "음식",
+     "음식",
+     "eumsik"
+    ],
+    [
+     "떡볶이",
+     "떡볶이",
+     "tteokbokki"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -154,7 +325,14 @@
    "en": "10 seconds left",
    "note": "남다 = remain",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "남",
+     "남다",
+     "namda"
+    ]
+   ]
   },
   {
    "num": 13,
@@ -165,7 +343,29 @@
    "note": "panic",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b1/cut7"
+   "art": "scene/ko/r3_culture_b1/cut7",
+   "lemmas": [
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "사인",
+     "사인",
+     "sain"
+    ],
+    [
+     "아니",
+     "아니",
+     "ani"
+    ]
+   ]
   },
   {
    "num": 14,
@@ -175,7 +375,34 @@
    "en": "Come again, next time start with your name",
    "note": "손 하트 = finger heart",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ],
+    [
+     "그때",
+     "그때",
+     "geuttae"
+    ],
+    [
+     "이름",
+     "이름",
+     "ireum"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 15,
@@ -186,7 +413,19 @@
    "note": "잊어 주세요 = please forget",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b1/cut8"
+   "art": "scene/ko/r3_culture_b1/cut8",
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "잊",
+     "잊다",
+     "itda"
+    ]
+   ]
   },
   {
    "num": 16,
@@ -196,7 +435,14 @@
    "en": "Next!",
    "note": "90 seconds, gone",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ]
+   ]
   }
  ],
  "review": {

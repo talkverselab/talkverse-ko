@@ -39,7 +39,19 @@
    "note": "리모컨 = remote",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a4/cut1"
+   "art": "scene/ko/r1_life_a4/cut1",
+   "lemmas": [
+    [
+     "리모컨",
+     "리모컨",
+     "rimokeon"
+    ],
+    [
+     "갔",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +61,14 @@
    "en": "Should be on the sofa. Not there?",
    "note": "소파",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "소파",
+     "소파",
+     "sopa"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +79,14 @@
    "note": "덥다 = hot",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a4/cut2"
+   "art": "scene/ko/r1_life_a4/cut2",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +96,24 @@
    "en": "Wait, open the fridge.",
    "note": "냉장고",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "냉장고",
+     "냉장고",
+     "naengjanggo"
+    ],
+    [
+     "열",
+     "열다",
+     "yeolda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +124,19 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a4/cut3"
+   "art": "scene/ko/r1_life_a4/cut3",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +146,34 @@
    "en": "I think I put it in with the ice cream and pizza yesterday.",
    "note": "-나 봐 = must have",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "어제",
+     "어제",
+     "eoje"
+    ],
+    [
+     "아이스크림",
+     "아이스크림",
+     "aiseukeurim"
+    ],
+    [
+     "피자",
+     "피자",
+     "pija"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "넣",
+     "넣다",
+     "neota"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +184,19 @@
    "note": "Kick 2",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a4/cut4"
+   "art": "scene/ko/r1_life_a4/cut4",
+   "lemmas": [
+    [
+     "아이스크림",
+     "아이스크림",
+     "aiseukeurim"
+    ],
+    [
+     "피자",
+     "피자",
+     "pija"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +206,19 @@
    "en": "Ugh whatever… they’re probably all on the sofa.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "소파",
+     "소파",
+     "sopa"
+    ]
+   ]
   }
  ],
  "review": {

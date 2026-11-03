@@ -41,7 +41,24 @@
    "note": "어떻게 가요? = how do I get to",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s4/cut1"
+   "art": "scene/ko/r1_survival_s4/cut1",
+   "lemmas": [
+    [
+     "저기",
+     "저기",
+     "jeogi"
+    ],
+    [
+     "광장시장",
+     "광장시장",
+     "gwangjangsijang"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +68,19 @@
    "en": "Go straight that way, 10 minutes.",
    "note": "쭉 = straight",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "쭉",
+     "쭉",
+     "jjuk"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +91,29 @@
    "note": "정거장 = stop",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s4/cut2"
+   "art": "scene/ko/r1_survival_s4/cut2",
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "지하철",
+     "지하철",
+     "jihacheol"
+    ],
+    [
+     "타",
+     "타다",
+     "tada"
+    ],
+    [
+     "정거장",
+     "정거장",
+     "jeonggeojang"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +123,24 @@
    "en": "What are you talking about, the bus is faster.",
    "note": "빠르다 = fast",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "소리",
+     "소리",
+     "sori"
+    ],
+    [
+     "버스",
+     "버스",
+     "beoseu"
+    ],
+    [
+     "빨",
+     "빠르다",
+     "ppareuda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +151,24 @@
    "note": "Kick: they argue — chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s4/cut3"
+   "art": "scene/ko/r1_survival_s4/cut3",
+   "lemmas": [
+    [
+     "버스",
+     "버스",
+     "beoseu"
+    ],
+    [
+     "막혀",
+     "막히다",
+     "makida"
+    ],
+    [
+     "걸어가",
+     "걸어가다",
+     "georeogada"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +178,24 @@
    "en": "I'm not sure, please say it again.",
    "note": "다시 한 번",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "모르",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +206,14 @@
    "note": "데려다주다 = take someone to",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s4/cut4"
+   "art": "scene/ko/r1_survival_s4/cut4",
+   "lemmas": [
+    [
+     "데려",
+     "데리다",
+     "derida"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +223,14 @@
    "en": "All three of you? Thank you!",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   }
  ],
  "review": {

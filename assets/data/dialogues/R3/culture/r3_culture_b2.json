@@ -41,7 +41,39 @@
    "note": "엑스트라 = extra (actor)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b2/cut1"
+   "art": "scene/ko/r3_culture_b2/cut1",
+   "lemmas": [
+    [
+     "엑스트라",
+     "엑스트라",
+     "ekseuteura"
+    ],
+    [
+     "모이",
+     "모이다",
+     "moida"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "비",
+     "비",
+     "bi"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ],
+    [
+     "장면",
+     "장면",
+     "jangmyeon"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +83,29 @@
    "en": "Rain? The weather is clear today.",
    "note": "맑다 = clear",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "비",
+     "비",
+     "bi"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "날씨",
+     "날씨",
+     "nalssi"
+    ],
+    [
+     "맑",
+     "맑다",
+     "makda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +116,34 @@
    "note": "행인 = passerby",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b2/cut2"
+   "art": "scene/ko/r3_culture_b2/cut2",
+   "lemmas": [
+    [
+     "살수차",
+     "살수차",
+     "salsucha"
+    ],
+    [
+     "뿌려",
+     "뿌리다",
+     "ppurida"
+    ],
+    [
+     "우산",
+     "우산",
+     "usan"
+    ],
+    [
+     "없이",
+     "없이",
+     "eopsi"
+    ],
+    [
+     "지나가",
+     "지나가다",
+     "jinagada"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +153,24 @@
    "en": "Without an umbrella? Then I'll get wet.",
    "note": "젖다 = get wet",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "우산",
+     "우산",
+     "usan"
+    ],
+    [
+     "없이",
+     "없이",
+     "eopsi"
+    ],
+    [
+     "젖",
+     "젖다",
+     "jeotda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +181,44 @@
    "note": "씌워 주다 = cover (someone) with",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b2/cut3"
+   "art": "scene/ko/r3_culture_b2/cut3",
+   "lemmas": [
+    [
+     "포인트",
+     "포인트",
+     "pointeu"
+    ],
+    [
+     "주인공",
+     "주인공",
+     "juingong"
+    ],
+    [
+     "우산",
+     "우산",
+     "usan"
+    ],
+    [
+     "씌워",
+     "씌우다",
+     "ssuiuda"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ],
+    [
+     "옆",
+     "옆",
+     "yeop"
+    ],
+    [
+     "지나가",
+     "지나가다",
+     "jinagada"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +228,14 @@
    "en": "Ready, action!",
    "note": "감독 = director",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "레디, 액션!",
+     "레디, 액션!",
+     "redi, aeksyeon!"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +246,14 @@
    "note": "Kick setup",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b2/cut4"
+   "art": "scene/ko/r3_culture_b2/cut4",
+   "lemmas": [
+    [
+     "으악",
+     "으악",
+     "euak"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +263,14 @@
    "en": "(the lead, by reflex, holds the umbrella over A) Are you okay?",
    "note": "Kick: wrong person",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -125,7 +281,34 @@
    "note": "어떡해요 = what are you doing",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b2/cut5"
+   "art": "scene/ko/r3_culture_b2/cut5",
+   "lemmas": [
+    [
+     "컷",
+     "컷",
+     "keot"
+    ],
+    [
+     "컷",
+     "컷",
+     "keot"
+    ],
+    [
+     "우산",
+     "우산",
+     "usan"
+    ],
+    [
+     "씌우",
+     "씌우다",
+     "ssuiuda"
+    ],
+    [
+     "어떡해",
+     "어떡하다",
+     "eotteokada"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -135,7 +318,24 @@
    "en": "I'm sorry! I'm really sorry!",
    "note": "죄송합니다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ],
+    [
+     "정말",
+     "정말",
+     "jeongmal"
+    ],
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -146,7 +346,29 @@
    "note": "괜찮다 = not bad",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b2/cut6"
+   "art": "scene/ko/r3_culture_b2/cut6",
+   "lemmas": [
+    [
+     "방금",
+     "방금",
+     "banggeum"
+    ],
+    [
+     "장면",
+     "장면",
+     "jangmyeon"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -156,7 +378,24 @@
    "en": "...Hold on. Let me look again.",
    "note": "다시 보다 = review",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "봐",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 13,
@@ -167,7 +406,19 @@
    "note": "케미 = chemistry",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b2/cut7"
+   "art": "scene/ko/r3_culture_b2/cut7",
+   "lemmas": [
+    [
+     "케미",
+     "케미",
+     "kemi"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   },
   {
    "num": 14,
@@ -177,7 +428,19 @@
    "en": "{name}, I'll give you a line. Can you say \"…thank you\"?",
    "note": "대사 = line",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "대사",
+     "대사",
+     "daesa"
+    ],
+    [
+     "줄",
+     "주다",
+     "juda"
+    ]
+   ]
   },
   {
    "num": 15,
@@ -188,7 +451,8 @@
    "note": "his first line",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b2/cut8"
+   "art": "scene/ko/r3_culture_b2/cut8",
+   "lemmas": []
   },
   {
    "num": 16,
@@ -198,7 +462,29 @@
    "en": "Okay. Promoted from Passerby 2 to \"The Umbrella Person.\"",
    "note": "승진 = promotion",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "오케이",
+     "오케이",
+     "okei"
+    ],
+    [
+     "우산",
+     "우산",
+     "usan"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ],
+    [
+     "승진",
+     "승진",
+     "seungjin"
+    ]
+   ]
   }
  ],
  "review": {

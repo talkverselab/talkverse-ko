@@ -38,7 +38,14 @@
    "note": "발표 = presentation",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_study_a2/cut1"
+   "art": "scene/ko/r0_study_a2/cut1",
+   "lemmas": [
+    [
+     "발표",
+     "발표",
+     "balpyo"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +55,14 @@
    "en": "Yes, hello.",
    "note": "start",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "안녕",
+     "안녕",
+     "annyeong"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +73,19 @@
    "note": "안 들려요 = can't hear",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_study_a2/cut2"
+   "art": "scene/ko/r0_study_a2/cut2",
+   "lemmas": [
+    [
+     "소리",
+     "소리",
+     "sori"
+    ],
+    [
+     "들려",
+     "들리다",
+     "deullida"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +95,19 @@
    "en": "Can you hear? Meow...",
    "note": "Kick: the cat — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "들려",
+     "들리다",
+     "deullida"
+    ],
+    [
+     "야옹",
+     "야옹",
+     "yaong"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +118,19 @@
    "note": "-만 = only",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_study_a2/cut3"
+   "art": "scene/ko/r0_study_a2/cut3",
+   "lemmas": [
+    [
+     "고양이",
+     "고양이",
+     "goyangi"
+    ],
+    [
+     "들려",
+     "들리다",
+     "deullida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +140,24 @@
    "en": "Wait, the cat's on the keyboard...",
    "note": "키보드 = keyboard",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "키보드",
+     "키보드",
+     "kibodeu"
+    ],
+    [
+     "고양이",
+     "고양이",
+     "goyangi"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +168,19 @@
    "note": "꺼지다 = turn off",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_study_a2/cut4"
+   "art": "scene/ko/r0_study_a2/cut4",
+   "lemmas": [
+    [
+     "화면",
+     "화면",
+     "hwamyeon"
+    ],
+    [
+     "꺼졌",
+     "꺼지다",
+     "kkeojida"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +190,24 @@
    "en": "Sorry, the cat presented...",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "죄송합",
+     "죄송하다",
+     "joesonghada"
+    ],
+    [
+     "고양이",
+     "고양이",
+     "goyangi"
+    ],
+    [
+     "발표",
+     "발표",
+     "balpyo"
+    ]
+   ]
   }
  ],
  "review": {

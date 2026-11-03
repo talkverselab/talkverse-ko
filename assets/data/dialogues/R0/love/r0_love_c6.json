@@ -40,7 +40,19 @@
    "new": [],
    "ui": "bubble",
    "at": "22:10",
-   "art": "scene/ko/r0_love_c6/cut1"
+   "art": "scene/ko/r0_love_c6/cut1",
+   "lemmas": [
+    [
+     "집",
+     "집",
+     "jip"
+    ],
+    [
+     "도착",
+     "도착",
+     "dochak"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -52,7 +64,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:11"
+   "at": "22:11",
+   "lemmas": [
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ],
+    [
+     "버스",
+     "버스",
+     "beoseu"
+    ],
+    [
+     "타",
+     "타다",
+     "tada"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -65,7 +94,14 @@
    "new": [],
    "ui": "bubble",
    "at": "22:15",
-   "art": "scene/ko/r0_love_c6/cut2"
+   "art": "scene/ko/r0_love_c6/cut2",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -77,7 +113,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:15"
+   "at": "22:15",
+   "lemmas": [
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ],
+    [
+     "버스",
+     "버스",
+     "beoseu"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -90,7 +138,14 @@
    "new": [],
    "ui": "bubble",
    "at": "22:16",
-   "art": "scene/ko/r0_love_c6/cut3"
+   "art": "scene/ko/r0_love_c6/cut3",
+   "lemmas": [
+    [
+     "보",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -102,7 +157,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:16"
+   "at": "22:16",
+   "lemmas": [
+    [
+     "전",
+     "전",
+     "jeon"
+    ],
+    [
+     "봤",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -115,7 +182,19 @@
    "new": [],
    "ui": "bubble",
    "at": "22:17",
-   "art": "scene/ko/r0_love_c6/cut4"
+   "art": "scene/ko/r0_love_c6/cut4",
+   "lemmas": [
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "길",
+     "길다",
+     "gilda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -127,7 +206,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:17"
+   "at": "22:17",
+   "lemmas": [
+    [
+     "자",
+     "자다",
+     "jada"
+    ]
+   ]
   }
  ],
  "learner_gender": "M",

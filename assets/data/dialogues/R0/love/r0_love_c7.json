@@ -40,7 +40,19 @@
    "new": [],
    "ui": "bubble",
    "at": "21:40",
-   "art": "scene/ko/r0_love_c7/cut1"
+   "art": "scene/ko/r0_love_c7/cut1",
+   "lemmas": [
+    [
+     "집",
+     "집",
+     "jip"
+    ],
+    [
+     "들어갔",
+     "들어가다",
+     "deureogada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -52,7 +64,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "21:41"
+   "at": "21:41",
+   "lemmas": [
+    [
+     "방금",
+     "방금",
+     "banggeum"
+    ],
+    [
+     "도착",
+     "도착",
+     "dochak"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -65,7 +89,14 @@
    "new": [],
    "ui": "bubble",
    "at": "21:41",
-   "art": "scene/ko/r0_love_c7/cut2"
+   "art": "scene/ko/r0_love_c7/cut2",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -77,7 +108,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "21:42"
+   "at": "21:42",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "재밌",
+     "재밌다",
+     "jaemitda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -90,7 +133,24 @@
    "new": [],
    "ui": "bubble",
    "at": "21:43",
-   "art": "scene/ko/r0_love_c7/cut3"
+   "art": "scene/ko/r0_love_c7/cut3",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "예뻤",
+     "예쁘다",
+     "yeppeuda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -102,7 +162,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "21:45"
+   "at": "21:45",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -115,7 +182,19 @@
    "new": [],
    "ui": "bubble",
    "at": "21:45",
-   "art": "scene/ko/r0_love_c7/cut4"
+   "art": "scene/ko/r0_love_c7/cut4",
+   "lemmas": [
+    [
+     "답장",
+     "답장",
+     "dapjang"
+    ],
+    [
+     "걸렸",
+     "걸리다",
+     "geollida"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -127,7 +206,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "21:45"
+   "at": "21:45",
+   "lemmas": [
+    [
+     "심장",
+     "심장",
+     "simjang"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "뛰",
+     "뛰다",
+     "ttwida"
+    ]
+   ]
   }
  ],
  "learner_gender": "F",

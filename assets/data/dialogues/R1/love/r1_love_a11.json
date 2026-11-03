@@ -38,7 +38,19 @@
    "note": "비밀번호 = password",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a11/cut1"
+   "art": "scene/ko/r1_love_a11/cut1",
+   "lemmas": [
+    [
+     "폰",
+     "폰",
+     "pon"
+    ],
+    [
+     "비번",
+     "비버",
+     "bibeo"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +60,19 @@
    "en": "Why are you asking? It’s a secret.",
    "note": "비밀",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "비밀",
+     "비밀",
+     "bimil"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +83,19 @@
    "note": "숨기다 = hide",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a11/cut2"
+   "art": "scene/ko/r1_love_a11/cut2",
+   "lemmas": [
+    [
+     "설마",
+     "설마",
+     "seolma"
+    ],
+    [
+     "숨기",
+     "숨기다",
+     "sumgida"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +105,19 @@
    "en": "No. I just don’t tell people.",
    "note": "그냥",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아니야",
+     "아니야",
+     "aniya"
+    ],
+    [
+     "알려",
+     "알리다",
+     "allida"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +128,14 @@
    "note": "her guess",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a11/cut3"
+   "art": "scene/ko/r1_love_a11/cut3",
+   "lemmas": [
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +145,19 @@
    "en": "Whoa really… how did you know?",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "알",
+     "알다",
+     "alda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +168,24 @@
    "note": "심쿵: he used their day",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a11/cut4"
+   "art": "scene/ko/r1_love_a11/cut4",
+   "lemmas": [
+    [
+     "처음",
+     "처음",
+     "cheoeum"
+    ],
+    [
+     "만난",
+     "만나다",
+     "mannada"
+    ],
+    [
+     "날",
+     "날",
+     "nal"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +195,24 @@
    "en": "…Busted. Does it make you happy?",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "들켰",
+     "들키다",
+     "deulkida"
+    ],
+    [
+     "기분",
+     "기분",
+     "gibun"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   }
  ],
  "learner_gender": "M",

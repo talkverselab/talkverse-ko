@@ -38,7 +38,14 @@
    "note": "네 거 = yours",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a14/cut1"
+   "art": "scene/ko/r0_love_a14/cut1",
+   "lemmas": [
+    [
+     "맛있",
+     "맛있다",
+     "masitda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +55,19 @@
    "en": "Yeah, really good.",
    "note": "맛 = flavor",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "맛있",
+     "맛있다",
+     "masitda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +78,19 @@
    "note": "한 입",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a14/cut2"
+   "art": "scene/ko/r0_love_a14/cut2",
+   "lemmas": [
+    [
+     "입",
+     "입",
+     "ip"
+    ],
+    [
+     "줘",
+     "주다",
+     "juda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +100,14 @@
    "en": "Huh? Sure, go ahead.",
    "note": "먹어",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +118,19 @@
    "note": "심쿵: same spoon",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a14/cut3"
+   "art": "scene/ko/r0_love_a14/cut3",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "맛있",
+     "맛있다",
+     "masitda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +140,14 @@
    "en": "Whoa, my spoon…",
    "note": "숟가락 = spoon",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "숟가락",
+     "숟가락",
+     "sutgarak"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +158,19 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a14/cut4"
+   "art": "scene/ko/r0_love_a14/cut4",
+   "lemmas": [
+    [
+     "알",
+     "알다",
+     "alda"
+    ],
+    [
+     "일부러",
+     "일부러",
+     "ilbureo"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +180,8 @@
    "en": "Then me too yours…",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   }
  ],
  "series": "flirt",

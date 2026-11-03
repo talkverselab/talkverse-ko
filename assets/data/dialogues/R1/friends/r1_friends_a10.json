@@ -39,7 +39,19 @@
    "note": "다이어트",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a10/cut1"
+   "art": "scene/ko/r1_friends_a10/cut1",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "다이어트",
+     "다이어트",
+     "daieoteu"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +61,29 @@
    "en": "Okay. Chicken's seriously off-limits.",
    "note": "금지",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "오케이",
+     "오케이",
+     "okei"
+    ],
+    [
+     "치킨",
+     "치킨",
+     "chikin"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "금지",
+     "금지",
+     "geumji"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +94,19 @@
    "note": "배고프다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a10/cut2"
+   "art": "scene/ko/r1_friends_a10/cut2",
+   "lemmas": [
+    [
+     "배고파",
+     "배고프다",
+     "baegopeuda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +116,29 @@
    "en": "Hold it? I already opened the app.",
    "note": "참다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "참",
+     "참다",
+     "chamda"
+    ],
+    [
+     "이미",
+     "이미",
+     "imi"
+    ],
+    [
+     "앱",
+     "앱",
+     "aep"
+    ],
+    [
+     "켰",
+     "켜다",
+     "kyeoda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +149,14 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a10/cut3"
+   "art": "scene/ko/r1_friends_a10/cut3",
+   "lemmas": [
+    [
+     "시켰",
+     "시키다",
+     "sikida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +166,19 @@
    "en": "…Me. Two chickens plus sides…",
    "note": "reveal",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "치킨",
+     "치킨",
+     "chikin"
+    ],
+    [
+     "사이드",
+     "사이드",
+     "saideu"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +189,14 @@
    "note": "몇 시간",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a10/cut4"
+   "art": "scene/ko/r1_friends_a10/cut4",
+   "lemmas": [
+    [
+     "다이어트",
+     "다이어트",
+     "daieoteu"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +206,34 @@
    "en": "Ugh, whatever. For real starting tomorrow. Another delivery just came.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "배달",
+     "배달",
+     "baedal"
+    ],
+    [
+     "온",
+     "오다",
+     "oda"
+    ]
+   ]
   }
  ],
  "review": {

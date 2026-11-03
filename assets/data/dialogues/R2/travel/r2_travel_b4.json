@@ -39,7 +39,34 @@
    "note": "들어가다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b4/cut1"
+   "art": "scene/ko/r2_travel_b4/cut1",
+   "lemmas": [
+    [
+     "이제",
+     "이제",
+     "ije"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "들어가",
+     "들어가다",
+     "deureogada"
+    ],
+    [
+     "눈물",
+     "눈물",
+     "nunmul"
+    ],
+    [
+     "날",
+     "나다",
+     "nada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +76,19 @@
    "en": "Yeah… have a good trip.",
    "note": "잘 다녀와",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "그래",
+     "그래",
+     "geurae"
+    ],
+    [
+     "다녀와",
+     "다녀오다",
+     "danyeooda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +99,24 @@
    "note": "울다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b4/cut2"
+   "art": "scene/ko/r2_travel_b4/cut2",
+   "lemmas": [
+    [
+     "울",
+     "울다",
+     "ulda"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "참",
+     "참다",
+     "chamda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +126,24 @@
    "en": "I’m not crying. Something just got in my eye.",
    "note": "classic",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "울",
+     "울다",
+     "ulda"
+    ],
+    [
+     "눈",
+     "눈",
+     "nun"
+    ],
+    [
+     "들어갔",
+     "들어가다",
+     "deureogada"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +154,24 @@
    "note": "금방",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b4/cut3"
+   "art": "scene/ko/r2_travel_b4/cut3",
+   "lemmas": [
+    [
+     "금방",
+     "금방",
+     "geumbang"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ],
+    [
+     "지내",
+     "지내다",
+     "jinaeda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +181,19 @@
    "en": "That’s 365 days. Is it really gonna fly by?",
    "note": "숫자",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "금방",
+     "금방",
+     "geumbang"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +204,34 @@
    "note": "시차",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b4/cut4"
+   "art": "scene/ko/r2_travel_b4/cut4",
+   "lemmas": [
+    [
+     "매일",
+     "매일",
+     "maeil"
+    ],
+    [
+     "영상",
+     "영상",
+     "yeongsang"
+    ],
+    [
+     "통화",
+     "통화",
+     "tonghwa"
+    ],
+    [
+     "시차",
+     "시차",
+     "sicha"
+    ],
+    [
+     "맞출",
+     "맞추다",
+     "matchuda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +241,24 @@
    "en": "Yeah. I’ll set an alarm. Don’t forget.",
    "note": "callback 알람",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "알람",
+     "알람",
+     "allam"
+    ],
+    [
+     "맞춰",
+     "맞추다",
+     "matchuda"
+    ],
+    [
+     "잊",
+     "잊다",
+     "itda"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -123,7 +269,29 @@
    "note": "심쿵 setup",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b4/cut5"
+   "art": "scene/ko/r2_travel_b4/cut5",
+   "lemmas": [
+    [
+     "비행기",
+     "비행기",
+     "bihaenggi"
+    ],
+    [
+     "타",
+     "타다",
+     "tada"
+    ],
+    [
+     "열",
+     "열다",
+     "yeolda"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -133,7 +301,19 @@
    "en": "I was gonna give this to you. You prepared one too?",
    "note": "reveal",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "주",
+     "주다",
+     "juda"
+    ],
+    [
+     "준비",
+     "준비",
+     "junbi"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -144,7 +324,29 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b4/cut6"
+   "art": "scene/ko/r2_travel_b4/cut6",
+   "lemmas": [
+    [
+     "똑같",
+     "똑같다",
+     "ttokgatda"
+    ],
+    [
+     "편지",
+     "편지",
+     "pyeonji"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "드라마",
+     "드라마",
+     "deurama"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -154,7 +356,24 @@
    "en": "I’ll wait right here in a year. For sure.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ],
+    [
+     "기다릴",
+     "기다리다",
+     "gidarida"
+    ],
+    [
+     "꼭",
+     "꼭",
+     "kkok"
+    ]
+   ]
   }
  ],
  "learner_gender": "M",

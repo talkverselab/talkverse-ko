@@ -40,7 +40,19 @@
    "note": "캐리어 = suitcase",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a3/cut1"
+   "art": "scene/ko/r1_travel_a3/cut1",
+   "lemmas": [
+    [
+     "찾",
+     "찾다",
+     "chatda"
+    ],
+    [
+     "캐리어",
+     "캐리어",
+     "kaerieo"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +62,14 @@
    "en": "Wait, I think that's mine.",
    "note": "제 거 = mine",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +80,14 @@
    "note": "열다 = open",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a3/cut2"
+   "art": "scene/ko/r1_travel_a3/cut2",
+   "lemmas": [
+    [
+     "열",
+     "열다",
+     "yeolda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +97,14 @@
    "en": "There's kimchi inside, it's mine.",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "김치",
+     "김치",
+     "gimchi"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +115,14 @@
    "note": "저기 = over there",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a3/cut3"
+   "art": "scene/ko/r1_travel_a3/cut3",
+   "lemmas": [
+    [
+     "죄송합",
+     "죄송하다",
+     "joesonghada"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +132,14 @@
    "en": "Whose is this, mine got switched too!",
    "note": "Kick: everyone swaps — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "바뀌",
+     "바뀌다",
+     "bakkwida"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +150,19 @@
    "note": "검은색 = black",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a3/cut4"
+   "art": "scene/ko/r1_travel_a3/cut4",
+   "lemmas": [
+    [
+     "검은색",
+     "검은색",
+     "geomeunsaek"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +172,29 @@
    "en": "Next time I'll buy a pink suitcase.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "핑크",
+     "핑크",
+     "pingkeu"
+    ],
+    [
+     "캐리어",
+     "캐리어",
+     "kaerieo"
+    ],
+    [
+     "살",
+     "사다",
+     "sada"
+    ]
+   ]
   }
  ],
  "review": {

@@ -40,7 +40,39 @@
    "note": "당첨",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b5/cut1"
+   "art": "scene/ko/r2_culture_b5/cut1",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "팬싸",
+     "팬싸",
+     "paenssa"
+    ],
+    [
+     "당첨",
+     "당첨",
+     "dangcheom"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "운",
+     "운",
+     "un"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +82,14 @@
    "en": "For real? When is it?",
    "note": "언제",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +100,39 @@
    "note": "날짜",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b5/cut2"
+   "art": "scene/ko/r2_culture_b5/cut2",
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "주",
+     "주",
+     "ju"
+    ],
+    [
+     "화요일",
+     "화요일",
+     "hwayoil"
+    ],
+    [
+     "기대",
+     "기대",
+     "gidae"
+    ],
+    [
+     "잠",
+     "잠",
+     "jam"
+    ],
+    [
+     "올",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +142,29 @@
    "en": "Um… isn't that your final exam day?",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "날",
+     "날",
+     "nal"
+    ],
+    [
+     "기말",
+     "기말",
+     "gimal"
+    ],
+    [
+     "고사",
+     "고사",
+     "gosa"
+    ],
+    [
+     "날",
+     "날",
+     "nal"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +175,19 @@
    "note": "몇 시",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b5/cut3"
+   "art": "scene/ko/r2_culture_b5/cut3",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "시험",
+     "시험",
+     "siheom"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +197,8 @@
    "en": "From 1 to 3.",
    "note": "시간",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 7,
@@ -103,7 +209,44 @@
    "note": "Kick: chaos plan",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b5/cut4"
+   "art": "scene/ko/r2_culture_b5/cut4",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "풀",
+     "풀다",
+     "pulda"
+    ],
+    [
+     "바로",
+     "바로",
+     "baro"
+    ],
+    [
+     "뛰어갈",
+     "뛰어가다",
+     "ttwieogada"
+    ],
+    [
+     "늦",
+     "늦다",
+     "neutda"
+    ],
+    [
+     "큰일",
+     "큰일",
+     "keunil"
+    ],
+    [
+     "나",
+     "나다",
+     "nada"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +256,64 @@
    "en": "Late submissions lose points. Leaving early is fine, but once you leave you can't come back in.",
    "note": "reveal",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "이번",
+     "이번",
+     "ibeon"
+    ],
+    [
+     "시험",
+     "시험",
+     "siheom"
+    ],
+    [
+     "늦",
+     "늦다",
+     "neutda"
+    ],
+    [
+     "내",
+     "내다",
+     "naeda"
+    ],
+    [
+     "감점",
+     "감점",
+     "gamjeom"
+    ],
+    [
+     "일찍",
+     "일찍",
+     "iljjik"
+    ],
+    [
+     "내",
+     "내다",
+     "naeda"
+    ],
+    [
+     "자유",
+     "자유",
+     "jayu"
+    ],
+    [
+     "나가",
+     "나가다",
+     "nagada"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "들어와",
+     "들어오다",
+     "deureooda"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -124,7 +324,34 @@
    "note": "logic",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b5/cut5"
+   "art": "scene/ko/r2_culture_b5/cut5",
+   "lemmas": [
+    [
+     "일찍",
+     "일찍",
+     "iljjik"
+    ],
+    [
+     "내",
+     "내다",
+     "naeda"
+    ],
+    [
+     "바로",
+     "바로",
+     "baro"
+    ],
+    [
+     "튀",
+     "튀다",
+     "twida"
+    ],
+    [
+     "딱",
+     "딱",
+     "ttak"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -134,7 +361,29 @@
    "en": "But what about your grade? What if you lose points.",
    "note": "점수",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "점수",
+     "점수",
+     "jeomsu"
+    ],
+    [
+     "어떡해",
+     "어떡하다",
+     "eotteokada"
+    ],
+    [
+     "감점",
+     "감점",
+     "gamjeom"
+    ],
+    [
+     "어쩌",
+     "어쩌다",
+     "eojjeoda"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -145,7 +394,29 @@
    "note": "joke",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b5/cut6"
+   "art": "scene/ko/r2_culture_b5/cut6",
+   "lemmas": [
+    [
+     "태",
+     "태",
+     "tae"
+    ],
+    [
+     "사인",
+     "사인",
+     "sain"
+    ],
+    [
+     "점수",
+     "점수",
+     "jeomsu"
+    ],
+    [
+     "나중",
+     "나중",
+     "najung"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -155,7 +426,34 @@
    "en": "So study a bit tonight. Don't regret it tomorrow.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "밤",
+     "밤",
+     "bam"
+    ],
+    [
+     "공부",
+     "공부",
+     "gongbu"
+    ],
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "후회",
+     "후회",
+     "huhoe"
+    ]
+   ]
   }
  ],
  "review": {

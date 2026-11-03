@@ -40,7 +40,19 @@
    "note": "점수 = score",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a5/cut1"
+   "art": "scene/ko/r0_friends_a5/cut1",
+   "lemmas": [
+    [
+     "점수",
+     "점수",
+     "jeomsu"
+    ],
+    [
+     "떴",
+     "뜨다",
+     "tteuda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +62,14 @@
    "en": "Really 100…?",
    "note": "100점",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +80,14 @@
    "note": "대박",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a5/cut2"
+   "art": "scene/ko/r0_friends_a5/cut2",
+   "lemmas": [
+    [
+     "박",
+     "박",
+     "bak"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +97,14 @@
    "en": "(next room) Who got 100!! We're coming too!!",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "갈",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +115,24 @@
    "note": "옆방",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a5/cut3"
+   "art": "scene/ko/r0_friends_a5/cut3",
+   "lemmas": [
+    [
+     "옆방",
+     "옆방",
+     "yeopbang"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ],
+    [
+     "온",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +142,24 @@
    "en": "One more!! Everybody sing!!",
    "note": "crowd",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "곡",
+     "곡",
+     "gok"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "불",
+     "부르다",
+     "bureuda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +170,24 @@
    "note": "스타",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a5/cut4"
+   "art": "scene/ko/r0_friends_a5/cut4",
+   "lemmas": [
+    [
+     "이제",
+     "이제",
+     "ije"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "난리",
+     "난리",
+     "nalli"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +197,19 @@
    "en": "But I don't even know the lyrics…",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "가사",
+     "가사",
+     "gasa"
+    ],
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ]
+   ]
   }
  ],
  "review": {

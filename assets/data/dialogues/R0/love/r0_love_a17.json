@@ -38,7 +38,19 @@
    "note": "졸리다 = sleepy",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a17/cut1"
+   "art": "scene/ko/r0_love_a17/cut1",
+   "lemmas": [
+    [
+     "졸려",
+     "졸리다",
+     "jollida"
+    ],
+    [
+     "죽",
+     "죽다",
+     "jukda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +60,19 @@
    "en": "Just sleep. It's fine.",
    "note": "괜찮아",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "자",
+     "자다",
+     "jada"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +83,19 @@
    "note": "기대다 = lean",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a17/cut2"
+   "art": "scene/ko/r0_love_a17/cut2",
+   "lemmas": [
+    [
+     "어깨",
+     "어깨",
+     "eokkae"
+    ],
+    [
+     "빌려",
+     "빌리다",
+     "billida"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +105,19 @@
    "en": "Yeah. Lean comfortably.",
    "note": "응",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "편히",
+     "편히",
+     "pyeonhi"
+    ],
+    [
+     "기대",
+     "기대다",
+     "gidaeda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +128,29 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a17/cut3"
+   "art": "scene/ko/r0_love_a17/cut3",
+   "lemmas": [
+    [
+     "심장",
+     "심장",
+     "simjang"
+    ],
+    [
+     "소리",
+     "소리",
+     "sori"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "들린",
+     "들리다",
+     "deullida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +160,19 @@
    "en": "Really? Sounds pretty loud?",
    "note": "진짜?",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "큰",
+     "크다",
+     "keuda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +183,14 @@
    "note": "빠르다 = fast",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a17/cut4"
+   "art": "scene/ko/r0_love_a17/cut4",
+   "lemmas": [
+    [
+     "뛰",
+     "뛰다",
+     "ttwida"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +200,8 @@
    "en": "…I guess it's because of you.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   }
  ],
  "learner_gender": "M",

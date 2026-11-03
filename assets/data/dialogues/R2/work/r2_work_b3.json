@@ -41,7 +41,24 @@
    "note": "컵 = cup / mug",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b3/cut1"
+   "art": "scene/ko/r2_work_b3/cut1",
+   "lemmas": [
+    [
+     "씨",
+     "씨",
+     "ssi"
+    ],
+    [
+     "컵",
+     "컵",
+     "keop"
+    ],
+    [
+     "예쁘",
+     "예쁘다",
+     "yeppeuda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +68,14 @@
    "en": "Oh yes it was a gift.",
    "note": "선물 = gift",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "선물",
+     "선물",
+     "seonmul"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +86,19 @@
    "note": "똑같다 = identical",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b3/cut2"
+   "art": "scene/ko/r2_work_b3/cut2",
+   "lemmas": [
+    [
+     "컵",
+     "컵",
+     "keop"
+    ],
+    [
+     "똑같",
+     "똑같다",
+     "ttokgatda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +108,24 @@
    "en": "Oh they sell lots of these at the mart.",
    "note": "마트 = supermarket",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "마트",
+     "마트",
+     "mateu"
+    ],
+    [
+     "많이",
+     "많이",
+     "mani"
+    ],
+    [
+     "팔",
+     "팔다",
+     "palda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +136,24 @@
    "note": "쓰여 있다 = be written",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b3/cut3"
+   "art": "scene/ko/r2_work_b3/cut3",
+   "lemmas": [
+    [
+     "컵",
+     "컵",
+     "keop"
+    ],
+    [
+     "이름",
+     "이름",
+     "ireum"
+    ],
+    [
+     "쓰여",
+     "쓰이다",
+     "sseuida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +163,8 @@
    "en": "...",
    "note": "silence",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 7,
@@ -104,7 +175,29 @@
    "note": "Kick: now everyone knows — chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b3/cut4"
+   "art": "scene/ko/r2_work_b3/cut4",
+   "lemmas": [
+    [
+     "팀",
+     "팀",
+     "tim"
+    ],
+    [
+     "단톡",
+     "단톡",
+     "dantok"
+    ],
+    [
+     "올려",
+     "올리다",
+     "ollida"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +207,14 @@
    "en": "Wait that's a bit...",
    "note": "그건 좀 = that's a bit much",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -125,7 +225,34 @@
    "note": "쏘다 = to treat (slang)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b3/cut5"
+   "art": "scene/ko/r2_work_b3/cut5",
+   "lemmas": [
+    [
+     "축하",
+     "축하",
+     "chuka"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "점심",
+     "점심",
+     "jeomsim"
+    ],
+    [
+     "커플",
+     "커플",
+     "keopeul"
+    ],
+    [
+     "쏩",
+     "쏘다",
+     "ssoda"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -135,7 +262,24 @@
    "en": "So the secret relationship is over.",
    "note": "끝나다 = end",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "비밀",
+     "비밀",
+     "bimil"
+    ],
+    [
+     "연애",
+     "연애",
+     "yeonae"
+    ],
+    [
+     "끝났",
+     "끝나다",
+     "kkeunnada"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -146,7 +290,29 @@
    "note": "반반 = half-half",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b3/cut6"
+   "art": "scene/ko/r2_work_b3/cut6",
+   "lemmas": [
+    [
+     "대신",
+     "대신",
+     "daesin"
+    ],
+    [
+     "점심",
+     "점심",
+     "jeomsim"
+    ],
+    [
+     "값",
+     "값",
+     "gap"
+    ],
+    [
+     "반반",
+     "반반",
+     "banban"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -156,7 +322,14 @@
    "en": "Let's keep that a secret.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "비밀",
+     "비밀",
+     "bimil"
+    ]
+   ]
   }
  ],
  "learner_gender": "M",

@@ -39,7 +39,8 @@
    "note": "던지다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a11/cut1"
+   "art": "scene/ko/r1_friends_a11/cut1",
+   "lemmas": []
   },
   {
    "num": 2,
@@ -49,7 +50,19 @@
    "en": "Huh? What’s this? Dodge!! …Did it hit?",
    "note": "피하다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "피해",
+     "피하다",
+     "pihada"
+    ],
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +73,19 @@
    "note": "Kick: the professor",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a11/cut2"
+   "art": "scene/ko/r1_friends_a11/cut2",
+   "lemmas": [
+    [
+     "아야",
+     "아야",
+     "aya"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +95,24 @@
    "en": "Whoa… it’s the professor. We’re totally done for.",
    "note": "교수님",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "교수",
+     "교수",
+     "gyosu"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "끝났",
+     "끝나다",
+     "kkeunnada"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +123,19 @@
    "note": "죄송",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a11/cut3"
+   "art": "scene/ko/r1_friends_a11/cut3",
+   "lemmas": [
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ],
+    [
+     "던진",
+     "던지다",
+     "deonjida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +145,24 @@
    "en": "(making a big snowball) Both of you, those kids over there, come here.",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "애",
+     "애",
+     "ae"
+    ],
+    [
+     "이리",
+     "이리",
+     "iri"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +173,24 @@
    "note": "잠깐만",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a11/cut4"
+   "art": "scene/ko/r1_friends_a11/cut4",
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "교수",
+     "교수",
+     "gyosu"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +200,24 @@
    "en": "It’s the first snow. I won’t cut your grade. Here, catch!",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "첫눈",
+     "첫눈",
+     "cheonnun"
+    ],
+    [
+     "학점",
+     "학점",
+     "hakjeom"
+    ],
+    [
+     "깎",
+     "깎다",
+     "kkakda"
+    ]
+   ]
   }
  ],
  "review": {

@@ -40,7 +40,19 @@
    "new": [],
    "ui": "bubble",
    "at": "03:10",
-   "art": "scene/ko/r1_love_c11/cut1"
+   "art": "scene/ko/r1_love_c11/cut1",
+   "lemmas": [
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ],
+    [
+     "자",
+     "자다",
+     "jada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -52,7 +64,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "03:12"
+   "at": "03:12",
+   "lemmas": [
+    [
+     "새벽",
+     "새벽",
+     "saebyeok"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -65,7 +84,19 @@
    "new": [],
    "ui": "bubble",
    "at": "03:12",
-   "art": "scene/ko/r1_love_c11/cut2"
+   "art": "scene/ko/r1_love_c11/cut2",
+   "lemmas": [
+    [
+     "미안",
+     "미안",
+     "mian"
+    ],
+    [
+     "저녁",
+     "저녁",
+     "jeonyeok"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -77,7 +108,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "03:13"
+   "at": "03:13",
+   "lemmas": [
+    [
+     "공연",
+     "공연",
+     "gongyeon"
+    ],
+    [
+     "이제",
+     "이제",
+     "ije"
+    ],
+    [
+     "끝났",
+     "끝나다",
+     "kkeunnada"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -90,7 +138,34 @@
    "new": [],
    "ui": "bubble",
    "at": "03:13",
-   "art": "scene/ko/r1_love_c11/cut3"
+   "art": "scene/ko/r1_love_c11/cut3",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "모습",
+     "모습",
+     "moseup"
+    ],
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "찍",
+     "찍다",
+     "jjikda"
+    ],
+    [
+     "보내",
+     "보내다",
+     "bonaeda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -102,7 +177,34 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "03:14"
+   "at": "03:14",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "자",
+     "자다",
+     "jada"
+    ],
+    [
+     "깼",
+     "깨다",
+     "kkaeda"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "귀찮",
+     "귀찮다",
+     "gwichanta"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -115,7 +217,19 @@
    "new": [],
    "ui": "bubble",
    "at": "03:14",
-   "art": "scene/ko/r1_love_c11/cut4"
+   "art": "scene/ko/r1_love_c11/cut4",
+   "lemmas": [
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "자",
+     "자다",
+     "jada"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -127,7 +241,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "03:15"
+   "at": "03:15",
+   "lemmas": [
+    [
+     "알",
+     "알다",
+     "alda"
+    ],
+    [
+     "기다려",
+     "기다리다",
+     "gidarida"
+    ]
+   ]
   }
  ],
  "learner_gender": "F",

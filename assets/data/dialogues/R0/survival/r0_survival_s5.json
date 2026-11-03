@@ -38,7 +38,14 @@
    "note": "드시고 가세요?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s5/cut1"
+   "art": "scene/ko/r0_survival_s5/cut1",
+   "lemmas": [
+    [
+     "드실",
+     "드시다",
+     "deusida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +55,14 @@
    "en": "Huh? What?",
    "note": "네",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "뭐",
+     "뭐",
+     "mwo"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +73,14 @@
    "note": "포장 = takeout",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s5/cut2"
+   "art": "scene/ko/r0_survival_s5/cut2",
+   "lemmas": [
+    [
+     "포장",
+     "포장",
+     "pojang"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +90,14 @@
    "en": "To go? What’s that?",
    "note": "뭐예요",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "포장",
+     "포장",
+     "pojang"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +108,14 @@
    "note": "가져가다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s5/cut3"
+   "art": "scene/ko/r0_survival_s5/cut3",
+   "lemmas": [
+    [
+     "가져가",
+     "가져가다",
+     "gajyeogada"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +125,19 @@
    "en": "Oh! To go! Thanks.",
    "note": "포장이요",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "포장",
+     "포장",
+     "pojang"
+    ],
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +148,19 @@
    "note": "김밥",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s5/cut4"
+   "art": "scene/ko/r0_survival_s5/cut4",
+   "lemmas": [
+    [
+     "김밥",
+     "김밥",
+     "gimbap"
+    ],
+    [
+     "포장",
+     "포장",
+     "pojang"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +170,19 @@
    "en": "Wait, here. I wanna eat it now.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   }
  ],
  "review": {

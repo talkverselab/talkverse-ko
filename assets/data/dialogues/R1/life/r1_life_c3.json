@@ -42,7 +42,34 @@
    "new": [],
    "ui": "bubble",
    "at": "14:00",
-   "art": "scene/ko/r1_life_c3/cut1"
+   "art": "scene/ko/r1_life_c3/cut1",
+   "lemmas": [
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "택배",
+     "택배",
+     "taekbae"
+    ],
+    [
+     "현관",
+     "현관",
+     "hyeongwan"
+    ],
+    [
+     "박스",
+     "박스",
+     "bakseu"
+    ],
+    [
+     "가득",
+     "가득",
+     "gadeuk"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -54,7 +81,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "14:01"
+   "at": "14:01",
+   "lemmas": [
+    [
+     "문",
+     "문",
+     "mun"
+    ],
+    [
+     "열려",
+     "열리다",
+     "yeollida"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -67,7 +106,19 @@
    "new": [],
    "ui": "bubble",
    "at": "14:02",
-   "art": "scene/ko/r1_life_c3/cut2"
+   "art": "scene/ko/r1_life_c3/cut2",
+   "lemmas": [
+    [
+     "세일",
+     "세일",
+     "seil"
+    ],
+    [
+     "샀",
+     "사다",
+     "sada"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -79,7 +130,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "14:02"
+   "at": "14:02",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "산",
+     "사다",
+     "sada"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -92,7 +155,14 @@
    "new": [],
    "ui": "bubble",
    "at": "14:03",
-   "art": "scene/ko/r1_life_c3/cut3"
+   "art": "scene/ko/r1_life_c3/cut3",
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -104,7 +174,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "14:03"
+   "at": "14:03",
+   "lemmas": [
+    [
+     "방금",
+     "방금",
+     "banggeum"
+    ],
+    [
+     "온",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -117,7 +199,34 @@
    "new": [],
    "ui": "bubble",
    "at": "14:04",
-   "art": "scene/ko/r1_life_c3/cut4"
+   "art": "scene/ko/r1_life_c3/cut4",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "저녁",
+     "저녁",
+     "jeonyeok"
+    ],
+    [
+     "박스",
+     "박스",
+     "bakseu"
+    ],
+    [
+     "위",
+     "위",
+     "wi"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -129,7 +238,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "14:04"
+   "at": "14:04",
+   "lemmas": [
+    [
+     "미안",
+     "미안",
+     "mian"
+    ],
+    [
+     "치킨",
+     "치킨",
+     "chikin"
+    ],
+    [
+     "살",
+     "사다",
+     "sada"
+    ]
+   ]
   }
  ],
  "review": {

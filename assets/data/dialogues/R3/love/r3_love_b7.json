@@ -41,7 +41,34 @@
    "note": "정신 들다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b7/cut1"
+   "art": "scene/ko/r3_love_b7/cut1",
+   "lemmas": [
+    [
+     "눈",
+     "눈",
+     "nun"
+    ],
+    [
+     "떠",
+     "뜨다",
+     "tteuda"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "다친",
+     "다치다",
+     "dachida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +78,8 @@
    "en": "…Who are you? Where even is this?",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 3,
@@ -62,7 +90,34 @@
    "note": "설마",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b7/cut2"
+   "art": "scene/ko/r3_love_b7/cut2",
+   "lemmas": [
+    [
+     "설마",
+     "설마",
+     "seolma"
+    ],
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "사귄",
+     "사귀다",
+     "sagwida"
+    ],
+    [
+     "사이",
+     "사이",
+     "sai"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +127,39 @@
    "en": "Ah, I'm sorry. I don't remember anything. Literally nothing.",
    "note": "기억",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ],
+    [
+     "아무것",
+     "아무것",
+     "amugeot"
+    ],
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ],
+    [
+     "나",
+     "나다",
+     "nada"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "하나",
+     "하나",
+     "hana"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +170,44 @@
    "note": "기억상실",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b7/cut3"
+   "art": "scene/ko/r3_love_b7/cut3",
+   "lemmas": [
+    [
+     "일시",
+     "일시",
+     "ilsi"
+    ],
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ],
+    [
+     "상실",
+     "상실",
+     "sangsil"
+    ],
+    [
+     "익숙",
+     "익숙",
+     "iksuk"
+    ],
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "보여",
+     "보이다",
+     "boida"
+    ],
+    [
+     "가져와",
+     "가져오다",
+     "gajyeooda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +217,39 @@
    "en": "Look at this. Our couple-tee photo. Come on, at least this should ring a bell.",
    "note": "callback",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "봐",
+     "보다",
+     "boda"
+    ],
+    [
+     "커플",
+     "커플",
+     "keopeul"
+    ],
+    [
+     "티",
+     "티",
+     "ti"
+    ],
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ],
+    [
+     "나",
+     "나다",
+     "nada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +260,29 @@
    "note": "모르다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b7/cut4"
+   "art": "scene/ko/r3_love_b7/cut4",
+   "lemmas": [
+    [
+     "모르",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "처음",
+     "처음",
+     "cheoeum"
+    ],
+    [
+     "봐",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +292,44 @@
    "en": "Then this. The scarf I gave you on the first snow. Touch it. Still nothing?",
    "note": "callback",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "눈",
+     "눈",
+     "nun"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ],
+    [
+     "날",
+     "날",
+     "nal"
+    ],
+    [
+     "목도리",
+     "목도리",
+     "mokdori"
+    ],
+    [
+     "만져",
+     "만지다",
+     "manjida"
+    ],
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ],
+    [
+     "나",
+     "나다",
+     "nada"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -125,7 +340,8 @@
    "note": "silence",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b7/cut5"
+   "art": "scene/ko/r3_love_b7/cut5",
+   "lemmas": []
   },
   {
    "num": 10,
@@ -135,7 +351,69 @@
    "en": "Please… you don't remember your mom yelling “you go in first” from the window? That day, for real? No way?",
    "note": "callback",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "제발",
+     "제발",
+     "jebal"
+    ],
+    [
+     "창문",
+     "창문",
+     "changmun"
+    ],
+    [
+     "먼저",
+     "먼저",
+     "meonjeo"
+    ],
+    [
+     "들어가",
+     "들어가다",
+     "deureogada"
+    ],
+    [
+     "소리친",
+     "소리치다",
+     "sorichida"
+    ],
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ],
+    [
+     "나",
+     "나다",
+     "nada"
+    ],
+    [
+     "날",
+     "날",
+     "nal"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ],
+    [
+     "나",
+     "나다",
+     "nada"
+    ],
+    [
+     "설마",
+     "설마",
+     "seolma"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -146,7 +424,24 @@
    "note": "Kick: reveal",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b7/cut6"
+   "art": "scene/ko/r3_love_b7/cut6",
+   "lemmas": [
+    [
+     "참",
+     "참다",
+     "chamda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "터질",
+     "터지다",
+     "teojida"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -156,7 +451,24 @@
    "en": "What? Whoa, what the hell? Is this a joke?",
    "note": "뭐",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "뭐",
+     "뭐",
+     "mwo"
+    ],
+    [
+     "갑자기",
+     "갑자기",
+     "gapjagi"
+    ],
+    [
+     "장난",
+     "장난",
+     "jangnan"
+    ]
+   ]
   },
   {
    "num": 13,
@@ -167,7 +479,59 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b7/cut7"
+   "art": "scene/ko/r3_love_b7/cut7",
+   "lemmas": [
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ],
+    [
+     "나",
+     "나다",
+     "nada"
+    ],
+    [
+     "손목",
+     "손목",
+     "sonmok"
+    ],
+    [
+     "삐",
+     "삐다",
+     "ppida"
+    ],
+    [
+     "선생",
+     "선생",
+     "seonsaeng"
+    ],
+    [
+     "간호사",
+     "간호사",
+     "ganhosa"
+    ],
+    [
+     "짰",
+     "짜다",
+     "jjada"
+    ],
+    [
+     "반응",
+     "반응",
+     "baneung"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 14,
@@ -177,7 +541,44 @@
    "en": "Sorry. I'm a drama fan. It got a bit much… other patients are watching too.",
    "note": "chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ],
+    [
+     "드라마",
+     "드라마",
+     "deurama"
+    ],
+    [
+     "팬",
+     "팬",
+     "paen"
+    ],
+    [
+     "모르",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "과하",
+     "과하다",
+     "gwahada"
+    ],
+    [
+     "환자",
+     "환자",
+     "hwanja"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 15,
@@ -188,7 +589,54 @@
    "note": "멈추다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b7/cut8"
+   "art": "scene/ko/r3_love_b7/cut8",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "심장",
+     "심장",
+     "simjang"
+    ],
+    [
+     "쿵",
+     "쿵",
+     "kung"
+    ],
+    [
+     "떨어지",
+     "떨어지다",
+     "tteoreojida"
+    ],
+    [
+     "느껴",
+     "느끼다",
+     "neukkida"
+    ],
+    [
+     "장난",
+     "장난",
+     "jangnan"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "심하",
+     "심하다",
+     "simhada"
+    ]
+   ]
   },
   {
    "num": 16,
@@ -198,7 +646,34 @@
    "en": "But watching you pull out every single one of our memories… I fell for you all over again. What's wrong with me.",
    "note": "punchline 심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "추억",
+     "추억",
+     "chueok"
+    ],
+    [
+     "하나하나",
+     "하나하나",
+     "hanahana"
+    ],
+    [
+     "꺼내",
+     "꺼내다",
+     "kkeonaeda"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "반했",
+     "반하다",
+     "banhada"
+    ]
+   ]
   }
  ],
  "learner_gender": "M",

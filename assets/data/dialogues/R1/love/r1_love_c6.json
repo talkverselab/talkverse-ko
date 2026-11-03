@@ -42,7 +42,29 @@
    "new": [],
    "ui": "bubble",
    "at": "18:40",
-   "art": "scene/ko/r1_love_c6/cut1"
+   "art": "scene/ko/r1_love_c6/cut1",
+   "lemmas": [
+    [
+     "셀카",
+     "셀카",
+     "selka"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "간",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -54,7 +76,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "18:41"
+   "at": "18:41",
+   "lemmas": [
+    [
+     "아들",
+     "아들",
+     "adeul"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -67,7 +106,8 @@
    "new": [],
    "ui": "bubble",
    "at": "18:41",
-   "art": "scene/ko/r1_love_c6/cut2"
+   "art": "scene/ko/r1_love_c6/cut2",
+   "lemmas": []
   },
   {
    "num": 4,
@@ -79,7 +119,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "18:42"
+   "at": "18:42",
+   "lemmas": [
+    [
+     "처음",
+     "처음",
+     "cheoeum"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -92,7 +139,29 @@
    "new": [],
    "ui": "bubble",
    "at": "18:43",
-   "art": "scene/ko/r1_love_c6/cut3"
+   "art": "scene/ko/r1_love_c6/cut3",
+   "lemmas": [
+    [
+     "큰일",
+     "큰일",
+     "keunil"
+    ],
+    [
+     "났",
+     "나다",
+     "nada"
+    ],
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "보냈",
+     "보내다",
+     "bonaeda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -104,7 +173,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "18:43"
+   "at": "18:43",
+   "lemmas": []
   },
   {
    "num": 7,
@@ -117,7 +187,24 @@
    "new": [],
    "ui": "bubble",
    "at": "18:44",
-   "art": "scene/ko/r1_love_c6/cut4"
+   "art": "scene/ko/r1_love_c6/cut4",
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "주",
+     "주",
+     "ju"
+    ],
+    [
+     "데려오",
+     "데려오다",
+     "deryeooda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -129,7 +216,34 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "18:44"
+   "at": "18:44",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "옷",
+     "옷",
+     "ot"
+    ],
+    [
+     "사",
+     "사다",
+     "sada"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   }
  ],
  "learner_gender": "M",

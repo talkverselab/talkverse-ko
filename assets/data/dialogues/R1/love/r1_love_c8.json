@@ -41,7 +41,19 @@
    "new": [],
    "ui": "bubble",
    "at": "23:20",
-   "art": "scene/ko/r1_love_c8/cut1"
+   "art": "scene/ko/r1_love_c8/cut1",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "자",
+     "자다",
+     "jada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -53,7 +65,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:21"
+   "at": "23:21",
+   "lemmas": [
+    [
+     "자",
+     "자다",
+     "jada"
+    ],
+    [
+     "사랑",
+     "사랑",
+     "sarang"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -66,7 +90,29 @@
    "new": [],
    "ui": "bubble",
    "at": "23:21",
-   "art": "scene/ko/r1_love_c8/cut2"
+   "art": "scene/ko/r1_love_c8/cut2",
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "자동",
+     "자동",
+     "jadong"
+    ],
+    [
+     "완성",
+     "완성",
+     "wanseong"
+    ],
+    [
+     "지워",
+     "지우다",
+     "jiuda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -78,7 +124,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:21"
+   "at": "23:21",
+   "lemmas": []
   },
   {
    "num": 5,
@@ -91,7 +138,29 @@
    "new": [],
    "ui": "bubble",
    "at": "23:22",
-   "art": "scene/ko/r1_love_c8/cut3"
+   "art": "scene/ko/r1_love_c8/cut3",
+   "lemmas": [
+    [
+     "폰",
+     "폰",
+     "pon"
+    ],
+    [
+     "맘",
+     "맘",
+     "mam"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "미안",
+     "미안",
+     "mian"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -103,7 +172,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:22"
+   "at": "23:22",
+   "lemmas": [
+    [
+     "말",
+     "말",
+     "mal"
+    ],
+    [
+     "자주",
+     "자주",
+     "jaju"
+    ],
+    [
+     "나오",
+     "나오다",
+     "naoda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -116,7 +202,19 @@
    "new": [],
    "ui": "bubble",
    "at": "23:23",
-   "art": "scene/ko/r1_love_c8/cut4"
+   "art": "scene/ko/r1_love_c8/cut4",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "처음",
+     "처음",
+     "cheoeum"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -128,7 +226,34 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:23"
+   "at": "23:23",
+   "lemmas": [
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "직접",
+     "직접",
+     "jikjeop"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ],
+    [
+     "폰",
+     "폰",
+     "pon"
+    ],
+    [
+     "말",
+     "말다",
+     "malda"
+    ]
+   ]
   }
  ],
  "series": "flirt",

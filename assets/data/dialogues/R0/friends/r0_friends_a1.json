@@ -37,7 +37,19 @@
    "note": "밥 먹었어? = did you eat? — a Korean hello",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a1/cut1"
+   "art": "scene/ko/r0_friends_a1/cut1",
+   "lemmas": [
+    [
+     "밥",
+     "밥",
+     "bap"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -47,7 +59,29 @@
    "en": "No, why—wanna eat together?",
    "note": "아니 = no",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -58,7 +92,19 @@
    "note": "Kick: he took it literally",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a1/cut2"
+   "art": "scene/ko/r0_friends_a1/cut2",
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "인사",
+     "인사",
+     "insa"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -68,7 +114,19 @@
    "en": "Rice is a greeting?",
    "note": "밥 = rice / a meal",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "밥",
+     "밥",
+     "bap"
+    ],
+    [
+     "인사",
+     "인사",
+     "insa"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -79,7 +137,19 @@
    "note": "같은 거야 = it's like",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a1/cut3"
+   "art": "scene/ko/r0_friends_a1/cut3",
+   "lemmas": [
+    [
+     "안녕",
+     "안녕",
+     "annyeong"
+    ],
+    [
+     "똑같",
+     "똑같다",
+     "ttokgatda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -89,7 +159,19 @@
    "en": "Oh then me too—have you eaten?",
    "note": "trying it back",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "밥",
+     "밥",
+     "bap"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -100,7 +182,19 @@
    "note": "아직 = not yet",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a1/cut4"
+   "art": "scene/ko/r0_friends_a1/cut4",
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -110,7 +204,24 @@
    "en": "Then should we actually eat? I'm hungry…",
    "note": "배고파 = I'm hungry",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ],
+    [
+     "배고파",
+     "배고프다",
+     "baegopeuda"
+    ]
+   ]
   }
  ],
  "review": {

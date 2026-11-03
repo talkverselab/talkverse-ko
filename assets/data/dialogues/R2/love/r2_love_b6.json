@@ -41,7 +41,29 @@
    "note": "어떻게 쓰는지 = how to use",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b6/cut1"
+   "art": "scene/ko/r2_love_b6/cut1",
+   "lemmas": [
+    [
+     "저기",
+     "저기",
+     "jeogi"
+    ],
+    [
+     "기구",
+     "기구",
+     "gigu"
+    ],
+    [
+     "쓰",
+     "쓰다",
+     "sseuda"
+    ],
+    [
+     "알",
+     "알다",
+     "alda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +73,19 @@
    "en": "Oh, this one? You sit here and pull.",
    "note": "-면 돼요 = you just…",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "앉",
+     "앉다",
+     "anda"
+    ],
+    [
+     "당기",
+     "당기다",
+     "danggida"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +96,34 @@
    "note": "자주 = often",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b6/cut2"
+   "art": "scene/ko/r2_love_b6/cut2",
+   "lemmas": [
+    [
+     "아하",
+     "아하",
+     "aha"
+    ],
+    [
+     "자주",
+     "자주",
+     "jaju"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ],
+    [
+     "처음",
+     "처음",
+     "cheoeum"
+    ],
+    [
+     "봐",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +133,24 @@
    "en": "Every day. At 7 a.m.",
    "note": "매일 = every day",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "매일",
+     "매일",
+     "maeil"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ],
+    [
+     "아침",
+     "아침",
+     "achim"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +161,19 @@
    "note": "-구나 = ah, so that's why",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b6/cut3"
+   "art": "scene/ko/r2_love_b6/cut3",
+   "lemmas": [
+    [
+     "아침",
+     "아침",
+     "achim"
+    ],
+    [
+     "봤",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +183,24 @@
    "en": "When do you usually come, 하늘?",
    "note": "보통 = usually",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "보통",
+     "보통",
+     "botong"
+    ],
+    [
+     "언제",
+     "언제",
+     "eonje"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +211,14 @@
    "note": "Kick: she changes her schedule on the spot",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b6/cut4"
+   "art": "scene/ko/r2_love_b6/cut4",
+   "lemmas": [
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +228,24 @@
    "en": "Really? Isn’t mornings hard?",
    "note": "힘들다 = hard / tough",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "아침",
+     "아침",
+     "achim"
+    ],
+    [
+     "힘들",
+     "힘들다",
+     "himdeulda"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -125,7 +256,24 @@
    "note": "깨워 줘요 = wake me up",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b6/cut5"
+   "art": "scene/ko/r2_love_b6/cut5",
+   "lemmas": [
+    [
+     "깨워",
+     "깨우다",
+     "kkaeuda"
+    ],
+    [
+     "번호",
+     "번호",
+     "beonho"
+    ],
+    [
+     "주",
+     "주다",
+     "juda"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -135,7 +283,34 @@
    "en": "Wait… you knew how to use this machine all along, didn’t you?",
    "note": "쓸 줄 알다 = know how to use",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "기구",
+     "기구",
+     "gigu"
+    ],
+    [
+     "원래",
+     "원래",
+     "wollae"
+    ],
+    [
+     "쓸",
+     "쓰다",
+     "sseuda"
+    ],
+    [
+     "알",
+     "알다",
+     "alda"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -146,7 +321,14 @@
    "note": "다녔어 = have been attending",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b6/cut6"
+   "art": "scene/ko/r2_love_b6/cut6",
+   "lemmas": [
+    [
+     "다녔",
+     "다니다",
+     "danida"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -156,7 +338,29 @@
    "en": "…I’ll give you my number. Instead of an alarm.",
    "note": "대신 = instead of",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "번호",
+     "번호",
+     "beonho"
+    ],
+    [
+     "줄",
+     "주다",
+     "juda"
+    ],
+    [
+     "알람",
+     "알람",
+     "allam"
+    ],
+    [
+     "대신",
+     "대신",
+     "daesin"
+    ]
+   ]
   }
  ],
  "review": {

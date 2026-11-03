@@ -39,7 +39,29 @@
    "note": "대여 = rental",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b2/cut1"
+   "art": "scene/ko/r2_travel_b2/cut1",
+   "lemmas": [
+    [
+     "어서",
+     "어서",
+     "eoseo"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ],
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ],
+    [
+     "대여",
+     "대여",
+     "daeyeo"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +71,24 @@
    "en": "Two hours. Is entry free if we wear hanbok?",
    "note": "입장 = admission",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "한복",
+     "한복",
+     "hanbok"
+    ],
+    [
+     "입장",
+     "입장",
+     "ipjang"
+    ],
+    [
+     "무료",
+     "무료",
+     "muryo"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +99,29 @@
    "note": "유적지 = historic site",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b2/cut2"
+   "art": "scene/ko/r2_travel_b2/cut2",
+   "lemmas": [
+    [
+     "궁",
+     "궁",
+     "gung"
+    ],
+    [
+     "유적지",
+     "유적지",
+     "yujeokji"
+    ],
+    [
+     "대부분",
+     "대부분",
+     "daebubun"
+    ],
+    [
+     "무료",
+     "무료",
+     "muryo"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +131,24 @@
    "en": "So the hanbok is basically a ticket.",
    "note": "사실상 = practically",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "한복",
+     "한복",
+     "hanbok"
+    ],
+    [
+     "사실",
+     "사실",
+     "sasil"
+    ],
+    [
+     "티켓",
+     "티켓",
+     "tiket"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +159,34 @@
    "note": "인기 = popularity",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b2/cut3"
+   "art": "scene/ko/r2_travel_b2/cut3",
+   "lemmas": [
+    [
+     "색깔",
+     "색깔",
+     "saekkkal"
+    ],
+    [
+     "골",
+     "고르다",
+     "goreuda"
+    ],
+    [
+     "요즘",
+     "요즘",
+     "yojeum"
+    ],
+    [
+     "제일",
+     "제일",
+     "jeil"
+    ],
+    [
+     "인기",
+     "인기",
+     "ingi"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +196,14 @@
    "en": "This is pretty. But what's Minjun wearing?",
    "note": "근데 = but",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "예쁘",
+     "예쁘다",
+     "yeppeuda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +214,14 @@
    "note": "왕 = king",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b2/cut4"
+   "art": "scene/ko/r2_travel_b2/cut4",
+   "lemmas": [
+    [
+     "왕",
+     "왕",
+     "wang"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +231,24 @@
    "en": "Whoa... for real? You look straight out of a period drama.",
    "note": "사극 = historical drama",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "사극",
+     "사극",
+     "sageuk"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -123,7 +259,29 @@
    "note": "Kick: kings cost more",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b2/cut5"
+   "art": "scene/ko/r2_travel_b2/cut5",
+   "lemmas": [
+    [
+     "손",
+     "손",
+     "son"
+    ],
+    [
+     "왕",
+     "왕",
+     "wang"
+    ],
+    [
+     "옷",
+     "옷",
+     "ot"
+    ],
+    [
+     "추가",
+     "추가",
+     "chuga"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -133,7 +291,19 @@
    "en": "...Hold on. I'll just be a scholar.",
    "note": "선비 = scholar",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "선비",
+     "선비",
+     "seonbi"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -144,7 +314,24 @@
    "note": "강등 = demotion",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b2/cut6"
+   "art": "scene/ko/r2_travel_b2/cut6",
+   "lemmas": [
+    [
+     "왕",
+     "왕",
+     "wang"
+    ],
+    [
+     "선비",
+     "선비",
+     "seonbi"
+    ],
+    [
+     "강등",
+     "강등",
+     "gangdeung"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -154,7 +341,24 @@
    "en": "A scholar gets in free too. That's enough...",
    "note": "충분하다 = enough",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "선비",
+     "선비",
+     "seonbi"
+    ],
+    [
+     "무료",
+     "무료",
+     "muryo"
+    ],
+    [
+     "충분",
+     "충분",
+     "chungbun"
+    ]
+   ]
   }
  ],
  "review": {

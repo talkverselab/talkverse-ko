@@ -40,7 +40,19 @@
    "new": [],
    "ui": "bubble",
    "at": "10:00",
-   "art": "scene/ko/r1_travel_c2/cut1"
+   "art": "scene/ko/r1_travel_c2/cut1",
+   "lemmas": [
+    [
+     "비행기",
+     "비행기",
+     "bihaenggi"
+    ],
+    [
+     "밀렸",
+     "밀리다",
+     "millida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -52,7 +64,29 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "10:00"
+   "at": "10:00",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "공항",
+     "공항",
+     "gonghang"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -65,7 +99,8 @@
    "new": [],
    "ui": "bubble",
    "at": "10:01",
-   "art": "scene/ko/r1_travel_c2/cut2"
+   "art": "scene/ko/r1_travel_c2/cut2",
+   "lemmas": []
   },
   {
    "num": 4,
@@ -77,7 +112,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "10:01"
+   "at": "10:01",
+   "lemmas": [
+    [
+     "김포",
+     "김포",
+     "gimpo"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -90,7 +137,19 @@
    "new": [],
    "ui": "bubble",
    "at": "10:01",
-   "art": "scene/ko/r1_travel_c2/cut3"
+   "art": "scene/ko/r1_travel_c2/cut3",
+   "lemmas": [
+    [
+     "엥",
+     "엥",
+     "eng"
+    ],
+    [
+     "인천",
+     "인천",
+     "incheon"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -102,7 +161,29 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "10:02"
+   "at": "10:02",
+   "lemmas": [
+    [
+     "제주",
+     "제주",
+     "jeju"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ],
+    [
+     "김포",
+     "김포",
+     "gimpo"
+    ],
+    [
+     "출발",
+     "출발",
+     "chulbal"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -115,7 +196,39 @@
    "new": [],
    "ui": "bubble",
    "at": "10:02",
-   "art": "scene/ko/r1_travel_c2/cut4"
+   "art": "scene/ko/r1_travel_c2/cut4",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "바로",
+     "바로",
+     "baro"
+    ],
+    [
+     "갈",
+     "가다",
+     "gada"
+    ],
+    [
+     "지연",
+     "지연",
+     "jiyeon"
+    ],
+    [
+     "살",
+     "살다",
+     "salda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -127,7 +240,29 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "10:03"
+   "at": "10:03",
+   "lemmas": [
+    [
+     "인생",
+     "인생",
+     "insaeng"
+    ],
+    [
+     "구했",
+     "구하다",
+     "guhada"
+    ],
+    [
+     "친구",
+     "친구",
+     "chingu"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ]
+   ]
   }
  ],
  "review": {

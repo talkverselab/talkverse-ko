@@ -43,7 +43,39 @@
    "note": "다섯 시간",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b3/cut1"
+   "art": "scene/ko/r3_culture_b3/cut1",
+   "lemmas": [
+    [
+     "서울",
+     "서울",
+     "seoul"
+    ],
+    [
+     "부산",
+     "부산",
+     "busan"
+    ],
+    [
+     "길이",
+     "길이",
+     "giri"
+    ],
+    [
+     "간",
+     "가다",
+     "gada"
+    ],
+    [
+     "새벽",
+     "새벽",
+     "saebyeok"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -53,7 +85,29 @@
    "en": "Really? Five hours? I thought it would take longer.",
    "note": "짧다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "저",
+     "저",
+     "jeo"
+    ],
+    [
+     "걸릴",
+     "걸리다",
+     "geollida"
+    ],
+    [
+     "알",
+     "알다",
+     "alda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -64,7 +118,24 @@
    "note": "Kick setup",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b3/cut2"
+   "art": "scene/ko/r3_culture_b3/cut2",
+   "lemmas": [
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ],
+    [
+     "서울",
+     "서울",
+     "seoul"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -74,7 +145,49 @@
    "en": "Oh let's stop at a rest stop and grab some walnut cakes. It's a must for Seollal.",
    "note": "휴게소",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "휴게소",
+     "휴게소",
+     "hyugeso"
+    ],
+    [
+     "들러",
+     "들르다",
+     "deulleuda"
+    ],
+    [
+     "호두",
+     "호두",
+     "hodu"
+    ],
+    [
+     "과자",
+     "과자",
+     "gwaja"
+    ],
+    [
+     "사",
+     "사다",
+     "sada"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ],
+    [
+     "설날",
+     "설날",
+     "seollal"
+    ],
+    [
+     "필수",
+     "필수",
+     "pilsu"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -85,7 +198,34 @@
    "note": "주차장",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b3/cut3"
+   "art": "scene/ko/r3_culture_b3/cut3",
+   "lemmas": [
+    [
+     "휴게소",
+     "휴게소",
+     "hyugeso"
+    ],
+    [
+     "주차장",
+     "주차장",
+     "juchajang"
+    ],
+    [
+     "차",
+     "차",
+     "cha"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "움직여",
+     "움직이다",
+     "umjigida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -95,7 +235,39 @@
    "en": "On Seollal it's always this mess. The whole country's out on the roads.",
    "note": "전국",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "설날",
+     "설날",
+     "seollal"
+    ],
+    [
+     "원래",
+     "원래",
+     "wollae"
+    ],
+    [
+     "꼴",
+     "꼴",
+     "kkol"
+    ],
+    [
+     "나라",
+     "나라",
+     "nara"
+    ],
+    [
+     "도로",
+     "도로",
+     "doro"
+    ],
+    [
+     "나와",
+     "나오다",
+     "naoda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -106,7 +278,34 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b3/cut4"
+   "art": "scene/ko/r3_culture_b3/cut4",
+   "lemmas": [
+    [
+     "화장실",
+     "화장실",
+     "hwajangsil"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "급해",
+     "급하다",
+     "geupada"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "당장",
+     "당장",
+     "dangjang"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -116,7 +315,34 @@
    "en": "Hold it till the next rest stop! We'll get there soon!",
    "note": "참다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "휴게소",
+     "휴게소",
+     "hyugeso"
+    ],
+    [
+     "참",
+     "참다",
+     "chamda"
+    ],
+    [
+     "금방",
+     "금방",
+     "geumbang"
+    ],
+    [
+     "갈",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -127,7 +353,34 @@
    "note": "chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b3/cut5"
+   "art": "scene/ko/r3_culture_b3/cut5",
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "휴게소",
+     "휴게소",
+     "hyugeso"
+    ],
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ],
+    [
+     "남",
+     "남다",
+     "namda"
+    ],
+    [
+     "어떡해",
+     "어떡하다",
+     "eotteokada"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -137,7 +390,34 @@
    "en": "Ugh seriously… I ate all the walnut cakes. I'm stuffed.",
    "note": "chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "호두",
+     "호두",
+     "hodu"
+    ],
+    [
+     "과자",
+     "과자",
+     "gwaja"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ],
+    [
+     "배불",
+     "배부르다",
+     "baebureuda"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -148,7 +428,19 @@
    "note": "도착",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b3/cut6"
+   "art": "scene/ko/r3_culture_b3/cut6",
+   "lemmas": [
+    [
+     "드디어",
+     "드디어",
+     "deudieo"
+    ],
+    [
+     "도착",
+     "도착",
+     "dochak"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -158,7 +450,49 @@
    "en": "Oh my, we even have a foreign guest! Come on, have a bowl of rice cake soup.",
    "note": "환영",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아이고",
+     "아이고",
+     "aigo"
+    ],
+    [
+     "외국",
+     "외국",
+     "oeguk"
+    ],
+    [
+     "손",
+     "손",
+     "son"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ],
+    [
+     "어서",
+     "어서",
+     "eoseo"
+    ],
+    [
+     "떡국",
+     "떡국",
+     "tteokguk"
+    ],
+    [
+     "그릇",
+     "그릇",
+     "geureut"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 13,
@@ -169,7 +503,19 @@
    "note": "감동",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_culture_b3/cut7"
+   "art": "scene/ko/r3_culture_b3/cut7",
+   "lemmas": [
+    [
+     "걸려",
+     "걸리다",
+     "geollida"
+    ],
+    [
+     "뵈",
+     "뵈다",
+     "boeda"
+    ]
+   ]
   },
   {
    "num": 14,
@@ -179,7 +525,44 @@
    "en": "Right. This is Seollal. And next week when we go back, another 10 hours.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "그치",
+     "그치",
+     "geuchi"
+    ],
+    [
+     "설날",
+     "설날",
+     "seollal"
+    ],
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "주",
+     "주",
+     "ju"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "올라갈",
+     "올라가다",
+     "ollagada"
+    ],
+    [
+     "때",
+     "때",
+     "ttae"
+    ]
+   ]
   }
  ],
  "review": {

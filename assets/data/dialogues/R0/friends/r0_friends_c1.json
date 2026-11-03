@@ -41,7 +41,24 @@
    "new": [],
    "ui": "bubble",
    "at": "00:00",
-   "art": "scene/ko/r0_friends_c1/cut1"
+   "art": "scene/ko/r0_friends_c1/cut1",
+   "lemmas": [
+    [
+     "서",
+     "서",
+     "seo"
+    ],
+    [
+     "생일",
+     "생일",
+     "saengil"
+    ],
+    [
+     "축하",
+     "축하",
+     "chuka"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -53,7 +70,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:00"
+   "at": "00:00",
+   "lemmas": []
   },
   {
    "num": 3,
@@ -66,7 +84,8 @@
    "new": [],
    "ui": "bubble",
    "at": "00:00",
-   "art": "scene/ko/r0_friends_c1/cut2"
+   "art": "scene/ko/r0_friends_c1/cut2",
+   "lemmas": []
   },
   {
    "num": 4,
@@ -78,7 +97,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:01"
+   "at": "00:01",
+   "lemmas": [
+    [
+     "선물",
+     "선물",
+     "seonmul"
+    ],
+    [
+     "떡볶이",
+     "떡볶이",
+     "tteokbokki"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -91,7 +122,14 @@
    "new": [],
    "ui": "bubble",
    "at": "00:01",
-   "art": "scene/ko/r0_friends_c1/cut3"
+   "art": "scene/ko/r0_friends_c1/cut3",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -103,7 +141,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:01"
+   "at": "00:01",
+   "lemmas": [
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -116,7 +161,14 @@
    "new": [],
    "ui": "bubble",
    "at": "00:02",
-   "art": "scene/ko/r0_friends_c1/cut4"
+   "art": "scene/ko/r0_friends_c1/cut4",
+   "lemmas": [
+    [
+     "케이크",
+     "케이크",
+     "keikeu"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -128,7 +180,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:02"
+   "at": "00:02",
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "떡볶이",
+     "떡볶이",
+     "tteokbokki"
+    ]
+   ]
   }
  ],
  "review": {

@@ -43,7 +43,29 @@
    "new": [],
    "ui": "bubble",
    "at": "13:02",
-   "art": "scene/ko/r1_love_c3/cut1"
+   "art": "scene/ko/r1_love_c3/cut1",
+   "lemmas": [
+    [
+     "어제",
+     "어제",
+     "eoje"
+    ],
+    [
+     "박자",
+     "박자",
+     "bakja"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ],
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -54,7 +76,19 @@
    "note": "그걸로 = by that",
    "tags": [],
    "new": [],
-   "ui": "bubble"
+   "ui": "bubble",
+   "lemmas": [
+    [
+     "걸",
+     "걸",
+     "geol"
+    ],
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -67,7 +101,29 @@
    "new": [],
    "ui": "bubble",
    "at": "13:03",
-   "art": "scene/ko/r1_love_c3/cut2"
+   "art": "scene/ko/r1_love_c3/cut2",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ],
+    [
+     "나",
+     "나다",
+     "nada"
+    ],
+    [
+     "박자",
+     "박자",
+     "bakja"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -79,7 +135,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "13:03"
+   "at": "13:03",
+   "lemmas": [
+    [
+     "이름",
+     "이름",
+     "ireum"
+    ],
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ],
+    [
+     "나",
+     "나다",
+     "nada"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -92,7 +165,19 @@
    "new": [],
    "ui": "bubble",
    "at": "13:04",
-   "art": "scene/ko/r1_love_c3/cut3"
+   "art": "scene/ko/r1_love_c3/cut3",
+   "lemmas": [
+    [
+     "요",
+     "요",
+     "yo"
+    ],
+    [
+     "박자",
+     "박자",
+     "bakja"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -104,7 +189,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "13:05"
+   "at": "13:05",
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "연습",
+     "연습",
+     "yeonseup"
+    ],
+    [
+     "갈",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -117,7 +219,24 @@
    "new": [],
    "ui": "bubble",
    "at": "13:05",
-   "art": "scene/ko/r1_love_c3/cut4"
+   "art": "scene/ko/r1_love_c3/cut4",
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -129,7 +248,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "13:06"
+   "at": "13:06",
+   "lemmas": [
+    [
+     "이번",
+     "이번",
+     "ibeon"
+    ],
+    [
+     "금요일",
+     "금요일",
+     "geumyoil"
+    ]
+   ]
   }
  ],
  "initiator": "B",

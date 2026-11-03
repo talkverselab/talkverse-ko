@@ -38,7 +38,19 @@
    "note": "출석 = attendance",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_study_a1/cut1"
+   "art": "scene/ko/r0_study_a1/cut1",
+   "lemmas": [
+    [
+     "출석",
+     "출석",
+     "chulseok"
+    ],
+    [
+     "부를",
+     "부르다",
+     "bureuda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +60,8 @@
    "en": "Here!",
    "note": "네 = here / yes",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 3,
@@ -59,7 +72,14 @@
    "note": "name",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_study_a1/cut2"
+   "art": "scene/ko/r0_study_a1/cut2",
+   "lemmas": [
+    [
+     "씨",
+     "씨",
+     "ssi"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +89,8 @@
    "en": "Over here!",
    "note": "여기요 = here (calling a waiter!)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 5,
@@ -80,7 +101,14 @@
    "note": "Kick: restaurant word",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_study_a1/cut3"
+   "art": "scene/ko/r0_study_a1/cut3",
+   "lemmas": [
+    [
+     "식당",
+     "식당",
+     "sikdang"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +118,14 @@
    "en": "Oh… sorry. Yes!",
    "note": "죄송합니다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +136,19 @@
    "note": "rule",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_study_a1/cut4"
+   "art": "scene/ko/r0_study_a1/cut4",
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "출석",
+     "출석",
+     "chulseok"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +158,19 @@
    "en": "Yes! Then \"여기요\" is for restaurants!",
    "note": "learned",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "여기요",
+     "여기요",
+     "yeogiyo"
+    ],
+    [
+     "식당",
+     "식당",
+     "sikdang"
+    ]
+   ]
   }
  ],
  "review": {

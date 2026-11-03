@@ -39,7 +39,19 @@
    "note": "하나도 없어 = none at all",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_study_b2/cut1"
+   "art": "scene/ko/r2_study_b2/cut1",
+   "lemmas": [
+    [
+     "서",
+     "서",
+     "seo"
+    ],
+    [
+     "자리",
+     "자리",
+     "jari"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +61,19 @@
    "en": "They're all taken. The bags are the people.",
    "note": "Korean seat-saving",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "가방",
+     "가방",
+     "gabang"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +84,19 @@
    "note": "어디 = where",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_study_b2/cut2"
+   "art": "scene/ko/r2_study_b2/cut2",
+   "lemmas": [
+    [
+     "가방",
+     "가방",
+     "gabang"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +106,29 @@
    "en": "Probably went to eat. For two hours now.",
    "note": "-째 = for … now",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "밥",
+     "밥",
+     "bap"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ],
+    [
+     "갔",
+     "가다",
+     "gada"
+    ],
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +139,29 @@
    "note": "주인 = owner",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_study_b2/cut3"
+   "art": "scene/ko/r2_study_b2/cut3",
+   "lemmas": [
+    [
+     "저기요",
+     "저기요",
+     "jeogiyo"
+    ],
+    [
+     "혹시",
+     "혹시",
+     "hoksi"
+    ],
+    [
+     "자리",
+     "자리",
+     "jari"
+    ],
+    [
+     "주인",
+     "주인",
+     "juin"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +171,29 @@
    "en": "Oh, that's my friend's seat. She's coming tomorrow.",
    "note": "Kick: saved a day ahead",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "친구",
+     "친구",
+     "chingu"
+    ],
+    [
+     "자리",
+     "자리",
+     "jari"
+    ],
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +204,19 @@
    "note": "echo",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_study_b2/cut4"
+   "art": "scene/ko/r2_study_b2/cut4",
+   "lemmas": [
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +226,24 @@
    "en": "Yes. Seats are hard to get.",
    "note": "자리 맡다 = save a seat",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "자리",
+     "자리",
+     "jari"
+    ],
+    [
+     "맡",
+     "맡다",
+     "matda"
+    ],
+    [
+     "힘들",
+     "힘들다",
+     "himdeulda"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -123,7 +254,29 @@
    "note": "sarcasm",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_study_b2/cut5"
+   "art": "scene/ko/r2_study_b2/cut5",
+   "lemmas": [
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "자리",
+     "자리",
+     "jari"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "맡",
+     "맡다",
+     "matda"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -133,7 +286,19 @@
    "en": "Don't. That's why there are no seats.",
    "note": "그래서 = that's why",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "그러",
+     "그러다",
+     "geureoda"
+    ],
+    [
+     "자리",
+     "자리",
+     "jari"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -144,7 +309,24 @@
    "note": "치우다 = clear away",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_study_b2/cut6"
+   "art": "scene/ko/r2_study_b2/cut6",
+   "lemmas": [
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ],
+    [
+     "가방",
+     "가방",
+     "gabang"
+    ],
+    [
+     "치울",
+     "치우다",
+     "chiuda"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -154,7 +336,34 @@
    "en": "Thank you! Tell your friend to come early tomorrow too.",
    "note": "일찍 = early",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "친구",
+     "친구",
+     "chingu"
+    ],
+    [
+     "일찍",
+     "일찍",
+     "iljjik"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ]
+   ]
   }
  ],
  "review": {

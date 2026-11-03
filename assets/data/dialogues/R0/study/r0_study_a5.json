@@ -40,7 +40,24 @@
    "note": "늦다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_study_a5/cut1"
+   "art": "scene/ko/r0_study_a5/cut1",
+   "lemmas": [
+    [
+     "죄송합",
+     "죄송하다",
+     "joesonghada"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "늦",
+     "늦다",
+     "neutda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +67,19 @@
    "en": "Why are you so late?",
    "note": "왜",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "늦",
+     "늦다",
+     "neutda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +90,24 @@
    "note": "callback 버스 반대",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_study_a5/cut2"
+   "art": "scene/ko/r0_study_a5/cut2",
+   "lemmas": [
+    [
+     "버스",
+     "버스",
+     "beoseu"
+    ],
+    [
+     "반대쪽",
+     "반대쪽",
+     "bandaejjok"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +117,19 @@
    "en": "(opens door) Sorry! More behind me!",
    "note": "another",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ],
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +140,19 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_study_a5/cut3"
+   "art": "scene/ko/r0_study_a5/cut3",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +162,14 @@
    "en": "Huh? All the same bus?",
    "note": "같은",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "버스",
+     "버스",
+     "beoseu"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +180,24 @@
    "note": "punchline 1",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_study_a5/cut4"
+   "art": "scene/ko/r0_study_a5/cut4",
+   "lemmas": [
+    [
+     "반대",
+     "반대",
+     "bandae"
+    ],
+    [
+     "버스",
+     "버스",
+     "beoseu"
+    ],
+    [
+     "탔",
+     "타다",
+     "tada"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +207,29 @@
    "en": "Haha, then today's class is the opposite story.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "수업",
+     "수업",
+     "sueop"
+    ],
+    [
+     "반대",
+     "반대",
+     "bandae"
+    ],
+    [
+     "이야기",
+     "이야기",
+     "iyagi"
+    ]
+   ]
   }
  ],
  "review": {

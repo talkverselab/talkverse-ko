@@ -39,7 +39,24 @@
    "note": "세배 = New Year's bow",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b3/cut1"
+   "art": "scene/ko/r2_culture_b3/cut1",
+   "lemmas": [
+    [
+     "이제",
+     "이제",
+     "ije"
+    ],
+    [
+     "세배",
+     "세배",
+     "sebae"
+    ],
+    [
+     "차례",
+     "차례",
+     "charye"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +66,14 @@
    "en": "A New Year's bow? How?",
    "note": "어떻게 = how",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "배",
+     "배",
+     "bae"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +84,34 @@
    "note": "새해 복 많이 받으세요 = Happy New Year (lit. receive lots of luck)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b3/cut2"
+   "art": "scene/ko/r2_culture_b3/cut2",
+   "lemmas": [
+    [
+     "큰",
+     "크다",
+     "keuda"
+    ],
+    [
+     "절",
+     "절",
+     "jeol"
+    ],
+    [
+     "새해",
+     "새해",
+     "saehae"
+    ],
+    [
+     "복",
+     "복",
+     "bok"
+    ],
+    [
+     "많이",
+     "많이",
+     "mani"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +121,24 @@
    "en": "(bowing) Happy New Year!",
    "note": "the phrase",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "새해",
+     "새해",
+     "saehae"
+    ],
+    [
+     "복",
+     "복",
+     "bok"
+    ],
+    [
+     "많이",
+     "많이",
+     "mani"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +149,34 @@
    "note": "덕담 = words of blessing",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b3/cut3"
+   "art": "scene/ko/r2_culture_b3/cut3",
+   "lemmas": [
+    [
+     "아이고",
+     "아이고",
+     "aigo"
+    ],
+    [
+     "올해",
+     "올해",
+     "olhae"
+    ],
+    [
+     "건강",
+     "건강",
+     "geongang"
+    ],
+    [
+     "공부",
+     "공부",
+     "gongbu"
+    ],
+    [
+     "열심히",
+     "열심히",
+     "yeolsimhi"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +186,14 @@
    "en": "Thank you! ...But what is this?",
    "note": "Kick setup: an envelope",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +204,19 @@
    "note": "세뱃돈 = New Year gift money",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b3/cut4"
+   "art": "scene/ko/r2_culture_b3/cut4",
+   "lemmas": [
+    [
+     "세뱃돈",
+     "세뱃돈",
+     "sebaetdon"
+    ],
+    [
+     "넣",
+     "넣다",
+     "neota"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +226,29 @@
    "en": "Whoa... for real? You get money for one bow?",
    "note": "Kick",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "절",
+     "절",
+     "jeol"
+    ],
+    [
+     "돈",
+     "돈",
+     "don"
+    ],
+    [
+     "줘",
+     "주다",
+     "juda"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -123,7 +259,24 @@
    "note": "제일 = the best",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b3/cut5"
+   "art": "scene/ko/r2_culture_b3/cut5",
+   "lemmas": [
+    [
+     "설날",
+     "설날",
+     "seollal"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "날",
+     "날",
+     "nal"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -133,7 +286,8 @@
    "en": "Then... can I bow one more time?",
    "note": "한 번 더 = once more",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 11,
@@ -144,7 +298,29 @@
    "note": "떡국 = New Year soup — eating one = +1 year",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b3/cut6"
+   "art": "scene/ko/r2_culture_b3/cut6",
+   "lemmas": [
+    [
+     "대신",
+     "대신",
+     "daesin"
+    ],
+    [
+     "떡국",
+     "떡국",
+     "tteokguk"
+    ],
+    [
+     "그릇",
+     "그릇",
+     "geureut"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -154,7 +330,19 @@
    "en": "Two bowls means I get two years older?",
    "note": "나이 먹다 = to age (lit. eat age)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "그릇",
+     "그릇",
+     "geureut"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   }
  ],
  "review": {

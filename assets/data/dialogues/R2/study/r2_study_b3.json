@@ -41,7 +41,29 @@
    "note": "리더",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_study_b3/cut1"
+   "art": "scene/ko/r2_study_b3/cut1",
+   "lemmas": [
+    [
+     "이번",
+     "이번",
+     "ibeon"
+    ],
+    [
+     "리더",
+     "리더",
+     "rideo"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "책임질",
+     "책임지다",
+     "chaegimjida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +73,24 @@
    "en": "For real? You left us on read last time.",
    "note": "callback",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "지난번",
+     "지난번",
+     "jinanbeon"
+    ],
+    [
+     "읽씹",
+     "읽씹",
+     "ikssip"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +101,39 @@
    "note": "반성",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_study_b3/cut2"
+   "art": "scene/ko/r2_study_b3/cut2",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "그때",
+     "그때",
+     "geuttae"
+    ],
+    [
+     "바빴",
+     "바쁘다",
+     "bappeuda"
+    ],
+    [
+     "이번",
+     "이번",
+     "ibeon"
+    ],
+    [
+     "일정표",
+     "일정표",
+     "iljeongpyo"
+    ],
+    [
+     "만들",
+     "만들다",
+     "mandeulda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +143,19 @@
    "en": "Whoa, the schedule's Excel?",
    "note": "엑셀",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "일정표",
+     "일정표",
+     "iljeongpyo"
+    ],
+    [
+     "엑셀",
+     "엑셀",
+     "eksel"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +166,24 @@
    "note": "색깔",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_study_b3/cut3"
+   "art": "scene/ko/r2_study_b3/cut3",
+   "lemmas": [
+    [
+     "색깔",
+     "색깔",
+     "saekkkal"
+    ],
+    [
+     "칠",
+     "칠",
+     "chil"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +193,24 @@
    "en": "But the presentation date is wrong?",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "발표",
+     "발표",
+     "balpyo"
+    ],
+    [
+     "날짜",
+     "날짜",
+     "naljja"
+    ],
+    [
+     "틀렸",
+     "틀리다",
+     "teullida"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +221,24 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_study_b3/cut4"
+   "art": "scene/ko/r2_study_b3/cut4",
+   "lemmas": [
+    [
+     "뭐",
+     "뭐",
+     "mwo"
+    ],
+    [
+     "어제",
+     "어제",
+     "eoje"
+    ],
+    [
+     "썼",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +248,29 @@
    "en": "No, it's tomorrow. We gotta do everything tonight.",
    "note": "reveal",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "밤",
+     "밤",
+     "bam"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -125,7 +281,44 @@
    "note": "치킨",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_study_b3/cut5"
+   "art": "scene/ko/r2_study_b3/cut5",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "밤",
+     "밤",
+     "bam"
+    ],
+    [
+     "치킨",
+     "치킨",
+     "chikin"
+    ],
+    [
+     "피자",
+     "피자",
+     "pija"
+    ],
+    [
+     "쏠",
+     "쏘다",
+     "ssoda"
+    ],
+    [
+     "애",
+     "애",
+     "ae"
+    ],
+    [
+     "부를",
+     "부르다",
+     "bureuda"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -135,7 +328,29 @@
    "en": "So it's the night before again. And more people?",
    "note": "전날",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "결국",
+     "결국",
+     "gyeolguk"
+    ],
+    [
+     "전날",
+     "전날",
+     "jeonnal"
+    ],
+    [
+     "밤",
+     "밤",
+     "bam"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -146,7 +361,29 @@
    "note": "있다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_study_b3/cut6"
+   "art": "scene/ko/r2_study_b3/cut6",
+   "lemmas": [
+    [
+     "이번",
+     "이번",
+     "ibeon"
+    ],
+    [
+     "리더",
+     "리더",
+     "rideo"
+    ],
+    [
+     "리더",
+     "리더",
+     "rideo"
+    ],
+    [
+     "커지",
+     "커지다",
+     "keojida"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -156,7 +393,29 @@
    "en": "Right. The chicken leader is making everything more of a mess.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "치킨",
+     "치킨",
+     "chikin"
+    ],
+    [
+     "리더",
+     "리더",
+     "rideo"
+    ],
+    [
+     "꼬이",
+     "꼬이다",
+     "kkoida"
+    ],
+    [
+     "만들",
+     "만들다",
+     "mandeulda"
+    ]
+   ]
   }
  ],
  "review": {

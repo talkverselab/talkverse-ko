@@ -40,7 +40,29 @@
    "note": "가도 돼요? = may I leave?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_work_b1/cut1"
+   "art": "scene/ko/r3_work_b1/cut1",
+   "lemmas": [
+    [
+     "선배",
+     "선배",
+     "seonbae"
+    ],
+    [
+     "일",
+     "일",
+     "il"
+    ],
+    [
+     "끝났",
+     "끝나다",
+     "kkeunnada"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +72,24 @@
    "en": "The boss hasn't left yet",
    "note": "안 가셨잖아 = hasn't left (honorific)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +100,24 @@
    "note": "그게 왜요? = why does that matter?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_work_b1/cut2"
+   "art": "scene/ko/r3_work_b1/cut2",
+   "lemmas": [
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "일",
+     "일",
+     "il"
+    ],
+    [
+     "끝났",
+     "끝나다",
+     "kkeunnada"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +127,24 @@
    "en": "Nunchi, lesson one of Korean companies",
    "note": "눈치 = reading the room",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "눈치",
+     "눈치",
+     "nunchi"
+    ],
+    [
+     "한국",
+     "한국",
+     "hanguk"
+    ],
+    [
+     "회사",
+     "회사",
+     "hoesa"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +155,8 @@
    "note": "언제까지 = until when",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_work_b1/cut3"
+   "art": "scene/ko/r3_work_b1/cut3",
+   "lemmas": []
   },
   {
    "num": 6,
@@ -92,7 +166,24 @@
    "en": "Five minutes after the boss stands up",
    "note": "일어나다 = stand up",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "일어나",
+     "일어나다",
+     "ireonada"
+    ],
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +194,24 @@
    "note": "수고했어요 = good work today",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_work_b1/cut4"
+   "art": "scene/ko/r3_work_b1/cut4",
+   "lemmas": [
+    [
+     "수고",
+     "수고",
+     "sugo"
+    ],
+    [
+     "먼저",
+     "먼저",
+     "meonjeo"
+    ],
+    [
+     "갈",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +221,24 @@
    "en": "Now? Do I go now?",
    "note": "지금 = now",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -124,7 +249,19 @@
    "note": "남다 = remain",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_work_b1/cut5"
+   "art": "scene/ko/r3_work_b1/cut5",
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "남",
+     "남다",
+     "namda"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -134,7 +271,24 @@
    "en": "Really? Down to the second?",
    "note": "재다 = to time / measure",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "초",
+     "초",
+     "cho"
+    ],
+    [
+     "재",
+     "재다",
+     "jaeda"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -145,7 +299,24 @@
    "note": "가면서 = while leaving",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_work_b1/cut6"
+   "art": "scene/ko/r3_work_b1/cut6",
+   "lemmas": [
+    [
+     "눈치",
+     "눈치",
+     "nunchi"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "인사",
+     "인사",
+     "insa"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -155,7 +326,19 @@
    "en": "I'll be heading out first!",
    "note": "먼저 가 보겠습니다 = the standard leaving phrase",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "먼저",
+     "먼저",
+     "meonjeo"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 13,
@@ -166,7 +349,14 @@
    "note": "one stands up…",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_work_b1/cut7"
+   "art": "scene/ko/r3_work_b1/cut7",
+   "lemmas": [
+    [
+     "갈",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 14,
@@ -176,7 +366,14 @@
    "en": "Me too! Everyone, let's go!",
    "note": "…then everyone — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 15,
@@ -187,7 +384,29 @@
    "note": "Kick: the boss comes back",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_work_b1/cut8"
+   "art": "scene/ko/r3_work_b1/cut8",
+   "lemmas": [
+    [
+     "우산",
+     "우산",
+     "usan"
+    ],
+    [
+     "놓",
+     "놓다",
+     "nota"
+    ],
+    [
+     "갔",
+     "가다",
+     "gada"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 16,
@@ -197,7 +416,19 @@
    "en": "(message) …Jiho, is this nunchi too?",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "선배",
+     "선배",
+     "seonbae"
+    ],
+    [
+     "눈치",
+     "눈치",
+     "nunchi"
+    ]
+   ]
   }
  ],
  "review": {

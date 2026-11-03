@@ -39,7 +39,24 @@
    "note": "롤링페이퍼 = group message card",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a7/cut1"
+   "art": "scene/ko/r1_friends_a7/cut1",
+   "lemmas": [
+    [
+     "만든",
+     "만들다",
+     "mandeulda"
+    ],
+    [
+     "롤링",
+     "롤링",
+     "rolling"
+    ],
+    [
+     "페이퍼",
+     "페이퍼",
+     "peipeo"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +66,14 @@
    "en": "Whoa, really? Thanks!",
    "note": "고마워",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +84,29 @@
    "note": "지금",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a7/cut2"
+   "art": "scene/ko/r1_friends_a7/cut2",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "읽",
+     "읽다",
+     "ikda"
+    ],
+    [
+     "집",
+     "집",
+     "jip"
+    ],
+    [
+     "읽",
+     "읽다",
+     "ikda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +116,19 @@
    "en": "…I already read it all.",
    "note": "읽다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "벌써",
+     "벌써",
+     "beolsseo"
+    ],
+    [
+     "읽",
+     "읽다",
+     "ikda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +139,19 @@
    "note": "울다 = cry",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a7/cut3"
+   "art": "scene/ko/r1_friends_a7/cut3",
+   "lemmas": [
+    [
+     "눈물",
+     "눈물",
+     "nunmul"
+    ],
+    [
+     "울",
+     "울다",
+     "ulda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +161,24 @@
    "en": "No… something got in my eye…",
    "note": "classic excuse",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "눈",
+     "눈",
+     "nun"
+    ],
+    [
+     "들어갔",
+     "들어가다",
+     "deureogada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +189,14 @@
    "note": "보고 싶다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a7/cut4"
+   "art": "scene/ko/r1_friends_a7/cut4",
+   "lemmas": [
+    [
+     "보",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +206,24 @@
    "en": "Then can I just come back next term?",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "학기",
+     "학기",
+     "hakgi"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ]
+   ]
   }
  ],
  "review": {

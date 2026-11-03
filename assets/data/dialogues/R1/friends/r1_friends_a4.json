@@ -40,7 +40,24 @@
    "note": "잡히다 = get caught (a taxi)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a4/cut1"
+   "art": "scene/ko/r1_friends_a4/cut1",
+   "lemmas": [
+    [
+     "앱",
+     "앱",
+     "aep"
+    ],
+    [
+     "불",
+     "부르다",
+     "bureuda"
+    ],
+    [
+     "잡혀",
+     "잡히다",
+     "japida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +67,14 @@
    "en": "Me too, none nearby.",
    "note": "주변 = nearby",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "주변",
+     "주변",
+     "jubyeon"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +85,24 @@
    "note": "흔들다 = wave",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a4/cut2"
+   "art": "scene/ko/r1_friends_a4/cut2",
+   "lemmas": [
+    [
+     "온",
+     "오다",
+     "oda"
+    ],
+    [
+     "손",
+     "손",
+     "son"
+    ],
+    [
+     "흔들",
+     "흔들다",
+     "heundeulda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +112,8 @@
    "en": "Got one! You got one over there too?",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 5,
@@ -82,7 +124,8 @@
    "note": "Kick: three taxis — chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a4/cut3"
+   "art": "scene/ko/r1_friends_a4/cut3",
+   "lemmas": []
   },
   {
    "num": 6,
@@ -92,7 +135,14 @@
    "en": "Whoa are they all ours? Really?",
    "note": "다 = all",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +153,24 @@
    "note": "각자 = each",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a4/cut4"
+   "art": "scene/ko/r1_friends_a4/cut4",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "각자",
+     "각자",
+     "gakja"
+    ],
+    [
+     "타",
+     "타다",
+     "tada"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +180,19 @@
    "en": "Same neighborhood but three taxis lol",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "동네",
+     "동네",
+     "dongne"
+    ],
+    [
+     "택시",
+     "택시",
+     "taeksi"
+    ]
+   ]
   }
  ],
  "review": {

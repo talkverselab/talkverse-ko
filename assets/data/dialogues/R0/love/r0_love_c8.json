@@ -40,7 +40,19 @@
    "new": [],
    "ui": "bubble",
    "at": "23:50",
-   "art": "scene/ko/r0_love_c8/cut1"
+   "art": "scene/ko/r0_love_c8/cut1",
+   "lemmas": [
+    [
+     "하트",
+     "하트",
+     "hateu"
+    ],
+    [
+     "보냈",
+     "보내다",
+     "bonaeda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -52,7 +64,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:51"
+   "at": "23:51",
+   "lemmas": []
   },
   {
    "num": 3,
@@ -65,7 +78,14 @@
    "new": [],
    "ui": "bubble",
    "at": "23:51",
-   "art": "scene/ko/r0_love_c8/cut2"
+   "art": "scene/ko/r0_love_c8/cut2",
+   "lemmas": [
+    [
+     "실수",
+     "실수",
+     "silsu"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -77,7 +97,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:51"
+   "at": "23:51",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -90,7 +117,19 @@
    "new": [],
    "ui": "bubble",
    "at": "23:52",
-   "art": "scene/ko/r0_love_c8/cut3"
+   "art": "scene/ko/r0_love_c8/cut3",
+   "lemmas": [
+    [
+     "들켰",
+     "들키다",
+     "deulkida"
+    ],
+    [
+     "일부러",
+     "일부러",
+     "ilbureo"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -102,7 +141,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:52"
+   "at": "23:52",
+   "lemmas": [
+    [
+     "대박",
+     "대박",
+     "daebak"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -115,7 +161,19 @@
    "new": [],
    "ui": "bubble",
    "at": "23:53",
-   "art": "scene/ko/r0_love_c8/cut4"
+   "art": "scene/ko/r0_love_c8/cut4",
+   "lemmas": [
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -127,7 +185,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:53"
+   "at": "23:53",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   }
  ],
  "learner_gender": "F",

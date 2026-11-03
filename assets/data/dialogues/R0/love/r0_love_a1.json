@@ -37,7 +37,19 @@
    "note": "갑자기 = suddenly · 헐 = whoa",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a1/cut1"
+   "art": "scene/ko/r0_love_a1/cut1",
+   "lemmas": [
+    [
+     "갑자기",
+     "갑자기",
+     "gapjagi"
+    ],
+    [
+     "비",
+     "비",
+     "bi"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -47,7 +59,24 @@
    "en": "I've got one umbrella. Wanna share?",
    "note": "같이 쓸래? = want to share (it) with me?",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "우산",
+     "우산",
+     "usan"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "쓸",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -58,7 +87,19 @@
    "note": "괜찮아 = it's fine / no thanks · 뛰어갈게 = I'll run (there)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a1/cut2"
+   "art": "scene/ko/r0_love_a1/cut2",
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "뛰어갈",
+     "뛰어가다",
+     "ttwieogada"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -68,7 +109,29 @@
    "en": "Really? It's pouring though.",
    "note": "세게 오는데 = it's coming down hard, though",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "비",
+     "비",
+     "bi"
+    ],
+    [
+     "세",
+     "세다",
+     "seda"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -79,7 +142,19 @@
    "note": "-거든 = because, you see (giving a reason)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a1/cut3"
+   "art": "scene/ko/r0_love_a1/cut3",
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "빠르",
+     "빠르다",
+     "ppareuda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -89,7 +164,24 @@
    "en": "Whoa, you've never seen a drama, huh. This is that scene.",
    "note": "Kick: in every K-drama, this is the umbrella-sharing scene",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "드라마",
+     "드라마",
+     "deurama"
+    ],
+    [
+     "봤",
+     "보다",
+     "boda"
+    ],
+    [
+     "장면",
+     "장면",
+     "jangmyeon"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -100,7 +192,14 @@
    "note": "무슨 = what (kind of) · 장면 = scene",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a1/cut4"
+   "art": "scene/ko/r0_love_a1/cut4",
+   "lemmas": [
+    [
+     "장면",
+     "장면",
+     "jangmyeon"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -110,7 +209,19 @@
    "en": "Forget it… get in quick.",
    "note": "됐어 = forget it · 들어와 = come in (under it)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "들어와",
+     "들어오다",
+     "deureooda"
+    ]
+   ]
   }
  ],
  "review": {

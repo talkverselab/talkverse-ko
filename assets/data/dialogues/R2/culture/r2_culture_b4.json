@@ -42,7 +42,34 @@
    "note": "탬버린 = tambourine",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b4/cut1"
+   "art": "scene/ko/r2_culture_b4/cut1",
+   "lemmas": [
+    [
+     "씨",
+     "씨",
+     "ssi"
+    ],
+    [
+     "탬버린",
+     "탬버린",
+     "taembeorin"
+    ],
+    [
+     "쳐",
+     "치다",
+     "chida"
+    ],
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "노래",
+     "노래",
+     "norae"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -52,7 +79,14 @@
    "en": "For how many minutes?",
    "note": "몇 분 = how many minutes",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "쳐",
+     "치다",
+     "chida"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -63,7 +97,19 @@
    "note": "-ㄹ 때까지 = until",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b4/cut2"
+   "art": "scene/ko/r2_culture_b4/cut2",
+   "lemmas": [
+    [
+     "끝날",
+     "끝나다",
+     "kkeunnada"
+    ],
+    [
+     "때",
+     "때",
+     "ttae"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -73,7 +119,29 @@
    "en": "Is this song really this long? Really?",
    "note": "원래 = originally",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "노래",
+     "노래",
+     "norae"
+    ],
+    [
+     "원래",
+     "원래",
+     "wollae"
+    ],
+    [
+     "길",
+     "길다",
+     "gilda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -84,7 +152,24 @@
    "note": "절 = verse",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b4/cut3"
+   "art": "scene/ko/r2_culture_b4/cut3",
+   "lemmas": [
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "절",
+     "절",
+     "jeol"
+    ],
+    [
+     "절",
+     "절",
+     "jeol"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -94,7 +179,14 @@
    "en": "Huh it broke.",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "부서졌",
+     "부서지다",
+     "buseojida"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -105,7 +197,24 @@
    "note": "열정 = passion",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b4/cut4"
+   "art": "scene/ko/r2_culture_b4/cut4",
+   "lemmas": [
+    [
+     "열정",
+     "열정",
+     "yeoljeong"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "곡",
+     "곡",
+     "gok"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -115,7 +224,19 @@
    "en": "Wait the tambourine turned into two pieces?",
    "note": "Kick: chaos escalates",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "탬버린",
+     "탬버린",
+     "taembeorin"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -126,7 +247,24 @@
    "note": "양손 = both hands",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b4/cut5"
+   "art": "scene/ko/r2_culture_b4/cut5",
+   "lemmas": [
+    [
+     "양손",
+     "양손",
+     "yangson"
+    ],
+    [
+     "쳐",
+     "치다",
+     "chida"
+    ],
+    [
+     "신나",
+     "신나다",
+     "sinnada"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -136,7 +274,34 @@
    "en": "Next song reserved, a duet this time with {name}!",
    "note": "듀엣 = duet",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "곡",
+     "곡",
+     "gok"
+    ],
+    [
+     "예약",
+     "예약",
+     "yeyak"
+    ],
+    [
+     "이번",
+     "이번",
+     "ibeon"
+    ],
+    [
+     "듀엣이다",
+     "듀엣이다",
+     "dyuesida"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -147,7 +312,24 @@
    "note": "언제 = when",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b4/cut6"
+   "art": "scene/ko/r2_culture_b4/cut6",
+   "lemmas": [
+    [
+     "집",
+     "집",
+     "jip"
+    ],
+    [
+     "언제",
+     "언제",
+     "eonje"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -157,7 +339,19 @@
    "en": "When the tambourines are all broken.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "탬버린",
+     "탬버린",
+     "taembeorin"
+    ],
+    [
+     "부서지",
+     "부서지다",
+     "buseojida"
+    ]
+   ]
   }
  ],
  "review": {

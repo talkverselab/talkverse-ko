@@ -38,7 +38,8 @@
    "note": "추워? = are you cold?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a7/cut1"
+   "art": "scene/ko/r0_love_a7/cut1",
+   "lemmas": []
   },
   {
    "num": 2,
@@ -48,7 +49,14 @@
    "en": "Yeah, a little.",
    "note": "조금 = a little",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "조금",
+     "조금",
+     "jogeum"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +67,24 @@
    "note": "줘 봐 = let me see",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a7/cut2"
+   "art": "scene/ko/r0_love_a7/cut2",
+   "lemmas": [
+    [
+     "손",
+     "손",
+     "son"
+    ],
+    [
+     "이리",
+     "이리",
+     "iri"
+    ],
+    [
+     "줘",
+     "주다",
+     "juda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +94,19 @@
    "en": "My hand? Really?",
    "note": "왜 = why",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "손",
+     "손",
+     "son"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +117,14 @@
    "note": "심쿵: she holds it",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a7/cut3"
+   "art": "scene/ko/r0_love_a7/cut3",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +134,14 @@
    "en": "It's fine, you can let go.",
    "note": "놓다 = let go",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +152,29 @@
    "note": "싫어 = no (I don't want to)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a7/cut4"
+   "art": "scene/ko/r0_love_a7/cut4",
+   "lemmas": [
+    [
+     "싫",
+     "싫다",
+     "silta"
+    ],
+    [
+     "버스",
+     "버스",
+     "beoseu"
+    ],
+    [
+     "올",
+     "오다",
+     "oda"
+    ],
+    [
+     "때",
+     "때",
+     "ttae"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +184,24 @@
    "en": "I hope it comes late...",
    "note": "심쿵 punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "늦",
+     "늦다",
+     "neutda"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   }
  ],
  "series": "flirt",

@@ -39,7 +39,29 @@
    "note": "도착했네 = we're here (noticing)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b1/cut1"
+   "art": "scene/ko/r2_love_b1/cut1",
+   "lemmas": [
+    [
+     "도착",
+     "도착",
+     "dochak"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +71,24 @@
    "en": "Right. Time just flew by.",
    "note": "그니까 = right? · 순식간에 = in an instant",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ],
+    [
+     "순식간",
+     "순식간",
+     "sunsikgan"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +99,34 @@
    "note": "보고 갈게 = I'll watch, then go — a drama classic",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b1/cut2"
+   "art": "scene/ko/r2_love_b1/cut2",
+   "lemmas": [
+    [
+     "먼저",
+     "먼저",
+     "meonjeo"
+    ],
+    [
+     "들어가",
+     "들어가다",
+     "deureogada"
+    ],
+    [
+     "들어가",
+     "들어가다",
+     "deureogada"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "갈",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +136,34 @@
    "en": "No, you go first. I'll go in after I watch you leave.",
    "note": "됐어 = no, it's fine · mirror sentence = the stalling game",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "먼저",
+     "먼저",
+     "meonjeo"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "들어갈",
+     "들어가다",
+     "deureogada"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +174,29 @@
    "note": "절대 안 돼 = absolutely not · -니까 = since / because",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b1/cut3"
+   "art": "scene/ko/r2_love_b1/cut3",
+   "lemmas": [
+    [
+     "절대",
+     "절대",
+     "jeoldae"
+    ],
+    [
+     "위험",
+     "위험",
+     "wiheom"
+    ],
+    [
+     "먼저",
+     "먼저",
+     "meonjeo"
+    ],
+    [
+     "들어가",
+     "들어가다",
+     "deureogada"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +206,24 @@
    "en": "Really? This is my neighborhood, what's dangerous about it.",
    "note": "뭐가 위험해 = what's dangerous about it (rhetorical)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "동네",
+     "동네",
+     "dongne"
+    ],
+    [
+     "위험",
+     "위험",
+     "wiheom"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +234,24 @@
    "note": "셋 세고 = count to three, then · 동시에 = at the same time",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b1/cut4"
+   "art": "scene/ko/r2_love_b1/cut4",
+   "lemmas": [
+    [
+     "세",
+     "세다",
+     "seda"
+    ],
+    [
+     "동시",
+     "동시",
+     "dongsi"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +261,24 @@
    "en": "Wait! …Thank you for today, really.",
    "note": "잠깐만 = wait a sec",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -123,7 +289,14 @@
    "note": "다시 해볼게 = let me try again",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b1/cut5"
+   "art": "scene/ko/r2_love_b1/cut5",
+   "lemmas": [
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -133,7 +306,14 @@
    "en": "Wait, just one more thing…",
    "note": "하나만 더 = just one more",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -144,7 +324,34 @@
    "note": "Kick: 다 들려 = I can hear everything — Mom at the window",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b1/cut6"
+   "art": "scene/ko/r2_love_b1/cut6",
+   "lemmas": [
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "들어가",
+     "들어가다",
+     "deureogada"
+    ],
+    [
+     "창문",
+     "창문",
+     "changmun"
+    ],
+    [
+     "열려",
+     "열리다",
+     "yeollida"
+    ],
+    [
+     "들려",
+     "들리다",
+     "deullida"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -154,7 +361,24 @@
    "en": "…Mom. Ugh, I'm going! Text me!",
    "note": "연락해 = text/call me",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "갈",
+     "가다",
+     "gada"
+    ],
+    [
+     "연락",
+     "연락",
+     "yeollak"
+    ]
+   ]
   }
  ],
  "review": {

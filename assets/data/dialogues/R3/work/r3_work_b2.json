@@ -42,7 +42,24 @@
    "note": "시작",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_work_b2/cut1"
+   "art": "scene/ko/r3_work_b2/cut1",
+   "lemmas": [
+    [
+     "준비",
+     "준비",
+     "junbi"
+    ],
+    [
+     "바로",
+     "바로",
+     "baro"
+    ],
+    [
+     "시작",
+     "시작",
+     "sijak"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -52,7 +69,44 @@
    "en": "Yes. Hello. Today I'll be talking about making our meetings a bit shorter…",
    "note": "발표",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "안녕",
+     "안녕",
+     "annyeong"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "말씀",
+     "말씀",
+     "malsseum"
+    ],
+    [
+     "드릴",
+     "드리다",
+     "deurida"
+    ],
+    [
+     "회의",
+     "회의",
+     "hoeui"
+    ],
+    [
+     "짧",
+     "짧다",
+     "jjalda"
+    ],
+    [
+     "내용",
+     "내용",
+     "naeyong"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -63,7 +117,29 @@
    "note": "Kick setup",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_work_b2/cut2"
+   "art": "scene/ko/r3_work_b2/cut2",
+   "lemmas": [
+    [
+     "화면",
+     "화면",
+     "hwamyeon"
+    ],
+    [
+     "갑자기",
+     "갑자기",
+     "gapjagi"
+    ],
+    [
+     "꺼졌",
+     "꺼지다",
+     "kkeojida"
+    ],
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -73,7 +149,34 @@
    "en": "(whispering) It's the battery! Where's the charger? Find it quick!",
    "note": "충전기",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "배터리",
+     "배터리",
+     "baeteori"
+    ],
+    [
+     "충전기",
+     "충전기",
+     "chungjeongi"
+    ],
+    [
+     "갔",
+     "가다",
+     "gada"
+    ],
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "찾",
+     "찾다",
+     "chatda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -84,7 +187,19 @@
    "note": "Kick: mic — chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_work_b2/cut3"
+   "art": "scene/ko/r3_work_b2/cut3",
+   "lemmas": [
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ],
+    [
+     "끄",
+     "끄다",
+     "kkeuda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -94,7 +209,39 @@
    "en": "Please turn the mic off! It's way too loud, seriously!",
    "note": "chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "마이크",
+     "마이크",
+     "maikeu"
+    ],
+    [
+     "꺼",
+     "끄다",
+     "kkeuda"
+    ],
+    [
+     "소리",
+     "소리",
+     "sori"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "커",
+     "크다",
+     "keuda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -105,7 +252,29 @@
    "note": "Kick: CEO — chaos peak",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_work_b2/cut4"
+   "art": "scene/ko/r3_work_b2/cut4",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "발표",
+     "발표",
+     "balpyo"
+    ],
+    [
+     "대표",
+     "대표",
+     "daepyo"
+    ],
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -115,7 +284,29 @@
    "en": "Yes… Then I'll just explain without the screen.",
    "note": "결심",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "화면",
+     "화면",
+     "hwamyeon"
+    ],
+    [
+     "없이",
+     "없이",
+     "eopsi"
+    ],
+    [
+     "말씀",
+     "말씀",
+     "malsseum"
+    ],
+    [
+     "드릴",
+     "드리다",
+     "deurida"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -126,7 +317,29 @@
    "note": "callback 5분",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_work_b2/cut5"
+   "art": "scene/ko/r3_work_b2/cut5",
+   "lemmas": [
+    [
+     "드리",
+     "드리다",
+     "deurida"
+    ],
+    [
+     "말씀",
+     "말씀",
+     "malsseum"
+    ],
+    [
+     "회의",
+     "회의",
+     "hoeui"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -136,7 +349,8 @@
    "en": "(brief silence) …Five minutes?",
    "note": "silence",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 11,
@@ -147,7 +361,29 @@
    "note": "reveal",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_work_b2/cut6"
+   "art": "scene/ko/r3_work_b2/cut6",
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "방금",
+     "방금",
+     "banggeum"
+    ],
+    [
+     "발표",
+     "발표",
+     "balpyo"
+    ],
+    [
+     "거의",
+     "거의",
+     "geoui"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -157,7 +393,24 @@
    "en": "Yes, the laptop seemed to help just right.",
    "note": "joke",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "노트북",
+     "노트북",
+     "noteubuk"
+    ],
+    [
+     "딱",
+     "딱",
+     "ttak"
+    ],
+    [
+     "도와준",
+     "도와주다",
+     "dowajuda"
+    ]
+   ]
   },
   {
    "num": 13,
@@ -168,7 +421,44 @@
    "note": "callback",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_work_b2/cut7"
+   "art": "scene/ko/r3_work_b2/cut7",
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "주",
+     "주",
+     "ju"
+    ],
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "김치찌개",
+     "김치찌개",
+     "gimchijjigae"
+    ],
+    [
+     "계속",
+     "계속",
+     "gyesok"
+    ],
+    [
+     "드셔",
+     "드시다",
+     "deusida"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 14,
@@ -178,7 +468,29 @@
    "en": "(whispering) This presentation is gonna be a total legend.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "이번",
+     "이번",
+     "ibeon"
+    ],
+    [
+     "발표",
+     "발표",
+     "balpyo"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "레전드",
+     "레전드",
+     "rejeondeu"
+    ]
+   ]
   }
  ],
  "review": {

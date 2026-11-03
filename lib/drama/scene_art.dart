@@ -2,6 +2,9 @@ import 'dart:convert';
 
 import 'package:http/http.dart' as http;
 
+import '../services/content_sync.dart';
+import '../services/learner_prefs.dart';
+
 /// 장면 컷 그림 — uk 세션이 R2 로 서빙(2026-11-02). 매니페스트 `GET /art/ko/scene/manifest` →
 /// {base, items:[{episode, cut, key_1168, key_584}]}, 그림 = base + key. A·B 한 쌍 = 1컷(턴 n → 컷 (n+1)~/2).
 class SceneArt {
@@ -33,8 +36,17 @@ class SceneArt {
   }
 
   /// 편·턴 번호(1부터)의 컷 주소. small = 절반 폭(목록 썸네일).
+  /// 「나」가 여자면 `<편id>_f` 컷 먼저(없으면 기본 컷). 기기에 받아 둔 색인(ContentSync)을 먼저 보고, 없으면 네트워크 매니페스트.
   String? cut(String episode, int turnNum, {bool small = false}) {
-    final k = '$episode#${(turnNum + 1) ~/ 2}';
-    return small ? (_half[k] ?? _full[k]) : (_full[k] ?? _half[k]);
+    final n = (turnNum + 1) ~/ 2;
+    for (final id in [if (LearnerPrefs.gender.value == 'female') '${episode}_f', episode]) {
+      final local = ContentSync.instance.sceneIndex[id]?[n];
+      if (local != null && !small) return '${ContentSync.instance.base}/$local';
+      final k = '$id#$n';
+      final u = small ? (_half[k] ?? _full[k]) : (_full[k] ?? _half[k]);
+      if (u != null) return u;
+      if (local != null) return '${ContentSync.instance.base}/$local';
+    }
+    return null;
   }
 }

@@ -42,7 +42,8 @@
    "note": "inner voice — the K-drama bus scene",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b4/cut1"
+   "art": "scene/ko/r3_love_b4/cut1",
+   "lemmas": []
   },
   {
    "num": 2,
@@ -52,7 +53,8 @@
    "en": "……",
    "note": "sleeping? or not",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 3,
@@ -63,7 +65,19 @@
    "note": "내려요 = I get off",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b4/cut2"
+   "art": "scene/ko/r3_love_b4/cut2",
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "내려",
+     "내리다",
+     "naerida"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -73,7 +87,8 @@
    "en": "…Just five minutes.",
    "note": "-만요 = just (polite)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 5,
@@ -84,7 +99,14 @@
    "note": "안 주무셨어요? = you weren't sleeping? (honorific)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b4/cut3"
+   "art": "scene/ko/r3_love_b4/cut3",
+   "lemmas": [
+    [
+     "잤",
+     "자다",
+     "jada"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -94,7 +116,24 @@
    "en": "Since a while ago. Your shoulder’s comfortable.",
    "note": "편하다 = comfortable",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아까",
+     "아까",
+     "akka"
+    ],
+    [
+     "어깨",
+     "어깨",
+     "eokkae"
+    ],
+    [
+     "편해",
+     "편하다",
+     "pyeonhada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -105,7 +144,19 @@
    "note": "-었어요? = past question",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b4/cut4"
+   "art": "scene/ko/r3_love_b4/cut4",
+   "lemmas": [
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "기댔",
+     "기대다",
+     "gidaeda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -115,7 +166,24 @@
    "en": "In dramas, people start dating after this.",
    "note": "-던데요 = from what I've seen",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "드라마",
+     "드라마",
+     "deurama"
+    ],
+    [
+     "이러",
+     "이러다",
+     "ireoda"
+    ],
+    [
+     "사귀",
+     "사귀다",
+     "sagwida"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -126,7 +194,24 @@
    "note": "노리다 = to target / aim for",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b4/cut5"
+   "art": "scene/ko/r3_love_b4/cut5",
+   "lemmas": [
+    [
+     "설마",
+     "설마",
+     "seolma"
+    ],
+    [
+     "노리",
+     "노리다",
+     "norida"
+    ],
+    [
+     "탄",
+     "타다",
+     "tada"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -136,7 +221,34 @@
    "en": "No. We just live in the same area. You take this bus every day.",
    "note": "Kick: she's been watching for a while",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "동네",
+     "동네",
+     "dongne"
+    ],
+    [
+     "매일",
+     "매일",
+     "maeil"
+    ],
+    [
+     "버스",
+     "버스",
+     "beoseu"
+    ],
+    [
+     "타",
+     "타다",
+     "tada"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -147,7 +259,19 @@
    "note": "매일 = every day",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b4/cut6"
+   "art": "scene/ko/r3_love_b4/cut6",
+   "lemmas": [
+    [
+     "매일",
+     "매일",
+     "maeil"
+    ],
+    [
+     "봤",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -157,7 +281,29 @@
    "en": "Yeah. You always doze off, {name}. Today I tried dozing.",
    "note": "졸다 = to doze off",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "맨날",
+     "맨날",
+     "maennal"
+    ],
+    [
+     "졸",
+     "졸다",
+     "jolda"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "졸",
+     "졸다",
+     "jolda"
+    ]
+   ]
   },
   {
    "num": 13,
@@ -168,7 +314,24 @@
    "note": "어떻게 = how",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b4/cut7"
+   "art": "scene/ko/r3_love_b4/cut7",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "이름",
+     "이름",
+     "ireum"
+    ],
+    [
+     "알",
+     "알다",
+     "alda"
+    ]
+   ]
   },
   {
    "num": 14,
@@ -178,7 +341,19 @@
    "en": "It’s written on your bag.",
    "note": "써 있다 = is written",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "가방",
+     "가방",
+     "gabang"
+    ],
+    [
+     "써",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 15,
@@ -189,7 +364,39 @@
    "note": "사 줄게요 = I'll buy (for you)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b4/cut8"
+   "art": "scene/ko/r3_love_b4/cut8",
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "정류장",
+     "정류장",
+     "jeongnyujang"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "내려",
+     "내리다",
+     "naerida"
+    ],
+    [
+     "커피",
+     "커피",
+     "keopi"
+    ],
+    [
+     "사",
+     "사다",
+     "sada"
+    ]
+   ]
   },
   {
    "num": 16,
@@ -199,7 +406,19 @@
    "en": "Really? Then I’ll lean five more minutes.",
    "note": "기댈게요 = I'll lean",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "기댈",
+     "기대다",
+     "gidaeda"
+    ]
+   ]
   }
  ],
  "review": {

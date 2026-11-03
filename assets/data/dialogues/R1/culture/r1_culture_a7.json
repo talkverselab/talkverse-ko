@@ -39,7 +39,19 @@
    "note": "응원법",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a7/cut1"
+   "art": "scene/ko/r1_culture_a7/cut1",
+   "lemmas": [
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "외워",
+     "외우다",
+     "oeuda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +61,19 @@
    "en": "Three times? For real? Yeah, got it.",
    "note": "알다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "알",
+     "알다",
+     "alda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +84,29 @@
    "note": "박수",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a7/cut2"
+   "art": "scene/ko/r1_culture_a7/cut2",
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "사랑",
+     "사랑",
+     "sarang"
+    ],
+    [
+     "짝짝",
+     "짝짝",
+     "jjakjjak"
+    ],
+    [
+     "쳐",
+     "치다",
+     "chida"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +116,34 @@
    "en": "Uh... wait. Taeo three times, I love you, claps... is this right?",
    "note": "잠깐만",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "태",
+     "태",
+     "tae"
+    ],
+    [
+     "사랑해",
+     "사랑해",
+     "saranghae"
+    ],
+    [
+     "짝짝",
+     "짝짝",
+     "jjakjjak"
+    ],
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +154,19 @@
    "note": "Kick setup",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a7/cut3"
+   "art": "scene/ko/r1_culture_a7/cut3",
+   "lemmas": [
+    [
+     "벌써",
+     "벌써",
+     "beolsseo"
+    ],
+    [
+     "시작",
+     "시작",
+     "sijak"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +176,19 @@
    "en": "Taeo! Taeo! I love you! Clap clap!",
    "note": "Kick: wrong order",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "사랑",
+     "사랑",
+     "sarang"
+    ],
+    [
+     "짝짝",
+     "짝짝",
+     "jjakjjak"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +199,39 @@
    "note": "틀리다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a7/cut4"
+   "art": "scene/ko/r1_culture_a7/cut4",
+   "lemmas": [
+    [
+     "옆",
+     "옆",
+     "yeop"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ],
+    [
+     "따라하",
+     "따라하다",
+     "ttarahada"
+    ],
+    [
+     "라이트",
+     "라이트",
+     "raiteu"
+    ],
+    [
+     "스틱",
+     "스틱",
+     "seutik"
+    ],
+    [
+     "흔들",
+     "흔들다",
+     "heundeulda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +241,14 @@
    "en": "(laughing harder) One more time! Louder!",
    "note": "punchline 심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "세",
+     "세다",
+     "seda"
+    ]
+   ]
   }
  ],
  "learner_gender": "F",

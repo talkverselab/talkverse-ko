@@ -40,7 +40,29 @@
    "note": "짐 = luggage / stuff",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b3/cut1"
+   "art": "scene/ko/r2_life_b3/cut1",
+   "lemmas": [
+    [
+     "짐",
+     "짐",
+     "jim"
+    ],
+    [
+     "올렸",
+     "올리다",
+     "ollida"
+    ],
+    [
+     "엘리베이터",
+     "엘리베이터",
+     "ellibeiteo"
+    ],
+    [
+     "타",
+     "타다",
+     "tada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +72,34 @@
    "en": "Elevator under inspection all day.",
    "note": "점검 = inspection",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "엘리베이터",
+     "엘리베이터",
+     "ellibeiteo"
+    ],
+    [
+     "점검",
+     "점검",
+     "jeomgeom"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "하루",
+     "하루",
+     "haru"
+    ],
+    [
+     "종일",
+     "종일",
+     "jongil"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +110,14 @@
    "note": "층 = floor",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b3/cut2"
+   "art": "scene/ko/r2_life_b3/cut2",
+   "lemmas": [
+    [
+     "층",
+     "층",
+     "cheung"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +127,24 @@
    "en": "Then let's call a ladder truck.",
    "note": "사다리차 = moving ladder truck",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "사다리",
+     "사다리",
+     "sadari"
+    ],
+    [
+     "차",
+     "차",
+     "cha"
+    ],
+    [
+     "부르",
+     "부르다",
+     "bureuda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +155,29 @@
    "note": "비 오다 = rain",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b3/cut3"
+   "art": "scene/ko/r2_life_b3/cut3",
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "비",
+     "비",
+     "bi"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ],
+    [
+     "시작",
+     "시작",
+     "sijak"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +187,24 @@
    "en": "Two jajangmyeon here, which floor?",
    "note": "이삿날 짜장면 = moving-day noodles",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "짜장면",
+     "짜장면",
+     "jjajangmyeon"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ],
+    [
+     "층",
+     "층",
+     "cheung"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +215,24 @@
    "note": "Kick: everything at once — chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b3/cut4"
+   "art": "scene/ko/r2_life_b3/cut4",
+   "lemmas": [
+    [
+     "층",
+     "층",
+     "cheung"
+    ],
+    [
+     "계단",
+     "계단",
+     "gyedan"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +242,14 @@
    "en": "Sorry? The stairs?",
    "note": "echo",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "계단",
+     "계단",
+     "gyedan"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -124,7 +260,19 @@
    "note": "내려가다 = go down",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b3/cut5"
+   "art": "scene/ko/r2_life_b3/cut5",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "내려갈",
+     "내려가다",
+     "naeryeogada"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -134,7 +282,34 @@
    "en": "Noodles are here but stuff is still on the ground floor.",
    "note": "아직 = still",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "짜장면",
+     "짜장면",
+     "jjajangmyeon"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ],
+    [
+     "짐",
+     "짐",
+     "jim"
+    ],
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ],
+    [
+     "층",
+     "층",
+     "cheung"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -145,7 +320,24 @@
    "note": "박스 = box",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b3/cut6"
+   "art": "scene/ko/r2_life_b3/cut6",
+   "lemmas": [
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ],
+    [
+     "박스",
+     "박스",
+     "bakseu"
+    ],
+    [
+     "위",
+     "위",
+     "wi"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -155,7 +347,19 @@
    "en": "Is this Korean-style moving?",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "한국식",
+     "한국식",
+     "hanguksik"
+    ],
+    [
+     "이사",
+     "이사",
+     "isa"
+    ]
+   ]
   }
  ],
  "review": {

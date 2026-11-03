@@ -40,7 +40,24 @@
    "note": "마이크",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a17/cut1"
+   "art": "scene/ko/r1_love_a17/cut1",
+   "lemmas": [
+    [
+     "생일",
+     "생일",
+     "saengil"
+    ],
+    [
+     "축하",
+     "축하",
+     "chuka"
+    ],
+    [
+     "좋아해",
+     "좋아하다",
+     "joahada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +67,8 @@
    "en": "Whoa… what did you say?",
    "note": "surprise",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 3,
@@ -61,7 +79,29 @@
    "note": "crowd",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a17/cut2"
+   "art": "scene/ko/r1_love_a17/cut2",
+   "lemmas": [
+    [
+     "와아",
+     "와아",
+     "waa"
+    ],
+    [
+     "아아",
+     "아아",
+     "aa"
+    ],
+    [
+     "좋아한",
+     "좋아하다",
+     "joahada"
+    ],
+    [
+     "좋아한",
+     "좋아하다",
+     "joahada"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +111,24 @@
    "en": "Wait!! Was the mic on??",
    "note": "Kick: mic on — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "마이크",
+     "마이크",
+     "maikeu"
+    ],
+    [
+     "켜",
+     "켜다",
+     "kyeoda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +139,39 @@
    "note": "처음부터",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a17/cut3"
+   "art": "scene/ko/r1_love_a17/cut3",
+   "lemmas": [
+    [
+     "처음",
+     "처음",
+     "cheoeum"
+    ],
+    [
+     "켜",
+     "켜다",
+     "kyeoda"
+    ],
+    [
+     "폰",
+     "폰",
+     "pon"
+    ],
+    [
+     "찍",
+     "찍다",
+     "jjikda"
+    ],
+    [
+     "단톡",
+     "단톡",
+     "dantok"
+    ],
+    [
+     "올려",
+     "올리다",
+     "ollida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +181,24 @@
    "en": "Ugh I don’t know… cancel!! Turn it off!!",
    "note": "취소",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "취소",
+     "취소",
+     "chwiso"
+    ],
+    [
+     "꺼",
+     "끄다",
+     "kkeuda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +209,19 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a17/cut4"
+   "art": "scene/ko/r1_love_a17/cut4",
+   "lemmas": [
+    [
+     "취소",
+     "취소",
+     "chwiso"
+    ],
+    [
+     "이미",
+     "이미",
+     "imi"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +231,14 @@
    "en": "…For real?",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   }
  ],
  "learner_gender": "M",

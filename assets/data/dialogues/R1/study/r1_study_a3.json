@@ -38,7 +38,34 @@
    "note": "쪽지 = note",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a3/cut1"
+   "art": "scene/ko/r1_study_a3/cut1",
+   "lemmas": [
+    [
+     "쪽지",
+     "쪽지",
+     "jjokji"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "공부",
+     "공부",
+     "gongbu"
+    ],
+    [
+     "옆",
+     "옆",
+     "yeop"
+    ],
+    [
+     "자리",
+     "자리",
+     "jari"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +75,14 @@
    "en": "I wrote that.",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "썼",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +93,19 @@
    "note": "왜요?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a3/cut2"
+   "art": "scene/ko/r1_study_a3/cut2",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "왜",
+     "왜",
+     "wae"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +115,24 @@
    "en": "Because you come at the same time every day...",
    "note": "-길래 = since (I noticed)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "매일",
+     "매일",
+     "maeil"
+    ],
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +143,14 @@
    "note": "잘 못하다 = not good at",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a3/cut3"
+   "art": "scene/ko/r1_study_a3/cut3",
+   "lemmas": [
+    [
+     "공부",
+     "공부",
+     "gongbu"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +160,24 @@
    "en": "That's okay, I don't come here to study either.",
    "note": "심쿵: the real reason",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "공부",
+     "공부",
+     "gongbu"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +188,14 @@
    "note": "뭐 하러 = for what",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a3/cut4"
+   "art": "scene/ko/r1_study_a3/cut4",
+   "lemmas": [
+    [
+     "와",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +205,19 @@
    "en": "To write notes...",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "쪽지",
+     "쪽지",
+     "jjokji"
+    ],
+    [
+     "쓰",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   }
  ],
  "series": "flirt",

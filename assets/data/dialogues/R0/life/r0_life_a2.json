@@ -37,7 +37,24 @@
    "note": "계세요? = are you (home)? (honorific)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a2/cut1"
+   "art": "scene/ko/r0_life_a2/cut1",
+   "lemmas": [
+    [
+     "택배",
+     "택배",
+     "taekbae"
+    ],
+    [
+     "집",
+     "집",
+     "jip"
+    ],
+    [
+     "계세",
+     "계세",
+     "gyese"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -47,7 +64,19 @@
    "en": "No. I'm not home right now.",
    "note": "밖 = outside",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아니요",
+     "아니요",
+     "aniyo"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -58,7 +87,14 @@
    "note": "두다 = leave / put",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a2/cut2"
+   "art": "scene/ko/r0_life_a2/cut2",
+   "lemmas": [
+    [
+     "둘",
+     "두다",
+     "duda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -68,7 +104,14 @@
    "en": "Um... the fridge.",
    "note": "Kick: wrong word",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "냉장고",
+     "냉장고",
+     "naengjanggo"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -79,7 +122,14 @@
    "note": "echo",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a2/cut3"
+   "art": "scene/ko/r0_life_a2/cut3",
+   "lemmas": [
+    [
+     "냉장고",
+     "냉장고",
+     "naengjanggo"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -89,7 +139,24 @@
    "en": "Wait a second! In front of the door!",
    "note": "문 앞 = in front of the door",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "문",
+     "문",
+     "mun"
+    ],
+    [
+     "앞",
+     "앞",
+     "ap"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -100,7 +167,19 @@
    "note": "둘게요 = I'll leave it",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a2/cut4"
+   "art": "scene/ko/r0_life_a2/cut4",
+   "lemmas": [
+    [
+     "문",
+     "문",
+     "mun"
+    ],
+    [
+     "앞",
+     "앞",
+     "ap"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -110,7 +189,19 @@
    "en": "Thank you! Take care!",
    "note": "수고하세요 = keep up the work (goodbye to workers)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "수고",
+     "수고",
+     "sugo"
+    ]
+   ]
   }
  ],
  "review": {

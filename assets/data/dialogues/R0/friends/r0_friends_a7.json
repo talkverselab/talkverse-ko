@@ -39,7 +39,14 @@
    "note": "MBTI",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a7/cut1"
+   "art": "scene/ko/r0_friends_a7/cut1",
+   "lemmas": [
+    [
+     "안녕",
+     "안녕",
+     "annyeong"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +56,14 @@
    "en": "Name first. {name}.",
    "note": "이름",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "이름",
+     "이름",
+     "ireum"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +74,14 @@
    "note": "MBTI",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a7/cut2"
+   "art": "scene/ko/r0_friends_a7/cut2",
+   "lemmas": [
+    [
+     "알",
+     "알다",
+     "alda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +91,14 @@
    "en": "Dunno. Never tried it once.",
    "note": "몰라",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +109,19 @@
    "note": "지금",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a7/cut3"
+   "art": "scene/ko/r0_friends_a7/cut3",
+   "lemmas": [
+    [
+     "대박",
+     "대박",
+     "daebak"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +131,14 @@
    "en": "(5 min later) …says I.",
    "note": "Kick",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "나왔",
+     "나오다",
+     "naoda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +149,19 @@
    "note": "reveal",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a7/cut4"
+   "art": "scene/ko/r0_friends_a7/cut4",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +171,14 @@
    "en": "…then maybe it’s wrong.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "틀린",
+     "틀리다",
+     "teullida"
+    ]
+   ]
   }
  ],
  "review": {

@@ -41,7 +41,24 @@
    "note": "눈 감다 = close eyes",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a8/cut1"
+   "art": "scene/ko/r1_love_a8/cut1",
+   "lemmas": [
+    [
+     "눈",
+     "눈",
+     "nun"
+    ],
+    [
+     "감",
+     "감다",
+     "gamda"
+    ],
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +68,14 @@
    "en": "What is it, you're making me nervous...",
    "note": "설레다 = flutter",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "설레",
+     "설레다",
+     "seolleda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +86,24 @@
    "note": "뜨다 = open (eyes)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a8/cut2"
+   "art": "scene/ko/r1_love_a8/cut2",
+   "lemmas": [
+    [
+     "이제",
+     "이제",
+     "ije"
+    ],
+    [
+     "떠",
+     "뜨다",
+     "tteuda"
+    ],
+    [
+     "목걸이",
+     "목걸이",
+     "mokgeori"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +113,19 @@
    "en": "Whoa it's really pretty?",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "예쁘",
+     "예쁘다",
+     "yeppeuda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +136,14 @@
    "note": "Kick: mom in the elevator — chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a8/cut3"
+   "art": "scene/ko/r1_love_a8/cut3",
+   "lemmas": [
+    [
+     "딸",
+     "딸",
+     "ttal"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +153,24 @@
    "en": "Sis, is that your boyfriend?",
    "note": "동생 too",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "누나",
+     "누나",
+     "nuna"
+    ],
+    [
+     "남자",
+     "남자",
+     "namja"
+    ],
+    [
+     "친구",
+     "친구",
+     "chingu"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +181,19 @@
    "note": "소개",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a8/cut4"
+   "art": "scene/ko/r1_love_a8/cut4",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "동생",
+     "동생",
+     "dongsaeng"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +203,24 @@
    "en": "Hello, I gave her a necklace...",
    "note": "punchline: army speech returns",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "안녕",
+     "안녕",
+     "annyeong"
+    ],
+    [
+     "목걸이",
+     "목걸이",
+     "mokgeori"
+    ],
+    [
+     "선물",
+     "선물",
+     "seonmul"
+    ]
+   ]
   }
  ],
  "learner_gender": "M",

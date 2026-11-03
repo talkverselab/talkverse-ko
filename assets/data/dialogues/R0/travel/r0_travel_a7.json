@@ -39,7 +39,24 @@
    "note": "가요?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a7/cut1"
+   "art": "scene/ko/r0_travel_a7/cut1",
+   "lemmas": [
+    [
+     "저기요",
+     "저기요",
+     "jeogiyo"
+    ],
+    [
+     "강남",
+     "강남",
+     "gangnam"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +66,19 @@
    "en": "No, it's the opposite way.",
    "note": "반대",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "반대쪽",
+     "반대쪽",
+     "bandaejjok"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +89,14 @@
    "note": "잠깐만요",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a7/cut2"
+   "art": "scene/ko/r0_travel_a7/cut2",
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +106,24 @@
    "en": "Oh no, the next stop is the terminal!",
    "note": "내리다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아이고",
+     "아이고",
+     "aigo"
+    ],
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "종점",
+     "종점",
+     "jongjeom"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +134,14 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a7/cut3"
+   "art": "scene/ko/r0_travel_a7/cut3",
+   "lemmas": [
+    [
+     "반대",
+     "반대",
+     "bandae"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +151,29 @@
    "en": "Student, I'm going the wrong way too. Come with me.",
    "note": "helper",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "학생",
+     "학생",
+     "haksaeng"
+    ],
+    [
+     "반대",
+     "반대",
+     "bandae"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +184,19 @@
    "note": "감사합니다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a7/cut4"
+   "art": "scene/ko/r0_travel_a7/cut4",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +206,34 @@
    "en": "But I'm going to Gangbuk and I've got way too much luggage.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "강북",
+     "강북",
+     "gangbuk"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ],
+    [
+     "짐",
+     "짐",
+     "jim"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "많",
+     "많다",
+     "manta"
+    ]
+   ]
   }
  ],
  "review": {

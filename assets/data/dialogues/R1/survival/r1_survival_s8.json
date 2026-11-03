@@ -39,7 +39,39 @@
    "note": "신분증",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s8/cut1"
+   "art": "scene/ko/r1_survival_s8/cut1",
+   "lemmas": [
+    [
+     "처음",
+     "처음",
+     "cheoeum"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ],
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ],
+    [
+     "신분증",
+     "신분증",
+     "sinbunjeung"
+    ],
+    [
+     "보험증",
+     "보험증",
+     "boheomjeung"
+    ],
+    [
+     "보여",
+     "보이다",
+     "boida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +81,8 @@
    "en": "Yeah, here they are.",
    "note": "여기요",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 3,
@@ -60,7 +93,49 @@
    "note": "Kick: too many questions",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s8/cut2"
+   "art": "scene/ko/r1_survival_s8/cut2",
+   "lemmas": [
+    [
+     "주소",
+     "주소",
+     "juso"
+    ],
+    [
+     "전화",
+     "전화",
+     "jeonhwa"
+    ],
+    [
+     "아픈",
+     "아프다",
+     "apeuda"
+    ],
+    [
+     "곳",
+     "곳",
+     "got"
+    ],
+    [
+     "알레르기",
+     "알레르기",
+     "allereugi"
+    ],
+    [
+     "약",
+     "약",
+     "yak"
+    ],
+    [
+     "종이",
+     "종이",
+     "jongi"
+    ],
+    [
+     "적",
+     "적다",
+     "jeokda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +145,39 @@
    "en": "Please speak slowly. You're going too fast, I can't keep up.",
    "note": "천천히",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "천천히",
+     "천천히",
+     "cheoncheonhi"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "빨",
+     "빠르다",
+     "ppareuda"
+    ],
+    [
+     "따라가",
+     "따라가다",
+     "ttaragada"
+    ],
+    [
+     "힘들",
+     "힘들다",
+     "himdeulda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +188,29 @@
    "note": "하나씩",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s8/cut3"
+   "art": "scene/ko/r1_survival_s8/cut3",
+   "lemmas": [
+    [
+     "제일",
+     "제일",
+     "jeil"
+    ],
+    [
+     "불편",
+     "불편",
+     "bulpyeon"
+    ],
+    [
+     "전화",
+     "전화",
+     "jeonhwa"
+    ],
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +220,49 @@
    "en": "My stomach hurts. I ate three bowls of tteokbokki yesterday, but I don't really know about the meds.",
    "note": "Kick: callback",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "배",
+     "배",
+     "bae"
+    ],
+    [
+     "아파",
+     "아프다",
+     "apeuda"
+    ],
+    [
+     "어제",
+     "어제",
+     "eoje"
+    ],
+    [
+     "떡볶이",
+     "떡볶이",
+     "tteokbokki"
+    ],
+    [
+     "그릇",
+     "그릇",
+     "geureut"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ],
+    [
+     "약",
+     "약",
+     "yak"
+    ],
+    [
+     "모르",
+     "모르다",
+     "moreuda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +273,34 @@
    "note": "chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s8/cut4"
+   "art": "scene/ko/r1_survival_s8/cut4",
+   "lemmas": [
+    [
+     "배",
+     "배",
+     "bae"
+    ],
+    [
+     "아파",
+     "아프다",
+     "apeuda"
+    ],
+    [
+     "떡볶이",
+     "떡볶이",
+     "tteokbokki"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ],
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +310,34 @@
    "en": "Whoa, eighth tteokbokki patient already. Grab a number and line up!",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "떡볶이",
+     "떡볶이",
+     "tteokbokki"
+    ],
+    [
+     "환자",
+     "환자",
+     "hwanja"
+    ],
+    [
+     "번호",
+     "번호",
+     "beonho"
+    ],
+    [
+     "줄",
+     "줄",
+     "jul"
+    ],
+    [
+     "서",
+     "서다",
+     "seoda"
+    ]
+   ]
   }
  ],
  "review": {

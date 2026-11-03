@@ -39,7 +39,19 @@
    "note": "마지막 = last",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a3/cut1"
+   "art": "scene/ko/r0_friends_a3/cut1",
+   "lemmas": [
+    [
+     "마지막",
+     "마지막",
+     "majimak"
+    ],
+    [
+     "조각",
+     "조각",
+     "jogak"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +61,14 @@
    "en": "Can I eat this?",
    "note": "-아도 돼? = can I",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +79,19 @@
    "note": "나도",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a3/cut2"
+   "art": "scene/ko/r0_friends_a3/cut2",
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +101,14 @@
    "en": "Then let's do rock-paper-scissors.",
    "note": "가위바위보",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "가위바위보",
+     "가위바위보",
+     "gawibawibo"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +119,14 @@
    "note": "Kick: the dog — chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a3/cut3"
+   "art": "scene/ko/r0_friends_a3/cut3",
+   "lemmas": [
+    [
+     "멍멍",
+     "멍멍",
+     "meongmeong"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +136,14 @@
    "en": "Whoa, the dog ate it all!",
    "note": "강아지 = puppy",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +154,14 @@
    "note": "누구 = whose",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a3/cut4"
+   "art": "scene/ko/r0_friends_a3/cut4",
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +171,24 @@
    "en": "No idea... but it looks happy...",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "행복",
+     "행복",
+     "haengbok"
+    ],
+    [
+     "보여",
+     "보이다",
+     "boida"
+    ]
+   ]
   }
  ],
  "review": {

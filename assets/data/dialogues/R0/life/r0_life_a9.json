@@ -39,7 +39,24 @@
    "note": "택배",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a9/cut1"
+   "art": "scene/ko/r0_life_a9/cut1",
+   "lemmas": [
+    [
+     "문",
+     "문",
+     "mun"
+    ],
+    [
+     "앞",
+     "앞",
+     "ap"
+    ],
+    [
+     "상자",
+     "상자",
+     "sangja"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +66,14 @@
    "en": "Yeah, thanks!",
    "note": "감사합니다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +84,14 @@
    "note": "사인",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a9/cut2"
+   "art": "scene/ko/r0_life_a9/cut2",
+   "lemmas": [
+    [
+     "인",
+     "인",
+     "in"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +101,14 @@
    "en": "Wait… there are ten boxes?",
    "note": "Kick",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "상자",
+     "상자",
+     "sangja"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +119,14 @@
    "note": "이름",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a9/cut3"
+   "art": "scene/ko/r0_life_a9/cut3",
+   "lemmas": [
+    [
+     "전부",
+     "전부",
+     "jeonbu"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +136,14 @@
    "en": "I only bought one, though!",
    "note": "chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "샀",
+     "사다",
+     "sada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +154,24 @@
    "note": "Kick: mom",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a9/cut4"
+   "art": "scene/ko/r0_life_a9/cut4",
+   "lemmas": [
+    [
+     "아들",
+     "아들",
+     "adeul"
+    ],
+    [
+     "보냈",
+     "보내다",
+     "bonaeda"
+    ],
+    [
+     "보냈",
+     "보내다",
+     "bonaeda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +181,14 @@
    "en": "What? Ten tubs of kimchi and Auntie too?",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "김치",
+     "김치",
+     "gimchi"
+    ]
+   ]
   }
  ],
  "review": {

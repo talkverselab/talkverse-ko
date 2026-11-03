@@ -40,7 +40,19 @@
    "note": "뭐 먹을래? = what do you want to eat?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b3/cut1"
+   "art": "scene/ko/r2_love_b3/cut1",
+   "lemmas": [
+    [
+     "점심",
+     "점심",
+     "jeomsim"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +62,14 @@
    "en": "Anything's fine.",
    "note": "아무거나 = anything — the dangerous answer",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +80,14 @@
    "note": "그럼 = then",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b3/cut2"
+   "art": "scene/ko/r2_love_b3/cut2",
+   "lemmas": [
+    [
+     "김치찌개",
+     "김치찌개",
+     "gimchijjigae"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +97,19 @@
    "en": "We had that yesterday though.",
    "note": "-잖아 = you know",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "어제",
+     "어제",
+     "eoje"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +120,14 @@
    "note": "try two",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b3/cut3"
+   "art": "scene/ko/r2_love_b3/cut3",
+   "lemmas": [
+    [
+     "파스타",
+     "파스타",
+     "paseuta"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +137,14 @@
    "en": "Hmm… not really.",
    "note": "안 당겨 = I'm not craving it",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "별로",
+     "별로",
+     "byeollo"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +155,14 @@
    "note": "맞아? = is that right?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b3/cut4"
+   "art": "scene/ko/r2_love_b3/cut4",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +172,14 @@
    "en": "Yeah. Really anything.",
    "note": "괜찮아 = fine",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -124,7 +190,19 @@
    "note": "Kick: he literally orders \"anything\"",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b3/cut5"
+   "art": "scene/ko/r2_love_b3/cut5",
+   "lemmas": [
+    [
+     "알",
+     "알다",
+     "alda"
+    ],
+    [
+     "사장",
+     "사장",
+     "sajang"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -134,7 +212,39 @@
    "en": "Coming right up~ two \"anythings\"! Tteokbokki, ramyeon, gimbap, sundae, fried stuff… everything!",
    "note": "Kick: \"anything\" = literally everything — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "떡볶이",
+     "떡볶이",
+     "tteokbokki"
+    ],
+    [
+     "라면",
+     "라면",
+     "ramyeon"
+    ],
+    [
+     "김밥",
+     "김밥",
+     "gimbap"
+    ],
+    [
+     "순대",
+     "순대",
+     "sundae"
+    ],
+    [
+     "튀김",
+     "튀김",
+     "twigim"
+    ],
+    [
+     "나갑",
+     "나가다",
+     "nagada"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -145,7 +255,29 @@
    "note": "모자라다 = not enough",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b3/cut6"
+   "art": "scene/ko/r2_love_b3/cut6",
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "아무거나",
+     "아무거나",
+     "amugeona"
+    ],
+    [
+     "테이블",
+     "테이블",
+     "teibeul"
+    ],
+    [
+     "모자라",
+     "모자라다",
+     "mojarada"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -155,7 +287,29 @@
    "en": "Yep. Think hard before you say \"anything\" next time.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "이제",
+     "이제",
+     "ije"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ],
+    [
+     "전",
+     "전",
+     "jeon"
+    ],
+    [
+     "생각",
+     "생각",
+     "saenggak"
+    ]
+   ]
   }
  ],
  "review": {

@@ -38,7 +38,19 @@
    "note": "예약",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a23/cut1"
+   "art": "scene/ko/r1_love_a23/cut1",
+   "lemmas": [
+    [
+     "노래",
+     "노래",
+     "norae"
+    ],
+    [
+     "예약",
+     "예약",
+     "yeyak"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +60,19 @@
    "en": "Whoa, I put in the exact same one too.",
    "note": "저도",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "똑같",
+     "똑같다",
+     "ttokgatda"
+    ],
+    [
+     "넣",
+     "넣다",
+     "neota"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +83,24 @@
    "note": "같이",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a23/cut2"
+   "art": "scene/ko/r1_love_a23/cut2",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "불",
+     "부르다",
+     "bureuda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +110,19 @@
    "en": "But it's not a duet song though.",
    "note": "듀엣",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "듀엣",
+     "듀엣",
+     "dyuet"
+    ],
+    [
+     "곡",
+     "곡",
+     "gok"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +133,24 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a23/cut3"
+   "art": "scene/ko/r1_love_a23/cut3",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "듀엣",
+     "듀엣",
+     "dyuet"
+    ],
+    [
+     "강제",
+     "강제",
+     "gangje"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +160,14 @@
    "en": "…The lyrics are \"you're the only one\" though…",
    "note": "가사",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "가사",
+     "가사",
+     "gasa"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +178,19 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a23/cut4"
+   "art": "scene/ko/r1_love_a23/cut4",
+   "lemmas": [
+    [
+     "알",
+     "알다",
+     "alda"
+    ],
+    [
+     "골",
+     "고르다",
+     "goreuda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +200,14 @@
    "en": "…Then let's sing it twice.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "불",
+     "부르다",
+     "bureuda"
+    ]
+   ]
   }
  ],
  "series": "flirt",

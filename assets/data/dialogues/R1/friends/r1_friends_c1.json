@@ -40,7 +40,14 @@
    "new": [],
    "ui": "bubble",
    "at": "20:01",
-   "art": "scene/ko/r1_friends_c1/cut1"
+   "art": "scene/ko/r1_friends_c1/cut1",
+   "lemmas": [
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -52,7 +59,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "20:02"
+   "at": "20:02",
+   "lemmas": []
   },
   {
    "num": 3,
@@ -65,7 +73,19 @@
    "new": [],
    "ui": "bubble",
    "at": "20:02",
-   "art": "scene/ko/r1_friends_c1/cut2"
+   "art": "scene/ko/r1_friends_c1/cut2",
+   "lemmas": [
+    [
+     "고고",
+     "고고",
+     "gogo"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -77,7 +97,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "20:03"
+   "at": "20:03",
+   "lemmas": [
+    [
+     "갈",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -90,7 +117,24 @@
    "new": [],
    "ui": "bubble",
    "at": "20:03",
-   "art": "scene/ko/r1_friends_c1/cut3"
+   "art": "scene/ko/r1_friends_c1/cut3",
+   "lemmas": [
+    [
+     "배웠",
+     "배우다",
+     "baeuda"
+    ],
+    [
+     "는",
+     "늘다",
+     "neulda"
+    ],
+    [
+     "응응",
+     "응응",
+     "eungeung"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -102,7 +146,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "20:04"
+   "at": "20:04",
+   "lemmas": []
   },
   {
    "num": 7,
@@ -115,7 +160,19 @@
    "new": [],
    "ui": "bubble",
    "at": "20:04",
-   "art": "scene/ko/r1_friends_c1/cut4"
+   "art": "scene/ko/r1_friends_c1/cut4",
+   "lemmas": [
+    [
+     "노노",
+     "노노",
+     "nono"
+    ],
+    [
+     "뜻",
+     "뜻",
+     "tteut"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -127,7 +184,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "20:05"
+   "at": "20:05",
+   "lemmas": []
   }
  ],
  "review": {

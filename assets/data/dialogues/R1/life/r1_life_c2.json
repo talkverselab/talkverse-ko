@@ -40,7 +40,24 @@
    "new": [],
    "ui": "bubble",
    "at": "09:10",
-   "art": "scene/ko/r1_life_c2/cut1"
+   "art": "scene/ko/r1_life_c2/cut1",
+   "lemmas": [
+    [
+     "학생",
+     "학생",
+     "haksaeng"
+    ],
+    [
+     "월세",
+     "월세",
+     "wolse"
+    ],
+    [
+     "보냈",
+     "보내다",
+     "bonaeda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -52,7 +69,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "09:12"
+   "at": "09:12",
+   "lemmas": [
+    [
+     "아침",
+     "아침",
+     "achim"
+    ],
+    [
+     "보냈",
+     "보내다",
+     "bonaeda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -65,7 +94,24 @@
    "new": [],
    "ui": "bubble",
    "at": "09:13",
-   "art": "scene/ko/r1_life_c2/cut2"
+   "art": "scene/ko/r1_life_c2/cut2",
+   "lemmas": [
+    [
+     "이번",
+     "이번",
+     "ibeon"
+    ],
+    [
+     "달",
+     "달",
+     "dal"
+    ],
+    [
+     "내",
+     "내다",
+     "naeda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -77,7 +123,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "09:13"
+   "at": "09:13",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "왜",
+     "왜",
+     "wae"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -90,7 +148,24 @@
    "new": [],
    "ui": "bubble",
    "at": "09:14",
-   "art": "scene/ko/r1_life_c2/cut3"
+   "art": "scene/ko/r1_life_c2/cut3",
+   "lemmas": [
+    [
+     "지난달",
+     "지난달",
+     "jinandal"
+    ],
+    [
+     "보일러",
+     "보일러",
+     "boilleo"
+    ],
+    [
+     "고쳐",
+     "고치다",
+     "gochida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -102,7 +177,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "09:15"
+   "at": "09:15",
+   "lemmas": [
+    [
+     "버튼",
+     "버튼",
+     "beoteun"
+    ],
+    [
+     "눌",
+     "누르다",
+     "nureuda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -115,7 +202,29 @@
    "new": [],
    "ui": "bubble",
    "at": "09:15",
-   "art": "scene/ko/r1_life_c2/cut4"
+   "art": "scene/ko/r1_life_c2/cut4",
+   "lemmas": [
+    [
+     "버튼",
+     "버튼",
+     "beoteun"
+    ],
+    [
+     "동안",
+     "동안",
+     "dongan"
+    ],
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "돌려",
+     "돌리다",
+     "dollida"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -127,7 +236,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "09:16"
+   "at": "09:16",
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "고칠",
+     "고치다",
+     "gochida"
+    ]
+   ]
   }
  ],
  "review": {

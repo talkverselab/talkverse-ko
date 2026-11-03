@@ -40,7 +40,8 @@
    "new": [],
    "ui": "bubble",
    "at": "22:30",
-   "art": "scene/ko/r0_love_c3/cut1"
+   "art": "scene/ko/r0_love_c3/cut1",
+   "lemmas": []
   },
   {
    "num": 2,
@@ -52,7 +53,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:31"
+   "at": "22:31",
+   "lemmas": []
   },
   {
    "num": 3,
@@ -65,7 +67,8 @@
    "new": [],
    "ui": "bubble",
    "at": "22:31",
-   "art": "scene/ko/r0_love_c3/cut2"
+   "art": "scene/ko/r0_love_c3/cut2",
+   "lemmas": []
   },
   {
    "num": 4,
@@ -77,7 +80,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:32"
+   "at": "22:32",
+   "lemmas": [
+    [
+     "왜",
+     "왜",
+     "wae"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -90,7 +100,14 @@
    "new": [],
    "ui": "bubble",
    "at": "22:33",
-   "art": "scene/ko/r0_love_c3/cut3"
+   "art": "scene/ko/r0_love_c3/cut3",
+   "lemmas": [
+    [
+     "보",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -102,7 +119,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:33"
+   "at": "22:33",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -115,7 +139,14 @@
    "new": [],
    "ui": "bubble",
    "at": "22:33",
-   "art": "scene/ko/r0_love_c3/cut4"
+   "art": "scene/ko/r0_love_c3/cut4",
+   "lemmas": [
+    [
+     "많이",
+     "많이",
+     "mani"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -127,7 +158,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:34"
+   "at": "22:34",
+   "lemmas": [
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ]
+   ]
   }
  ],
  "learner_gender": "M",

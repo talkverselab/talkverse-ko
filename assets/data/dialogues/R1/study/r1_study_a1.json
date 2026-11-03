@@ -38,7 +38,24 @@
    "note": "읽어 보세요 = try reading",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a1/cut1"
+   "art": "scene/ko/r1_study_a1/cut1",
+   "lemmas": [
+    [
+     "씨",
+     "씨",
+     "ssi"
+    ],
+    [
+     "읽",
+     "읽다",
+     "ikda"
+    ],
+    [
+     "닭",
+     "닭",
+     "dak"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +65,19 @@
    "en": "Dal-geu? I don't really know",
    "note": "Kick: reads both consonants",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "달그",
+     "달그",
+     "dalgeu"
+    ],
+    [
+     "모르",
+     "모르다",
+     "moreuda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +88,29 @@
    "note": "받침 = final consonant",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a1/cut2"
+   "art": "scene/ko/r1_study_a1/cut2",
+   "lemmas": [
+    [
+     "아니요",
+     "아니요",
+     "aniyo"
+    ],
+    [
+     "닥",
+     "닥",
+     "dak"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +120,14 @@
    "en": "Where did the ㄹ go? Huh?",
    "note": "어디 갔어요? = where did it go?",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "갔",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +138,24 @@
    "note": "조용히 = quietly",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a1/cut3"
+   "art": "scene/ko/r1_study_a1/cut3",
+   "lemmas": [
+    [
+     "조용히",
+     "조용히",
+     "joyonghi"
+    ],
+    [
+     "닭",
+     "닭",
+     "dak"
+    ],
+    [
+     "읽",
+     "읽다",
+     "ikda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +165,19 @@
    "en": "Dal-gi? For real?",
    "note": "trying",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "달",
+     "달다",
+     "dalda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +188,29 @@
    "note": "살아나다 = come back to life",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_study_a1/cut4"
+   "art": "scene/ko/r1_study_a1/cut4",
+   "lemmas": [
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ],
+    [
+     "모음",
+     "모으다",
+     "moeuda"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ],
+    [
+     "살아나",
+     "살아나다",
+     "saranada"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +220,24 @@
    "en": "Comes back to life? Is the 받침 a zombie…",
    "note": "좀비 = zombie",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "살아나",
+     "살아나다",
+     "saranada"
+    ],
+    [
+     "받침",
+     "받침",
+     "batchim"
+    ],
+    [
+     "좀비",
+     "좀비",
+     "jombi"
+    ]
+   ]
   }
  ],
  "review": {

@@ -39,7 +39,24 @@
    "note": "세제 = detergent",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a3/cut1"
+   "art": "scene/ko/r1_life_a3/cut1",
+   "lemmas": [
+    [
+     "세제",
+     "세제",
+     "seje"
+    ],
+    [
+     "얼마나",
+     "얼마나",
+     "eolmana"
+    ],
+    [
+     "넣",
+     "넣다",
+     "neota"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +66,19 @@
    "en": "A little, one cup.",
    "note": "한 컵 = one cup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "조금",
+     "조금",
+     "jogeum"
+    ],
+    [
+     "컵",
+     "컵",
+     "keop"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +89,19 @@
    "note": "Kick setup",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a3/cut2"
+   "art": "scene/ko/r1_life_a3/cut2",
+   "lemmas": [
+    [
+     "컵",
+     "컵",
+     "keop"
+    ],
+    [
+     "큰",
+     "크다",
+     "keuda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +111,19 @@
    "en": "Wait, that's a soup bowl!",
    "note": "국그릇 = soup bowl",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "국그릇",
+     "국그릇",
+     "gukgeureut"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +134,24 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a3/cut3"
+   "art": "scene/ko/r1_life_a3/cut3",
+   "lemmas": [
+    [
+     "거품",
+     "거품",
+     "geopum"
+    ],
+    [
+     "나와",
+     "나오다",
+     "naoda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +161,24 @@
    "en": "It's reached the living room, what do we do!",
    "note": "어떡해 = what do we do",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "거실",
+     "거실",
+     "geosil"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ],
+    [
+     "어떡해",
+     "어떡하다",
+     "eotteokada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +189,19 @@
    "note": "joke",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a3/cut4"
+   "art": "scene/ko/r1_life_a3/cut4",
+   "lemmas": [
+    [
+     "거품",
+     "거품",
+     "geopum"
+    ],
+    [
+     "목욕",
+     "목욕",
+     "mogyok"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +211,24 @@
    "en": "Lol photos first then cleaning.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "찍",
+     "찍다",
+     "jjikda"
+    ],
+    [
+     "청소",
+     "청소",
+     "cheongso"
+    ]
+   ]
   }
  ],
  "review": {

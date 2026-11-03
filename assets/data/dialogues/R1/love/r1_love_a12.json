@@ -38,7 +38,14 @@
    "note": "갑자기",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a12/cut1"
+   "art": "scene/ko/r1_love_a12/cut1",
+   "lemmas": [
+    [
+     "소나기",
+     "소나기",
+     "sonagi"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +55,19 @@
    "en": "Come here. I’ll put the jacket over us.",
    "note": "빨리",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "재킷",
+     "재킷",
+     "jaekit"
+    ],
+    [
+     "씌워",
+     "씌우다",
+     "ssuiuda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +78,14 @@
    "note": "젖다 = get wet",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a12/cut2"
+   "art": "scene/ko/r1_love_a12/cut2",
+   "lemmas": [
+    [
+     "젖",
+     "젖다",
+     "jeotda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +95,19 @@
    "en": "It’s fine… as long as you’re okay.",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +118,19 @@
    "note": "가깝다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a12/cut3"
+   "art": "scene/ko/r1_love_a12/cut3",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +140,19 @@
    "en": "Tell me if you don’t like it.",
    "note": "싫어?",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "싫",
+     "싫다",
+     "silta"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +163,29 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a12/cut4"
+   "art": "scene/ko/r1_love_a12/cut4",
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "비",
+     "비",
+     "bi"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +195,29 @@
    "en": "Lol the bus is here. Let’s take the next one.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "버스",
+     "버스",
+     "beoseu"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ],
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "타",
+     "타다",
+     "tada"
+    ]
+   ]
   }
  ],
  "series": "flirt",

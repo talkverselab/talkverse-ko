@@ -37,7 +37,14 @@
    "note": "얼마예요? = how much",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a2/cut1"
+   "art": "scene/ko/r0_travel_a2/cut1",
+   "lemmas": [
+    [
+     "얼마",
+     "얼마",
+     "eolma"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -47,7 +54,14 @@
    "en": "5,000 won a bag.",
    "note": "봉지 = bag",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "봉지",
+     "봉지",
+     "bongji"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -58,7 +72,14 @@
    "note": "깎아 주세요 = please lower the price",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a2/cut2"
+   "art": "scene/ko/r0_travel_a2/cut2",
+   "lemmas": [
+    [
+     "깎",
+     "깎다",
+     "kkakda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -68,7 +89,24 @@
    "en": "Oh dear, it's already cheap.",
    "note": "이미 = already",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아이고",
+     "아이고",
+     "aigo"
+    ],
+    [
+     "이미",
+     "이미",
+     "imi"
+    ],
+    [
+     "싸",
+     "싸다",
+     "ssada"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -79,7 +117,14 @@
    "note": "Kick: bold offer",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a2/cut3"
+   "art": "scene/ko/r0_travel_a2/cut3",
+   "lemmas": [
+    [
+     "봉지",
+     "봉지",
+     "bongji"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -89,7 +134,19 @@
    "en": "Haha, you bargain well. I'll give it to you for 4,000.",
    "note": "장사 = business",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "흥정",
+     "흥정",
+     "heungjeong"
+    ],
+    [
+     "줄",
+     "주다",
+     "juda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -100,7 +157,19 @@
    "note": "감사합니다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a2/cut4"
+   "art": "scene/ko/r0_travel_a2/cut4",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -110,7 +179,29 @@
    "en": "I put in one extra. Enjoy.",
    "note": "덤 = bonus extra",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "귤",
+     "귤",
+     "gyul"
+    ],
+    [
+     "넣",
+     "넣다",
+     "neota"
+    ],
+    [
+     "맛있",
+     "맛있다",
+     "masitda"
+    ],
+    [
+     "드세",
+     "드세다",
+     "deuseda"
+    ]
+   ]
   }
  ],
  "review": {

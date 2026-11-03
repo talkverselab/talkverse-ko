@@ -41,7 +41,19 @@
    "new": [],
    "ui": "bubble",
    "at": "17:30",
-   "art": "scene/ko/r1_culture_c2/cut1"
+   "art": "scene/ko/r1_culture_c2/cut1",
+   "lemmas": [
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ],
+    [
+     "무대",
+     "무대",
+     "mudae"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -53,7 +65,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:30"
+   "at": "17:30",
+   "lemmas": [
+    [
+     "화이팅",
+     "화이팅",
+     "hwaiting"
+    ],
+    [
+     "떨려",
+     "떨리다",
+     "tteollida"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -66,7 +95,19 @@
    "new": [],
    "ui": "bubble",
    "at": "17:31",
-   "art": "scene/ko/r1_culture_c2/cut2"
+   "art": "scene/ko/r1_culture_c2/cut2",
+   "lemmas": [
+    [
+     "손",
+     "손",
+     "son"
+    ],
+    [
+     "떨려",
+     "떨리다",
+     "tteollida"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -78,7 +119,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:31"
+   "at": "17:31",
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "연습",
+     "연습",
+     "yeonseup"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -91,7 +144,8 @@
    "new": [],
    "ui": "bubble",
    "at": "17:32",
-   "art": "scene/ko/r1_culture_c2/cut3"
+   "art": "scene/ko/r1_culture_c2/cut3",
+   "lemmas": []
   },
   {
    "num": 6,
@@ -103,7 +157,34 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:32"
+   "at": "17:32",
+   "lemmas": [
+    [
+     "앞",
+     "앞",
+     "ap"
+    ],
+    [
+     "줄",
+     "줄",
+     "jul"
+    ],
+    [
+     "응원",
+     "응원",
+     "eungwon"
+    ],
+    [
+     "봉",
+     "봉",
+     "bong"
+    ],
+    [
+     "들",
+     "들다",
+     "deulda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -116,7 +197,14 @@
    "new": [],
    "ui": "bubble",
    "at": "17:33",
-   "art": "scene/ko/r1_culture_c2/cut4"
+   "art": "scene/ko/r1_culture_c2/cut4",
+   "lemmas": [
+    [
+     "보",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -128,7 +216,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:33"
+   "at": "17:33",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "떨려",
+     "떨리다",
+     "tteollida"
+    ]
+   ]
   }
  ],
  "learner_gender": "F",

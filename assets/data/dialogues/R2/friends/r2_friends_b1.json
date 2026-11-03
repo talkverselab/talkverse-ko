@@ -41,7 +41,19 @@
    "note": "2차 = second round (next place)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b1/cut1"
+   "art": "scene/ko/r2_friends_b1/cut1",
+   "lemmas": [
+    [
+     "가",
+     "가다",
+     "gada"
+    ],
+    [
+     "노래방",
+     "노래방",
+     "noraebang"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +63,19 @@
    "en": "Round two? We already ate",
    "note": "-잖아 = you know",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "밥",
+     "밥",
+     "bap"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +86,34 @@
    "note": "1차·2차·3차 — the standard sequence",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b1/cut2"
+   "art": "scene/ko/r2_friends_b1/cut2",
+   "lemmas": [
+    [
+     "밥",
+     "밥",
+     "bap"
+    ],
+    [
+     "고",
+     "고",
+     "go"
+    ],
+    [
+     "술",
+     "술",
+     "sul"
+    ],
+    [
+     "차",
+     "차",
+     "cha"
+    ],
+    [
+     "노래방",
+     "노래방",
+     "noraebang"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +123,19 @@
    "en": "Three times? I have class tomorrow…",
    "note": "-는데 = but… (trailing off)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "수업",
+     "수업",
+     "sueop"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +146,24 @@
    "note": "에이 = come on",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b1/cut3"
+   "art": "scene/ko/r2_friends_b1/cut3",
+   "lemmas": [
+    [
+     "에",
+     "에",
+     "e"
+    ],
+    [
+     "금요일",
+     "금요일",
+     "geumyoil"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +173,19 @@
    "en": "For real? Aren't you all tired?",
    "note": "다들 = everyone",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "피곤",
+     "피곤",
+     "pigon"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +196,29 @@
    "note": "Korean logic",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b1/cut4"
+   "art": "scene/ko/r2_friends_b1/cut4",
+   "lemmas": [
+    [
+     "피곤",
+     "피곤",
+     "pigon"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ],
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +228,24 @@
    "en": "Fine but just one hour",
    "note": "딱 = exactly / just",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "알",
+     "알다",
+     "alda"
+    ],
+    [
+     "딱",
+     "딱",
+     "ttak"
+    ],
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -125,7 +256,24 @@
    "note": "Kick: here we go again",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b1/cut5"
+   "art": "scene/ko/r2_friends_b1/cut5",
+   "lemmas": [
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ],
+    [
+     "지났",
+     "지나다",
+     "jinada"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -135,7 +283,24 @@
    "en": "Forget it I'm leaving, really leaving",
    "note": "나 간다 = I'm off",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "간",
+     "가다",
+     "gada"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "간",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -146,7 +311,14 @@
    "note": "Kick 2: they follow him home",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b1/cut6"
+   "art": "scene/ko/r2_friends_b1/cut6",
+   "lemmas": [
+    [
+     "집",
+     "집",
+     "jip"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -156,7 +328,19 @@
    "en": "Ugh… all I have is ramyeon",
    "note": "-밖에 없어 = I only have",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "라면",
+     "라면",
+     "ramyeon"
+    ]
+   ]
   }
  ],
  "review": {

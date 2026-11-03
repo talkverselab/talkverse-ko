@@ -41,7 +41,24 @@
    "note": "비밀번호",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a6/cut1"
+   "art": "scene/ko/r1_friends_a6/cut1",
+   "lemmas": [
+    [
+     "남",
+     "남다",
+     "namda"
+    ],
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "번호",
+     "번호",
+     "beonho"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +68,8 @@
    "en": "Tried 1234 but no.",
    "note": "시도",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 3,
@@ -62,7 +80,29 @@
    "note": "그림 = painting",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a6/cut2"
+   "art": "scene/ko/r1_friends_a6/cut2",
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "그림",
+     "그림",
+     "geurim"
+    ],
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ],
+    [
+     "숫자",
+     "숫자",
+     "sutja"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +112,24 @@
    "en": "7 and 3… whoa the painting fell!",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "헐",
+     "허다",
+     "heoda"
+    ],
+    [
+     "그림",
+     "그림",
+     "geurim"
+    ],
+    [
+     "떨어졌",
+     "떨어지다",
+     "tteoreojida"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +140,34 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a6/cut3"
+   "art": "scene/ko/r1_friends_a6/cut3",
+   "lemmas": [
+    [
+     "불",
+     "불",
+     "bul"
+    ],
+    [
+     "꺼",
+     "끄다",
+     "kkeuda"
+    ],
+    [
+     "알람",
+     "알람",
+     "allam"
+    ],
+    [
+     "울려",
+     "울리다",
+     "ullida"
+    ],
+    [
+     "왜",
+     "왜",
+     "wae"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +177,19 @@
    "en": "(announcement) Time is up. Please come out.",
    "note": "종료 = end",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ],
+    [
+     "나오",
+     "나오다",
+     "naoda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +200,19 @@
    "note": "다시",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a6/cut4"
+   "art": "scene/ko/r1_friends_a6/cut4",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +222,29 @@
    "en": "Next time absolutely don’t touch the painting.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "그림",
+     "그림",
+     "geurim"
+    ],
+    [
+     "절대",
+     "절대",
+     "jeoldae"
+    ],
+    [
+     "만지",
+     "만지다",
+     "manjida"
+    ]
+   ]
   }
  ],
  "review": {

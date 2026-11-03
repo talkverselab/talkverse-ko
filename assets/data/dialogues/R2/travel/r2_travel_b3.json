@@ -41,7 +41,24 @@
    "note": "익다 = be cooked",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b3/cut1"
+   "art": "scene/ko/r2_travel_b3/cut1",
+   "lemmas": [
+    [
+     "고기",
+     "고기",
+     "gogi"
+    ],
+    [
+     "익",
+     "익다",
+     "ikda"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +68,19 @@
    "en": "Wait raindrops...?",
    "note": "빗방울 = raindrop",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "빗방울",
+     "빗방울",
+     "bitbangul"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +91,24 @@
    "note": "소나기 = sudden shower",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b3/cut2"
+   "art": "scene/ko/r2_travel_b3/cut2",
+   "lemmas": [
+    [
+     "소나기",
+     "소나기",
+     "sonagi"
+    ],
+    [
+     "불",
+     "불",
+     "bul"
+    ],
+    [
+     "꺼",
+     "끄다",
+     "kkeuda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +118,24 @@
    "en": "Quick under the tarp!",
    "note": "타프 = tarp",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "타프",
+     "타프",
+     "tapeu"
+    ],
+    [
+     "밑",
+     "밑",
+     "mit"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +146,29 @@
    "note": "이쪽 = this way",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b3/cut3"
+   "art": "scene/ko/r2_travel_b3/cut3",
+   "lemmas": [
+    [
+     "학생",
+     "학생",
+     "haksaeng"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ],
+    [
+     "텐트",
+     "텐트",
+     "tenteu"
+    ],
+    [
+     "커",
+     "크다",
+     "keuda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +178,19 @@
    "en": "Really? Thank you!",
    "note": "감사합니다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +201,24 @@
    "note": "김치찌개 = kimchi stew",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b3/cut4"
+   "art": "scene/ko/r2_travel_b3/cut4",
+   "lemmas": [
+    [
+     "고기",
+     "고기",
+     "gogi"
+    ],
+    [
+     "가져와",
+     "가져오다",
+     "gajyeooda"
+    ],
+    [
+     "김치찌개",
+     "김치찌개",
+     "gimchijjigae"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +228,14 @@
    "en": "There are ten people in the tent whoa.",
    "note": "Kick: party grows — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "텐트",
+     "텐트",
+     "tenteu"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -125,7 +246,19 @@
    "note": "노래 = song",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b3/cut5"
+   "art": "scene/ko/r2_travel_b3/cut5",
+   "lemmas": [
+    [
+     "라면",
+     "라면",
+     "ramyeon"
+    ],
+    [
+     "노래",
+     "노래",
+     "norae"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -135,7 +268,24 @@
    "en": "So we did come camping right?",
    "note": "맞지? = right?",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "캠핑",
+     "캠핑",
+     "kaemping"
+    ],
+    [
+     "온",
+     "오다",
+     "oda"
+    ],
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -146,7 +296,19 @@
    "note": "이게 = this",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_travel_b3/cut6"
+   "art": "scene/ko/r2_travel_b3/cut6",
+   "lemmas": [
+    [
+     "한국",
+     "한국",
+     "hanguk"
+    ],
+    [
+     "캠핑",
+     "캠핑",
+     "kaemping"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -156,7 +318,24 @@
    "en": "It's more fun because it rained.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "비",
+     "비",
+     "bi"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ],
+    [
+     "재밌",
+     "재밌다",
+     "jaemitda"
+    ]
+   ]
   }
  ],
  "review": {

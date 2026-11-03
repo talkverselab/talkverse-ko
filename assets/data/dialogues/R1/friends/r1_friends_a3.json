@@ -41,7 +41,14 @@
    "note": "셀카 = selfie",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a3/cut1"
+   "art": "scene/ko/r1_friends_a3/cut1",
+   "lemmas": [
+    [
+     "셀카",
+     "셀카",
+     "selka"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +58,19 @@
    "en": "Wait, me too!",
    "note": "나도 = me too",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "껴",
+     "끼다",
+     "kkida"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +81,14 @@
    "note": "끼다 = squeeze in",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a3/cut2"
+   "art": "scene/ko/r1_friends_a3/cut2",
+   "lemmas": [
+    [
+     "낄",
+     "끼다",
+     "kkida"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +98,14 @@
    "en": "Whoa a dog came in too?",
    "note": "Kick: strangers and a dog — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "들어왔",
+     "들어오다",
+     "deureooda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +116,14 @@
    "note": "아 몰라 = whatever",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a3/cut3"
+   "art": "scene/ko/r1_friends_a3/cut3",
+   "lemmas": [
+    [
+     "찍",
+     "찍다",
+     "jjikda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +133,8 @@
    "en": "One two three how many is this?",
    "note": "몇 명 = how many people",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 7,
@@ -104,7 +145,8 @@
    "note": "마리 = counter for animals",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_friends_a3/cut4"
+   "art": "scene/ko/r1_friends_a3/cut4",
+   "lemmas": []
   },
   {
    "num": 8,
@@ -114,7 +156,24 @@
    "en": "Not a selfie, it's a group photo...",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "셀카",
+     "셀카",
+     "selka"
+    ],
+    [
+     "단체",
+     "단체",
+     "danche"
+    ],
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ]
+   ]
   }
  ],
  "review": {

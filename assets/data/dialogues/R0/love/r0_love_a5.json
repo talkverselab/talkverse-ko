@@ -37,7 +37,24 @@
    "note": "잘해요 = you're good at it",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a5/cut1"
+   "art": "scene/ko/r0_love_a5/cut1",
+   "lemmas": [
+    [
+     "저기요",
+     "저기요",
+     "jeogiyo"
+    ],
+    [
+     "방금",
+     "방금",
+     "banggeum"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -47,7 +64,19 @@
    "en": "Oh, thank you. Just enjoyed it.",
    "note": "들어 주셔서 = for listening",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "즐긴",
+     "즐기다",
+     "jeulgida"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -58,7 +87,14 @@
    "note": "사인 = autograph",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a5/cut2"
+   "art": "scene/ko/r0_love_a5/cut2",
+   "lemmas": [
+    [
+     "사인",
+     "사인",
+     "sain"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -68,7 +104,19 @@
    "en": "Autograph? I'm not an idol lol",
    "note": "Kick: he's just a busker",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "사인",
+     "사인",
+     "sain"
+    ],
+    [
+     "아이돌",
+     "아이돌",
+     "aidol"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -79,7 +127,24 @@
    "note": "아직 = not yet · 비싸지다 = become expensive",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a5/cut3"
+   "art": "scene/ko/r0_love_a5/cut3",
+   "lemmas": [
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ],
+    [
+     "나중",
+     "나중",
+     "najung"
+    ],
+    [
+     "비싸",
+     "비싸다",
+     "bissada"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -89,7 +154,19 @@
    "en": "Really? Haha your name?",
    "note": "이름 = name",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "이름",
+     "이름",
+     "ireum"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -100,7 +177,8 @@
    "note": "To. = Korean autograph convention",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a5/cut4"
+   "art": "scene/ko/r0_love_a5/cut4",
+   "lemmas": []
   },
   {
    "num": 8,
@@ -110,7 +188,24 @@
    "en": "Yeah… I'm here next week too. Come again.",
    "note": "또 와요 = come again — the hook",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "주",
+     "주",
+     "ju"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ]
+   ]
   }
  ],
  "initiator": "A",

@@ -39,7 +39,19 @@
    "note": "기사 = news article",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b6/cut1"
+   "art": "scene/ko/r3_love_b6/cut1",
+   "lemmas": [
+    [
+     "기사",
+     "기사",
+     "gisa"
+    ],
+    [
+     "봤",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +61,29 @@
    "en": "Yeah luckily the photo is blurry.",
    "note": "다행 = fortunate",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "흐리",
+     "흐리다",
+     "heurida"
+    ],
+    [
+     "나와",
+     "나오다",
+     "naoda"
+    ],
+    [
+     "다행",
+     "다행",
+     "dahaeng"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +94,34 @@
    "note": "회사 = agency",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b6/cut2"
+   "art": "scene/ko/r3_love_b6/cut2",
+   "lemmas": [
+    [
+     "회사",
+     "회사",
+     "hoesa"
+    ],
+    [
+     "연락",
+     "연락",
+     "yeollak"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +131,19 @@
    "en": "Don't tell me they want us to break up?",
    "note": "설마",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "설마",
+     "설마",
+     "seolma"
+    ],
+    [
+     "헤어지",
+     "헤어지다",
+     "heeojida"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +154,19 @@
    "note": "친구 = friend",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b6/cut3"
+   "art": "scene/ko/r3_love_b6/cut3",
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "친구",
+     "친구",
+     "chingu"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +176,24 @@
    "en": "Okay it's fine you just debuted.",
    "note": "이해",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "그래",
+     "그래",
+     "geurae"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "데뷔",
+     "데뷔",
+     "debwi"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +204,14 @@
    "note": "Kick setup",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b6/cut4"
+   "art": "scene/ko/r3_love_b6/cut4",
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +221,8 @@
    "en": "What isn't?",
    "note": "뭐가 = what",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 9,
@@ -123,7 +233,14 @@
    "note": "못 하다 = can't",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b6/cut5"
+   "art": "scene/ko/r3_love_b6/cut5",
+   "lemmas": [
+    [
+     "친구",
+     "친구",
+     "chingu"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -133,7 +250,8 @@
    "en": "Taeo...",
    "note": "심쿵 silence",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 11,
@@ -144,7 +262,34 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b6/cut6"
+   "art": "scene/ko/r3_love_b6/cut6",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "방송",
+     "방송",
+     "bangsong"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ],
+    [
+     "좋아하",
+     "좋아하다",
+     "joahada"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -154,7 +299,14 @@
    "en": "Really? Is that okay?",
    "note": "-아도 돼? = is it okay to",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 13,
@@ -165,7 +317,24 @@
    "note": "reasoning",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b6/cut7"
+   "art": "scene/ko/r3_love_b6/cut7",
+   "lemmas": [
+    [
+     "모르",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "거짓말",
+     "거짓말",
+     "geojinmal"
+    ],
+    [
+     "노래",
+     "노래",
+     "norae"
+    ]
+   ]
   },
   {
    "num": 14,
@@ -175,7 +344,19 @@
    "en": "Then I'll watch from the front row...",
    "note": "support",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "앞줄",
+     "앞줄",
+     "apjul"
+    ],
+    [
+     "서",
+     "서다",
+     "seoda"
+    ]
+   ]
   },
   {
    "num": 15,
@@ -186,7 +367,24 @@
    "note": "callback",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b6/cut8"
+   "art": "scene/ko/r3_love_b6/cut8",
+   "lemmas": [
+    [
+     "응원",
+     "응원",
+     "eungwon"
+    ],
+    [
+     "봉",
+     "봉",
+     "bong"
+    ],
+    [
+     "들",
+     "들다",
+     "deulda"
+    ]
+   ]
   },
   {
    "num": 16,
@@ -196,7 +394,29 @@
    "en": "Yeah this time I'll shout your name loud, done.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "이번",
+     "이번",
+     "ibeon"
+    ],
+    [
+     "이름",
+     "이름",
+     "ireum"
+    ],
+    [
+     "크",
+     "크다",
+     "keuda"
+    ],
+    [
+     "외칠",
+     "외치다",
+     "oechida"
+    ]
+   ]
   }
  ],
  "learner_gender": "F",

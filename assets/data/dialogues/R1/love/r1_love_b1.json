@@ -38,7 +38,24 @@
    "note": "짠! = ta-da!",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_b1/cut1"
+   "art": "scene/ko/r1_love_b1/cut1",
+   "lemmas": [
+    [
+     "짠",
+     "짠",
+     "jjan"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "다녀",
+     "다니다",
+     "danida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +65,24 @@
    "en": "Whoa couple tees? For real?",
    "note": "커플티 = matching couple T-shirts",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "커플",
+     "커플",
+     "keopeul"
+    ],
+    [
+     "티",
+     "티",
+     "ti"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +93,49 @@
    "note": "국룰 = unwritten national rule (slang)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_b1/cut2"
+   "art": "scene/ko/r1_love_b1/cut2",
+   "lemmas": [
+    [
+     "놀이",
+     "놀이",
+     "nori"
+    ],
+    [
+     "공원",
+     "공원",
+     "gongwon"
+    ],
+    [
+     "커플",
+     "커플",
+     "keopeul"
+    ],
+    [
+     "티",
+     "티",
+     "ti"
+    ],
+    [
+     "국",
+     "국",
+     "guk"
+    ],
+    [
+     "룰",
+     "룰",
+     "rul"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "필수",
+     "필수",
+     "pilsu"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +145,19 @@
    "en": "A bit embarrassing… okay let's do it.",
    "note": "-는데 = but… (softening)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "창피",
+     "창피",
+     "changpi"
+    ],
+    [
+     "그래",
+     "그래",
+     "geurae"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +168,19 @@
    "note": "잘 어울리다 = to suit someone",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_b1/cut3"
+   "art": "scene/ko/r1_love_b1/cut3",
+   "lemmas": [
+    [
+     "봐",
+     "보다",
+     "boda"
+    ],
+    [
+     "어울리",
+     "어울리다",
+     "eoullida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +190,19 @@
    "en": "But… that couple over there has the exact same one.",
    "note": "Kick: they bought the exact same shirt",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "커플",
+     "커플",
+     "keopeul"
+    ],
+    [
+     "똑같",
+     "똑같다",
+     "ttokgatda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +213,8 @@
    "note": "저기도 = over there too",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_b1/cut4"
+   "art": "scene/ko/r1_love_b1/cut4",
+   "lemmas": []
   },
   {
    "num": 8,
@@ -111,7 +224,29 @@
    "en": "Totally the rule. We look like one big team.",
    "note": "callback 국룰 — punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "국",
+     "국",
+     "guk"
+    ],
+    [
+     "룰",
+     "룰",
+     "rul"
+    ],
+    [
+     "팀",
+     "팀",
+     "tim"
+    ]
+   ]
   }
  ],
  "review": {

@@ -38,7 +38,19 @@
    "note": "아직 = still",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_work_a2/cut1"
+   "art": "scene/ko/r0_work_a2/cut1",
+   "lemmas": [
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ],
+    [
+     "일",
+     "일",
+     "il"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +60,19 @@
    "en": "Yes, a little left.",
    "note": "남다 = remain",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "조금",
+     "조금",
+     "jogeum"
+    ],
+    [
+     "남",
+     "남다",
+     "namda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +83,14 @@
    "note": "드세요 = please have",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_work_a2/cut2"
+   "art": "scene/ko/r0_work_a2/cut2",
+   "lemmas": [
+    [
+     "드세",
+     "드세다",
+     "deuseda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +100,19 @@
    "en": "Coffee? Thank you.",
    "note": "감사합니다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "커피",
+     "커피",
+     "keopi"
+    ],
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +123,14 @@
    "note": "심쿵: she stays",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_work_a2/cut3"
+   "art": "scene/ko/r0_work_a2/cut3",
+   "lemmas": [
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +140,24 @@
    "en": "Really? Your work is done.",
    "note": "-잖아요 = you know",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "일",
+     "일",
+     "il"
+    ],
+    [
+     "끝났",
+     "끝나다",
+     "kkeunnada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +168,14 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_work_a2/cut4"
+   "art": "scene/ko/r0_work_a2/cut4",
+   "lemmas": [
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +185,19 @@
    "en": "I'll take it slow, it's fine...",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "천천히",
+     "천천히",
+     "cheoncheonhi"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   }
  ],
  "series": "flirt",

@@ -43,7 +43,19 @@
    "note": "Pickup line #1 — 하늘 = sky / heaven (and her name)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b3/cut1"
+   "art": "scene/ko/r3_love_b3/cut1",
+   "lemmas": [
+    [
+     "혹시",
+     "혹시",
+     "hoksi"
+    ],
+    [
+     "떨어졌",
+     "떨어지다",
+     "tteoreojida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -53,7 +65,14 @@
    "en": "Lolol whoa. My name’s 하늘, so I’ve heard that a hundred times.",
    "note": "Kick: her name is literally \"sky\"",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "이름",
+     "이름",
+     "ireum"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -64,7 +83,24 @@
    "note": "멘트 #2",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b3/cut2"
+   "art": "scene/ko/r3_love_b3/cut2",
+   "lemmas": [
+    [
+     "눈",
+     "눈",
+     "nun"
+    ],
+    [
+     "길",
+     "길",
+     "gil"
+    ],
+    [
+     "잃",
+     "잃다",
+     "ilta"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -74,7 +110,24 @@
    "en": "Don’t tell me you memorized a top 10 list?",
    "note": "설마 = don't tell me",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "설마",
+     "설마",
+     "seolma"
+    ],
+    [
+     "외워",
+     "외우다",
+     "oeuda"
+    ],
+    [
+     "온",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -85,7 +138,19 @@
    "note": "어떻게 = how",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b3/cut3"
+   "art": "scene/ko/r3_love_b3/cut3",
+   "lemmas": [
+    [
+     "어떻게",
+     "어떻게",
+     "eotteoke"
+    ],
+    [
+     "알",
+     "알다",
+     "alda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -95,7 +160,19 @@
    "en": "That line’s ten years old. My dad used it on my mom.",
    "note": "-한테 = to (a person)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "전",
+     "전",
+     "jeon"
+    ],
+    [
+     "멘트",
+     "멘트",
+     "menteu"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -106,7 +183,19 @@
    "note": "성공한 = successful",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b3/cut4"
+   "art": "scene/ko/r3_love_b3/cut4",
+   "lemmas": [
+    [
+     "성공",
+     "성공",
+     "seonggong"
+    ],
+    [
+     "멘트",
+     "멘트",
+     "menteu"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -116,7 +205,14 @@
    "en": "Haha, smooth talker. But don’t do number three.",
    "note": "-지 마 = don't",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -127,7 +223,14 @@
    "note": "뭔지 = what it is",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b3/cut5"
+   "art": "scene/ko/r3_love_b3/cut5",
+   "lemmas": [
+    [
+     "알",
+     "알다",
+     "alda"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -137,7 +240,24 @@
    "en": "Something like “want some ramyeon”?",
    "note": "a famous Korean invitation-line cliché",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "라면",
+     "라면",
+     "ramyeon"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ],
+    [
+     "비슷",
+     "비슷",
+     "biseut"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -148,7 +268,29 @@
    "note": "솔직하게 = honestly",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b3/cut6"
+   "art": "scene/ko/r3_love_b3/cut6",
+   "lemmas": [
+    [
+     "버릴",
+     "버리다",
+     "beorida"
+    ],
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "솔직",
+     "솔직",
+     "soljik"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -158,7 +300,14 @@
    "en": "Ooh, that’s the hardest one. Go on.",
    "note": "제일 어려운 = the hardest",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "제일",
+     "제일",
+     "jeil"
+    ]
+   ]
   },
   {
    "num": 13,
@@ -169,7 +318,29 @@
    "note": "-아서 = because · 말 걸다 = to strike up a conversation",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b3/cut7"
+   "art": "scene/ko/r3_love_b3/cut7",
+   "lemmas": [
+    [
+     "아까",
+     "아까",
+     "akka"
+    ],
+    [
+     "예뻐",
+     "예쁘다",
+     "yeppeuda"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ],
+    [
+     "걸",
+     "걸다",
+     "geolda"
+    ]
+   ]
   },
   {
    "num": 14,
@@ -179,7 +350,8 @@
    "en": "…That one wasn’t on the top 10.",
    "note": "the honest line wins",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 15,
@@ -190,7 +362,19 @@
    "note": "방금 = just now",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b3/cut8"
+   "art": "scene/ko/r3_love_b3/cut8",
+   "lemmas": [
+    [
+     "방금",
+     "방금",
+     "banggeum"
+    ],
+    [
+     "만든",
+     "만들다",
+     "mandeulda"
+    ]
+   ]
   },
   {
    "num": 16,
@@ -200,7 +384,34 @@
    "en": "Fair. Give me your Insta. Number’s for next round.",
    "note": "인정 = respect / I'll give you that (slang)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "인정",
+     "인정",
+     "injeong"
+    ],
+    [
+     "인스타",
+     "인스타",
+     "inseuta"
+    ],
+    [
+     "줘",
+     "주다",
+     "juda"
+    ],
+    [
+     "번호",
+     "번호",
+     "beonho"
+    ],
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ]
+   ]
   }
  ],
  "initiator": "A",

@@ -41,7 +41,19 @@
    "note": "한 잔 받아요 = take a glass",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b1/cut1"
+   "art": "scene/ko/r2_work_b1/cut1",
+   "lemmas": [
+    [
+     "씨",
+     "씨",
+     "ssi"
+    ],
+    [
+     "잔",
+     "잔",
+     "jan"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +63,19 @@
    "en": "Two hands! Receive with both",
    "note": "두 손 = both hands",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "손",
+     "손",
+     "son"
+    ],
+    [
+     "손",
+     "손",
+     "son"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +86,14 @@
    "note": "감사합니다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b1/cut2"
+   "art": "scene/ko/r2_work_b1/cut2",
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +103,24 @@
    "en": "To our team's new family member!",
    "note": "-를 위하여 = to… (toast)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "팀",
+     "팀",
+     "tim"
+    ],
+    [
+     "식구",
+     "식구",
+     "sikgu"
+    ],
+    [
+     "위하",
+     "위하다",
+     "wihada"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +131,34 @@
    "note": "고개 돌리다 = turn one's head",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b1/cut3"
+   "art": "scene/ko/r2_work_b1/cut3",
+   "lemmas": [
+    [
+     "고개",
+     "고개",
+     "gogae"
+    ],
+    [
+     "돌리",
+     "돌리다",
+     "dollida"
+    ],
+    [
+     "마셔",
+     "마시다",
+     "masida"
+    ],
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +168,19 @@
    "en": "Why? It's my drink",
    "note": "내 술 = my drink",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "술",
+     "술",
+     "sul"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +191,14 @@
    "note": "예의 = etiquette",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b1/cut4"
+   "art": "scene/ko/r2_work_b1/cut4",
+   "lemmas": [
+    [
+     "예의",
+     "예의",
+     "yeui"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +208,14 @@
    "en": "I finished it… whoa",
    "note": "다 마셨어요 = drank it all",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "마셨",
+     "마시다",
+     "masida"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -125,7 +226,29 @@
    "note": "원샷 = one shot · 다 됐네 = you've fully become",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b1/cut5"
+   "art": "scene/ko/r2_work_b1/cut5",
+   "lemmas": [
+    [
+     "원샷",
+     "원샷",
+     "wonsyat"
+    ],
+    [
+     "한국",
+     "한국",
+     "hanguk"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ],
+    [
+     "잔",
+     "잔",
+     "jan"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -135,7 +258,24 @@
    "en": "Whoa… Jiho senior you never told me to one-shot",
    "note": "-한 적 없다 = never did",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "선배",
+     "선배",
+     "seonbae"
+    ],
+    [
+     "저",
+     "저",
+     "jeo"
+    ],
+    [
+     "원샷",
+     "원샷",
+     "wonsyat"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -146,7 +286,24 @@
    "note": "알아서 = on your own",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b1/cut6"
+   "art": "scene/ko/r2_work_b1/cut6",
+   "lemmas": [
+    [
+     "알",
+     "알다",
+     "alda"
+    ],
+    [
+     "이제",
+     "이제",
+     "ije"
+    ],
+    [
+     "노래방",
+     "노래방",
+     "noraebang"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -156,7 +313,34 @@
    "en": "…I'm not sure I can survive this company",
    "note": "다니다 = to attend / work at",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "모르",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "저",
+     "저",
+     "jeo"
+    ],
+    [
+     "이",
+     "이",
+     "i"
+    ],
+    [
+     "회사",
+     "회사",
+     "hoesa"
+    ],
+    [
+     "다닐",
+     "다니다",
+     "danida"
+    ]
+   ]
   }
  ],
  "review": {

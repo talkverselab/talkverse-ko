@@ -40,7 +40,19 @@
    "note": "잔액 = balance",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s4/cut1"
+   "art": "scene/ko/r0_survival_s4/cut1",
+   "lemmas": [
+    [
+     "잔액",
+     "잔액",
+     "janaek"
+    ],
+    [
+     "부족",
+     "부족",
+     "bujok"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +62,14 @@
    "en": "Huh? One moment…",
    "note": "잠깐만요",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +80,14 @@
    "note": "현금 = cash",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s4/cut2"
+   "art": "scene/ko/r0_survival_s4/cut2",
+   "lemmas": [
+    [
+     "현금",
+     "현금",
+     "hyeongeum"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +97,14 @@
    "en": "(from behind) Hurry up a bit!",
    "note": "Kick: line behind — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +115,19 @@
    "note": "죄송합니다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s4/cut3"
+   "art": "scene/ko/r0_survival_s4/cut3",
+   "lemmas": [
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ],
+    [
+     "카드",
+     "카드",
+     "kadeu"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +137,14 @@
    "en": "I'll tap for you.",
    "note": "찍다 = tap",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "찍",
+     "찍다",
+     "jjikda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +155,14 @@
    "note": "감사합니다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s4/cut4"
+   "art": "scene/ko/r0_survival_s4/cut4",
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +172,24 @@
    "en": "Buy me a coffee next time.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "커피",
+     "커피",
+     "keopi"
+    ],
+    [
+     "사",
+     "사다",
+     "sada"
+    ]
+   ]
   }
  ],
  "review": {

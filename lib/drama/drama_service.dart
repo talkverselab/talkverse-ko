@@ -4,10 +4,17 @@ import 'package:flutter/services.dart' show AssetManifest, rootBundle;
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../data/account.dart';
+import '../services/learner_prefs.dart';
 
 /// 드라마 회화(R0~R4 · 주제별 JSON) 로더 — 일본어앱 dialogue_service 를 한국어 필드로 옮김(2026-11-03).
 /// 파일 `assets/data/dialogues/R<레벨>/<주제>/<편id>.json`, 구조는 `assets/data/dialogues/README.md`.
 /// 턴: ko(한국어) · rd(로마자) · en(영어) · note(영어 메모) · art(장면 컷 키 `scene/ko/<편id>/cut<N>`, A·B 쌍의 첫 턴).
+/// 문장 내용어 — [표면형, 기본형, 로마자](tools/add_lemmas.py).
+class DramaLemma {
+  final String surface, base, rd;
+  const DramaLemma(this.surface, this.base, this.rd);
+}
+
 class DramaTurn {
   final int num;
   final String speaker;
@@ -18,7 +25,8 @@ class DramaTurn {
   final String? at;
   final bool bubble;
   final String? art;
-  const DramaTurn({required this.num, required this.speaker, required this.ko, required this.rd, required this.en, required this.note, this.at, this.bubble = false, this.art});
+  final List<DramaLemma> lemmas;
+  const DramaTurn({required this.num, required this.speaker, required this.ko, required this.rd, required this.en, required this.note, this.at, this.bubble = false, this.art, this.lemmas = const []});
   factory DramaTurn.fromJson(Map<String, dynamic> j) => DramaTurn(
         num: j['num'] as int? ?? 0,
         speaker: j['speaker'] as String? ?? 'A',
@@ -29,6 +37,10 @@ class DramaTurn {
         at: j['at'] as String?,
         bubble: j['ui'] == 'bubble',
         art: j['art'] as String?,
+        lemmas: [
+          for (final l in (j['lemmas'] as List? ?? const []))
+            if (l is List && l.length >= 2) DramaLemma('${l[0]}', '${l[1]}', l.length > 2 ? '${l[2]}' : ''),
+        ],
       );
 }
 
@@ -57,8 +69,12 @@ class DramaEpisode {
   bool get cliche => kdrama.isNotEmpty;
   int get cutCount => (turns.length + 1) ~/ 2;
 
-  /// 학습자 자리(`{name}`)에 들어갈 이름 — 로그인했으면 계정 이름, 아니면 「나」.
+  /// `{name}` 자리가 있는 편인지(있으면 이름이 빈 학습자에게 이름·성별을 묻는다).
+  bool get needsName => speakers.values.any((v) => v.contains('{name}')) || turns.any((t) => t.ko.contains('{name}'));
+
+  /// 학습자 자리(`{name}`)에 들어갈 이름 — 「나」 설정 이름 → 로그인 계정 이름 → 「나」.
   static String learnerName() {
+    if (LearnerPrefs.name.value.isNotEmpty) return LearnerPrefs.name.value;
     final n = Account.user.value?['display_name'] as String?;
     return (n != null && n.trim().isNotEmpty) ? n.trim() : '나';
   }

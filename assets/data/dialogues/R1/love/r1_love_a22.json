@@ -38,7 +38,29 @@
    "note": "춥다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a22/cut1"
+   "art": "scene/ko/r1_love_a22/cut1",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "손",
+     "손",
+     "son"
+    ],
+    [
+     "시려",
+     "시리다",
+     "sirida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +70,19 @@
    "en": "Then want me to lend you my gloves?",
    "note": "장갑",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "장갑",
+     "장갑",
+     "janggap"
+    ],
+    [
+     "빌려",
+     "빌리다",
+     "billida"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +93,29 @@
    "note": "말고",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a22/cut2"
+   "art": "scene/ko/r1_love_a22/cut2",
+   "lemmas": [
+    [
+     "장갑",
+     "장갑",
+     "janggap"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "따뜻",
+     "따뜻",
+     "ttatteut"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +125,24 @@
    "en": "Really? Want me to lend you my coat then?",
    "note": "네",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "코트",
+     "코트",
+     "koteu"
+    ],
+    [
+     "빌려",
+     "빌리다",
+     "billida"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +153,14 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a22/cut3"
+   "art": "scene/ko/r1_love_a22/cut3",
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +170,19 @@
    "en": "…Is this okay, doing it like this?",
    "note": "괜찮아요",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "이렇게",
+     "이렇게",
+     "ireoke"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +193,14 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a22/cut4"
+   "art": "scene/ko/r1_love_a22/cut4",
+   "lemmas": [
+    [
+     "물어봐",
+     "물어보다",
+     "mureoboda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +210,24 @@
    "en": "I like it. I really like it.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   }
  ],
  "series": "flirt",

@@ -39,7 +39,24 @@
    "note": "쓰레기 날",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a7/cut1"
+   "art": "scene/ko/r0_life_a7/cut1",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "쓰레기",
+     "쓰레기",
+     "sseuregi"
+    ],
+    [
+     "날",
+     "날",
+     "nal"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +66,14 @@
    "en": "Whoa, what time is it?",
    "note": "몇 시",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +84,19 @@
    "note": "까지 = until",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a7/cut2"
+   "art": "scene/ko/r0_life_a7/cut2",
+   "lemmas": [
+    [
+     "곧",
+     "곧",
+     "got"
+    ],
+    [
+     "온",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +106,19 @@
    "en": "Wait! Where are my shoes!",
    "note": "신발 = shoes",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "신발",
+     "신발",
+     "sinbal"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +129,29 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a7/cut3"
+   "art": "scene/ko/r0_life_a7/cut3",
+   "lemmas": [
+    [
+     "갈",
+     "가다",
+     "gada"
+    ],
+    [
+     "봉투",
+     "봉투",
+     "bongtu"
+    ],
+    [
+     "터졌",
+     "터지다",
+     "teojida"
+    ],
+    [
+     "쏟아졌",
+     "쏟아지다",
+     "ssodajida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +161,24 @@
    "en": "Hurry!! Truck's here!!",
    "note": "차",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ],
+    [
+     "온",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +189,19 @@
    "note": "갔다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a7/cut4"
+   "art": "scene/ko/r0_life_a7/cut4",
+   "lemmas": [
+    [
+     "헉헉",
+     "헉헉",
+     "heokeok"
+    ],
+    [
+     "갔",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +211,24 @@
    "en": "Ah, guess we'll run again next week…",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "주",
+     "주",
+     "ju"
+    ],
+    [
+     "뛰",
+     "뛰다",
+     "ttwida"
+    ]
+   ]
   }
  ],
  "review": {

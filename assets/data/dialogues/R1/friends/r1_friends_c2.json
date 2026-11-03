@@ -41,7 +41,19 @@
    "new": [],
    "ui": "bubble",
    "at": "00:00",
-   "art": "scene/ko/r1_friends_c2/cut1"
+   "art": "scene/ko/r1_friends_c2/cut1",
+   "lemmas": [
+    [
+     "서",
+     "서",
+     "seo"
+    ],
+    [
+     "생일",
+     "생일",
+     "saengil"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -53,7 +65,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:01"
+   "at": "00:01",
+   "lemmas": [
+    [
+     "잤",
+     "자다",
+     "jada"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -66,7 +85,34 @@
    "new": [],
    "ui": "bubble",
    "at": "00:02",
-   "art": "scene/ko/r1_friends_c2/cut2"
+   "art": "scene/ko/r1_friends_c2/cut2",
+   "lemmas": [
+    [
+     "생일",
+     "생일",
+     "saengil"
+    ],
+    [
+     "축하",
+     "축하",
+     "chuka"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "하루",
+     "하루",
+     "haru"
+    ],
+    [
+     "바랍",
+     "바라다",
+     "barada"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -78,7 +124,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:02"
+   "at": "00:02",
+   "lemmas": [
+    [
+     "공문",
+     "공문",
+     "gongmun"
+    ],
+    [
+     "보낸",
+     "보내다",
+     "bonaeda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -91,7 +149,19 @@
    "new": [],
    "ui": "bubble",
    "at": "00:03",
-   "art": "scene/ko/r1_friends_c2/cut3"
+   "art": "scene/ko/r1_friends_c2/cut3",
+   "lemmas": [
+    [
+     "웃기",
+     "웃기다",
+     "utgida"
+    ],
+    [
+     "반말",
+     "반말",
+     "banmal"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -103,7 +173,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:03"
+   "at": "00:03",
+   "lemmas": [
+    [
+     "축",
+     "축",
+     "chuk"
+    ],
+    [
+     "대박",
+     "대박",
+     "daebak"
+    ],
+    [
+     "행복",
+     "행복",
+     "haengbok"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -116,7 +203,29 @@
    "new": [],
    "ui": "bubble",
    "at": "00:04",
-   "art": "scene/ko/r1_friends_c2/cut4"
+   "art": "scene/ko/r1_friends_c2/cut4",
+   "lemmas": [
+    [
+     "축",
+     "축",
+     "chuk"
+    ],
+    [
+     "알",
+     "알다",
+     "alda"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "잘한",
+     "잘하다",
+     "jalhada"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -128,7 +237,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:04"
+   "at": "00:04",
+   "lemmas": [
+    [
+     "어제",
+     "어제",
+     "eoje"
+    ],
+    [
+     "배웠",
+     "배우다",
+     "baeuda"
+    ]
+   ]
   }
  ],
  "review": {

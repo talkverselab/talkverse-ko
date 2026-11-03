@@ -39,7 +39,19 @@
    "note": "멈추다 = stop",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a15/cut1"
+   "art": "scene/ko/r0_love_a15/cut1",
+   "lemmas": [
+    [
+     "갑자기",
+     "갑자기",
+     "gapjagi"
+    ],
+    [
+     "멈췄",
+     "멈추다",
+     "meomchuda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +61,19 @@
    "en": "Whoa… the lights went out too.",
    "note": "불 = light",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "불",
+     "불",
+     "bul"
+    ],
+    [
+     "나갔",
+     "나가다",
+     "nagada"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +84,24 @@
    "note": "버튼",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a15/cut2"
+   "art": "scene/ko/r0_love_a15/cut2",
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "버튼",
+     "버튼",
+     "beoteun"
+    ],
+    [
+     "눌",
+     "누르다",
+     "nureuda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +111,19 @@
    "en": "(speaker) Okay~ it'll take an hour. It's hot.",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ],
+    [
+     "걸려",
+     "걸리다",
+     "geollida"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +134,14 @@
    "note": "화장실",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a15/cut3"
+   "art": "scene/ko/r0_love_a15/cut3",
+   "lemmas": [
+    [
+     "화장실",
+     "화장실",
+     "hwajangsil"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +151,19 @@
    "en": "Wait, my stomach too…",
    "note": "배 = stomach",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "배",
+     "배",
+     "bae"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +174,29 @@
    "note": "심쿵-ish",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a15/cut4"
+   "art": "scene/ko/r0_love_a15/cut4",
+   "lemmas": [
+    [
+     "얘기",
+     "얘기",
+     "yaegi"
+    ],
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ],
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +206,19 @@
    "en": "But my phone died too…",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "폰",
+     "폰",
+     "pon"
+    ],
+    [
+     "꺼졌",
+     "꺼지다",
+     "kkeojida"
+    ]
+   ]
   }
  ],
  "series": "flirt",

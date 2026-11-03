@@ -38,7 +38,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "art": "scene/ko/r0_love_c1/cut1"
+   "art": "scene/ko/r0_love_c1/cut1",
+   "lemmas": [
+    [
+     "자",
+     "자다",
+     "jada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +56,14 @@
    "note": "뭔데? = what is it? / what's up?",
    "tags": [],
    "new": [],
-   "ui": "bubble"
+   "ui": "bubble",
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +75,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "art": "scene/ko/r0_love_c1/cut2"
+   "art": "scene/ko/r0_love_c1/cut2",
+   "lemmas": [
+    [
+     "심심",
+     "심심",
+     "simsim"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +93,14 @@
    "note": "repeating the word back = teasing",
    "tags": [],
    "new": [],
-   "ui": "bubble"
+   "ui": "bubble",
+   "lemmas": [
+    [
+     "심심",
+     "심심",
+     "simsim"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -84,7 +112,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "art": "scene/ko/r0_love_c1/cut3"
+   "art": "scene/ko/r0_love_c1/cut3",
+   "lemmas": [
+    [
+     "실수",
+     "실수",
+     "silsu"
+    ],
+    [
+     "보냈",
+     "보내다",
+     "bonaeda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -95,7 +135,14 @@
    "note": "진짜? = really?",
    "tags": [],
    "new": [],
-   "ui": "bubble"
+   "ui": "bubble",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -107,7 +154,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "art": "scene/ko/r0_love_c1/cut4"
+   "art": "scene/ko/r0_love_c1/cut4",
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "일부러",
+     "일부러",
+     "ilbureo"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -118,7 +177,19 @@
    "note": "잘 자 = good night",
    "tags": [],
    "new": [],
-   "ui": "bubble"
+   "ui": "bubble",
+   "lemmas": [
+    [
+     "자",
+     "자다",
+     "jada"
+    ],
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ]
+   ]
   }
  ],
  "review": {

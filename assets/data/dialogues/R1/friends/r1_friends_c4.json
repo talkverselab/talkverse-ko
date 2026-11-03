@@ -42,7 +42,29 @@
    "new": [],
    "ui": "bubble",
    "at": "20:00",
-   "art": "scene/ko/r1_friends_c4/cut1"
+   "art": "scene/ko/r1_friends_c4/cut1",
+   "lemmas": [
+    [
+     "짤",
+     "짤",
+     "jjal"
+    ],
+    [
+     "봐",
+     "보다",
+     "boda"
+    ],
+    [
+     "표정",
+     "표정",
+     "pyojeong"
+    ],
+    [
+     "봐",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -54,7 +76,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "20:00"
+   "at": "20:00",
+   "lemmas": []
   },
   {
    "num": 3,
@@ -67,7 +90,24 @@
    "new": [],
    "ui": "bubble",
    "at": "20:01",
-   "art": "scene/ko/r1_friends_c4/cut2"
+   "art": "scene/ko/r1_friends_c4/cut2",
+   "lemmas": [
+    [
+     "얼굴",
+     "얼굴",
+     "eolgul"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "터졌",
+     "터지다",
+     "teojida"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -79,7 +119,29 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "20:01"
+   "at": "20:01",
+   "lemmas": [
+    [
+     "지워",
+     "지우다",
+     "jiuda"
+    ],
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "당장",
+     "당장",
+     "dangjang"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -92,7 +154,44 @@
    "new": [],
    "ui": "bubble",
    "at": "20:02",
-   "art": "scene/ko/r1_friends_c4/cut3"
+   "art": "scene/ko/r1_friends_c4/cut3",
+   "lemmas": [
+    [
+     "학과",
+     "학과",
+     "hakgwa"
+    ],
+    [
+     "단톡",
+     "단톡",
+     "dantok"
+    ],
+    [
+     "이미",
+     "이미",
+     "imi"
+    ],
+    [
+     "올렸",
+     "올리다",
+     "ollida"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "난리",
+     "난리",
+     "nalli"
+    ],
+    [
+     "남",
+     "나다",
+     "nada"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -104,7 +203,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "20:02"
+   "at": "20:02",
+   "lemmas": [
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "웃기",
+     "웃기다",
+     "utgida"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -117,7 +228,39 @@
    "new": [],
    "ui": "bubble",
    "at": "20:03",
-   "art": "scene/ko/r1_friends_c4/cut4"
+   "art": "scene/ko/r1_friends_c4/cut4",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "학교",
+     "학교",
+     "hakgyo"
+    ],
+    [
+     "절대",
+     "절대",
+     "jeoldae"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -129,7 +272,29 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "20:03"
+   "at": "20:03",
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "넘",
+     "넘다",
+     "neomda"
+    ],
+    [
+     "과",
+     "과",
+     "gwa"
+    ],
+    [
+     "퍼지",
+     "퍼지다",
+     "peojida"
+    ]
+   ]
   }
  ],
  "review": {

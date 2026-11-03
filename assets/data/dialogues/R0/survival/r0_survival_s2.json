@@ -39,7 +39,19 @@
    "note": "고르다 = choose",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s2/cut1"
+   "art": "scene/ko/r0_survival_s2/cut1",
+   "lemmas": [
+    [
+     "메뉴",
+     "메뉴",
+     "menyu"
+    ],
+    [
+     "고르",
+     "고르다",
+     "goreuda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +61,19 @@
    "en": "Bulgogi burger.",
    "note": "이거 = this",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "불고기",
+     "불고기",
+     "bulgogi"
+    ],
+    [
+     "버거",
+     "버거",
+     "beogeo"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +84,14 @@
    "note": "세트 = combo",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s2/cut2"
+   "art": "scene/ko/r0_survival_s2/cut2",
+   "lemmas": [
+    [
+     "세트",
+     "세트",
+     "seteu"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +101,8 @@
    "en": "Yes yes yes...",
    "note": "he keeps tapping",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 5,
@@ -81,7 +113,19 @@
    "note": "Kick: six burgers — chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s2/cut3"
+   "art": "scene/ko/r0_survival_s2/cut3",
+   "lemmas": [
+    [
+     "버거",
+     "버거",
+     "beogeo"
+    ],
+    [
+     "결제",
+     "결제",
+     "gyeolje"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +135,19 @@
    "en": "Wait, excuse me!",
    "note": "저기요 = excuse me",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "저기",
+     "저기",
+     "jeogi"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +158,14 @@
    "note": "취소 = cancel",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_survival_s2/cut4"
+   "art": "scene/ko/r0_survival_s2/cut4",
+   "lemmas": [
+    [
+     "취소",
+     "취소",
+     "chwiso"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +175,14 @@
    "en": "Thank you, just one...",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   }
  ],
  "review": {

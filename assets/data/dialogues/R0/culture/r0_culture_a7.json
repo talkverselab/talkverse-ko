@@ -39,7 +39,14 @@
    "note": "어디",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_culture_a7/cut1"
+   "art": "scene/ko/r0_culture_a7/cut1",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +56,24 @@
    "en": "Here! Under the big tree!",
    "note": "여기요",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "큰",
+     "크다",
+     "keuda"
+    ],
+    [
+     "나무",
+     "나무",
+     "namu"
+    ],
+    [
+     "밑",
+     "밑",
+     "mit"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +84,24 @@
    "note": "Kick setup",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_culture_a7/cut2"
+   "art": "scene/ko/r0_culture_a7/cut2",
+   "lemmas": [
+    [
+     "나무",
+     "나무",
+     "namu"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "많",
+     "많다",
+     "manta"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +111,14 @@
    "en": "Whoa... the blue tent!",
    "note": "텐트",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "텐트",
+     "텐트",
+     "tenteu"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +129,14 @@
    "note": "chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_culture_a7/cut3"
+   "art": "scene/ko/r0_culture_a7/cut3",
+   "lemmas": [
+    [
+     "한가득",
+     "한가득",
+     "hangadeuk"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +146,24 @@
    "en": "Wave your hands quick!",
    "note": "흔들다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "손",
+     "손",
+     "son"
+    ],
+    [
+     "흔들",
+     "흔들다",
+     "heundeulda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +174,8 @@
    "note": "Kick",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_culture_a7/cut4"
+   "art": "scene/ko/r0_culture_a7/cut4",
+   "lemmas": []
   },
   {
    "num": 8,
@@ -112,7 +185,14 @@
    "en": "Whoa... everyone's waving.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "흔드",
+     "흔들다",
+     "heundeulda"
+    ]
+   ]
   }
  ],
  "review": {

@@ -39,7 +39,24 @@
    "note": "반찬",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a10/cut1"
+   "art": "scene/ko/r0_life_a10/cut1",
+   "lemmas": [
+    [
+     "반찬",
+     "반찬",
+     "banchan"
+    ],
+    [
+     "왕창",
+     "왕창",
+     "wangchang"
+    ],
+    [
+     "보냈",
+     "보내다",
+     "bonaeda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +66,14 @@
    "en": "For real? Thanks!",
    "note": "몇 개",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +84,14 @@
    "note": "Kick",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a10/cut2"
+   "art": "scene/ko/r0_life_a10/cut2",
+   "lemmas": [
+    [
+     "왔",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +101,19 @@
    "en": "Whoa, the door won't close.",
    "note": "꽉",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "문",
+     "문",
+     "mun"
+    ],
+    [
+     "닫혀",
+     "닫히다",
+     "datida"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +124,19 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a10/cut3"
+   "art": "scene/ko/r0_life_a10/cut3",
+   "lemmas": [
+    [
+     "우유",
+     "우유",
+     "uyu"
+    ],
+    [
+     "갔",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +146,24 @@
    "en": "Behind the kimchi mountain.",
    "note": "뒤",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "김치",
+     "김치",
+     "gimchi"
+    ],
+    [
+     "산",
+     "산",
+     "san"
+    ],
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +174,24 @@
    "note": "파티",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_life_a10/cut4"
+   "art": "scene/ko/r0_life_a10/cut4",
+   "lemmas": [
+    [
+     "저녁",
+     "저녁",
+     "jeonyeok"
+    ],
+    [
+     "반찬",
+     "반찬",
+     "banchan"
+    ],
+    [
+     "파티",
+     "파티",
+     "pati"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +201,19 @@
    "en": "Just rice? Everyone's already coming!",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "밥",
+     "밥",
+     "bap"
+    ],
+    [
+     "온",
+     "오다",
+     "oda"
+    ]
+   ]
   }
  ],
  "review": {

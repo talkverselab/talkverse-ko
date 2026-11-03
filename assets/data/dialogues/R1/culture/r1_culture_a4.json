@@ -40,7 +40,8 @@
    "note": "줄 서다 = line up",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a4/cut1"
+   "art": "scene/ko/r1_culture_a4/cut1",
+   "lemmas": []
   },
   {
    "num": 2,
@@ -50,7 +51,24 @@
    "en": "Since 5 a.m. Already over 600.",
    "note": "새벽",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "새벽",
+     "새벽",
+     "saebyeok"
+    ],
+    [
+     "벌써",
+     "벌써",
+     "beolsseo"
+    ],
+    [
+     "넘",
+     "넘다",
+     "neomda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +79,19 @@
    "note": "대박",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a4/cut2"
+   "art": "scene/ko/r1_culture_a4/cut2",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "대박",
+     "대박",
+     "daebak"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +101,24 @@
    "en": "(now afternoon) Over 2000. Can’t see the end.",
    "note": "more",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "넘",
+     "넘다",
+     "neomda"
+    ],
+    [
+     "끝",
+     "끝",
+     "kkeut"
+    ],
+    [
+     "보여",
+     "보이다",
+     "boida"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +129,8 @@
    "note": "Kick: Taeo himself",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a4/cut3"
+   "art": "scene/ko/r1_culture_a4/cut3",
+   "lemmas": []
   },
   {
    "num": 6,
@@ -92,7 +140,19 @@
    "en": "Whoa… Taeo?! I’m lining up.",
    "note": "Kick: chaos — the crowd turns",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "줄",
+     "줄",
+     "jul"
+    ],
+    [
+     "서",
+     "서다",
+     "seoda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +163,19 @@
    "note": "chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a4/cut4"
+   "art": "scene/ko/r1_culture_a4/cut4",
+   "lemmas": [
+    [
+     "태오다아아",
+     "태오다아아",
+     "taeodaaa"
+    ],
+    [
+     "대박",
+     "대박",
+     "daebak"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +185,34 @@
    "en": "Wait… I’ll go in first. See you later.",
    "note": "punchline 심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "먼저",
+     "먼저",
+     "meonjeo"
+    ],
+    [
+     "들어갈",
+     "들어가다",
+     "deureogada"
+    ],
+    [
+     "이따",
+     "이따",
+     "itta"
+    ],
+    [
+     "봐",
+     "보다",
+     "boda"
+    ]
+   ]
   }
  ],
  "learner_gender": "F",

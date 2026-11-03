@@ -39,7 +39,14 @@
    "note": "죄송합니다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a8/cut1"
+   "art": "scene/ko/r0_love_a8/cut1",
+   "lemmas": [
+    [
+     "죄송합",
+     "죄송하다",
+     "joesonghada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +56,19 @@
    "en": "It's okay, like a drama.",
    "note": "드라마 같다 = like a drama",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "드라마",
+     "드라마",
+     "deurama"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +79,14 @@
    "note": "닦다 = wipe",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a8/cut2"
+   "art": "scene/ko/r0_love_a8/cut2",
+   "lemmas": [
+    [
+     "닦",
+     "닦다",
+     "dakda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +96,14 @@
    "en": "Ah, wait a second...",
    "note": "warning",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +114,8 @@
    "note": "Kick: chaos begins",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a8/cut3"
+   "art": "scene/ko/r0_love_a8/cut3",
+   "lemmas": []
   },
   {
    "num": 6,
@@ -91,7 +125,14 @@
    "en": "Oh my, I'm sorry too!",
    "note": "a third person",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +143,14 @@
    "note": "셋 다 = all three",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a8/cut4"
+   "art": "scene/ko/r0_love_a8/cut4",
+   "lemmas": [
+    [
+     "커피",
+     "커피",
+     "keopi"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +160,19 @@
    "en": "I'll buy three cups...",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잔",
+     "잔",
+     "jan"
+    ],
+    [
+     "사",
+     "사다",
+     "sada"
+    ]
+   ]
   }
  ],
  "series": "flirt",

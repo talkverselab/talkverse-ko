@@ -38,7 +38,14 @@
    "note": "들어 보다 = try listening",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a10/cut1"
+   "art": "scene/ko/r1_love_a10/cut1",
+   "lemmas": [
+    [
+     "노래",
+     "노래",
+     "norae"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +55,19 @@
    "en": "No, what song is it?",
    "note": "무슨 = what",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "노래",
+     "노래",
+     "norae"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +78,14 @@
    "note": "끼다 = put in",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a10/cut2"
+   "art": "scene/ko/r1_love_a10/cut2",
+   "lemmas": [
+    [
+     "껴",
+     "끼다",
+     "kkida"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +95,19 @@
    "en": "It's nice, what's the title?",
    "note": "제목 = title",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "제목",
+     "제목",
+     "jemok"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +118,14 @@
    "note": "심쿵: the title",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a10/cut3"
+   "art": "scene/ko/r1_love_a10/cut3",
+   "lemmas": [
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +135,14 @@
    "en": "Is that the title or...?",
    "note": "ambiguity",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "제목",
+     "제목",
+     "jemok"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +153,8 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a10/cut4"
+   "art": "scene/ko/r1_love_a10/cut4",
+   "lemmas": []
   },
   {
    "num": 8,
@@ -111,7 +164,19 @@
    "en": "Then let's listen again, from the very start.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "처음",
+     "처음",
+     "cheoeum"
+    ]
+   ]
   }
  ],
  "series": "flirt",

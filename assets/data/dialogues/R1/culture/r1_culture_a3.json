@@ -40,7 +40,19 @@
    "note": "직캠 = fancam",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a3/cut1"
+   "art": "scene/ko/r1_culture_a3/cut1",
+   "lemmas": [
+    [
+     "직캠",
+     "직캠",
+     "jikkaem"
+    ],
+    [
+     "나왔",
+     "나오다",
+     "naoda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +62,14 @@
    "en": "Really? Where?",
    "note": "어디 = where",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +80,14 @@
    "note": "맨 앞줄 = very front row",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a3/cut2"
+   "art": "scene/ko/r1_culture_a3/cut2",
+   "lemmas": [
+    [
+     "앞줄",
+     "앞줄",
+     "apjul"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +97,24 @@
    "en": "Lol your face is insane totally.",
    "note": "입덕 = becoming a fan",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "표정",
+     "표정",
+     "pyojeong"
+    ],
+    [
+     "미쳤",
+     "미치다",
+     "michida"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +125,14 @@
    "note": "심쿵: Taeo DMs",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a3/cut3"
+   "art": "scene/ko/r1_culture_a3/cut3",
+   "lemmas": [
+    [
+     "앞줄",
+     "앞줄",
+     "apjul"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +142,14 @@
    "en": "Whoa Taeo sent a DM!",
    "note": "DM",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "보냈",
+     "보내다",
+     "bonaeda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +160,29 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a3/cut4"
+   "art": "scene/ko/r1_culture_a3/cut4",
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "서",
+     "서다",
+     "seoda"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "불",
+     "부르다",
+     "bureuda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +192,19 @@
    "en": "I think my heart's dropping...",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "심장",
+     "심장",
+     "simjang"
+    ],
+    [
+     "떨어질",
+     "떨어지다",
+     "tteoreojida"
+    ]
+   ]
   }
  ],
  "learner_gender": "F",

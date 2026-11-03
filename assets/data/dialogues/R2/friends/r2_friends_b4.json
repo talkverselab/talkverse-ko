@@ -41,7 +41,24 @@
    "note": "트럭",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b4/cut1"
+   "art": "scene/ko/r2_friends_b4/cut1",
+   "lemmas": [
+    [
+     "트럭",
+     "트럭",
+     "teureok"
+    ],
+    [
+     "빌렸",
+     "빌리다",
+     "billida"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +68,14 @@
    "en": "Yeah... look over there.",
    "note": "저기",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "봐",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +86,24 @@
    "note": "경차",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b4/cut2"
+   "art": "scene/ko/r2_friends_b4/cut2",
+   "lemmas": [
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "경차",
+     "경차",
+     "gyeongcha"
+    ],
+    [
+     "아",
+     "알다",
+     "alda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +113,34 @@
    "en": "Tried to get a truck but it was way too expensive, so I just got this.",
    "note": "비싸다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "트럭",
+     "트럭",
+     "teureok"
+    ],
+    [
+     "빌리",
+     "빌리다",
+     "billida"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "비싸",
+     "비싸다",
+     "bissada"
+    ],
+    [
+     "걸",
+     "걸",
+     "geol"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +151,14 @@
    "note": "냉장고",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b4/cut3"
+   "art": "scene/ko/r2_friends_b4/cut3",
+   "lemmas": [
+    [
+     "냉장고",
+     "냉장고",
+     "naengjanggo"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +168,19 @@
    "en": "That... probably won't fit.",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "들어가",
+     "들어가다",
+     "deureogada"
+    ],
+    [
+     "뭐",
+     "뭐",
+     "mwo"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +191,19 @@
    "note": "몇 번",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b4/cut4"
+   "art": "scene/ko/r2_friends_b4/cut4",
+   "lemmas": [
+    [
+     "왔",
+     "오다",
+     "oda"
+    ],
+    [
+     "갔",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +213,14 @@
    "en": "Like fifteen times, seriously?",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -125,7 +231,29 @@
    "note": "용달",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b4/cut5"
+   "art": "scene/ko/r2_friends_b4/cut5",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "용",
+     "용",
+     "yong"
+    ],
+    [
+     "달",
+     "달",
+     "dal"
+    ],
+    [
+     "부르",
+     "부르다",
+     "bureuda"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -135,7 +263,14 @@
    "en": "Uh... is this really all the stuff?",
    "note": "reveal",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "짐",
+     "짐",
+     "jim"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -146,7 +281,24 @@
    "note": "chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_friends_b4/cut6"
+   "art": "scene/ko/r2_friends_b4/cut6",
+   "lemmas": [
+    [
+     "경차",
+     "경차",
+     "gyeongcha"
+    ],
+    [
+     "이미",
+     "이미",
+     "imi"
+    ],
+    [
+     "옮겼",
+     "옮기다",
+     "omgida"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -156,7 +308,24 @@
    "en": "So just this last one, please. The fridge.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "마지막",
+     "마지막",
+     "majimak"
+    ],
+    [
+     "부탁",
+     "부탁",
+     "butak"
+    ],
+    [
+     "냉장고",
+     "냉장고",
+     "naengjanggo"
+    ]
+   ]
   }
  ],
  "review": {

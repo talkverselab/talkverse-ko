@@ -38,7 +38,19 @@
    "note": "어디",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a6/cut1"
+   "art": "scene/ko/r0_travel_a6/cut1",
+   "lemmas": [
+    [
+     "저기요",
+     "저기요",
+     "jeogiyo"
+    ],
+    [
+     "명동역",
+     "명동역",
+     "myeongdongyeok"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +60,8 @@
    "en": "Just straight ahead!",
    "note": "English reply",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 3,
@@ -59,7 +72,14 @@
    "note": "한국어로",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a6/cut2"
+   "art": "scene/ko/r0_travel_a6/cut2",
+   "lemmas": [
+    [
+     "한국말",
+     "한국말",
+     "hangungmal"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +89,19 @@
    "en": "Whoa, you actually speak Korean?!",
    "note": "잘하다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "대박",
+     "대박",
+     "daebak"
+    ],
+    [
+     "한국말",
+     "한국말",
+     "hangungmal"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +112,19 @@
    "note": "역",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a6/cut3"
+   "art": "scene/ko/r0_travel_a6/cut3",
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "역",
+     "역",
+     "yeok"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +134,24 @@
    "en": "Just go straight ahead!",
    "note": "쭉",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "앞",
+     "앞",
+     "ap"
+    ],
+    [
+     "쭉",
+     "쭉",
+     "jjuk"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +162,19 @@
    "note": "Kick",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_travel_a6/cut4"
+   "art": "scene/ko/r0_travel_a6/cut4",
+   "lemmas": [
+    [
+     "영어",
+     "영어",
+     "yeongeo"
+    ],
+    [
+     "똑같",
+     "똑같다",
+     "ttokgatda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +184,19 @@
    "en": "Haha, yeah, exactly.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ],
+    [
+     "똑같",
+     "똑같다",
+     "ttokgatda"
+    ]
+   ]
   }
  ],
  "review": {

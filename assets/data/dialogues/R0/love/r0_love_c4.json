@@ -40,7 +40,19 @@
    "new": [],
    "ui": "bubble",
    "at": "21:00",
-   "art": "scene/ko/r0_love_c4/cut1"
+   "art": "scene/ko/r0_love_c4/cut1",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "재밌",
+     "재밌다",
+     "jaemitda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -52,7 +64,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "21:01"
+   "at": "21:01",
+   "lemmas": []
   },
   {
    "num": 3,
@@ -65,7 +78,8 @@
    "new": [],
    "ui": "bubble",
    "at": "21:01",
-   "art": "scene/ko/r0_love_c4/cut2"
+   "art": "scene/ko/r0_love_c4/cut2",
+   "lemmas": []
   },
   {
    "num": 4,
@@ -77,7 +91,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "21:01"
+   "at": "21:01",
+   "lemmas": [
+    [
+     "미안",
+     "미안",
+     "mian"
+    ],
+    [
+     "손",
+     "손",
+     "son"
+    ],
+    [
+     "미끄러졌",
+     "미끄러지다",
+     "mikkeureojida"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -90,7 +121,19 @@
    "new": [],
    "ui": "bubble",
    "at": "21:02",
-   "art": "scene/ko/r0_love_c4/cut3"
+   "art": "scene/ko/r0_love_c4/cut3",
+   "lemmas": [
+    [
+     "미",
+     "미",
+     "mi"
+    ],
+    [
+     "끄",
+     "끄다",
+     "kkeuda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -102,7 +145,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "21:02"
+   "at": "21:02",
+   "lemmas": []
   },
   {
    "num": 7,
@@ -115,7 +159,19 @@
    "new": [],
    "ui": "bubble",
    "at": "21:03",
-   "art": "scene/ko/r0_love_c4/cut4"
+   "art": "scene/ko/r0_love_c4/cut4",
+   "lemmas": [
+    [
+     "폰",
+     "폰",
+     "pon"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -127,7 +183,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "21:03"
+   "at": "21:03",
+   "lemmas": [
+    [
+     "폰",
+     "폰",
+     "pon"
+    ]
+   ]
   }
  ],
  "series": "flirt",

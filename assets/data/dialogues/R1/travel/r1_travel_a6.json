@@ -38,7 +38,19 @@
    "note": "어묵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a6/cut1"
+   "art": "scene/ko/r1_travel_a6/cut1",
+   "lemmas": [
+    [
+     "어묵",
+     "어묵",
+     "eomuk"
+    ],
+    [
+     "살",
+     "사다",
+     "sada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +60,19 @@
    "en": "Take a sip of the broth. It's cold today.",
    "note": "국물",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "국물",
+     "국물",
+     "gungmul"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +83,19 @@
    "note": "맛있다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a6/cut2"
+   "art": "scene/ko/r1_travel_a6/cut2",
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "맛있",
+     "맛있다",
+     "masitda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +105,24 @@
    "en": "Have another cup. ...Because of you it feels warm. Ah, it's cold.",
    "note": "dialect 무라 = 먹어라",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "컵",
+     "컵",
+     "keop"
+    ],
+    [
+     "마셔",
+     "마시다",
+     "masida"
+    ],
+    [
+     "따뜻",
+     "따뜻",
+     "ttatteut"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +133,19 @@
    "note": "공짜",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a6/cut3"
+   "art": "scene/ko/r1_travel_a6/cut3",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "공짜",
+     "공짜",
+     "gongjja"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +155,24 @@
    "en": "Broth is free. ...I just wanted to give more.",
    "note": "정",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "국물",
+     "국물",
+     "gungmul"
+    ],
+    [
+     "공짜",
+     "공짜",
+     "gongjja"
+    ],
+    [
+     "주",
+     "주다",
+     "juda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +183,19 @@
    "note": "Kick",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_travel_a6/cut4"
+   "art": "scene/ko/r1_travel_a6/cut4",
+   "lemmas": [
+    [
+     "저",
+     "저",
+     "jeo"
+    ],
+    [
+     "컵",
+     "컵",
+     "keop"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +205,29 @@
    "en": "If you're full, buy one more fishcake. ...Come again.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "배부르",
+     "배부르다",
+     "baebureuda"
+    ],
+    [
+     "어묵",
+     "어묵",
+     "eomuk"
+    ],
+    [
+     "사",
+     "사다",
+     "sada"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ]
+   ]
   }
  ],
  "review": {

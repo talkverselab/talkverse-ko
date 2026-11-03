@@ -39,7 +39,14 @@
    "note": "탬버린",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_culture_a6/cut1"
+   "art": "scene/ko/r0_culture_a6/cut1",
+   "lemmas": [
+    [
+     "신나",
+     "신나다",
+     "sinnada"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +56,14 @@
    "en": "How do I use it?",
    "note": "어떻게",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "써",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +74,19 @@
    "note": "막",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_culture_a6/cut2"
+   "art": "scene/ko/r0_culture_a6/cut2",
+   "lemmas": [
+    [
+     "세",
+     "세다",
+     "seda"
+    ],
+    [
+     "쳐",
+     "치다",
+     "chida"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +96,19 @@
    "en": "(bang bang) This good?",
    "note": "쾅",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "이렇게",
+     "이렇게",
+     "ireoke"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +119,19 @@
    "note": "세다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_culture_a6/cut3"
+   "art": "scene/ko/r0_culture_a6/cut3",
+   "lemmas": [
+    [
+     "세",
+     "세다",
+     "seda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +141,19 @@
    "en": "Hey, too loud!",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "소리",
+     "소리",
+     "sori"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +164,8 @@
    "note": "금지",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_culture_a6/cut4"
+   "art": "scene/ko/r0_culture_a6/cut4",
+   "lemmas": []
   },
   {
    "num": 8,
@@ -112,7 +175,19 @@
    "en": "No, everyone clap!",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "박수",
+     "박수",
+     "baksu"
+    ]
+   ]
   }
  ],
  "review": {

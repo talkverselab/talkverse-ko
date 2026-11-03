@@ -38,7 +38,24 @@
    "note": "연습실 = practice room",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b2/cut1"
+   "art": "scene/ko/r2_culture_b2/cut1",
+   "lemmas": [
+    [
+     "연습실",
+     "연습실",
+     "yeonseupsil"
+    ],
+    [
+     "하루",
+     "하루",
+     "haru"
+    ],
+    [
+     "넘",
+     "넘다",
+     "neomda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +65,24 @@
    "en": "10 hours? When do you go to school?",
    "note": "학교 = school",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "학교",
+     "학교",
+     "hakgyo"
+    ],
+    [
+     "언제",
+     "언제",
+     "eonje"
+    ],
+    [
+     "다녀",
+     "다니다",
+     "danida"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +93,44 @@
    "note": "오전·오후 = a.m./p.m.",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b2/cut2"
+   "art": "scene/ko/r2_culture_b2/cut2",
+   "lemmas": [
+    [
+     "오전",
+     "오전",
+     "ojeon"
+    ],
+    [
+     "학교",
+     "학교",
+     "hakgyo"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ],
+    [
+     "오후",
+     "오후",
+     "ohu"
+    ],
+    [
+     "보컬",
+     "보컬",
+     "bokeol"
+    ],
+    [
+     "댄스",
+     "댄스",
+     "daenseu"
+    ],
+    [
+     "외국어",
+     "외국어",
+     "oegugeo"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +140,19 @@
    "en": "Languages too? Whoa you're busier than me.",
    "note": "-보다 = than",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "외국어",
+     "외국어",
+     "oegugeo"
+    ],
+    [
+     "바쁘",
+     "바쁘다",
+     "bappeuda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +163,29 @@
    "note": "발음 = pronunciation",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b2/cut3"
+   "art": "scene/ko/r2_culture_b2/cut3",
+   "lemmas": [
+    [
+     "영어",
+     "영어",
+     "yeongeo"
+    ],
+    [
+     "수업",
+     "수업",
+     "sueop"
+    ],
+    [
+     "발음",
+     "발음",
+     "bareum"
+    ],
+    [
+     "봐",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +195,29 @@
    "en": "Sure. In return teach me one choreo.",
    "note": "안무 = choreography",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "대신",
+     "대신",
+     "daesin"
+    ],
+    [
+     "안무",
+     "안무",
+     "anmu"
+    ],
+    [
+     "가르쳐",
+     "가르치다",
+     "gareuchida"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +228,24 @@
    "note": "오른발·왼발 = right/left foot",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b2/cut4"
+   "art": "scene/ko/r2_culture_b2/cut4",
+   "lemmas": [
+    [
+     "오른발",
+     "오른발",
+     "oreunbal"
+    ],
+    [
+     "왼발",
+     "왼발",
+     "oenbal"
+    ],
+    [
+     "턴",
+     "턴",
+     "teon"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +255,34 @@
    "en": "Right left turn… wait whoa—",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "오른발",
+     "오른발",
+     "oreunbal"
+    ],
+    [
+     "왼발",
+     "왼발",
+     "oenbal"
+    ],
+    [
+     "턴",
+     "턴",
+     "teon"
+    ],
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "어어",
+     "어어",
+     "eoeo"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -122,7 +293,19 @@
    "note": "거울 = mirror",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b2/cut5"
+   "art": "scene/ko/r2_culture_b2/cut5",
+   "lemmas": [
+    [
+     "거울",
+     "거울",
+     "geoul"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -132,7 +315,19 @@
    "en": "Mirror comes first? Before me?",
    "note": "먼저 = first",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "거울",
+     "거울",
+     "geoul"
+    ],
+    [
+     "먼저",
+     "먼저",
+     "meonjeo"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -143,7 +338,14 @@
    "note": "Kick: the priority",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_culture_b2/cut6"
+   "art": "scene/ko/r2_culture_b2/cut6",
+   "lemmas": [
+    [
+     "거울",
+     "거울",
+     "geoul"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -153,7 +355,29 @@
    "en": "Ugh… for real? I'll just teach English then.",
    "note": "-만 = only",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "영어",
+     "영어",
+     "yeongeo"
+    ],
+    [
+     "가르칠",
+     "가르치다",
+     "gareuchida"
+    ]
+   ]
   }
  ],
  "review": {

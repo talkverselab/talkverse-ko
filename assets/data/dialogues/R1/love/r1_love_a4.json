@@ -39,7 +39,29 @@
    "note": "써 있다 = to be written",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a4/cut1"
+   "art": "scene/ko/r1_love_a4/cut1",
+   "lemmas": [
+    [
+     "저기요",
+     "저기요",
+     "jeogiyo"
+    ],
+    [
+     "컵",
+     "컵",
+     "keop"
+    ],
+    [
+     "홀더",
+     "홀더",
+     "holdeo"
+    ],
+    [
+     "글씨",
+     "글씨",
+     "geulssi"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +71,19 @@
    "en": "Oh, that? Want to read it?",
    "note": "-아 보세요 = try (doing)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "한번",
+     "한번",
+     "hanbeon"
+    ],
+    [
+     "읽",
+     "읽다",
+     "ikda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +94,24 @@
    "note": "와 줘서 = for coming (for me)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a4/cut2"
+   "art": "scene/ko/r1_love_a4/cut2",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +121,24 @@
    "en": "You come at this time every day.",
    "note": "-잖아요 = you know",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "매일",
+     "매일",
+     "maeil"
+    ],
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +149,14 @@
    "note": "알고 있었어요? = you knew?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a4/cut3"
+   "art": "scene/ko/r1_love_a4/cut3",
+   "lemmas": [
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +166,34 @@
    "en": "Americano, extra ice. I’ve got the whole order memorized.",
    "note": "Kick: he memorized the order — and the customer",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아메리카노",
+     "아메리카노",
+     "amerikano"
+    ],
+    [
+     "얼음",
+     "얼음",
+     "eoreum"
+    ],
+    [
+     "많이",
+     "많이",
+     "mani"
+    ],
+    [
+     "주문",
+     "주문",
+     "jumun"
+    ],
+    [
+     "외웠",
+     "외우다",
+     "oeuda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +204,19 @@
    "note": "-ㄹ게요 = I'll",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a4/cut4"
+   "art": "scene/ko/r1_love_a4/cut4",
+   "lemmas": [
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "쓸",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +226,39 @@
    "en": "Nice. Even better if you put your number on the back of the receipt.",
    "note": "번호 = (phone) number · callback 「번호 줄래요?」",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "영수증",
+     "영수증",
+     "yeongsujeung"
+    ],
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ],
+    [
+     "번호",
+     "번호",
+     "beonho"
+    ],
+    [
+     "적",
+     "적다",
+     "jeokda"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   }
  ],
  "initiator": "B",

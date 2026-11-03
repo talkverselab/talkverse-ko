@@ -41,7 +41,29 @@
    "new": [],
    "ui": "bubble",
    "at": "23:00",
-   "art": "scene/ko/r1_study_c2/cut1"
+   "art": "scene/ko/r1_study_c2/cut1",
+   "lemmas": [
+    [
+     "교수",
+     "교수",
+     "gyosu"
+    ],
+    [
+     "안녕",
+     "안녕",
+     "annyeong"
+    ],
+    [
+     "과제",
+     "과제",
+     "gwaje"
+    ],
+    [
+     "여쭤",
+     "여쭈다",
+     "yeojjuda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -53,7 +75,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:00"
+   "at": "23:00",
+   "lemmas": [
+    [
+     "편하",
+     "편하다",
+     "pyeonhada"
+    ],
+    [
+     "말씀",
+     "말씀",
+     "malsseum"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -66,7 +100,24 @@
    "new": [],
    "ui": "bubble",
    "at": "23:01",
-   "art": "scene/ko/r1_study_c2/cut2"
+   "art": "scene/ko/r1_study_c2/cut2",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "답장",
+     "답장",
+     "dapjang"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -78,7 +129,39 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:01"
+   "at": "23:01",
+   "lemmas": [
+    [
+     "교수",
+     "교수",
+     "gyosu"
+    ],
+    [
+     "채점",
+     "채점",
+     "chaejeom"
+    ],
+    [
+     "메일",
+     "메일",
+     "meil"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "야행",
+     "야행",
+     "yahaeng"
+    ],
+    [
+     "감시자",
+     "감시자",
+     "gamsija"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -91,7 +174,24 @@
    "new": [],
    "ui": "bubble",
    "at": "23:02",
-   "art": "scene/ko/r1_study_c2/cut3"
+   "art": "scene/ko/r1_study_c2/cut3",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "과제",
+     "과제",
+     "gwaje"
+    ],
+    [
+     "채점",
+     "채점",
+     "chaejeom"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -103,7 +203,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:02"
+   "at": "23:02",
+   "lemmas": [
+    [
+     "혹시",
+     "혹시",
+     "hoksi"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -116,7 +233,19 @@
    "new": [],
    "ui": "bubble",
    "at": "23:03",
-   "art": "scene/ko/r1_study_c2/cut4"
+   "art": "scene/ko/r1_study_c2/cut4",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -128,7 +257,34 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:03"
+   "at": "23:03",
+   "lemmas": [
+    [
+     "자",
+     "자다",
+     "jada"
+    ],
+    [
+     "갈",
+     "가다",
+     "gada"
+    ],
+    [
+     "교수",
+     "교수",
+     "gyosu"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "긴장",
+     "긴장",
+     "ginjang"
+    ]
+   ]
   }
  ],
  "review": {

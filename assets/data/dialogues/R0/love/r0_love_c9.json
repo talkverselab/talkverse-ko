@@ -40,7 +40,14 @@
    "new": [],
    "ui": "bubble",
    "at": "00:01",
-   "art": "scene/ko/r0_love_c9/cut1"
+   "art": "scene/ko/r0_love_c9/cut1",
+   "lemmas": [
+    [
+     "배고파",
+     "배고프다",
+     "baegopeuda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -52,7 +59,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:01"
+   "at": "00:01",
+   "lemmas": [
+    [
+     "배고파",
+     "배고프다",
+     "baegopeuda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -65,7 +79,19 @@
    "new": [],
    "ui": "bubble",
    "at": "00:02",
-   "art": "scene/ko/r0_love_c9/cut2"
+   "art": "scene/ko/r0_love_c9/cut2",
+   "lemmas": [
+    [
+     "라면",
+     "라면",
+     "ramyeon"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -77,7 +103,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:02"
+   "at": "00:02",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -90,7 +128,24 @@
    "new": [],
    "ui": "bubble",
    "at": "00:03",
-   "art": "scene/ko/r0_love_c9/cut3"
+   "art": "scene/ko/r0_love_c9/cut3",
+   "lemmas": [
+    [
+     "친구",
+     "친구",
+     "chingu"
+    ],
+    [
+     "집",
+     "집",
+     "jip"
+    ],
+    [
+     "앞",
+     "앞",
+     "ap"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -102,7 +157,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:03"
+   "at": "00:03",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -115,7 +177,29 @@
    "new": [],
    "ui": "bubble",
    "at": "00:03",
-   "art": "scene/ko/r0_love_c9/cut4"
+   "art": "scene/ko/r0_love_c9/cut4",
+   "lemmas": [
+    [
+     "라면",
+     "라면",
+     "ramyeon"
+    ],
+    [
+     "치킨",
+     "치킨",
+     "chikin"
+    ],
+    [
+     "사",
+     "사다",
+     "sada"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -127,7 +211,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:04"
+   "at": "00:04",
+   "lemmas": [
+    [
+     "잠옷",
+     "잠옷",
+     "jamot"
+    ],
+    [
+     "어떡해",
+     "어떡하다",
+     "eotteokada"
+    ]
+   ]
   }
  ],
  "series": "flirt",

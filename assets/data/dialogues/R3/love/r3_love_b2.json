@@ -39,7 +39,19 @@
    "note": "앉아요 = please sit",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b2/cut1"
+   "art": "scene/ko/r3_love_b2/cut1",
+   "lemmas": [
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ],
+    [
+     "앉",
+     "앉다",
+     "anda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +61,24 @@
    "en": "Yes, nice to meet you. I've heard a lot about you from Yujin.",
    "note": "얘기 많이 들었습니다 = I've heard a lot (about you)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "처음",
+     "처음",
+     "cheoeum"
+    ],
+    [
+     "말씀",
+     "말씀",
+     "malsseum"
+    ],
+    [
+     "많이",
+     "많이",
+     "mani"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +89,19 @@
    "note": "-다고요? = I hear that…?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b2/cut2"
+   "art": "scene/ko/r3_love_b2/cut2",
+   "lemmas": [
+    [
+     "유진이",
+     "유진이",
+     "yujini"
+    ],
+    [
+     "사귄",
+     "사귀다",
+     "sagwida"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +111,24 @@
    "en": "Yes. Next week is exactly one year.",
    "note": "딱 = exactly",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "주",
+     "주",
+     "ju"
+    ],
+    [
+     "딱",
+     "딱",
+     "ttak"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +139,14 @@
    "note": "본론 = the main point",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b2/cut3"
+   "art": "scene/ko/r3_love_b2/cut3",
+   "lemmas": [
+    [
+     "본론",
+     "본론",
+     "bollon"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +156,8 @@
    "en": "…Yes.",
    "note": "silence — he knows this scene",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 7,
@@ -102,7 +168,8 @@
    "note": "she slides a white envelope across the table",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b2/cut4"
+   "art": "scene/ko/r3_love_b2/cut4",
+   "lemmas": []
   },
   {
    "num": 8,
@@ -112,7 +179,24 @@
    "en": "Wait. Don't tell me… you want me to break up with her?",
    "note": "-라는 거예요? = are you saying (I should)…?",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "설마",
+     "설마",
+     "seolma"
+    ],
+    [
+     "헤어지",
+     "헤어지다",
+     "heeojida"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -123,7 +207,14 @@
    "note": "echo question = total confusion",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b2/cut5"
+   "art": "scene/ko/r3_love_b2/cut5",
+   "lemmas": [
+    [
+     "헤어져",
+     "헤어지다",
+     "heeojida"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -133,7 +224,29 @@
    "en": "In dramas they hand over an envelope like this and say that.",
    "note": "-던데요 = from what I've seen…",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "드라마",
+     "드라마",
+     "deurama"
+    ],
+    [
+     "봉투",
+     "봉투",
+     "bongtu"
+    ],
+    [
+     "주",
+     "주다",
+     "juda"
+    ],
+    [
+     "그러",
+     "그러다",
+     "geureoda"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -144,7 +257,34 @@
    "note": "어머 = oh my (often older women)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b2/cut6"
+   "art": "scene/ko/r3_love_b2/cut6",
+   "lemmas": [
+    [
+     "드라마",
+     "드라마",
+     "deurama"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "많이",
+     "많이",
+     "mani"
+    ],
+    [
+     "봤",
+     "보다",
+     "boda"
+    ],
+    [
+     "열",
+     "열다",
+     "yeolda"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -154,7 +294,24 @@
    "en": "…Two all-day amusement park passes?",
    "note": "Kick: the envelope is a gift",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "놀이공원",
+     "놀이공원",
+     "norigongwon"
+    ],
+    [
+     "자유",
+     "자유",
+     "jayu"
+    ],
+    [
+     "이용권",
+     "이용권",
+     "iyonggwon"
+    ]
+   ]
   },
   {
    "num": 13,
@@ -165,7 +322,29 @@
    "note": "-라며 = I heard that… · callback 커플티",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b2/cut7"
+   "art": "scene/ko/r3_love_b2/cut7",
+   "lemmas": [
+    [
+     "유진이",
+     "유진이",
+     "yujini"
+    ],
+    [
+     "커플",
+     "커플",
+     "keopeul"
+    ],
+    [
+     "티",
+     "티",
+     "ti"
+    ],
+    [
+     "좋아해",
+     "좋아하다",
+     "joahada"
+    ]
+   ]
   },
   {
    "num": 14,
@@ -175,7 +354,29 @@
    "en": "Oh… thank you. Really, thank you so much.",
    "note": "진짜요 = really",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "정말",
+     "정말",
+     "jeongmal"
+    ],
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 15,
@@ -186,7 +387,39 @@
    "note": "울리면 = if you make (her) cry",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b2/cut8"
+   "art": "scene/ko/r3_love_b2/cut8",
+   "lemmas": [
+    [
+     "대신",
+     "대신",
+     "daesin"
+    ],
+    [
+     "딸",
+     "딸",
+     "ttal"
+    ],
+    [
+     "울리",
+     "울리다",
+     "ullida"
+    ],
+    [
+     "그땐",
+     "그때",
+     "geuttae"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "봉투",
+     "봉투",
+     "bongtu"
+    ]
+   ]
   },
   {
    "num": 16,
@@ -196,7 +429,24 @@
    "en": "…Of course. I'll never make her cry.",
    "note": "그럼요 = of course (polite)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "그럼요",
+     "그럼요",
+     "geureomyo"
+    ],
+    [
+     "절대",
+     "절대",
+     "jeoldae"
+    ],
+    [
+     "울릴",
+     "울리다",
+     "ullida"
+    ]
+   ]
   }
  ],
  "review": {

@@ -38,7 +38,24 @@
    "note": "설레다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a20/cut1"
+   "art": "scene/ko/r1_love_a20/cut1",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "단어",
+     "단어",
+     "daneo"
+    ],
+    [
+     "설레",
+     "설레다",
+     "seolleda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +65,19 @@
    "en": "설레다? What's that mean?",
    "note": "뜻",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "설레",
+     "설레다",
+     "seolleda"
+    ],
+    [
+     "뜻",
+     "뜻",
+     "tteut"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +88,34 @@
    "note": "느낌",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a20/cut2"
+   "art": "scene/ko/r1_love_a20/cut2",
+   "lemmas": [
+    [
+     "좋아하",
+     "좋아하다",
+     "joahada"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "심장",
+     "심장",
+     "simjang"
+    ],
+    [
+     "두근거리",
+     "두근거리다",
+     "dugeungeorida"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +125,29 @@
    "en": "Got it. I'm fluttering right now. Looking at 하늘.",
    "note": "예문",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "알",
+     "알다",
+     "alda"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "설레",
+     "설레다",
+     "seolleda"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +158,24 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a20/cut3"
+   "art": "scene/ko/r1_love_a20/cut3",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +185,24 @@
    "en": "'Cause the teacher looks pretty. I mean 하늘.",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "선생",
+     "선생",
+     "seonsaeng"
+    ],
+    [
+     "예뻐",
+     "예쁘다",
+     "yeppeuda"
+    ],
+    [
+     "보여",
+     "보이다",
+     "boida"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +213,14 @@
    "note": "flustered",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a20/cut4"
+   "art": "scene/ko/r1_love_a20/cut4",
+   "lemmas": [
+    [
+     "숙제",
+     "숙제",
+     "sukje"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +230,24 @@
    "en": "Then put it on the test. I memorized it.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "시험",
+     "시험",
+     "siheom"
+    ],
+    [
+     "내",
+     "내다",
+     "naeda"
+    ],
+    [
+     "외웠",
+     "외우다",
+     "oeuda"
+    ]
+   ]
   }
  ],
  "series": "flirt",

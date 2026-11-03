@@ -40,7 +40,29 @@
    "note": "파전 = scallion pancake",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a5/cut1"
+   "art": "scene/ko/r1_culture_a5/cut1",
+   "lemmas": [
+    [
+     "비",
+     "비",
+     "bi"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ],
+    [
+     "무조건",
+     "무조건",
+     "mujogeon"
+    ],
+    [
+     "파전",
+     "파전",
+     "pajeon"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +72,29 @@
    "en": "Why? What's rain got to do with pajeon?",
    "note": "상관 = relation",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "비",
+     "비",
+     "bi"
+    ],
+    [
+     "파전",
+     "파전",
+     "pajeon"
+    ],
+    [
+     "관련",
+     "관련",
+     "gwallyeon"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +105,29 @@
    "note": "부치다 = fry (pancake)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a5/cut2"
+   "art": "scene/ko/r1_culture_a5/cut2",
+   "lemmas": [
+    [
+     "부치",
+     "부치다",
+     "buchida"
+    ],
+    [
+     "소리",
+     "소리",
+     "sori"
+    ],
+    [
+     "빗소리",
+     "빗소리",
+     "bitsori"
+    ],
+    [
+     "똑같",
+     "똑같다",
+     "ttokgatda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +137,19 @@
    "en": "Really? That's the reason?",
    "note": "이유 = reason",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "이유",
+     "이유",
+     "iyu"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +160,24 @@
    "note": "listen",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a5/cut3"
+   "art": "scene/ko/r1_culture_a5/cut3",
+   "lemmas": [
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "비",
+     "비",
+     "bi"
+    ],
+    [
+     "소리",
+     "소리",
+     "sori"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +187,29 @@
    "en": "Whoa, it really sounds like rain. Nice.",
    "note": "Kick: it's true",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "비",
+     "비",
+     "bi"
+    ],
+    [
+     "소리",
+     "소리",
+     "sori"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +220,24 @@
    "note": "그니까",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_culture_a5/cut4"
+   "art": "scene/ko/r1_culture_a5/cut4",
+   "lemmas": [
+    [
+     "한국",
+     "한국",
+     "hanguk"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ],
+    [
+     "아",
+     "알다",
+     "alda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +247,24 @@
    "en": "Then from today I'm Korean too.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "한국",
+     "한국",
+     "hanguk"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ]
+   ]
   }
  ],
  "review": {

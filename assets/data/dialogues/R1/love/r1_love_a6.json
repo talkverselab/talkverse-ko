@@ -39,7 +39,19 @@
    "note": "앉으세요 = please sit",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a6/cut1"
+   "art": "scene/ko/r1_love_a6/cut1",
+   "lemmas": [
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ],
+    [
+     "앉",
+     "앉다",
+     "anda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +61,19 @@
    "en": "Nice to meet you, but I think that's my friend behind.",
    "note": "저 뒤 = back there",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ],
+    [
+     "친구",
+     "친구",
+     "chingu"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +84,24 @@
    "note": "옆 테이블 = next table",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a6/cut2"
+   "art": "scene/ko/r1_love_a6/cut2",
+   "lemmas": [
+    [
+     "옆",
+     "옆",
+     "yeop"
+    ],
+    [
+     "테이블",
+     "테이블",
+     "teibeul"
+    ],
+    [
+     "친구",
+     "친구",
+     "chingu"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +111,19 @@
    "en": "Wait, Minjun is by the window too.",
    "note": "창가 = by the window",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "창가",
+     "창가",
+     "changga"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +134,24 @@
    "note": "Kick: the whole café is watching — chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a6/cut3"
+   "art": "scene/ko/r1_love_a6/cut3",
+   "lemmas": [
+    [
+     "카운터",
+     "카운터",
+     "kaunteo"
+    ],
+    [
+     "언니",
+     "언니",
+     "eonni"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +161,19 @@
    "en": "Don't mind us!",
    "note": "신경 쓰다 = to mind",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "신경",
+     "신경",
+     "singyeong"
+    ],
+    [
+     "쓰",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +184,14 @@
    "note": "다른 데 = somewhere else",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a6/cut4"
+   "art": "scene/ko/r1_love_a6/cut4",
+   "lemmas": [
+    [
+     "갈",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +201,19 @@
    "en": "Okay, let's run!",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "뛰",
+     "뛰다",
+     "ttwida"
+    ]
+   ]
   }
  ],
  "series": "flirt",

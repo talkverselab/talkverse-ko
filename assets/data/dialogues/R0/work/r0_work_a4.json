@@ -38,7 +38,19 @@
    "note": "이름표 = name tag",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_work_a4/cut1"
+   "art": "scene/ko/r0_work_a4/cut1",
+   "lemmas": [
+    [
+     "이름표",
+     "이름표",
+     "ireumpyo"
+    ],
+    [
+     "봐",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +60,14 @@
    "en": "Yes? Why?",
    "note": "왜요",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "왜",
+     "왜",
+     "wae"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +78,19 @@
    "note": "거꾸로 = upside down",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_work_a4/cut2"
+   "art": "scene/ko/r0_work_a4/cut2",
+   "lemmas": [
+    [
+     "거꾸로",
+     "거꾸로",
+     "geokkuro"
+    ],
+    [
+     "달렸",
+     "달리다",
+     "dallida"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +100,8 @@
    "en": "Whoa… since when?",
    "note": "언제부터",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 5,
@@ -80,7 +112,19 @@
    "note": "Kick",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_work_a4/cut3"
+   "art": "scene/ko/r0_work_a4/cut3",
+   "lemmas": [
+    [
+     "월요일",
+     "월요일",
+     "woryoil"
+    ],
+    [
+     "봤",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +134,24 @@
    "en": "Today is Friday! Sorry.",
    "note": "금요일",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "금요일",
+     "금요일",
+     "geumyoil"
+    ],
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +162,14 @@
    "note": "귀엽다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_work_a4/cut4"
+   "art": "scene/ko/r0_work_a4/cut4",
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +179,24 @@
    "en": "…Then I'll keep it this way next week.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "주",
+     "주",
+     "ju"
+    ],
+    [
+     "이대로",
+     "이대로",
+     "idaero"
+    ]
+   ]
   }
  ],
  "review": {

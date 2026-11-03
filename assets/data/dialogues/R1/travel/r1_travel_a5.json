@@ -39,7 +39,25 @@
    "en": "A bit further back! Get the wave in.",
    "note": "뒤로 = back",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_travel_a5/cut1",
+   "lemmas": [
+    [
+     "조금",
+     "조금",
+     "jogeum"
+    ],
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ],
+    [
+     "나오",
+     "나오다",
+     "naoda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +67,19 @@
    "en": "Here? Shoes are getting wet.",
    "note": "젖다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "신발",
+     "신발",
+     "sinbal"
+    ],
+    [
+     "젖",
+     "젖다",
+     "jeotda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +89,25 @@
    "en": "Just a bit more! Really just a bit!",
    "note": "더",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_travel_a5/cut2",
+   "lemmas": [
+    [
+     "조금",
+     "조금",
+     "jogeum"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "조금",
+     "조금",
+     "jogeum"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +117,14 @@
    "en": "Is here okay?",
    "note": "여기",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -79,7 +134,20 @@
    "en": "(wave) Whoosh— even bigger!",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_travel_a5/cut3",
+   "lemmas": [
+    [
+     "쏴아",
+     "쏴아",
+     "sswaa"
+    ],
+    [
+     "크",
+     "크다",
+     "keuda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -89,7 +157,19 @@
    "en": "Whoa… clothes are all soaked too!",
    "note": "다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "옷",
+     "옷",
+     "ot"
+    ],
+    [
+     "젖",
+     "젖다",
+     "jeotda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -99,7 +179,35 @@
    "en": "But the photo is amazing. Really a life photo.",
    "note": "인생 사진",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "대박",
+     "대박",
+     "daebak"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "인생",
+     "인생",
+     "insaeng"
+    ],
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ]
+   ],
+   "art": "scene/ko/r1_travel_a5/cut4"
   },
   {
    "num": 8,
@@ -109,7 +217,29 @@
    "en": "Whatever. You'd better post that photo.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "꼭",
+     "꼭",
+     "kkok"
+    ],
+    [
+     "올려",
+     "올리다",
+     "ollida"
+    ]
+   ]
   }
  ],
  "review": {

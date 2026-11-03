@@ -40,7 +40,14 @@
    "new": [],
    "ui": "bubble",
    "at": "09:58",
-   "art": "scene/ko/r1_travel_c1/cut1"
+   "art": "scene/ko/r1_travel_c1/cut1",
+   "lemmas": [
+    [
+     "남",
+     "남다",
+     "namda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -52,7 +59,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "09:58"
+   "at": "09:58",
+   "lemmas": [
+    [
+     "화장실",
+     "화장실",
+     "hwajangsil"
+    ],
+    [
+     "금방",
+     "금방",
+     "geumbang"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -65,7 +89,14 @@
    "new": [],
    "ui": "bubble",
    "at": "09:59",
-   "art": "scene/ko/r1_travel_c1/cut2"
+   "art": "scene/ko/r1_travel_c1/cut2",
+   "lemmas": [
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -77,7 +108,29 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "10:01"
+   "at": "10:01",
+   "lemmas": [
+    [
+     "방금",
+     "방금",
+     "banggeum"
+    ],
+    [
+     "기차",
+     "기차",
+     "gicha"
+    ],
+    [
+     "떠났",
+     "떠나다",
+     "tteonada"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -90,7 +143,19 @@
    "new": [],
    "ui": "bubble",
    "at": "10:01",
-   "art": "scene/ko/r1_travel_c1/cut3"
+   "art": "scene/ko/r1_travel_c1/cut3",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "기차",
+     "기차",
+     "gicha"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -102,7 +167,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "10:02"
+   "at": "10:02",
+   "lemmas": [
+    [
+     "혼자",
+     "혼자",
+     "honja"
+    ],
+    [
+     "서울역",
+     "서울역",
+     "seouryeok"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -115,7 +192,39 @@
    "new": [],
    "ui": "bubble",
    "at": "10:02",
-   "art": "scene/ko/r1_travel_c1/cut4"
+   "art": "scene/ko/r1_travel_c1/cut4",
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ],
+    [
+     "표",
+     "표",
+     "pyo"
+    ],
+    [
+     "바꿔",
+     "바꾸다",
+     "bakkuda"
+    ],
+    [
+     "부산",
+     "부산",
+     "busan"
+    ],
+    [
+     "기다릴",
+     "기다리다",
+     "gidarida"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -127,7 +236,29 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "10:03"
+   "at": "10:03",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "돼지국밥",
+     "돼지국밥",
+     "dwaejigukbap"
+    ],
+    [
+     "먼저",
+     "먼저",
+     "meonjeo"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   }
  ],
  "review": {

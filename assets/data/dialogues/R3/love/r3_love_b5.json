@@ -41,7 +41,54 @@
    "note": "풍선 = balloon",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b5/cut1"
+   "art": "scene/ko/r3_love_b5/cut1",
+   "lemmas": [
+    [
+     "풍선",
+     "풍선",
+     "pungseon"
+    ],
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ],
+    [
+     "반",
+     "반",
+     "ban"
+    ],
+    [
+     "불",
+     "불다",
+     "bulda"
+    ],
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ],
+    [
+     "일찍",
+     "일찍",
+     "iljjik"
+    ],
+    [
+     "온",
+     "오다",
+     "oda"
+    ],
+    [
+     "페이스",
+     "페이스",
+     "peiseu"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +98,54 @@
    "en": "It's just past 6. Cake's safely in the fridge so drop the worry and just blow the balloons faster.",
    "note": "냉장고 = fridge",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "넘",
+     "넘다",
+     "neomda"
+    ],
+    [
+     "케이크",
+     "케이크",
+     "keikeu"
+    ],
+    [
+     "냉장고",
+     "냉장고",
+     "naengjanggo"
+    ],
+    [
+     "넣",
+     "넣다",
+     "neota"
+    ],
+    [
+     "걱정",
+     "걱정",
+     "geokjeong"
+    ],
+    [
+     "풍선",
+     "풍선",
+     "pungseon"
+    ],
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "불",
+     "불다",
+     "bulda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +156,44 @@
    "note": "숨다 = hide",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b5/cut2"
+   "art": "scene/ko/r3_love_b5/cut2",
+   "lemmas": [
+    [
+     "불",
+     "불",
+     "bul"
+    ],
+    [
+     "끄",
+     "끄다",
+     "kkeuda"
+    ],
+    [
+     "커튼",
+     "커튼",
+     "keoteun"
+    ],
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ],
+    [
+     "숨",
+     "숨다",
+     "sumda"
+    ],
+    [
+     "숨소리",
+     "숨소리",
+     "sumsori"
+    ],
+    [
+     "내",
+     "내다",
+     "naeda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +203,44 @@
    "en": "Huh? I'm here. Work ended earlier than I thought so I ran straight over.",
    "note": "일찍 = early",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "왔",
+     "오다",
+     "oda"
+    ],
+    [
+     "일",
+     "일",
+     "il"
+    ],
+    [
+     "생각",
+     "생각",
+     "saenggak"
+    ],
+    [
+     "일찍",
+     "일찍",
+     "iljjik"
+    ],
+    [
+     "끝나",
+     "끝나다",
+     "kkeunnada"
+    ],
+    [
+     "바로",
+     "바로",
+     "baro"
+    ],
+    [
+     "달려왔",
+     "달려오다",
+     "dallyeooda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +251,29 @@
    "note": "들어오다 = come in",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b5/cut3"
+   "art": "scene/ko/r3_love_b5/cut3",
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "들어오",
+     "들어오다",
+     "deureooda"
+    ],
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "서",
+     "서다",
+     "seoda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +283,39 @@
    "en": "What's going on? What's that sound? (pop! pop! pop-pop-pop!) Why are the balloons exploding in a chain like this?",
    "note": "Kick: balloon pops — chaos begins",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "소리",
+     "소리",
+     "sori"
+    ],
+    [
+     "풍선",
+     "풍선",
+     "pungseon"
+    ],
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "연쇄",
+     "연쇄",
+     "yeonswae"
+    ],
+    [
+     "터지",
+     "터지다",
+     "teojida"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +326,39 @@
    "note": "터지다 = burst",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b5/cut4"
+   "art": "scene/ko/r3_love_b5/cut4",
+   "lemmas": [
+    [
+     "씨",
+     "씨",
+     "ssi"
+    ],
+    [
+     "풍선",
+     "풍선",
+     "pungseon"
+    ],
+    [
+     "터졌",
+     "터지다",
+     "teojida"
+    ],
+    [
+     "케이크",
+     "케이크",
+     "keikeu"
+    ],
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "미끄러지",
+     "미끄러지다",
+     "mikkeureojida"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +368,49 @@
    "en": "(thud, another thud) …The cake went to the floor. The cups all tipped over and cream's everywhere.",
    "note": "떨어지다 = fall",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "케이크",
+     "케이크",
+     "keikeu"
+    ],
+    [
+     "바닥",
+     "바닥",
+     "badak"
+    ],
+    [
+     "갔",
+     "가다",
+     "gada"
+    ],
+    [
+     "컵",
+     "컵",
+     "keop"
+    ],
+    [
+     "넘어졌",
+     "넘어지다",
+     "neomeojida"
+    ],
+    [
+     "크림",
+     "크림",
+     "keurim"
+    ],
+    [
+     "사방",
+     "사방",
+     "sabang"
+    ],
+    [
+     "튀",
+     "튀다",
+     "twida"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -125,7 +421,19 @@
    "note": "설마 = don't tell me",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b5/cut5"
+   "art": "scene/ko/r3_love_b5/cut5",
+   "lemmas": [
+    [
+     "설마",
+     "설마",
+     "seolma"
+    ],
+    [
+     "난장판",
+     "난장판",
+     "nanjangpan"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -135,7 +443,34 @@
    "en": "Ugh I don't know… we were trying to surprise you and it's a total disaster.",
    "note": "망하다 = be ruined",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "서프라이즈",
+     "서프라이즈",
+     "seopeuraijeu"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "참사",
+     "참사",
+     "chamsa"
+    ],
+    [
+     "났",
+     "나다",
+     "nada"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -146,7 +481,34 @@
    "note": "찌그러지다 = be dented",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b5/cut6"
+   "art": "scene/ko/r3_love_b5/cut6",
+   "lemmas": [
+    [
+     "참사",
+     "참사",
+     "chamsa"
+    ],
+    [
+     "크림",
+     "크림",
+     "keurim"
+    ],
+    [
+     "퍼진",
+     "퍼지다",
+     "peojida"
+    ],
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -156,7 +518,49 @@
    "en": "The candles didn't go out! Quick, the song! And someone's keep ringing the doorbell outside, who is it?",
    "note": "촛불 = candle",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "촛불",
+     "촛불",
+     "chotbul"
+    ],
+    [
+     "꺼졌",
+     "꺼지다",
+     "kkeojida"
+    ],
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "노래",
+     "노래",
+     "norae"
+    ],
+    [
+     "밖",
+     "밖",
+     "bak"
+    ],
+    [
+     "계속",
+     "계속",
+     "gyesok"
+    ],
+    [
+     "벨",
+     "벨",
+     "bel"
+    ],
+    [
+     "누르",
+     "누르다",
+     "nureuda"
+    ]
+   ]
   },
   {
    "num": 13,
@@ -167,7 +571,44 @@
    "note": "sung",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b5/cut7"
+   "art": "scene/ko/r3_love_b5/cut7",
+   "lemmas": [
+    [
+     "생일",
+     "생일",
+     "saengil"
+    ],
+    [
+     "축하",
+     "축하",
+     "chuka"
+    ],
+    [
+     "바닥",
+     "바닥",
+     "badak"
+    ],
+    [
+     "케이크",
+     "케이크",
+     "keikeu"
+    ],
+    [
+     "문",
+     "문",
+     "mun"
+    ],
+    [
+     "밖",
+     "밖",
+     "bak"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ]
+   ]
   },
   {
    "num": 14,
@@ -177,7 +618,24 @@
    "en": "Exactly. But this is the best birthday of my life.",
    "note": "제일 = the best",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "인생",
+     "인생",
+     "insaeng"
+    ],
+    [
+     "최고",
+     "최고",
+     "choego"
+    ],
+    [
+     "생일",
+     "생일",
+     "saengil"
+    ]
+   ]
   },
   {
    "num": 15,
@@ -188,7 +646,29 @@
    "note": "바닥 = floor",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b5/cut8"
+   "art": "scene/ko/r3_love_b5/cut8",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "케이크",
+     "케이크",
+     "keikeu"
+    ],
+    [
+     "바닥",
+     "바닥",
+     "badak"
+    ],
+    [
+     "최고",
+     "최고",
+     "choego"
+    ]
+   ]
   },
   {
    "num": 16,
@@ -198,7 +678,34 @@
    "en": "Yeah. That's exactly why it'll stick with me. A birthday like this probably won't come around again.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ],
+    [
+     "남",
+     "남다",
+     "namda"
+    ],
+    [
+     "생일",
+     "생일",
+     "saengil"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "올",
+     "오다",
+     "oda"
+    ]
+   ]
   }
  ],
  "learner_gender": "M",

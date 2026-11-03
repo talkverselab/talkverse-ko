@@ -39,7 +39,24 @@
    "note": "소원 = wish",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a4/cut1"
+   "art": "scene/ko/r0_friends_a4/cut1",
+   "lemmas": [
+    [
+     "소원",
+     "소원",
+     "sowon"
+    ],
+    [
+     "빌",
+     "빌다",
+     "bilda"
+    ],
+    [
+     "불",
+     "불다",
+     "bulda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +66,19 @@
    "en": "Whoosh— whoosh—",
    "note": "blowing",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "후우",
+     "후우",
+     "huu"
+    ],
+    [
+     "휴",
+     "휴",
+     "hyu"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +89,14 @@
    "note": "꺼지다 = go out",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a4/cut2"
+   "art": "scene/ko/r0_friends_a4/cut2",
+   "lemmas": [
+    [
+     "꺼",
+     "끄다",
+     "kkeuda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +106,24 @@
    "en": "Blow again! Whoosh—",
    "note": "다시",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "불",
+     "불다",
+     "bulda"
+    ],
+    [
+     "후후",
+     "후후",
+     "huhu"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +134,19 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a4/cut3"
+   "art": "scene/ko/r0_friends_a4/cut3",
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "장난초",
+     "장난초",
+     "jangnancho"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +156,14 @@
    "en": "Who bought these things!",
    "note": "누가",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "샀",
+     "사다",
+     "sada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +174,14 @@
    "note": "장난 = prank",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_friends_a4/cut4"
+   "art": "scene/ko/r0_friends_a4/cut4",
+   "lemmas": [
+    [
+     "장난",
+     "장난",
+     "jangnan"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +191,29 @@
    "en": "Happy birthday… the candles won’t go out.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "생일",
+     "생일",
+     "saengil"
+    ],
+    [
+     "축하",
+     "축하",
+     "chuka"
+    ],
+    [
+     "초",
+     "초",
+     "cho"
+    ],
+    [
+     "꺼지",
+     "꺼지다",
+     "kkeojida"
+    ]
+   ]
   }
  ],
  "review": {

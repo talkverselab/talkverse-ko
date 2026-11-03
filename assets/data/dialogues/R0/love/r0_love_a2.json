@@ -38,7 +38,24 @@
    "note": "번호 = number (phone number, order number…)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a2/cut1"
+   "art": "scene/ko/r0_love_a2/cut1",
+   "lemmas": [
+    [
+     "저기",
+     "저기",
+     "jeogi"
+    ],
+    [
+     "번호",
+     "번호",
+     "beonho"
+    ],
+    [
+     "알려",
+     "알리다",
+     "allida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +65,8 @@
    "en": "Huh? Oh, sure!",
    "note": "네? = pardon? · 네! = yes!",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 3,
@@ -59,7 +77,19 @@
    "note": "진짜요? = really? (polite)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a2/cut2"
+   "art": "scene/ko/r0_love_a2/cut2",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +99,8 @@
    "en": "It's 37.",
    "note": "Kick: he reads out his order number from the buzzer",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 5,
@@ -80,7 +111,19 @@
    "note": "-잖아요 = you know / come on (polite)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a2/cut3"
+   "art": "scene/ko/r0_love_a2/cut3",
+   "lemmas": [
+    [
+     "주문",
+     "주문",
+     "jumun"
+    ],
+    [
+     "번호",
+     "번호",
+     "beonho"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +133,19 @@
    "en": "Oh! You mean phone?",
    "note": "전화번호 = phone number",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "전화",
+     "전화",
+     "jeonhwa"
+    ],
+    [
+     "번호",
+     "번호",
+     "beonho"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +156,19 @@
    "note": "echo = patient smile",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a2/cut4"
+   "art": "scene/ko/r0_love_a2/cut4",
+   "lemmas": [
+    [
+     "전화",
+     "전화",
+     "jeonhwa"
+    ],
+    [
+     "번호",
+     "번호",
+     "beonho"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +178,14 @@
    "en": "010… oh, 37's ready!",
    "note": "잠깐만요 = one moment · 나왔다 = it's ready",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "나왔",
+     "나오다",
+     "naoda"
+    ]
+   ]
   }
  ],
  "review": {

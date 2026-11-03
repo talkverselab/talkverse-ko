@@ -40,7 +40,19 @@
    "note": "달 = moon",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_study_a4/cut1"
+   "art": "scene/ko/r0_study_a4/cut1",
+   "lemmas": [
+    [
+     "달",
+     "달",
+     "dal"
+    ],
+    [
+     "적",
+     "적다",
+     "jeokda"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +62,19 @@
    "en": "(scribble) …딸?",
    "note": "spelling",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "딸",
+     "딸",
+     "ttal"
+    ],
+    [
+     "요",
+     "요",
+     "yo"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +85,19 @@
    "note": "help",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_study_a4/cut2"
+   "art": "scene/ko/r0_study_a4/cut2",
+   "lemmas": [
+    [
+     "달",
+     "달",
+     "dal"
+    ],
+    [
+     "달",
+     "달",
+     "dal"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +107,19 @@
    "en": "Maria, shh! Everyone be quiet!",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "쉿",
+     "쉿",
+     "swit"
+    ],
+    [
+     "조용히",
+     "조용히",
+     "joyonghi"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +130,24 @@
    "note": "chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_study_a4/cut3"
+   "art": "scene/ko/r0_study_a4/cut3",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "딸",
+     "딸",
+     "ttal"
+    ],
+    [
+     "썼",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +157,24 @@
    "en": "Really? We all got it wrong!",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "틀렸",
+     "틀리다",
+     "teullida"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +185,19 @@
    "note": "다시",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_study_a4/cut4"
+   "art": "scene/ko/r0_study_a4/cut4",
+   "lemmas": [
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +207,24 @@
    "en": "Sorry. This time dal!",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ],
+    [
+     "이번",
+     "이번",
+     "ibeon"
+    ],
+    [
+     "달",
+     "달",
+     "dal"
+    ]
+   ]
   }
  ],
  "review": {

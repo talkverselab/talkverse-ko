@@ -40,7 +40,29 @@
    "note": "걸리다 = get stuck",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_work_a2/cut1"
+   "art": "scene/ko/r1_work_a2/cut1",
+   "lemmas": [
+    [
+     "선배",
+     "선배",
+     "seonbae"
+    ],
+    [
+     "복사기",
+     "복사기",
+     "boksagi"
+    ],
+    [
+     "종이",
+     "종이",
+     "jongi"
+    ],
+    [
+     "걸렸",
+     "걸리다",
+     "geollida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +72,24 @@
    "en": "Open the lid and pull it out.",
    "note": "빼다 = take out",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "뚜껑",
+     "뚜껑",
+     "ttukkeong"
+    ],
+    [
+     "열",
+     "열다",
+     "yeolda"
+    ],
+    [
+     "빼",
+     "빼다",
+     "ppaeda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +100,24 @@
    "note": "누르다 = press",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_work_a2/cut2"
+   "art": "scene/ko/r1_work_a2/cut2",
+   "lemmas": [
+    [
+     "뺐",
+     "빼다",
+     "ppaeda"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "눌",
+     "누르다",
+     "nureuda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +127,14 @@
    "en": "How many copies did you press?",
    "note": "장 = sheet",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "눌",
+     "누르다",
+     "nureuda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +145,8 @@
    "note": "Kick: an extra 0",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_work_a2/cut3"
+   "art": "scene/ko/r1_work_a2/cut3",
+   "lemmas": []
   },
   {
    "num": 6,
@@ -92,7 +156,19 @@
    "en": "Whoa stop it quick!",
    "note": "멈추다 = stop",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "멈춰",
+     "멈추다",
+     "meomchuda"
+    ],
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +179,24 @@
    "note": "복도 = hallway",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_work_a2/cut4"
+   "art": "scene/ko/r1_work_a2/cut4",
+   "lemmas": [
+    [
+     "복사",
+     "복사",
+     "boksa"
+    ],
+    [
+     "복도",
+     "복도",
+     "bokdo"
+    ],
+    [
+     "종이",
+     "종이",
+     "jongi"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +206,14 @@
    "en": "Sorry it's all mine.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "죄송합",
+     "죄송하다",
+     "joesonghada"
+    ]
+   ]
   }
  ],
  "review": {

@@ -39,7 +39,29 @@
    "note": "연차 = annual leave",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b2/cut1"
+   "art": "scene/ko/r2_work_b2/cut1",
+   "lemmas": [
+    [
+     "선배",
+     "선배",
+     "seonbae"
+    ],
+    [
+     "연차",
+     "연차",
+     "yeoncha"
+    ],
+    [
+     "쓰",
+     "쓰다",
+     "sseuda"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +71,34 @@
    "en": "Keep the reason short, and say first that your work is done.",
    "note": "먼저 = first",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "이유",
+     "이유",
+     "iyu"
+    ],
+    [
+     "짧",
+     "짧다",
+     "jjalda"
+    ],
+    [
+     "일",
+     "일",
+     "il"
+    ],
+    [
+     "먼저",
+     "먼저",
+     "meonjeo"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +109,29 @@
    "note": "시간 괜찮으세요? = are you free a moment?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b2/cut2"
+   "art": "scene/ko/r2_work_b2/cut2",
+   "lemmas": [
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "시간",
+     "시간",
+     "sigan"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +141,14 @@
    "en": "Sure, go ahead.",
    "note": "말해요 = speak",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +159,44 @@
    "note": "-아도 될까요? = may I…?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b2/cut3"
+   "art": "scene/ko/r2_work_b2/cut3",
+   "lemmas": [
+    [
+     "이번",
+     "이번",
+     "ibeon"
+    ],
+    [
+     "주",
+     "주",
+     "ju"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "끝냈",
+     "끝내다",
+     "kkeunnaeda"
+    ],
+    [
+     "금요일",
+     "금요일",
+     "geumyoil"
+    ],
+    [
+     "연차",
+     "연차",
+     "yeoncha"
+    ],
+    [
+     "써",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +206,19 @@
    "en": "Friday? Is something going on?",
    "note": "무슨 일 = what's up",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "금요일",
+     "금요일",
+     "geumyoil"
+    ],
+    [
+     "일",
+     "일",
+     "il"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +229,29 @@
    "note": "처음 = first time",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b2/cut4"
+   "art": "scene/ko/r2_work_b2/cut4",
+   "lemmas": [
+    [
+     "부모",
+     "부모",
+     "bumo"
+    ],
+    [
+     "한국",
+     "한국",
+     "hanguk"
+    ],
+    [
+     "처음",
+     "처음",
+     "cheoeum"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +261,29 @@
    "en": "Oh, then of course. Take Thursday too.",
    "note": "Kick: more than asked",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "당연히",
+     "당연히",
+     "dangyeonhi"
+    ],
+    [
+     "써",
+     "쓰다",
+     "sseuda"
+    ],
+    [
+     "목요일",
+     "목요일",
+     "mogyoil"
+    ],
+    [
+     "쓰",
+     "쓰다",
+     "sseuda"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -123,7 +294,19 @@
    "note": "echo",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b2/cut5"
+   "art": "scene/ko/r2_work_b2/cut5",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "목요일",
+     "목요일",
+     "mogyoil"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -133,7 +316,44 @@
    "en": "Their first time and just one day? But I'll recommend the restaurants.",
    "note": "맛집 = great restaurant",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "부모",
+     "부모",
+     "bumo"
+    ],
+    [
+     "처음",
+     "처음",
+     "cheoeum"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ],
+    [
+     "하루",
+     "하루",
+     "haru"
+    ],
+    [
+     "대신",
+     "대신",
+     "daesin"
+    ],
+    [
+     "맛집",
+     "맛집",
+     "matjip"
+    ],
+    [
+     "추천",
+     "추천",
+     "chucheon"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -144,7 +364,24 @@
    "note": "감사합니다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_work_b2/cut6"
+   "art": "scene/ko/r2_work_b2/cut6",
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "정말",
+     "정말",
+     "jeongmal"
+    ],
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -154,7 +391,24 @@
    "en": "(whispering) See, the boss is human too.",
    "note": "사람이야 = is a person too",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "봐",
+     "보다",
+     "boda"
+    ],
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ]
+   ]
   }
  ],
  "review": {

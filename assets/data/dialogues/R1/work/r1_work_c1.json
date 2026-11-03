@@ -41,7 +41,19 @@
    "new": [],
    "ui": "bubble",
    "at": "17:40",
-   "art": "scene/ko/r1_work_c1/cut1"
+   "art": "scene/ko/r1_work_c1/cut1",
+   "lemmas": [
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "회의",
+     "회의",
+     "hoeui"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -53,7 +65,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:40"
+   "at": "17:40",
+   "lemmas": [
+    [
+     "넵",
+     "넵",
+     "nep"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -66,7 +85,8 @@
    "new": [],
    "ui": "bubble",
    "at": "17:41",
-   "art": "scene/ko/r1_work_c1/cut2"
+   "art": "scene/ko/r1_work_c1/cut2",
+   "lemmas": []
   },
   {
    "num": 4,
@@ -78,7 +98,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:41"
+   "at": "17:41",
+   "lemmas": []
   },
   {
    "num": 5,
@@ -91,7 +112,14 @@
    "new": [],
    "ui": "bubble",
    "at": "17:42",
-   "art": "scene/ko/r1_work_c1/cut3"
+   "art": "scene/ko/r1_work_c1/cut3",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -103,7 +131,29 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:42"
+   "at": "17:42",
+   "lemmas": [
+    [
+     "넵",
+     "넵",
+     "nep"
+    ],
+    [
+     "넵넵",
+     "넵넵",
+     "nemnep"
+    ],
+    [
+     "기분",
+     "기분",
+     "gibun"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -116,7 +166,8 @@
    "new": [],
    "ui": "bubble",
    "at": "17:43",
-   "art": "scene/ko/r1_work_c1/cut4"
+   "art": "scene/ko/r1_work_c1/cut4",
+   "lemmas": []
   },
   {
    "num": 8,
@@ -128,7 +179,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:43"
+   "at": "17:43",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "기분",
+     "기분",
+     "gibun"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   }
  ],
  "review": {

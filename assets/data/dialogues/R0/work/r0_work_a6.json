@@ -38,7 +38,24 @@
    "note": "월급",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_work_a6/cut1"
+   "art": "scene/ko/r0_work_a6/cut1",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "월급",
+     "월급",
+     "wolgeup"
+    ],
+    [
+     "축하",
+     "축하",
+     "chuka"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +65,24 @@
    "en": "Thanks. I'll get my mom a present.",
    "note": "선물",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "선물",
+     "선물",
+     "seonmul"
+    ],
+    [
+     "살",
+     "사다",
+     "sada"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +93,14 @@
    "note": "착하다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_work_a6/cut2"
+   "art": "scene/ko/r0_work_a6/cut2",
+   "lemmas": [
+    [
+     "착하",
+     "착하다",
+     "chakada"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +110,8 @@
    "en": "Huh?",
    "note": "네",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 5,
@@ -80,7 +122,29 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_work_a6/cut3"
+   "art": "scene/ko/r0_work_a6/cut3",
+   "lemmas": [
+    [
+     "농담",
+     "농담",
+     "nongdam"
+    ],
+    [
+     "저녁",
+     "저녁",
+     "jeonyeok"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +154,19 @@
    "en": "For real? I'll pay!",
    "note": "살게요",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "살",
+     "사다",
+     "sada"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +177,19 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_work_a6/cut4"
+   "art": "scene/ko/r0_work_a6/cut4",
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +199,14 @@
    "en": "But it's payday?",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "월급날",
+     "월급날",
+     "wolgeumnal"
+    ]
+   ]
   }
  ],
  "series": "flirt",

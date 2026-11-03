@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../core/l10n.dart';
 import '../core/platform.dart';
 import 'drama_service.dart';
+import '../services/content_sync.dart';
 import 'drama_theme.dart';
 import 'episode_screen.dart';
 import 'scene_art.dart';
@@ -80,7 +81,7 @@ class _SeriesScreenState extends State<SeriesScreen> {
         child: InkWell(
           onTap: () => EpisodeScreen.open(context, last).then((_) => setState(() {})),
           child: Row(children: [
-            SizedBox(width: 120, height: 80, child: url == null ? Center(child: Text(last.emoji, style: const TextStyle(fontSize: 36))) : Image.network(url, fit: BoxFit.cover)),
+            SizedBox(width: 120, height: 80, child: url == null ? Center(child: Text(last.emoji, style: const TextStyle(fontSize: 36))) : Image(image: artProvider(url), fit: BoxFit.cover)),
             const SizedBox(width: 12),
             Expanded(
               child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
@@ -144,7 +145,7 @@ class _EpisodeCard extends StatelessWidget {
                 aspectRatio: 1168 / 784,
                 child: url == null
                     ? Container(color: DramaColors.jadeSoft, alignment: Alignment.center, child: Text(ep.emoji, style: const TextStyle(fontSize: 38)))
-                    : Image.network(url, fit: BoxFit.cover, errorBuilder: (_, _, _) => Container(color: DramaColors.jadeSoft)),
+                    : Image(image: artProvider(url), fit: BoxFit.cover, errorBuilder: (_, _, _) => Container(color: DramaColors.jadeSoft)),
               ),
               Positioned(
                 left: 8, top: 8,

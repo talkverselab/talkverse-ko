@@ -41,7 +41,14 @@
    "note": "할 말 있어 = I have something to tell you",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b2/cut1"
+   "art": "scene/ko/r2_love_b2/cut1",
+   "lemmas": [
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +58,19 @@
    "en": "What is it? Why's your face like that.",
    "note": "빨개 = (it's) red",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "얼굴",
+     "얼굴",
+     "eolgul"
+    ],
+    [
+     "왜",
+     "왜",
+     "wae"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +81,19 @@
    "note": "-때문 = because of",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b2/cut2"
+   "art": "scene/ko/r2_love_b2/cut2",
+   "lemmas": [
+    [
+     "소주",
+     "소주",
+     "soju"
+    ],
+    [
+     "아니",
+     "아니",
+     "ani"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +103,14 @@
    "en": "Really? What is it.",
    "note": "진짜? = really?",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +121,14 @@
    "note": "-는 것 같아 = I think (softened)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b2/cut3"
+   "art": "scene/ko/r2_love_b2/cut3",
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +138,24 @@
    "en": "…No way, is this a confession?",
    "note": "설마 = no way · 고백 = confession",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "설마",
+     "설마",
+     "seolma"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "고백",
+     "고백",
+     "gobaek"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +166,34 @@
    "note": "the classic \"blame the soju\" escape",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b2/cut4"
+   "art": "scene/ko/r2_love_b2/cut4",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ],
+    [
+     "날",
+     "나다",
+     "nada"
+    ],
+    [
+     "취했",
+     "취하다",
+     "chwihada"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +203,19 @@
    "en": "Then I'll say it too. I like you too.",
    "note": "-ㄹ게 = I'll",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "말",
+     "말",
+     "mal"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -125,7 +226,19 @@
    "note": "echoing her own excuse",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b2/cut5"
+   "art": "scene/ko/r2_love_b2/cut5",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "취했",
+     "취하다",
+     "chwihada"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -135,7 +248,29 @@
    "en": "No. I've been drinking cola the whole time.",
    "note": "Kick: he was sober — no excuse for him",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "계속",
+     "계속",
+     "gyesok"
+    ],
+    [
+     "콜라",
+     "콜라",
+     "kolla"
+    ],
+    [
+     "마셨",
+     "마시다",
+     "masida"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -146,7 +281,14 @@
    "note": "-겠네 = I guess you will",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b2/cut6"
+   "art": "scene/ko/r2_love_b2/cut6",
+   "lemmas": [
+    [
+     "기억",
+     "기억",
+     "gieok"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -156,7 +298,29 @@
    "en": "Yeah. So tell me again tomorrow when you're sober.",
    "note": "맨정신 = sober mind",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "정신",
+     "정신",
+     "jeongsin"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   }
  ],
  "review": {

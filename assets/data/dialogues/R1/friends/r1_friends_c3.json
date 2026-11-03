@@ -43,7 +43,34 @@
    "new": [],
    "ui": "bubble",
    "at": "20:00",
-   "art": "scene/ko/r1_friends_c3/cut1"
+   "art": "scene/ko/r1_friends_c3/cut1",
+   "lemmas": [
+    [
+     "갈",
+     "가다",
+     "gada"
+    ],
+    [
+     "투표",
+     "투표",
+     "tupyo"
+    ],
+    [
+     "고기",
+     "고기",
+     "gogi"
+    ],
+    [
+     "회",
+     "회",
+     "hoe"
+    ],
+    [
+     "피자",
+     "피자",
+     "pija"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -55,7 +82,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "20:01"
+   "at": "20:01",
+   "lemmas": [
+    [
+     "고기",
+     "고기",
+     "gogi"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -68,7 +102,14 @@
    "new": [],
    "ui": "bubble",
    "at": "20:01",
-   "art": "scene/ko/r1_friends_c3/cut2"
+   "art": "scene/ko/r1_friends_c3/cut2",
+   "lemmas": [
+    [
+     "회",
+     "회",
+     "hoe"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -80,7 +121,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "20:01"
+   "at": "20:01",
+   "lemmas": [
+    [
+     "피자",
+     "피자",
+     "pija"
+    ],
+    [
+     "치킨",
+     "치킨",
+     "chikin"
+    ],
+    [
+     "추가",
+     "추가",
+     "chuga"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -93,7 +151,14 @@
    "new": [],
    "ui": "bubble",
    "at": "20:02",
-   "art": "scene/ko/r1_friends_c3/cut3"
+   "art": "scene/ko/r1_friends_c3/cut3",
+   "lemmas": [
+    [
+     "치킨",
+     "치킨",
+     "chikin"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -105,7 +170,19 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "20:02"
+   "at": "20:02",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -118,7 +195,29 @@
    "new": [],
    "ui": "bubble",
    "at": "20:03",
-   "art": "scene/ko/r1_friends_c3/cut4"
+   "art": "scene/ko/r1_friends_c3/cut4",
+   "lemmas": [
+    [
+     "고기",
+     "고기",
+     "gogi"
+    ],
+    [
+     "회",
+     "회",
+     "hoe"
+    ],
+    [
+     "피자",
+     "피자",
+     "pija"
+    ],
+    [
+     "치킨",
+     "치킨",
+     "chikin"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -130,7 +229,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "20:03"
+   "at": "20:03",
+   "lemmas": []
   }
  ],
  "review": {

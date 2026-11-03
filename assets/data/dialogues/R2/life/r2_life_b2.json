@@ -38,7 +38,8 @@
    "note": "해 드릴까요? = shall I do it for you?",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b2/cut1"
+   "art": "scene/ko/r2_life_b2/cut1",
+   "lemmas": []
   },
   {
    "num": 2,
@@ -48,7 +49,19 @@
    "en": "Just a little trim, please.",
    "note": "다듬다 = trim",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "조금",
+     "조금",
+     "jogeum"
+    ],
+    [
+     "다듬",
+     "다듬다",
+     "dadeumda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +72,19 @@
    "note": "얼마나 = how much",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b2/cut2"
+   "art": "scene/ko/r2_life_b2/cut2",
+   "lemmas": [
+    [
+     "조금",
+     "조금",
+     "jogeum"
+    ],
+    [
+     "정도",
+     "정도",
+     "jeongdo"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +94,14 @@
    "en": "Um... about this much.",
    "note": "이 정도 = about this",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "정도",
+     "정도",
+     "jeongdo"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +112,19 @@
    "note": "시원하게 = refreshingly (often means shorter!)",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b2/cut3"
+   "art": "scene/ko/r2_life_b2/cut3",
+   "lemmas": [
+    [
+     "알",
+     "알다",
+     "alda"
+    ],
+    [
+     "시원",
+     "시원",
+     "siwon"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +134,19 @@
    "en": "Fresh? Sure, sounds good.",
    "note": "didn't catch the hint",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "시원하",
+     "시원하다",
+     "siwonhada"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +157,8 @@
    "note": "다 됐습니다 = all done",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b2/cut4"
+   "art": "scene/ko/r2_life_b2/cut4",
+   "lemmas": []
   },
   {
    "num": 8,
@@ -111,7 +168,24 @@
    "en": "...Whoa. For real? It's really short.",
    "note": "Kick: way shorter",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "시원하",
+     "시원하다",
+     "siwonhada"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -122,7 +196,24 @@
    "note": "유행 = trend",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b2/cut5"
+   "art": "scene/ko/r2_life_b2/cut5",
+   "lemmas": [
+    [
+     "어울리",
+     "어울리다",
+     "eoullida"
+    ],
+    [
+     "요즘",
+     "요즘",
+     "yojeum"
+    ],
+    [
+     "유행",
+     "유행",
+     "yuhaeng"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -132,7 +223,29 @@
    "en": "It's fine... hair grows back.",
    "note": "자라다 = grow",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "머리",
+     "머리",
+     "meori"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "자",
+     "자다",
+     "jada"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -143,7 +256,34 @@
    "note": "정확하다 = accurate",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b2/cut6"
+   "art": "scene/ko/r2_life_b2/cut6",
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "가져오",
+     "가져오다",
+     "gajyeooda"
+    ],
+    [
+     "제일",
+     "제일",
+     "jeil"
+    ],
+    [
+     "정확",
+     "정확",
+     "jeonghwak"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -153,7 +293,19 @@
    "en": "Yes. And now I'm scared of \"fresh.\"",
    "note": "무섭다 = scary",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "시원하",
+     "시원하다",
+     "siwonhada"
+    ],
+    [
+     "이제",
+     "이제",
+     "ije"
+    ]
+   ]
   }
  ],
  "review": {

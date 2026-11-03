@@ -39,7 +39,8 @@
    "note": "단계 = level",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s5/cut1"
+   "art": "scene/ko/r1_survival_s5/cut1",
+   "lemmas": []
   },
   {
    "num": 2,
@@ -49,7 +50,19 @@
    "en": "Just a little spicy, level 3.",
    "note": "조금만 = just a little",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "조금",
+     "조금",
+     "jogeum"
+    ],
+    [
+     "단계",
+     "단계",
+     "dangye"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +73,24 @@
    "note": "warning",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s5/cut2"
+   "art": "scene/ko/r1_survival_s5/cut2",
+   "lemmas": [
+    [
+     "단계",
+     "단계",
+     "dangye"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +100,14 @@
    "en": "Yes I handle spicy food well.",
    "note": "잘 먹다 = eat well",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +118,19 @@
    "note": "served",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s5/cut3"
+   "art": "scene/ko/r1_survival_s5/cut3",
+   "lemmas": [
+    [
+     "단계",
+     "단계",
+     "dangye"
+    ],
+    [
+     "나왔",
+     "나오다",
+     "naoda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +140,29 @@
    "en": "Water please, lots of water.",
    "note": "Kick: too spicy",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "물",
+     "물",
+     "mul"
+    ],
+    [
+     "주",
+     "주다",
+     "juda"
+    ],
+    [
+     "물",
+     "물",
+     "mul"
+    ],
+    [
+     "많이",
+     "많이",
+     "mani"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +173,29 @@
    "note": "다른 나라 = other countries",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_survival_s5/cut4"
+   "art": "scene/ko/r1_survival_s5/cut4",
+   "lemmas": [
+    [
+     "한국",
+     "한국",
+     "hanguk"
+    ],
+    [
+     "단계",
+     "단계",
+     "dangye"
+    ],
+    [
+     "나라",
+     "나라",
+     "nara"
+    ],
+    [
+     "단계",
+     "단계",
+     "dangye"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +205,29 @@
    "en": "Next time level 1, no level 0.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "단계",
+     "단계",
+     "dangye"
+    ],
+    [
+     "아니",
+     "아니",
+     "ani"
+    ],
+    [
+     "단계",
+     "단계",
+     "dangye"
+    ]
+   ]
   }
  ],
  "review": {

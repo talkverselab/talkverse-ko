@@ -38,7 +38,19 @@
    "note": "관리비 = maintenance fee",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a5/cut1"
+   "art": "scene/ko/r1_life_a5/cut1",
+   "lemmas": [
+    [
+     "관리비",
+     "관리비",
+     "gwallibi"
+    ],
+    [
+     "이상",
+     "이상",
+     "isang"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +60,19 @@
    "en": "How much did it come to?",
    "note": "얼마",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "얼마",
+     "얼마",
+     "eolma"
+    ],
+    [
+     "나왔",
+     "나오다",
+     "naoda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +83,8 @@
    "note": "30만 원",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a5/cut2"
+   "art": "scene/ko/r1_life_a5/cut2",
+   "lemmas": []
   },
   {
    "num": 4,
@@ -69,7 +94,14 @@
    "en": "Whoa, it's usually 100,000.",
    "note": "보통",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "보통",
+     "보통",
+     "botong"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +112,34 @@
    "note": "Kick: callback 보일러",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a5/cut3"
+   "art": "scene/ko/r1_life_a5/cut3",
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "보일러",
+     "보일러",
+     "boilleo"
+    ],
+    [
+     "에어컨",
+     "에어컨",
+     "eeokeon"
+    ],
+    [
+     "내내",
+     "내내",
+     "naenae"
+    ],
+    [
+     "켜",
+     "켜다",
+     "kyeoda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +149,24 @@
    "en": "Really? You didn't even know there was a boiler!",
    "note": "callback",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "보일러",
+     "보일러",
+     "boilleo"
+    ],
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +177,24 @@
    "note": "안 끄다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a5/cut4"
+   "art": "scene/ko/r1_life_a5/cut4",
+   "lemmas": [
+    [
+     "알",
+     "알다",
+     "alda"
+    ],
+    [
+     "나서",
+     "나서다",
+     "naseoda"
+    ],
+    [
+     "껐",
+     "끄다",
+     "kkeuda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +204,24 @@
    "en": "Let's learn how to turn it off first.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "이제",
+     "이제",
+     "ije"
+    ],
+    [
+     "끄",
+     "끄다",
+     "kkeuda"
+    ],
+    [
+     "배우",
+     "배우다",
+     "baeuda"
+    ]
+   ]
   }
  ],
  "review": {

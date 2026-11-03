@@ -39,7 +39,14 @@
    "note": "할 말",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a15/cut1"
+   "art": "scene/ko/r1_love_a15/cut1",
+   "lemmas": [
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +56,14 @@
    "en": "What? Noodles are getting soggy.",
    "note": "붇다 = get soggy",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "라면",
+     "라면",
+     "ramyeon"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +74,14 @@
    "note": "좋아해",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a15/cut2"
+   "art": "scene/ko/r1_love_a15/cut2",
+   "lemmas": [
+    [
+     "좋아해",
+     "좋아하다",
+     "joahada"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +91,19 @@
    "en": "…Really? Now, here?",
    "note": "여기서",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +114,44 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a15/cut3"
+   "art": "scene/ko/r1_love_a15/cut3",
+   "lemmas": [
+    [
+     "컵",
+     "컵",
+     "keop"
+    ],
+    [
+     "라면",
+     "라면",
+     "ramyeon"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ],
+    [
+     "때",
+     "때",
+     "ttae"
+    ],
+    [
+     "제일",
+     "제일",
+     "jeil"
+    ],
+    [
+     "예뻐",
+     "예쁘다",
+     "yeppeuda"
+    ],
+    [
+     "보여",
+     "보이다",
+     "boida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +161,19 @@
    "en": "Need a bag?",
    "note": "Kick: timing",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "봉투",
+     "봉투",
+     "bongtu"
+    ],
+    [
+     "필요",
+     "필요",
+     "piryo"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +184,24 @@
    "note": "pun",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_love_a15/cut4"
+   "art": "scene/ko/r1_love_a15/cut4",
+   "lemmas": [
+    [
+     "아니요",
+     "아니요",
+     "aniyo"
+    ],
+    [
+     "대답",
+     "대답",
+     "daedap"
+    ],
+    [
+     "필요",
+     "필요",
+     "piryo"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +211,19 @@
    "en": "Lol exactly, so answer quickly.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "대답",
+     "대답",
+     "daedap"
+    ]
+   ]
   }
  ],
  "series": "flirt",

@@ -41,7 +41,34 @@
    "note": "완벽하다 = perfect",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b9/cut1"
+   "art": "scene/ko/r2_love_b9/cut1",
+   "lemmas": [
+    [
+     "모자",
+     "모자",
+     "moja"
+    ],
+    [
+     "썼",
+     "쓰다",
+     "sseuda"
+    ],
+    [
+     "마스크",
+     "마스크",
+     "maseukeu"
+    ],
+    [
+     "썼",
+     "쓰다",
+     "sseuda"
+    ],
+    [
+     "완벽",
+     "완벽",
+     "wanbyeok"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -51,7 +78,29 @@
    "en": "But your hair is so spiky everyone will recognize you.",
    "note": "뾰족하다 = spiky",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "머리",
+     "머리",
+     "meori"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "뾰족",
+     "뾰족",
+     "ppyojok"
+    ],
+    [
+     "알아보",
+     "알아보다",
+     "araboda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -62,7 +111,14 @@
    "note": "recognized",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b9/cut2"
+   "art": "scene/ko/r2_love_b9/cut2",
+   "lemmas": [
+    [
+     "사람",
+     "사람",
+     "saram"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -72,7 +128,14 @@
    "en": "Wait this way!",
    "note": "이쪽 = this way",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -83,7 +146,19 @@
    "note": "Kick setup",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b9/cut3"
+   "art": "scene/ko/r2_love_b9/cut3",
+   "lemmas": [
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "찍",
+     "찍다",
+     "jjikda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -93,7 +168,19 @@
    "en": "Whoa more people are coming.",
    "note": "더 = more",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "사람",
+     "사람",
+     "saram"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -104,7 +191,19 @@
    "note": "뛰다 = run",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b9/cut4"
+   "art": "scene/ko/r2_love_b9/cut4",
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "뛰",
+     "뛰다",
+     "ttwida"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -114,7 +213,24 @@
    "en": "City bike let's take a 따릉이!",
    "note": "callback 따릉이 — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "따릉이",
+     "따릉이",
+     "ttareungi"
+    ],
+    [
+     "따릉이",
+     "따릉이",
+     "ttareungi"
+    ],
+    [
+     "타",
+     "타다",
+     "tada"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -125,7 +241,19 @@
    "note": "Kick: chaos peak",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b9/cut5"
+   "art": "scene/ko/r2_love_b9/cut5",
+   "lemmas": [
+    [
+     "자전거",
+     "자전거",
+     "jajeongeo"
+    ],
+    [
+     "타",
+     "타다",
+     "tada"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -135,7 +263,19 @@
    "en": "Then ride behind I'll pedal.",
    "note": "뒤에 타다 = ride on the back",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ],
+    [
+     "타",
+     "타다",
+     "tada"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -146,7 +286,14 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b9/cut6"
+   "art": "scene/ko/r2_love_b9/cut6",
+   "lemmas": [
+    [
+     "드라마",
+     "드라마",
+     "deurama"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -156,7 +303,24 @@
    "en": "Right but a 따릉이 is for one person really?",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "따릉이",
+     "따릉이",
+     "ttareungi"
+    ],
+    [
+     "인",
+     "인",
+     "in"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   }
  ],
  "learner_gender": "F",

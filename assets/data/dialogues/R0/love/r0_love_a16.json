@@ -38,7 +38,8 @@
    "note": "무겁다 = heavy",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a16/cut1"
+   "art": "scene/ko/r0_love_a16/cut1",
+   "lemmas": []
   },
   {
    "num": 2,
@@ -48,7 +49,19 @@
    "en": "Give it. I'll carry it.",
    "note": "들다 = carry",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "줘",
+     "주다",
+     "juda"
+    ],
+    [
+     "들",
+     "들다",
+     "deulda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +72,24 @@
    "note": "힘세다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a16/cut2"
+   "art": "scene/ko/r0_love_a16/cut2",
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "힘",
+     "힘",
+     "him"
+    ],
+    [
+     "세",
+     "세다",
+     "seda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +99,19 @@
    "en": "Really? Still, give it.",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "줘",
+     "주다",
+     "juda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +122,8 @@
    "note": "고마워",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a16/cut3"
+   "art": "scene/ko/r0_love_a16/cut3",
+   "lemmas": []
   },
   {
    "num": 6,
@@ -90,7 +133,24 @@
    "en": "But leave your hand free.",
    "note": "비우다 = empty",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "대신",
+     "대신",
+     "daesin"
+    ],
+    [
+     "손",
+     "손",
+     "son"
+    ],
+    [
+     "비워",
+     "비우다",
+     "biuda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +161,14 @@
    "note": "왜",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a16/cut4"
+   "art": "scene/ko/r0_love_a16/cut4",
+   "lemmas": [
+    [
+     "왜",
+     "왜",
+     "wae"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +178,8 @@
    "en": "So I can hold it…",
    "note": "punchline 심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   }
  ],
  "learner_gender": "F",

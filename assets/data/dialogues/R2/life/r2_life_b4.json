@@ -40,7 +40,24 @@
    "note": "아랫집",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b4/cut1"
+   "art": "scene/ko/r2_life_b4/cut1",
+   "lemmas": [
+    [
+     "안녕",
+     "안녕",
+     "annyeong"
+    ],
+    [
+     "아래",
+     "아래",
+     "arae"
+    ],
+    [
+     "층",
+     "층",
+     "cheung"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +67,34 @@
    "en": "Uh... you came up about the dog, right? I'm really sorry.",
    "note": "강아지",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "소리",
+     "소리",
+     "sori"
+    ],
+    [
+     "올라오",
+     "올라오다",
+     "ollaoda"
+    ],
+    [
+     "맞",
+     "맞다",
+     "matda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +105,29 @@
    "note": "짖다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b4/cut2"
+   "art": "scene/ko/r2_life_b4/cut2",
+   "lemmas": [
+    [
+     "밤",
+     "밤",
+     "bam"
+    ],
+    [
+     "계속",
+     "계속",
+     "gyesok"
+    ],
+    [
+     "짖",
+     "짖다",
+     "jitda"
+    ],
+    [
+     "힘들",
+     "힘들다",
+     "himdeulda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +137,29 @@
    "en": "He gets scared when he's alone. I have a lot of night shifts...",
    "note": "근무",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "혼자",
+     "혼자",
+     "honja"
+    ],
+    [
+     "때",
+     "때",
+     "ttae"
+    ],
+    [
+     "야근",
+     "야근",
+     "yageun"
+    ],
+    [
+     "많",
+     "많다",
+     "manta"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +170,8 @@
    "note": "강아지",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b4/cut3"
+   "art": "scene/ko/r2_life_b4/cut3",
+   "lemmas": []
   },
   {
    "num": 6,
@@ -92,7 +181,14 @@
    "en": "...Whoa, so cute.",
    "note": "귀엽다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +199,29 @@
    "note": "부탁",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b4/cut4"
+   "art": "scene/ko/r2_life_b4/cut4",
+   "lemmas": [
+    [
+     "혹시",
+     "혹시",
+     "hoksi"
+    ],
+    [
+     "때",
+     "때",
+     "ttae"
+    ],
+    [
+     "가끔",
+     "가끔",
+     "gakkeum"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +231,14 @@
    "en": "Me? For real?",
    "note": "진짜요",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -124,7 +249,39 @@
    "note": "비밀번호",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b4/cut5"
+   "art": "scene/ko/r2_life_b4/cut5",
+   "lemmas": [
+    [
+     "짖",
+     "짖다",
+     "jitda"
+    ],
+    [
+     "들리",
+     "들리다",
+     "deullida"
+    ],
+    [
+     "바로",
+     "바로",
+     "baro"
+    ],
+    [
+     "올라와",
+     "올라오다",
+     "ollaoda"
+    ],
+    [
+     "비번",
+     "비번",
+     "bibeon"
+    ],
+    [
+     "알려",
+     "알리다",
+     "allida"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -134,7 +291,29 @@
    "en": "Then I'll actually look forward to the barking. It's fine.",
    "note": "심쿵(정)",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "이제",
+     "이제",
+     "ije"
+    ],
+    [
+     "짖",
+     "짖다",
+     "jitda"
+    ],
+    [
+     "소리",
+     "소리",
+     "sori"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -145,7 +324,8 @@
    "note": "강아지",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_life_b4/cut6"
+   "art": "scene/ko/r2_life_b4/cut6",
+   "lemmas": []
   },
   {
    "num": 12,
@@ -155,7 +335,19 @@
    "en": "He likes you already. ...Me too.",
    "note": "punchline 심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "벌써",
+     "벌써",
+     "beolsseo"
+    ],
+    [
+     "좋아하",
+     "좋아하다",
+     "joahada"
+    ]
+   ]
   }
  ],
  "learner_gender": "M",

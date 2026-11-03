@@ -41,7 +41,14 @@
    "new": [],
    "ui": "bubble",
    "at": "22:00",
-   "art": "scene/ko/r1_love_c9/cut1"
+   "art": "scene/ko/r1_love_c9/cut1",
+   "lemmas": [
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -53,7 +60,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:01"
+   "at": "22:01",
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -66,7 +80,19 @@
    "new": [],
    "ui": "bubble",
    "at": "22:01",
-   "art": "scene/ko/r1_love_c9/cut2"
+   "art": "scene/ko/r1_love_c9/cut2",
+   "lemmas": [
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "골",
+     "고르다",
+     "goreuda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -78,7 +104,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:02"
+   "at": "22:02",
+   "lemmas": [
+    [
+     "오른쪽",
+     "오른쪽",
+     "oreunjjok"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -91,7 +124,14 @@
    "new": [],
    "ui": "bubble",
    "at": "22:02",
-   "art": "scene/ko/r1_love_c9/cut3"
+   "art": "scene/ko/r1_love_c9/cut3",
+   "lemmas": [
+    [
+     "원래",
+     "원래",
+     "wollae"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -103,7 +143,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:03"
+   "at": "22:03",
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "물어본",
+     "물어보다",
+     "mureoboda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -116,7 +173,14 @@
    "new": [],
    "ui": "bubble",
    "at": "22:03",
-   "art": "scene/ko/r1_love_c9/cut4"
+   "art": "scene/ko/r1_love_c9/cut4",
+   "lemmas": [
+    [
+     "얘기",
+     "얘기",
+     "yaegi"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -128,7 +192,24 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:04"
+   "at": "22:04",
+   "lemmas": [
+    [
+     "내일",
+     "내일",
+     "naeil"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "설렌",
+     "설레다",
+     "seolleda"
+    ]
+   ]
   }
  ],
  "series": "flirt",

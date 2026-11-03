@@ -85,6 +85,7 @@ flutter:
 
   assets:
     - assets/seed/
+    - assets/data/version.json
     - assets/data/dialogues/R0/culture/
     - assets/data/dialogues/R0/friends/
     - assets/data/dialogues/R0/life/

@@ -42,7 +42,19 @@
    "note": "오늘",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b11/cut1"
+   "art": "scene/ko/r2_love_b11/cut1",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -52,7 +64,19 @@
    "en": "Just chilling at home… oh, Mom?",
    "note": "엄마",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "집",
+     "집",
+     "jip"
+    ],
+    [
+     "쉬",
+     "쉬다",
+     "swida"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -63,7 +87,24 @@
    "note": "Kick: mom appears",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b11/cut2"
+   "art": "scene/ko/r2_love_b11/cut2",
+   "lemmas": [
+    [
+     "어머나",
+     "어머나",
+     "eomeona"
+    ],
+    [
+     "예쁜",
+     "예쁘다",
+     "yeppeuda"
+    ],
+    [
+     "아가씨",
+     "아가씨",
+     "agassi"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -73,7 +114,19 @@
    "en": "Whoa wait a sec! Hello…",
    "note": "안녕하세요",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "안녕",
+     "안녕",
+     "annyeong"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -84,7 +137,39 @@
    "note": "칭찬",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b11/cut3"
+   "art": "scene/ko/r2_love_b11/cut3",
+   "lemmas": [
+    [
+     "아들",
+     "아들",
+     "adeul"
+    ],
+    [
+     "여자",
+     "여자",
+     "yeoja"
+    ],
+    [
+     "친구",
+     "친구",
+     "chingu"
+    ],
+    [
+     "한국말",
+     "한국말",
+     "hangungmal"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "예쁘",
+     "예쁘다",
+     "yeppeuda"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -94,7 +179,24 @@
    "en": "Mom, you can speak Korean?",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "한국",
+     "한국",
+     "hanguk"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ],
+    [
+     "알",
+     "알다",
+     "alda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -105,7 +207,29 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b11/cut4"
+   "art": "scene/ko/r2_love_b11/cut4",
+   "lemmas": [
+    [
+     "드라마",
+     "드라마",
+     "deurama"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "배웠",
+     "배우다",
+     "baeuda"
+    ],
+    [
+     "사랑",
+     "사랑",
+     "sarang"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -115,7 +239,19 @@
    "en": "Let me see too for a sec! Who is this person?",
    "note": "chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -126,7 +262,34 @@
    "note": "chaos peak",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b11/cut5"
+   "art": "scene/ko/r2_love_b11/cut5",
+   "lemmas": [
+    [
+     "결혼",
+     "결혼",
+     "gyeolhon"
+    ],
+    [
+     "언제",
+     "언제",
+     "eonje"
+    ],
+    [
+     "손주",
+     "손주",
+     "sonju"
+    ],
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -136,7 +299,24 @@
    "en": "Ugh I dunno… everyone wait a sec get out!",
    "note": "아 몰라",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "몰",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "나가",
+     "나가다",
+     "nagada"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -147,7 +327,29 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r2_love_b11/cut6"
+   "art": "scene/ko/r2_love_b11/cut6",
+   "lemmas": [
+    [
+     "아니야",
+     "아니야",
+     "aniya"
+    ],
+    [
+     "너무",
+     "너무",
+     "neomu"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -157,7 +359,39 @@
    "en": "Yujin come visit next month for sure! I'll make something yummy!",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다음",
+     "다음",
+     "daeum"
+    ],
+    [
+     "달",
+     "달",
+     "dal"
+    ],
+    [
+     "꼭",
+     "꼭",
+     "kkok"
+    ],
+    [
+     "놀",
+     "놀다",
+     "nolda"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ],
+    [
+     "맛있",
+     "맛있다",
+     "masitda"
+    ]
+   ]
   }
  ],
  "learner_gender": "M",

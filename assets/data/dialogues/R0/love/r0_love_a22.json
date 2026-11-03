@@ -39,7 +39,24 @@
    "note": "남편",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a22/cut1"
+   "art": "scene/ko/r0_love_a22/cut1",
+   "lemmas": [
+    [
+     "전화",
+     "전화",
+     "jeonhwa"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
+    ],
+    [
+     "남편",
+     "남편",
+     "nampyeon"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +66,8 @@
    "en": "Lol it's me, me.",
    "note": "나야",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": []
   },
   {
    "num": 3,
@@ -60,7 +78,19 @@
    "note": "왜",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a22/cut2"
+   "art": "scene/ko/r0_love_a22/cut2",
+   "lemmas": [
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "남편",
+     "남편",
+     "nampyeon"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +100,24 @@
    "en": "I saved it ahead. Minjun saw it too.",
    "note": "심쿵 kick",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "미리",
+     "미리",
+     "miri"
+    ],
+    [
+     "저장",
+     "저장",
+     "jeojang"
+    ],
+    [
+     "봤",
+     "보다",
+     "boda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +128,14 @@
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a22/cut3"
+   "art": "scene/ko/r0_love_a22/cut3",
+   "lemmas": [
+    [
+     "결혼",
+     "결혼",
+     "gyeolhon"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +145,19 @@
    "en": "No, seriously no!",
    "note": "아니야",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아니야",
+     "아니야",
+     "aniya"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +168,14 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a22/cut4"
+   "art": "scene/ko/r0_love_a22/cut4",
+   "lemmas": [
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +185,14 @@
    "en": "…You mean not yet?",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "아직",
+     "아직",
+     "ajik"
+    ]
+   ]
   }
  ],
  "series": "flirt",

@@ -39,7 +39,34 @@
    "note": "소개",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b8/cut1"
+   "art": "scene/ko/r3_love_b8/cut1",
+   "lemmas": [
+    [
+     "주변",
+     "주변",
+     "jubyeon"
+    ],
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ],
+    [
+     "애",
+     "애",
+     "ae"
+    ],
+    [
+     "소개",
+     "소개",
+     "sogae"
+    ],
+    [
+     "시켜",
+     "시키다",
+     "sikida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -49,7 +76,24 @@
    "en": "Why the sudden? Something going on?",
    "note": "갑자기",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "갑자기",
+     "갑자기",
+     "gapjagi"
+    ],
+    [
+     "왜",
+     "왜",
+     "wae"
+    ],
+    [
+     "일",
+     "일",
+     "il"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -60,7 +104,14 @@
    "note": "연애",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b8/cut2"
+   "art": "scene/ko/r3_love_b8/cut2",
+   "lemmas": [
+    [
+     "연애",
+     "연애",
+     "yeonae"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -70,7 +121,19 @@
    "en": "What type are you into?",
    "note": "어떤",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "타입",
+     "타입",
+     "taip"
+    ],
+    [
+     "끌리",
+     "끌리다",
+     "kkeullida"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -81,7 +144,34 @@
    "note": "hint",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b8/cut3"
+   "art": "scene/ko/r3_love_b8/cut3",
+   "lemmas": [
+    [
+     "한국어",
+     "한국어",
+     "hangugeo"
+    ],
+    [
+     "열심히",
+     "열심히",
+     "yeolsimhi"
+    ],
+    [
+     "라면",
+     "라면",
+     "ramyeon"
+    ],
+    [
+     "끓이",
+     "끓이다",
+     "kkeulida"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -91,7 +181,24 @@
    "en": "There’s a ton of people like that. So spill a bit more.",
    "note": "많다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "사람",
+     "사람",
+     "saram"
+    ],
+    [
+     "많",
+     "많다",
+     "manta"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -102,7 +209,44 @@
    "note": "hint",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b8/cut4"
+   "art": "scene/ko/r3_love_b8/cut4",
+   "lemmas": [
+    [
+     "카톡",
+     "카톡",
+     "katok"
+    ],
+    [
+     "답장",
+     "답장",
+     "dapjang"
+    ],
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "우산",
+     "우산",
+     "usan"
+    ],
+    [
+     "맨날",
+     "맨날",
+     "maennal"
+    ],
+    [
+     "까먹",
+     "까먹다",
+     "kkameokda"
+    ],
+    [
+     "애",
+     "애",
+     "ae"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -112,7 +256,19 @@
    "en": "…That’s kinda specific. For real?",
    "note": "구체적",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "특정",
+     "특정",
+     "teukjeong"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 9,
@@ -123,7 +279,34 @@
    "note": "hint",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b8/cut5"
+   "art": "scene/ko/r3_love_b8/cut5",
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "회색",
+     "회색",
+     "hoesaek"
+    ],
+    [
+     "후드",
+     "후드",
+     "hudeu"
+    ],
+    [
+     "온",
+     "오다",
+     "oda"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
+    ]
+   ]
   },
   {
    "num": 10,
@@ -133,7 +316,19 @@
    "en": "Hold on, you're talking about me, right?",
    "note": "설마",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "말",
+     "말",
+     "mal"
+    ]
+   ]
   },
   {
    "num": 11,
@@ -144,7 +339,34 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b8/cut6"
+   "art": "scene/ko/r3_love_b8/cut6",
+   "lemmas": [
+    [
+     "언제",
+     "언제",
+     "eonje"
+    ],
+    [
+     "눈치",
+     "눈치",
+     "nunchi"
+    ],
+    [
+     "챌",
+     "채다",
+     "chaeda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "둔하",
+     "둔하다",
+     "dunhada"
+    ]
+   ]
   },
   {
    "num": 12,
@@ -154,7 +376,19 @@
    "en": "…Oh, then I guess I don't have to introduce anyone.",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "굳이",
+     "굳이",
+     "guji"
+    ],
+    [
+     "소개",
+     "소개",
+     "sogae"
+    ]
+   ]
   },
   {
    "num": 13,
@@ -165,7 +399,19 @@
    "note": "심쿵",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r3_love_b8/cut7"
+   "art": "scene/ko/r3_love_b8/cut7",
+   "lemmas": [
+    [
+     "바로",
+     "바로",
+     "baro"
+    ],
+    [
+     "앞",
+     "앞",
+     "ap"
+    ]
+   ]
   },
   {
    "num": 14,
@@ -175,7 +421,24 @@
    "en": "Then I'll make the ramyeon today.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
+    [
+     "라면",
+     "라면",
+     "ramyeon"
+    ],
+    [
+     "끓여",
+     "끓이다",
+     "kkeulida"
+    ]
+   ]
   }
  ],
  "series": "flirt",

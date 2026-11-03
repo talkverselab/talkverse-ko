@@ -38,7 +38,19 @@
    "note": "다이어트",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a19/cut1"
+   "art": "scene/ko/r0_love_a19/cut1",
+   "lemmas": [
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "다이어트",
+     "다이어트",
+     "daieoteu"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -48,7 +60,24 @@
    "en": "Really? Then I'll just eat mine.",
    "note": "나만",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "혼자",
+     "혼자",
+     "honja"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -59,7 +88,19 @@
    "note": "한 입",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a19/cut2"
+   "art": "scene/ko/r0_love_a19/cut2",
+   "lemmas": [
+    [
+     "입",
+     "입",
+     "ip"
+    ],
+    [
+     "줘",
+     "주다",
+     "juda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -69,7 +110,14 @@
    "en": "Again? Whoa, you good?",
    "note": "또",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -80,7 +128,19 @@
    "note": "Kick setup",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a19/cut3"
+   "art": "scene/ko/r0_love_a19/cut3",
+   "lemmas": [
+    [
+     "맛보",
+     "맛보다",
+     "matboda"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -90,7 +150,14 @@
    "en": "Whoa you ate the whole thing!",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "먹",
+     "먹다",
+     "meokda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -101,7 +168,14 @@
    "note": "주문",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r0_love_a19/cut4"
+   "art": "scene/ko/r0_love_a19/cut4",
+   "lemmas": [
+    [
+     "사장",
+     "사장",
+     "sajang"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -111,7 +185,19 @@
    "en": "What about the diet though?",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "다이어트",
+     "다이어트",
+     "daieoteu"
+    ],
+    [
+     "어쩌",
+     "어쩌다",
+     "eojjeoda"
+    ]
+   ]
   }
  ],
  "series": "flirt",

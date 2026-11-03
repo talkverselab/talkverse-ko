@@ -40,7 +40,29 @@
    "note": "방송",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a7/cut1"
+   "art": "scene/ko/r1_life_a7/cut1",
+   "lemmas": [
+    [
+     "차",
+     "차",
+     "cha"
+    ],
+    [
+     "빼",
+     "빼다",
+     "ppaeda"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "막히",
+     "막히다",
+     "makida"
+    ]
+   ]
   },
   {
    "num": 2,
@@ -50,7 +72,19 @@
    "en": "Huh? That's us… but we don't have a car?",
    "note": "우리 집",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "집",
+     "집",
+     "jip"
+    ],
+    [
+     "차",
+     "차",
+     "cha"
+    ]
+   ]
   },
   {
    "num": 3,
@@ -61,7 +95,34 @@
    "note": "없다",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a7/cut2"
+   "art": "scene/ko/r1_life_a7/cut2",
+   "lemmas": [
+    [
+     "그러게",
+     "그러게",
+     "geureoge"
+    ],
+    [
+     "차",
+     "차",
+     "cha"
+    ],
+    [
+     "호수",
+     "호수",
+     "hosu"
+    ],
+    [
+     "잘못",
+     "잘못",
+     "jalmot"
+    ],
+    [
+     "나온",
+     "나오다",
+     "naoda"
+    ]
+   ]
   },
   {
    "num": 4,
@@ -71,7 +132,49 @@
    "en": "Hold on… weird. Looking outside, cars are lining up.",
    "note": "이상하다",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "이상",
+     "이상",
+     "isang"
+    ],
+    [
+     "창",
+     "창",
+     "chang"
+    ],
+    [
+     "밖",
+     "밖",
+     "bak"
+    ],
+    [
+     "보",
+     "보다",
+     "boda"
+    ],
+    [
+     "차",
+     "차",
+     "cha"
+    ],
+    [
+     "줄",
+     "줄",
+     "jul"
+    ],
+    [
+     "서",
+     "서다",
+     "seoda"
+    ]
+   ]
   },
   {
    "num": 5,
@@ -82,7 +185,29 @@
    "note": "재촉",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a7/cut3"
+   "art": "scene/ko/r1_life_a7/cut3",
+   "lemmas": [
+    [
+     "빨리",
+     "빨리",
+     "ppalli"
+    ],
+    [
+     "뒤",
+     "뒤",
+     "dwi"
+    ],
+    [
+     "차",
+     "차",
+     "cha"
+    ],
+    [
+     "밀려",
+     "밀리다",
+     "millida"
+    ]
+   ]
   },
   {
    "num": 6,
@@ -92,7 +217,24 @@
    "en": "(",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "차",
+     "차",
+     "cha"
+    ],
+    [
+     "잘못",
+     "잘못",
+     "jalmot"
+    ],
+    [
+     "부르",
+     "부르다",
+     "bureuda"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -103,7 +245,14 @@
    "note": "Kick: wrong unit",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a7/cut4"
+   "art": "scene/ko/r1_life_a7/cut4",
+   "lemmas": [
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -113,7 +262,24 @@
    "en": "…Oh, the person from 1302 is coming down now too.",
    "note": "punchline",
    "tags": [],
-   "new": []
+   "new": [],
+   "lemmas": [
+    [
+     "분",
+     "분",
+     "bun"
+    ],
+    [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
+     "내려오",
+     "내려오다",
+     "naeryeooda"
+    ]
+   ]
   }
  ],
  "review": {
