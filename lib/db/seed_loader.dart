@@ -15,7 +15,7 @@ class SeedLoader {
   SeedLoader(this.db);
 
   /// Bump this when seed content changes — triggers re-seed on next launch.
-  static const seedVersion = '7';
+  static const seedVersion = '8'; // 2026-11-03 단어장 = 한국 영화·드라마 형태소 절벽표(data/corpus/lang_ko_top2500.csv)
   static const _versionKey = 'content_seed_version';
 
   Future<void> ensureSeeded() async {

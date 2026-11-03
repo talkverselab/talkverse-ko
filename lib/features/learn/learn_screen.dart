@@ -62,7 +62,7 @@ class LearnScreen extends StatelessWidget {
               titleEn: 'Vocabulary',
               titleKo: tr('어휘'),
               description:
-                  'The top 100 most-used Korean words, ranked by frequency.',
+                  'The 2,500 most-used words in Korean dramas and films, R1 to R4.',
               destination: (_) => const VocabularyScreen(),
             ),
             const SizedBox(height: KSpace.md),

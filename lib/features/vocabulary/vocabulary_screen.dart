@@ -44,7 +44,7 @@ class VocabularyScreen extends StatelessWidget {
                             style: theme.textTheme.titleMedium),
                         const SizedBox(height: 2),
                         Text(
-                          'Sorted by frequency. The first 100 cover roughly 48 % of everyday Korean speech.',
+                          'Ranked by frequency in Korean dramas and films. The first 130 words (R1) — particles and endings included — cover about 63 % of what people actually say.',
                           style: theme.textTheme.bodyMedium?.copyWith(
                               color: theme.colorScheme.onSurfaceVariant),
                         ),
