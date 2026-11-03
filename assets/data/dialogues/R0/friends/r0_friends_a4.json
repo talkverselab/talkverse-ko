@@ -1,0 +1,114 @@
+{
+ "id": "r0_friends_a4",
+ "region": "R0",
+ "island": "friends",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "생일 케이크",
+ "emoji": "🎂",
+ "scene": "민준 생일. 케이크 촛불을 끄려는 순간",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "생일 축하해",
+  "헐",
+  "잠깐만"
+ ],
+ "goal": "Birthday candles",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "소원 빌어!",
+   "rd": "sowon bireo!",
+   "en": "Make a wish!",
+   "note": "소원 = wish",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "C",
+   "ko": "후—",
+   "rd": "hu—",
+   "en": "Whoo—",
+   "note": "blowing",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "어? 안 꺼져.",
+   "rd": "eo? an kkeojyeo.",
+   "en": "Huh? They won't go out.",
+   "note": "꺼지다 = go out",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "다시! 후—",
+   "rd": "dasi! hu—",
+   "en": "Again! Whoo—",
+   "note": "다시",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "헐, 이거 안 꺼지는 초야!",
+   "rd": "heol, igeo an kkeojineun choya!",
+   "en": "Whoa, these are trick candles!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "누가 샀어!",
+   "rd": "nuga sasseo!",
+   "en": "Who bought these!",
+   "note": "누가",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "…나. 장난이야 ㅋㅋ",
+   "rd": "…na. jangnaniya ㅋㅋ",
+   "en": "…Me. It's a prank lol",
+   "note": "장난 = prank",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "생일 축하해… 초는 영원히.",
+   "rd": "saengil chukahae… choneun yeongwonhi.",
+   "en": "Happy birthday… the candles are forever.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

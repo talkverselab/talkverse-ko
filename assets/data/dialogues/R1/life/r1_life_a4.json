@@ -1,0 +1,114 @@
+{
+ "id": "r1_life_a4",
+ "region": "R1",
+ "island": "life",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "에어컨 리모컨",
+ "emoji": "❄️",
+ "scene": "한여름 셰어하우스. 리모컨이 없어졌다",
+ "speakers": {
+  "A": "{name}",
+  "B": "도윤"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "잠깐만",
+  "진짜?",
+  "아 몰라"
+ ],
+ "goal": "The lost remote",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "도윤아, 리모컨 어디 있어?",
+   "rd": "doyuna, rimokeon eodi isseo?",
+   "en": "Doyun, where's the remote?",
+   "note": "리모컨 = remote",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "소파에? 없어?",
+   "rd": "sopae? eopseo?",
+   "en": "On the sofa? Not there?",
+   "note": "소파",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "없어. 너무 더워.",
+   "rd": "eopseo. neomu deowo.",
+   "en": "No. It's so hot.",
+   "note": "덥다 = hot",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "냉장고 봤어?",
+   "rd": "naengjanggo bwasseo?",
+   "en": "Did you check the fridge?",
+   "note": "냉장고",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "…헐, 진짜 여기 있어. 차가워.",
+   "rd": "…heol, jinjja yeogi isseo. chagawo.",
+   "en": "…Whoa, it's actually here. It's cold.",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "어제 내가 아이스크림이랑 같이 넣었나 봐.",
+   "rd": "eoje naega aiseukeurimirang gachi neoeonna bwa.",
+   "en": "I guess I put it in with the ice cream yesterday.",
+   "note": "-나 봐 = must have",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "근데 아이스크림은 어디 있어?",
+   "rd": "geunde aiseukeurimeun eodi isseo?",
+   "en": "Then where's the ice cream?",
+   "note": "Kick 2",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "…소파에.",
+   "rd": "…sopae.",
+   "en": "…On the sofa.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

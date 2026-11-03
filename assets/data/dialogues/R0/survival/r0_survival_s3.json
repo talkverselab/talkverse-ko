@@ -1,0 +1,115 @@
+{
+ "id": "r0_survival_s3",
+ "region": "R0",
+ "island": "survival",
+ "kind": "survival",
+ "draft": true,
+ "purpose": [
+  "survival"
+ ],
+ "domain": [
+  "survival"
+ ],
+ "title": "화장실 어디예요?",
+ "emoji": "🚻",
+ "scene": "백화점. 화장실을 찾는데 다들 다르게 가리킨다",
+ "speakers": {
+  "A": "{name}",
+  "B": "직원",
+  "C": "손님",
+  "D": "안내원"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "화장실 어디예요?",
+  "저기요",
+  "감사합니다"
+ ],
+ "goal": "Finding the restroom",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "저기요, 화장실 어디예요?",
+   "rd": "jeogiyo, hwajangsil eodiyeyo?",
+   "en": "Excuse me, where's the restroom?",
+   "note": "화장실 = restroom",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "저쪽이요.",
+   "rd": "jeojjogiyo.",
+   "en": "That way.",
+   "note": "저쪽 = that way",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "(저쪽) 저기요, 화장실요?",
+   "rd": "(jeojjok) jeogiyo, hwajangsiryo?",
+   "en": "(that way) Excuse me, the restroom?",
+   "note": "again",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "아, 반대쪽이요.",
+   "rd": "a, bandaejjogiyo.",
+   "en": "Oh, the other side.",
+   "note": "반대쪽 = the other side",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "(반대쪽) …화장실?",
+   "rd": "(bandaejjok) …hwajangsil?",
+   "en": "(other side) …Restroom?",
+   "note": "Kick: chaos — going in circles",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "D",
+   "ko": "2층이에요. 여기는 3층.",
+   "rd": "2cheungieyo. yeogineun 3cheung.",
+   "en": "It's on 2. This is 3.",
+   "note": "층 = floor",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "감사합니다! 빨리요!",
+   "rd": "gamsahamnida! ppalliyo!",
+   "en": "Thank you! Quickly!",
+   "note": "빨리",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "D",
+   "ko": "엘리베이터는… 공사 중이에요.",
+   "rd": "ellibeiteoneun… gongsa jungieyo.",
+   "en": "The elevator is… under construction.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

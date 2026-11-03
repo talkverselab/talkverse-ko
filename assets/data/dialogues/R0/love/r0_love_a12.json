@@ -1,0 +1,117 @@
+{
+ "id": "r0_love_a12",
+ "region": "R0",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "같은 책",
+ "emoji": "📚",
+ "scene": "서점. 같은 책을 동시에 집었다 — 드라마처럼",
+ "speakers": {
+  "A": "{name}",
+  "B": "해솔",
+  "C": "서점 직원"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "같은 책을 동시에 집는 장면",
+ "expressions": [
+  "죄송합니다",
+  "괜찮아요",
+  "헐"
+ ],
+ "goal": "Reaching for the same book",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "어? 죄송합니다.",
+   "rd": "eo? joesonghamnida.",
+   "en": "Oh? I'm sorry.",
+   "note": "죄송합니다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "아니에요. 먼저 가져가세요.",
+   "rd": "anieyo. meonjeo gajyeogaseyo.",
+   "en": "No, please take it first.",
+   "note": "먼저 = first",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "아니에요, 그쪽이요.",
+   "rd": "anieyo, geujjogiyo.",
+   "en": "No, you go ahead.",
+   "note": "그쪽 = you (polite)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "(쾅) 어머! 책이 다 떨어졌어요!",
+   "rd": "(kwang) eomeo! chaegi da tteoreojyeosseoyo!",
+   "en": "(crash) Oh my! All the books fell!",
+   "note": "Kick: the shelf topples — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "헐… 우리 때문에?",
+   "rd": "heol… uri ttaemune?",
+   "en": "Whoa… because of us?",
+   "note": "때문에 = because of",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "같이 주워요.",
+   "rd": "gachi juwoyo.",
+   "en": "Let's pick them up together.",
+   "note": "줍다 = pick up",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "(한 시간 뒤) …다 정리했네요.",
+   "rd": "(han sigan dwi) …da jeongnihaenneyo.",
+   "en": "(an hour later) …We put them all back.",
+   "note": "정리 = tidy",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "그 책은 반씩 읽어요. 같이.",
+   "rd": "geu chaegeun banssik ilgeoyo. gachi.",
+   "en": "Let's read that book half each. Together.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

@@ -1,0 +1,116 @@
+{
+ "id": "r1_love_a12",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "소나기",
+ "emoji": "⛈️",
+ "scene": "버스 정류장. 갑자기 소나기. 하늘이 재킷을 벗어 둘의 머리 위로 든다",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "비 오는 날 재킷 하나 같이 쓰기",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "괜찮아"
+ ],
+ "goal": "Sharing a jacket in the rain",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "헐, 갑자기 비야!",
+   "rd": "heol, gapjagi biya!",
+   "en": "Whoa, it's suddenly raining!",
+   "note": "갑자기",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "이리 와. 빨리.",
+   "rd": "iri wa. ppalli.",
+   "en": "Come here. Quick.",
+   "note": "빨리",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "그 재킷 젖잖아.",
+   "rd": "geu jaekit jeotjana.",
+   "en": "Your jacket will get wet.",
+   "note": "젖다 = get wet",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "괜찮아. 너만 안 젖으면 돼.",
+   "rd": "gwaenchana. neoman an jeojeumyeon dwae.",
+   "en": "It's fine. As long as you don't get wet.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "…너무 가까운데.",
+   "rd": "…neomu gakkaunde.",
+   "en": "…This is really close.",
+   "note": "가깝다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "싫어?",
+   "rd": "sileo?",
+   "en": "Don't like it?",
+   "note": "싫어?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "아니. 비가 더 왔으면 좋겠다.",
+   "rd": "ani. biga deo wasseumyeon joketda.",
+   "en": "No. I wish it would rain harder.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "ㅋㅋ 버스 왔다. …다음 거 타자.",
+   "rd": "ㅋㅋ beoseu watda. …daeum geo taja.",
+   "en": "Lol the bus is here. …Let's take the next one.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

@@ -1,0 +1,133 @@
+{
+ "id": "r1_love_c8",
+ "region": "R1",
+ "island": "love",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "오타",
+ "emoji": "⌨️",
+ "scene": "썸 타는 중. 「잘 자」를 보내려다 오타가 났다",
+ "speakers": {
+  "A": "{name}",
+  "B": "해솔"
+ },
+ "register": "chat",
+ "twist": 3,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "헐",
+  "미안",
+  "진짜?"
+ ],
+ "goal": "A typo that says too much",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "오늘 고마웠어. 잘 자!",
+   "rd": "oneul gomawosseo. jal ja!",
+   "en": "Thanks for today. Good night!",
+   "note": "고맙다",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:20"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "응 너도 잘 자 사랑해",
+   "rd": "eung neodo jal ja saranghae",
+   "en": "Yeah you too, good night, love you",
+   "note": "Kick: autocomplete — chaos",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:21"
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "아니!! 자동완성!!",
+   "rd": "ani!! jadongwanseong!!",
+   "en": "No!! Autocomplete!!",
+   "note": "자동완성 = autocomplete",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:21"
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "ㅋㅋㅋㅋ 헐",
+   "rd": "ㅋㅋㅋㅋ heol",
+   "en": "Lololol whoa",
+   "note": "헐",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:21"
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "폰이 맘대로 썼어 진짜",
+   "rd": "poni mamdaero sseosseo jinjja",
+   "en": "My phone wrote it by itself, really",
+   "note": "맘대로 = on its own",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:22"
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "폰이 자주 쓰나 봐? 그 말",
+   "rd": "poni jaju sseuna bwa? geu mal",
+   "en": "I guess your phone types that word a lot?",
+   "note": "teasing",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:22"
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "…아니 처음이야",
+   "rd": "…ani cheoeumiya",
+   "en": "…No, it's the first time",
+   "note": "처음",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:23"
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "그럼 내일 직접 말해 줘. 폰 말고",
+   "rd": "geureom naeil jikjeop malhae jwo. pon malgo",
+   "en": "Then tell me in person tomorrow. Not your phone",
+   "note": "심쿵 punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "23:23"
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

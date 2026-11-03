@@ -1,0 +1,131 @@
+{
+ "id": "r1_life_c3",
+ "region": "R1",
+ "island": "life",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "택배 대참사",
+ "emoji": "📦",
+ "scene": "도윤이 단톡에 사진을 올린다. 현관 앞이 박스로 가득",
+ "speakers": {
+  "A": "{name}",
+  "B": "도윤",
+  "C": "서아"
+ },
+ "register": "chat",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "ㅋㅋ",
+  "진짜?",
+  "아 몰라"
+ ],
+ "goal": "Shared-house group chat chaos",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "[사진] 이거 누구 택배야?",
+   "rd": "[sajin] igeo nugu taekbaeya?",
+   "en": "[photo] Whose packages are these?",
+   "note": "택배",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "14:00"
+  },
+  {
+   "num": 2,
+   "speaker": "C",
+   "ko": "헐 문이 안 열려 ㅋㅋ",
+   "rd": "heol muni an yeollyeo ㅋㅋ",
+   "en": "Whoa the door won't open lol",
+   "note": "안 열리다 = won't open",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "14:01"
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "…세일이라서.",
+   "rd": "…seiriraseo.",
+   "en": "…There was a sale.",
+   "note": "세일 = sale",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "14:02"
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "몇 개 샀어?",
+   "rd": "myeot gae sasseo?",
+   "en": "How many did you buy?",
+   "note": "몇 개",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "14:02"
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "12개. 아니 15개.",
+   "rd": "12gae. ani 15gae.",
+   "en": "12. No, 15.",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "14:03"
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "지금 하나 더 온대 ㅋㅋㅋ",
+   "rd": "jigeum hana deo ondae ㅋㅋㅋ",
+   "en": "Apparently one more is coming lolol",
+   "note": "하나 더",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "14:03"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "아 몰라 오늘 저녁은 박스 위에서 먹자",
+   "rd": "a molla oneul jeonyeogeun bakseu wieseo meokja",
+   "en": "Ugh, let's eat dinner on the boxes tonight",
+   "note": "callback 이삿날",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "14:04"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "미안… 치킨은 내가 살게.",
+   "rd": "mian… chikineun naega salge.",
+   "en": "Sorry… chicken's on me.",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "14:04"
+  }
+ ]
+}

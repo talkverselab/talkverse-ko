@@ -1,0 +1,113 @@
+{
+ "id": "r1_survival_s6",
+ "region": "R1",
+ "island": "survival",
+ "kind": "survival",
+ "draft": true,
+ "purpose": [
+  "survival"
+ ],
+ "domain": [
+  "survival"
+ ],
+ "title": "약국",
+ "emoji": "💊",
+ "scene": "약국. 감기약을 사러 왔는데 증상을 설명하기 어렵다",
+ "speakers": {
+  "A": "{name}",
+  "B": "약사"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "slip",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "어디가 아파요?",
+  "잘 모르겠어요",
+  "감사합니다"
+ ],
+ "goal": "Describing symptoms at a pharmacy",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "어디가 아프세요?",
+   "rd": "eodiga apeuseyo?",
+   "en": "Where does it hurt?",
+   "note": "아프다 = hurt",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "목이… 칼칼해요?",
+   "rd": "mogi… kalkalhaeyo?",
+   "en": "My throat is… scratchy?",
+   "note": "칼칼하다 = scratchy",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "오, 단어 잘 아시네요. 열도 있어요?",
+   "rd": "o, daneo jal asineyo. yeoldo isseoyo?",
+   "en": "Oh, you know the word. Any fever?",
+   "note": "열 = fever",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "잘 모르겠어요. 머리는 띵해요.",
+   "rd": "jal moreugesseoyo. meorineun ttinghaeyo.",
+   "en": "Not sure. My head is fuzzy.",
+   "note": "띵하다 = groggy",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "기침은요?",
+   "rd": "gichimeunyo?",
+   "en": "Coughing?",
+   "note": "기침 = cough",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "콜록콜록… 이거요.",
+   "rd": "kollokkollok… igeoyo.",
+   "en": "Cough cough… this.",
+   "note": "Kick: demonstrating",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "ㅋㅋ 네, 알겠어요. 하루 세 번 드세요.",
+   "rd": "ㅋㅋ ne, algesseoyo. haru se beon deuseyo.",
+   "en": "Haha, got it. Take it three times a day.",
+   "note": "세 번",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "감사합니다. 「칼칼」 어제 배웠어요.",
+   "rd": "gamsahamnida. 「kalkal」 eoje baewosseoyo.",
+   "en": "Thank you. I learned \"scratchy\" yesterday.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

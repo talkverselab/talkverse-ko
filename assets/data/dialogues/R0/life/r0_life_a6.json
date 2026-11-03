@@ -1,0 +1,115 @@
+{
+ "id": "r0_life_a6",
+ "region": "R0",
+ "island": "life",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "라면 반 개",
+ "emoji": "🍜",
+ "scene": "셰어하우스 부엌. 도윤이 「라면 반 개만」 달라고 한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "도윤",
+  "C": "서아",
+  "D": "민준"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "좋아",
+  "헐"
+ ],
+ "goal": "Sharing ramyeon",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "라면 끓여? 나 반 개만.",
+   "rd": "ramyeon kkeulyeo? na ban gaeman.",
+   "en": "Making ramyeon? Just half for me.",
+   "note": "반 개 = half",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "좋아. 반 개.",
+   "rd": "joa. ban gae.",
+   "en": "Okay. Half.",
+   "note": "좋아",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "나도 반 개!",
+   "rd": "nado ban gae!",
+   "en": "Half for me too!",
+   "note": "another",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "D",
+   "ko": "나도!",
+   "rd": "nado!",
+   "en": "Me too!",
+   "note": "more",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "…반 개씩 넷이면 두 개야.",
+   "rd": "…ban gaessik nesimyeon du gaeya.",
+   "en": "…Half each for four is two.",
+   "note": "math",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "근데 김치도 넣어.",
+   "rd": "geunde gimchido neoeo.",
+   "en": "Put kimchi in too.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "계란도! 치즈도! 떡도!",
+   "rd": "gyerando! chijeudo! tteokdo!",
+   "en": "Egg too! Cheese! Rice cakes!",
+   "note": "Kick: chaos escalates",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "이거 이제 라면 아니고 부대찌개야.",
+   "rd": "igeo ije ramyeon anigo budaejjigaeya.",
+   "en": "This isn't ramyeon anymore, it's army stew.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

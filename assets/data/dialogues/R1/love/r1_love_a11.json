@@ -1,0 +1,114 @@
+{
+ "id": "r1_love_a11",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "비밀번호",
+ "emoji": "🔒",
+ "scene": "유진이 학습자 폰을 들었다. 잠금 비밀번호가 궁금하다",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "헐",
+  "설마"
+ ],
+ "goal": "The phone-password test",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "폰 비밀번호 뭐야?",
+   "rd": "pon bimilbeonho mwoya?",
+   "en": "What's your phone password?",
+   "note": "비밀번호 = password",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "왜? 비밀이야.",
+   "rd": "wae? bimiriya.",
+   "en": "Why? It's a secret.",
+   "note": "비밀",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "설마 숨기는 거 있어?",
+   "rd": "seolma sumgineun geo isseo?",
+   "en": "Don't tell me you're hiding something?",
+   "note": "숨기다 = hide",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "아니야. 그냥 비밀.",
+   "rd": "aniya. geunyang bimil.",
+   "en": "No. It's just secret.",
+   "note": "그냥",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "…0521?",
+   "rd": "…0521?",
+   "en": "…0521?",
+   "note": "her guess",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "헐… 어떻게 알았어?",
+   "rd": "heol… eotteoke arasseo?",
+   "en": "Whoa… how did you know?",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "우리 처음 만난 날이잖아.",
+   "rd": "uri cheoeum mannan narijana.",
+   "en": "That's the day we first met.",
+   "note": "심쿵: he used their day",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…들켰다. 근데 기분 좋아?",
+   "rd": "…deulkyeotda. geunde gibun joa?",
+   "en": "…Busted. But does it make you happy?",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "M"
+}

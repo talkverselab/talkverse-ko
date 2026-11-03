@@ -1,0 +1,115 @@
+{
+ "id": "r0_culture_a4",
+ "region": "R0",
+ "island": "culture",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "한복 사진",
+ "emoji": "👘",
+ "scene": "경복궁 앞. 한복 입고 사진 찍는데 외국인 관광객이 같이 찍자고 한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "관광객",
+  "C": "관광객들",
+  "D": "서아"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "네",
+  "좋아요",
+  "감사합니다"
+ ],
+ "goal": "Hanbok photo time",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "한복 예뻐요! 같이 찍어요!",
+   "rd": "hanbok yeppeoyo! gachi jjigeoyo!",
+   "en": "Your hanbok is pretty! Let's take a photo!",
+   "note": "예쁘다 = pretty",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "저요? 저도 외국인이에요.",
+   "rd": "jeoyo? jeodo oeguginieyo.",
+   "en": "Me? I'm a foreigner too.",
+   "note": "외국인 = foreigner",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "괜찮아요! 하나, 둘, 셋!",
+   "rd": "gwaenchanayo! hana, dul, set!",
+   "en": "That's fine! One, two, three!",
+   "note": "괜찮아요",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "저도요! 저도요!",
+   "rd": "jeodoyo! jeodoyo!",
+   "en": "Me too! Me too!",
+   "note": "Kick: crowd — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "(10분 뒤) …50명이랑 찍었어.",
+   "rd": "(10bun dwi) …50myeongirang jjigeosseo.",
+   "en": "(10 min later) …I took photos with 50 people.",
+   "note": "50명",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "D",
+   "ko": "ㅋㅋ 완전 연예인이네.",
+   "rd": "ㅋㅋ wanjeon yeonyeinine.",
+   "en": "Lol you're totally a celebrity.",
+   "note": "연예인 = celebrity",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "다음엔 사인도 할까?",
+   "rd": "daeumen saindo halkka?",
+   "en": "Should I sign autographs next time?",
+   "note": "사인 = autograph",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "D",
+   "ko": "아니. 한복 반납 시간이야.",
+   "rd": "ani. hanbok bannap siganiya.",
+   "en": "No. It's time to return the hanbok.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

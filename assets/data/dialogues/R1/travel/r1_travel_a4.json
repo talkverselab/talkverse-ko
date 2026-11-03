@@ -1,0 +1,113 @@
+{
+ "id": "r1_travel_a4",
+ "region": "R1",
+ "island": "travel",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "travel"
+ ],
+ "domain": [
+  "travel"
+ ],
+ "title": "부산 사투리",
+ "emoji": "🌊",
+ "scene": "부산 해운대. 아저씨 말이 하나도 안 들린다",
+ "speakers": {
+  "A": "{name}",
+  "B": "부산 아저씨"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "slip",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "네?",
+  "다시 한 번 말해 주세요",
+  "감사합니다"
+ ],
+ "goal": "Busan dialect",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "어데 가노?",
+   "rd": "eode gano?",
+   "en": "Where ya headed?",
+   "note": "Busan dialect: 어디 가니?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네? 다시 한 번 말해 주세요.",
+   "rd": "ne? dasi han beon malhae juseyo.",
+   "en": "Sorry? Please say it again.",
+   "note": "다시 한 번",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "어데 가냐고. 해운대가?",
+   "rd": "eode ganyago. haeundaega?",
+   "en": "I said where ya going. Haeundae?",
+   "note": "repeat",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "아! 네, 해운대요.",
+   "rd": "a! ne, haeundaeyo.",
+   "en": "Oh! Yes, Haeundae.",
+   "note": "understood",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "마, 쭉 가면 된다.",
+   "rd": "ma, jjuk gamyeon doenda.",
+   "en": "Hey, just go straight.",
+   "note": "마 = hey (Busan)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "「마」가 뭐예요?",
+   "rd": "「ma」ga mwoyeyo?",
+   "en": "What's \"ma\"?",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "「야」 같은 기다. 친하단 뜻이다.",
+   "rd": "「ya」 gateun gida. chinhadan tteusida.",
+   "en": "It's like \"hey\". Means we're close.",
+   "note": "친하다 = be close",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "그럼… 마, 감사합니다!",
+   "rd": "geureom… ma, gamsahamnida!",
+   "en": "Then… ma, thank you!",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

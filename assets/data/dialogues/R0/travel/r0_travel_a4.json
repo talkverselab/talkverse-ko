@@ -1,0 +1,115 @@
+{
+ "id": "r0_travel_a4",
+ "region": "R0",
+ "island": "travel",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "travel"
+ ],
+ "domain": [
+  "travel"
+ ],
+ "title": "사진 찍어 주세요",
+ "emoji": "📸",
+ "scene": "남산타워. 커플이 사진을 부탁한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "관광객 1",
+  "C": "관광객 2",
+  "D": "관광객 3"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "네",
+  "하나 둘 셋",
+  "감사합니다"
+ ],
+ "goal": "Taking a photo for strangers",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "사진 좀 찍어 주세요.",
+   "rd": "sajin jom jjigeo juseyo.",
+   "en": "Could you take our picture?",
+   "note": "찍어 주세요 = please take",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네! 하나, 둘, 셋!",
+   "rd": "ne! hana, dul, set!",
+   "en": "Sure! One, two, three!",
+   "note": "하나 둘 셋",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "감사합니다! 한 장 더요.",
+   "rd": "gamsahamnida! han jang deoyo.",
+   "en": "Thanks! One more.",
+   "note": "한 장 더",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "저희도 부탁해요!",
+   "rd": "jeohuido butakaeyo!",
+   "en": "Us too, please!",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "D",
+   "ko": "저희도요!",
+   "rd": "jeohuidoyo!",
+   "en": "Us too!",
+   "note": "more people",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…줄 서세요. 한 명씩.",
+   "rd": "…jul seoseyo. han myeongssik.",
+   "en": "…Please line up. One at a time.",
+   "note": "Kick: chaos — a line forms",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "(30분 뒤) 사진사세요?",
+   "rd": "(30bun dwi) sajinsaseyo?",
+   "en": "(30 min later) Are you a photographer?",
+   "note": "사진사 = photographer",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "아니요. 관광객이에요.",
+   "rd": "aniyo. gwangwanggaegieyo.",
+   "en": "No. I'm a tourist.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

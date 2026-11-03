@@ -1,0 +1,114 @@
+{
+ "id": "r0_work_a3",
+ "region": "R0",
+ "island": "work",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "work"
+ ],
+ "domain": [
+  "work"
+ ],
+ "title": "점심 메뉴",
+ "emoji": "🍱",
+ "scene": "점심시간. 팀장님이 「아무 데나 가자」",
+ "speakers": {
+  "A": "{name}",
+  "B": "지호 선배",
+  "C": "팀장님"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "slip",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "좋아요",
+  "네",
+  "진짜요?"
+ ],
+ "goal": "Lunch with the team",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "C",
+   "ko": "점심 뭐 먹을래요?",
+   "rd": "jeomsim mwo meogeullaeyo?",
+   "en": "What do you want for lunch?",
+   "note": "점심 = lunch",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "저는 아무거나 좋아요.",
+   "rd": "jeoneun amugeona joayo.",
+   "en": "Anything is fine for me.",
+   "note": "아무거나",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "그럼 김치찌개?",
+   "rd": "geureom gimchijjigae?",
+   "en": "Then kimchi stew?",
+   "note": "김치찌개",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "좋아요!",
+   "rd": "joayo!",
+   "en": "Sounds good!",
+   "note": "좋아요",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "(속삭이며) 팀장님은 매일 김치찌개야.",
+   "rd": "(soksagimyeo) timjangnimeun maeil gimchijjigaeya.",
+   "en": "(whisper) The boss has kimchi stew every day.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "매일요? 진짜요?",
+   "rd": "maeiryo? jinjjayo?",
+   "en": "Every day? Really?",
+   "note": "매일",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "3년째.",
+   "rd": "3nyeonjjae.",
+   "en": "For three years.",
+   "note": "Kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…저 내일은 짜장면 말할게요.",
+   "rd": "…jeo naeireun jjajangmyeon malhalgeyo.",
+   "en": "…Tomorrow I'll suggest black-bean noodles.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

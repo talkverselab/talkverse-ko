@@ -1,0 +1,115 @@
+{
+ "id": "r1_study_a4",
+ "region": "R1",
+ "island": "study",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "study"
+ ],
+ "domain": [
+  "study"
+ ],
+ "title": "발표 대본",
+ "emoji": "🎤",
+ "scene": "대학 발표 1분 전. 대본이 바람에 날아갔다",
+ "speakers": {
+  "A": "{name}",
+  "B": "교수님",
+  "C": "서아",
+  "D": "민준"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "잠깐만요",
+  "죄송합니다",
+  "헐"
+ ],
+ "goal": "Presenting without notes",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "{name} 씨, 시작하세요.",
+   "rd": "{name} ssi, sijakaseyo.",
+   "en": "{name}, please begin.",
+   "note": "시작",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네! 안녕하세요, 오늘 발표는…",
+   "rd": "ne! annyeonghaseyo, oneul balpyoneun…",
+   "en": "Yes! Hello, today's presentation is…",
+   "note": "start",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "(바람) 잠깐만요! 대본이!",
+   "rd": "(baram) jamkkanmanyo! daeboni!",
+   "en": "(wind) Wait! My notes!",
+   "note": "대본 = script",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "헐, 창문 열려 있었어!",
+   "rd": "heol, changmun yeollyeo isseosseo!",
+   "en": "Whoa, the window was open!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "D",
+   "ko": "종이가 복도까지 날아갔어요!",
+   "rd": "jongiga bokdokkaji naragasseoyo!",
+   "en": "The pages flew into the hallway!",
+   "note": "복도",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "…그냥 생각나는 대로 해 보세요.",
+   "rd": "…geunyang saenggangnaneun daero hae boseyo.",
+   "en": "…Just say what comes to mind.",
+   "note": "생각나다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "음… 제 발표는 바람처럼 지나갔습니다.",
+   "rd": "eum… je balpyoneun baramcheoreom jinagatseumnida.",
+   "en": "Um… my presentation has gone with the wind.",
+   "note": "joke",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "ㅋㅋ A+ 줄게요.",
+   "rd": "ㅋㅋ A+ julgeyo.",
+   "en": "Haha, I'll give you an A+.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

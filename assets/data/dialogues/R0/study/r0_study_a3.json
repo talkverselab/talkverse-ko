@@ -1,0 +1,115 @@
+{
+ "id": "r0_study_a3",
+ "region": "R0",
+ "island": "study",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "study"
+ ],
+ "domain": [
+  "study"
+ ],
+ "title": "숙제 했어요?",
+ "emoji": "📒",
+ "scene": "어학당. 선생님이 숙제를 걷는다",
+ "speakers": {
+  "A": "{name}",
+  "B": "선생님",
+  "C": "마리아",
+  "D": "다른 학생"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "네",
+  "죄송합니다",
+  "진짜요?"
+ ],
+ "goal": "Homework excuses",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "숙제 주세요.",
+   "rd": "sukje juseyo.",
+   "en": "Hand in your homework.",
+   "note": "숙제 = homework",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "어… 집에 있어요.",
+   "rd": "eo… jibe isseoyo.",
+   "en": "Uh… it's at home.",
+   "note": "집 = home",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "진짜요?",
+   "rd": "jinjjayo?",
+   "en": "Really?",
+   "note": "진짜요?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "네. 고양이가 먹었어요.",
+   "rd": "ne. goyangiga meogeosseoyo.",
+   "en": "Yes. My cat ate it.",
+   "note": "Kick: classic excuse",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "저도요! 강아지가요!",
+   "rd": "jeodoyo! gangajigayo!",
+   "en": "Me too! My dog did!",
+   "note": "chaos: everyone",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "D",
+   "ko": "저는 동생이요!",
+   "rd": "jeoneun dongsaengiyo!",
+   "en": "Mine was my little brother!",
+   "note": "more",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "…다들 동물원이에요?",
+   "rd": "…dadeul dongmurwonieyo?",
+   "en": "…Do you all live in a zoo?",
+   "note": "zoo joke",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "죄송합니다. 내일 낼게요.",
+   "rd": "joesonghamnida. naeil naelgeyo.",
+   "en": "Sorry. I'll hand it in tomorrow.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

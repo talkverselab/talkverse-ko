@@ -1,0 +1,113 @@
+{
+ "id": "r0_life_a5",
+ "region": "R0",
+ "island": "life",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "층간 택배",
+ "emoji": "📦",
+ "scene": "택배가 우리 집이 아니라 윗집에 갔다",
+ "speakers": {
+  "A": "{name}",
+  "B": "윗집 사람"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "저기요",
+  "죄송합니다",
+  "감사합니다"
+ ],
+ "goal": "Knocking on a neighbor's door",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "저기요, 택배 왔어요?",
+   "rd": "jeogiyo, taekbae wasseoyo?",
+   "en": "Excuse me, did a package come?",
+   "note": "택배 = delivery",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "아, 이거요? 우리 거 아니에요.",
+   "rd": "a, igeoyo? uri geo anieyo.",
+   "en": "Oh, this? It's not ours.",
+   "note": "우리 거 = ours",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "제 거예요. 감사합니다.",
+   "rd": "je geoyeyo. gamsahamnida.",
+   "en": "It's mine. Thank you.",
+   "note": "제 거 = mine",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "근데 이것도요. 이것도.",
+   "rd": "geunde igeotdoyo. igeotdo.",
+   "en": "But this one too. And this one.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "…세 개요? 다 제 거예요?",
+   "rd": "…se gaeyo? da je geoyeyo?",
+   "en": "…Three? Are they all mine?",
+   "note": "세 개",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "다섯 개예요. 한 달 동안.",
+   "rd": "daseot gaeyeyo. han dal dongan.",
+   "en": "Five. Over a month.",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "죄송합니다! 제가 주소를…",
+   "rd": "joesonghamnida! jega jusoreul…",
+   "en": "I'm sorry! My address…",
+   "note": "주소 = address",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "괜찮아요. 대신 하나 나눠 줘요.",
+   "rd": "gwaenchanayo. daesin hana nanwo jwoyo.",
+   "en": "It's fine. Just share one with me.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

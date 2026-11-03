@@ -1,0 +1,116 @@
+{
+ "id": "r1_culture_a4",
+ "region": "R1",
+ "island": "culture",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "팬미팅 줄",
+ "emoji": "🎟️",
+ "scene": "태오 첫 팬미팅. 서아와 줄을 서는데 줄이 끝이 없다",
+ "speakers": {
+  "A": "{name}",
+  "B": "태오",
+  "C": "서아"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "대박",
+  "진짜?",
+  "잠깐만"
+ ],
+ "goal": "Waiting in a fan line",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "C",
+   "ko": "몇 시부터 줄 섰어?",
+   "rd": "myeot sibuteo jul seosseo?",
+   "en": "What time did you start lining up?",
+   "note": "줄 서다 = line up",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "새벽 5시. 근데 벌써 500명이야.",
+   "rd": "saebyeok 5si. geunde beolsseo 500myeongiya.",
+   "en": "5 a.m. But there were already 500 people.",
+   "note": "새벽",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "헐, 대박.",
+   "rd": "heol, daebak.",
+   "en": "Whoa, insane.",
+   "note": "대박",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "(오후) …1000명 넘었어.",
+   "rd": "(ohu) …1000myeong neomeosseo.",
+   "en": "(afternoon) …Over 1000 now.",
+   "note": "more",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "(지나가며) 어? 거기서 뭐 해?",
+   "rd": "(jinagamyeo) eo? geogiseo mwo hae?",
+   "en": "(walking by) Huh? What are you doing there?",
+   "note": "Kick: Taeo himself",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "헐… 태오?! 줄 서는 중이야.",
+   "rd": "heol… taeo?! jul seoneun jungiya.",
+   "en": "Whoa… Taeo?! I'm waiting in line.",
+   "note": "Kick: chaos — the crowd turns",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "(모두 비명) 태오다!!!",
+   "rd": "(modu bimyeong) taeoda!!!",
+   "en": "(everyone screams) It's Taeo!!!",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "…나 먼저 들어갈게. 이따 봐.",
+   "rd": "…na meonjeo deureogalge. itta bwa.",
+   "en": "…I'll go in first. See you later.",
+   "note": "punchline 심쿵",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "F"
+}
