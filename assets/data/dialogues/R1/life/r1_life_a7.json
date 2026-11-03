@@ -39,7 +39,8 @@
    "en": "(announcement) Unit 1203, could you move your car a bit? It's blocked right now.",
    "note": "방송",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a7/cut1"
   },
   {
    "num": 2,
@@ -59,7 +60,8 @@
    "en": "Yeah. We don't have one. Didn't they call the wrong unit?",
    "note": "없다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a7/cut2"
   },
   {
    "num": 4,
@@ -79,7 +81,8 @@
    "en": "(announcement) 1203! Hurry! Three cars are backed up behind!",
    "note": "재촉",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a7/cut3"
   },
   {
    "num": 6,
@@ -99,7 +102,8 @@
    "en": "Oh, it was 1302. Sorry!",
    "note": "Kick: wrong unit",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a7/cut4"
   },
   {
    "num": 8,

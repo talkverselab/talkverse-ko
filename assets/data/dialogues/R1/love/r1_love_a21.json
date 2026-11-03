@@ -38,7 +38,8 @@
    "en": "Hey, wait! {name}, don't go that way.",
    "note": "가지 마",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a21/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "No. There's actual dog poop ahead. Don't step on it.",
    "note": "Kick: reality",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a21/cut2"
   },
   {
    "num": 4,
@@ -98,7 +100,8 @@
    "en": "(pressing against the wall) Uh… what, why's there so much…",
    "note": "chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a21/cut4"
   },
   {
    "num": 8,

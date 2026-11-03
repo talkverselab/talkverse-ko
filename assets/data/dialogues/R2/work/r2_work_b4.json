@@ -38,7 +38,8 @@
    "en": "{name}, I'm quitting after this month.",
    "note": "그만두다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b4/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "…It’s kinda hard to say.",
    "note": "비밀",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b4/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Haha, no. Not that at all.",
    "note": "아니",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b4/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "A little bit. But the real reason is…",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b4/cut4"
   },
   {
    "num": 8,
@@ -118,7 +122,8 @@
    "en": "I’m opening a café. Right in front of the office, so the boss comes every day.",
    "note": "reveal",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b4/cut5"
   },
   {
    "num": 10,
@@ -138,7 +143,8 @@
    "en": "Yeah, right in front of the office. Come every day.",
    "note": "punchline setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b4/cut6"
   },
   {
    "num": 12,

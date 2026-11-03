@@ -38,7 +38,8 @@
    "en": "Hey {name}, housewarming gift! Brought a ton of toilet paper~",
    "note": "휴지",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a6/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "Thanks! But why did both of you just bring toilet paper and detergent?",
    "note": "왜",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a6/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Really? Is there a meaning behind it?",
    "note": "뜻",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a6/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "Whoa, that’s crazy. Then I’m actually gonna get rich",
    "note": "부자",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a6/cut4"
   },
   {
    "num": 8,

@@ -38,7 +38,8 @@
    "en": "Excuse me, I came to open a bank account.",
    "note": "통장",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s9/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "Got 287… up to what number have you called?",
    "note": "몇 번",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s9/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Yeah… thanks. Wait a sec, I'll grab lunch and come back.",
    "note": "점심",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s9/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "Wait! It's me! I just got here!",
    "note": "저요",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s9/cut4"
   },
   {
    "num": 8,

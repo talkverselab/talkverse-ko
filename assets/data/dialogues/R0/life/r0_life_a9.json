@@ -38,7 +38,8 @@
    "en": "I left all the boxes by the door!",
    "note": "택배",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a9/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "Sign here real quick, please.",
    "note": "사인",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a9/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Yeah. All of them are {name}’s.",
    "note": "이름",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a9/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "(on the phone) Son, Mom sent them and Auntie did too!",
    "note": "Kick: mom",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a9/cut4"
   },
   {
    "num": 8,

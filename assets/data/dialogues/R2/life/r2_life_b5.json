@@ -39,7 +39,8 @@
    "en": "Whoa everything just went out, what the hell",
    "note": "불",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b5/cut1"
   },
   {
    "num": 2,
@@ -59,7 +60,8 @@
    "en": "Where'd we put the candles, check the drawer",
    "note": "촛불",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b5/cut2"
   },
   {
    "num": 4,
@@ -79,7 +81,8 @@
    "en": "Hey I checked the fridge and the ice cream's already melting!",
    "note": "아이스크림",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b5/cut3"
   },
   {
    "num": 6,
@@ -99,7 +102,8 @@
    "en": "Ugh it's melting all over my hands, gimme some tissue",
    "note": "scene",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b5/cut4"
   },
   {
    "num": 8,
@@ -119,7 +123,8 @@
    "en": "(bang!) Aaaah! What the hell just fell, heart almost jumped out!",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b5/cut5"
   },
   {
    "num": 10,
@@ -139,7 +144,8 @@
    "en": "Oh lights are back! ...but why's the door open and water coming in",
    "note": "reveal",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b5/cut6"
   },
   {
    "num": 12,

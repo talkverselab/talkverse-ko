@@ -38,7 +38,8 @@
    "en": "Whoa! It's a cockroach!",
    "note": "벌레 = bug",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a8/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "Under the fridge!",
    "note": "밑",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a8/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Aaaah!! It's flying around!!",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a8/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "(outside) Neighbors came too, who?",
    "note": "누가",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a8/cut4"
   },
   {
    "num": 8,

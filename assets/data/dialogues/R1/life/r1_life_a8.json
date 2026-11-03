@@ -39,7 +39,8 @@
    "en": "Excuse me, I moved in today—can I get the WiFi password?",
    "note": "비밀번호",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a8/cut1"
   },
   {
    "num": 2,
@@ -59,7 +60,8 @@
    "en": "Huh? Oh, sorry. Thank you.",
    "note": "감사",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a8/cut2"
   },
   {
    "num": 4,
@@ -79,7 +81,8 @@
    "en": "Ours too! We're across the way and even our guests are using it.",
    "note": "chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a8/cut3"
   },
   {
    "num": 6,
@@ -99,7 +102,8 @@
    "en": "Oh really? Who is it?",
    "note": "누가",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a8/cut4"
   },
   {
    "num": 8,

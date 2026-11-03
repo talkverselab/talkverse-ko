@@ -40,7 +40,8 @@
    "en": "Who's going first? Everyone's just glancing around.",
    "note": "첫 곡",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b5/cut1"
   },
   {
    "num": 2,
@@ -60,7 +61,8 @@
    "en": "Why isn't anyone singing? This is so awkward.",
    "note": "아무도",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b5/cut2"
   },
   {
    "num": 4,
@@ -80,7 +82,8 @@
    "en": "{name}, you do it! A foreigner's first song would be so fun.",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b5/cut3"
   },
   {
    "num": 6,
@@ -100,7 +103,8 @@
    "en": "Then do that! It's gonna be hilarious.",
    "note": "그거",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b5/cut4"
   },
   {
    "num": 8,
@@ -120,7 +124,8 @@
    "en": "(suddenly standing up) Hey wait! It's my birthday today?! Why isn't anyone saying anything!",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b5/cut5"
   },
   {
    "num": 10,
@@ -140,7 +145,8 @@
    "en": "Suddenly people are pouring in. The karaoke totally became a birthday party.",
    "note": "파티",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b5/cut6"
   },
   {
    "num": 12,

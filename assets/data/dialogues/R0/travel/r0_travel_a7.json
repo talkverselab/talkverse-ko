@@ -38,7 +38,8 @@
    "en": "Excuse me, does this go to Gangnam?",
    "note": "가요?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a7/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "What? Wait a second!",
    "note": "잠깐만요",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a7/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Huh? Opposite again?",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a7/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "Really? Thank you!",
    "note": "감사합니다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a7/cut4"
   },
   {
    "num": 8,

@@ -37,7 +37,8 @@
    "en": "Welcome. It's this time again today.",
    "note": "어서 오세요",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a16/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "Banana milk, got it. Thank you. Really? You come every day?",
    "note": "매일",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a16/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "…I wanna see it every day too. No—I like banana milk.",
    "note": "ambiguous",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a16/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "…The banana milk.",
    "note": "flustered",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a16/cut4"
   },
   {
    "num": 8,

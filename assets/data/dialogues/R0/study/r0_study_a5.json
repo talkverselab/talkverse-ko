@@ -39,7 +39,8 @@
    "en": "Oh sorry! I'm way too late.",
    "note": "늦다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_study_a5/cut1"
   },
   {
    "num": 2,
@@ -59,7 +60,8 @@
    "en": "The bus just went the opposite way.",
    "note": "callback 버스 반대",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_study_a5/cut2"
   },
   {
    "num": 4,
@@ -79,7 +81,8 @@
    "en": "Yeah! I just got here too!",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_study_a5/cut3"
   },
   {
    "num": 6,
@@ -99,7 +102,8 @@
    "en": "Yes, I took the wrong-way bus.",
    "note": "punchline 1",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_study_a5/cut4"
   },
   {
    "num": 8,

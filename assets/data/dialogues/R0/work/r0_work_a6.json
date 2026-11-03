@@ -37,7 +37,8 @@
    "en": "First paycheck today? Congrats!",
    "note": "월급",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_work_a6/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "That's sweet. None for me?",
    "note": "착하다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_work_a6/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "Just kidding. Let's grab dinner.",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_work_a6/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "No. Today's on me...",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_work_a6/cut4"
   },
   {
    "num": 8,

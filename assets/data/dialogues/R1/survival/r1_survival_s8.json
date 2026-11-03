@@ -38,7 +38,8 @@
    "en": "You're a first-timer, right? Mind showing me your ID and insurance card?",
    "note": "신분증",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s8/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "Write your address, phone, where it hurts, allergies and meds on the form.",
    "note": "Kick: too many questions",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s8/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Okay, one at a time. Where does it hurt most? Phone, hang on!",
    "note": "하나씩",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s8/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "(from the side) My stomach hurts too! Had tteokbokki too. Three more behind!",
    "note": "chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s8/cut4"
   },
   {
    "num": 8,

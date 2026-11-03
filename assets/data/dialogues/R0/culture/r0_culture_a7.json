@@ -38,7 +38,8 @@
    "en": "(on phone) Where are you now?",
    "note": "어디",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_culture_a7/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "There are so many trees.",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_culture_a7/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Blue ones are everywhere.",
    "note": "chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_culture_a7/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "(with friends all together) Over here!!",
    "note": "Kick",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_culture_a7/cut4"
   },
   {
    "num": 8,

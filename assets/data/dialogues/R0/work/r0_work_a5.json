@@ -38,7 +38,8 @@
    "en": "Huh? I booked this though.",
    "note": "예약",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_work_a5/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "(flinging the door open) Us too!",
    "note": "Kick: triple booking — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_work_a5/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Ours is 3.",
    "note": "3시",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_work_a5/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "…Shall we all just do it together?",
    "note": "같이",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_work_a5/cut4"
   },
   {
    "num": 8,

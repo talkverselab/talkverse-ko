@@ -41,7 +41,8 @@
    "en": "{name}, you're all set, right? Let's just get started.",
    "note": "시작",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_work_b2/cut1"
   },
   {
    "num": 2,
@@ -61,7 +62,8 @@
    "en": "Huh? The screen just went black. Just a second…",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_work_b2/cut2"
   },
   {
    "num": 4,
@@ -81,7 +83,8 @@
    "en": "I'm sorry… (feedback squeal—) Ah, how do I turn this off?",
    "note": "Kick: mic — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_work_b2/cut3"
   },
   {
    "num": 6,
@@ -101,7 +104,8 @@
    "en": "(door opens) Oh, you're in the middle of presenting? I'm the CEO. I'll listen for a bit too.",
    "note": "Kick: CEO — chaos peak",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_work_b2/cut4"
   },
   {
    "num": 8,
@@ -121,7 +125,8 @@
    "en": "What I want to say is one thing. Let's keep meetings to really just five minutes.",
    "note": "callback 5분",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_work_b2/cut5"
   },
   {
    "num": 10,
@@ -141,7 +146,8 @@
    "en": "(smiling) Nice. This presentation just now was almost five minutes too, right?",
    "note": "reveal",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_work_b2/cut6"
   },
   {
    "num": 12,
@@ -161,7 +167,8 @@
    "en": "Let's do that starting next week. Team leader, you can keep having your kimchi stew.",
    "note": "callback",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_work_b2/cut7"
   },
   {
    "num": 14,

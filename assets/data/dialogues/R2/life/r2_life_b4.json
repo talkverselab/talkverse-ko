@@ -39,7 +39,8 @@
    "en": "(ding-dong) Oh, hi~ I'm {name} from downstairs...",
    "note": "아랫집",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b4/cut1"
   },
   {
    "num": 2,
@@ -59,7 +60,8 @@
    "en": "Yeah... it keeps barking at night and it's kinda rough.",
    "note": "짖다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b4/cut2"
   },
   {
    "num": 4,
@@ -79,7 +81,8 @@
    "en": "(woof!)",
    "note": "강아지",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b4/cut3"
   },
   {
    "num": 6,
@@ -99,7 +102,8 @@
    "en": "By any chance... could you hang out with him sometimes when I'm out? Oh, the dog.",
    "note": "부탁",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b4/cut4"
   },
   {
    "num": 8,
@@ -119,7 +123,8 @@
    "en": "Yeah, just come up if you hear him. I'll give you the code.",
    "note": "비밀번호",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b4/cut5"
   },
   {
    "num": 10,
@@ -139,7 +144,8 @@
    "en": "(woof woof!)",
    "note": "강아지",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b4/cut6"
   },
   {
    "num": 12,

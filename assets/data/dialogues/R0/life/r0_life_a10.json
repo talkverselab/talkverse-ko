@@ -38,7 +38,8 @@
    "en": "Mom sent a ton of banchan.",
    "note": "반찬",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a10/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "Like twenty containers.",
    "note": "Kick",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a10/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Where'd my milk go?",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a10/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "Let's do a banchan party tonight!",
    "note": "파티",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a10/cut4"
   },
   {
    "num": 8,

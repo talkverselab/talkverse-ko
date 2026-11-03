@@ -38,7 +38,8 @@
    "en": "Hey, let's start dieting from today.",
    "note": "다이어트",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a10/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "(11pm) …Hungry. For real?",
    "note": "배고프다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a10/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "(ding-dong) Whoa, who ordered?",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a10/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "How long did the diet even last?",
    "note": "몇 시간",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a10/cut4"
   },
   {
    "num": 8,

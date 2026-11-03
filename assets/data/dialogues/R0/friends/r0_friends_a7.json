@@ -38,7 +38,8 @@
    "en": "Hey hi, what's your MBTI?",
    "note": "MBTI",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a7/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "lol I know. So?",
    "note": "MBTI",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a7/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Whoa crazy… do it now.",
    "note": "지금",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a7/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "Really? You’re totally E though.",
    "note": "reveal",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a7/cut4"
   },
   {
    "num": 8,

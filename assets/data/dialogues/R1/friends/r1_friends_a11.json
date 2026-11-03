@@ -38,7 +38,8 @@
    "en": "Yo {name}! Try catching this! (whoosh)",
    "note": "던지다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a11/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "(thud) Ouch… Who was that just now?",
    "note": "Kick: the professor",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a11/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "I’m sorry! Minjun threw it…",
    "note": "죄송",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a11/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "Wait a sec, Professor! You’re actually gonna?!",
    "note": "잠깐만",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a11/cut4"
   },
   {
    "num": 8,

@@ -37,7 +37,8 @@
    "en": "I'll just take one fishcake.",
    "note": "어묵",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_travel_a6/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "Thank you. It's delicious!",
    "note": "맛있다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_travel_a6/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "Really? For free?",
    "note": "공짜",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_travel_a6/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "I... this is the third cup.",
    "note": "Kick",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_travel_a6/cut4"
   },
   {
    "num": 8,

@@ -37,7 +37,8 @@
    "en": "Excuse me… Myeongdong Station?",
    "note": "어디",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a6/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "Say it in Korean, please!",
    "note": "한국어로",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a6/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "Thanks, so the station?",
    "note": "역",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a6/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "Ah… same as the English.",
    "note": "Kick",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a6/cut4"
   },
   {
    "num": 8,

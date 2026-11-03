@@ -39,7 +39,8 @@
    "en": "How much is this one?",
    "note": "얼마예요?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s6/cut1"
   },
   {
    "num": 2,
@@ -59,7 +60,8 @@
    "en": "Ah, slowly please…",
    "note": "천천히",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s6/cut2"
   },
   {
    "num": 4,
@@ -79,7 +81,8 @@
    "en": "Thanks, twelve thousand five hundred won?",
    "note": "Kick: he got it",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s6/cut3"
   },
   {
    "num": 6,
@@ -99,7 +102,8 @@
    "en": "Me too, I speak Korean well! Discount please!",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s6/cut4"
   },
   {
    "num": 8,

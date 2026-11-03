@@ -42,7 +42,8 @@
    "en": "From Seoul to Busan on this route, five hours should do it. It's dawn so it'll be fine.",
    "note": "다섯 시간",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_culture_b3/cut1"
   },
   {
    "num": 2,
@@ -62,7 +63,8 @@
    "en": "(two hours later) Dude, we're still in Seoul. What is this even.",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_culture_b3/cut2"
   },
   {
    "num": 4,
@@ -82,7 +84,8 @@
    "en": "Whoa the rest stop is a parking lot. The cars aren't moving at all.",
    "note": "주차장",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_culture_b3/cut3"
   },
   {
    "num": 6,
@@ -102,7 +105,8 @@
    "en": "Bathroom! I'm dying! Right now!",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_culture_b3/cut4"
   },
   {
    "num": 8,
@@ -122,7 +126,8 @@
    "en": "They say the next one's still two hours away. What do we do.",
    "note": "chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_culture_b3/cut5"
   },
   {
    "num": 10,
@@ -142,7 +147,8 @@
    "en": "Finally we're here! Grandma!",
    "note": "도착",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_culture_b3/cut6"
   },
   {
    "num": 12,
@@ -162,7 +168,8 @@
    "en": "Even though it took 10 hours, it was worth it. Seeing Grandma.",
    "note": "감동",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_culture_b3/cut7"
   },
   {
    "num": 14,

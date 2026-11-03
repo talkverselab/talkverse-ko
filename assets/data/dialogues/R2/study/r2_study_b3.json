@@ -40,7 +40,8 @@
    "en": "Hey, this time I'll be the leader. I'll actually own it.",
    "note": "리더",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_study_b3/cut1"
   },
   {
    "num": 2,
@@ -60,7 +61,8 @@
    "en": "Ah whatever, I was kinda busy then. This time I even made a schedule.",
    "note": "반성",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_study_b3/cut2"
   },
   {
    "num": 4,
@@ -80,7 +82,8 @@
    "en": "Yeah, I colored it all. Pretty good, right?",
    "note": "색깔",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_study_b3/cut3"
   },
   {
    "num": 6,
@@ -100,7 +103,8 @@
    "en": "What? Did I put yesterday?",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_study_b3/cut4"
   },
   {
    "num": 8,
@@ -120,7 +124,8 @@
    "en": "Then let's do it all tonight! Chicken and pizza on me. Should we call the others?",
    "note": "치킨",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_study_b3/cut5"
   },
   {
    "num": 10,
@@ -140,7 +145,8 @@
    "en": "But this time there's a leader. Though it feels like it's getting bigger because of the leader.",
    "note": "있다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_study_b3/cut6"
   },
   {
    "num": 12,

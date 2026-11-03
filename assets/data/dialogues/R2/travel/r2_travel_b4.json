@@ -38,7 +38,8 @@
    "en": "I really have to go in now. Any longer and I might actually cry.",
    "note": "들어가다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b4/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "Don’t cry. It’s okay. I’m holding it in too.",
    "note": "울다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b4/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "It’s a year. It’ll fly by. You take care too.",
    "note": "금방",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b4/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "Let’s video call every day. I’ll adjust even with the time difference.",
    "note": "시차",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b4/cut4"
   },
   {
    "num": 8,
@@ -118,7 +122,8 @@
    "en": "…This. Open it on the plane. I’m… gonna miss you.",
    "note": "심쿵 setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b4/cut5"
   },
   {
    "num": 10,
@@ -138,7 +143,8 @@
    "en": "Lol it’s the same letter. Really? This is more dramatic than a drama.",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_travel_b4/cut6"
   },
   {
    "num": 12,

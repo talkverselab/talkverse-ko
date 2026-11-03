@@ -38,7 +38,8 @@
    "en": "Passport, photo, application, and enrollment certificate—all ready?",
    "note": "서류",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_survival_b1/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "The photo background isn’t white. You’ll need to retake it.",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_survival_b1/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "(An hour later) Ah, this time the address proof is missing.",
    "note": "chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_survival_b1/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "Yes, like a lease agreement.",
    "note": "계약서",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_survival_b1/cut4"
   },
   {
    "num": 8,
@@ -118,7 +122,8 @@
    "en": "…Today’s cutoff is 5 and it’s past 5 now. The photo’s still off and the line behind is getting longer.",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_survival_b1/cut5"
   },
   {
    "num": 10,
@@ -138,7 +143,8 @@
    "en": "No. I’ll handle it as the last one today. Team leader, please take a look here!",
    "note": "kindness",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_survival_b1/cut6"
   },
   {
    "num": 12,

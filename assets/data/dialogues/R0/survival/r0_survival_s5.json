@@ -37,7 +37,8 @@
    "en": "Eating here?",
    "note": "드시고 가세요?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s5/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "To go? Or here?",
    "note": "포장 = takeout",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s5/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "Taking it with you.",
    "note": "가져가다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s5/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "Okay, one gimbap to go.",
    "note": "김밥",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s5/cut4"
   },
   {
    "num": 8,

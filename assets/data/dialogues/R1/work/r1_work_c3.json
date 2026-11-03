@@ -40,7 +40,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "14:00"
+   "at": "14:00",
+   "art": "scene/ko/r1_work_c3/cut1"
   },
   {
    "num": 2,
@@ -64,7 +65,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "14:01"
+   "at": "14:01",
+   "art": "scene/ko/r1_work_c3/cut2"
   },
   {
    "num": 4,
@@ -88,7 +90,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "14:02"
+   "at": "14:02",
+   "art": "scene/ko/r1_work_c3/cut3"
   },
   {
    "num": 6,
@@ -112,7 +115,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "14:03"
+   "at": "14:03",
+   "art": "scene/ko/r1_work_c3/cut4"
   },
   {
    "num": 8,

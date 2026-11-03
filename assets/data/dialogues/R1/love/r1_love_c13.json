@@ -39,7 +39,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:00"
+   "at": "17:00",
+   "art": "scene/ko/r1_love_c13/cut1"
   },
   {
    "num": 2,
@@ -63,7 +64,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:01"
+   "at": "17:01",
+   "art": "scene/ko/r1_love_c13/cut2"
   },
   {
    "num": 4,
@@ -87,7 +89,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:02"
+   "at": "17:02",
+   "art": "scene/ko/r1_love_c13/cut3"
   },
   {
    "num": 6,
@@ -111,7 +114,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:03"
+   "at": "17:03",
+   "art": "scene/ko/r1_love_c13/cut4"
   },
   {
    "num": 8,

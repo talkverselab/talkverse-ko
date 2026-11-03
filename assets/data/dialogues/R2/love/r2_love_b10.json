@@ -38,7 +38,8 @@
    "en": "Hey, can you do me a favor? Just pretend to be my boyfriend for three months.",
    "note": "척하다 = pretend",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b10/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "My mom keeps setting me up on blind dates. If I say I have a boyfriend, she'll stop.",
    "note": "소개팅",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b10/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Yep. (holds out paper) Holding hands is fine. But actually liking each other is not allowed.",
    "note": "조건",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b10/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "Why? What's hard about it?",
    "note": "왜",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b10/cut4"
   },
   {
    "num": 8,
@@ -118,7 +122,8 @@
    "en": "(quietly, looking away) But I… already broke that one. After I met you.",
    "note": "심쿵 kick",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b10/cut5"
   },
   {
    "num": 10,
@@ -138,7 +143,8 @@
    "en": "No. Let's rewrite it. This time with no end date.",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b10/cut6"
   },
   {
    "num": 12,

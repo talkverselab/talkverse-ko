@@ -37,7 +37,8 @@
    "en": "Hey, I'm on leave! I can already smell the chicken.",
    "note": "휴가",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a8/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "Yeah I'm a soldier. More importantly, did you order? Hungry.",
    "note": "군인",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a8/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "…Thanks for the letters. Kept reading them… I missed you.",
    "note": "편지",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a8/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "Yeah. That's why they were even funnier. I memorized all of them, seriously.",
    "note": "심쿵(우정)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a8/cut4"
   },
   {
    "num": 8,

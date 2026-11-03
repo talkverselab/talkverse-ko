@@ -39,7 +39,8 @@
    "en": "Oh my, you're the one who just moved in, right? Welcome.",
    "note": "이사",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a9/cut1"
   },
   {
    "num": 2,
@@ -59,7 +60,8 @@
    "en": "Ah, that 1203 without a car, right!",
    "note": "callback",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a9/cut2"
   },
   {
    "num": 4,
@@ -79,7 +81,8 @@
    "en": "Really? You all know me that well?",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a9/cut3"
   },
   {
    "num": 6,
@@ -99,7 +102,8 @@
    "en": "Today's the student's side dish duty, and both upstairs and downstairs already said they'll bring some.",
    "note": "안건",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a9/cut4"
   },
   {
    "num": 8,

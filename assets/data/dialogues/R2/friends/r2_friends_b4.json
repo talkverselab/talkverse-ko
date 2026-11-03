@@ -40,7 +40,8 @@
    "en": "You said you rented a truck? For real?",
    "note": "트럭",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b4/cut1"
   },
   {
    "num": 2,
@@ -60,7 +61,8 @@
    "en": "Whoa, that's totally a compact car, right?",
    "note": "경차",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b4/cut2"
   },
   {
    "num": 4,
@@ -80,7 +82,8 @@
    "en": "Then how are we supposed to load the fridge?",
    "note": "냉장고",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b4/cut3"
   },
   {
    "num": 6,
@@ -100,7 +103,8 @@
    "en": "How many trips are we gonna have to make?",
    "note": "몇 번",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b4/cut4"
   },
   {
    "num": 8,
@@ -120,7 +124,8 @@
    "en": "Whatever... let's just call a van.",
    "note": "용달",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b4/cut5"
   },
   {
    "num": 10,
@@ -140,7 +145,8 @@
    "en": "We already moved twelve loads with the compact car.",
    "note": "chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_friends_b4/cut6"
   },
   {
    "num": 12,

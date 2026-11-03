@@ -40,7 +40,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:00"
+   "at": "00:00",
+   "art": "scene/ko/r0_friends_c1/cut1"
   },
   {
    "num": 2,
@@ -64,7 +65,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:00"
+   "at": "00:00",
+   "art": "scene/ko/r0_friends_c1/cut2"
   },
   {
    "num": 4,
@@ -88,7 +90,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:01"
+   "at": "00:01",
+   "art": "scene/ko/r0_friends_c1/cut3"
   },
   {
    "num": 6,
@@ -112,7 +115,8 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:02"
+   "at": "00:02",
+   "art": "scene/ko/r0_friends_c1/cut4"
   },
   {
    "num": 8,

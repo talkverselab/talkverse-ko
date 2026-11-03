@@ -37,7 +37,8 @@
    "en": "Oh? This is the song I reserved.",
    "note": "예약",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a23/cut1"
   },
   {
    "num": 2,
@@ -57,7 +58,8 @@
    "en": "Really? Then let's sing it together with {name}.",
    "note": "같이",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a23/cut2"
   },
   {
    "num": 4,
@@ -77,7 +79,8 @@
    "en": "I'll just force it into a duet from now on.",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a23/cut3"
   },
   {
    "num": 6,
@@ -97,7 +100,8 @@
    "en": "I know… that's why I picked it.",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a23/cut4"
   },
   {
    "num": 8,

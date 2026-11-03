@@ -38,7 +38,8 @@
    "en": "Wanna order ramyeon first?",
    "note": "라면",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a6/cut1"
   },
   {
    "num": 2,
@@ -58,7 +59,8 @@
    "en": "Yeah, just press here.",
    "note": "시키다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a6/cut2"
   },
   {
    "num": 4,
@@ -78,7 +80,8 @@
    "en": "Whoa, the keyboard's totally soaked!",
    "note": "키보드",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a6/cut3"
   },
   {
    "num": 6,
@@ -98,7 +101,8 @@
    "en": "It went to the next seat too…",
    "note": "라면",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a6/cut4"
   },
   {
    "num": 8,

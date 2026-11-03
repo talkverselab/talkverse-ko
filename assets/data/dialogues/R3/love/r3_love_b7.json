@@ -40,7 +40,8 @@
    "en": "Yujin, open your eyes. You okay? You're not actually hurt, right?",
    "note": "정신 들다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b7/cut1"
   },
   {
    "num": 2,
@@ -60,7 +61,8 @@
    "en": "No way you don't know me? We've been dating a year, for real?",
    "note": "설마",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b7/cut2"
   },
   {
    "num": 4,
@@ -80,7 +82,8 @@
    "en": "It's temporary amnesia. Show her familiar stuff quick. Bring more too.",
    "note": "기억상실",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b7/cut3"
   },
   {
    "num": 6,
@@ -100,7 +103,8 @@
    "en": "…I don't know. I've never seen it before, seriously.",
    "note": "모르다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b7/cut4"
   },
   {
    "num": 8,
@@ -120,7 +124,8 @@
    "en": "……What's this? Whose is it?",
    "note": "silence",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b7/cut5"
   },
   {
    "num": 10,
@@ -140,7 +145,8 @@
    "en": "Lololol, ugh I can't hold it anymore. I'm actually gonna burst.",
    "note": "Kick: reveal",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b7/cut6"
   },
   {
    "num": 12,
@@ -160,7 +166,8 @@
    "en": "I remember everything. Just sprained my wrist. Me, the doctor, and the nurses all planned it. We came all the way here to see your reaction.",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b7/cut7"
   },
   {
    "num": 14,
@@ -180,7 +187,8 @@
    "en": "Whoa for real? I can feel my heart dropping right now. The prank was way too much.",
    "note": "멈추다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b7/cut8"
   },
   {
    "num": 16,
