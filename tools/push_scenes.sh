@@ -22,4 +22,7 @@ for f in "$ROOT"/data/review/art/*/cut*.jpg; do
 done
 if [ "$count" -eq 0 ]; then echo "새 컷 없음"; exit 0; fi
 git -C "$C" add talkverse_art/scene/ko
-git -C "$C" commit -q -m "scene/ko: 장면 컷 ${count}장 (talkverse-ko)" && git -C "$C" push -q origin main && echo "푸시: ${count}장"
+git -C "$C" commit -q -m "scene/ko: 장면 컷 ${count}장 (talkverse-ko)"
+# 다른 세션이 먼저 푸시하면 거부된다 — 받아서 다시(2026-11-04 r0_culture_a5 cut1 이 이렇게 남았었음)
+for n in 1 2 3; do git -C "$C" push -q origin main && { echo "푸시: ${count}장"; exit 0; }; git -C "$C" pull -q --rebase origin main; done
+echo "푸시 실패"; exit 1
