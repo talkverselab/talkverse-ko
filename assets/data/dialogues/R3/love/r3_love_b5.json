@@ -35,19 +35,20 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "(속삭이며) 민준아, 풍선 빨리! 유진이 7시에 와.",
-   "rd": "(soksagimyeo) minjuna, pungseon ppalli! yujini 7sie wa.",
-   "en": "(whispering) Minjun, the balloons, quick! Yujin comes at 7.",
+   "ko": "(속삭이며) 민준아, 풍선 아직도 다 안 불었잖아. 유진이 7시쯤 온다며, 지금 이 속도면 절대 안 돼.",
+   "rd": "(soksagimyeo) minjuna, pungseon ajikdo da an bureotjana. yujini 7sijjeum ondamyeo, jigeum i sokdomyeon jeoldae an dwae.",
+   "en": "Minjun, the balloons still aren't all blown up. Yujin said she's coming around 7, there's no way we'll make it at this pace.",
    "note": "풍선 = balloon",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b5/cut1"
   },
   {
    "num": 2,
    "speaker": "C",
-   "ko": "지금 6시야. 케이크는 냉장고에 있어.",
-   "rd": "jigeum 6siya. keikeuneun naengjanggoe isseo.",
-   "en": "It's 6 now. The cake's in the fridge.",
+   "ko": "지금 막 6시 넘었거든. 케이크는 냉장고에 잘 넣어뒀으니까 그거만 신경 쓰지 마.",
+   "rd": "jigeum mak 6si neomeotgeodeun. keikeuneun naengjanggoe jal neoeodwosseunikka geugeoman singyeong sseuji ma.",
+   "en": "It's just past 6. The cake's safely in the fridge, so don't worry about that.",
    "note": "냉장고 = fridge",
    "tags": [],
    "new": []
@@ -55,19 +56,20 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "좋아. 불 끄고 숨어 있으면 돼.",
-   "rd": "joa. bul kkeugo sumeo isseumyeon dwae.",
-   "en": "Good. We just turn off the lights and hide.",
+   "ko": "좋아. 그럼 불만 끄고 저쪽 커튼 뒤에 숨어 있으면 되는 거지? 소리 내지 말고.",
+   "rd": "joa. geureom bulman kkeugo jeojjok keoteun dwie sumeo isseumyeon doeneun geoji? sori naeji malgo.",
+   "en": "Okay. So we just turn the lights off and hide behind that curtain, right? No noise.",
    "note": "숨다 = hide",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b5/cut2"
   },
   {
    "num": 4,
    "speaker": "B",
-   "ko": "(문 열리며) 나 왔어~ 일찍 끝났어!",
-   "rd": "(mun yeollimyeo) na wasseo~ iljjik kkeunnasseo!",
-   "en": "(door opens) I'm here~ I got off early!",
+   "ko": "(문 열리며) 어? 나 왔어~ 일 생각보다 일찍 끝나서 바로 왔지.",
+   "rd": "(mun yeollimyeo) eo? na wasseo~ il saenggakboda iljjik kkeunnaseo baro watji.",
+   "en": "Huh? I'm here~ Work finished earlier than I thought so I came straight over.",
    "note": "일찍 = early",
    "tags": [],
    "new": []
@@ -75,19 +77,20 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "헐… 잠깐만! 들어오지 마!",
-   "rd": "heol… jamkkanman! deureooji ma!",
-   "en": "Whoa… wait! Don't come in!",
+   "ko": "헐… 잠깐만! 들어오지 마, 그냥 거기서 잠깐만 기다려!",
+   "rd": "heol… jamkkanman! deureooji ma, geunyang geogiseo jamkkanman gidaryeo!",
+   "en": "Whoa… wait! Don't come in, just wait there for a sec!",
    "note": "들어오다 = come in",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b5/cut3"
   },
   {
    "num": 6,
    "speaker": "B",
-   "ko": "왜? 무슨 소리야? (펑!)",
-   "rd": "wae? museun soriya? (peong!)",
-   "en": "Why? What's that sound? (pop!)",
+   "ko": "왜 그래? 무슨 소리야 이게? (펑! 펑! 또 펑!) 뭐가 계속 터지는데?",
+   "rd": "wae geurae? museun soriya ige? (peong! peong! tto peong!) mwoga gyesok teojineunde?",
+   "en": "Why? What's that sound? (pop! pop! another pop!) What's keep bursting?",
    "note": "Kick: balloon pops — chaos begins",
    "tags": [],
    "new": []
@@ -100,7 +103,8 @@
    "en": "Ah, a balloon popped! The cake, the cake!",
    "note": "터지다 = burst",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b5/cut4"
   },
   {
    "num": 8,
@@ -120,7 +124,8 @@
    "en": "…Don't tell me this is all for me?",
    "note": "설마 = don't tell me",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b5/cut5"
   },
   {
    "num": 10,
@@ -140,7 +145,8 @@
    "en": "Ruined? Just a little cream got squashed.",
    "note": "찌그러지다 = be dented",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b5/cut6"
   },
   {
    "num": 12,
@@ -160,7 +166,8 @@
    "en": "Happy birthday to you… even though the party's a mess…",
    "note": "sung",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b5/cut7"
   },
   {
    "num": 14,
@@ -180,7 +187,8 @@
    "en": "Really? There's cake on the floor.",
    "note": "바닥 = floor",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r3_love_b5/cut8"
   },
   {
    "num": 16,
@@ -193,5 +201,9 @@
    "new": []
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r3_love_b5_grok_rewrite.md [K170]",
+  "final": "Grok 답이 끊겨 턴 [7, 8, 9, 10, 11, 12, 13, 14, 15, 16] 은 초안 유지"
+ }
 }

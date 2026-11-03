@@ -38,14 +38,15 @@
    "en": "You're {name}, right? Have a seat.",
    "note": "앉으세요 = please sit",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a6/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "네, 반가워요. 근데… 저 뒤에 제 친구 같은데요.",
-   "rd": "ne, bangawoyo. geunde… jeo dwie je chingu gateundeyo.",
-   "en": "Nice to meet you. But… I think that's my friend back there.",
+   "ko": "네 반가워요 근데 뒤에 친구 같은데요.",
+   "rd": "ne bangawoyo geunde dwie chingu gateundeyo.",
+   "en": "Nice to meet you, but I think that's my friend behind.",
    "note": "저 뒤 = back there",
    "tags": [],
    "new": []
@@ -53,18 +54,19 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "어? 저 옆 테이블은 제 친구예요.",
-   "rd": "eo? jeo yeop teibeureun je chinguyeyo.",
-   "en": "Huh? The table next to them is my friend.",
+   "ko": "어 옆 테이블은 제 친구예요.",
+   "rd": "eo yeop teibeureun je chinguyeyo.",
+   "en": "Huh the next table is my friend.",
    "note": "옆 테이블 = next table",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a6/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "잠깐만요, 창가에 민준이도 있어요.",
-   "rd": "jamkkanmanyo, changgae minjunido isseoyo.",
+   "ko": "잠깐만요 창가에 민준이도 있어요.",
+   "rd": "jamkkanmanyo changgae minjunido isseoyo.",
    "en": "Wait, Minjun is by the window too.",
    "note": "창가 = by the window",
    "tags": [],
@@ -73,19 +75,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "헐… 카운터에 저희 언니도 있어요.",
-   "rd": "heol… kaunteoe jeohui eonnido isseoyo.",
-   "en": "Whoa… my sister is at the counter too.",
+   "ko": "헐 카운터에 언니도 있어요 진짜요?",
+   "rd": "heol kaunteoe eonnido isseoyo jinjjayo?",
+   "en": "Whoa my sister is at the counter too, really?",
    "note": "Kick: the whole café is watching — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a6/cut3"
   },
   {
    "num": 6,
    "speaker": "C",
-   "ko": "(다 같이) 우리 신경 쓰지 마세요!",
-   "rd": "(da gachi) uri singyeong sseuji maseyo!",
-   "en": "(all together) Don't mind us!",
+   "ko": "우리 신경 쓰지 마세요!",
+   "rd": "uri singyeong sseuji maseyo!",
+   "en": "Don't mind us!",
    "note": "신경 쓰다 = to mind",
    "tags": [],
    "new": []
@@ -93,19 +96,20 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "…저희 그냥 다른 데 갈까요?",
-   "rd": "…jeohui geunyang dareun de galkkayo?",
-   "en": "…Should we just go somewhere else?",
+   "ko": "저희 다른 데 갈까요...?",
+   "rd": "jeohui dareun de galkkayo...?",
+   "en": "Should we go somewhere else...?",
    "note": "다른 데 = somewhere else",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a6/cut4"
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "좋아요. 뛰어요!",
-   "rd": "joayo. ttwieoyo!",
-   "en": "Okay. Run!",
+   "ko": "좋아요 뛰어요!",
+   "rd": "joayo ttwieoyo!",
+   "en": "Okay, let's run!",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -113,5 +117,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a6_grok_rewrite.md [K133]",
+  "final": ""
+ }
 }

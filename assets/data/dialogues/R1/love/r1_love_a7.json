@@ -32,19 +32,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "{name} 씨, 언제 밥 한번 먹어요.",
-   "rd": "{name} ssi, eonje bap hanbeon meogeoyo.",
+   "ko": "{name} 씨 언제 밥 한번 먹어요.",
+   "rd": "{name} ssi eonje bap hanbeon meogeoyo.",
    "en": "{name}, let's grab a meal sometime.",
    "note": "밥 한번 먹어요 = let's eat sometime (often just polite)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a7/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "좋아요! 언제요?",
-   "rd": "joayo! eonjeyo?",
-   "en": "Sure! When?",
+   "ko": "좋아요 언제요?",
+   "rd": "joayo eonjeyo?",
+   "en": "Sure, when?",
    "note": "언제 = when",
    "tags": [],
    "new": []
@@ -52,19 +53,20 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "어… 언제…?",
-   "rd": "eo… eonje…?",
-   "en": "Uh… when…?",
+   "ko": "어 언제...?",
+   "rd": "eo eonje...?",
+   "en": "Uh when...?",
    "note": "Kick setup: it was a set phrase",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a7/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "한국 사람은 이거 그냥 인사라고 들었어요.",
-   "rd": "hanguk sarameun igeo geunyang insarago deureosseoyo.",
-   "en": "I heard Koreans say this just to be polite.",
+   "ko": "한국 사람은 이거 인사라고 들었어요.",
+   "rd": "hanguk sarameun igeo insarago deureosseoyo.",
+   "en": "I heard Koreans say this just as a greeting.",
    "note": "인사 = greeting",
    "tags": [],
    "new": []
@@ -72,12 +74,13 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "보통은요. 근데 저는 진짜예요.",
-   "rd": "botongeunyo. geunde jeoneun jinjjayeyo.",
-   "en": "Usually. But I mean it.",
+   "ko": "보통은요 근데 저는 진짜예요.",
+   "rd": "botongeunyo geunde jeoneun jinjjayeyo.",
+   "en": "Usually, but I mean it.",
    "note": "Kick: she means it",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a7/cut3"
   },
   {
    "num": 6,
@@ -92,19 +95,20 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "내일 말고 오늘요. 지금요.",
-   "rd": "naeil malgo oneuryo. jigeumyo.",
-   "en": "Not tomorrow. Today. Now.",
+   "ko": "내일 말고 오늘요 지금요...",
+   "rd": "naeil malgo oneuryo jigeumyo...",
+   "en": "Not tomorrow, today, now...",
    "note": "지금 = now",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a7/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…배고팠어요?",
-   "rd": "…baegopasseoyo?",
-   "en": "…Were you hungry?",
+   "ko": "배고팠어요...?",
+   "rd": "baegopasseoyo...?",
+   "en": "Were you hungry...?",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -112,5 +116,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a7_grok_rewrite.md [K134]",
+  "final": ""
+ }
 }

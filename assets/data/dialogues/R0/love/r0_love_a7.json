@@ -32,18 +32,19 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "추워?",
-   "rd": "chuwo?",
-   "en": "Cold?",
+   "ko": "야 추워?",
+   "rd": "ya chuwo?",
+   "en": "Hey, cold?",
    "note": "추워? = are you cold?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a7/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "응, 조금.",
-   "rd": "eung, jogeum.",
+   "ko": "응 조금.",
+   "rd": "eung jogeum.",
    "en": "Yeah, a little.",
    "note": "조금 = a little",
    "tags": [],
@@ -52,19 +53,20 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "손 줘 봐.",
-   "rd": "son jwo bwa.",
+   "ko": "손 이리 줘.",
+   "rd": "son iri jwo.",
    "en": "Give me your hand.",
    "note": "줘 봐 = let me see",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a7/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "손? 왜?",
-   "rd": "son? wae?",
-   "en": "My hand? Why?",
+   "ko": "손? 진짜?",
+   "rd": "son? jinjja?",
+   "en": "My hand? Really?",
    "note": "왜 = why",
    "tags": [],
    "new": []
@@ -72,18 +74,19 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "…헐, 진짜 차갑다.",
-   "rd": "…heol, jinjja chagapda.",
-   "en": "…Whoa, it's really cold.",
+   "ko": "헐 진짜 차갑다...",
+   "rd": "heol jinjja chagapda...",
+   "en": "Whoa, it's really cold...",
    "note": "심쿵: she holds it",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a7/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "괜찮아, 놔도 돼.",
-   "rd": "gwaenchana, nwado dwae.",
+   "ko": "괜찮아 놔도 돼.",
+   "rd": "gwaenchana nwado dwae.",
    "en": "It's fine, you can let go.",
    "note": "놓다 = let go",
    "tags": [],
@@ -92,19 +95,20 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "싫어. 버스 올 때까지.",
-   "rd": "sileo. beoseu ol ttaekkaji.",
-   "en": "No. Until the bus comes.",
+   "ko": "싫어 버스 올 때까지...",
+   "rd": "sileo beoseu ol ttaekkaji...",
+   "en": "No, until the bus comes...",
    "note": "싫어 = no (I don't want to)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a7/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…버스 늦게 왔으면 좋겠다.",
-   "rd": "…beoseu neutge wasseumyeon joketda.",
-   "en": "…I hope the bus is late.",
+   "ko": "늦게 왔으면 좋겠다...",
+   "rd": "neutge wasseumyeon joketda...",
+   "en": "I hope it comes late...",
    "note": "심쿵 punchline",
    "tags": [],
    "new": []
@@ -112,5 +116,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a7_grok_rewrite.md [K117]",
+  "final": ""
+ }
 }

@@ -35,19 +35,20 @@
   {
    "num": 1,
    "speaker": "C",
-   "ko": "어? {name} 씨 컵 예쁘네요.",
-   "rd": "eo? {name} ssi keop yeppeuneyo.",
-   "en": "Oh? Nice mug, {name}.",
+   "ko": "어 {name} 씨 컵 예쁘네요.",
+   "rd": "eo {name} ssi keop yeppeuneyo.",
+   "en": "Oh nice mug {name}.",
    "note": "컵 = cup / mug",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b3/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "아, 네… 선물 받았어요.",
-   "rd": "a, ne… seonmul badasseoyo.",
-   "en": "Oh, yes… it was a gift.",
+   "ko": "아 네 선물 받았어요.",
+   "rd": "a ne seonmul badasseoyo.",
+   "en": "Oh yes it was a gift.",
    "note": "선물 = gift",
    "tags": [],
    "new": []
@@ -55,19 +56,20 @@
   {
    "num": 3,
    "speaker": "D",
-   "ko": "(옆에서) 어? 해솔 씨 컵이랑 똑같네요?",
-   "rd": "(yeopeseo) eo? haesol ssi keobirang ttokganneyo?",
-   "en": "(next to them) Huh? It's the same as Haesol's?",
+   "ko": "어 해솔 씨 컵이랑 똑같네요?",
+   "rd": "eo haesol ssi keobirang ttokganneyo?",
+   "en": "Huh it's the same as Haesol's?",
    "note": "똑같다 = identical",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b3/cut2"
   },
   {
    "num": 4,
    "speaker": "B",
-   "ko": "…아, 이거 마트에서 많이 팔아요.",
-   "rd": "…a, igeo mateueseo mani parayo.",
-   "en": "…Oh, they sell lots of these at the mart.",
+   "ko": "아 이거 마트에서 많이 팔아요.",
+   "rd": "a igeo mateueseo mani parayo.",
+   "en": "Oh they sell lots of these at the mart.",
    "note": "마트 = supermarket",
    "tags": [],
    "new": []
@@ -75,19 +77,20 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "근데 컵에 이름 쓰여 있는데요. 「해솔 ♥ {name}」.",
-   "rd": "geunde keobe ireum sseuyeo inneundeyo. 「haesol ♥ {name}」.",
-   "en": "But there are names written on it. \"Haesol ♥ {name}.\"",
+   "ko": "근데 컵에 이름 쓰여 있는데요 해솔 ♥ {name}.",
+   "rd": "geunde keobe ireum sseuyeo inneundeyo haesol ♥ {name}.",
+   "en": "But there are names written on it Haesol ♥ {name}.",
    "note": "쓰여 있다 = be written",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b3/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "…",
-   "rd": "…",
-   "en": "…",
+   "ko": "...",
+   "rd": "...",
+   "en": "...",
    "note": "silence",
    "tags": [],
    "new": []
@@ -95,19 +98,20 @@
   {
    "num": 7,
    "speaker": "D",
-   "ko": "헐! 팀 단톡에 올려도 돼요?",
-   "rd": "heol! tim dantoge ollyeodo dwaeyo?",
-   "en": "Whoa! Can I post it in the team chat?",
+   "ko": "헐 팀 단톡에 올려도 돼요? 진짜요?",
+   "rd": "heol tim dantoge ollyeodo dwaeyo? jinjjayo?",
+   "en": "Whoa can I post it in the team chat? Really?",
    "note": "Kick: now everyone knows — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b3/cut4"
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "잠깐만요! 그건 좀…",
-   "rd": "jamkkanmanyo! geugeon jom…",
-   "en": "Wait! That's a bit…",
+   "ko": "잠깐만요 그건 좀...",
+   "rd": "jamkkanmanyo geugeon jom...",
+   "en": "Wait that's a bit...",
    "note": "그건 좀 = that's a bit much",
    "tags": [],
    "new": []
@@ -115,19 +119,20 @@
   {
    "num": 9,
    "speaker": "C",
-   "ko": "(이미 단톡) 「축하합니다~ 오늘 점심은 커플이 쏩니다」",
-   "rd": "(imi dantok) 「chukahamnida~ oneul jeomsimeun keopeuri ssomnida」",
-   "en": "(already in the chat) \"Congrats~ lunch is on the couple today\"",
+   "ko": "축하합니다~ 오늘 점심은 커플이 쏩니다",
+   "rd": "chukahamnida~ oneul jeomsimeun keopeuri ssomnida",
+   "en": "Congrats~ lunch is on the couple today",
    "note": "쏘다 = to treat (slang)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b3/cut5"
   },
   {
    "num": 10,
    "speaker": "A",
-   "ko": "그니까… 비밀 연애 끝났네요.",
-   "rd": "geunikka… bimil yeonae kkeunnanneyo.",
-   "en": "So… the secret relationship is over.",
+   "ko": "그니까 비밀 연애 끝났네요.",
+   "rd": "geunikka bimil yeonae kkeunnanneyo.",
+   "en": "So the secret relationship is over.",
    "note": "끝나다 = end",
    "tags": [],
    "new": []
@@ -140,7 +145,8 @@
    "en": "But we're splitting the lunch bill.",
    "note": "반반 = half-half",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_work_b3/cut6"
   },
   {
    "num": 12,
@@ -153,5 +159,9 @@
    "new": []
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r2_work_b3_grok_rewrite.md [K152]",
+  "final": ""
+ }
 }

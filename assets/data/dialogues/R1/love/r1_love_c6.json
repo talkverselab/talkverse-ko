@@ -41,13 +41,14 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "18:40"
+   "at": "18:40",
+   "art": "scene/ko/r1_love_c6/cut1"
   },
   {
    "num": 2,
    "speaker": "C",
-   "ko": "아들, 누구 보러 가?",
-   "rd": "adeul, nugu boreo ga?",
+   "ko": "아들 누구 보러 가?",
+   "rd": "adeul nugu boreo ga?",
    "en": "Son, who are you going to see?",
    "note": "Kick: Mom replied — chaos",
    "tags": [],
@@ -58,21 +59,22 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "헐… 엄마?",
-   "rd": "heol… eomma?",
-   "en": "Whoa… Mom?",
+   "ko": "헐 엄마?",
+   "rd": "heol eomma?",
+   "en": "Whoa mom?",
    "note": "엄마 = mom",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "18:41"
+   "at": "18:41",
+   "art": "scene/ko/r1_love_c6/cut2"
   },
   {
    "num": 4,
    "speaker": "C",
-   "ko": "😘 이건 엄마한테 처음 보내네. 누구야?",
-   "rd": "😘 igeon eommahante cheoeum bonaene. nuguya?",
-   "en": "😘 This is the first time you've sent me that. Who is it?",
+   "ko": "😘 엄마한테 처음이네 누구야?",
+   "rd": "😘 eommahante cheoeumine nuguya?",
+   "en": "😘 First time to mom, who is it?",
    "note": "처음 = first time",
    "tags": [],
    "new": [],
@@ -82,21 +84,22 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "(유진에게) 큰일 났어. 사진 엄마한테 보냈어.",
-   "rd": "(yujinege) keunil nasseo. sajin eommahante bonaesseo.",
-   "en": "(to Yujin) Big trouble. I sent the photo to my mom.",
+   "ko": "큰일 났어 사진 엄마한테 보냈어.",
+   "rd": "keunil nasseo sajin eommahante bonaesseo.",
+   "en": "Big trouble, sent the photo to mom.",
    "note": "큰일 = big trouble",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "18:43"
+   "at": "18:43",
+   "art": "scene/ko/r1_love_c6/cut3"
   },
   {
    "num": 6,
    "speaker": "B",
-   "ko": "ㅋㅋㅋ 그래서 엄마가 뭐래?",
-   "rd": "ㅋㅋㅋ geuraeseo eommaga mworae?",
-   "en": "Lolol so what did she say?",
+   "ko": "ㅋㅋ 그래서 엄마가 뭐래?",
+   "rd": "ㅋㅋ geuraeseo eommaga mworae?",
+   "en": "Lol so what did mom say?",
    "note": "뭐래? = what did she say",
    "tags": [],
    "new": [],
@@ -108,19 +111,20 @@
    "speaker": "A",
    "ko": "다음 주에 너 데려오래.",
    "rd": "daeum jue neo deryeoorae.",
-   "en": "She says to bring you next week.",
+   "en": "She says bring you next week.",
    "note": "데려오다 = bring",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "18:44"
+   "at": "18:44",
+   "art": "scene/ko/r1_love_c6/cut4"
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "…진짜? 아 몰라, 옷 사러 가야겠다.",
-   "rd": "…jinjja? a molla, ot sareo gayagetda.",
-   "en": "…Really? Ugh, I need to go buy clothes.",
+   "ko": "진짜? 아 몰라 옷 사러 가야겠다...",
+   "rd": "jinjja? a molla ot sareo gayagetda...",
+   "en": "Really? Ugh I need to go buy clothes...",
    "note": "punchline",
    "tags": [],
    "new": [],
@@ -128,5 +132,9 @@
    "at": "18:44"
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_c6_grok_rewrite.md [K138]",
+  "final": ""
+ }
 }

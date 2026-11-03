@@ -35,19 +35,20 @@
    "speaker": "B",
    "ko": "뭐 해?",
    "rd": "mwo hae?",
-   "en": "What are you doing?",
+   "en": "What you doing?",
    "note": "뭐 해?",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:58"
+   "at": "23:58",
+   "art": "scene/ko/r1_love_c5/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "이제 자려고. 너는?",
-   "rd": "ije jaryeogo. neoneun?",
-   "en": "About to sleep. You?",
+   "ko": "이제 자려고 너는?",
+   "rd": "ije jaryeogo neoneun?",
+   "en": "About to sleep, you?",
    "note": "-려고 = about to",
    "tags": [],
    "new": [],
@@ -57,21 +58,22 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "나도. 근데 잠이 안 와.",
-   "rd": "nado. geunde jami an wa.",
-   "en": "Me too. But I can't sleep.",
+   "ko": "나도 근데 잠이 안 와.",
+   "rd": "nado geunde jami an wa.",
+   "en": "Me too but I can't sleep.",
    "note": "잠이 안 오다 = can't fall asleep",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "23:59"
+   "at": "23:59",
+   "art": "scene/ko/r1_love_c5/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "왜? 무슨 일 있어?",
-   "rd": "wae? museun il isseo?",
-   "en": "Why? Something wrong?",
+   "ko": "왜 무슨 일 있어?",
+   "rd": "wae museun il isseo?",
+   "en": "Why, something wrong?",
    "note": "무슨 일 = what's up",
    "tags": [],
    "new": [],
@@ -81,21 +83,22 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "그냥… 너 생각나서.",
-   "rd": "geunyang… neo saenggangnaseo.",
-   "en": "Just… I keep thinking of you.",
+   "ko": "그냥 너 생각나서...",
+   "rd": "geunyang neo saenggangnaseo...",
+   "en": "Just thinking of you...",
    "note": "생각나다 = come to mind — the confession",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:00"
+   "at": "00:00",
+   "art": "scene/ko/r1_love_c5/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "…진짜?",
-   "rd": "…jinjja?",
-   "en": "…Really?",
+   "ko": "진짜?",
+   "rd": "jinjja?",
+   "en": "Really?",
    "note": "진짜?",
    "tags": [],
    "new": [],
@@ -112,14 +115,15 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "00:02"
+   "at": "00:02",
+   "art": "scene/ko/r1_love_c5/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "설레서 폰 떨어뜨렸어. 잘 자, 하늘아.",
-   "rd": "seolleseo pon tteoreotteuryeosseo. jal ja, haneura.",
-   "en": "My heart fluttered and I dropped my phone. Good night, Haneul.",
+   "ko": "설레서 폰 떨어뜨렸어 잘 자...",
+   "rd": "seolleseo pon tteoreotteuryeosseo jal ja...",
+   "en": "Fluttered and dropped my phone, good night...",
    "note": "설레다 = flutter",
    "tags": [],
    "new": [],
@@ -129,5 +133,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_c5_grok_rewrite.md [K137]",
+  "final": ""
+ }
 }

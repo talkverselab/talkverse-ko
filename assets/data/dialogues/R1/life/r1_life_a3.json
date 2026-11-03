@@ -33,19 +33,20 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "도윤아, 세제 얼마나 넣어?",
-   "rd": "doyuna, seje eolmana neoeo?",
-   "en": "Doyun, how much detergent do I add?",
+   "ko": "도윤아 세제 얼마나 넣어?",
+   "rd": "doyuna seje eolmana neoeo?",
+   "en": "Doyun, how much detergent?",
    "note": "세제 = detergent",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a3/cut1"
   },
   {
    "num": 2,
    "speaker": "B",
-   "ko": "조금. 한 컵.",
-   "rd": "jogeum. han keop.",
-   "en": "A little. One cup.",
+   "ko": "조금 한 컵.",
+   "rd": "jogeum han keop.",
+   "en": "A little, one cup.",
    "note": "한 컵 = one cup",
    "tags": [],
    "new": []
@@ -53,18 +54,19 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "이 컵? 큰 컵?",
-   "rd": "i keop? keun keop?",
+   "ko": "이 컵? 큰 거?",
+   "rd": "i keop? keun geo?",
    "en": "This cup? The big one?",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a3/cut2"
   },
   {
    "num": 4,
    "speaker": "B",
-   "ko": "잠깐만, 그거 국그릇이야!",
-   "rd": "jamkkanman, geugeo gukgeureusiya!",
+   "ko": "잠깐만 그거 국그릇이야!",
+   "rd": "jamkkanman geugeo gukgeureusiya!",
    "en": "Wait, that's a soup bowl!",
    "note": "국그릇 = soup bowl",
    "tags": [],
@@ -73,19 +75,20 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "(10분 뒤) 헐… 거품이 나와.",
-   "rd": "(10bun dwi) heol… geopumi nawa.",
-   "en": "(10 min later) Whoa… foam is coming out.",
+   "ko": "헐 거품이 나와 진짜?",
+   "rd": "heol geopumi nawa jinjja?",
+   "en": "Whoa foam is coming out, really?",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a3/cut3"
   },
   {
    "num": 6,
    "speaker": "B",
-   "ko": "거실까지 왔어! 어떡해!",
-   "rd": "geosilkkaji wasseo! eotteokae!",
-   "en": "It's in the living room! What do we do!",
+   "ko": "거실까지 왔어 어떡해!",
+   "rd": "geosilkkaji wasseo eotteokae!",
+   "en": "It's reached the living room, what do we do!",
    "note": "어떡해 = what do we do",
    "tags": [],
    "new": []
@@ -93,22 +96,27 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "…거품 목욕할래?",
-   "rd": "…geopum mogyokallae?",
-   "en": "…Want a bubble bath?",
+   "ko": "거품 목욕할래...?",
+   "rd": "geopum mogyokallae...?",
+   "en": "Want a bubble bath...?",
    "note": "joke",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_life_a3/cut4"
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "ㅋㅋ 사진부터 찍자. 그리고 청소.",
-   "rd": "ㅋㅋ sajinbuteo jjikja. geurigo cheongso.",
-   "en": "Lol photos first. Then cleaning.",
+   "ko": "ㅋㅋ 사진부터 찍자 그리고 청소.",
+   "rd": "ㅋㅋ sajinbuteo jjikja geurigo cheongso.",
+   "en": "Lol photos first then cleaning.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_life_a3_grok_rewrite.md [K130]",
+  "final": ""
+ }
 }

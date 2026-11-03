@@ -36,12 +36,13 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "(속삭이며) {name} 씨, 탬버린 쳐요. 팀장님 노래니까.",
-   "rd": "(soksagimyeo) {name} ssi, taembeorin chyeoyo. timjangnim noraenikka.",
-   "en": "(whispering) {name}, play the tambourine. It's the boss's song.",
+   "ko": "{name} 씨 탬버린 쳐요 팀장님 노래니까.",
+   "rd": "{name} ssi taembeorin chyeoyo timjangnim noraenikka.",
+   "en": "{name}, play the tambourine, it's the boss's song.",
    "note": "탬버린 = tambourine",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b4/cut1"
   },
   {
    "num": 2,
@@ -56,19 +57,20 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "끝날 때까지.",
-   "rd": "kkeunnal ttaekkaji.",
+   "ko": "끝날 때까지요.",
+   "rd": "kkeunnal ttaekkajiyo.",
    "en": "Until it ends.",
    "note": "-ㄹ 때까지 = until",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b4/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "(8분 뒤) …이 노래 원래 이렇게 길어요?",
-   "rd": "(8bun dwi) …i norae wollae ireoke gireoyo?",
-   "en": "(8 min later) …Is this song really this long?",
+   "ko": "이 노래 원래 이렇게 길어요? 진짜요?",
+   "rd": "i norae wollae ireoke gireoyo? jinjjayo?",
+   "en": "Is this song really this long? Really?",
    "note": "원래 = originally",
    "tags": [],
    "new": []
@@ -76,19 +78,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "팀장님이 2절, 3절까지 다 해요.",
-   "rd": "timjangnimi 2jeol, 3jeolkkaji da haeyo.",
+   "ko": "팀장님이 2절 3절까지 다 해요.",
+   "rd": "timjangnimi 2jeol 3jeolkkaji da haeyo.",
    "en": "The boss does every verse.",
    "note": "절 = verse",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b4/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "(탬버린을 너무 세게 쳐서) 어? 부서졌어요.",
-   "rd": "(taembeorineul neomu sege chyeoseo) eo? buseojyeosseoyo.",
-   "en": "(hitting too hard) Huh? It broke.",
+   "ko": "어 부서졌어요.",
+   "rd": "eo buseojyeosseoyo.",
+   "en": "Huh it broke.",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -96,19 +99,20 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "오! {name} 씨 열정 좋네! 한 곡 더!",
-   "rd": "o! {name} ssi yeoljeong jonne! han gok deo!",
-   "en": "Oh! {name}, love the passion! One more song!",
+   "ko": "오 {name} 씨 열정 좋네 한 곡 더!",
+   "rd": "o {name} ssi yeoljeong jonne han gok deo!",
+   "en": "Oh {name} love the passion, one more!",
    "note": "열정 = passion",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b4/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "잠깐만요, 탬버린이 두 개가 됐는데요?",
-   "rd": "jamkkanmanyo, taembeorini du gaega dwaenneundeyo?",
-   "en": "Wait, the tambourine turned into two pieces?",
+   "ko": "잠깐만요 탬버린이 두 개가 됐는데요?",
+   "rd": "jamkkanmanyo taembeorini du gaega dwaenneundeyo?",
+   "en": "Wait the tambourine turned into two pieces?",
    "note": "Kick: chaos escalates",
    "tags": [],
    "new": []
@@ -116,19 +120,20 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "양손으로 쳐요. 그게 더 신나요.",
-   "rd": "yangsoneuro chyeoyo. geuge deo sinnayo.",
-   "en": "Play with both hands. It's more fun that way.",
+   "ko": "양손으로 쳐요 그게 더 신나요.",
+   "rd": "yangsoneuro chyeoyo geuge deo sinnayo.",
+   "en": "Play with both hands, it's more fun.",
    "note": "양손 = both hands",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b4/cut5"
   },
   {
    "num": 10,
    "speaker": "C",
-   "ko": "다음 곡 예약! 이번엔 듀엣이다, {name} 씨랑!",
-   "rd": "daeum gok yeyak! ibeonen dyuesida, {name} ssirang!",
-   "en": "Next song reserved! A duet this time, with {name}!",
+   "ko": "다음 곡 예약 이번엔 듀엣이다 {name} 씨랑!",
+   "rd": "daeum gok yeyak ibeonen dyuesida {name} ssirang!",
+   "en": "Next song reserved, a duet this time with {name}!",
    "note": "듀엣 = duet",
    "tags": [],
    "new": []
@@ -136,12 +141,13 @@
   {
    "num": 11,
    "speaker": "A",
-   "ko": "그니까… 집에는 언제 가요?",
-   "rd": "geunikka… jibeneun eonje gayo?",
-   "en": "So… when do we go home?",
+   "ko": "그니까 집에는 언제 가요?",
+   "rd": "geunikka jibeneun eonje gayo?",
+   "en": "So when do we go home?",
    "note": "언제 = when",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_culture_b4/cut6"
   },
   {
    "num": 12,
@@ -153,5 +159,9 @@
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_culture_b4_grok_rewrite.md [K147]",
+  "final": ""
+ }
 }

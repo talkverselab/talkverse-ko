@@ -32,21 +32,22 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "오늘 재밌었어!",
-   "rd": "oneul jaemisseosseo!",
-   "en": "Today was fun!",
+   "ko": "오늘 재밌었어 ㅋㅋ",
+   "rd": "oneul jaemisseosseo ㅋㅋ",
+   "en": "Today was fun lol",
    "note": "재밌었어 = it was fun",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "21:00"
+   "at": "21:00",
+   "art": "scene/ko/r0_love_c4/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "😊😊😊😊😊😊😊😊😊😊😊😊",
-   "rd": "😊😊😊😊😊😊😊😊😊😊😊😊",
-   "en": "😊😊😊😊😊😊😊😊😊😊😊😊",
+   "ko": "😊😊😊😊😊😊😊😊",
+   "rd": "😊😊😊😊😊😊😊😊",
+   "en": "😊😊😊😊😊😊😊😊",
    "note": "Kick: too many emojis — chaos",
    "tags": [],
    "new": [],
@@ -56,21 +57,22 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "헐 ㅋㅋㅋ 몇 개야?",
-   "rd": "heol ㅋㅋㅋ myeot gaeya?",
-   "en": "Whoa lolol how many is that?",
+   "ko": "헐 ㅋㅋ 몇 개야?",
+   "rd": "heol ㅋㅋ myeot gaeya?",
+   "en": "Whoa lol how many?",
    "note": "몇 개 = how many",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "21:01"
+   "at": "21:01",
+   "art": "scene/ko/r0_love_c4/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "미안! 손이 미끄러졌어.",
-   "rd": "mian! soni mikkeureojyeosseo.",
-   "en": "Sorry! My finger slipped.",
+   "ko": "미안 손 미끄러졌어.",
+   "rd": "mian son mikkeureojyeosseo.",
+   "en": "Sorry, finger slipped.",
    "note": "미끄러지다 = slip",
    "tags": [],
    "new": [],
@@ -80,20 +82,21 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "😊😊😊😊😊😊",
-   "rd": "😊😊😊😊😊😊",
-   "en": "😊😊😊😊😊😊",
+   "ko": "😊😊😊 또 미끄러...",
+   "rd": "😊😊😊 tto mikkeureo...",
+   "en": "😊😊😊 slipped again...",
    "note": "it happens again",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "21:02"
+   "at": "21:02",
+   "art": "scene/ko/r0_love_c4/cut3"
   },
   {
    "num": 6,
    "speaker": "B",
-   "ko": "또? ㅋㅋㅋ",
-   "rd": "tto? ㅋㅋㅋ",
+   "ko": "또야? ㅋㅋㅋ",
+   "rd": "ttoya? ㅋㅋㅋ",
    "en": "Again? lolol",
    "note": "또 = again",
    "tags": [],
@@ -104,21 +107,22 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "폰이 너 좋아하나 봐.",
-   "rd": "poni neo joahana bwa.",
-   "en": "I think my phone likes you.",
+   "ko": "폰이 좋아하나 봐...",
+   "rd": "poni joahana bwa...",
+   "en": "I think the phone likes you...",
    "note": "-나 봐 = seems like",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "21:03"
+   "at": "21:03",
+   "art": "scene/ko/r0_love_c4/cut4"
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "폰만?",
-   "rd": "ponman?",
-   "en": "Only your phone?",
+   "ko": "폰만? ㅋㅋ",
+   "rd": "ponman? ㅋㅋ",
+   "en": "Only the phone? lol",
    "note": "심쿵 punchline",
    "tags": [],
    "new": [],
@@ -128,5 +132,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_c4_grok_rewrite.md [K121]",
+  "final": ""
+ }
 }

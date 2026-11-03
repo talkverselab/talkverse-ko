@@ -32,19 +32,20 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "(쪽지) 「같이 공부할래요? 옆자리」…",
-   "rd": "(jjokji) 「gachi gongbuhallaeyo? yeopjari」…",
-   "en": "(note) \"Want to study together? — the seat next to you\"…",
+   "ko": "쪽지네 같이 공부할래요? 옆자리...",
+   "rd": "jjokjine gachi gongbuhallaeyo? yeopjari...",
+   "en": "There's a note, want to study together? Next seat...",
    "note": "쪽지 = note",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a3/cut1"
   },
   {
    "num": 2,
    "speaker": "B",
-   "ko": "(작게) 그거 제가 썼어요.",
-   "rd": "(jakge) geugeo jega sseosseoyo.",
-   "en": "(quietly) I wrote that.",
+   "ko": "그거 제가 썼어요.",
+   "rd": "geugeo jega sseosseoyo.",
+   "en": "I wrote that.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -57,14 +58,15 @@
    "en": "Really? Why?",
    "note": "왜요?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a3/cut2"
   },
   {
    "num": 4,
    "speaker": "B",
-   "ko": "매일 같은 시간에 오시길래요.",
-   "rd": "maeil gateun sigane osigillaeyo.",
-   "en": "Because you come at the same time every day.",
+   "ko": "매일 같은 시간에 오시길래요...",
+   "rd": "maeil gateun sigane osigillaeyo...",
+   "en": "Because you come at the same time every day...",
    "note": "-길래 = since (I noticed)",
    "tags": [],
    "new": []
@@ -77,14 +79,15 @@
    "en": "I'm not good at studying.",
    "note": "잘 못하다 = not good at",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a3/cut3"
   },
   {
    "num": 6,
    "speaker": "B",
-   "ko": "괜찮아요. 저도 공부하러 오는 거 아니에요.",
-   "rd": "gwaenchanayo. jeodo gongbuhareo oneun geo anieyo.",
-   "en": "That's okay. I don't really come here to study either.",
+   "ko": "괜찮아요 저도 공부하러 오는 거 아니에요.",
+   "rd": "gwaenchanayo jeodo gongbuhareo oneun geo anieyo.",
+   "en": "That's okay, I don't come here to study either.",
    "note": "심쿵: the real reason",
    "tags": [],
    "new": []
@@ -92,19 +95,20 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "…그럼 뭐 하러 와요?",
-   "rd": "…geureom mwo hareo wayo?",
-   "en": "…Then why do you come?",
+   "ko": "그럼 뭐 하러 와요...?",
+   "rd": "geureom mwo hareo wayo...?",
+   "en": "Then why do you come...?",
    "note": "뭐 하러 = for what",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a3/cut4"
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "쪽지 쓰러요.",
-   "rd": "jjokji sseureoyo.",
-   "en": "To write notes.",
+   "ko": "쪽지 쓰러요...",
+   "rd": "jjokji sseureoyo...",
+   "en": "To write notes...",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -112,5 +116,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_study_a3_grok_rewrite.md [K141]",
+  "final": ""
+ }
 }

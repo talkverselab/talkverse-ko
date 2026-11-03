@@ -33,19 +33,20 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "저기요, 내려요!",
-   "rd": "jeogiyo, naeryeoyo!",
-   "en": "Excuse me, I'm getting off!",
+   "ko": "저기요 내려요!",
+   "rd": "jeogiyo naeryeoyo!",
+   "en": "Excuse me, getting off!",
    "note": "내려요 = I'm getting off",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a3/cut1"
   },
   {
    "num": 2,
    "speaker": "B",
-   "ko": "어? 잠깐만요…",
-   "rd": "eo? jamkkanmanyo…",
-   "en": "Huh? One sec…",
+   "ko": "잠깐만요...",
+   "rd": "jamkkanmanyo...",
+   "en": "One sec...",
    "note": "잠깐만요",
    "tags": [],
    "new": []
@@ -53,19 +54,20 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "(문 닫힘) …못 내렸어요.",
-   "rd": "(mun datim) …mot naeryeosseoyo.",
-   "en": "(doors close) …I couldn't get off.",
+   "ko": "못 내렸어요 죄송합니다.",
+   "rd": "mot naeryeosseoyo joesonghamnida.",
+   "en": "Couldn't get off, sorry.",
    "note": "못 = couldn't",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a3/cut2"
   },
   {
    "num": 4,
    "speaker": "B",
    "ko": "다음 역에서 내려요.",
    "rd": "daeum yeogeseo naeryeoyo.",
-   "en": "Get off at the next stop.",
+   "en": "Get off next stop.",
    "note": "다음 역 = next stop",
    "tags": [],
    "new": []
@@ -73,19 +75,20 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "(다음 역) 내려요! …또 못 내렸어요.",
-   "rd": "(daeum yeok) naeryeoyo! …tto mot naeryeosseoyo.",
-   "en": "(next stop) Getting off! …Missed it again.",
+   "ko": "또 못 내렸어요!",
+   "rd": "tto mot naeryeosseoyo!",
+   "en": "Missed it again!",
    "note": "Kick: chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a3/cut3"
   },
   {
    "num": 6,
    "speaker": "C",
-   "ko": "학생, 내 손 잡아요!",
-   "rd": "haksaeng, nae son jabayo!",
-   "en": "Young man, grab my hand!",
+   "ko": "손 잡아요 학생!",
+   "rd": "son jabayo haksaeng!",
+   "en": "Grab my hand, young man!",
    "note": "아주머니 rescue",
    "tags": [],
    "new": []
@@ -93,22 +96,27 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "(쑥) 내렸다! 감사합니다!",
-   "rd": "(ssuk) naeryeotda! gamsahamnida!",
-   "en": "(pop) I'm off! Thank you!",
+   "ko": "내렸어요 감사합니다!",
+   "rd": "naeryeosseoyo gamsahamnida!",
+   "en": "I'm off, thank you!",
    "note": "쑥 = pop out",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_travel_a3/cut4"
   },
   {
    "num": 8,
    "speaker": "C",
-   "ko": "근데 여기 어디예요? 나도 내렸네.",
-   "rd": "geunde yeogi eodiyeyo? nado naeryeonne.",
-   "en": "But where are we? I got off too.",
+   "ko": "여기 어디예요 나도 내렸네...",
+   "rd": "yeogi eodiyeyo nado naeryeonne...",
+   "en": "Where are we, I got off too...",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_travel_a3_grok_rewrite.md [K125]",
+  "final": ""
+ }
 }

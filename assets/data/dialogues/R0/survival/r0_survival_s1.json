@@ -32,19 +32,20 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "저기요, 물 주세요.",
-   "rd": "jeogiyo, mul juseyo.",
+   "ko": "저기요 물 주세요.",
+   "rd": "jeogiyo mul juseyo.",
    "en": "Excuse me, water please.",
    "note": "물 주세요 = water please",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s1/cut1"
   },
   {
    "num": 2,
    "speaker": "B",
    "ko": "물은 셀프예요.",
    "rd": "mureun selpeuyeyo.",
-   "en": "Water is self-service.",
+   "en": "Water is self-serve.",
    "note": "셀프 = self-service",
    "tags": [],
    "new": []
@@ -54,17 +55,18 @@
    "speaker": "A",
    "ko": "셀프요?",
    "rd": "selpeuyo?",
-   "en": "Self?",
+   "en": "Self-serve?",
    "note": "echo",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s1/cut2"
   },
   {
    "num": 4,
    "speaker": "B",
-   "ko": "저기요. 벽에 있어요.",
-   "rd": "jeogiyo. byeoge isseoyo.",
-   "en": "Over there. On the wall.",
+   "ko": "저기 벽에 있어요.",
+   "rd": "jeogi byeoge isseoyo.",
+   "en": "Over there on the wall.",
    "note": "Kick: the sign",
    "tags": [],
    "new": []
@@ -72,19 +74,20 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "아… 「물은 셀프」. 알겠어요.",
-   "rd": "a… 「mureun selpeu」. algesseoyo.",
-   "en": "Oh… \"water is self-serve.\" Got it.",
+   "ko": "아 알겠어요 감사합니다.",
+   "rd": "a algesseoyo gamsahamnida.",
+   "en": "Ah I get it, thank you.",
    "note": "read the sign",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s1/cut3"
   },
   {
    "num": 6,
    "speaker": "B",
    "ko": "반찬도 셀프예요.",
    "rd": "banchando selpeuyeyo.",
-   "en": "Side dishes are self-service too.",
+   "en": "Side dishes too.",
    "note": "반찬 = side dishes",
    "tags": [],
    "new": []
@@ -97,17 +100,22 @@
    "en": "Then rice too?",
    "note": "follow-up",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s1/cut4"
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "밥은 제가 해요. ㅋㅋ",
-   "rd": "babeun jega haeyo. ㅋㅋ",
-   "en": "I make the rice. Haha.",
+   "ko": "밥은 제가 해요 ㅋㅋ",
+   "rd": "babeun jega haeyo ㅋㅋ",
+   "en": "I do the rice lol",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_survival_s1_grok_rewrite.md [K123]",
+  "final": ""
+ }
 }

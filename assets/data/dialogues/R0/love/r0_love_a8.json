@@ -33,19 +33,20 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "앗! 죄송합니다!",
-   "rd": "at! joesonghamnida!",
-   "en": "Oops! I'm so sorry!",
+   "ko": "아 죄송합니다!",
+   "rd": "a joesonghamnida!",
+   "en": "Ah, I'm sorry!",
    "note": "죄송합니다",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a8/cut1"
   },
   {
    "num": 2,
    "speaker": "B",
-   "ko": "괜찮아요. 드라마 같네요.",
-   "rd": "gwaenchanayo. deurama ganneyo.",
-   "en": "It's okay. Like a drama.",
+   "ko": "괜찮아요 드라마 같네요.",
+   "rd": "gwaenchanayo deurama ganneyo.",
+   "en": "It's okay, like a drama.",
    "note": "드라마 같다 = like a drama",
    "tags": [],
    "new": []
@@ -55,17 +56,18 @@
    "speaker": "A",
    "ko": "제가 닦아 드릴게요.",
    "rd": "jega dakka deurilgeyo.",
-   "en": "Let me wipe it for you.",
+   "en": "Let me wipe it.",
    "note": "닦다 = wipe",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a8/cut2"
   },
   {
    "num": 4,
    "speaker": "B",
-   "ko": "아, 잠깐만…",
-   "rd": "a, jamkkanman…",
-   "en": "Ah, wait…",
+   "ko": "아 잠깐만요...",
+   "rd": "a jamkkanmanyo...",
+   "en": "Ah, wait a second...",
    "note": "warning",
    "tags": [],
    "new": []
@@ -73,19 +75,20 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "(쾅) …또 쏟았어요.",
-   "rd": "(kwang) …tto ssodasseoyo.",
-   "en": "(bump) …I spilled it again.",
+   "ko": "또 쏟았어요 헐!",
+   "rd": "tto ssodasseoyo heol!",
+   "en": "I spilled it again, whoa!",
    "note": "Kick: chaos begins",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a8/cut3"
   },
   {
    "num": 6,
    "speaker": "C",
-   "ko": "(쾅) 어머, 죄송해요!",
-   "rd": "(kwang) eomeo, joesonghaeyo!",
-   "en": "(bump) Oh my, I'm sorry!",
+   "ko": "어머 저도 죄송해요!",
+   "rd": "eomeo jeodo joesonghaeyo!",
+   "en": "Oh my, I'm sorry too!",
    "note": "a third person",
    "tags": [],
    "new": []
@@ -93,19 +96,20 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "헐… 이제 셋 다 커피예요.",
-   "rd": "heol… ije set da keopiyeyo.",
-   "en": "Whoa… now all three of us are covered in coffee.",
+   "ko": "헐 다 커피네요...",
+   "rd": "heol da keopineyo...",
+   "en": "Whoa, we're all coffee now...",
    "note": "셋 다 = all three",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a8/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…커피 사 드릴게요. 세 잔.",
-   "rd": "…keopi sa deurilgeyo. se jan.",
-   "en": "…I'll buy coffee. Three cups.",
+   "ko": "세 잔 사 드릴게요...",
+   "rd": "se jan sa deurilgeyo...",
+   "en": "I'll buy three cups...",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -113,5 +117,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a8_grok_rewrite.md [K118]",
+  "final": ""
+ }
 }

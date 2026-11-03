@@ -34,18 +34,19 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "헐, 직캠에 나 나왔어!",
-   "rd": "heol, jikkaeme na nawasseo!",
-   "en": "Whoa, I'm in the fancam!",
+   "ko": "헐 직캠에 나 나왔어!",
+   "rd": "heol jikkaeme na nawasseo!",
+   "en": "Whoa I'm in the fancam!",
    "note": "직캠 = fancam",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_culture_a3/cut1"
   },
   {
    "num": 2,
    "speaker": "C",
-   "ko": "진짜? 어디?",
-   "rd": "jinjja? eodi?",
+   "ko": "진짜? 어디야?",
+   "rd": "jinjja? eodiya?",
    "en": "Really? Where?",
    "note": "어디 = where",
    "tags": [],
@@ -54,19 +55,20 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "2분 10초. 맨 앞줄.",
-   "rd": "2bun 10cho. maen apjul.",
-   "en": "2:10. Front row.",
+   "ko": "2분 10초 맨 앞줄이야.",
+   "rd": "2bun 10cho maen apjuriya.",
+   "en": "2:10, front row.",
    "note": "맨 앞줄 = very front row",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_culture_a3/cut2"
   },
   {
    "num": 4,
    "speaker": "C",
-   "ko": "ㅋㅋ 표정 미쳤다. 완전 입덕 표정.",
-   "rd": "ㅋㅋ pyojeong michyeotda. wanjeon ipdeok pyojeong.",
-   "en": "Lol your face is insane. Total fangirl face.",
+   "ko": "ㅋㅋ 표정 미쳤다 완전.",
+   "rd": "ㅋㅋ pyojeong michyeotda wanjeon.",
+   "en": "Lol your face is insane totally.",
    "note": "입덕 = becoming a fan",
    "tags": [],
    "new": []
@@ -74,19 +76,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "(DM) 맨 앞줄에 있었지?",
-   "rd": "(DM) maen apjure isseotji?",
-   "en": "(DM) You were in the front row, right?",
+   "ko": "맨 앞줄에 있었지?",
+   "rd": "maen apjure isseotji?",
+   "en": "You were in the front row, right?",
    "note": "심쿵: Taeo DMs",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_culture_a3/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "헐… 태오가 DM 보냈어!",
-   "rd": "heol… taeoga DM bonaesseo!",
-   "en": "Whoa… Taeo sent me a DM!",
+   "ko": "헐 태오가 DM 보냈어!",
+   "rd": "heol taeoga DM bonaesseo!",
+   "en": "Whoa Taeo sent a DM!",
    "note": "DM",
    "tags": [],
    "new": []
@@ -94,24 +97,29 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "(DM) 다음 공연도 거기 서 있어. 너 보고 불렀어.",
-   "rd": "(DM) daeum gongyeondo geogi seo isseo. neo bogo bulleosseo.",
-   "en": "(DM) Stand there at the next show too. I sang looking at you.",
+   "ko": "다음에도 거기 서 있어... 너 보고 불렀어.",
+   "rd": "daeumedo geogi seo isseo... neo bogo bulleosseo.",
+   "en": "Stand there next time too... I sang looking at you.",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_culture_a3/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…심장 떨어질 것 같아.",
-   "rd": "…simjang tteoreojil geot gata.",
-   "en": "…I think my heart's going to drop.",
+   "ko": "심장 떨어질 것 같아...",
+   "rd": "simjang tteoreojil geot gata...",
+   "en": "I think my heart's dropping...",
    "note": "punchline",
    "tags": [],
    "new": []
   }
  ],
  "learner_gender": "F",
- "initiator": "B"
+ "initiator": "B",
+ "review": {
+  "grok_rewrite": "data/review/r1_culture_a3_grok_rewrite.md [K127]",
+  "final": ""
+ }
 }

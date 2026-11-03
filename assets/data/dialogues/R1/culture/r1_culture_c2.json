@@ -40,14 +40,15 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:30"
+   "at": "17:30",
+   "art": "scene/ko/r1_culture_c2/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "화이팅!! 떨려?",
-   "rd": "hwaiting!! tteollyeo?",
-   "en": "You got this!! Nervous?",
+   "ko": "화이팅!! 떨려? 진짜?",
+   "rd": "hwaiting!! tteollyeo? jinjja?",
+   "en": "Fighting!! Nervous? Really?",
    "note": "화이팅 = fighting!",
    "tags": [],
    "new": [],
@@ -57,21 +58,22 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "응. 손 떨려.",
-   "rd": "eung. son tteollyeo.",
-   "en": "Yeah. My hands are shaking.",
+   "ko": "응 손 떨려.",
+   "rd": "eung son tteollyeo.",
+   "en": "Yeah my hands are shaking.",
    "note": "떨리다 = shake",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:31"
+   "at": "17:31",
+   "art": "scene/ko/r1_culture_c2/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "괜찮아. 3년 연습했잖아.",
-   "rd": "gwaenchana. 3nyeon yeonseupaetjana.",
-   "en": "It's okay. You practiced for three years.",
+   "ko": "괜찮아 3년 연습했잖아.",
+   "rd": "gwaenchana 3nyeon yeonseupaetjana.",
+   "en": "It's okay you practiced for three years.",
    "note": "-잖아 = you know",
    "tags": [],
    "new": [],
@@ -88,14 +90,15 @@
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:32"
+   "at": "17:32",
+   "art": "scene/ko/r1_culture_c2/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "맨 앞줄. 응원봉 들고.",
-   "rd": "maen apjul. eungwonbong deulgo.",
-   "en": "Front row. With a light stick.",
+   "ko": "맨 앞줄 응원봉 들고.",
+   "rd": "maen apjul eungwonbong deulgo.",
+   "en": "Front row with a light stick.",
    "note": "응원봉 = light stick",
    "tags": [],
    "new": [],
@@ -105,21 +108,22 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "그럼 너만 보고 할게.",
-   "rd": "geureom neoman bogo halge.",
-   "en": "Then I'll only look at you.",
+   "ko": "그럼 너만 보고 할게...",
+   "rd": "geureom neoman bogo halge...",
+   "en": "Then I'll only look at you...",
    "note": "심쿵",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "17:33"
+   "at": "17:33",
+   "art": "scene/ko/r1_culture_c2/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…나 지금 더 떨려.",
-   "rd": "…na jigeum deo tteollyeo.",
-   "en": "…Now I'm more nervous.",
+   "ko": "나 지금 더 떨려 ㅋㅋ",
+   "rd": "na jigeum deo tteollyeo ㅋㅋ",
+   "en": "Now I'm more nervous lol",
    "note": "punchline",
    "tags": [],
    "new": [],
@@ -127,5 +131,9 @@
    "at": "17:33"
   }
  ],
- "learner_gender": "F"
+ "learner_gender": "F",
+ "review": {
+  "grok_rewrite": "data/review/r1_culture_c2_grok_rewrite.md [K156]",
+  "final": ""
+ }
 }

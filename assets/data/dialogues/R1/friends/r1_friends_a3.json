@@ -35,18 +35,19 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "셀카 한 장만! 하나, 둘…",
-   "rd": "selka han jangman! hana, dul…",
-   "en": "Just one selfie! One, two…",
+   "ko": "셀카 한 장만 하나 둘...",
+   "rd": "selka han jangman hana dul...",
+   "en": "Just one selfie, one two...",
    "note": "셀카 = selfie",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a3/cut1"
   },
   {
    "num": 2,
    "speaker": "C",
-   "ko": "잠깐만, 나도!",
-   "rd": "jamkkanman, nado!",
+   "ko": "잠깐만 나도 껴!",
+   "rd": "jamkkanman nado kkyeo!",
    "en": "Wait, me too!",
    "note": "나도 = me too",
    "tags": [],
@@ -55,19 +56,20 @@
   {
    "num": 3,
    "speaker": "D",
-   "ko": "어? 나도 낄래!",
-   "rd": "eo? nado kkillae!",
-   "en": "Huh? I'm joining!",
+   "ko": "어 나도 낄래!",
+   "rd": "eo nado kkillae!",
+   "en": "Huh I'm joining too!",
    "note": "끼다 = squeeze in",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a3/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "잠깐… 강아지도 들어왔는데?",
-   "rd": "jamkkan… gangajido deureowanneunde?",
-   "en": "Wait… a dog came in too?",
+   "ko": "헐 강아지도 들어왔어?",
+   "rd": "heol gangajido deureowasseo?",
+   "en": "Whoa a dog came in too?",
    "note": "Kick: strangers and a dog — chaos",
    "tags": [],
    "new": []
@@ -75,19 +77,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "ㅋㅋ 누구 강아지야? 아 몰라, 그냥 찍어!",
-   "rd": "ㅋㅋ nugu gangajiya? a molla, geunyang jjigeo!",
-   "en": "Lol whose dog is this? Whatever, just shoot!",
+   "ko": "ㅋㅋ 누구 강아지야 그냥 찍어!",
+   "rd": "ㅋㅋ nugu gangajiya geunyang jjigeo!",
+   "en": "Lol whose dog just shoot!",
    "note": "아 몰라 = whatever",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a3/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "하나, 둘, 셋! …몇 명이야, 이거?",
-   "rd": "hana, dul, set! …myeot myeongiya, igeo?",
-   "en": "One, two, three! …How many people is this?",
+   "ko": "하나 둘 셋 몇 명이야?",
+   "rd": "hana dul set myeot myeongiya?",
+   "en": "One two three how many is this?",
    "note": "몇 명 = how many people",
    "tags": [],
    "new": []
@@ -95,22 +98,27 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "여덟 명이랑 강아지 한 마리.",
-   "rd": "yeodeol myeongirang gangaji han mari.",
-   "en": "Eight people and one dog.",
+   "ko": "여덟 명이랑 강아지야.",
+   "rd": "yeodeol myeongirang gangajiya.",
+   "en": "Eight people and a dog.",
    "note": "마리 = counter for animals",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a3/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "셀카가 아니라 단체 사진이네.",
-   "rd": "selkaga anira danche sajinine.",
-   "en": "That's not a selfie, that's a group photo.",
+   "ko": "셀카 아니라 단체 사진이네...",
+   "rd": "selka anira danche sajinine...",
+   "en": "Not a selfie, it's a group photo...",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_friends_a3_grok_rewrite.md [K128]",
+  "final": ""
+ }
 }

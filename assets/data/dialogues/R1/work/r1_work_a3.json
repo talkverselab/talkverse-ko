@@ -35,19 +35,20 @@
   {
    "num": 1,
    "speaker": "C",
-   "ko": "{name} 씨, 자료 화면 공유해 주세요.",
-   "rd": "{name} ssi, jaryo hwamyeon gongyuhae juseyo.",
+   "ko": "{name} 씨 자료 화면 공유해 주세요.",
+   "rd": "{name} ssi jaryo hwamyeon gongyuhae juseyo.",
    "en": "{name}, please share your screen.",
    "note": "화면 공유 = screen share",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_work_a3/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "네, 지금 공유할게요.",
-   "rd": "ne, jigeum gongyuhalgeyo.",
-   "en": "Sure, sharing now.",
+   "ko": "네 지금 공유할게요.",
+   "rd": "ne jigeum gongyuhalgeyo.",
+   "en": "Yes, sharing now.",
    "note": "공유 = share",
    "tags": [],
    "new": []
@@ -55,19 +56,20 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "(속삭이며) 그거… 쇼핑몰 장바구니인데?",
-   "rd": "(soksagimyeo) geugeo… syopingmol jangbaguniinde?",
-   "en": "(whispering) That's… a shopping cart?",
+   "ko": "그거 쇼핑몰 장바구니인데?",
+   "rd": "geugeo syopingmol jangbaguniinde?",
+   "en": "That's a shopping cart?",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_work_a3/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "잠깐만요! 죄송합니다!",
-   "rd": "jamkkanmanyo! joesonghamnida!",
-   "en": "Wait! I'm sorry!",
+   "ko": "잠깐만요 죄송합니다!",
+   "rd": "jamkkanmanyo joesonghamnida!",
+   "en": "Wait, I'm sorry!",
    "note": "apology",
    "tags": [],
    "new": []
@@ -75,19 +77,20 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "고양이 사료 20kg? 많이 사네요.",
-   "rd": "goyangi saryo 20kg? mani saneyo.",
-   "en": "20 kg of cat food? That's a lot.",
+   "ko": "고양이 사료 20kg? 많이 사네요 진짜요?",
+   "rd": "goyangi saryo 20kg? mani saneyo jinjjayo?",
+   "en": "20kg of cat food? That's a lot, really?",
    "note": "사료 = pet food",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_work_a3/cut3"
   },
   {
    "num": 6,
    "speaker": "D",
-   "ko": "저도 그거 사요! 링크 주세요!",
-   "rd": "jeodo geugeo sayo! ringkeu juseyo!",
-   "en": "I buy that too! Send me the link!",
+   "ko": "저도 그거 사요 링크 주세요!",
+   "rd": "jeodo geugeo sayo ringkeu juseyo!",
+   "en": "I buy that too, send the link!",
    "note": "Kick: chaos — meeting derails",
    "tags": [],
    "new": []
@@ -95,12 +98,13 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "…회의 5분 쉬었다 할게요. 저도 볼게요.",
-   "rd": "…hoeui 5bun swieotda halgeyo. jeodo bolgeyo.",
-   "en": "…Let's take five. I want to look too.",
+   "ko": "회의 5분 쉬었다 할게요 저도 볼게요.",
+   "rd": "hoeui 5bun swieotda halgeyo jeodo bolgeyo.",
+   "en": "Let's take five, I want to look too.",
    "note": "punchline setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_work_a3/cut4"
   },
   {
    "num": 8,
@@ -112,5 +116,9 @@
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_work_a3_grok_rewrite.md [K146]",
+  "final": ""
+ }
 }

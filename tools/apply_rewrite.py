@@ -10,12 +10,15 @@ for line in open(md, encoding='utf-8'):
     m = re.match(r'^(\d+) ([A-D]): (.+?) / (.+?)(?: / .*)?$', line.strip())
     if m and int(m[1]) not in got:
         got[int(m[1])] = (m[2], m[3].strip(), m[4].strip())
+missing = []
 for t in e['turns']:
+    if t['num'] not in got:  # Grok 답이 중간에 끊긴 경우 — 그 턴은 초안 유지, review 에 기록
+        missing.append(t['num']); continue
     sp, ko, en = got[t['num']]
     assert sp == t['speaker'], (t['num'], sp, t['speaker'])
     t['ko'], t['en'] = ko, en
     if not t.get('rd_manual'):
         t['rd'] = rd_ko.to_rd(ko)
-e['review'] = {'grok_rewrite': f'{md} [{code}]', 'final': ''}
+e['review'] = {'grok_rewrite': f'{md} [{code}]', 'final': '' if not missing else f'Grok 답이 끊겨 턴 {missing} 은 초안 유지'}
 json.dump(e, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 print(p, len(got))

@@ -33,12 +33,13 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "와, 첫눈이다. 근데 진짜 춥다.",
-   "rd": "wa, cheonnunida. geunde jinjja chupda.",
-   "en": "Wow, the first snow. But it's really cold.",
+   "ko": "와 첫눈이다 근데 추워.",
+   "rd": "wa cheonnunida geunde chuwo.",
+   "en": "Wow first snow but it's cold.",
    "note": "첫눈 = first snow",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a9/cut1"
   },
   {
    "num": 2,
@@ -53,19 +54,20 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "왜? …어?",
-   "rd": "wae? …eo?",
-   "en": "Why? …Huh?",
+   "ko": "왜? 어?",
+   "rd": "wae? eo?",
+   "en": "Why? Huh?",
    "note": "surprise",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a9/cut2"
   },
   {
    "num": 4,
    "speaker": "B",
-   "ko": "목도리 반 줄게. 같이 하자.",
-   "rd": "mokdori ban julge. gachi haja.",
-   "en": "I'll give you half my scarf. Let's share.",
+   "ko": "목도리 반 줄게 같이 하자.",
+   "rd": "mokdori ban julge gachi haja.",
+   "en": "I'll give you half the scarf, let's share.",
    "note": "반 = half",
    "tags": [],
    "new": []
@@ -73,18 +75,19 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "이러면 너무 가까운데…",
-   "rd": "ireomyeon neomu gakkaunde…",
-   "en": "This is really close…",
+   "ko": "이러면 너무 가까운데...",
+   "rd": "ireomyeon neomu gakkaunde...",
+   "en": "This is too close...",
    "note": "가깝다 = close",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a9/cut3"
   },
   {
    "num": 6,
    "speaker": "B",
-   "ko": "싫어? 그럼 다시 가져갈게.",
-   "rd": "sileo? geureom dasi gajyeogalge.",
+   "ko": "싫어? 그럼 가져갈게.",
+   "rd": "sileo? geureom gajyeogalge.",
    "en": "Don't like it? Then I'll take it back.",
    "note": "심쿵: teasing",
    "tags": [],
@@ -93,23 +96,28 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "아니! 괜찮아. 완전 괜찮아.",
-   "rd": "ani! gwaenchana. wanjeon gwaenchana.",
-   "en": "No! It's fine. Totally fine.",
+   "ko": "아니 괜찮아 완전 괜찮아.",
+   "rd": "ani gwaenchana wanjeon gwaenchana.",
+   "en": "No it's fine totally fine.",
    "note": "완전 = totally",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a9/cut4"
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "…나도 설렌다, 사실.",
-   "rd": "…nado seollenda, sasil.",
-   "en": "…I'm feeling it too, honestly.",
+   "ko": "나도 설렌다 사실...",
+   "rd": "nado seollenda sasil...",
+   "en": "I'm feeling it too, honestly...",
    "note": "심쿵 punchline",
    "tags": [],
    "new": []
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a9_grok_rewrite.md [K136]",
+  "final": ""
+ }
 }

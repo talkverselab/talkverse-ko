@@ -32,19 +32,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "손하트 해 봐!",
-   "rd": "sonhateu hae bwa!",
-   "en": "Do a finger heart!",
+   "ko": "야 손하트 한번 해 봐!",
+   "rd": "ya sonhateu hanbeon hae bwa!",
+   "en": "Hey, try a finger heart!",
    "note": "손하트 = finger heart",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_culture_a2/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "손하트? 이렇게?",
-   "rd": "sonhateu? ireoke?",
-   "en": "Finger heart? Like this?",
+   "ko": "어? 이렇게?",
+   "rd": "eo? ireoke?",
+   "en": "Huh? Like this?",
    "note": "이렇게 = like this",
    "tags": [],
    "new": []
@@ -52,19 +53,20 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "아니, 그건 큰 하트. 손가락으로.",
-   "rd": "ani, geugeon keun hateu. songarageuro.",
-   "en": "No, that's a big heart. With your fingers.",
+   "ko": "아니 큰 하트 말고 손가락으로!",
+   "rd": "ani keun hateu malgo songarageuro!",
+   "en": "No, not a big heart, with your fingers!",
    "note": "손가락 = finger",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_culture_a2/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "…이렇게? 손가락 아파.",
-   "rd": "…ireoke? songarak apa.",
-   "en": "…Like this? My fingers hurt.",
+   "ko": "이렇게? 아 손가락 아파!",
+   "rd": "ireoke? a songarak apa!",
+   "en": "Like this? Ow, my fingers hurt!",
    "note": "Kick: awkward fingers",
    "tags": [],
    "new": []
@@ -72,19 +74,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "ㅋㅋ 엄지랑 검지만!",
-   "rd": "ㅋㅋ eomjirang geomjiman!",
-   "en": "Lol just your thumb and index finger!",
+   "ko": "ㅋㅋ 엄지 검지만 써!",
+   "rd": "ㅋㅋ eomji geomjiman sseo!",
+   "en": "Lol just thumb and index!",
    "note": "엄지·검지 = thumb·index",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_culture_a2/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "아, 이거? 돈 같은데?",
-   "rd": "a, igeo? don gateunde?",
-   "en": "Oh, this? Looks like money?",
+   "ko": "아 이거 돈 같아 진짜?",
+   "rd": "a igeo don gata jinjja?",
+   "en": "Oh this looks like money, really?",
    "note": "money gesture",
    "tags": [],
    "new": []
@@ -92,22 +95,27 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋㅋ 비슷해. 근데 하트야.",
-   "rd": "ㅋㅋㅋ biseuthae. geunde hateuya.",
-   "en": "Lolol close. But it's a heart.",
+   "ko": "ㅋㅋ 비슷한데 하트야 귀여워",
+   "rd": "ㅋㅋ biseuthande hateuya gwiyeowo",
+   "en": "Lol close but it's a heart, cute",
    "note": "비슷하다 = similar",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_culture_a2/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "그럼 하트로 티켓 살게.",
-   "rd": "geureom hateuro tiket salge.",
-   "en": "Then I'll buy tickets with hearts.",
+   "ko": "그럼 하트로 티켓 살게...",
+   "rd": "geureom hateuro tiket salge...",
+   "en": "Then I'll buy the tickets with a heart...",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_culture_a2_grok_rewrite.md [K111]",
+  "final": ""
+ }
 }

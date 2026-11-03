@@ -32,19 +32,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "아직 일해요?",
-   "rd": "ajik ilhaeyo?",
+   "ko": "아직 일하세요?",
+   "rd": "ajik ilhaseyo?",
    "en": "Still working?",
    "note": "아직 = still",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_work_a2/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "네. 조금 남았어요.",
-   "rd": "ne. jogeum namasseoyo.",
-   "en": "Yes. A little left.",
+   "ko": "네 조금 남았어요.",
+   "rd": "ne jogeum namasseoyo.",
+   "en": "Yes, a little left.",
    "note": "남다 = remain",
    "tags": [],
    "new": []
@@ -57,14 +58,15 @@
    "en": "Have this.",
    "note": "드세요 = please have",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_work_a2/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "커피요? 감사합니다!",
-   "rd": "keopiyo? gamsahamnida!",
-   "en": "Coffee? Thank you!",
+   "ko": "커피요? 감사합니다.",
+   "rd": "keopiyo? gamsahamnida.",
+   "en": "Coffee? Thank you.",
    "note": "감사합니다",
    "tags": [],
    "new": []
@@ -72,19 +74,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "제 것도 있어요. 같이 해요.",
-   "rd": "je geotdo isseoyo. gachi haeyo.",
-   "en": "I have one too. Let's work together.",
+   "ko": "저도 있어요 같이 해요...",
+   "rd": "jeodo isseoyo gachi haeyo...",
+   "en": "I have one too, let's do it together...",
    "note": "심쿵: she stays",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_work_a2/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "진짜요? 해솔 씨 일 끝났잖아요.",
-   "rd": "jinjjayo? haesol ssi il kkeunnatjanayo.",
-   "en": "Really? You're done with your work.",
+   "ko": "진짜요? 일 끝났잖아요.",
+   "rd": "jinjjayo? il kkeunnatjanayo.",
+   "en": "Really? Your work is done.",
    "note": "-잖아요 = you know",
    "tags": [],
    "new": []
@@ -92,19 +95,20 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "네. 그냥… 같이 있고 싶어서요.",
-   "rd": "ne. geunyang… gachi itgo sipeoseoyo.",
-   "en": "Yes. I just… wanted to be with you.",
+   "ko": "그냥 같이 있고 싶어서요...",
+   "rd": "geunyang gachi itgo sipeoseoyo...",
+   "en": "Just wanted to be with you...",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_work_a2/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…저 이제 천천히 할게요.",
-   "rd": "…jeo ije cheoncheonhi halgeyo.",
-   "en": "…I'll work slowly now.",
+   "ko": "천천히 할게요 괜찮아요...",
+   "rd": "cheoncheonhi halgeyo gwaenchanayo...",
+   "en": "I'll take it slow, it's fine...",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -112,5 +116,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_work_a2_grok_rewrite.md [K126]",
+  "final": ""
+ }
 }

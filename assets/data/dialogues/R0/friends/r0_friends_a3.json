@@ -33,19 +33,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "마지막 한 조각이다.",
-   "rd": "majimak han jogagida.",
-   "en": "It's the last piece.",
+   "ko": "야 이거 마지막 조각이야.",
+   "rd": "ya igeo majimak jogagiya.",
+   "en": "Hey, this is the last piece.",
    "note": "마지막 = last",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a3/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "나 먹어도 돼?",
-   "rd": "na meogeodo dwae?",
-   "en": "Can I eat it?",
+   "ko": "나 이거 먹을게?",
+   "rd": "na igeo meogeulge?",
+   "en": "Can I eat this?",
    "note": "-아도 돼? = can I",
    "tags": [],
    "new": []
@@ -53,19 +54,20 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "잠깐만! 나도!",
-   "rd": "jamkkanman! nado!",
-   "en": "Wait! Me too!",
+   "ko": "잠깐만! 나도 먹을래!",
+   "rd": "jamkkanman! nado meogeullae!",
+   "en": "Wait! I want it too!",
    "note": "나도",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a3/cut2"
   },
   {
    "num": 4,
    "speaker": "B",
-   "ko": "가위바위보 하자.",
-   "rd": "gawibawibo haja.",
-   "en": "Let's do rock-paper-scissors.",
+   "ko": "그럼 가위바위보 하자.",
+   "rd": "geureom gawibawibo haja.",
+   "en": "Then let's do rock-paper-scissors.",
    "note": "가위바위보",
    "tags": [],
    "new": []
@@ -73,19 +75,20 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "(멍!) …어?",
-   "rd": "(meong!) …eo?",
-   "en": "(woof!) …Huh?",
+   "ko": "멍멍! …어 뭐야!",
+   "rd": "meongmeong! …eo mwoya!",
+   "en": "Woof woof! …Huh, what!",
    "note": "Kick: the dog — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a3/cut3"
   },
   {
    "num": 6,
    "speaker": "C",
-   "ko": "헐, 강아지가 먹었어.",
-   "rd": "heol, gangajiga meogeosseo.",
-   "en": "Whoa, the dog ate it.",
+   "ko": "헐 강아지가 다 먹었어!",
+   "rd": "heol gangajiga da meogeosseo!",
+   "en": "Whoa, the dog ate it all!",
    "note": "강아지 = puppy",
    "tags": [],
    "new": []
@@ -93,22 +96,27 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "아니… 누구 강아지야?",
-   "rd": "ani… nugu gangajiya?",
-   "en": "No way… whose dog is this?",
+   "ko": "아니 누구 강아지야 또!",
+   "rd": "ani nugu gangajiya tto!",
+   "en": "No way, whose dog is this again!",
    "note": "누구 = whose",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_friends_a3/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "몰라. 근데 행복해 보여.",
-   "rd": "molla. geunde haengbokae boyeo.",
-   "en": "No idea. But it looks happy.",
+   "ko": "몰라... 근데 행복해 보여...",
+   "rd": "molla... geunde haengbokae boyeo...",
+   "en": "No idea... but it looks happy...",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_friends_a3_grok_rewrite.md [K113]",
+  "final": ""
+ }
 }

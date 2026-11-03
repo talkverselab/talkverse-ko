@@ -32,19 +32,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "어때? 맛있지?",
-   "rd": "eottae? masitji?",
-   "en": "How is it? Good, right?",
+   "ko": "야 이거 어때?",
+   "rd": "ya igeo eottae?",
+   "en": "Hey, how's this?",
    "note": "맛있지? = tasty, right?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_culture_a3/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "응! 안 매워.",
-   "rd": "eung! an maewo.",
-   "en": "Yeah! Not spicy.",
+   "ko": "응 안 매운데.",
+   "rd": "eung an maeunde.",
+   "en": "Yeah, it's not spicy.",
    "note": "맵다 = spicy",
    "tags": [],
    "new": []
@@ -52,19 +53,20 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "진짜? 한 입 더.",
-   "rd": "jinjja? han ip deo.",
-   "en": "Really? One more bite.",
+   "ko": "진짜? 더 먹어 봐.",
+   "rd": "jinjja? deo meogeo bwa.",
+   "en": "Really? Try some more.",
    "note": "한 입 = one bite",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_culture_a3/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "…헐. 물! 물!",
-   "rd": "…heol. mul! mul!",
-   "en": "…Whoa. Water! Water!",
+   "ko": "헐 매워! 물 줘!",
+   "rd": "heol maewo! mul jwo!",
+   "en": "Whoa spicy! Water!",
    "note": "delayed spice",
    "tags": [],
    "new": []
@@ -72,19 +74,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "물은 더 매워. 우유!",
-   "rd": "mureun deo maewo. uyu!",
-   "en": "Water makes it worse. Milk!",
+   "ko": "물은 더 매워 우유 빨리!",
+   "rd": "mureun deo maewo uyu ppalli!",
+   "en": "Water makes it worse, milk quick!",
    "note": "우유 = milk",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_culture_a3/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "우유도… 아이스크림!",
-   "rd": "uyudo… aiseukeurim!",
-   "en": "Milk too… ice cream!",
+   "ko": "우유도 안 돼 아이스크림!",
+   "rd": "uyudo an dwae aiseukeurim!",
+   "en": "Milk's no good either, ice cream!",
    "note": "Kick: escalating — chaos",
    "tags": [],
    "new": []
@@ -92,22 +95,27 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋ 괜찮아?",
-   "rd": "ㅋㅋ gwaenchana?",
-   "en": "Lol you okay?",
+   "ko": "ㅋㅋ 괜찮아? 옷 봐.",
+   "rd": "ㅋㅋ gwaenchana? ot bwa.",
+   "en": "Lol you okay? Look at your clothes.",
    "note": "괜찮아?",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_culture_a3/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "응. 근데 한 그릇 더.",
-   "rd": "eung. geunde han geureut deo.",
-   "en": "Yeah. But one more bowl.",
+   "ko": "응... 근데 한 그릇 더...",
+   "rd": "eung... geunde han geureut deo...",
+   "en": "Yeah... but one more bowl...",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_culture_a3_grok_rewrite.md [K112]",
+  "final": ""
+ }
 }

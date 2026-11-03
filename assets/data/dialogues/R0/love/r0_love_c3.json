@@ -34,18 +34,19 @@
    "speaker": "B",
    "ko": "뭐 해?",
    "rd": "mwo hae?",
-   "en": "What are you doing?",
+   "en": "What you doing?",
    "note": "뭐 해?",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:30"
+   "at": "22:30",
+   "art": "scene/ko/r0_love_c3/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "그냥 누워 있어.",
-   "rd": "geunyang nuwo isseo.",
+   "ko": "그냥 누워.",
+   "rd": "geunyang nuwo.",
    "en": "Just lying down.",
    "note": "눕다 = lie down",
    "tags": [],
@@ -56,14 +57,15 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "나도.",
-   "rd": "nado.",
-   "en": "Me too.",
+   "ko": "나도 ㅋㅋ",
+   "rd": "nado ㅋㅋ",
+   "en": "Me too lol",
    "note": "나도 = me too",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:31"
+   "at": "22:31",
+   "art": "scene/ko/r0_love_c3/cut2"
   },
   {
    "num": 4,
@@ -80,14 +82,15 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "…보고 싶어서.",
-   "rd": "…bogo sipeoseo.",
-   "en": "…Because I miss you.",
+   "ko": "보고 싶어서...",
+   "rd": "bogo sipeoseo...",
+   "en": "Because I miss you...",
    "note": "심쿵: 보고 싶다 = miss",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:33"
+   "at": "22:33",
+   "art": "scene/ko/r0_love_c3/cut3"
   },
   {
    "num": 6,
@@ -104,21 +107,22 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "응. 많이.",
-   "rd": "eung. mani.",
-   "en": "Yeah. A lot.",
+   "ko": "응 많이...",
+   "rd": "eung mani...",
+   "en": "Yeah a lot...",
    "note": "많이 = a lot",
    "tags": [],
    "new": [],
    "ui": "bubble",
-   "at": "22:33"
+   "at": "22:33",
+   "art": "scene/ko/r0_love_c3/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "나도. 내일 일찍 보자.",
-   "rd": "nado. naeil iljjik boja.",
-   "en": "Me too. Let's meet early tomorrow.",
+   "ko": "나도 내일 보자...",
+   "rd": "nado naeil boja...",
+   "en": "Me too, let's meet tomorrow...",
    "note": "일찍 = early",
    "tags": [],
    "new": [],
@@ -126,5 +130,9 @@
    "at": "22:34"
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_c3_grok_rewrite.md [K120]",
+  "final": ""
+ }
 }

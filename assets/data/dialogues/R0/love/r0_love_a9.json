@@ -32,19 +32,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "폰 줘 봐.",
-   "rd": "pon jwo bwa.",
-   "en": "Give me your phone.",
+   "ko": "폰 좀 줘 봐.",
+   "rd": "pon jom jwo bwa.",
+   "en": "Give me your phone a sec.",
    "note": "폰 = phone",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a9/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "왜?",
-   "rd": "wae?",
-   "en": "Why?",
+   "ko": "왜 줘?",
+   "rd": "wae jwo?",
+   "en": "Why give it?",
    "note": "왜",
    "tags": [],
    "new": []
@@ -52,19 +53,20 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "내 번호 저장해 줄게.",
-   "rd": "nae beonho jeojanghae julge.",
+   "ko": "번호 저장해 줄게.",
+   "rd": "beonho jeojanghae julge.",
    "en": "I'll save my number.",
    "note": "저장 = save",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a9/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
    "ko": "이름 뭐로 했어?",
    "rd": "ireum mworo haesseo?",
-   "en": "What name did you use?",
+   "en": "What name did you put?",
    "note": "뭐로 = as what",
    "tags": [],
    "new": []
@@ -72,19 +74,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "…하트.",
-   "rd": "…hateu.",
-   "en": "…A heart.",
+   "ko": "하트로...",
+   "rd": "hateuro...",
+   "en": "As a heart...",
    "note": "심쿵: saved as ♥",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a9/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "헐. 진짜 하트야.",
-   "rd": "heol. jinjja hateuya.",
-   "en": "Whoa. It really is a heart.",
+   "ko": "헐 진짜? 하트야.",
+   "rd": "heol jinjja? hateuya.",
+   "en": "Whoa really? It's a heart.",
    "note": "진짜",
    "tags": [],
    "new": []
@@ -92,19 +95,20 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "싫어? 바꿔.",
-   "rd": "sileo? bakkwo.",
-   "en": "Don't like it? Change it.",
+   "ko": "싫어? 바꿔 줄까...",
+   "rd": "sileo? bakkwo julkka...",
+   "en": "Don't like it? Want me to change...",
    "note": "바꾸다 = change",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a9/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "아니. 귀여워. 그냥 둘게.",
-   "rd": "ani. gwiyeowo. geunyang dulge.",
-   "en": "No. It's cute. I'll keep it.",
+   "ko": "아니 귀여워 그냥 둘게...",
+   "rd": "ani gwiyeowo geunyang dulge...",
+   "en": "No it's cute, I'll just keep it...",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -112,5 +116,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a9_grok_rewrite.md [K119]",
+  "final": ""
+ }
 }

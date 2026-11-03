@@ -35,19 +35,20 @@
   {
    "num": 1,
    "speaker": "C",
-   "ko": "태오야! 간식 사 왔어!",
-   "rd": "taeoya! gansik sa wasseo!",
-   "en": "Taeo! We brought snacks!",
+   "ko": "태오야 간식 사 왔어!",
+   "rd": "taeoya gansik sa wasseo!",
+   "en": "Taeo we brought snacks!",
    "note": "간식 = snacks",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a5/cut1"
   },
   {
    "num": 2,
    "speaker": "B",
-   "ko": "헐, 대박. 고마워!",
-   "rd": "heol, daebak. gomawo!",
-   "en": "Whoa, awesome. Thanks!",
+   "ko": "헐 대박 고마워!",
+   "rd": "heol daebak gomawo!",
+   "en": "Whoa awesome thanks!",
    "note": "대박",
    "tags": [],
    "new": []
@@ -60,14 +61,15 @@
    "en": "I bought five triangle gimbap.",
    "note": "삼각김밥 = triangle rice ball",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a5/cut2"
   },
   {
    "num": 4,
    "speaker": "B",
-   "ko": "잠깐만… 애들아! 간식!",
-   "rd": "jamkkanman… aedeura! gansik!",
-   "en": "Wait… guys! Snacks!",
+   "ko": "잠깐만 애들아 간식!",
+   "rd": "jamkkanman aedeura gansik!",
+   "en": "Wait guys snacks!",
    "note": "calls others",
    "tags": [],
    "new": []
@@ -75,19 +77,20 @@
   {
    "num": 5,
    "speaker": "D",
-   "ko": "(우르르) 와아아! 누나들 최고!",
-   "rd": "(ureureu) waaa! nunadeul choego!",
-   "en": "(stampede) Waaah! You're the best!",
+   "ko": "와아아 누나들 최고! 진짜?",
+   "rd": "waaa nunadeul choego! jinjja?",
+   "en": "Waaah you're the best! Really?",
    "note": "Kick: ten trainees — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a5/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "다섯 개인데… 열 명이야.",
-   "rd": "daseot gaeinde… yeol myeongiya.",
-   "en": "There are five… and ten people.",
+   "ko": "다섯 개인데 열 명이야.",
+   "rd": "daseot gaeinde yeol myeongiya.",
+   "en": "There are five and ten people.",
    "note": "숫자",
    "tags": [],
    "new": []
@@ -95,12 +98,13 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "반씩 먹으면 돼. 연습생은 나눠 먹어.",
-   "rd": "banssik meogeumyeon dwae. yeonseupsaengeun nanwo meogeo.",
-   "en": "Half each. Trainees share.",
+   "ko": "반씩 먹으면 돼 연습생은 나눠 먹어.",
+   "rd": "banssik meogeumyeon dwae yeonseupsaengeun nanwo meogeo.",
+   "en": "Half each, trainees share.",
    "note": "나눠 먹다 = share food",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_friends_a5/cut4"
   },
   {
    "num": 8,
@@ -113,5 +117,9 @@
    "new": []
   }
  ],
- "learner_gender": "F"
+ "learner_gender": "F",
+ "review": {
+  "grok_rewrite": "data/review/r1_friends_a5_grok_rewrite.md [K155]",
+  "final": ""
+ }
 }

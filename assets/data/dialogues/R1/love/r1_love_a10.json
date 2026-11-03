@@ -37,14 +37,15 @@
    "en": "Have you heard this song?",
    "note": "들어 보다 = try listening",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a10/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "아니. 무슨 노래야?",
-   "rd": "ani. museun noraeya?",
-   "en": "No. What song is it?",
+   "ko": "아니 무슨 노래야?",
+   "rd": "ani museun noraeya?",
+   "en": "No, what song is it?",
    "note": "무슨 = what",
    "tags": [],
    "new": []
@@ -57,14 +58,15 @@
    "en": "Put one in.",
    "note": "끼다 = put in",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a10/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "…좋다. 이 노래 제목이 뭐야?",
-   "rd": "…jota. i norae jemogi mwoya?",
-   "en": "…It's nice. What's the title?",
+   "ko": "좋다 제목이 뭐야?",
+   "rd": "jota jemogi mwoya?",
+   "en": "It's nice, what's the title?",
    "note": "제목 = title",
    "tags": [],
    "new": []
@@ -72,19 +74,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "「너한테 하고 싶은 말」.",
-   "rd": "「neohante hago sipeun mal」.",
-   "en": "\"What I Want to Tell You.\"",
+   "ko": "너한테 하고 싶은 말...",
+   "rd": "neohante hago sipeun mal...",
+   "en": "What I want to tell you...",
    "note": "심쿵: the title",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a10/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "…그게 제목이야, 아니면…",
-   "rd": "…geuge jemogiya, animyeon…",
-   "en": "…Is that the title, or…",
+   "ko": "그게 제목이야 아니면...?",
+   "rd": "geuge jemogiya animyeon...?",
+   "en": "Is that the title or...?",
    "note": "ambiguity",
    "tags": [],
    "new": []
@@ -92,19 +95,20 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "둘 다.",
-   "rd": "dul da.",
+   "ko": "둘 다야.",
+   "rd": "dul daya.",
    "en": "Both.",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a10/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "그럼 한 번 더 듣자. 완전 처음부터.",
-   "rd": "geureom han beon deo deutja. wanjeon cheoeumbuteo.",
-   "en": "Then let's listen again. From the very start.",
+   "ko": "그럼 한 번 더 듣자 완전 처음부터.",
+   "rd": "geureom han beon deo deutja wanjeon cheoeumbuteo.",
+   "en": "Then let's listen again, from the very start.",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -112,5 +116,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a10_grok_rewrite.md [K132]",
+  "final": ""
+ }
 }

@@ -32,19 +32,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "{name} 씨, 숙제 했어요?",
-   "rd": "{name} ssi, sukje haesseoyo?",
+   "ko": "{name} 씨 숙제 했어요?",
+   "rd": "{name} ssi sukje haesseoyo?",
    "en": "{name}, did you do the homework?",
    "note": "숙제 = homework",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a2/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "응, 다 했어!",
-   "rd": "eung, da haesseo!",
-   "en": "Yeah, I did it all!",
+   "ko": "응 다 했어!",
+   "rd": "eung da haesseo!",
+   "en": "Yeah I did it all!",
    "note": "반말 to a teacher",
    "tags": [],
    "new": []
@@ -52,19 +53,20 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "…응?",
-   "rd": "…eung?",
-   "en": "…\"Yeah\"?",
+   "ko": "응?",
+   "rd": "eung?",
+   "en": "Yeah?",
    "note": "Kick: teacher reacts",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a2/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "아! 죄송합니다. 네, 다 했어요.",
-   "rd": "a! joesonghamnida. ne, da haesseoyo.",
-   "en": "Oh! I'm sorry. Yes, I did it all.",
+   "ko": "아 죄송합니다 네 다 했어요.",
+   "rd": "a joesonghamnida ne da haesseoyo.",
+   "en": "Ah sorry, yes I did it all.",
    "note": "correction",
    "tags": [],
    "new": []
@@ -72,19 +74,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "ㅋㅋ 괜찮아요. 친구한테 쓰는 말이죠?",
-   "rd": "ㅋㅋ gwaenchanayo. chinguhante sseuneun marijyo?",
-   "en": "Haha, it's fine. That's how you talk to friends, right?",
+   "ko": "괜찮아요 친구한테 쓰는 말이죠?",
+   "rd": "gwaenchanayo chinguhante sseuneun marijyo?",
+   "en": "It's fine, that's how you talk to friends right?",
    "note": "친구한테 = to friends",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a2/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "네. 어제 친구랑 하루 종일 반말했어요.",
-   "rd": "ne. eoje chingurang haru jongil banmalhaesseoyo.",
-   "en": "Yes. I spoke casually with a friend all day yesterday.",
+   "ko": "네 어제 친구랑 반말했어요.",
+   "rd": "ne eoje chingurang banmalhaesseoyo.",
+   "en": "Yes I spoke casually with a friend yesterday.",
    "note": "하루 종일 = all day",
    "tags": [],
    "new": []
@@ -92,22 +95,27 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "좋아요. 근데 선생님한테는 존댓말.",
-   "rd": "joayo. geunde seonsaengnimhanteneun jondaenmal.",
-   "en": "Good. But formal speech for teachers.",
+   "ko": "좋아요 근데 선생님한테는 존댓말.",
+   "rd": "joayo geunde seonsaengnimhanteneun jondaenmal.",
+   "en": "Good but formal speech for teachers.",
    "note": "존댓말 = polite speech",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_study_a2/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "네! 선생님한테는 존댓말, 친구한테는 응!",
-   "rd": "ne! seonsaengnimhanteneun jondaenmal, chinguhanteneun eung!",
-   "en": "Yes! Polite for teachers, \"응\" for friends!",
+   "ko": "네 선생님한테는 존댓말 친구한테는 응!",
+   "rd": "ne seonsaengnimhanteneun jondaenmal chinguhanteneun eung!",
+   "en": "Yes polite for teachers, \"yeah\" for friends!",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_study_a2_grok_rewrite.md [K140]",
+  "final": ""
+ }
 }

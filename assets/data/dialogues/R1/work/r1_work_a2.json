@@ -34,12 +34,13 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "선배, 복사기에 종이가 걸렸어요.",
-   "rd": "seonbae, boksagie jongiga geollyeosseoyo.",
-   "en": "Jiho, the copier jammed.",
+   "ko": "선배 복사기에 종이가 걸렸어요.",
+   "rd": "seonbae boksagie jongiga geollyeosseoyo.",
+   "en": "Senior, the copier jammed.",
    "note": "걸리다 = get stuck",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_work_a2/cut1"
   },
   {
    "num": 2,
@@ -54,12 +55,13 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "뺐어요! 다시 눌렀어요.",
-   "rd": "ppaesseoyo! dasi nulleosseoyo.",
-   "en": "Got it out! Pressed it again.",
+   "ko": "뺐어요 다시 눌렀어요.",
+   "rd": "ppaesseoyo dasi nulleosseoyo.",
+   "en": "Got it out, pressed it again.",
    "note": "누르다 = press",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_work_a2/cut2"
   },
   {
    "num": 4,
@@ -74,19 +76,20 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "…5장이요. 아, 500장이요?",
-   "rd": "…5jangiyo. a, 500jangiyo?",
-   "en": "…Five. Oh, 500?",
+   "ko": "5장이요 아 500장이요?",
+   "rd": "5jangiyo a 500jangiyo?",
+   "en": "Five, oh 500?",
    "note": "Kick: an extra 0",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_work_a2/cut3"
   },
   {
    "num": 6,
    "speaker": "B",
-   "ko": "헐, 멈춰요! 빨리!",
-   "rd": "heol, meomchwoyo! ppalli!",
-   "en": "Whoa, stop it! Quick!",
+   "ko": "헐 멈춰요 빨리!",
+   "rd": "heol meomchwoyo ppalli!",
+   "en": "Whoa stop it quick!",
    "note": "멈추다 = stop",
    "tags": [],
    "new": []
@@ -94,22 +97,27 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "이거 누가 복사했어요? 복도까지 종이예요.",
-   "rd": "igeo nuga boksahaesseoyo? bokdokkaji jongiyeyo.",
-   "en": "Who copied this? There's paper all the way to the hallway.",
+   "ko": "이거 누가 복사했어요 복도까지 종이예요.",
+   "rd": "igeo nuga boksahaesseoyo bokdokkaji jongiyeyo.",
+   "en": "Who copied this, paper all the way to the hallway.",
    "note": "복도 = hallway",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_work_a2/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…죄송합니다. 다 제 거예요.",
-   "rd": "…joesonghamnida. da je geoyeyo.",
-   "en": "…I'm sorry. It's all mine.",
+   "ko": "죄송합니다 다 제 거예요.",
+   "rd": "joesonghamnida da je geoyeyo.",
+   "en": "Sorry it's all mine.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_work_a2_grok_rewrite.md [K145]",
+  "final": ""
+ }
 }

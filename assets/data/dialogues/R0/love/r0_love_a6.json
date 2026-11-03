@@ -32,19 +32,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "어? 그거 귀여워요.",
-   "rd": "eo? geugeo gwiyeowoyo.",
-   "en": "Oh? That's cute.",
+   "ko": "아 그거 귀여워.",
+   "rd": "a geugeo gwiyeowo.",
+   "en": "Ah, that's cute.",
    "note": "귀여워요 = (it's) cute",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a6/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
    "ko": "이거요? 가방 고리요?",
    "rd": "igeoyo? gabang goriyo?",
-   "en": "This? My bag charm?",
+   "en": "This? The bag charm?",
    "note": "고리 = keychain/charm",
    "tags": [],
    "new": []
@@ -52,19 +53,20 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "아니요… 웃는 거요.",
-   "rd": "aniyo… unneun geoyo.",
-   "en": "No… your smile.",
+   "ko": "아니... 웃는 얼굴이요.",
+   "rd": "ani... unneun eolguriyo.",
+   "en": "No... your smiling face.",
    "note": "Kick: the compliment is for him",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a6/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "…네?",
-   "rd": "…ne?",
-   "en": "…Sorry?",
+   "ko": "네? 진짜요?",
+   "rd": "ne? jinjjayo?",
+   "en": "Huh? Really?",
    "note": "surprise",
    "tags": [],
    "new": []
@@ -72,19 +74,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "아, 아니에요! 봉투 필요하세요?",
-   "rd": "a, anieyo! bongtu piryohaseyo?",
-   "en": "Ah, never mind! Do you need a bag?",
+   "ko": "아 아니에요! 봉투 드릴까요?",
+   "rd": "a anieyo! bongtu deurilkkayo?",
+   "en": "Ah never mind! Need a bag?",
    "note": "quick cover",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a6/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "네… 아니, 괜찮아요.",
-   "rd": "ne… ani, gwaenchanayo.",
-   "en": "Yes… no, it's fine.",
+   "ko": "괜찮아요...",
+   "rd": "gwaenchanayo...",
+   "en": "It's fine...",
    "note": "flustered",
    "tags": [],
    "new": []
@@ -92,19 +95,20 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "영수증에 번호 써 드릴까요?",
-   "rd": "yeongsujeunge beonho sseo deurilkkayo?",
-   "en": "Shall I write my number on the receipt?",
+   "ko": "영수증에 번호 써 드릴까요...",
+   "rd": "yeongsujeunge beonho sseo deurilkkayo...",
+   "en": "Shall I write my number on the receipt...",
    "note": "영수증 = receipt",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_love_a6/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…네! 감사합니다!",
-   "rd": "…ne! gamsahamnida!",
-   "en": "…Yes! Thank you!",
+   "ko": "네 감사합니다...",
+   "rd": "ne gamsahamnida...",
+   "en": "Yes, thank you...",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -112,5 +116,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a6_grok_rewrite.md [K116]",
+  "final": ""
+ }
 }

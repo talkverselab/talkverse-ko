@@ -33,19 +33,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "(띵) 2층입니다.",
-   "rd": "(tting) 2cheungimnida.",
-   "en": "(ding) 2nd floor.",
+   "ko": "(띵) 2층 도착.",
+   "rd": "(tting) 2cheung dochak.",
+   "en": "(ding) Arrived at 2nd floor.",
    "note": "안내 방송",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a3/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "어? 2층?",
-   "rd": "eo? 2cheung?",
-   "en": "Huh? 2nd floor?",
+   "ko": "어? 2층이야?",
+   "rd": "eo? 2cheungiya?",
+   "en": "Huh? It's the 2nd floor?",
    "note": "echo",
    "tags": [],
    "new": []
@@ -53,19 +54,20 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "(띵) 3층입니다. (띵) 4층입니다.",
-   "rd": "(tting) 3cheungimnida. (tting) 4cheungimnida.",
-   "en": "(ding) 3rd floor. (ding) 4th floor.",
+   "ko": "(띵) 3층. (띵) 4층 도착.",
+   "rd": "(tting) 3cheung. (tting) 4cheung dochak.",
+   "en": "(ding) 3rd. (ding) Arrived at 4th.",
    "note": "every floor",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a3/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "헐… 다 눌렀어?",
-   "rd": "heol… da nulleosseo?",
-   "en": "Whoa… did someone press them all?",
+   "ko": "헐 버튼 다 눌렸네!",
+   "rd": "heol beoteun da nullyeonne!",
+   "en": "Whoa, all the buttons are pressed!",
    "note": "Kick: every button — chaos",
    "tags": [],
    "new": []
@@ -73,19 +75,20 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "헤헤. 제가요!",
-   "rd": "hehe. jegayo!",
-   "en": "Hehe. Me!",
+   "ko": "헤헤 나야 나!",
+   "rd": "hehe naya na!",
+   "en": "Hehe, it was me!",
    "note": "꼬마 = little kid",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a3/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
    "ko": "아이고… 나 20층인데.",
    "rd": "aigo… na 20cheunginde.",
-   "en": "Oh dear… I'm on the 20th floor.",
+   "en": "Oh dear… I'm on the 20th.",
    "note": "층 = floor",
    "tags": [],
    "new": []
@@ -93,22 +96,27 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "같이 세요! 5층, 6층…",
-   "rd": "gachi seyo! 5cheung, 6cheung…",
-   "en": "Count with me! 5th, 6th…",
+   "ko": "같이 세자 5층 6층!",
+   "rd": "gachi seja 5cheung 6cheung!",
+   "en": "Let's count together, 5th 6th!",
    "note": "세다 = count",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_life_a3/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "괜찮아… 한국어 공부하지 뭐.",
-   "rd": "gwaenchana… hangugeo gongbuhaji mwo.",
-   "en": "It's fine… I'll just practice my Korean.",
+   "ko": "괜찮아… 층 세면서 공부하지 뭐...",
+   "rd": "gwaenchana… cheung semyeonseo gongbuhaji mwo...",
+   "en": "It's fine… I'll practice counting floors...",
    "note": "punchline: counting floors",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_life_a3_grok_rewrite.md [K114]",
+  "final": ""
+ }
 }

@@ -35,19 +35,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "모자 썼고, 마스크 썼고. 완벽해.",
-   "rd": "moja sseotgo, maseukeu sseotgo. wanbyeokae.",
-   "en": "Hat on, mask on. Perfect.",
+   "ko": "모자 썼고 마스크 썼고 완벽해.",
+   "rd": "moja sseotgo maseukeu sseotgo wanbyeokae.",
+   "en": "Hat on mask on perfect.",
    "note": "완벽하다 = perfect",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b9/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
    "ko": "근데 머리가 너무 뾰족해서 다 알아보겠다.",
    "rd": "geunde meoriga neomu ppyojokaeseo da arabogetda.",
-   "en": "But your hair is so spiky, everyone will recognize you.",
+   "en": "But your hair is so spiky everyone will recognize you.",
    "note": "뾰족하다 = spiky",
    "tags": [],
    "new": []
@@ -55,19 +56,20 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "어? 저 사람 태오 아니야?",
-   "rd": "eo? jeo saram taeo aniya?",
-   "en": "Huh? Isn't that Taeo?",
+   "ko": "어 저 사람 태오 아니야?",
+   "rd": "eo jeo saram taeo aniya?",
+   "en": "Huh isn't that Taeo?",
    "note": "recognized",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b9/cut2"
   },
   {
    "num": 4,
    "speaker": "B",
-   "ko": "잠깐만, 이쪽으로!",
-   "rd": "jamkkanman, ijjogeuro!",
-   "en": "Wait, this way!",
+   "ko": "잠깐만 이쪽으로!",
+   "rd": "jamkkanman ijjogeuro!",
+   "en": "Wait this way!",
    "note": "이쪽 = this way",
    "tags": [],
    "new": []
@@ -75,19 +77,20 @@
   {
    "num": 5,
    "speaker": "D",
-   "ko": "태오다! 사진 찍어도 돼요?",
-   "rd": "taeoda! sajin jjigeodo dwaeyo?",
-   "en": "It's Taeo! Can we take a photo?",
+   "ko": "태오다 사진 찍어도 돼요?",
+   "rd": "taeoda sajin jjigeodo dwaeyo?",
+   "en": "It's Taeo can we take a photo?",
    "note": "Kick setup",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b9/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "헐, 사람들이 더 와.",
-   "rd": "heol, saramdeuri deo wa.",
-   "en": "Whoa, more people are coming.",
+   "ko": "헐 사람들이 더 와.",
+   "rd": "heol saramdeuri deo wa.",
+   "en": "Whoa more people are coming.",
    "note": "더 = more",
    "tags": [],
    "new": []
@@ -95,19 +98,20 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "아 몰라. 뛰어!",
-   "rd": "a molla. ttwieo!",
-   "en": "Ugh, whatever. Run!",
+   "ko": "아 몰라 뛰어!",
+   "rd": "a molla ttwieo!",
+   "en": "Ugh whatever run!",
    "note": "뛰다 = run",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b9/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "(헉헉) 따릉이! 따릉이 타자!",
-   "rd": "(heokeok) ttareungi! ttareungi taja!",
-   "en": "(panting) A city bike! Let's take a 따릉이!",
+   "ko": "따릉이 따릉이 타자!",
+   "rd": "ttareungi ttareungi taja!",
+   "en": "City bike let's take a 따릉이!",
    "note": "callback 따릉이 — chaos",
    "tags": [],
    "new": []
@@ -117,17 +121,18 @@
    "speaker": "B",
    "ko": "나 자전거 못 타는데?",
    "rd": "na jajeongeo mot taneunde?",
-   "en": "I can't ride a bike!",
+   "en": "I can't ride a bike?",
    "note": "Kick: chaos peak",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b9/cut5"
   },
   {
    "num": 10,
    "speaker": "A",
-   "ko": "그럼 뒤에 타. 내가 할게.",
-   "rd": "geureom dwie ta. naega halge.",
-   "en": "Then ride behind. I'll pedal.",
+   "ko": "그럼 뒤에 타 내가 할게.",
+   "rd": "geureom dwie ta naega halge.",
+   "en": "Then ride behind I'll pedal.",
    "note": "뒤에 타다 = ride on the back",
    "tags": [],
    "new": []
@@ -135,23 +140,28 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "…이거 드라마 같다.",
-   "rd": "…igeo deurama gatda.",
-   "en": "…This is like a drama.",
+   "ko": "이거 드라마 같다...",
+   "rd": "igeo deurama gatda...",
+   "en": "This is like a drama...",
    "note": "심쿵",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_love_b9/cut6"
   },
   {
    "num": 12,
    "speaker": "A",
-   "ko": "그니까. 근데 따릉이는 1인용이야.",
-   "rd": "geunikka. geunde ttareungineun 1inyongiya.",
-   "en": "Right. But a 따릉이 is for one person.",
+   "ko": "그니까 근데 따릉이는 1인용이야 진짜?",
+   "rd": "geunikka geunde ttareungineun 1inyongiya jinjja?",
+   "en": "Right but a 따릉이 is for one person really?",
    "note": "punchline",
    "tags": [],
    "new": []
   }
  ],
- "learner_gender": "F"
+ "learner_gender": "F",
+ "review": {
+  "grok_rewrite": "data/review/r2_love_b9_grok_rewrite.md [K157]",
+  "final": ""
+ }
 }

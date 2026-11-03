@@ -35,19 +35,20 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "저기요, 광장시장 어떻게 가요?",
-   "rd": "jeogiyo, gwangjangsijang eotteoke gayo?",
+   "ko": "저기요 광장시장 어떻게 가요?",
+   "rd": "jeogiyo gwangjangsijang eotteoke gayo?",
    "en": "Excuse me, how do I get to Gwangjang Market?",
    "note": "어떻게 가요? = how do I get to",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s4/cut1"
   },
   {
    "num": 2,
    "speaker": "B",
-   "ko": "저쪽으로 쭉 가요. 10분.",
-   "rd": "jeojjogeuro jjuk gayo. 10bun.",
-   "en": "Go straight that way. Ten minutes.",
+   "ko": "저쪽으로 쭉 가요 10분.",
+   "rd": "jeojjogeuro jjuk gayo 10bun.",
+   "en": "Go straight that way, 10 minutes.",
    "note": "쭉 = straight",
    "tags": [],
    "new": []
@@ -55,18 +56,19 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "아니야, 지하철 타요. 한 정거장.",
-   "rd": "aniya, jihacheol tayo. han jeonggeojang.",
-   "en": "No, take the subway. One stop.",
+   "ko": "아니 지하철 타요 한 정거장.",
+   "rd": "ani jihacheol tayo han jeonggeojang.",
+   "en": "No, take the subway, one stop.",
    "note": "정거장 = stop",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s4/cut2"
   },
   {
    "num": 4,
    "speaker": "D",
-   "ko": "무슨 소리야, 버스가 빨라.",
-   "rd": "museun soriya, beoseuga ppalla.",
+   "ko": "무슨 소리야 버스가 빨라.",
+   "rd": "museun soriya beoseuga ppalla.",
    "en": "What are you talking about, the bus is faster.",
    "note": "빠르다 = fast",
    "tags": [],
@@ -75,19 +77,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "버스는 막혀! 걸어가!",
-   "rd": "beoseuneun makyeo! georeoga!",
-   "en": "The bus gets stuck in traffic! Walk!",
+   "ko": "버스는 막혀 걸어가!",
+   "rd": "beoseuneun makyeo georeoga!",
+   "en": "The bus gets stuck, walk!",
    "note": "Kick: they argue — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s4/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "저… 잘 모르겠어요. 다시 한 번 말해 주세요.",
-   "rd": "jeo… jal moreugesseoyo. dasi han beon malhae juseyo.",
-   "en": "Um… I'm not sure. Please say it again.",
+   "ko": "잘 모르겠어요 다시 한 번 말해 주세요.",
+   "rd": "jal moreugesseoyo dasi han beon malhae juseyo.",
+   "en": "I'm not sure, please say it again.",
    "note": "다시 한 번",
    "tags": [],
    "new": []
@@ -95,22 +98,27 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "에이, 그냥 우리가 데려다줄게.",
-   "rd": "ei, geunyang uriga deryeodajulge.",
-   "en": "Oh come on, we'll just take you there.",
+   "ko": "그냥 우리가 데려다줄게.",
+   "rd": "geunyang uriga deryeodajulge.",
+   "en": "We'll just take you there.",
    "note": "데려다주다 = take someone to",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_survival_s4/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…세 분 다요? 감사합니다!",
-   "rd": "…se bun dayo? gamsahamnida!",
-   "en": "…All three of you? Thank you!",
+   "ko": "세 분 다요? 감사합니다!",
+   "rd": "se bun dayo? gamsahamnida!",
+   "en": "All three of you? Thank you!",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_survival_s4_grok_rewrite.md [K142]",
+  "final": ""
+ }
 }

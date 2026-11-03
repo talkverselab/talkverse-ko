@@ -35,19 +35,20 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "눈 감아 봐. 잠깐만.",
-   "rd": "nun gama bwa. jamkkanman.",
-   "en": "Close your eyes. Just a sec.",
+   "ko": "눈 감아 봐 잠깐만.",
+   "rd": "nun gama bwa jamkkanman.",
+   "en": "Close your eyes, just a sec.",
    "note": "눈 감다 = close eyes",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a8/cut1"
   },
   {
    "num": 2,
    "speaker": "B",
-   "ko": "뭐야… 설레게.",
-   "rd": "mwoya… seollege.",
-   "en": "What is it… you're making me nervous.",
+   "ko": "뭐야 설레게...",
+   "rd": "mwoya seollege...",
+   "en": "What is it, you're making me nervous...",
    "note": "설레다 = flutter",
    "tags": [],
    "new": []
@@ -55,19 +56,20 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "이제 떠도 돼. 목걸이야.",
-   "rd": "ije tteodo dwae. mokgeoriya.",
-   "en": "You can open them. It's a necklace.",
+   "ko": "이제 떠도 돼 목걸이야.",
+   "rd": "ije tteodo dwae mokgeoriya.",
+   "en": "You can open them, it's a necklace.",
    "note": "뜨다 = open (eyes)",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a8/cut2"
   },
   {
    "num": 4,
    "speaker": "B",
-   "ko": "헐… 진짜 예쁘다.",
-   "rd": "heol… jinjja yeppeuda.",
-   "en": "Whoa… it's so pretty.",
+   "ko": "헐 진짜 예쁘다?",
+   "rd": "heol jinjja yeppeuda?",
+   "en": "Whoa it's really pretty?",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -75,19 +77,20 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "(띵) 어머! 우리 딸?",
-   "rd": "(tting) eomeo! uri ttal?",
-   "en": "(ding) Oh my! My daughter?",
+   "ko": "어머 우리 딸?",
+   "rd": "eomeo uri ttal?",
+   "en": "Oh my, my daughter?",
    "note": "Kick: mom in the elevator — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a8/cut3"
   },
   {
    "num": 6,
    "speaker": "D",
-   "ko": "(띵) 누나 남자친구야?",
-   "rd": "(tting) nuna namjachinguya?",
-   "en": "(ding) Is that your boyfriend?",
+   "ko": "누나 남자친구야?",
+   "rd": "nuna namjachinguya?",
+   "en": "Sis, is that your boyfriend?",
    "note": "동생 too",
    "tags": [],
    "new": []
@@ -95,23 +98,28 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "아 몰라… 엄마, 동생, 이쪽은 {name}.",
-   "rd": "a molla… eomma, dongsaeng, ijjogeun {name}.",
-   "en": "Ugh… Mom, brother, this is {name}.",
+   "ko": "아 몰라 엄마 동생 이쪽은 {name}.",
+   "rd": "a molla eomma dongsaeng ijjogeun {name}.",
+   "en": "Ugh mom, brother, this is {name}.",
    "note": "소개",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r1_love_a8/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "안녕하십니까! …목걸이 선물했습니다!",
-   "rd": "annyeonghasimnikka! …mokgeori seonmulhaetseumnida!",
-   "en": "Good evening! …I gave her a necklace!",
+   "ko": "안녕하세요 목걸이 선물했습니다...",
+   "rd": "annyeonghaseyo mokgeori seonmulhaetseumnida...",
+   "en": "Hello, I gave her a necklace...",
    "note": "punchline: army speech returns",
    "tags": [],
    "new": []
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a8_grok_rewrite.md [K135]",
+  "final": ""
+ }
 }

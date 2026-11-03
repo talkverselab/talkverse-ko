@@ -39,14 +39,15 @@
    "en": "Got all the boxes up? Take the elevator.",
    "note": "짐 = luggage / stuff",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b3/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "엘리베이터 점검 중이래. 오늘 하루 종일.",
-   "rd": "ellibeiteo jeomgeom jungirae. oneul haru jongil.",
-   "en": "The elevator is under inspection. All day.",
+   "ko": "엘리베이터 점검 중이래 오늘 하루 종일.",
+   "rd": "ellibeiteo jeomgeom jungirae oneul haru jongil.",
+   "en": "Elevator under inspection all day.",
    "note": "점검 = inspection",
    "tags": [],
    "new": []
@@ -54,12 +55,13 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "헐… 우리 15층인데?",
-   "rd": "heol… uri 15cheunginde?",
-   "en": "Whoa… we're on the 15th floor?",
+   "ko": "헐 우리 15층인데?",
+   "rd": "heol uri 15cheunginde?",
+   "en": "Whoa we're on the 15th?",
    "note": "층 = floor",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b3/cut2"
   },
   {
    "num": 4,
@@ -74,19 +76,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "잠깐만, 비 오기 시작했어.",
-   "rd": "jamkkanman, bi ogi sijakaesseo.",
-   "en": "Wait, it started raining.",
+   "ko": "잠깐만 비 오기 시작했어.",
+   "rd": "jamkkanman bi ogi sijakaesseo.",
+   "en": "Wait it started raining.",
    "note": "비 오다 = rain",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b3/cut3"
   },
   {
    "num": 6,
    "speaker": "C",
-   "ko": "(전화) 짜장면 두 개 왔습니다! 몇 층이에요?",
-   "rd": "(jeonhwa) jjajangmyeon du gae watseumnida! myeot cheungieyo?",
-   "en": "(phone) Two jajangmyeon here! Which floor?",
+   "ko": "짜장면 두 개 왔습니다 몇 층이에요?",
+   "rd": "jjajangmyeon du gae watseumnida myeot cheungieyo?",
+   "en": "Two jajangmyeon here, which floor?",
    "note": "이삿날 짜장면 = moving-day noodles",
    "tags": [],
    "new": []
@@ -94,19 +97,20 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "15층이요… 계단으로요.",
-   "rd": "15cheungiyo… gyedaneuroyo.",
-   "en": "15th floor… by the stairs.",
+   "ko": "15층이요 계단으로요 진짜?",
+   "rd": "15cheungiyo gyedaneuroyo jinjja?",
+   "en": "15th floor, by the stairs, really?",
    "note": "Kick: everything at once — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b3/cut4"
   },
   {
    "num": 8,
    "speaker": "C",
-   "ko": "…네? 계단이요?",
-   "rd": "…ne? gyedaniyo?",
-   "en": "…Sorry? The stairs?",
+   "ko": "네? 계단이요?",
+   "rd": "ne? gyedaniyo?",
+   "en": "Sorry? The stairs?",
    "note": "echo",
    "tags": [],
    "new": []
@@ -114,19 +118,20 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "아 몰라. 우리가 내려갈게요!",
-   "rd": "a molla. uriga naeryeogalgeyo!",
-   "en": "Ugh, whatever. We'll come down!",
+   "ko": "아 몰라 우리가 내려갈게요!",
+   "rd": "a molla uriga naeryeogalgeyo!",
+   "en": "Ugh whatever, we'll come down!",
    "note": "내려가다 = go down",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b3/cut5"
   },
   {
    "num": 10,
    "speaker": "A",
-   "ko": "(1층) 짜장면은 왔는데 짐은 아직 1층이야.",
-   "rd": "(1cheung) jjajangmyeoneun wanneunde jimeun ajik 1cheungiya.",
-   "en": "(ground floor) The noodles are here, but our stuff is still on the ground floor.",
+   "ko": "짜장면은 왔는데 짐은 아직 1층이야.",
+   "rd": "jjajangmyeoneun wanneunde jimeun ajik 1cheungiya.",
+   "en": "Noodles are here but stuff is still on the ground floor.",
    "note": "아직 = still",
    "tags": [],
    "new": []
@@ -134,12 +139,13 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "그냥 여기서 먹자. 박스 위에서.",
-   "rd": "geunyang yeogiseo meokja. bakseu wieseo.",
-   "en": "Let's just eat here. On the boxes.",
+   "ko": "그냥 여기서 먹자 박스 위에서.",
+   "rd": "geunyang yeogiseo meokja bakseu wieseo.",
+   "en": "Let's just eat here on the boxes.",
    "note": "박스 = box",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r2_life_b3/cut6"
   },
   {
    "num": 12,
@@ -151,5 +157,9 @@
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_life_b3_grok_rewrite.md [K149]",
+  "final": ""
+ }
 }

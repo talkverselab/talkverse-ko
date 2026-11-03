@@ -33,19 +33,20 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "(화면) 메뉴를 고르세요.",
-   "rd": "(hwamyeon) menyureul goreuseyo.",
-   "en": "(screen) Choose a menu.",
+   "ko": "메뉴 고르세요.",
+   "rd": "menyu goreuseyo.",
+   "en": "Choose a menu.",
    "note": "고르다 = choose",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s2/cut1"
   },
   {
    "num": 2,
    "speaker": "A",
-   "ko": "이거. 불고기 버거.",
-   "rd": "igeo. bulgogi beogeo.",
-   "en": "This one. Bulgogi burger.",
+   "ko": "불고기 버거요.",
+   "rd": "bulgogi beogeoyo.",
+   "en": "Bulgogi burger.",
    "note": "이거 = this",
    "tags": [],
    "new": []
@@ -53,19 +54,20 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "(화면) 세트로 할까요?",
-   "rd": "(hwamyeon) seteuro halkkayo?",
-   "en": "(screen) Make it a set?",
+   "ko": "세트로 할까요?",
+   "rd": "seteuro halkkayo?",
+   "en": "Make it a set?",
    "note": "세트 = combo",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s2/cut2"
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "네. 네. 네…",
-   "rd": "ne. ne. ne…",
-   "en": "Yes. Yes. Yes…",
+   "ko": "네 네 네...",
+   "rd": "ne ne ne...",
+   "en": "Yes yes yes...",
    "note": "he keeps tapping",
    "tags": [],
    "new": []
@@ -73,19 +75,20 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "(화면) 버거 6개, 결제할까요?",
-   "rd": "(hwamyeon) beogeo 6gae, gyeoljehalkkayo?",
-   "en": "(screen) 6 burgers, pay now?",
+   "ko": "버거 6개 결제할까요?",
+   "rd": "beogeo 6gae gyeoljehalkkayo?",
+   "en": "6 burgers, pay now?",
    "note": "Kick: six burgers — chaos",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s2/cut3"
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "잠깐만요! 저기요!",
-   "rd": "jamkkanmanyo! jeogiyo!",
-   "en": "Wait! Excuse me!",
+   "ko": "잠깐만요 저기요!",
+   "rd": "jamkkanmanyo jeogiyo!",
+   "en": "Wait, excuse me!",
    "note": "저기요 = excuse me",
    "tags": [],
    "new": []
@@ -93,22 +96,27 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "ㅋㅋ 취소해 드릴게요.",
-   "rd": "ㅋㅋ chwisohae deurilgeyo.",
-   "en": "Haha, I'll cancel it for you.",
+   "ko": "취소해 드릴게요 ㅋㅋ",
+   "rd": "chwisohae deurilgeyo ㅋㅋ",
+   "en": "I'll cancel it lol",
    "note": "취소 = cancel",
    "tags": [],
-   "new": []
+   "new": [],
+   "art": "scene/ko/r0_survival_s2/cut4"
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "감사합니다… 하나만요.",
-   "rd": "gamsahamnida… hanamanyo.",
-   "en": "Thank you… just one.",
+   "ko": "감사합니다 하나만...",
+   "rd": "gamsahamnida hanaman...",
+   "en": "Thank you, just one...",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_survival_s2_grok_rewrite.md [K124]",
+  "final": ""
+ }
 }
