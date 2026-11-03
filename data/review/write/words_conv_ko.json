@@ -1,0 +1,5112 @@
+[
+{
+"rank": 3001,
+"word": "한국어",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Korean language",
+"gloss_ko": "한국의 말",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3002,
+"word": "하트",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "heart",
+"gloss_ko": "하트 모양 · 사랑 표시",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3003,
+"word": "우유",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "milk",
+"gloss_ko": "소에서 나온 하얀 음료",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3004,
+"word": "컵",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "cup",
+"gloss_ko": "물을 담아 마시는 그릇",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3005,
+"word": "자전거",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "bicycle",
+"gloss_ko": "두 바퀴로 타는 탈것",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3006,
+"word": "케이크",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "cake",
+"gloss_ko": "생일에 먹는 달콤한 빵",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3007,
+"word": "봉투",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "envelope",
+"gloss_ko": "종이로 만든 주머니",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3008,
+"word": "룰",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "rule",
+"gloss_ko": "규칙",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3009,
+"word": "단계",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "step, stage",
+"gloss_ko": "차례의 한 부분",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3010,
+"word": "반찬",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "side dish",
+"gloss_ko": "밥과 함께 먹는 음식",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3011,
+"word": "버튼",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "button",
+"gloss_ko": "누르는 단추",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3012,
+"word": "장면",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "scene",
+"gloss_ko": "한 순간의 모습",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3013,
+"word": "김치찌개",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "kimchi stew",
+"gloss_ko": "김치를 넣고 끓인 찌개",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3014,
+"word": "피자",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "pizza",
+"gloss_ko": "치즈를 올려 구운 빵 음식",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3015,
+"word": "바나나",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "banana",
+"gloss_ko": "노란 긴 과일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3016,
+"word": "따릉이",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Ttareungi bike",
+"gloss_ko": "서울의 공공 자전거",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3017,
+"word": "아이돌",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "idol",
+"gloss_ko": "인기 있는 젊은 가수",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3018,
+"word": "아이스크림",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "ice cream",
+"gloss_ko": "차갑고 달콤한 간식",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3019,
+"word": "젖다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "get wet",
+"gloss_ko": "물에 축축해지다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3020,
+"word": "종이",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "paper",
+"gloss_ko": "글을 쓰는 얇은 재료",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3021,
+"word": "옆집",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "next-door house",
+"gloss_ko": "바로 옆에 있는 집",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3022,
+"word": "과자",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "snack, cookie",
+"gloss_ko": "바삭하고 달콤한 간식",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3023,
+"word": "기대다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "lean on",
+"gloss_ko": "몸을 의지하다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3024,
+"word": "포장",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "packaging",
+"gloss_ko": "물건을 싸는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3025,
+"word": "금요일",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Friday",
+"gloss_ko": "한 주의 다섯째 날",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3026,
+"word": "앞줄",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "front row",
+"gloss_ko": "앞쪽의 줄",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3027,
+"word": "알람",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "alarm",
+"gloss_ko": "정해진 때에 울리는 소리",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3028,
+"word": "단톡",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "group chat",
+"gloss_ko": "여럿이 하는 단체 채팅",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3029,
+"word": "보일러",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "boiler",
+"gloss_ko": "방을 데우는 기계",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3030,
+"word": "휴지",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "tissue",
+"gloss_ko": "닦는 부드러운 종이",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3031,
+"word": "박자",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "beat",
+"gloss_ko": "음악의 리듬 단위",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3032,
+"word": "과제",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "assignment",
+"gloss_ko": "해야 할 숙제",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3033,
+"word": "한복",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "hanbok",
+"gloss_ko": "한국 전통 옷",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3034,
+"word": "브이",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "V sign",
+"gloss_ko": "손가락 두 개로 만드는 V 표시",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3035,
+"word": "다이어트",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "diet",
+"gloss_ko": "살을 빼는 노력",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3036,
+"word": "셀카",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "selfie",
+"gloss_ko": "자기가 찍는 사진",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3037,
+"word": "미끄러지다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "slip",
+"gloss_ko": "넘어질 듯 쭉 밀리다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3038,
+"word": "답장",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "reply",
+"gloss_ko": "받은 말에 대한 대답",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3039,
+"word": "화면",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "screen",
+"gloss_ko": "영상이 나오는 면",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3040,
+"word": "계단",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "stairs",
+"gloss_ko": "오르내리는 층층 길",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3041,
+"word": "한국말",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Korean speech",
+"gloss_ko": "한국의 말",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3042,
+"word": "이마",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "forehead",
+"gloss_ko": "얼굴의 윗부분",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3043,
+"word": "상실",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "loss",
+"gloss_ko": "잃어버림",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3044,
+"word": "공짜",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "free of charge",
+"gloss_ko": "값을 내지 않음",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3045,
+"word": "거품",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "foam, bubbles",
+"gloss_ko": "비눗방울 같은 것",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3046,
+"word": "공유",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "share",
+"gloss_ko": "함께 나눠 가짐",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3047,
+"word": "월세",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "monthly rent",
+"gloss_ko": "달마다 내는 집세",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3048,
+"word": "반반",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "half and half",
+"gloss_ko": "절반씩",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3049,
+"word": "아메리카노",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "americano",
+"gloss_ko": "물을 탄 진한 커피",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3050,
+"word": "창문",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "window",
+"gloss_ko": "빛과 바람이 드는 문",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3051,
+"word": "메일",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "email",
+"gloss_ko": "전자 편지",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3052,
+"word": "삼겹살",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "pork belly",
+"gloss_ko": "구워 먹는 돼지고기",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3053,
+"word": "넵",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "yep",
+"gloss_ko": "네의 가벼운 대답",
+"pos": "int",
+"region": "Conv"
+},
+{
+"rank": 3054,
+"word": "설날",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Lunar New Year",
+"gloss_ko": "음력 새해 명절",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3055,
+"word": "노래방",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "karaoke room",
+"gloss_ko": "노래 부르는 곳",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3056,
+"word": "무료",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "free",
+"gloss_ko": "값이 없음",
+"pos": "adj",
+"region": "Conv"
+},
+{
+"rank": 3057,
+"word": "리더",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "leader",
+"gloss_ko": "이끄는 사람",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3058,
+"word": "휴게소",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "rest stop",
+"gloss_ko": "고속도로 쉼터",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3059,
+"word": "풍선",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "balloon",
+"gloss_ko": "바람 넣어 띄우는 것",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3060,
+"word": "텐트",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "tent",
+"gloss_ko": "야외 천막집",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3061,
+"word": "점수",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "score",
+"gloss_ko": "성적의 수",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3062,
+"word": "국물",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "broth",
+"gloss_ko": "국의 물",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3063,
+"word": "키보드",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "keyboard",
+"gloss_ko": "글자 치는 장치",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3064,
+"word": "뛰어가다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "run over",
+"gloss_ko": "빠르게 달려가다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3065,
+"word": "펜",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "pen",
+"gloss_ko": "글씨 쓰는 도구",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3066,
+"word": "영수증",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "receipt",
+"gloss_ko": "계산 내역 종이",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3067,
+"word": "숙제",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "homework",
+"gloss_ko": "집에서 해 오는 공부",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3068,
+"word": "반대쪽",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "opposite side",
+"gloss_ko": "맞은편",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3069,
+"word": "셀프",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "self-service",
+"gloss_ko": "스스로 함",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3070,
+"word": "엘리베이터",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "elevator",
+"gloss_ko": "위아래로 타는 기계",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3071,
+"word": "깎다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "peel, bargain down",
+"gloss_ko": "값이나 껍질을 줄이다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3072,
+"word": "명동",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Myeongdong",
+"gloss_ko": "서울의 번화가",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3073,
+"word": "바구니",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "basket",
+"gloss_ko": "물건을 담는 통",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3074,
+"word": "짝짝",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "clap clap",
+"gloss_ko": "손뼉 소리",
+"pos": "adv",
+"region": "Conv"
+},
+{
+"rank": 3075,
+"word": "앱",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "app",
+"gloss_ko": "휴대폰 프로그램",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3076,
+"word": "첫눈",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "first snow",
+"gloss_ko": "그해 처음 내리는 눈",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3077,
+"word": "제주",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Jeju",
+"gloss_ko": "제주 지역",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3078,
+"word": "원플원",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "buy one get one",
+"gloss_ko": "하나 사면 하나 더",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3079,
+"word": "세제",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "detergent",
+"gloss_ko": "씻는 약제",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3080,
+"word": "씌우다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "put on, cover",
+"gloss_ko": "위에 덮어 얹다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3081,
+"word": "단어",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "word",
+"gloss_ko": "뜻이 있는 말의 단위",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3082,
+"word": "목도리",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "scarf",
+"gloss_ko": "목에 두르는 천",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3083,
+"word": "탬버린",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "tambourine",
+"gloss_ko": "흔들어 소리 내는 악기",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3084,
+"word": "시원하다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "cool, refreshing",
+"gloss_ko": "서늘하고 기분 좋다",
+"pos": "adj",
+"region": "Conv"
+},
+{
+"rank": 3085,
+"word": "짖다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "bark",
+"gloss_ko": "개가 소리 내다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3086,
+"word": "녹다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "melt",
+"gloss_ko": "얼음이 물이 되다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3087,
+"word": "정산",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "settlement",
+"gloss_ko": "계산해 맞춤",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3088,
+"word": "충전기",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "charger",
+"gloss_ko": "전기를 채우는 기구",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3089,
+"word": "묵언",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "silence",
+"gloss_ko": "말없이 있음",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3090,
+"word": "티켓",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "ticket",
+"gloss_ko": "입장표",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3091,
+"word": "외국인",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "foreigner",
+"gloss_ko": "다른 나라 사람",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3092,
+"word": "가위바위보",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "rock-paper-scissors",
+"gloss_ko": "손으로 하는 승부 놀이",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3093,
+"word": "가사",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "lyrics",
+"gloss_ko": "노래의 글",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3094,
+"word": "닫히다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "be closed",
+"gloss_ko": "문이 닫아지다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3095,
+"word": "쌓이다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "pile up",
+"gloss_ko": "겹쳐 많아지다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3096,
+"word": "상자",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "box",
+"gloss_ko": "물건 담는 네모난 통",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3097,
+"word": "숟가락",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "spoon",
+"gloss_ko": "밥 먹는 도구",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3098,
+"word": "마스크",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "mask",
+"gloss_ko": "입과 코를 가리는 것",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3099,
+"word": "저장",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "save, store",
+"gloss_ko": "보관해 두는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3100,
+"word": "출석",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "attendance",
+"gloss_ko": "수업에 나옴",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3101,
+"word": "버거",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "burger",
+"gloss_ko": "햄버거",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3102,
+"word": "세트",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "set",
+"gloss_ko": "묶음 구성",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3103,
+"word": "봉지",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "plastic bag",
+"gloss_ko": "비닐 주머니",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3104,
+"word": "월요일",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Monday",
+"gloss_ko": "한 주의 첫날",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3105,
+"word": "멤버",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "member",
+"gloss_ko": "구성원",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3106,
+"word": "외치다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "shout",
+"gloss_ko": "큰 소리로 말하다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3107,
+"word": "직캠",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "fancam",
+"gloss_ko": "한 사람만 찍은 영상",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3108,
+"word": "파전",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "scallion pancake",
+"gloss_ko": "파를 넣은 부침",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3109,
+"word": "반달",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "half moon",
+"gloss_ko": "절반 모양의 달",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3110,
+"word": "라이트",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "light",
+"gloss_ko": "불빛",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3111,
+"word": "양념",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "seasoning",
+"gloss_ko": "맛을 내는 재료",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3112,
+"word": "톡",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "chat message",
+"gloss_ko": "카톡 메시지",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3113,
+"word": "간식",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "snack",
+"gloss_ko": "끼니 사이 먹는 것",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3114,
+"word": "제주도",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Jeju Island",
+"gloss_ko": "제주 섬",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3115,
+"word": "축",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "congrats",
+"gloss_ko": "축하의 말",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3116,
+"word": "퍼지다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "spread",
+"gloss_ko": "넓게 번지다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3117,
+"word": "반값",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "half price",
+"gloss_ko": "절반 가격",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3118,
+"word": "소파",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "sofa",
+"gloss_ko": "앉는 푹신한 가구",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3119,
+"word": "팡팡",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "pop pop",
+"gloss_ko": "터지는 소리",
+"pos": "adv",
+"region": "Conv"
+},
+{
+"rank": 3120,
+"word": "와이파이",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Wi-Fi",
+"gloss_ko": "무선 인터넷",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3121,
+"word": "비번",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "password",
+"gloss_ko": "비밀번호 줄임말",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3122,
+"word": "비밀번호",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "password",
+"gloss_ko": "몰래 쓰는 숫자 글자",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3123,
+"word": "이불",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "blanket",
+"gloss_ko": "덮는 침구",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3124,
+"word": "제목",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "title",
+"gloss_ko": "이름 붙인 말",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3125,
+"word": "소나기",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "shower",
+"gloss_ko": "갑자기 쏟는 비",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3126,
+"word": "망원동",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Mangwon-dong",
+"gloss_ko": "서울 동네 이름",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3127,
+"word": "안무",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "choreography",
+"gloss_ko": "춤 동작 구성",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3128,
+"word": "마이크",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "microphone",
+"gloss_ko": "소리를 키우는 기구",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3129,
+"word": "강남역",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Gangnam Station",
+"gloss_ko": "서울 지하철역",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3130,
+"word": "장갑",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "gloves",
+"gloss_ko": "손에 끼는 것",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3131,
+"word": "듀엣",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "duet",
+"gloss_ko": "둘이 함께 하는 노래",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3132,
+"word": "테이블",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "table",
+"gloss_ko": "탁자",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3133,
+"word": "목걸이",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "necklace",
+"gloss_ko": "목에 거는 장신구",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3134,
+"word": "필수",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "essential",
+"gloss_ko": "꼭 있어야 함",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3135,
+"word": "아이보리",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "ivory",
+"gloss_ko": "상아색",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3136,
+"word": "카톡",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "KakaoTalk",
+"gloss_ko": "메신저 이름",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3137,
+"word": "서울역",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Seoul Station",
+"gloss_ko": "서울의 기차역",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3138,
+"word": "살아나다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "come back to life",
+"gloss_ko": "다시 살다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3139,
+"word": "존댓말",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "honorific speech",
+"gloss_ko": "높여 하는 말",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3140,
+"word": "쪽지",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "note",
+"gloss_ko": "작은 편지 종이",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3141,
+"word": "복도",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "hallway",
+"gloss_ko": "건물 안 긴 길",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3142,
+"word": "제출",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "submit",
+"gloss_ko": "내어 바침",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3143,
+"word": "경제학",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "economics",
+"gloss_ko": "경제를 배우는 학문",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3144,
+"word": "격식",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "formality",
+"gloss_ko": "형식과 예의",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3145,
+"word": "체",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "pretending",
+"gloss_ko": "척 하는 모양",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3146,
+"word": "채점",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "grading",
+"gloss_ko": "점수 매김",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3147,
+"word": "데우다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "heat up",
+"gloss_ko": "뜨겁게 하다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3148,
+"word": "아이스",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "iced",
+"gloss_ko": "차가움",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3149,
+"word": "홍대",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Hongdae",
+"gloss_ko": "서울 젊은이 거리",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3150,
+"word": "번호표",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "queue ticket",
+"gloss_ko": "차례 번호 종이",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3151,
+"word": "몰려오다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "swarm in",
+"gloss_ko": "한꺼번에 오다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3152,
+"word": "캐리어",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "suitcase",
+"gloss_ko": "여행 가방",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3153,
+"word": "해운대",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Haeundae",
+"gloss_ko": "부산 해수욕장",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3154,
+"word": "어묵",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "fish cake",
+"gloss_ko": "생선살 음식",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3155,
+"word": "배부르다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "be full",
+"gloss_ko": "먹어서 가득하다",
+"pos": "adj",
+"region": "Conv"
+},
+{
+"rank": 3156,
+"word": "산책",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "walk",
+"gloss_ko": "걷는 운동",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3157,
+"word": "기차",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "train",
+"gloss_ko": "철길 위의 탈것",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3158,
+"word": "김포",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Gimpo",
+"gloss_ko": "지역 이름",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3159,
+"word": "복사",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "copy",
+"gloss_ko": "똑같이 찍어 냄",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3160,
+"word": "파스타",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "pasta",
+"gloss_ko": "이탈리아 면 요리",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3161,
+"word": "채팅",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "chatting",
+"gloss_ko": "글로 하는 대화",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3162,
+"word": "외국어",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "foreign language",
+"gloss_ko": "다른 나라 말",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3163,
+"word": "오른발",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "right foot",
+"gloss_ko": "오른쪽 발",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3164,
+"word": "왼발",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "left foot",
+"gloss_ko": "왼쪽 발",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3165,
+"word": "턴",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "turn",
+"gloss_ko": "몸을 돌림",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3166,
+"word": "새해",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "new year",
+"gloss_ko": "새로 시작하는 해",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3167,
+"word": "떡국",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "tteokguk",
+"gloss_ko": "설날에 먹는 국",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3168,
+"word": "부서지다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "break into pieces",
+"gloss_ko": "깨지다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3169,
+"word": "감점",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "point deduction",
+"gloss_ko": "점수가 깎임",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3170,
+"word": "입대",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "enlistment",
+"gloss_ko": "군대에 들어감",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3171,
+"word": "트럭",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "truck",
+"gloss_ko": "짐 싣는 차",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3172,
+"word": "경차",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "compact car",
+"gloss_ko": "작은 자동차",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3173,
+"word": "보증금",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "deposit",
+"gloss_ko": "맡기는 돈",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3174,
+"word": "전세",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "jeonse",
+"gloss_ko": "집을 빌리는 한국 제도",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3175,
+"word": "짜장면",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "jajangmyeon",
+"gloss_ko": "검은 소스 면",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3176,
+"word": "한국식",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Korean style",
+"gloss_ko": "한국 방식",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3177,
+"word": "촛불",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "candle flame",
+"gloss_ko": "초에 붙은 불",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3178,
+"word": "데뷔",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "debut",
+"gloss_ko": "처음 나서는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3179,
+"word": "타입",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "type",
+"gloss_ko": "종류",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3180,
+"word": "배터리",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "battery",
+"gloss_ko": "전기 저장 장치",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3181,
+"word": "과목",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "school subject",
+"gloss_ko": "배우는 갈래",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3182,
+"word": "합석",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "share a table",
+"gloss_ko": "같은 자리에 앉음",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3183,
+"word": "기구",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "equipment",
+"gloss_ko": "도구 · 운동 기계",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3184,
+"word": "읽씹",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "left on read",
+"gloss_ko": "읽고 답 안 함",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3185,
+"word": "일정표",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "schedule",
+"gloss_ko": "계획 적은 표",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3186,
+"word": "색깔",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "color",
+"gloss_ko": "빛깔",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3187,
+"word": "캠핑",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "camping",
+"gloss_ko": "야외에서 자는 놀이",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3188,
+"word": "원샷",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "bottoms up",
+"gloss_ko": "한 번에 다 마심",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3189,
+"word": "연차",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "annual leave",
+"gloss_ko": "유급 휴가",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3190,
+"word": "목요일",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Thursday",
+"gloss_ko": "한 주의 넷째 날",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3191,
+"word": "컷",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "cut",
+"gloss_ko": "자르는 것 · 장면",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3192,
+"word": "대사",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "line",
+"gloss_ko": "극에서 하는 말",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3193,
+"word": "호두",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "walnut",
+"gloss_ko": "단단한 껍질 열매",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3194,
+"word": "빈손",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "empty hands",
+"gloss_ko": "아무것도 없는 손",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3195,
+"word": "천장",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "ceiling",
+"gloss_ko": "방의 위쪽 면",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3196,
+"word": "손목",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "wrist",
+"gloss_ko": "손과 팔 사이",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3197,
+"word": "멘트",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "comment",
+"gloss_ko": "하는 말",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3198,
+"word": "졸다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "doze off",
+"gloss_ko": "꾸벅꾸벅 자다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3199,
+"word": "크림",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "cream",
+"gloss_ko": "부드러운 것",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3200,
+"word": "참사",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "disaster",
+"gloss_ko": "끔찍한 사고",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3201,
+"word": "묵",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "acorn jelly",
+"gloss_ko": "도토리 음식",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3202,
+"word": "엄지",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "thumb",
+"gloss_ko": "첫째 손가락",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3203,
+"word": "검지",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "index finger",
+"gloss_ko": "둘째 손가락",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3204,
+"word": "연예인",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "celebrity",
+"gloss_ko": "TV에 나오는 사람",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3205,
+"word": "반납",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "return",
+"gloss_ko": "돌려줌",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3206,
+"word": "한가득",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "full",
+"gloss_ko": "가득",
+"pos": "adv",
+"region": "Conv"
+},
+{
+"rank": 3207,
+"word": "볼",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "cheek",
+"gloss_ko": "뺨",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3208,
+"word": "조각",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "piece",
+"gloss_ko": "작은 부분",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3209,
+"word": "옆방",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "next room",
+"gloss_ko": "옆에 있는 방",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3210,
+"word": "섞다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "mix",
+"gloss_ko": "한데 합치다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3211,
+"word": "플라스틱",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "plastic",
+"gloss_ko": "합성 재료",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3212,
+"word": "왕창",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "a lot",
+"gloss_ko": "아주 많이",
+"pos": "adv",
+"region": "Conv"
+},
+{
+"rank": 3213,
+"word": "눌리다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "be pressed",
+"gloss_ko": "힘으로 눌려지다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3214,
+"word": "치즈",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "cheese",
+"gloss_ko": "우유 가공 음식",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3215,
+"word": "햄",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "ham",
+"gloss_ko": "가공 고기",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3216,
+"word": "찌개",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "stew",
+"gloss_ko": "국물 적은 한식",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3217,
+"word": "쏟아지다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "pour down",
+"gloss_ko": "한꺼번에 떨어지다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3218,
+"word": "헉헉",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "panting",
+"gloss_ko": "숨 가쁜 소리",
+"pos": "adv",
+"region": "Conv"
+},
+{
+"rank": 3219,
+"word": "벌레",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "bug",
+"gloss_ko": "작은 곤충",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3220,
+"word": "슬리퍼",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "slippers",
+"gloss_ko": "끌고 다니는 신발",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3221,
+"word": "날아다니다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "fly around",
+"gloss_ko": "공중을 다니다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3222,
+"word": "공범",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "accomplice",
+"gloss_ko": "함께 죄 지은 사람",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3223,
+"word": "나뭇잎",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "leaf",
+"gloss_ko": "나무의 잎",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3224,
+"word": "선반",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "shelf",
+"gloss_ko": "물건 올리는 판",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3225,
+"word": "졸리다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "sleepy",
+"gloss_ko": "잠이 오다",
+"pos": "adj",
+"region": "Conv"
+},
+{
+"rank": 3226,
+"word": "편히",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "comfortably",
+"gloss_ko": "편안하게",
+"pos": "adv",
+"region": "Conv"
+},
+{
+"rank": 3227,
+"word": "그치다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "stop",
+"gloss_ko": "멈추다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3228,
+"word": "맛보다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "taste",
+"gloss_ko": "맛을 알아보다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3229,
+"word": "고리",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "ring, loop",
+"gloss_ko": "둥근 걸이",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3230,
+"word": "잠옷",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "pajamas",
+"gloss_ko": "잘 때 입는 옷",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3231,
+"word": "여기요",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "excuse me",
+"gloss_ko": "부르는 말",
+"pos": "int",
+"region": "Conv"
+},
+{
+"rank": 3232,
+"word": "동물원",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "zoo",
+"gloss_ko": "동물 보는 곳",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3233,
+"word": "불고기",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "bulgogi",
+"gloss_ko": "양념한 구운 소고기",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3234,
+"word": "결제",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "payment",
+"gloss_ko": "값을 치름",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3235,
+"word": "잔액",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "balance",
+"gloss_ko": "남은 돈",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3236,
+"word": "흥정",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "haggling",
+"gloss_ko": "값을 놓고 다툼",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3237,
+"word": "귤",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "tangerine",
+"gloss_ko": "작은 오렌지 과일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3238,
+"word": "일행",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "party, companions",
+"gloss_ko": "함께 온 사람들",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3239,
+"word": "노래지다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "turn yellow",
+"gloss_ko": "노랗게 되다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3240,
+"word": "명동역",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Myeongdong Station",
+"gloss_ko": "서울 지하철역",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3241,
+"word": "강남",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Gangnam",
+"gloss_ko": "서울 지역",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3242,
+"word": "종점",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "terminus",
+"gloss_ko": "마지막 정거장",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3243,
+"word": "강북",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Gangbuk",
+"gloss_ko": "서울 한강 북쪽",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3244,
+"word": "컴퓨터",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "computer",
+"gloss_ko": "계산하는 기계",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3245,
+"word": "이름표",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "name tag",
+"gloss_ko": "이름 적은 표",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3246,
+"word": "거꾸로",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "upside down",
+"gloss_ko": "반대로",
+"pos": "adv",
+"region": "Conv"
+},
+{
+"rank": 3247,
+"word": "안건",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "agenda item",
+"gloss_ko": "논의할 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3248,
+"word": "월급날",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "payday",
+"gloss_ko": "월급 받는 날",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3249,
+"word": "피켓팅",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "ticket scramble",
+"gloss_ko": "표 구하기 경쟁",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3250,
+"word": "튀기다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "deep-fry",
+"gloss_ko": "기름에 익히다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3251,
+"word": "예매",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "advance booking",
+"gloss_ko": "미리 사 둠",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3252,
+"word": "응원봉",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "light stick",
+"gloss_ko": "응원 도구",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3253,
+"word": "블루투스",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Bluetooth",
+"gloss_ko": "무선 연결 기술",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3254,
+"word": "부치다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "send by mail",
+"gloss_ko": "보내다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3255,
+"word": "빗소리",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "sound of rain",
+"gloss_ko": "비 떨어지는 소리",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3256,
+"word": "반짝반짝",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "sparkling",
+"gloss_ko": "빛나는 모양",
+"pos": "adv",
+"region": "Conv"
+},
+{
+"rank": 3257,
+"word": "빚다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "shape (dough)",
+"gloss_ko": "반죽으로 만들다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3258,
+"word": "반죽",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "dough",
+"gloss_ko": "밀가루 이긴 것",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3259,
+"word": "사랑해",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "I love you",
+"gloss_ko": "사랑한다는 말",
+"pos": "expr",
+"region": "Conv"
+},
+{
+"rank": 3260,
+"word": "따라하다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "imitate",
+"gloss_ko": "흉내 내다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3261,
+"word": "스틱",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "stick",
+"gloss_ko": "막대",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3262,
+"word": "배추",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "napa cabbage",
+"gloss_ko": "김치 재료 채소",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3263,
+"word": "해치우다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "knock out",
+"gloss_ko": "빨리 끝내다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3264,
+"word": "친구분",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "friend (hon.)",
+"gloss_ko": "친구의 높임말",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3265,
+"word": "이만큼",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "this much",
+"gloss_ko": "이 정도",
+"pos": "adv",
+"region": "Conv"
+},
+{
+"rank": 3266,
+"word": "팍팍",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "vigorously",
+"gloss_ko": "힘차게 자꾸 하는 모양",
+"pos": "adv",
+"region": "Conv"
+},
+{
+"rank": 3267,
+"word": "김장",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "kimchi-making",
+"gloss_ko": "겨울을 위해 많은 김치를 담그는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3268,
+"word": "수육",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "boiled pork slices",
+"gloss_ko": "삶아서 얇게 썬 돼지고기",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3269,
+"word": "뮤비",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "music video",
+"gloss_ko": "뮤직비디오",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3270,
+"word": "스포",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "spoiler",
+"gloss_ko": "내용을 미리 알려 주는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3271,
+"word": "쌍둥이",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "twins",
+"gloss_ko": "한배에서 같이 난 두 아이",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3272,
+"word": "클리셰",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "cliche",
+"gloss_ko": "뻔하고 흔한 설정",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3273,
+"word": "사이드",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "side dish",
+"gloss_ko": "곁들여 나오는 음식",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3274,
+"word": "학점",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "course credit",
+"gloss_ko": "대학 수업의 성적 단위",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3275,
+"word": "삼각",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "triangle",
+"gloss_ko": "세 개의 각이 있는 모양",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3276,
+"word": "페이퍼",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "paper",
+"gloss_ko": "종이, 보고서",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3277,
+"word": "학기",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "semester",
+"gloss_ko": "학교의 한 학년을 나눈 기간",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3278,
+"word": "공문",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "official letter",
+"gloss_ko": "공식적으로 보내는 문서",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3279,
+"word": "잘하다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to be good at",
+"gloss_ko": "솜씨 있게 하다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3280,
+"word": "짤",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "meme image",
+"gloss_ko": "인터넷에 도는 짧은 그림",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3281,
+"word": "학과",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "department",
+"gloss_ko": "대학의 전공 단위",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3282,
+"word": "컵라면",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "cup noodles",
+"gloss_ko": "컵에 담긴 즉석 라면",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3283,
+"word": "이득",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "gain",
+"gloss_ko": "이익",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3284,
+"word": "국그릇",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "soup bowl",
+"gloss_ko": "국을 담는 그릇",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3285,
+"word": "거실",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "living room",
+"gloss_ko": "집에서 가족이 모이는 큰 방",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3286,
+"word": "목욕",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "bath",
+"gloss_ko": "몸을 씻는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3287,
+"word": "리모컨",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "remote control",
+"gloss_ko": "멀리서 기계를 조종하는 도구",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3288,
+"word": "관리비",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "maintenance fee",
+"gloss_ko": "아파트 관리에 내는 돈",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3289,
+"word": "에어컨",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "air conditioner",
+"gloss_ko": "실내를 시원하게 하는 기계",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3290,
+"word": "집들이",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "housewarming",
+"gloss_ko": "새 집에 손님을 초대하는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3291,
+"word": "잔뜩",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "a lot",
+"gloss_ko": "가득, 아주 많이",
+"pos": "adv",
+"region": "Conv"
+},
+{
+"rank": 3292,
+"word": "불어나다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to swell",
+"gloss_ko": "양이 늘어나다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3293,
+"word": "롤",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "roll",
+"gloss_ko": "말아 놓은 것",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3294,
+"word": "원룸",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "studio apartment",
+"gloss_ko": "방 하나짜리 집",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3295,
+"word": "건너편",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "opposite side",
+"gloss_ko": "맞은편",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3296,
+"word": "고마워하다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to be grateful",
+"gloss_ko": "고맙게 느끼다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3297,
+"word": "당번",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "person on duty",
+"gloss_ko": "차례로 맡는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3298,
+"word": "아랫집",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "downstairs neighbor",
+"gloss_ko": "아래층에 있는 집",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3299,
+"word": "부엌",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "kitchen",
+"gloss_ko": "음식을 만드는 곳",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3300,
+"word": "난방",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "heating",
+"gloss_ko": "집을 따뜻하게 하는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3301,
+"word": "지난달",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "last month",
+"gloss_ko": "바로 전의 달",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3302,
+"word": "현관",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "entrance hall",
+"gloss_ko": "집 입구",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3303,
+"word": "세일",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "sale",
+"gloss_ko": "값을 깎아 파는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3304,
+"word": "비버",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "beaver",
+"gloss_ko": "물가에 사는 댐 만드는 동물",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3305,
+"word": "재킷",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "jacket",
+"gloss_ko": "짧은 겉옷",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3306,
+"word": "칸",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "compartment",
+"gloss_ko": "나누어진 한 공간",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3307,
+"word": "팝콘",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "popcorn",
+"gloss_ko": "튀긴 옥수수 과자",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3308,
+"word": "두근거리다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "heart pounds",
+"gloss_ko": "가슴이 뛰다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3309,
+"word": "개똥",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "dog poop",
+"gloss_ko": "개의 똥",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3310,
+"word": "이왕",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "since it's so",
+"gloss_ko": "이미 그렇게 된 바에",
+"pos": "adv",
+"region": "Conv"
+},
+{
+"rank": 3311,
+"word": "쫓아오다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to chase after",
+"gloss_ko": "뒤따라 오다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3312,
+"word": "시리다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to feel cold",
+"gloss_ko": "차서 아프다",
+"pos": "adj",
+"region": "Conv"
+},
+{
+"rank": 3313,
+"word": "코트",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "coat",
+"gloss_ko": "긴 겉옷",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3314,
+"word": "강제",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "compulsion",
+"gloss_ko": "억지로 시키는 것",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3315,
+"word": "홀더",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "cup holder sleeve",
+"gloss_ko": "컵을 잡는 종이 받침",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3316,
+"word": "글씨",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "handwriting",
+"gloss_ko": "쓴 글자",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3317,
+"word": "얼음",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "ice",
+"gloss_ko": "물이 언 것",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3318,
+"word": "창가",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "by the window",
+"gloss_ko": "창문 옆",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3319,
+"word": "카운터",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "counter",
+"gloss_ko": "계산하는 곳",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3320,
+"word": "공원",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "park",
+"gloss_ko": "사람들이 쉬는 넓은 곳",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3321,
+"word": "단톡방",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "group chat",
+"gloss_ko": "단체 채팅방",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3322,
+"word": "보정",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "photo retouching",
+"gloss_ko": "사진을 고치는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3323,
+"word": "필터",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "filter",
+"gloss_ko": "걸러 주는 장치",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3324,
+"word": "사촌",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "cousin",
+"gloss_ko": "삼촌·이모의 자녀",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3325,
+"word": "베이지",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "beige",
+"gloss_ko": "옅은 갈색",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3326,
+"word": "크림색",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "cream color",
+"gloss_ko": "연한 노란 흰색",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3327,
+"word": "구별",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "distinction",
+"gloss_ko": "다른 것을 가려내는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3328,
+"word": "내려앉다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to sink down",
+"gloss_ko": "아래로 가라앉다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3329,
+"word": "가슴살",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "chicken breast",
+"gloss_ko": "닭의 가슴 부분 고기",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3330,
+"word": "질리다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to be sick of",
+"gloss_ko": "싫증나다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3331,
+"word": "떨어뜨리다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to drop",
+"gloss_ko": "아래로 떨어지게 하다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3332,
+"word": "출구",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "exit",
+"gloss_ko": "나가는 문",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3333,
+"word": "자동",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "automatic",
+"gloss_ko": "저절로 움직이는 것",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3334,
+"word": "받침",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "final consonant",
+"gloss_ko": "글자 아래 자음",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3335,
+"word": "좀비",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "zombie",
+"gloss_ko": "되살아난 시체",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3336,
+"word": "대본",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "script",
+"gloss_ko": "연극 영화 글",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3337,
+"word": "탭",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "tab",
+"gloss_ko": "화면 이름표",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3338,
+"word": "용량",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "capacity",
+"gloss_ko": "담을 수 있는 양",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3339,
+"word": "한글",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Hangul",
+"gloss_ko": "한국의 글자",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3340,
+"word": "야행",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "night walking",
+"gloss_ko": "밤에 다니는 것",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3341,
+"word": "감시자",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "watcher",
+"gloss_ko": "지켜보는 사람",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3342,
+"word": "도시락",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "lunch box",
+"gloss_ko": "담아 가져가는 밥",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3343,
+"word": "젓가락",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "chopsticks",
+"gloss_ko": "음식을 집는 막대",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3344,
+"word": "빨대",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "straw",
+"gloss_ko": "음료를 마시는 관",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3345,
+"word": "적립",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "earn points",
+"gloss_ko": "포인트를 쌓는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3346,
+"word": "카페라떼",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "cafe latte",
+"gloss_ko": "우유 넣은 커피",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3347,
+"word": "유자차",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "yuja tea",
+"gloss_ko": "유자로 만든 차",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3348,
+"word": "건너가다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to cross over",
+"gloss_ko": "맞은편으로 가다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3349,
+"word": "갈아타다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to transfer",
+"gloss_ko": "다른 차로 바꿔 타다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3350,
+"word": "광장시장",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Gwangjang Market",
+"gloss_ko": "서울의 전통시장",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3351,
+"word": "지하철",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "subway",
+"gloss_ko": "땅 밑으로 다니는 전철",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3352,
+"word": "정거장",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "stop",
+"gloss_ko": "차가 서는 곳",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3353,
+"word": "걸어가다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to walk",
+"gloss_ko": "걸어서 가다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3354,
+"word": "칼칼하다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "spicy and crisp",
+"gloss_ko": "맵고 시원하다",
+"pos": "adj",
+"region": "Conv"
+},
+{
+"rank": 3355,
+"word": "띵하다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to feel dizzy",
+"gloss_ko": "머리가 멍하고 아프다",
+"pos": "adj",
+"region": "Conv"
+},
+{
+"rank": 3356,
+"word": "기침",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "cough",
+"gloss_ko": "목에서 나는 소리",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3357,
+"word": "사탕",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "candy",
+"gloss_ko": "달콤한 과자",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3358,
+"word": "신분증",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "ID card",
+"gloss_ko": "신원을 증명하는 카드",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3359,
+"word": "보험증",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "insurance card",
+"gloss_ko": "건강보험 증",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3360,
+"word": "알레르기",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "allergy",
+"gloss_ko": "몸이 과민하게 반응함",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3361,
+"word": "통장",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "bankbook",
+"gloss_ko": "은행 계좌 책",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3362,
+"word": "기계",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "machine",
+"gloss_ko": "움직이는 장치",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3363,
+"word": "수건",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "towel",
+"gloss_ko": "몸을 닦는 천",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3364,
+"word": "돌돌",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "rolling up",
+"gloss_ko": "둥글게 마는 모양",
+"pos": "adv",
+"region": "Conv"
+},
+{
+"rank": 3365,
+"word": "식혜",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "sikhye",
+"gloss_ko": "엿기름으로 만든 단 음료",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3366,
+"word": "한강",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Han River",
+"gloss_ko": "서울을 지나는 강",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3367,
+"word": "검은색",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "black",
+"gloss_ko": "까만 빛깔",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3368,
+"word": "핑크",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "pink",
+"gloss_ko": "분홍색",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3369,
+"word": "자물쇠",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "lock",
+"gloss_ko": "잠그는 도구",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3370,
+"word": "돼지국밥",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "pork soup rice",
+"gloss_ko": "부산 돼지뼈 국밥",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3371,
+"word": "지연",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "delay",
+"gloss_ko": "늦어지는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3372,
+"word": "뜨아",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "hot americano",
+"gloss_ko": "뜨거운 아메리카노",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3373,
+"word": "복사기",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "copier",
+"gloss_ko": "문서를 복사하는 기계",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3374,
+"word": "뚜껑",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "lid",
+"gloss_ko": "덮개",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3375,
+"word": "쇼핑몰",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "shopping mall",
+"gloss_ko": "큰 상점 건물",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3376,
+"word": "사료",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "pet food",
+"gloss_ko": "동물 먹이",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3377,
+"word": "링크",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "link",
+"gloss_ko": "인터넷 주소 연결",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3378,
+"word": "센스",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "sense",
+"gloss_ko": "감각, 눈치",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3379,
+"word": "보고서",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "report",
+"gloss_ko": "조사 결과를 적은 글",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3380,
+"word": "서명",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "signature",
+"gloss_ko": "이름을 적는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3381,
+"word": "연습실",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "practice room",
+"gloss_ko": "연습하는 방",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3382,
+"word": "보컬",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "vocalist",
+"gloss_ko": "노래하는 사람",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3383,
+"word": "댄스",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "dance",
+"gloss_ko": "춤",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3384,
+"word": "발음",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "pronunciation",
+"gloss_ko": "말소리 내는 법",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3385,
+"word": "세배",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "New Year bow",
+"gloss_ko": "설날 절",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3386,
+"word": "세뱃돈",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "New Year money",
+"gloss_ko": "세배 때 받는 돈",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3387,
+"word": "열정",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "passion",
+"gloss_ko": "뜨거운 마음",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3388,
+"word": "양손",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "both hands",
+"gloss_ko": "두 손",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3389,
+"word": "팬싸",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "fan signing",
+"gloss_ko": "팬 사인회",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3390,
+"word": "당첨",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "winning",
+"gloss_ko": "뽑혀서 상을 받음",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3391,
+"word": "화요일",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Tuesday",
+"gloss_ko": "월요일 다음 날",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3392,
+"word": "기말",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "end of term",
+"gloss_ko": "학기 끝 무렵",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3393,
+"word": "고사",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "exam",
+"gloss_ko": "시험",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3394,
+"word": "매주",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "every week",
+"gloss_ko": "주마다",
+"pos": "adv",
+"region": "Conv"
+},
+{
+"rank": 3395,
+"word": "다듬다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to trim",
+"gloss_ko": "매만져 고르다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3396,
+"word": "유행",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "trend",
+"gloss_ko": "많이 퍼지는 것",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3397,
+"word": "점검",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "inspection",
+"gloss_ko": "하나하나 살펴봄",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3398,
+"word": "사다리",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "ladder",
+"gloss_ko": "오르내리는 도구",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3399,
+"word": "야근",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "overtime work",
+"gloss_ko": "밤에 하는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3400,
+"word": "태풍",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "typhoon",
+"gloss_ko": "거센 바람과 비",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3401,
+"word": "서랍",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "drawer",
+"gloss_ko": "빼고 닫는 수납칸",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3402,
+"word": "현관문",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "front door",
+"gloss_ko": "집 입구 문",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3403,
+"word": "순식간",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "in an instant",
+"gloss_ko": "매우 짧은 시간",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3404,
+"word": "동시",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "at the same time",
+"gloss_ko": "같은 때",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3405,
+"word": "소개팅",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "blind date",
+"gloss_ko": "소개받아 만나는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3406,
+"word": "어기다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to break",
+"gloss_ko": "지키지 않다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3407,
+"word": "손주",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "grandchild",
+"gloss_ko": "손자 손녀",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3408,
+"word": "스테이크",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "steak",
+"gloss_ko": "구운 고기",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3409,
+"word": "샴페인",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "champagne",
+"gloss_ko": "거품 나는 술",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3410,
+"word": "타워",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "tower",
+"gloss_ko": "높은 탑",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3411,
+"word": "콜라",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "cola",
+"gloss_ko": "탄산음료",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3412,
+"word": "순대",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "sundae",
+"gloss_ko": "돼지 창자에 채운 음식",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3413,
+"word": "튀김",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "fried food",
+"gloss_ko": "기름에 튀긴 음식",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3414,
+"word": "아무거나",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "anything",
+"gloss_ko": "아무 것이나",
+"pos": "pron",
+"region": "Conv"
+},
+{
+"rank": 3415,
+"word": "원론",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "basic theory",
+"gloss_ko": "근본 이론",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3416,
+"word": "노트",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "notebook",
+"gloss_ko": "공책",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3417,
+"word": "안주",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "side dish for drinks",
+"gloss_ko": "술과 함께 먹는 음식",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3418,
+"word": "쫓아내다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to drive out",
+"gloss_ko": "몰아내다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3419,
+"word": "모자",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "hat",
+"gloss_ko": "머리에 쓰는 것",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3420,
+"word": "뾰족",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "pointed",
+"gloss_ko": "끝이 날카로운 모양",
+"pos": "adj",
+"region": "Conv"
+},
+{
+"rank": 3421,
+"word": "틀",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "mold",
+"gloss_ko": "모양을 만드는 도구",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3422,
+"word": "디자인",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "design",
+"gloss_ko": "모양을 설계하는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3423,
+"word": "엑셀",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Excel",
+"gloss_ko": "표 계산 프로그램",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3424,
+"word": "전날",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "the day before",
+"gloss_ko": "바로 앞의 날",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3425,
+"word": "꼬이다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to get tangled",
+"gloss_ko": "뒤얽히다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3426,
+"word": "여권",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "passport",
+"gloss_ko": "외국에 갈 때 쓰는 증",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3427,
+"word": "신청서",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "application form",
+"gloss_ko": "신청 내용을 적은 서류",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3428,
+"word": "재학",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "enrollment",
+"gloss_ko": "학교에 다니는 것",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3429,
+"word": "증명서",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "certificate",
+"gloss_ko": "사실을 증명하는 문서",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3430,
+"word": "배경",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "background",
+"gloss_ko": "뒤쪽 경치",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3431,
+"word": "하얀색",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "white",
+"gloss_ko": "흰 빛깔",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3432,
+"word": "임대차",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "lease",
+"gloss_ko": "집을 빌려 주고 쓰는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3433,
+"word": "접수",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "reception",
+"gloss_ko": "신청을 받는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3434,
+"word": "목적지",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "destination",
+"gloss_ko": "가려는 곳",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3435,
+"word": "옵서예",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "welcome (Jeju)",
+"gloss_ko": "어서 오세요(제주말)",
+"pos": "int",
+"region": "Conv"
+},
+{
+"rank": 3436,
+"word": "사투리",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "dialect",
+"gloss_ko": "지방 말",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3437,
+"word": "육지",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "mainland",
+"gloss_ko": "바다가 아닌 땅",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3438,
+"word": "꼬다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to twist",
+"gloss_ko": "비비어 틀다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3439,
+"word": "대여",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "rental",
+"gloss_ko": "빌려 주는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3440,
+"word": "유적지",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "historic site",
+"gloss_ko": "옛 건물이 남은 곳",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3441,
+"word": "대부분",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "mostly",
+"gloss_ko": "거의 모두",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3442,
+"word": "사극",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "period drama",
+"gloss_ko": "옛 시대 드라마",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3443,
+"word": "강등",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "demotion",
+"gloss_ko": "등급이 낮아짐",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3444,
+"word": "익다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to be cooked",
+"gloss_ko": "음식이 다 되다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3445,
+"word": "빗방울",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "raindrop",
+"gloss_ko": "떨어지는 비 알갱이",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3446,
+"word": "타프",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "tarp",
+"gloss_ko": "햇빛 가리는 천",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3447,
+"word": "시차",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "time difference",
+"gloss_ko": "시간 차이",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3448,
+"word": "맛집",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "famous restaurant",
+"gloss_ko": "맛있는 가게",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3449,
+"word": "추천",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "recommendation",
+"gloss_ko": "좋다고 권함",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3450,
+"word": "마트",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "supermarket",
+"gloss_ko": "큰 가게",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3451,
+"word": "포스트잇",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "sticky note",
+"gloss_ko": "붙이는 쪽지",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3452,
+"word": "엑스트라",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "extra",
+"gloss_ko": "조연 배경 배우",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3453,
+"word": "맑다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "clear",
+"gloss_ko": "구름 없이 환하다",
+"pos": "adj",
+"region": "Conv"
+},
+{
+"rank": 3454,
+"word": "살수차",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "water truck",
+"gloss_ko": "물 뿌리는 차",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3455,
+"word": "포인트",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "point",
+"gloss_ko": "점수, 요점",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3456,
+"word": "케미",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "chemistry",
+"gloss_ko": "어울리는 느낌",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3457,
+"word": "승진",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "promotion",
+"gloss_ko": "높은 자리로 오름",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3458,
+"word": "길이",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "length",
+"gloss_ko": "긴 정도",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3459,
+"word": "주차장",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "parking lot",
+"gloss_ko": "차를 세우는 곳",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3460,
+"word": "멸치",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "anchovy",
+"gloss_ko": "작은 바다 물고기",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3461,
+"word": "볶음",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "stir-fry",
+"gloss_ko": "기름에 볶은 음식",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3462,
+"word": "빠져나가다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to slip out",
+"gloss_ko": "밖으로 나가다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3463,
+"word": "변함없다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "unchanging",
+"gloss_ko": "그대로이다",
+"pos": "adj",
+"region": "Conv"
+},
+{
+"rank": 3464,
+"word": "진지",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "serious",
+"gloss_ko": "엄숙하고 성실함",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3465,
+"word": "흑역사",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "embarrassing past",
+"gloss_ko": "부끄러운 지난 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3466,
+"word": "쿵쿵거리다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to thud",
+"gloss_ko": "쿵쿵 소리를 내다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3467,
+"word": "소음",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "noise",
+"gloss_ko": "시끄러운 소리",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3468,
+"word": "경비실",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "guard booth",
+"gloss_ko": "경비원이 있는 곳",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3469,
+"word": "윗집",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "upstairs neighbor",
+"gloss_ko": "위층 집",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3470,
+"word": "두르다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to wrap around",
+"gloss_ko": "둘러 감다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3471,
+"word": "본론",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "main point",
+"gloss_ko": "말하려는 중심 내용",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3472,
+"word": "놀이공원",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "amusement park",
+"gloss_ko": "놀이기구 있는 곳",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3473,
+"word": "이용권",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "pass",
+"gloss_ko": "쓸 수 있는 표",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3474,
+"word": "인스타",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Instagram",
+"gloss_ko": "사진 공유 앱",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3475,
+"word": "정류장",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "bus stop",
+"gloss_ko": "버스가 서는 곳",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3476,
+"word": "페이스",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "pace",
+"gloss_ko": "속도, 얼굴",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3477,
+"word": "커튼",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "curtain",
+"gloss_ko": "창을 가리는 천",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3478,
+"word": "달려오다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to run over",
+"gloss_ko": "뛰어서 오다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3479,
+"word": "사방",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "all around",
+"gloss_ko": "네 방향",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3480,
+"word": "난장판",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "mess",
+"gloss_ko": "어지러운 상태",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3481,
+"word": "서프라이즈",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "surprise",
+"gloss_ko": "뜻밖의 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3482,
+"word": "벨",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "bell",
+"gloss_ko": "초인종",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3483,
+"word": "흐리다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "cloudy",
+"gloss_ko": "구름이 끼다",
+"pos": "adj",
+"region": "Conv"
+},
+{
+"rank": 3484,
+"word": "일시",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "date and time",
+"gloss_ko": "날짜와 시간",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3485,
+"word": "익숙",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "familiar",
+"gloss_ko": "자주 해서 편함",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3486,
+"word": "소리치다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to shout",
+"gloss_ko": "크게 외치다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3487,
+"word": "삐다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to sprain",
+"gloss_ko": "관절을 다치다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3488,
+"word": "간호사",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "nurse",
+"gloss_ko": "환자를 돌보는 사람",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3489,
+"word": "과하다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to be excessive",
+"gloss_ko": "지나치다",
+"pos": "adj",
+"region": "Conv"
+},
+{
+"rank": 3490,
+"word": "하나하나",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "one by one",
+"gloss_ko": "하나씩",
+"pos": "adv",
+"region": "Conv"
+},
+{
+"rank": 3491,
+"word": "반하다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to fall for",
+"gloss_ko": "마음이 끌리다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3492,
+"word": "끌리다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to be drawn",
+"gloss_ko": "마음이 쏠리다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3493,
+"word": "특정",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "specific",
+"gloss_ko": "특별히 정함",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3494,
+"word": "회색",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "gray",
+"gloss_ko": "재 빛깔",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3495,
+"word": "후드",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "hoodie",
+"gloss_ko": "모자 달린 옷",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3496,
+"word": "둔하다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to be slow",
+"gloss_ko": "느리고 굼뜨다",
+"pos": "adj",
+"region": "Conv"
+},
+{
+"rank": 3497,
+"word": "친절",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "kindness",
+"gloss_ko": "상냥하게 대함",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3498,
+"word": "수강",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "taking a class",
+"gloss_ko": "강의를 듣는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3499,
+"word": "말투",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "way of speaking",
+"gloss_ko": "말하는 버릇",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3500,
+"word": "부득이",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "unavoidably",
+"gloss_ko": "어쩔 수 없이",
+"pos": "adv",
+"region": "Conv"
+},
+{
+"rank": 3501,
+"word": "기한",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "deadline",
+"gloss_ko": "정해진 날",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3502,
+"word": "연장",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "extension",
+"gloss_ko": "길게 늘임",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3503,
+"word": "문장",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "sentence",
+"gloss_ko": "글의 한 줄",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3504,
+"word": "예불",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "Buddhist service",
+"gloss_ko": "부처에게 절하는 일",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3505,
+"word": "발우",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "monk's bowl",
+"gloss_ko": "스님의 밥그릇",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3506,
+"word": "공양",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "temple meal",
+"gloss_ko": "절에서 하는 식사",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3507,
+"word": "고추",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "chili pepper",
+"gloss_ko": "매운 채소",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3508,
+"word": "헹구다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to rinse",
+"gloss_ko": "물로 씻어 내다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3509,
+"word": "재다",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "to measure",
+"gloss_ko": "길이·무게를 알아보다",
+"pos": "v",
+"region": "Conv"
+},
+{
+"rank": 3510,
+"word": "노트북",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "laptop",
+"gloss_ko": "들고 다니는 컴퓨터",
+"pos": "n",
+"region": "Conv"
+},
+{
+"rank": 3511,
+"word": "레전드",
+"freq": 0,
+"cum_pct": 0,
+"gloss_en": "legend",
+"gloss_ko": "전설",
+"pos": "n",
+"region": "Conv"
+}
+]

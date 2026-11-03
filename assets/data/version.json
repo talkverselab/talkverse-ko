@@ -1,6 +1,7 @@
 {
- "db": 9,
+ "db": 10,
  "log": [
-  "9 (2026-11-04): 번호 방식 도입(옛 content_seed_version 8 → db 9). 회화 250편 재작성·턴 lemmas"
+  "9 (2026-11-04): 번호 방식 도입(옛 content_seed_version 8 → db 9). 회화 250편 재작성·턴 lemmas",
+  "10 (2026-11-04): 단어장에 회화 보충어 511개(rank 3001~3511, region Conv — uk 세션 제작)"
  ]
 }
