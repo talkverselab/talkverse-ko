@@ -32,8 +32,8 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "저기요, 혼자 왔어요?",
-   "rd": "jeogiyo, honja wasseoyo?",
+   "ko": "저기요, 혼자 오셨나요?",
+   "rd": "jeogiyo, honja osyeonnayo?",
    "en": "Excuse me, did you come alone?",
    "note": "혼자 = alone",
    "tags": [],
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "네. 친구가 안 왔어요.",
-   "rd": "ne. chinguga an wasseoyo.",
-   "en": "Yes. My friend didn't show.",
+   "ko": "네. 친구가 못 왔어요.",
+   "rd": "ne. chinguga mot wasseoyo.",
+   "en": "Yes. My friend couldn’t come.",
    "note": "친구",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "저도요. 같이 탈래요?",
-   "rd": "jeodoyo. gachi tallaeyo?",
-   "en": "Me too. Want to ride together?",
+   "ko": "저도 혼자예요. 같이 탈래요?",
+   "rd": "jeodo honjayeyo. gachi tallaeyo?",
+   "en": "I’m alone too. Want to ride together?",
    "note": "타다 = ride",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "진짜요? 좋아요!",
-   "rd": "jinjjayo? joayo!",
-   "en": "Really? Sure!",
+   "ko": "진짜요? 좋아요.",
+   "rd": "jinjjayo? joayo.",
+   "en": "Really? Sure.",
    "note": "좋아요",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "사실… 친구 안 불렀어요.",
-   "rd": "sasil… chingu an bulleosseoyo.",
-   "en": "Actually… I didn't invite any friend.",
+   "ko": "사실… 일부러 안 불렀어요.",
+   "rd": "sasil… ilbureo an bulleosseoyo.",
+   "en": "Actually… I didn’t invite anyone on purpose.",
    "note": "심쿵: she came alone on purpose",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "헐, 왜요?",
-   "rd": "heol, waeyo?",
-   "en": "Whoa, why?",
+   "ko": "헐. 왜요?",
+   "rd": "heol. waeyo?",
+   "en": "Whoa. Why?",
    "note": "왜",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "줄에서 봤어요. 아까부터.",
-   "rd": "jureseo bwasseoyo. akkabuteo.",
-   "en": "I saw you in line. A while ago.",
+   "ko": "줄에서 봤어요… 아까부터.",
+   "rd": "jureseo bwasseoyo… akkabuteo.",
+   "en": "I saw you in the line… from earlier.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -104,7 +104,7 @@
    "speaker": "A",
    "ko": "…다음 것도 같이 타요.",
    "rd": "…daeum geotdo gachi tayo.",
-   "en": "…Let's ride the next one together too.",
+   "en": "…Let’s ride the next one together too.",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -112,5 +112,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a13_grok_rewrite.md [K177]",
+  "final": ""
+ }
 }

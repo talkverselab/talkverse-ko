@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "라면 끓여? 나 반 개만.",
-   "rd": "ramyeon kkeulyeo? na ban gaeman.",
-   "en": "Making ramyeon? Just half for me.",
+   "ko": "라면 끓이나 봐? 나 반만.",
+   "rd": "ramyeon kkeulina bwa? na banman.",
+   "en": "You making ramyeon? Just half for me.",
    "note": "반 개 = half",
    "tags": [],
    "new": []
@@ -54,9 +54,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "나도 반 개!",
-   "rd": "nado ban gae!",
-   "en": "Half for me too!",
+   "ko": "나도 반만! 진짜?",
+   "rd": "nado banman! jinjja?",
+   "en": "Half for me too! For real?",
    "note": "another",
    "tags": [],
    "new": []
@@ -64,9 +64,9 @@
   {
    "num": 4,
    "speaker": "D",
-   "ko": "나도!",
-   "rd": "nado!",
-   "en": "Me too!",
+   "ko": "나도 나도!",
+   "rd": "nado nado!",
+   "en": "Me me too!",
    "note": "more",
    "tags": [],
    "new": []
@@ -74,9 +74,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "…반 개씩 넷이면 두 개야.",
-   "rd": "…ban gaessik nesimyeon du gaeya.",
-   "en": "…Half each for four is two.",
+   "ko": "헐… 반씩 넷이면 두 개네.",
+   "rd": "heol… banssik nesimyeon du gaene.",
+   "en": "Whoa… half each for four is two.",
    "note": "math",
    "tags": [],
    "new": []
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "근데 김치도 넣어.",
-   "rd": "geunde gimchido neoeo.",
-   "en": "Put kimchi in too.",
+   "ko": "김치도 좀 넣어 줘.",
+   "rd": "gimchido jom neoeo jwo.",
+   "en": "Put some kimchi in too.",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -94,9 +94,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "계란도! 치즈도! 떡도!",
-   "rd": "gyerando! chijeudo! tteokdo!",
-   "en": "Egg too! Cheese! Rice cakes!",
+   "ko": "계란이랑 치즈 떡 햄까지!",
+   "rd": "gyeranirang chijeu tteok haemkkaji!",
+   "en": "Egg and cheese, rice cakes, even ham!",
    "note": "Kick: chaos escalates",
    "tags": [],
    "new": []
@@ -104,12 +104,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "이거 이제 라면 아니고 부대찌개야.",
-   "rd": "igeo ije ramyeon anigo budaejjigaeya.",
-   "en": "This isn't ramyeon anymore, it's army stew.",
+   "ko": "이거 라면 아니고 거의 찌개야.",
+   "rd": "igeo ramyeon anigo geoui jjigaeya.",
+   "en": "This isn’t ramyeon anymore, it’s basically stew.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_life_a6_grok_rewrite.md [K174]",
+  "final": ""
+ }
 }

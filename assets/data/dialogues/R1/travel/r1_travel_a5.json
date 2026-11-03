@@ -1,0 +1,115 @@
+{
+ "id": "r1_travel_a5",
+ "region": "R1",
+ "island": "travel",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "travel"
+ ],
+ "domain": [
+  "travel"
+ ],
+ "title": "강릉 바다",
+ "emoji": "🌊",
+ "scene": "강릉 바다 앞 카페. 민준이 「인생 사진」 찍어 준다며 파도 앞에 세운다",
+ "speakers": {
+  "A": "{name}",
+  "B": "민준",
+  "C": "파도"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "조금만 더",
+  "헐",
+  "진짜?",
+  "아 몰라"
+ ],
+ "goal": "Getting the perfect photo",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "조금만 더 뒤로! 파도랑 같이 나오게.",
+   "rd": "jogeumman deo dwiro! padorang gachi naoge.",
+   "en": "A bit further back! So the wave is in the shot.",
+   "note": "뒤로 = back",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "여기? 신발 젖는데.",
+   "rd": "yeogi? sinbal jeonneunde.",
+   "en": "Here? My shoes will get wet.",
+   "note": "젖다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "조금만 더!",
+   "rd": "jogeumman deo!",
+   "en": "Just a bit more!",
+   "note": "더",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "여기?",
+   "rd": "yeogi?",
+   "en": "Here?",
+   "note": "여기",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "(파도) 쏴아아—",
+   "rd": "(pado) sswaaa—",
+   "en": "(wave) Whoosh—",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "헐… 다 젖었어!",
+   "rd": "heol… da jeojeosseo!",
+   "en": "Whoa… I'm soaked!",
+   "note": "다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "근데 사진 대박이야. 인생 사진.",
+   "rd": "geunde sajin daebagiya. insaeng sajin.",
+   "en": "But the photo is amazing. Photo of a lifetime.",
+   "note": "인생 사진",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "아 몰라. 그 사진 꼭 올려.",
+   "rd": "a molla. geu sajin kkok ollyeo.",
+   "en": "Ugh. You'd better post that photo.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

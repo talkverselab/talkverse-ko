@@ -1,0 +1,117 @@
+{
+ "id": "r1_love_a15",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "편의점 고백",
+ "emoji": "🏪",
+ "scene": "밤 편의점 파라솔. 하늘이 컵라면을 먹다 말고 진지해진다",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘",
+  "C": "편의점 직원"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "그니까",
+  "헐"
+ ],
+ "goal": "A confession over cup noodles",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "저기, 할 말 있어.",
+   "rd": "jeogi, hal mal isseo.",
+   "en": "Hey, I have something to say.",
+   "note": "할 말",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "뭔데? 라면 불어.",
+   "rd": "mwonde? ramyeon bureo.",
+   "en": "What? Your noodles are getting soggy.",
+   "note": "붇다 = get soggy",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "나 너 좋아해.",
+   "rd": "na neo joahae.",
+   "en": "I like you.",
+   "note": "좋아해",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "…지금? 여기서?",
+   "rd": "…jigeum? yeogiseo?",
+   "en": "…Now? Here?",
+   "note": "여기서",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "응. 컵라면 먹을 때 제일 편해 보여서.",
+   "rd": "eung. keomnamyeon meogeul ttae jeil pyeonhae boyeoseo.",
+   "en": "Yeah. You look the most relaxed when eating cup noodles.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "(직원) 봉투 필요하세요?",
+   "rd": "(jigwon) bongtu piryohaseyo?",
+   "en": "(clerk) Need a bag?",
+   "note": "Kick: timing",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "…아니요. 대답은 필요해요.",
+   "rd": "…aniyo. daedabeun piryohaeyo.",
+   "en": "…No. But I need an answer.",
+   "note": "pun",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "ㅋㅋ 그니까 대답해.",
+   "rd": "ㅋㅋ geunikka daedapae.",
+   "en": "Lol exactly, so answer me.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

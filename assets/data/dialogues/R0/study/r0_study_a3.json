@@ -34,8 +34,8 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "숙제 주세요.",
-   "rd": "sukje juseyo.",
+   "ko": "숙제 내세요.",
+   "rd": "sukje naeseyo.",
    "en": "Hand in your homework.",
    "note": "숙제 = homework",
    "tags": [],
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "어… 집에 있어요.",
-   "rd": "eo… jibe isseoyo.",
-   "en": "Uh… it's at home.",
+   "ko": "어… 집에 두고 왔어요.",
+   "rd": "eo… jibe dugo wasseoyo.",
+   "en": "Uh… I left it at home.",
    "note": "집 = home",
    "tags": [],
    "new": []
@@ -64,9 +64,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "네. 고양이가 먹었어요.",
-   "rd": "ne. goyangiga meogeosseoyo.",
-   "en": "Yes. My cat ate it.",
+   "ko": "네, 고양이가 다 먹었어요.",
+   "rd": "ne, goyangiga da meogeosseoyo.",
+   "en": "Yes, the cat ate it all.",
    "note": "Kick: classic excuse",
    "tags": [],
    "new": []
@@ -74,9 +74,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "저도요! 강아지가요!",
-   "rd": "jeodoyo! gangajigayo!",
-   "en": "Me too! My dog did!",
+   "ko": "저도요! 강아지가 물어 갔어요!",
+   "rd": "jeodoyo! gangajiga mureo gasseoyo!",
+   "en": "Me too! The dog took it!",
    "note": "chaos: everyone",
    "tags": [],
    "new": []
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "D",
-   "ko": "저는 동생이요!",
-   "rd": "jeoneun dongsaengiyo!",
-   "en": "Mine was my little brother!",
+   "ko": "저는 동생이랑 언니가 찢었어요!",
+   "rd": "jeoneun dongsaengirang eonniga jjijeosseoyo!",
+   "en": "Mine, my little brother and older sister tore it!",
    "note": "more",
    "tags": [],
    "new": []
@@ -94,8 +94,8 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "…다들 동물원이에요?",
-   "rd": "…dadeul dongmurwonieyo?",
+   "ko": "…다들 동물원 살아요?",
+   "rd": "…dadeul dongmurwon sarayo?",
    "en": "…Do you all live in a zoo?",
    "note": "zoo joke",
    "tags": [],
@@ -104,12 +104,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "죄송합니다. 내일 낼게요.",
-   "rd": "joesonghamnida. naeil naelgeyo.",
-   "en": "Sorry. I'll hand it in tomorrow.",
+   "ko": "죄송합니다. 내일 꼭 낼게요.",
+   "rd": "joesonghamnida. naeil kkok naelgeyo.",
+   "en": "Sorry. I’ll definitely hand it in tomorrow.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_study_a3_grok_rewrite.md [K179]",
+  "final": ""
+ }
 }

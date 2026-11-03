@@ -1,0 +1,117 @@
+{
+ "id": "r0_love_a15",
+ "region": "R0",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "엘리베이터 고장",
+ "emoji": "🛗",
+ "scene": "회사 엘리베이터가 멈췄다. 안에는 해솔과 학습자 둘뿐",
+ "speakers": {
+  "A": "{name}",
+  "B": "해솔",
+  "C": "관리실"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "괜찮아요",
+  "헐",
+  "잠깐만요"
+ ],
+ "goal": "Stuck in an elevator",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "어? 멈췄어요.",
+   "rd": "eo? meomchwosseoyo.",
+   "en": "Huh? It stopped.",
+   "note": "멈추다 = stop",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "헐… 불도 꺼졌어요.",
+   "rd": "heol… buldo kkeojyeosseoyo.",
+   "en": "Whoa… the lights went out too.",
+   "note": "불 = light",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "괜찮아요. 버튼 누를게요.",
+   "rd": "gwaenchanayo. beoteun nureulgeyo.",
+   "en": "It's okay. I'll press the button.",
+   "note": "버튼",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "(스피커) 네~ 30분 걸려요.",
+   "rd": "(seupikeo) ne~ 30bun geollyeoyo.",
+   "en": "(speaker) Okay~ it'll take 30 minutes.",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "30분이요? 저 화장실…",
+   "rd": "30buniyo? jeo hwajangsil…",
+   "en": "30 minutes? I need the bathroom…",
+   "note": "화장실",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "잠깐만요, 제 배도…",
+   "rd": "jamkkanmanyo, je baedo…",
+   "en": "Wait, my stomach too…",
+   "note": "배 = stomach",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "ㅋㅋ 그럼 얘기해요. 빨리 가게.",
+   "rd": "ㅋㅋ geureom yaegihaeyo. ppalli gage.",
+   "en": "Haha, then let's talk. Makes time fly.",
+   "note": "심쿵-ish",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "30분 너무 짧은데요.",
+   "rd": "30bun neomu jjalbeundeyo.",
+   "en": "30 minutes is too short.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

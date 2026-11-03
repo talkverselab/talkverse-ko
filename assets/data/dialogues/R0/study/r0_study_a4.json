@@ -1,0 +1,115 @@
+{
+ "id": "r0_study_a4",
+ "region": "R0",
+ "island": "study",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "study"
+ ],
+ "domain": [
+  "study"
+ ],
+ "title": "받아쓰기",
+ "emoji": "✏️",
+ "scene": "어학당 받아쓰기 시험. 옆자리 마리아가 답을 보여 준다",
+ "speakers": {
+  "A": "{name}",
+  "B": "선생님",
+  "C": "마리아",
+  "D": "다른 학생"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "네",
+  "죄송합니다",
+  "진짜요?"
+ ],
+ "goal": "Dictation test",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "「달」 써 보세요.",
+   "rd": "「dal」 sseo boseyo.",
+   "en": "Write 「달」.",
+   "note": "달 = moon",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "(쓱) …딸?",
+   "rd": "(sseuk) …ttal?",
+   "en": "(scribble) …딸?",
+   "note": "spelling",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "(속삭이며) 달! 달!",
+   "rd": "(soksagimyeo) dal! dal!",
+   "en": "(whisper) 달! 달!",
+   "note": "help",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "마리아 씨, 쉿.",
+   "rd": "maria ssi, swit.",
+   "en": "Maria, shh.",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "D",
+   "ko": "(옆에서) 저도 몰라요!",
+   "rd": "(yeopeseo) jeodo mollayo!",
+   "en": "(next to them) I don't know either!",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "다 같이 틀렸어요!",
+   "rd": "da gachi teullyeosseoyo!",
+   "en": "We all got it wrong!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "ㅋㅋ 다 같이 다시 해요.",
+   "rd": "ㅋㅋ da gachi dasi haeyo.",
+   "en": "Haha, let's all do it again.",
+   "note": "다시",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "이번엔 「딸」 말고 「달」!",
+   "rd": "ibeonen 「ttal」 malgo 「dal」!",
+   "en": "This time 달, not 딸!",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

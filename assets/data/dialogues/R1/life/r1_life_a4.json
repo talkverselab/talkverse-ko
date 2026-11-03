@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "도윤아, 리모컨 어디 있어?",
-   "rd": "doyuna, rimokeon eodi isseo?",
-   "en": "Doyun, where's the remote?",
+   "ko": "도윤아, 리모컨 어디 갔어?",
+   "rd": "doyuna, rimokeon eodi gasseo?",
+   "en": "Doyun, where’d the remote go?",
    "note": "리모컨 = remote",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "소파에? 없어?",
-   "rd": "sopae? eopseo?",
-   "en": "On the sofa? Not there?",
+   "ko": "소파에 있을 텐데. 없어?",
+   "rd": "sopae isseul tende. eopseo?",
+   "en": "Should be on the sofa. Not there?",
    "note": "소파",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "없어. 너무 더워.",
-   "rd": "eopseo. neomu deowo.",
-   "en": "No. It's so hot.",
+   "ko": "없어. 진짜 더워 죽겠어.",
+   "rd": "eopseo. jinjja deowo jukgesseo.",
+   "en": "No. It’s so hot I’m dying.",
    "note": "덥다 = hot",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "냉장고 봤어?",
-   "rd": "naengjanggo bwasseo?",
-   "en": "Did you check the fridge?",
+   "ko": "잠깐만, 냉장고 열어 봐.",
+   "rd": "jamkkanman, naengjanggo yeoreo bwa.",
+   "en": "Wait, open the fridge.",
    "note": "냉장고",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "…헐, 진짜 여기 있어. 차가워.",
-   "rd": "…heol, jinjja yeogi isseo. chagawo.",
-   "en": "…Whoa, it's actually here. It's cold.",
+   "ko": "헐… 진짜 여기 있네. 완전 차가워.",
+   "rd": "heol… jinjja yeogi inne. wanjeon chagawo.",
+   "en": "Whoa… it’s actually here. Totally cold.",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "어제 내가 아이스크림이랑 같이 넣었나 봐.",
-   "rd": "eoje naega aiseukeurimirang gachi neoeonna bwa.",
-   "en": "I guess I put it in with the ice cream yesterday.",
+   "ko": "어제 아이스크림이랑 피자랑 같이 넣은 것 같아.",
+   "rd": "eoje aiseukeurimirang pijarang gachi neoeun geot gata.",
+   "en": "I think I put it in with the ice cream and pizza yesterday.",
    "note": "-나 봐 = must have",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "근데 아이스크림은 어디 있어?",
-   "rd": "geunde aiseukeurimeun eodi isseo?",
-   "en": "Then where's the ice cream?",
+   "ko": "그럼 아이스크림이랑 피자는 어디 있어?",
+   "rd": "geureom aiseukeurimirang pijaneun eodi isseo?",
+   "en": "Then where are the ice cream and pizza?",
    "note": "Kick 2",
    "tags": [],
    "new": []
@@ -103,12 +103,16 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "…소파에.",
-   "rd": "…sopae.",
-   "en": "…On the sofa.",
+   "ko": "아 몰라… 소파에 다 있을걸.",
+   "rd": "a molla… sopae da isseulgeol.",
+   "en": "Ugh whatever… they’re probably all on the sofa.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_life_a4_grok_rewrite.md [K185]",
+  "final": ""
+ }
 }

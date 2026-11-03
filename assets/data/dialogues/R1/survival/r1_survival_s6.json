@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "목이… 칼칼해요?",
-   "rd": "mogi… kalkalhaeyo?",
-   "en": "My throat is… scratchy?",
+   "ko": "목이 좀 칼칼해요…",
+   "rd": "mogi jom kalkalhaeyo…",
+   "en": "My throat is a bit scratchy…",
    "note": "칼칼하다 = scratchy",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "오, 단어 잘 아시네요. 열도 있어요?",
-   "rd": "o, daneo jal asineyo. yeoldo isseoyo?",
-   "en": "Oh, you know the word. Any fever?",
+   "ko": "단어 잘 아시네요. 열은 있어요?",
+   "rd": "daneo jal asineyo. yeoreun isseoyo?",
+   "en": "You know the word well. Any fever?",
    "note": "열 = fever",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "잘 모르겠어요. 머리는 띵해요.",
-   "rd": "jal moreugesseoyo. meorineun ttinghaeyo.",
-   "en": "Not sure. My head is fuzzy.",
+   "ko": "잘 모르겠어요. 머리가 띵해요.",
+   "rd": "jal moreugesseoyo. meoriga ttinghaeyo.",
+   "en": "Not sure. My head feels fuzzy.",
    "note": "띵하다 = groggy",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "기침은요?",
-   "rd": "gichimeunyo?",
-   "en": "Coughing?",
+   "ko": "기침은 하세요?",
+   "rd": "gichimeun haseyo?",
+   "en": "Do you have a cough?",
    "note": "기침 = cough",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "콜록콜록… 이거요.",
-   "rd": "kollokkollok… igeoyo.",
-   "en": "Cough cough… this.",
+   "ko": "콜록콜록콜록… 이렇게요.",
+   "rd": "kollokkollokkollok… ireokeyo.",
+   "en": "Cough cough cough… like this.",
    "note": "Kick: demonstrating",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋ 네, 알겠어요. 하루 세 번 드세요.",
-   "rd": "ㅋㅋ ne, algesseoyo. haru se beon deuseyo.",
-   "en": "Haha, got it. Take it three times a day.",
+   "ko": "ㅋㅋ 알겠어요. 하루 세 번 드시면 돼요.",
+   "rd": "ㅋㅋ algesseoyo. haru se beon deusimyeon dwaeyo.",
+   "en": "Haha got it. Take it three times a day.",
    "note": "세 번",
    "tags": [],
    "new": []
@@ -102,12 +102,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "감사합니다. 「칼칼」 어제 배웠어요.",
-   "rd": "gamsahamnida. 「kalkal」 eoje baewosseoyo.",
-   "en": "Thank you. I learned \"scratchy\" yesterday.",
+   "ko": "감사합니다. 칼칼은 어제 배웠어요.",
+   "rd": "gamsahamnida. kalkareun eoje baewosseoyo.",
+   "en": "Thank you. I learned “scratchy” yesterday.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_survival_s6_grok_rewrite.md [K192]",
+  "final": ""
+ }
 }

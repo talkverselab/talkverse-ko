@@ -1,0 +1,131 @@
+{
+ "id": "r1_work_c2",
+ "region": "R1",
+ "island": "work",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "work"
+ ],
+ "domain": [
+  "work"
+ ],
+ "title": "퇴근 5분 전",
+ "emoji": "⏰",
+ "scene": "금요일 5시 55분. 팀장님 단톡: 「잠깐 회의할까요?」",
+ "speakers": {
+  "A": "{name}",
+  "B": "지호 선배",
+  "C": "팀장님"
+ },
+ "register": "chat",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "넵",
+  "헐",
+  "ㅋㅋ",
+  "아 몰라"
+ ],
+ "goal": "The dreaded Friday 5:55 message",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "C",
+   "ko": "잠깐 회의할까요? 5분만.",
+   "rd": "jamkkan hoeuihalkkayo? 5bunman.",
+   "en": "Shall we have a quick meeting? Just 5 min.",
+   "note": "회의 = meeting",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:55"
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "(개인톡) 헐 5시 55분에? ㅋㅋ",
+   "rd": "(gaeintok) heol 5si 55bune? ㅋㅋ",
+   "en": "(DM) Whoa at 5:55?",
+   "note": "헐",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:55"
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "(개인톡) 5분이면 괜찮지 않아요?",
+   "rd": "(gaeintok) 5bunimyeon gwaenchanchi anayo?",
+   "en": "(DM) Five minutes is okay, right?",
+   "note": "괜찮다",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:56"
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "(개인톡) 팀장님 5분은 1시간이야",
+   "rd": "(gaeintok) timjangnim 5buneun 1siganiya",
+   "en": "(DM) The boss's 5 minutes is an hour",
+   "note": "Kick setup",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "17:56"
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "(7시) 마지막으로 하나만 더요.",
+   "rd": "(7si) majimageuro hanaman deoyo.",
+   "en": "(7 p.m.) Just one last thing.",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "19:00"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "(개인톡) …선배 말이 맞았어요",
+   "rd": "(gaeintok) …seonbae mari majasseoyo",
+   "en": "(DM) …You were right",
+   "note": "맞다",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "19:01"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "(개인톡) 다음 주엔 5시 50분에 나가",
+   "rd": "(gaeintok) daeum juen 5si 50bune naga",
+   "en": "(DM) Next week leave at 5:50",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "19:01"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "넵!!",
+   "rd": "nep!!",
+   "en": "Yep!!",
+   "note": "넵",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "19:02"
+  }
+ ]
+}

@@ -56,9 +56,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "그냥. 집 앞이야.",
-   "rd": "geunyang. jip apiya.",
-   "en": "Just because. I'm at your door.",
+   "ko": "그냥… 집 앞이야.",
+   "rd": "geunyang… jip apiya.",
+   "en": "Just… I’m at your door.",
    "note": "집 앞 = front of your house",
    "tags": [],
    "new": [],
@@ -68,9 +68,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "헐 진짜?",
-   "rd": "heol jinjja?",
-   "en": "Whoa really?",
+   "ko": "진짜?",
+   "rd": "jinjja?",
+   "en": "Really?",
    "note": "진짜?",
    "tags": [],
    "new": [],
@@ -80,9 +80,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "보고 싶어서 왔어.",
-   "rd": "bogo sipeoseo wasseo.",
-   "en": "I came because I missed you.",
+   "ko": "보고 싶어서… 왔어.",
+   "rd": "bogo sipeoseo… wasseo.",
+   "en": "Missed you… so I came.",
    "note": "심쿵",
    "tags": [],
    "new": [],
@@ -92,9 +92,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "잠깐만! 머리 감고 갈게.",
-   "rd": "jamkkanman! meori gamgo galge.",
-   "en": "Wait! Let me wash my hair first.",
+   "ko": "잠깐만. 머리 감고 갈게.",
+   "rd": "jamkkanman. meori gamgo galge.",
+   "en": "Wait. I’ll wash my hair and come.",
    "note": "머리 감다 = wash hair",
    "tags": [],
    "new": [],
@@ -104,9 +104,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋ 그냥 와. 그대로 좋아.",
-   "rd": "ㅋㅋ geunyang wa. geudaero joa.",
-   "en": "Lol just come. You're fine as you are.",
+   "ko": "ㅋㅋ 그대로 와.",
+   "rd": "ㅋㅋ geudaero wa.",
+   "en": "Lol just come as is.",
    "note": "심쿵",
    "tags": [],
    "new": [],
@@ -128,5 +128,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_c5_grok_rewrite.md [K178]",
+  "final": ""
+ }
 }

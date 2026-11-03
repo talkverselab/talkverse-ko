@@ -1,0 +1,115 @@
+{
+ "id": "r1_culture_a5",
+ "region": "R1",
+ "island": "culture",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "culture"
+ ],
+ "domain": [
+  "culture"
+ ],
+ "title": "막걸리 비 오는 날",
+ "emoji": "🍶",
+ "scene": "비 오는 날 저녁. 서아가 「비 오면 파전이지」라며 전집으로 끈다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "reveal",
+ "flags": [
+  "alcohol"
+ ],
+ "kdrama": "",
+ "expressions": [
+  "그니까",
+  "진짜?",
+  "좋아"
+ ],
+ "goal": "Rainy-day food culture",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "비 오면 파전이지.",
+   "rd": "bi omyeon pajeoniji.",
+   "en": "Rainy days mean pajeon.",
+   "note": "파전 = scallion pancake",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "왜? 비랑 파전이 무슨 상관이야?",
+   "rd": "wae? birang pajeoni museun sanggwaniya?",
+   "en": "Why? What do rain and pajeon have to do with each other?",
+   "note": "상관 = relation",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "부치는 소리가 빗소리 같아서.",
+   "rd": "buchineun soriga bitsori gataseo.",
+   "en": "The frying sound is like the sound of rain.",
+   "note": "부치다 = fry (pancake)",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "진짜? 그게 이유야?",
+   "rd": "jinjja? geuge iyuya?",
+   "en": "Really? That's the reason?",
+   "note": "이유 = reason",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "응. 들어 봐. (치익—)",
+   "rd": "eung. deureo bwa. (chiik—)",
+   "en": "Yep. Listen. (sizzle—)",
+   "note": "listen",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…헐, 진짜 비 소리 같다.",
+   "rd": "…heol, jinjja bi sori gatda.",
+   "en": "…Whoa, it really sounds like rain.",
+   "note": "Kick: it's true",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "그니까. 한국 사람 다 알아.",
+   "rd": "geunikka. hanguk saram da ara.",
+   "en": "Right. Every Korean knows.",
+   "note": "그니까",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "그럼 오늘부터 나도 한국 사람.",
+   "rd": "geureom oneulbuteo nado hanguk saram.",
+   "en": "Then from today I'm Korean too.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "id": "r0_survival_s4",
+ "region": "R0",
+ "island": "survival",
+ "kind": "survival",
+ "draft": true,
+ "purpose": [
+  "survival"
+ ],
+ "domain": [
+  "survival"
+ ],
+ "title": "교통카드",
+ "emoji": "💳",
+ "scene": "버스. 카드를 찍었는데 「잔액이 부족합니다」",
+ "speakers": {
+  "A": "{name}",
+  "B": "단말기",
+  "C": "기사님",
+  "D": "승객"
+ },
+ "register": "polite",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "죄송합니다",
+  "잠깐만요",
+  "감사합니다"
+ ],
+ "goal": "Insufficient balance on the bus",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "(삑) 잔액이 부족합니다.",
+   "rd": "(ppik) janaegi bujokamnida.",
+   "en": "(beep) Insufficient balance.",
+   "note": "잔액 = balance",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "어? 잠깐만요…",
+   "rd": "eo? jamkkanmanyo…",
+   "en": "Huh? One moment…",
+   "note": "잠깐만요",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "현금 있어요?",
+   "rd": "hyeongeum isseoyo?",
+   "en": "Do you have cash?",
+   "note": "현금 = cash",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "(뒤에서) 빨리요!",
+   "rd": "(dwieseo) ppalliyo!",
+   "en": "(from behind) Hurry!",
+   "note": "Kick: line behind — chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "죄송합니다! 카드가…",
+   "rd": "joesonghamnida! kadeuga…",
+   "en": "Sorry! My card…",
+   "note": "죄송합니다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "D",
+   "ko": "제가 찍어 줄게요.",
+   "rd": "jega jjigeo julgeyo.",
+   "en": "I'll tap for you.",
+   "note": "찍다 = tap",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "진짜요? 감사합니다!",
+   "rd": "jinjjayo? gamsahamnida!",
+   "en": "Really? Thank you!",
+   "note": "감사합니다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "D",
+   "ko": "다음에 커피 사요.",
+   "rd": "daeume keopi sayo.",
+   "en": "Buy me a coffee next time.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

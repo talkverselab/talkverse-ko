@@ -1,0 +1,114 @@
+{
+ "id": "r1_friends_a7",
+ "region": "R1",
+ "island": "friends",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "롤링페이퍼",
+ "emoji": "💌",
+ "scene": "어학당 졸업 날. 반 친구들이 롤링페이퍼를 써 준다",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "고마워",
+  "진짜?",
+  "보고 싶을 거야"
+ ],
+ "goal": "Saying goodbye to classmates",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "이거 우리가 쓴 거야. 롤링페이퍼.",
+   "rd": "igeo uriga sseun geoya. rollingpeipeo.",
+   "en": "We wrote this. A rolling paper.",
+   "note": "롤링페이퍼 = group message card",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "헐, 진짜? 고마워!",
+   "rd": "heol, jinjja? gomawo!",
+   "en": "Whoa, really? Thanks!",
+   "note": "고마워",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "C",
+   "ko": "지금 읽지 마! 집에서 읽어!",
+   "rd": "jigeum ikji ma! jibeseo ilgeo!",
+   "en": "Don't read it now! Read it at home!",
+   "note": "지금",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "…벌써 읽었어.",
+   "rd": "…beolsseo ilgeosseo.",
+   "en": "…I already read it.",
+   "note": "읽다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "어? 울어?",
+   "rd": "eo? ureo?",
+   "en": "Huh? Are you crying?",
+   "note": "울다 = cry",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "아니… 눈에 뭐 들어갔어.",
+   "rd": "ani… nune mwo deureogasseo.",
+   "en": "No… something got in my eye.",
+   "note": "classic excuse",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "ㅋㅋ 우리도 보고 싶을 거야.",
+   "rd": "ㅋㅋ urido bogo sipeul geoya.",
+   "en": "Lol we'll miss you too.",
+   "note": "보고 싶다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "다음 학기에 또 오면 돼?",
+   "rd": "daeum hakgie tto omyeon dwae?",
+   "en": "Can I just come back next term?",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

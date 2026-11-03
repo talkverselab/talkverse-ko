@@ -1,0 +1,130 @@
+{
+ "id": "r0_love_c7",
+ "region": "R0",
+ "island": "love",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "오늘 예뻤어",
+ "emoji": "🌸",
+ "scene": "첫 데이트 끝. 집에 도착하자마자 태오에게서 카톡",
+ "speakers": {
+  "A": "{name}",
+  "B": "태오"
+ },
+ "register": "chat",
+ "twist": 5,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "진짜?",
+  "고마워"
+ ],
+ "goal": "A sweet text after a date",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "잘 들어갔어?",
+   "rd": "jal deureogasseo?",
+   "en": "Got home okay?",
+   "note": "잘 들어갔어?",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:40"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "응! 방금.",
+   "rd": "eung! banggeum.",
+   "en": "Yeah! Just now.",
+   "note": "방금",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:41"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "오늘 고마웠어.",
+   "rd": "oneul gomawosseo.",
+   "en": "Thanks for today.",
+   "note": "고마웠어",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:41"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "나도. 재밌었어.",
+   "rd": "nado. jaemisseosseo.",
+   "en": "Me too. It was fun.",
+   "note": "재밌다",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:42"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "그리고… 오늘 예뻤어.",
+   "rd": "geurigo… oneul yeppeosseo.",
+   "en": "And… you looked pretty today.",
+   "note": "심쿵",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:43"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "…진짜?",
+   "rd": "…jinjja?",
+   "en": "…Really?",
+   "note": "진짜?",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:45"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "2분 걸렸네 ㅋㅋ",
+   "rd": "2bun geollyeonne ㅋㅋ",
+   "en": "That took you 2 minutes lol",
+   "note": "teasing",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:45"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "심장 소리 너무 커서.",
+   "rd": "simjang sori neomu keoseo.",
+   "en": "My heart was too loud.",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "21:45"
+  }
+ ],
+ "learner_gender": "F"
+}

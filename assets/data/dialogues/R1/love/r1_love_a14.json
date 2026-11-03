@@ -1,0 +1,116 @@
+{
+ "id": "r1_love_a14",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "연습 상대",
+ "emoji": "💃",
+ "scene": "태오가 춤 연습을 같이 하자고 한다. 학습자는 춤을 못 춘다",
+ "speakers": {
+  "A": "{name}",
+  "B": "태오",
+  "C": "연습생"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "잠깐만",
+  "진짜?",
+  "아 몰라"
+ ],
+ "goal": "Dance practice gone wrong",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "이 파트 같이 해 줘. 상대 역할.",
+   "rd": "i pateu gachi hae jwo. sangdae yeokal.",
+   "en": "Do this part with me. As my partner.",
+   "note": "역할 = role",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "나 춤 못 춰. 진짜로.",
+   "rd": "na chum mot chwo. jinjjaro.",
+   "en": "I can't dance. Seriously.",
+   "note": "진짜로",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "괜찮아. 내 손만 잡아.",
+   "rd": "gwaenchana. nae sonman jaba.",
+   "en": "It's fine. Just hold my hand.",
+   "note": "손",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "(빙글) 어어— 잠깐만!",
+   "rd": "(binggeul) eoeo— jamkkanman!",
+   "en": "(spin) Whoa— wait!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "C",
+   "ko": "(쾅) 거울! 거울!",
+   "rd": "(kwang) geoul! geoul!",
+   "en": "(crash) The mirror! The mirror!",
+   "note": "chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "괜찮아? 다친 데 없어?",
+   "rd": "gwaenchana? dachin de eopseo?",
+   "en": "You okay? Hurt anywhere?",
+   "note": "다치다 = get hurt",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "응… 근데 거울이 200만 원이라며.",
+   "rd": "eung… geunde geouri 200man woniramyeo.",
+   "en": "Yeah… but you said the mirror is two million won.",
+   "note": "callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "아 몰라. 너만 괜찮으면 돼.",
+   "rd": "a molla. neoman gwaenchaneumyeon dwae.",
+   "en": "Ugh, whatever. As long as you're okay.",
+   "note": "punchline 심쿵",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "learner_gender": "F"
+}

@@ -35,9 +35,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "1분 남았어! 비밀번호!",
-   "rd": "1bun namasseo! bimilbeonho!",
-   "en": "One minute left! The code!",
+   "ko": "1분밖에 안 남았어! 빨리 번호!",
+   "rd": "1bunbakke an namasseo! ppalli beonho!",
+   "en": "Only one minute left! The code quick!",
    "note": "비밀번호",
    "tags": [],
    "new": []
@@ -45,9 +45,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "1234? 아니야.",
-   "rd": "1234? aniya.",
-   "en": "1234? No.",
+   "ko": "1234 해 봤는데 아니야.",
+   "rd": "1234 hae bwanneunde aniya.",
+   "en": "Tried 1234 but no.",
    "note": "시도",
    "tags": [],
    "new": []
@@ -55,9 +55,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "잠깐만, 그림 뒤에 숫자!",
-   "rd": "jamkkanman, geurim dwie sutja!",
-   "en": "Wait, numbers behind the painting!",
+   "ko": "잠깐만, 그림 뒤에 숫자 있어!",
+   "rd": "jamkkanman, geurim dwie sutja isseo!",
+   "en": "Wait, there are numbers behind the painting!",
    "note": "그림 = painting",
    "tags": [],
    "new": []
@@ -65,9 +65,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "7… 3… 헐, 그림 떨어졌어!",
-   "rd": "7… 3… heol, geurim tteoreojyeosseo!",
-   "en": "7… 3… whoa, the painting fell!",
+   "ko": "7이랑 3… 헐 그림이 떨어졌어!",
+   "rd": "7irang 3… heol geurimi tteoreojyeosseo!",
+   "en": "7 and 3… whoa the painting fell!",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -75,9 +75,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "불 꺼졌어! 왜 불 꺼져!",
-   "rd": "bul kkeojyeosseo! wae bul kkeojyeo!",
-   "en": "The lights went out! Why!",
+   "ko": "불 꺼지고 알람까지 울려! 왜 이래!",
+   "rd": "bul kkeojigo allamkkaji ullyeo! wae irae!",
+   "en": "Lights out and the alarm’s going off too! What’s going on!",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -85,9 +85,9 @@
   {
    "num": 6,
    "speaker": "D",
-   "ko": "(방송) 시간 종료입니다.",
-   "rd": "(bangsong) sigan jongnyoimnida.",
-   "en": "(announcement) Time's up.",
+   "ko": "(방송) 시간 다 됐습니다. 나오세요.",
+   "rd": "(bangsong) sigan da dwaetseumnida. naoseyo.",
+   "en": "(announcement) Time is up. Please come out.",
    "note": "종료 = end",
    "tags": [],
    "new": []
@@ -97,7 +97,7 @@
    "speaker": "C",
    "ko": "아 몰라… 다시 하자.",
    "rd": "a molla… dasi haja.",
-   "en": "Ugh… let's do it again.",
+   "en": "Ugh whatever… let’s do it again.",
    "note": "다시",
    "tags": [],
    "new": []
@@ -105,12 +105,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "다음엔 그림 만지지 마.",
-   "rd": "daeumen geurim manjiji ma.",
-   "en": "Next time don't touch the painting.",
+   "ko": "다음엔 그림 절대 만지지 마.",
+   "rd": "daeumen geurim jeoldae manjiji ma.",
+   "en": "Next time absolutely don’t touch the painting.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_friends_a6_grok_rewrite.md [K184]",
+  "final": ""
+ }
 }

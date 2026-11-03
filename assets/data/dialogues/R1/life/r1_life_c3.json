@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "[사진] 이거 누구 택배야?",
-   "rd": "[sajin] igeo nugu taekbaeya?",
-   "en": "[photo] Whose packages are these?",
+   "ko": "[사진] 누구 택배야? 현관이 박스로 가득해.",
+   "rd": "[sajin] nugu taekbaeya? hyeongwani bakseuro gadeukae.",
+   "en": "[photo] Whose packages? The entrance is full of boxes.",
    "note": "택배",
    "tags": [],
    "new": [],
@@ -46,9 +46,9 @@
   {
    "num": 2,
    "speaker": "C",
-   "ko": "헐 문이 안 열려 ㅋㅋ",
-   "rd": "heol muni an yeollyeo ㅋㅋ",
-   "en": "Whoa the door won't open lol",
+   "ko": "헐 문 안 열려 ㅋㅋ",
+   "rd": "heol mun an yeollyeo ㅋㅋ",
+   "en": "Whoa the door won’t open lol",
    "note": "안 열리다 = won't open",
    "tags": [],
    "new": [],
@@ -58,9 +58,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "…세일이라서.",
-   "rd": "…seiriraseo.",
-   "en": "…There was a sale.",
+   "ko": "세일이라서 좀 샀어…",
+   "rd": "seiriraseo jom sasseo…",
+   "en": "Because of the sale I bought some…",
    "note": "세일 = sale",
    "tags": [],
    "new": [],
@@ -70,9 +70,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "몇 개 샀어?",
-   "rd": "myeot gae sasseo?",
-   "en": "How many did you buy?",
+   "ko": "진짜? 몇 개나 산 거야?",
+   "rd": "jinjja? myeot gaena san geoya?",
+   "en": "Really? How many did you buy?",
    "note": "몇 개",
    "tags": [],
    "new": [],
@@ -82,9 +82,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "12개. 아니 15개.",
-   "rd": "12gae. ani 15gae.",
-   "en": "12. No, 15.",
+   "ko": "열두 개… 아니 스무 개.",
+   "rd": "yeoldu gae… ani seumu gae.",
+   "en": "Twelve… no twenty.",
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
@@ -94,9 +94,9 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "지금 하나 더 온대 ㅋㅋㅋ",
-   "rd": "jigeum hana deo ondae ㅋㅋㅋ",
-   "en": "Apparently one more is coming lolol",
+   "ko": "방금 또 두 개 온대 ㅋㅋㅋ",
+   "rd": "banggeum tto du gae ondae ㅋㅋㅋ",
+   "en": "Two more just arrived lol",
    "note": "하나 더",
    "tags": [],
    "new": [],
@@ -106,9 +106,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "아 몰라 오늘 저녁은 박스 위에서 먹자",
-   "rd": "a molla oneul jeonyeogeun bakseu wieseo meokja",
-   "en": "Ugh, let's eat dinner on the boxes tonight",
+   "ko": "아 몰라 저녁은 박스 위에서 먹자.",
+   "rd": "a molla jeonyeogeun bakseu wieseo meokja.",
+   "en": "Ugh whatever let’s eat dinner on the boxes.",
    "note": "callback 이삿날",
    "tags": [],
    "new": [],
@@ -118,14 +118,18 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "미안… 치킨은 내가 살게.",
-   "rd": "mian… chikineun naega salge.",
-   "en": "Sorry… chicken's on me.",
+   "ko": "미안해. 치킨은 내가 살게.",
+   "rd": "mianhae. chikineun naega salge.",
+   "en": "Sorry. Chicken’s on me.",
    "note": "punchline",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "14:04"
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_life_c3_grok_rewrite.md [K186]",
+  "final": ""
+ }
 }

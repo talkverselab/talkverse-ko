@@ -1,0 +1,116 @@
+{
+ "id": "r0_love_a14",
+ "region": "R0",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "네 거 맛있어?",
+ "emoji": "🍦",
+ "scene": "아이스크림 가게. 하늘이 학습자 아이스크림을 한 입 먹는다",
+ "speakers": {
+  "A": "{name}",
+  "B": "하늘"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜?",
+  "헐",
+  "맛있어"
+ ],
+ "goal": "Sharing a bite",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "네 거 맛있어?",
+   "rd": "ne geo masisseo?",
+   "en": "Is yours good?",
+   "note": "네 거 = yours",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "응. 딸기 맛.",
+   "rd": "eung. ttalgi mat.",
+   "en": "Yeah. Strawberry.",
+   "note": "맛 = flavor",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "한 입만.",
+   "rd": "han imman.",
+   "en": "Just one bite.",
+   "note": "한 입",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "어? 응, 먹어.",
+   "rd": "eo? eung, meogeo.",
+   "en": "Huh? Sure, go ahead.",
+   "note": "먹어",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "…음, 맛있다.",
+   "rd": "…eum, masitda.",
+   "en": "…Mm, it's good.",
+   "note": "심쿵: same spoon",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "헐, 내 숟가락…",
+   "rd": "heol, nae sutgarak…",
+   "en": "Whoa, my spoon…",
+   "note": "숟가락 = spoon",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "알아. 일부러야.",
+   "rd": "ara. ilbureoya.",
+   "en": "I know. On purpose.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…나도 네 거 한 입.",
+   "rd": "…nado ne geo han ip.",
+   "en": "…One bite of yours, then.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

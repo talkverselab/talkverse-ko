@@ -1,0 +1,130 @@
+{
+ "id": "r0_love_c6",
+ "region": "R0",
+ "island": "love",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "도착했어?",
+ "emoji": "🏠",
+ "scene": "데이트 끝, 집에 가는 길. 유진이 계속 확인한다",
+ "speakers": {
+  "A": "{name}",
+  "B": "유진"
+ },
+ "register": "chat",
+ "twist": 5,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "도착했어?",
+  "ㅋㅋ",
+  "잘 자"
+ ],
+ "goal": "Checking someone got home",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "도착했어?",
+   "rd": "dochakaesseo?",
+   "en": "Home yet?",
+   "note": "도착하다 = arrive",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:10"
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "아직. 버스야.",
+   "rd": "ajik. beoseuya.",
+   "en": "Not yet. On the bus.",
+   "note": "아직",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:11"
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "지금은?",
+   "rd": "jigeumeun?",
+   "en": "Now?",
+   "note": "지금",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:15"
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "ㅋㅋ 아직 버스.",
+   "rd": "ㅋㅋ ajik beoseu.",
+   "en": "Lol still the bus.",
+   "note": "ㅋㅋ",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:15"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "…그냥 보고 싶어서.",
+   "rd": "…geunyang bogo sipeoseo.",
+   "en": "…I just miss you.",
+   "note": "심쿵",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:16"
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "10분 전에 봤잖아.",
+   "rd": "10bun jeone bwatjana.",
+   "en": "We saw each other 10 minutes ago.",
+   "note": "-잖아",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:16"
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "10분이 길어.",
+   "rd": "10buni gireo.",
+   "en": "10 minutes is long.",
+   "note": "심쿵",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:17"
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "나도. 내일 또 보자.",
+   "rd": "nado. naeil tto boja.",
+   "en": "Me too. See you tomorrow.",
+   "note": "punchline",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "22:17"
+  }
+ ],
+ "learner_gender": "M"
+}

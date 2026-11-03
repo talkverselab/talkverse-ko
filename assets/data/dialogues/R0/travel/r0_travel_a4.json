@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "사진 좀 찍어 주세요.",
-   "rd": "sajin jom jjigeo juseyo.",
-   "en": "Could you take our picture?",
+   "ko": "저기요, 사진 찍어 주세요.",
+   "rd": "jeogiyo, sajin jjigeo juseyo.",
+   "en": "Excuse me, please take our picture.",
    "note": "찍어 주세요 = please take",
    "tags": [],
    "new": []
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "네! 하나, 둘, 셋!",
-   "rd": "ne! hana, dul, set!",
-   "en": "Sure! One, two, three!",
+   "ko": "네, 하나 둘 셋!",
+   "rd": "ne, hana dul set!",
+   "en": "Sure, one two three!",
    "note": "하나 둘 셋",
    "tags": [],
    "new": []
@@ -54,9 +54,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "감사합니다! 한 장 더요.",
-   "rd": "gamsahamnida! han jang deoyo.",
-   "en": "Thanks! One more.",
+   "ko": "감사합니다. 한 장만 더요.",
+   "rd": "gamsahamnida. han jangman deoyo.",
+   "en": "Thanks. Just one more.",
    "note": "한 장 더",
    "tags": [],
    "new": []
@@ -64,9 +64,9 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "저희도 부탁해요!",
-   "rd": "jeohuido butakaeyo!",
-   "en": "Us too, please!",
+   "ko": "저희도 찍어 주세요!",
+   "rd": "jeohuido jjigeo juseyo!",
+   "en": "Take ours too please!",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -74,9 +74,9 @@
   {
    "num": 5,
    "speaker": "D",
-   "ko": "저희도요!",
-   "rd": "jeohuidoyo!",
-   "en": "Us too!",
+   "ko": "저희 일행도요! 다 같이요!",
+   "rd": "jeohui ilhaengdoyo! da gachiyo!",
+   "en": "Our whole group too! All of us together!",
    "note": "more people",
    "tags": [],
    "new": []
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "…줄 서세요. 한 명씩.",
-   "rd": "…jul seoseyo. han myeongssik.",
-   "en": "…Please line up. One at a time.",
+   "ko": "줄 서 주세요. 한 팀씩요.",
+   "rd": "jul seo juseyo. han timssigyo.",
+   "en": "Please line up. One group at a time.",
    "note": "Kick: chaos — a line forms",
    "tags": [],
    "new": []
@@ -94,9 +94,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "(30분 뒤) 사진사세요?",
-   "rd": "(30bun dwi) sajinsaseyo?",
-   "en": "(30 min later) Are you a photographer?",
+   "ko": "(한 시간 뒤) 프로세요?",
+   "rd": "(han sigan dwi) peuroseyo?",
+   "en": "(an hour later) Are you a pro?",
    "note": "사진사 = photographer",
    "tags": [],
    "new": []
@@ -104,12 +104,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "아니요. 관광객이에요.",
-   "rd": "aniyo. gwangwanggaegieyo.",
-   "en": "No. I'm a tourist.",
+   "ko": "아니에요. 관광객이에요.",
+   "rd": "anieyo. gwangwanggaegieyo.",
+   "en": "No. I’m a tourist.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_travel_a4_grok_rewrite.md [K181]",
+  "final": ""
+ }
 }

@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "한복 예뻐요! 같이 찍어요!",
-   "rd": "hanbok yeppeoyo! gachi jjigeoyo!",
-   "en": "Your hanbok is pretty! Let's take a photo!",
+   "ko": "한복 진짜 예뻐요, 같이 찍을까요?",
+   "rd": "hanbok jinjja yeppeoyo, gachi jjigeulkkayo?",
+   "en": "Your hanbok looks really pretty, shall we take a photo together?",
    "note": "예쁘다 = pretty",
    "tags": [],
    "new": []
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "저요? 저도 외국인이에요.",
-   "rd": "jeoyo? jeodo oeguginieyo.",
-   "en": "Me? I'm a foreigner too.",
+   "ko": "저요? 좋아요, 저도 외국인이에요.",
+   "rd": "jeoyo? joayo, jeodo oeguginieyo.",
+   "en": "Me? Sure, I’m a foreigner too.",
    "note": "외국인 = foreigner",
    "tags": [],
    "new": []
@@ -54,9 +54,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "괜찮아요! 하나, 둘, 셋!",
-   "rd": "gwaenchanayo! hana, dul, set!",
-   "en": "That's fine! One, two, three!",
+   "ko": "네, 그럼 하나 둘 셋!",
+   "rd": "ne, geureom hana dul set!",
+   "en": "Yeah, then one two three!",
    "note": "괜찮아요",
    "tags": [],
    "new": []
@@ -64,9 +64,9 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "저도요! 저도요!",
-   "rd": "jeodoyo! jeodoyo!",
-   "en": "Me too! Me too!",
+   "ko": "저희도요! 저희 그룹도 다 같이요!",
+   "rd": "jeohuidoyo! jeohui geurupdo da gachiyo!",
+   "en": "Us too! Our whole group all together!",
    "note": "Kick: crowd — chaos",
    "tags": [],
    "new": []
@@ -74,9 +74,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "(10분 뒤) …50명이랑 찍었어.",
-   "rd": "(10bun dwi) …50myeongirang jjigeosseo.",
-   "en": "(10 min later) …I took photos with 50 people.",
+   "ko": "(10분 뒤) 백 명 넘어서 정신없어요.",
+   "rd": "(10bun dwi) baek myeong neomeoseo jeongsineopseoyo.",
+   "en": "(10 min later) Over a hundred people, it’s total chaos.",
    "note": "50명",
    "tags": [],
    "new": []
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "D",
-   "ko": "ㅋㅋ 완전 연예인이네.",
-   "rd": "ㅋㅋ wanjeon yeonyeinine.",
-   "en": "Lol you're totally a celebrity.",
+   "ko": "ㅋㅋㅋ 완전 연예인 됐네.",
+   "rd": "ㅋㅋㅋ wanjeon yeonyein dwaenne.",
+   "en": "Lol you’re totally a celebrity now.",
    "note": "연예인 = celebrity",
    "tags": [],
    "new": []
@@ -94,9 +94,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "다음엔 사인도 할까?",
-   "rd": "daeumen saindo halkka?",
-   "en": "Should I sign autographs next time?",
+   "ko": "다음엔 사인도 해줄까요? 감사합니다.",
+   "rd": "daeumen saindo haejulkkayo? gamsahamnida.",
+   "en": "Should I do autographs next time? Thanks.",
    "note": "사인 = autograph",
    "tags": [],
    "new": []
@@ -104,12 +104,16 @@
   {
    "num": 8,
    "speaker": "D",
-   "ko": "아니. 한복 반납 시간이야.",
-   "rd": "ani. hanbok bannap siganiya.",
-   "en": "No. It's time to return the hanbok.",
+   "ko": "아, 근데 한복 반납 시간이야.",
+   "rd": "a, geunde hanbok bannap siganiya.",
+   "en": "Oh, but it’s time to return the hanbok.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_culture_a4_grok_rewrite.md [K171]",
+  "final": ""
+ }
 }

@@ -32,8 +32,8 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "어데 가노?",
-   "rd": "eode gano?",
+   "ko": "어데로 가나?",
+   "rd": "eodero gana?",
    "en": "Where ya headed?",
    "note": "Busan dialect: 어디 가니?",
    "tags": [],
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "어데 가냐고. 해운대가?",
-   "rd": "eode ganyago. haeundaega?",
-   "en": "I said where ya going. Haeundae?",
+   "ko": "어데 가냐고. 해운대 가나?",
+   "rd": "eode ganyago. haeundae gana?",
+   "en": "I said where are you going. Going to Haeundae?",
    "note": "repeat",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "아! 네, 해운대요.",
-   "rd": "a! ne, haeundaeyo.",
-   "en": "Oh! Yes, Haeundae.",
+   "ko": "아 네, 해운대요.",
+   "rd": "a ne, haeundaeyo.",
+   "en": "Oh yes, Haeundae.",
    "note": "understood",
    "tags": [],
    "new": []
@@ -72,8 +72,8 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "마, 쭉 가면 된다.",
-   "rd": "ma, jjuk gamyeon doenda.",
+   "ko": "마, 똑바로 가면 된다.",
+   "rd": "ma, ttokbaro gamyeon doenda.",
    "en": "Hey, just go straight.",
    "note": "마 = hey (Busan)",
    "tags": [],
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "「마」가 뭐예요?",
-   "rd": "「ma」ga mwoyeyo?",
-   "en": "What's \"ma\"?",
+   "ko": "마가 뭐예요?",
+   "rd": "maga mwoyeyo?",
+   "en": "What’s “ma”?",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "「야」 같은 기다. 친하단 뜻이다.",
-   "rd": "「ya」 gateun gida. chinhadan tteusida.",
-   "en": "It's like \"hey\". Means we're close.",
+   "ko": "야 같은 거다. 친하게 부르는 말이다.",
+   "rd": "ya gateun geoda. chinhage bureuneun marida.",
+   "en": "It’s like “ya”. A friendly way to call someone.",
    "note": "친하다 = be close",
    "tags": [],
    "new": []
@@ -102,12 +102,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "그럼… 마, 감사합니다!",
-   "rd": "geureom… ma, gamsahamnida!",
-   "en": "Then… ma, thank you!",
+   "ko": "그럼 마, 감사합니다!",
+   "rd": "geureom ma, gamsahamnida!",
+   "en": "Then ma, thank you!",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_travel_a4_grok_rewrite.md [K193]",
+  "final": ""
+ }
 }

@@ -1,0 +1,132 @@
+{
+ "id": "r1_friends_c3",
+ "region": "R1",
+ "island": "friends",
+ "kind": "chat",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "단톡 투표",
+ "emoji": "🗳️",
+ "scene": "주말 모임 장소 투표. 단톡방이 난리",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "민준",
+  "D": "도윤"
+ },
+ "register": "chat",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "ㅋㅋ",
+  "헐",
+  "아 몰라",
+  "ㅇㅇ"
+ ],
+ "goal": "Group-chat vote chaos",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "투표! 고기 vs 회 vs 피자",
+   "rd": "tupyo! gogi vs hoe vs pija",
+   "en": "Vote! Meat vs raw fish vs pizza",
+   "note": "투표 = vote",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "20:00"
+  },
+  {
+   "num": 2,
+   "speaker": "C",
+   "ko": "고기",
+   "rd": "gogi",
+   "en": "Meat",
+   "note": "고기",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "20:01"
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "회",
+   "rd": "hoe",
+   "en": "Raw fish",
+   "note": "회",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "20:01"
+  },
+  {
+   "num": 4,
+   "speaker": "D",
+   "ko": "피자",
+   "rd": "pija",
+   "en": "Pizza",
+   "note": "피자",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "20:01"
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "헐 1:1:1 ㅋㅋㅋ",
+   "rd": "heol 1:1:1 ㅋㅋㅋ",
+   "en": "Whoa 1:1:1 lolol",
+   "note": "Kick: tie — chaos",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "20:02"
+  },
+  {
+   "num": 6,
+   "speaker": "C",
+   "ko": "그럼 다 먹자",
+   "rd": "geureom da meokja",
+   "en": "Then let's eat it all",
+   "note": "다",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "20:02"
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "고기 먹고 회 먹고 피자?",
+   "rd": "gogi meokgo hoe meokgo pija?",
+   "en": "Meat then fish then pizza?",
+   "note": "순서",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "20:03"
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "ㅇㅇ 1차 2차 3차 ㄱㄱ",
+   "rd": "ㅇㅇ 1cha 2cha 3cha ㄱㄱ",
+   "en": "Yep round 1, 2, 3 let's go",
+   "note": "punchline callback",
+   "tags": [],
+   "new": [],
+   "ui": "bubble",
+   "at": "20:03"
+  }
+ ]
+}

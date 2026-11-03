@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "잠깐만. 가만히 있어.",
-   "rd": "jamkkanman. gamanhi isseo.",
-   "en": "Wait. Hold still.",
+   "ko": "잠깐만. 가만히 있어 봐.",
+   "rd": "jamkkanman. gamanhi isseo bwa.",
+   "en": "Wait a sec. Just stay still.",
    "note": "가만히 = still",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "왜? 뭐 있어?",
-   "rd": "wae? mwo isseo?",
-   "en": "Why? Is something there?",
+   "ko": "왜? 뭐 묻었어?",
+   "rd": "wae? mwo mudeosseo?",
+   "en": "Why? Something on me?",
    "note": "뭐 = something",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "머리에 잎 묻었어.",
-   "rd": "meorie ip mudeosseo.",
-   "en": "There's a leaf in your hair.",
+   "ko": "머리 위에 나뭇잎 있어.",
+   "rd": "meori wie namusip isseo.",
+   "en": "There’s a leaf on your head.",
    "note": "잎 = leaf",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "아, 진짜? 고마워.",
-   "rd": "a, jinjja? gomawo.",
-   "en": "Oh, really? Thanks.",
+   "ko": "아 진짜? 고마워.",
+   "rd": "a jinjja? gomawo.",
+   "en": "Oh really? Thanks.",
    "note": "고마워",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "…거짓말이야.",
-   "rd": "…geojinmariya.",
-   "en": "…That was a lie.",
+   "ko": "…거짓말이야. 그냥.",
+   "rd": "…geojinmariya. geunyang.",
+   "en": "…It was a lie. Just.",
    "note": "심쿵: there was no leaf",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "헐. 그럼 왜?",
-   "rd": "heol. geureom wae?",
-   "en": "Whoa. Then why?",
+   "ko": "헐. 왜 그랬어?",
+   "rd": "heol. wae geuraesseo?",
+   "en": "Whoa. Why’d you do that?",
    "note": "왜",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "그냥 만지고 싶어서.",
-   "rd": "geunyang manjigo sipeoseo.",
-   "en": "I just wanted to touch it.",
+   "ko": "그냥… 만지고 싶어서.",
+   "rd": "geunyang… manjigo sipeoseo.",
+   "en": "Just… wanted to touch it.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -102,13 +102,17 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…또 묻었으면 좋겠다.",
-   "rd": "…tto mudeosseumyeon joketda.",
-   "en": "…I hope something gets in it again.",
+   "ko": "…또 그랬으면 좋겠어.",
+   "rd": "…tto geuraesseumyeon jokesseo.",
+   "en": "…Wish you’d do that again.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a11_grok_rewrite.md [K175]",
+  "final": ""
+ }
 }

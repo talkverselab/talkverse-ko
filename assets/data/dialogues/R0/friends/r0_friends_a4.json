@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "소원 빌어!",
-   "rd": "sowon bireo!",
-   "en": "Make a wish!",
+   "ko": "소원 빌고 불어 봐!",
+   "rd": "sowon bilgo bureo bwa!",
+   "en": "Make a wish and blow!",
    "note": "소원 = wish",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "C",
-   "ko": "후—",
-   "rd": "hu—",
-   "en": "Whoo—",
+   "ko": "후우— 휴—",
+   "rd": "huu— hyu—",
+   "en": "Whoosh— whoosh—",
    "note": "blowing",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "어? 안 꺼져.",
-   "rd": "eo? an kkeojyeo.",
-   "en": "Huh? They won't go out.",
+   "ko": "어? 이거 안 꺼지는데.",
+   "rd": "eo? igeo an kkeojineunde.",
+   "en": "Huh? These aren’t going out.",
    "note": "꺼지다 = go out",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "다시! 후—",
-   "rd": "dasi! hu—",
-   "en": "Again! Whoo—",
+   "ko": "다시 불어! 후후—",
+   "rd": "dasi bureo! huhu—",
+   "en": "Blow again! Whoosh—",
    "note": "다시",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "헐, 이거 안 꺼지는 초야!",
-   "rd": "heol, igeo an kkeojineun choya!",
-   "en": "Whoa, these are trick candles!",
+   "ko": "헐 잠깐만, 이거 장난초야!",
+   "rd": "heol jamkkanman, igeo jangnanchoya!",
+   "en": "Whoa wait, these are trick candles!",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "누가 샀어!",
-   "rd": "nuga sasseo!",
-   "en": "Who bought these!",
+   "ko": "누가 이런 거 샀어!",
+   "rd": "nuga ireon geo sasseo!",
+   "en": "Who bought these things!",
    "note": "누가",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "…나. 장난이야 ㅋㅋ",
-   "rd": "…na. jangnaniya ㅋㅋ",
-   "en": "…Me. It's a prank lol",
+   "ko": "내가… 장난이야 ㅋㅋ 더 있어.",
+   "rd": "naega… jangnaniya ㅋㅋ deo isseo.",
+   "en": "Me… it’s a prank lol I have more.",
    "note": "장난 = prank",
    "tags": [],
    "new": []
@@ -103,12 +103,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "생일 축하해… 초는 영원히.",
-   "rd": "saengil chukahae… choneun yeongwonhi.",
-   "en": "Happy birthday… the candles are forever.",
+   "ko": "생일 축하해… 초가 안 꺼지네.",
+   "rd": "saengil chukahae… choga an kkeojine.",
+   "en": "Happy birthday… the candles won’t go out.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_friends_a4_grok_rewrite.md [K172]",
+  "final": ""
+ }
 }

@@ -1,0 +1,113 @@
+{
+ "id": "r1_life_a5",
+ "region": "R1",
+ "island": "life",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "life"
+ ],
+ "domain": [
+  "life"
+ ],
+ "title": "관리비",
+ "emoji": "🧾",
+ "scene": "관리비 고지서. 금액이 이상하다",
+ "speakers": {
+  "A": "{name}",
+  "B": "도윤"
+ },
+ "register": "casual",
+ "twist": 5,
+ "twist_type": "reveal",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "진짜?",
+  "잠깐만"
+ ],
+ "goal": "Reading a utility bill",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "A",
+   "ko": "도윤아, 관리비 이거 맞아?",
+   "rd": "doyuna, gwallibi igeo maja?",
+   "en": "Doyun, is this utility bill right?",
+   "note": "관리비 = maintenance fee",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "B",
+   "ko": "얼마 나왔는데?",
+   "rd": "eolma nawanneunde?",
+   "en": "How much is it?",
+   "note": "얼마",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "A",
+   "ko": "30만 원.",
+   "rd": "30man won.",
+   "en": "300,000 won.",
+   "note": "30만 원",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "B",
+   "ko": "헐? 보통 10만 원인데.",
+   "rd": "heol? botong 10man woninde.",
+   "en": "What? It's usually 100,000.",
+   "note": "보통",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "잠깐만… 보일러를 한 달 동안 켜 놨어.",
+   "rd": "jamkkanman… boilleoreul han dal dongan kyeo nwasseo.",
+   "en": "Wait… I left the heating on for a month.",
+   "note": "Kick: callback 보일러",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "B",
+   "ko": "너 보일러 몰랐잖아!",
+   "rd": "neo boilleo mollatjana!",
+   "en": "You didn't even know about the boiler!",
+   "note": "callback",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "A",
+   "ko": "알고 나서 안 껐어.",
+   "rd": "algo naseo an kkeosseo.",
+   "en": "After I learned, I never turned it off.",
+   "note": "안 끄다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "B",
+   "ko": "이제 끄는 법도 배우자.",
+   "rd": "ije kkeuneun beopdo baeuja.",
+   "en": "Let's learn how to turn it off now.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

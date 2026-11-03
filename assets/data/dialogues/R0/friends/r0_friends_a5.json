@@ -1,0 +1,115 @@
+{
+ "id": "r0_friends_a5",
+ "region": "R0",
+ "island": "friends",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "friends"
+ ],
+ "domain": [
+  "friends"
+ ],
+ "title": "노래방 점수",
+ "emoji": "🎤",
+ "scene": "코인노래방. 학습자가 처음 부른 노래가 100점",
+ "speakers": {
+  "A": "{name}",
+  "B": "서아",
+  "C": "옆방 사람",
+  "D": "사람들"
+ },
+ "register": "casual",
+ "twist": 4,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "대박",
+  "진짜?"
+ ],
+ "goal": "Karaoke score surprise",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "점수 나온다!",
+   "rd": "jeomsu naonda!",
+   "en": "Here comes the score!",
+   "note": "점수 = score",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "…100점?",
+   "rd": "…100jeom?",
+   "en": "…100 points?",
+   "note": "100점",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "헐, 대박!",
+   "rd": "heol, daebak!",
+   "en": "Whoa, amazing!",
+   "note": "대박",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "C",
+   "ko": "(옆방) 100점 누구야?!",
+   "rd": "(yeopbang) 100jeom nuguya?!",
+   "en": "(next room) Who got 100?!",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "A",
+   "ko": "어? 옆방 사람들이…",
+   "rd": "eo? yeopbang saramdeuri…",
+   "en": "Huh? People from next door…",
+   "note": "옆방",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "D",
+   "ko": "한 곡 더! 한 곡 더!",
+   "rd": "han gok deo! han gok deo!",
+   "en": "One more! One more!",
+   "note": "crowd",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "ㅋㅋ 너 이제 스타야.",
+   "rd": "ㅋㅋ neo ije seutaya.",
+   "en": "Lol you're a star now.",
+   "note": "스타",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "근데 나 노래 가사 몰라.",
+   "rd": "geunde na norae gasa molla.",
+   "en": "But I don't know the lyrics.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

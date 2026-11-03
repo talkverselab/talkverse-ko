@@ -1,0 +1,113 @@
+{
+ "id": "r0_travel_a5",
+ "region": "R0",
+ "island": "travel",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "travel"
+ ],
+ "domain": [
+  "travel"
+ ],
+ "title": "제주 귤",
+ "emoji": "🍊",
+ "scene": "제주 귤밭 체험. 한 바구니만 따라고 했는데",
+ "speakers": {
+  "A": "{name}",
+  "B": "농장 주인"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "chaos",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "진짜요?",
+  "감사합니다",
+  "헐"
+ ],
+ "goal": "Tangerine picking",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "한 바구니만 따요.",
+   "rd": "han baguniman ttayo.",
+   "en": "Pick just one basket.",
+   "note": "따다 = pick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네! 진짜 많아요.",
+   "rd": "ne! jinjja manayo.",
+   "en": "Okay! There are so many.",
+   "note": "많다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "먹어도 돼요.",
+   "rd": "meogeodo dwaeyo.",
+   "en": "You can eat them too.",
+   "note": "먹어도 돼요",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "진짜요? 감사합니다!",
+   "rd": "jinjjayo? gamsahamnida!",
+   "en": "Really? Thank you!",
+   "note": "감사합니다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "(30분 뒤) …몇 개 먹었어요?",
+   "rd": "(30bun dwi) …myeot gae meogeosseoyo?",
+   "en": "(30 min later) …How many did you eat?",
+   "note": "Kick setup",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "스무 개요. 바구니는 비었어요.",
+   "rd": "seumu gaeyo. bagunineun bieosseoyo.",
+   "en": "Twenty. The basket's empty.",
+   "note": "Kick: chaos",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "헐… 배 괜찮아요?",
+   "rd": "heol… bae gwaenchanayo?",
+   "en": "Whoa… is your stomach okay?",
+   "note": "배",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "손이 노래졌어요.",
+   "rd": "soni noraejyeosseoyo.",
+   "en": "My hands turned yellow.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

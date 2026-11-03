@@ -36,7 +36,7 @@
    "speaker": "A",
    "ko": "저기요, 화장실 어디예요?",
    "rd": "jeogiyo, hwajangsil eodiyeyo?",
-   "en": "Excuse me, where's the restroom?",
+   "en": "Excuse me, where’s the restroom?",
    "note": "화장실 = restroom",
    "tags": [],
    "new": []
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "저쪽이요.",
-   "rd": "jeojjogiyo.",
-   "en": "That way.",
+   "ko": "저쪽으로 가세요.",
+   "rd": "jeojjogeuro gaseyo.",
+   "en": "Go that way.",
    "note": "저쪽 = that way",
    "tags": [],
    "new": []
@@ -54,9 +54,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "(저쪽) 저기요, 화장실요?",
-   "rd": "(jeojjok) jeogiyo, hwajangsiryo?",
-   "en": "(that way) Excuse me, the restroom?",
+   "ko": "(저쪽) 저기요, 화장실 맞아요?",
+   "rd": "(jeojjok) jeogiyo, hwajangsil majayo?",
+   "en": "(that way) Excuse me, is the restroom this way?",
    "note": "again",
    "tags": [],
    "new": []
@@ -64,9 +64,9 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "아, 반대쪽이요.",
-   "rd": "a, bandaejjogiyo.",
-   "en": "Oh, the other side.",
+   "ko": "아니요, 반대쪽이요.",
+   "rd": "aniyo, bandaejjogiyo.",
+   "en": "No, it’s the other side.",
    "note": "반대쪽 = the other side",
    "tags": [],
    "new": []
@@ -74,9 +74,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "(반대쪽) …화장실?",
-   "rd": "(bandaejjok) …hwajangsil?",
-   "en": "(other side) …Restroom?",
+   "ko": "(반대쪽) 어… 화장실요?",
+   "rd": "(bandaejjok) eo… hwajangsiryo?",
+   "en": "(other side) Uh… the restroom?",
    "note": "Kick: chaos — going in circles",
    "tags": [],
    "new": []
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "D",
-   "ko": "2층이에요. 여기는 3층.",
-   "rd": "2cheungieyo. yeogineun 3cheung.",
-   "en": "It's on 2. This is 3.",
+   "ko": "지하예요. 여기는 5층.",
+   "rd": "jihayeyo. yeogineun 5cheung.",
+   "en": "It’s underground. This is the 5th floor.",
    "note": "층 = floor",
    "tags": [],
    "new": []
@@ -94,9 +94,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "감사합니다! 빨리요!",
-   "rd": "gamsahamnida! ppalliyo!",
-   "en": "Thank you! Quickly!",
+   "ko": "감사합니다! 급해요.",
+   "rd": "gamsahamnida! geupaeyo.",
+   "en": "Thank you! It’s urgent.",
    "note": "빨리",
    "tags": [],
    "new": []
@@ -104,12 +104,16 @@
   {
    "num": 8,
    "speaker": "D",
-   "ko": "엘리베이터는… 공사 중이에요.",
-   "rd": "ellibeiteoneun… gongsa jungieyo.",
-   "en": "The elevator is… under construction.",
+   "ko": "계단이랑 엘리베이터 다 막혔어요.",
+   "rd": "gyedanirang ellibeiteo da makyeosseoyo.",
+   "en": "Both the stairs and elevator are blocked.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_survival_s3_grok_rewrite.md [K180]",
+  "final": ""
+ }
 }

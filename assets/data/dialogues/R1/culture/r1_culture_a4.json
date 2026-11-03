@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "C",
-   "ko": "몇 시부터 줄 섰어?",
-   "rd": "myeot sibuteo jul seosseo?",
-   "en": "What time did you start lining up?",
+   "ko": "몇 시부터 여기 있었어?",
+   "rd": "myeot sibuteo yeogi isseosseo?",
+   "en": "What time have you been here since?",
    "note": "줄 서다 = line up",
    "tags": [],
    "new": []
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "새벽 5시. 근데 벌써 500명이야.",
-   "rd": "saebyeok 5si. geunde beolsseo 500myeongiya.",
-   "en": "5 a.m. But there were already 500 people.",
+   "ko": "새벽 다섯 시부터. 벌써 육백 명 넘었어.",
+   "rd": "saebyeok daseot sibuteo. beolsseo yukbaek myeong neomeosseo.",
+   "en": "Since 5 a.m. Already over 600.",
    "note": "새벽",
    "tags": [],
    "new": []
@@ -54,9 +54,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "헐, 대박.",
-   "rd": "heol, daebak.",
-   "en": "Whoa, insane.",
+   "ko": "헐, 진짜 대박이다.",
+   "rd": "heol, jinjja daebagida.",
+   "en": "Whoa, really insane.",
    "note": "대박",
    "tags": [],
    "new": []
@@ -64,9 +64,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "(오후) …1000명 넘었어.",
-   "rd": "(ohu) …1000myeong neomeosseo.",
-   "en": "(afternoon) …Over 1000 now.",
+   "ko": "(오후 되니까) 이천 명 넘었네. 끝이 안 보여.",
+   "rd": "(ohu doenikka) icheon myeong neomeonne. kkeuchi an boyeo.",
+   "en": "(now afternoon) Over 2000. Can’t see the end.",
    "note": "more",
    "tags": [],
    "new": []
@@ -74,9 +74,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "(지나가며) 어? 거기서 뭐 해?",
-   "rd": "(jinagamyeo) eo? geogiseo mwo hae?",
-   "en": "(walking by) Huh? What are you doing there?",
+   "ko": "(지나가다) 어? 뭐 하는 거야 거기서?",
+   "rd": "(jinagada) eo? mwo haneun geoya geogiseo?",
+   "en": "(walking past) Huh? What are you doing there?",
    "note": "Kick: Taeo himself",
    "tags": [],
    "new": []
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "헐… 태오?! 줄 서는 중이야.",
-   "rd": "heol… taeo?! jul seoneun jungiya.",
-   "en": "Whoa… Taeo?! I'm waiting in line.",
+   "ko": "헐… 태오야?! 줄 서는 중이야.",
+   "rd": "heol… taeoya?! jul seoneun jungiya.",
+   "en": "Whoa… Taeo?! I’m lining up.",
    "note": "Kick: chaos — the crowd turns",
    "tags": [],
    "new": []
@@ -94,9 +94,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "(모두 비명) 태오다!!!",
-   "rd": "(modu bimyeong) taeoda!!!",
-   "en": "(everyone screams) It's Taeo!!!",
+   "ko": "(다 같이 비명) 태오다아아!!! 대박!!!",
+   "rd": "(da gachi bimyeong) taeodaaa!!! daebak!!!",
+   "en": "(everyone screams) Taeoaaaa!!! Insane!!!",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -104,13 +104,17 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "…나 먼저 들어갈게. 이따 봐.",
-   "rd": "…na meonjeo deureogalge. itta bwa.",
-   "en": "…I'll go in first. See you later.",
+   "ko": "잠깐만… 나 먼저 들어갈게. 이따 봐.",
+   "rd": "jamkkanman… na meonjeo deureogalge. itta bwa.",
+   "en": "Wait… I’ll go in first. See you later.",
    "note": "punchline 심쿵",
    "tags": [],
    "new": []
   }
  ],
- "learner_gender": "F"
+ "learner_gender": "F",
+ "review": {
+  "grok_rewrite": "data/review/r1_culture_a4_grok_rewrite.md [K183]",
+  "final": ""
+ }
 }

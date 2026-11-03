@@ -32,8 +32,8 @@
   {
    "num": 1,
    "speaker": "C",
-   "ko": "{name} 씨, 좋은 아침.",
-   "rd": "{name} ssi, joeun achim.",
+   "ko": "{name} 씨, 좋은 아침이에요.",
+   "rd": "{name} ssi, joeun achimieyo.",
    "en": "Good morning, {name}.",
    "note": "좋은 아침",
    "tags": [],
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "안녕하세요! 좋은 아침이에요.",
-   "rd": "annyeonghaseyo! joeun achimieyo.",
-   "en": "Hello! Good morning.",
+   "ko": "네, 안녕하세요. 좋은 아침이에요.",
+   "rd": "ne, annyeonghaseyo. joeun achimieyo.",
+   "en": "Yes, hello. Good morning.",
    "note": "인사",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "요즘 일 힘들죠?",
-   "rd": "yojeum il himdeuljyo?",
-   "en": "Work's been hard lately, right?",
+   "ko": "요즘 많이 바쁘죠?",
+   "rd": "yojeum mani bappeujyo?",
+   "en": "You’ve been busy lately, right?",
    "note": "힘들다 = hard",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "아니에요! 괜찮아요.",
-   "rd": "anieyo! gwaenchanayo.",
-   "en": "Not at all! It's fine.",
+   "ko": "아니에요, 괜찮아요.",
+   "rd": "anieyo, gwaenchanayo.",
+   "en": "No, it’s fine.",
    "note": "괜찮아요",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "어제 보고서 잘 봤어요. 고마워요.",
-   "rd": "eoje bogoseo jal bwasseoyo. gomawoyo.",
-   "en": "I read your report yesterday. Thank you.",
+   "ko": "어제 보고서 정말 잘 봤어요.",
+   "rd": "eoje bogoseo jeongmal jal bwasseoyo.",
+   "en": "I really liked your report yesterday.",
    "note": "심쿵 (work version): praise",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "진짜요? 감사합니다!",
-   "rd": "jinjjayo? gamsahamnida!",
-   "en": "Really? Thank you!",
+   "ko": "진짜요? 감사합니다.",
+   "rd": "jinjjayo? gamsahamnida.",
+   "en": "Really? Thank you.",
    "note": "감사합니다",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "점심 내가 살게요. 팀 전체.",
-   "rd": "jeomsim naega salgeyo. tim jeonche.",
-   "en": "Lunch is on me today. The whole team.",
+   "ko": "점심은 제가 살게요… 팀 다 같이.",
+   "rd": "jeomsimeun jega salgeyo… tim da gachi.",
+   "en": "Lunch is on me… the whole team.",
    "note": "treat",
    "tags": [],
    "new": []
@@ -102,12 +102,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…김치찌개요?",
-   "rd": "…gimchijjigaeyo?",
-   "en": "…Kimchi stew?",
+   "ko": "…김치찌개 말고요?",
+   "rd": "…gimchijjigae malgoyo?",
+   "en": "…Not kimchi stew?",
    "note": "punchline callback",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_work_a4_grok_rewrite.md [K194]",
+  "final": ""
+ }
 }

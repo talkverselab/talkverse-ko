@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "폰 비밀번호 뭐야?",
-   "rd": "pon bimilbeonho mwoya?",
-   "en": "What's your phone password?",
+   "ko": "너 폰 비번 뭐야?",
+   "rd": "neo pon bibeon mwoya?",
+   "en": "What’s your phone passcode?",
    "note": "비밀번호 = password",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "왜? 비밀이야.",
-   "rd": "wae? bimiriya.",
-   "en": "Why? It's a secret.",
+   "ko": "왜 물어? 비밀인데.",
+   "rd": "wae mureo? bimirinde.",
+   "en": "Why are you asking? It’s a secret.",
    "note": "비밀",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "설마 숨기는 거 있어?",
-   "rd": "seolma sumgineun geo isseo?",
-   "en": "Don't tell me you're hiding something?",
+   "ko": "설마 뭔가 숨기는 거야?",
+   "rd": "seolma mwonga sumgineun geoya?",
+   "en": "Don’t tell me you’re hiding something?",
    "note": "숨기다 = hide",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "아니야. 그냥 비밀.",
-   "rd": "aniya. geunyang bimil.",
-   "en": "No. It's just secret.",
+   "ko": "아니야. 그냥 안 알려 주는 거야.",
+   "rd": "aniya. geunyang an allyeo juneun geoya.",
+   "en": "No. I just don’t tell people.",
    "note": "그냥",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "…0521?",
-   "rd": "…0521?",
-   "en": "…0521?",
+   "ko": "0521… 맞지?",
+   "rd": "0521… matji?",
+   "en": "0521… right?",
    "note": "her guess",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "헐… 어떻게 알았어?",
-   "rd": "heol… eotteoke arasseo?",
-   "en": "Whoa… how did you know?",
+   "ko": "헐 진짜… 어떻게 알았어?",
+   "rd": "heol jinjja… eotteoke arasseo?",
+   "en": "Whoa really… how did you know?",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "우리 처음 만난 날이잖아.",
-   "rd": "uri cheoeum mannan narijana.",
-   "en": "That's the day we first met.",
+   "ko": "우리 처음 만난 날이잖아…",
+   "rd": "uri cheoeum mannan narijana…",
+   "en": "That’s the day we first met…",
    "note": "심쿵: he used their day",
    "tags": [],
    "new": []
@@ -102,13 +102,17 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…들켰다. 근데 기분 좋아?",
-   "rd": "…deulkyeotda. geunde gibun joa?",
-   "en": "…Busted. But does it make you happy?",
+   "ko": "…들켰네. 기분 좋아?",
+   "rd": "…deulkyeonne. gibun joa?",
+   "en": "…Busted. Does it make you happy?",
    "note": "punchline",
    "tags": [],
    "new": []
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a11_grok_rewrite.md [K187]",
+  "final": ""
+ }
 }

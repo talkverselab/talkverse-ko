@@ -1,0 +1,113 @@
+{
+ "id": "r0_work_a4",
+ "region": "R0",
+ "island": "work",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "work"
+ ],
+ "domain": [
+  "work"
+ ],
+ "title": "이름표",
+ "emoji": "📛",
+ "scene": "회사 첫 주. 이름표를 거꾸로 걸고 다녔다",
+ "speakers": {
+  "A": "{name}",
+  "B": "해솔"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "slip",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "헐",
+  "죄송합니다",
+  "괜찮아요"
+ ],
+ "goal": "A small embarrassment at work",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "{name} 씨, 이름표…",
+   "rd": "{name} ssi, ireumpyo…",
+   "en": "{name}, your name tag…",
+   "note": "이름표 = name tag",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "네? 왜요?",
+   "rd": "ne? waeyo?",
+   "en": "Yes? Why?",
+   "note": "왜요",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "거꾸로예요.",
+   "rd": "geokkuroyeyo.",
+   "en": "It's upside down.",
+   "note": "거꾸로 = upside down",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "헐… 언제부터요?",
+   "rd": "heol… eonjebuteoyo?",
+   "en": "Whoa… since when?",
+   "note": "언제부터",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "월요일부터요.",
+   "rd": "woryoilbuteoyo.",
+   "en": "Since Monday.",
+   "note": "Kick",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "오늘 금요일이에요!",
+   "rd": "oneul geumyoirieyo!",
+   "en": "Today is Friday!",
+   "note": "금요일",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "다들 귀여워서 말 안 했어요.",
+   "rd": "dadeul gwiyeowoseo mal an haesseoyo.",
+   "en": "Everyone thought it was cute, so no one said.",
+   "note": "귀엽다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…다음 주도 이렇게 할게요.",
+   "rd": "…daeum judo ireoke halgeyo.",
+   "en": "…I'll keep it this way next week.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ]
+}

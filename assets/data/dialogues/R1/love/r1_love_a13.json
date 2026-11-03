@@ -1,0 +1,116 @@
+{
+ "id": "r1_love_a13",
+ "region": "R1",
+ "island": "love",
+ "kind": "short",
+ "draft": true,
+ "purpose": [
+  "love"
+ ],
+ "domain": [
+  "love"
+ ],
+ "title": "택시 같이 타요",
+ "emoji": "🚕",
+ "scene": "비 오는 밤 회식 끝. 같은 방향인 해솔이 택시를 잡았다",
+ "speakers": {
+  "A": "{name}",
+  "B": "해솔"
+ },
+ "register": "polite",
+ "twist": 5,
+ "twist_type": "emotion",
+ "flags": [],
+ "kdrama": "",
+ "expressions": [
+  "같이",
+  "진짜요?",
+  "괜찮아요"
+ ],
+ "goal": "Sharing a cab home",
+ "turns": [
+  {
+   "num": 1,
+   "speaker": "B",
+   "ko": "어디 가세요? 같은 방향이면 같이 타요.",
+   "rd": "eodi gaseyo? gateun banghyangimyeon gachi tayo.",
+   "en": "Where are you headed? If it's the same way, let's share.",
+   "note": "방향 = direction",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 2,
+   "speaker": "A",
+   "ko": "망원동이요. 괜찮아요?",
+   "rd": "mangwondongiyo. gwaenchanayo?",
+   "en": "Mangwon-dong. Is that okay?",
+   "note": "괜찮아요?",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 3,
+   "speaker": "B",
+   "ko": "저도 망원동이에요.",
+   "rd": "jeodo mangwondongieyo.",
+   "en": "I'm in Mangwon-dong too.",
+   "note": "저도",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 4,
+   "speaker": "A",
+   "ko": "진짜요? 몰랐어요.",
+   "rd": "jinjjayo? mollasseoyo.",
+   "en": "Really? I didn't know.",
+   "note": "몰랐다",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 5,
+   "speaker": "B",
+   "ko": "…사실 합정이에요.",
+   "rd": "…sasil hapjeongieyo.",
+   "en": "…Actually I live in Hapjeong.",
+   "note": "심쿵: she lied",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 6,
+   "speaker": "A",
+   "ko": "헐, 그럼 왜…",
+   "rd": "heol, geureom wae…",
+   "en": "Whoa, then why…",
+   "note": "왜",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 7,
+   "speaker": "B",
+   "ko": "같이 타고 싶어서요.",
+   "rd": "gachi tago sipeoseoyo.",
+   "en": "Because I wanted to ride with you.",
+   "note": "심쿵",
+   "tags": [],
+   "new": []
+  },
+  {
+   "num": 8,
+   "speaker": "A",
+   "ko": "…기사님, 천천히 가 주세요.",
+   "rd": "…gisanim, cheoncheonhi ga juseyo.",
+   "en": "…Driver, please go slowly.",
+   "note": "punchline",
+   "tags": [],
+   "new": []
+  }
+ ],
+ "series": "flirt",
+ "initiator": "B",
+ "learner_gender": "M"
+}

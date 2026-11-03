@@ -47,7 +47,7 @@
    "speaker": "A",
    "ko": "응 너도 잘 자 사랑해",
    "rd": "eung neodo jal ja saranghae",
-   "en": "Yeah you too, good night, love you",
+   "en": "Yeah you too good night love you",
    "note": "Kick: autocomplete — chaos",
    "tags": [],
    "new": [],
@@ -57,9 +57,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "아니!! 자동완성!!",
-   "rd": "ani!! jadongwanseong!!",
-   "en": "No!! Autocomplete!!",
+   "ko": "아니 자동완성!! 지워!!",
+   "rd": "ani jadongwanseong!! jiwo!!",
+   "en": "No autocomplete!! Delete!!",
    "note": "자동완성 = autocomplete",
    "tags": [],
    "new": [],
@@ -81,9 +81,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "폰이 맘대로 썼어 진짜",
-   "rd": "poni mamdaero sseosseo jinjja",
-   "en": "My phone wrote it by itself, really",
+   "ko": "폰이 맘대로야 진짜. 미안해",
+   "rd": "poni mamdaeroya jinjja. mianhae",
+   "en": "The phone did it by itself really. Sorry",
    "note": "맘대로 = on its own",
    "tags": [],
    "new": [],
@@ -93,9 +93,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "폰이 자주 쓰나 봐? 그 말",
-   "rd": "poni jaju sseuna bwa? geu mal",
-   "en": "I guess your phone types that word a lot?",
+   "ko": "그 말 자주 나오나 봐?",
+   "rd": "geu mal jaju naona bwa?",
+   "en": "That word comes up a lot huh?",
    "note": "teasing",
    "tags": [],
    "new": [],
@@ -105,9 +105,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "…아니 처음이야",
-   "rd": "…ani cheoeumiya",
-   "en": "…No, it's the first time",
+   "ko": "진짜 처음이야…",
+   "rd": "jinjja cheoeumiya…",
+   "en": "Really it’s the first time…",
    "note": "처음",
    "tags": [],
    "new": [],
@@ -117,9 +117,9 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "그럼 내일 직접 말해 줘. 폰 말고",
-   "rd": "geureom naeil jikjeop malhae jwo. pon malgo",
-   "en": "Then tell me in person tomorrow. Not your phone",
+   "ko": "내일 직접 말해 줘. 폰 말고.",
+   "rd": "naeil jikjeop malhae jwo. pon malgo.",
+   "en": "Tell me in person tomorrow. Not the phone.",
    "note": "심쿵 punchline",
    "tags": [],
    "new": [],
@@ -129,5 +129,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_c8_grok_rewrite.md [K189]",
+  "final": ""
+ }
 }

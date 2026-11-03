@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "C",
-   "ko": "점심 뭐 먹을래요?",
-   "rd": "jeomsim mwo meogeullaeyo?",
-   "en": "What do you want for lunch?",
+   "ko": "점심 뭐 먹을까요?",
+   "rd": "jeomsim mwo meogeulkkayo?",
+   "en": "What shall we have for lunch?",
    "note": "점심 = lunch",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "그럼 김치찌개?",
-   "rd": "geureom gimchijjigae?",
-   "en": "Then kimchi stew?",
+   "ko": "그럼 김치찌개 어때요?",
+   "rd": "geureom gimchijjigae eottaeyo?",
+   "en": "Then how about kimchi stew?",
    "note": "김치찌개",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "좋아요!",
-   "rd": "joayo!",
-   "en": "Sounds good!",
+   "ko": "네, 좋아요.",
+   "rd": "ne, joayo.",
+   "en": "Yes, sounds good.",
    "note": "좋아요",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "(속삭이며) 팀장님은 매일 김치찌개야.",
-   "rd": "(soksagimyeo) timjangnimeun maeil gimchijjigaeya.",
-   "en": "(whisper) The boss has kimchi stew every day.",
+   "ko": "(속삭여) 팀장님 매일 그거 드세요.",
+   "rd": "(soksagyeo) timjangnim maeil geugeo deuseyo.",
+   "en": "(whisper) The boss eats that every day.",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "3년째.",
-   "rd": "3nyeonjjae.",
-   "en": "For three years.",
+   "ko": "벌써 4년째예요.",
+   "rd": "beolsseo 4nyeonjjaeyeyo.",
+   "en": "Already four years.",
    "note": "Kick",
    "tags": [],
    "new": []
@@ -103,12 +103,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…저 내일은 짜장면 말할게요.",
-   "rd": "…jeo naeireun jjajangmyeon malhalgeyo.",
-   "en": "…Tomorrow I'll suggest black-bean noodles.",
+   "ko": "…내일은 다른 거 말해 볼게요.",
+   "rd": "…naeireun dareun geo malhae bolgeyo.",
+   "en": "…Tomorrow I’ll suggest something else.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_work_a3_grok_rewrite.md [K182]",
+  "final": ""
+ }
 }

@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "헐, 갑자기 비야!",
-   "rd": "heol, gapjagi biya!",
-   "en": "Whoa, it's suddenly raining!",
+   "ko": "헐, 소나기야!",
+   "rd": "heol, sonagiya!",
+   "en": "Whoa, it’s a downpour!",
    "note": "갑자기",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "이리 와. 빨리.",
-   "rd": "iri wa. ppalli.",
-   "en": "Come here. Quick.",
+   "ko": "여기 와. 재킷 씌워 줄게.",
+   "rd": "yeogi wa. jaekit ssuiwo julge.",
+   "en": "Come here. I’ll put the jacket over us.",
    "note": "빨리",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "그 재킷 젖잖아.",
-   "rd": "geu jaekit jeotjana.",
-   "en": "Your jacket will get wet.",
+   "ko": "그거 젖을 텐데.",
+   "rd": "geugeo jeojeul tende.",
+   "en": "That’ll get wet.",
    "note": "젖다 = get wet",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "괜찮아. 너만 안 젖으면 돼.",
-   "rd": "gwaenchana. neoman an jeojeumyeon dwae.",
-   "en": "It's fine. As long as you don't get wet.",
+   "ko": "괜찮아… 너만 괜찮으면 돼.",
+   "rd": "gwaenchana… neoman gwaenchaneumyeon dwae.",
+   "en": "It’s fine… as long as you’re okay.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "…너무 가까운데.",
-   "rd": "…neomu gakkaunde.",
-   "en": "…This is really close.",
+   "ko": "진짜? 너무 가까운데.",
+   "rd": "jinjja? neomu gakkaunde.",
+   "en": "Really? This is really close.",
    "note": "가깝다",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "싫어?",
-   "rd": "sileo?",
-   "en": "Don't like it?",
+   "ko": "싫어하면 말해.",
+   "rd": "sileohamyeon malhae.",
+   "en": "Tell me if you don’t like it.",
    "note": "싫어?",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "아니. 비가 더 왔으면 좋겠다.",
-   "rd": "ani. biga deo wasseumyeon joketda.",
-   "en": "No. I wish it would rain harder.",
+   "ko": "아니… 비 더 왔으면 좋겠어.",
+   "rd": "ani… bi deo wasseumyeon jokesseo.",
+   "en": "No… I wish it would rain more.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -102,9 +102,9 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "ㅋㅋ 버스 왔다. …다음 거 타자.",
-   "rd": "ㅋㅋ beoseu watda. …daeum geo taja.",
-   "en": "Lol the bus is here. …Let's take the next one.",
+   "ko": "ㅋㅋ 버스 왔네. 다음 거 타자.",
+   "rd": "ㅋㅋ beoseu wanne. daeum geo taja.",
+   "en": "Lol the bus is here. Let’s take the next one.",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -112,5 +112,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a12_grok_rewrite.md [K188]",
+  "final": ""
+ }
 }
