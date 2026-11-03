@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "이 「귀여워요」 댓글 누구야?",
-   "rd": "i 「gwiyeowoyo」 daetgeul nuguya?",
-   "en": "Who left this \"so cute\" comment?",
+   "ko": "야 {name} 이거 봤어? 사진에 귀여워요 달렸던데 누구야 ㅋㅋ",
+   "rd": "ya {name} igeo bwasseo? sajine gwiyeowoyo dallyeotdeonde nuguya ㅋㅋ",
+   "en": "Yo {name} you see this? Who left that \"so cute\" on your photo haha",
    "note": "댓글",
    "tags": [],
    "new": [],
@@ -46,9 +46,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "어? 그거 우리 이모야",
-   "rd": "eo? geugeo uri imoya",
-   "en": "Huh? That's my aunt",
+   "ko": "어? 우리 이모야. 맨날 이래.",
+   "rd": "eo? uri imoya. maennal irae.",
+   "en": "Huh? That's my aunt. She does this all the time.",
    "note": "이모",
    "tags": [],
    "new": [],
@@ -58,9 +58,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "…이모?",
-   "rd": "…imo?",
-   "en": "…Your aunt?",
+   "ko": "이모? 진짜?",
+   "rd": "imo? jinjja?",
+   "en": "Your aunt? For real?",
    "note": "이모",
    "tags": [],
    "new": [],
@@ -70,9 +70,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "응. 하트도 열 개 눌렀어",
-   "rd": "eung. hateudo yeol gae nulleosseo",
-   "en": "Yeah. She hit like ten hearts too",
+   "ko": "응 하트 열 개나 눌렀고 단톡 터져서 사촌들까지 들어왔어",
+   "rd": "eung hateu yeol gaena nulleotgo dantok teojyeoseo sachondeulkkaji deureowasseo",
+   "en": "Yeah she hit like ten hearts and the group chat blew up so the cousins jumped in too",
    "note": "Kick setup",
    "tags": [],
    "new": [],
@@ -82,9 +82,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "(댓글) 유진 씨도 귀여워요~ 언제 와요?",
-   "rd": "(daetgeul) yujin ssido gwiyeowoyo~ eonje wayo?",
-   "en": "(comment) Yujin is cute too~ when are you visiting?",
+   "ko": "(댓글) 유진이도 진짜 귀엽네~ 다음 주에 놀러 와~",
+   "rd": "(daetgeul) yujinido jinjja gwiyeomne~ daeum jue nolleo wa~",
+   "en": "(comment) Yujin's cute too~ come hang next week~",
    "note": "Kick: aunt joins — chaos",
    "tags": [],
    "new": [],
@@ -94,8 +94,8 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "헐 이모님이 나 알아??",
-   "rd": "heol imonimi na ara??",
+   "ko": "헐 이모가 나 안다고??",
+   "rd": "heol imoga na andago??",
    "en": "Whoa your aunt knows me??",
    "note": "알다",
    "tags": [],
@@ -106,9 +106,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "엄마가 다 말했대",
-   "rd": "eommaga da malhaetdae",
-   "en": "My mom told everyone",
+   "ko": "엄마가 다 말해서 할머니 전화까지 언제 소개하냐고 난리야",
+   "rd": "eommaga da malhaeseo halmeoni jeonhwakkaji eonje sogaehanyago nalliya",
+   "en": "Mom told everyone and grandma's calling asking when I'll introduce you, total chaos",
    "note": "엄마",
    "tags": [],
    "new": [],
@@ -118,9 +118,9 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "…됐어. 질투 취소. 다음 주에 인사 갈게",
-   "rd": "…dwaesseo. jiltu chwiso. daeum jue insa galge",
-   "en": "…Forget it. Jealousy canceled. I'll visit next week",
+   "ko": "…됐어 질투 취소 다음 주 갈게 엄마도 가고 싶대",
+   "rd": "…dwaesseo jiltu chwiso daeum ju galge eommado gago sipdae",
+   "en": "…Forget it. Jealousy canceled. I'll go next week, mom wants to come too",
    "note": "punchline",
    "tags": [],
    "new": [],
@@ -128,5 +128,10 @@
    "at": "21:03"
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_c12_grok_rewrite.md [K348]",
+  "final": "",
+  "shorten": "data/review/r1_love_c12_grok_short.md [K413] 턴 [4, 7, 8]"
+ }
 }

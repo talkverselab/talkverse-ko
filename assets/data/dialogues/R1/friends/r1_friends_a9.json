@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "계모임 돈 1년 모았어. 36만 원!",
-   "rd": "gyemoim don 1nyeon moasseo. 36man won!",
-   "en": "We saved for a year. 360,000 won!",
+   "ko": "야 우리 계 1년 모았잖아. 36만 원 됐어.",
+   "rd": "ya uri gye 1nyeon moatjana. 36man won dwaesseo.",
+   "en": "Yo, we've been saving for a year. Got 360k.",
    "note": "계모임",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "C",
-   "ko": "여행 가자! 제주도!",
-   "rd": "yeohaeng gaja! jejudo!",
-   "en": "Let's travel! Jeju!",
+   "ko": "오 제주도 가자!",
+   "rd": "o jejudo gaja!",
+   "en": "Oh let's hit Jeju!",
    "note": "여행",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "좋아! 근데 36만 원으로 셋이?",
-   "rd": "joa! geunde 36man woneuro sesi?",
-   "en": "Great! But three of us with 360,000?",
+   "ko": "좋아! 근데 셋이 36만 원으로 되나?",
+   "rd": "joa! geunde sesi 36man woneuro doena?",
+   "en": "Cool! But can three of us pull it off with 360k?",
    "note": "셋",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "…비행기만 가능해.",
-   "rd": "…bihaenggiman ganeunghae.",
-   "en": "…Just enough for flights.",
+   "ko": "헐... 비행기 값만 해도 다 나가.",
+   "rd": "heol... bihaenggi gamman haedo da naga.",
+   "en": "Whoa... the flights alone eat the whole thing.",
    "note": "Kick",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "그럼 잠은?",
-   "rd": "geureom jameun?",
-   "en": "Then where do we sleep?",
+   "ko": "그럼 잠은 어디서 자?",
+   "rd": "geureom jameun eodiseo ja?",
+   "en": "Then where are we crashing?",
    "note": "잠",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "민준이 집. 부산.",
-   "rd": "minjuni jip. busan.",
-   "en": "Minjun's place. Busan.",
+   "ko": "민준이 집 있잖아. 부산.",
+   "rd": "minjuni jip itjana. busan.",
+   "en": "You've got your place, Minjun. Busan.",
    "note": "Kick: chaos plan",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "우리 집 제주도 아니고 부산인데?",
-   "rd": "uri jip jejudo anigo busaninde?",
-   "en": "My home's in Busan, not Jeju?",
+   "ko": "진짜? 내 집 제주도 아니고 부산인데?",
+   "rd": "jinjja? nae jip jejudo anigo busaninde?",
+   "en": "For real? Mine's in Busan, not Jeju though?",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -103,12 +103,17 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "그니까. 그냥 부산 가자.",
-   "rd": "geunikka. geunyang busan gaja.",
-   "en": "Right. Let's just go to Busan.",
+   "ko": "그니까. 부산 가자. 근데 동생이랑 친구 둘, 강아지까지 온대.",
+   "rd": "geunikka. busan gaja. geunde dongsaengirang chingu dul, gangajikkaji ondae.",
+   "en": "Exactly. Let's do Busan. But little bro, two friends, and the dog are coming too.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_friends_a9_grok_rewrite.md [K333]",
+  "final": "",
+  "shorten": "data/review/r1_friends_a9_grok_short.md [K407] 턴 [8]"
+ }
 }

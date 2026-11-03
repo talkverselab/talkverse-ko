@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "어? 여기 예약했는데요.",
-   "rd": "eo? yeogi yeyakaenneundeyo.",
-   "en": "Huh? I booked this room.",
+   "ko": "네? 여기 제가 예약했는데요.",
+   "rd": "ne? yeogi jega yeyakaenneundeyo.",
+   "en": "Huh? I booked this though.",
    "note": "예약",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "저희도 예약했어요.",
-   "rd": "jeohuido yeyakaesseoyo.",
-   "en": "We booked it too.",
+   "ko": "죄송합니다, 저희도요.",
+   "rd": "joesonghamnida, jeohuidoyo.",
+   "en": "Sorry, us too.",
    "note": "저희도",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "(문 열며) 저희도요!",
-   "rd": "(mun yeolmyeo) jeohuidoyo!",
-   "en": "(opening door) Us too!",
+   "ko": "(문 확 열며) 저희도요!",
+   "rd": "(mun hwak yeolmyeo) jeohuidoyo!",
+   "en": "(flinging the door open) Us too!",
    "note": "Kick: triple booking — chaos",
    "tags": [],
    "new": []
@@ -65,7 +65,7 @@
    "speaker": "A",
    "ko": "잠깐만요… 시간이요?",
    "rd": "jamkkanmanyo… siganiyo?",
-   "en": "Wait… the time?",
+   "en": "Wait a sec… the time?",
    "note": "시간",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "3시요.",
-   "rd": "3siyo.",
-   "en": "3 o'clock.",
+   "ko": "저희 3시요.",
+   "rd": "jeohui 3siyo.",
+   "en": "Ours is 3.",
    "note": "3시",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "3시!",
-   "rd": "3si!",
-   "en": "3 o'clock!",
+   "ko": "저희도 3시요!",
+   "rd": "jeohuido 3siyo!",
+   "en": "Us too, 3!",
    "note": "same",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "…다 같이 회의할까요?",
-   "rd": "…da gachi hoeuihalkkayo?",
-   "en": "…Shall we all have the meeting together?",
+   "ko": "…다 같이 할까요?",
+   "rd": "…da gachi halkkayo?",
+   "en": "…Shall we all just do it together?",
    "note": "같이",
    "tags": [],
    "new": []
@@ -103,12 +103,16 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "안건이 다른데요?",
-   "rd": "angeoni dareundeyo?",
-   "en": "But our topics are different.",
+   "ko": "안건 다른데 또 오네요.",
+   "rd": "angeon dareunde tto oneyo.",
+   "en": "Agendas are different and more people are coming.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_work_a5_grok_rewrite.md [K324]",
+  "final": ""
+ }
 }

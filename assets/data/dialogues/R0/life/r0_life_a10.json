@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "엄마가 반찬 보냈어.",
-   "rd": "eommaga banchan bonaesseo.",
-   "en": "My mom sent side dishes.",
+   "ko": "엄마가 반찬 왕창 보냈어.",
+   "rd": "eommaga banchan wangchang bonaesseo.",
+   "en": "Mom sent a ton of banchan.",
    "note": "반찬",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "와, 고마워! 몇 개야?",
-   "rd": "wa, gomawo! myeot gaeya?",
-   "en": "Wow, thanks! How many?",
+   "ko": "진짜? 고마워!",
+   "rd": "jinjja? gomawo!",
+   "en": "For real? Thanks!",
    "note": "몇 개",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "…스무 통.",
-   "rd": "…seumu tong.",
-   "en": "…Twenty containers.",
+   "ko": "스무 통이나 왔어.",
+   "rd": "seumu tongina wasseo.",
+   "en": "Like twenty containers.",
    "note": "Kick",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "헐. 냉장고 꽉 찼어.",
-   "rd": "heol. naengjanggo kkwak chasseo.",
-   "en": "Whoa. The fridge is full.",
+   "ko": "헐 문이 안 닫혀.",
+   "rd": "heol muni an datyeo.",
+   "en": "Whoa, the door won't close.",
    "note": "꽉",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "내 우유 어디 갔어?",
-   "rd": "nae uyu eodi gasseo?",
-   "en": "Where did my milk go?",
+   "ko": "내 우유 어디 갔지?",
+   "rd": "nae uyu eodi gatji?",
+   "en": "Where'd my milk go?",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "김치 뒤에.",
-   "rd": "gimchi dwie.",
-   "en": "Behind the kimchi.",
+   "ko": "김치 산 뒤에 있어.",
+   "rd": "gimchi san dwie isseo.",
+   "en": "Behind the kimchi mountain.",
    "note": "뒤",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "오늘 저녁 반찬 파티 하자.",
-   "rd": "oneul jeonyeok banchan pati haja.",
-   "en": "Let's have a side-dish party tonight.",
+   "ko": "저녁에 반찬 파티 하자!",
+   "rd": "jeonyeoge banchan pati haja!",
+   "en": "Let's do a banchan party tonight!",
    "note": "파티",
    "tags": [],
    "new": []
@@ -103,12 +103,16 @@
   {
    "num": 8,
    "speaker": "C",
-   "ko": "밥만 있으면 돼!",
-   "rd": "bamman isseumyeon dwae!",
-   "en": "All we need is rice!",
+   "ko": "밥만? 다 온대!",
+   "rd": "bamman? da ondae!",
+   "en": "Just rice? Everyone's already coming!",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_life_a10_grok_rewrite.md [K306]",
+  "final": ""
+ }
 }

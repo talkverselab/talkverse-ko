@@ -35,9 +35,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "트럭 빌렸다며?",
-   "rd": "teureok billyeotdamyeo?",
-   "en": "You said you rented a truck?",
+   "ko": "너 트럭 빌렸다며? 진짜?",
+   "rd": "neo teureok billyeotdamyeo? jinjja?",
+   "en": "You said you rented a truck? For real?",
    "note": "트럭",
    "tags": [],
    "new": []
@@ -45,9 +45,9 @@
   {
    "num": 2,
    "speaker": "C",
-   "ko": "응. 저기.",
-   "rd": "eung. jeogi.",
-   "en": "Yeah. Over there.",
+   "ko": "어... 저기 봐봐.",
+   "rd": "eo... jeogi bwabwa.",
+   "en": "Yeah... look over there.",
    "note": "저기",
    "tags": [],
    "new": []
@@ -55,9 +55,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "…저거 경차인데?",
-   "rd": "…jeogeo gyeongchainde?",
-   "en": "…That's a compact car?",
+   "ko": "헐 저거 완전 경차 아냐?",
+   "rd": "heol jeogeo wanjeon gyeongcha anya?",
+   "en": "Whoa, that's totally a compact car, right?",
    "note": "경차",
    "tags": [],
    "new": []
@@ -65,9 +65,9 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "트럭은 너무 비싸서.",
-   "rd": "teureogeun neomu bissaseo.",
-   "en": "Trucks were too expensive.",
+   "ko": "트럭 빌리려니까 너무 비싸서 그냥 이걸로 했어.",
+   "rd": "teureok billiryeonikka neomu bissaseo geunyang igeollo haesseo.",
+   "en": "Tried to get a truck but it was way too expensive, so I just got this.",
    "note": "비싸다",
    "tags": [],
    "new": []
@@ -75,9 +75,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "냉장고는 어떻게 넣어?",
-   "rd": "naengjanggoneun eotteoke neoeo?",
-   "en": "How do we fit the fridge?",
+   "ko": "그럼 냉장고는 어떻게 실으라고?",
+   "rd": "geureom naengjanggoneun eotteoke sireurago?",
+   "en": "Then how are we supposed to load the fridge?",
    "note": "냉장고",
    "tags": [],
    "new": []
@@ -85,9 +85,9 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "…안 들어가지?",
-   "rd": "…an deureogaji?",
-   "en": "…It won't fit, right?",
+   "ko": "그거... 안 들어가겠지 뭐.",
+   "rd": "geugeo... an deureogagetji mwo.",
+   "en": "That... probably won't fit.",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -95,9 +95,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "몇 번 왔다 갔다 해야 돼?",
-   "rd": "myeot beon watda gatda haeya dwae?",
-   "en": "How many trips will it take?",
+   "ko": "몇 번이나 왔다 갔다 해야 하는 거야?",
+   "rd": "myeot beonina watda gatda haeya haneun geoya?",
+   "en": "How many trips are we gonna have to make?",
    "note": "몇 번",
    "tags": [],
    "new": []
@@ -105,9 +105,9 @@
   {
    "num": 8,
    "speaker": "C",
-   "ko": "열두 번?",
-   "rd": "yeoldu beon?",
-   "en": "Twelve?",
+   "ko": "한 열다섯 번은 해야 할 듯. 진짜?",
+   "rd": "han yeoldaseot beoneun haeya hal deut. jinjja?",
+   "en": "Like fifteen times, seriously?",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -115,9 +115,9 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "아 몰라… 용달 부르자.",
-   "rd": "a molla… yongdal bureuja.",
-   "en": "Ugh… let's call a moving van.",
+   "ko": "아 몰라... 그냥 용달 부르자.",
+   "rd": "a molla... geunyang yongdal bureuja.",
+   "en": "Whatever... let's just call a van.",
    "note": "용달",
    "tags": [],
    "new": []
@@ -125,9 +125,9 @@
   {
    "num": 10,
    "speaker": "D",
-   "ko": "(용달 기사님) 짐이 이거밖에 없어요?",
-   "rd": "(yongdal gisanim) jimi igeobakke eopseoyo?",
-   "en": "(van driver) This is all the stuff?",
+   "ko": "어... 짐이 이거밖에 없네요?",
+   "rd": "eo... jimi igeobakke eomneyo?",
+   "en": "Uh... is this really all the stuff?",
    "note": "reveal",
    "tags": [],
    "new": []
@@ -135,9 +135,9 @@
   {
    "num": 11,
    "speaker": "A",
-   "ko": "경차로 이미 열한 번 옮겼어요.",
-   "rd": "gyeongcharo imi yeolhan beon omgyeosseoyo.",
-   "en": "We already moved eleven loads by compact car.",
+   "ko": "경차로 이미 열두 번이나 옮겼어요.",
+   "rd": "gyeongcharo imi yeoldu beonina omgyeosseoyo.",
+   "en": "We already moved twelve loads with the compact car.",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -145,12 +145,16 @@
   {
    "num": 12,
    "speaker": "B",
-   "ko": "그니까 마지막 하나만 부탁해요. 냉장고.",
-   "rd": "geunikka majimak hanaman butakaeyo. naengjanggo.",
-   "en": "So please just take the last one. The fridge.",
+   "ko": "그니까 마지막 이거 하나만 부탁해요. 냉장고.",
+   "rd": "geunikka majimak igeo hanaman butakaeyo. naengjanggo.",
+   "en": "So just this last one, please. The fridge.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_friends_b4_grok_rewrite.md [K361]",
+  "final": ""
+ }
 }

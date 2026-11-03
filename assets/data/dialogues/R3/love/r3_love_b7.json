@@ -35,9 +35,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "유진아! 정신 들어? 괜찮아?",
-   "rd": "yujina! jeongsin deureo? gwaenchana?",
-   "en": "Yujin! Are you awake? Are you okay?",
+   "ko": "유진아, 눈 떠 봐. 괜찮아? 진짜 다친 데 없어?",
+   "rd": "yujina, nun tteo bwa. gwaenchana? jinjja dachin de eopseo?",
+   "en": "Yujin, open your eyes. You okay? You're not actually hurt, right?",
    "note": "정신 들다",
    "tags": [],
    "new": []
@@ -45,9 +45,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "…누구세요?",
-   "rd": "…nuguseyo?",
-   "en": "…Who are you?",
+   "ko": "…누구세요? 여기가 어디예요?",
+   "rd": "…nuguseyo? yeogiga eodiyeyo?",
+   "en": "…Who are you? Where even is this?",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -55,9 +55,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "설마… 나 몰라? 우리 1년 사귀었잖아.",
-   "rd": "seolma… na molla? uri 1nyeon sagwieotjana.",
-   "en": "No way… you don't know me? We've dated for a year.",
+   "ko": "설마 나 몰라? 우리 1년 사귄 사이인데 진짜?",
+   "rd": "seolma na molla? uri 1nyeon sagwin saiinde jinjja?",
+   "en": "No way you don't know me? We've been dating a year, for real?",
    "note": "설마",
    "tags": [],
    "new": []
@@ -65,9 +65,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "죄송해요. 아무것도 기억이 안 나요.",
-   "rd": "joesonghaeyo. amugeotdo gieogi an nayo.",
-   "en": "I'm sorry. I can't remember anything.",
+   "ko": "아 죄송해요. 아무것도 기억이 안 나요. 진짜 하나도요.",
+   "rd": "a joesonghaeyo. amugeotdo gieogi an nayo. jinjja hanadoyo.",
+   "en": "Ah, I'm sorry. I don't remember anything. Literally nothing.",
    "note": "기억",
    "tags": [],
    "new": []
@@ -75,9 +75,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "(의사) 일시적인 기억상실이에요. 익숙한 걸 보여 주세요.",
-   "rd": "(uisa) ilsijeogin gieoksangsirieyo. iksukan geol boyeo juseyo.",
-   "en": "(doctor) It's temporary amnesia. Show her familiar things.",
+   "ko": "일시적 기억상실이에요. 익숙한 거 빨리 보여 주세요. 다른 것도 가져와.",
+   "rd": "ilsijeok gieoksangsirieyo. iksukan geo ppalli boyeo juseyo. dareun geotdo gajyeowa.",
+   "en": "It's temporary amnesia. Show her familiar stuff quick. Bring more too.",
    "note": "기억상실",
    "tags": [],
    "new": []
@@ -85,9 +85,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "이거… 우리 커플티 사진.",
-   "rd": "igeo… uri keopeulti sajin.",
-   "en": "This… our couple-tee photo.",
+   "ko": "이거 봐. 우리 커플티 사진. 헐 이거라도 기억나야 하는데.",
+   "rd": "igeo bwa. uri keopeulti sajin. heol igeorado gieongnaya haneunde.",
+   "en": "Look at this. Our couple-tee photo. Come on, at least this should ring a bell.",
    "note": "callback",
    "tags": [],
    "new": []
@@ -95,9 +95,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "…모르겠어요.",
-   "rd": "…moreugesseoyo.",
-   "en": "…I don't know.",
+   "ko": "…모르겠어요. 진짜 처음 봐요.",
+   "rd": "…moreugesseoyo. jinjja cheoeum bwayo.",
+   "en": "…I don't know. I've never seen it before, seriously.",
    "note": "모르다",
    "tags": [],
    "new": []
@@ -105,9 +105,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "그럼 이거. 첫눈 오는 날 준 목도리.",
-   "rd": "geureom igeo. cheonnun oneun nal jun mokdori.",
-   "en": "Then this. The scarf I gave you on the first snow.",
+   "ko": "그럼 이거. 첫눈 오는 날 준 목도리. 이거 만져 봐. 기억 안 나?",
+   "rd": "geureom igeo. cheonnun oneun nal jun mokdori. igeo manjyeo bwa. gieok an na?",
+   "en": "Then this. The scarf I gave you on the first snow. Touch it. Still nothing?",
    "note": "callback",
    "tags": [],
    "new": []
@@ -115,9 +115,9 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "……",
-   "rd": "……",
-   "en": "……",
+   "ko": "……이게 뭐예요? 누구 거예요?",
+   "rd": "……ige mwoyeyo? nugu geoyeyo?",
+   "en": "……What's this? Whose is it?",
    "note": "silence",
    "tags": [],
    "new": []
@@ -125,9 +125,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "제발… 「먼저 들어가」 한 거 기억 안 나? 엄마가 창문에서 소리친 거.",
-   "rd": "jebal… 「meonjeo deureoga」 han geo gieok an na? eommaga changmuneseo sorichin geo.",
-   "en": "Please… don't you remember \"you go in first\"? Your mom yelling from the window?",
+   "ko": "제발… 엄마가 창문에서 “먼저 들어가!” 소리친 거 기억 안 나? 그 날 진짜 기억 안 나? 설마?",
+   "rd": "jebal… eommaga changmuneseo “meonjeo deureoga!” sorichin geo gieok an na? geu nal jinjja gieok an na? seolma?",
+   "en": "Please… you don't remember your mom yelling “you go in first” from the window? That day, for real? No way?",
    "note": "callback",
    "tags": [],
    "new": []
@@ -135,9 +135,9 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "…ㅋㅋㅋ 아, 더는 못 참겠다.",
-   "rd": "…ㅋㅋㅋ a, deoneun mot chamgetda.",
-   "en": "…Lolol, ugh, I can't hold it in anymore.",
+   "ko": "ㅋㅋㅋㅋㅋ 아 더는 못 참겠다. 진짜 터질 것 같아.",
+   "rd": "ㅋㅋㅋㅋㅋ a deoneun mot chamgetda. jinjja teojil geot gata.",
+   "en": "Lololol, ugh I can't hold it anymore. I'm actually gonna burst.",
    "note": "Kick: reveal",
    "tags": [],
    "new": []
@@ -145,9 +145,9 @@
   {
    "num": 12,
    "speaker": "A",
-   "ko": "…뭐?",
-   "rd": "…mwo?",
-   "en": "…What?",
+   "ko": "뭐? 헐 뭐야 갑자기? 장난이야?",
+   "rd": "mwo? heol mwoya gapjagi? jangnaniya?",
+   "en": "What? Whoa, what the hell? Is this a joke?",
    "note": "뭐",
    "tags": [],
    "new": []
@@ -155,9 +155,9 @@
   {
    "num": 13,
    "speaker": "B",
-   "ko": "다 기억나. 손목만 삐었어. 의사 선생님이랑 짰어.",
-   "rd": "da gieongna. sonmongman ppieosseo. uisa seonsaengnimirang jjasseo.",
-   "en": "I remember everything. I just sprained my wrist. I planned it with the doctor.",
+   "ko": "다 기억나. 손목만 삐었어. 의사 선생님이랑 간호사들이랑 다 짰어. 너 반응 보느라고 여기까지 왔어.",
+   "rd": "da gieongna. sonmongman ppieosseo. uisa seonsaengnimirang ganhosadeurirang da jjasseo. neo baneung boneurago yeogikkaji wasseo.",
+   "en": "I remember everything. Just sprained my wrist. Me, the doctor, and the nurses all planned it. We came all the way here to see your reaction.",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -165,9 +165,9 @@
   {
    "num": 14,
    "speaker": "C",
-   "ko": "(의사) 죄송합니다. 드라마 팬이라서요.",
-   "rd": "(uisa) joesonghamnida. deurama paeniraseoyo.",
-   "en": "(doctor) Sorry. I'm a drama fan.",
+   "ko": "죄송합니다. 드라마 팬이라서요. 저도 모르게 과하게… 다른 환자들도 보고 있어요.",
+   "rd": "joesonghamnida. deurama paeniraseoyo. jeodo moreuge gwahage… dareun hwanjadeuldo bogo isseoyo.",
+   "en": "Sorry. I'm a drama fan. It got a bit much… other patients are watching too.",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -175,9 +175,9 @@
   {
    "num": 15,
    "speaker": "A",
-   "ko": "아 몰라… 진짜 심장 멈출 뻔했어.",
-   "rd": "a molla… jinjja simjang meomchul ppeonhaesseo.",
-   "en": "Ugh… my heart almost stopped.",
+   "ko": "헐 진짜? 나 지금 심장 쿵 떨어지는 거 느껴져. 장난 너무 심하잖아.",
+   "rd": "heol jinjja? na jigeum simjang kung tteoreojineun geo neukkyeojyeo. jangnan neomu simhajana.",
+   "en": "Whoa for real? I can feel my heart dropping right now. The prank was way too much.",
    "note": "멈추다",
    "tags": [],
    "new": []
@@ -185,13 +185,18 @@
   {
    "num": 16,
    "speaker": "B",
-   "ko": "근데 네가 기억 하나하나 다 말해 줘서… 다시 반했어.",
-   "rd": "geunde nega gieok hanahana da malhae jwoseo… dasi banhaesseo.",
-   "en": "But you listed every memory one by one… I fell for you all over again.",
+   "ko": "근데 네가 우리 추억 하나하나 다 꺼내 주는 거 보니까… 또 반했어. 뭐야 나.",
+   "rd": "geunde nega uri chueok hanahana da kkeonae juneun geo bonikka… tto banhaesseo. mwoya na.",
+   "en": "But watching you pull out every single one of our memories… I fell for you all over again. What's wrong with me.",
    "note": "punchline 심쿵",
    "tags": [],
    "new": []
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r3_love_b7_grok_rewrite.md [K374]",
+  "final": "",
+  "shorten": "data/review/r3_love_b7_grok_tail.md [K425] 턴 [15, 16]"
+ }
 }

@@ -1,0 +1,3 @@
+4 A: 응 하트 열 개나 눌렀고 단톡 터져서 사촌들까지 들어왔어 / Yeah she hit like ten hearts and the group chat blew up so the cousins jumped in too / 두 문장 합치고 단톡방·지금·다 줄임
+7 A: 엄마가 다 말해서 할머니 전화까지 언제 소개하냐고 난리야 / Mom told everyone and grandma's calling asking when I'll introduce you, total chaos / 두 문장 합치고 지금·와서·주냐고 줄임
+8 B: …됐어 질투 취소 다음 주 갈게 엄마도 가고 싶대 / …Forget it. Jealousy canceled. I'll go next week, mom wants to come too / 문장 합치고 우리·같이·는데 줄임

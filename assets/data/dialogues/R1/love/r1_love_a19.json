@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "오늘 고마워. 잘 가.",
-   "rd": "oneul gomawo. jal ga.",
-   "en": "Thanks for today. Get home safe.",
+   "ko": "오늘 진짜 고마웠어. 잘 가~",
+   "rd": "oneul jinjja gomawosseo. jal ga~",
+   "en": "Thanks so much for today. Take care~",
    "note": "잘 가",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "응. 너도 잘 자.",
-   "rd": "eung. neodo jal ja.",
-   "en": "Yeah. Sleep well.",
+   "ko": "어, 응. 너도 잘 자.",
+   "rd": "eo, eung. neodo jal ja.",
+   "en": "Uh, yeah. You sleep well too.",
    "note": "잘 자",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "누나! 이 형 누구야?",
-   "rd": "nuna! i hyeong nuguya?",
-   "en": "Sis! Who's this guy?",
+   "ko": "누나!! 야 이 형 누구야?",
+   "rd": "nuna!! ya i hyeong nuguya?",
+   "en": "Sis!! Hey, who’s this guy?",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "들어가! 빨리!",
-   "rd": "deureoga! ppalli!",
-   "en": "Go inside! Now!",
+   "ko": "아 들어가! 빨리 들어가!!",
+   "rd": "a deureoga! ppalli deureoga!!",
+   "en": "Ah, go inside! Hurry up and get in!!",
    "note": "들어가",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "형, 우리 누나 좋아해요?",
-   "rd": "hyeong, uri nuna joahaeyo?",
-   "en": "Hey, do you like my sister?",
+   "ko": "형아, 우리 누나 좋아하냐?? 헐 대박",
+   "rd": "hyeonga, uri nuna joahanya?? heol daebak",
+   "en": "Hyung, do you like my sister or what?? Whoa, no way",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "어… 응.",
-   "rd": "eo… eung.",
-   "en": "Uh… yeah.",
+   "ko": "어… 뭐야 갑자기. 그런 거 아니야.",
+   "rd": "eo… mwoya gapjagi. geureon geo aniya.",
+   "en": "Uh… what? Out of nowhere. It's not like that.",
    "note": "honest",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "엄마!! 누나 남자친구 왔어!!",
-   "rd": "eomma!! nuna namjachingu wasseo!!",
-   "en": "Mom!! Sis's boyfriend is here!!",
+   "ko": "엄마!! 누나가 남자 데려왔어!! 빨리 나와!!",
+   "rd": "eomma!! nunaga namja deryeowasseo!! ppalli nawa!!",
+   "en": "Mom!! Sis brought a guy!! Come out, quick!!",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -103,13 +103,18 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "아 몰라… 그냥 들어와. 밥 먹고 가.",
-   "rd": "a molla… geunyang deureowa. bap meokgo ga.",
-   "en": "Ugh… just come in. Eat dinner.",
+   "ko": "아 진짜… 됐어 그냥 들어와. 밥 먹고 가.",
+   "rd": "a jinjja… dwaesseo geunyang deureowa. bap meokgo ga.",
+   "en": "Ugh, seriously… whatever, just come in. Have some food.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a19_grok_rewrite.md [K342]",
+  "final": "",
+  "shorten": "data/review/r1_love_a19_grok_tail.md [K421] 턴 [6, 7, 8]"
+ }
 }

@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "계란 까 봐.",
-   "rd": "gyeran kka bwa.",
-   "en": "Peel the egg.",
+   "ko": "이거 이렇게 까 봐.",
+   "rd": "igeo ireoke kka bwa.",
+   "en": "Try peeling this like this.",
    "note": "까다 = peel",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "어떻게?",
-   "rd": "eotteoke?",
-   "en": "How?",
+   "ko": "어떻게 해야 되는데?",
+   "rd": "eotteoke haeya doeneunde?",
+   "en": "How am I supposed to do it?",
    "note": "어떻게",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "머리에 쿵!",
-   "rd": "meorie kung!",
-   "en": "Bonk it on your head!",
+   "ko": "이마에 탁 쳐.",
+   "rd": "imae tak chyeo.",
+   "en": "Tap it on your forehead.",
    "note": "머리",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "머리에? 진짜?",
-   "rd": "meorie? jinjja?",
-   "en": "On my head? Really?",
+   "ko": "이마에? 진짜?",
+   "rd": "imae? jinjja?",
+   "en": "On my forehead? For real?",
    "note": "진짜?",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "응. 드라마에서 다 그래.",
-   "rd": "eung. deuramaeseo da geurae.",
-   "en": "Yeah. Everyone does it in dramas.",
+   "ko": "응. 드라마에서 하잖아.",
+   "rd": "eung. deuramaeseo hajana.",
+   "en": "Yeah. They do it in dramas, you know.",
    "note": "드라마",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "(쿵) 아야! …안 깨졌어.",
-   "rd": "(kung) aya! …an kkaejyeosseo.",
-   "en": "(bonk) Ouch! …It didn't crack.",
+   "ko": "(탁) 아야, 이마가 약해.",
+   "rd": "(tak) aya, imaga yakae.",
+   "en": "(tap) Ouch, my forehead is weak.",
    "note": "Kick",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋ 살살 해.",
-   "rd": "ㅋㅋ salsal hae.",
-   "en": "Lol gently.",
+   "ko": "ㅋㅋ 살살 해야지.",
+   "rd": "ㅋㅋ salsal haeyaji.",
+   "en": "Lol, go easy.",
    "note": "살살",
    "tags": [],
    "new": []
@@ -102,12 +102,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "이마가 계란보다 약해.",
-   "rd": "imaga gyeranboda yakae.",
-   "en": "My forehead is weaker than the egg.",
+   "ko": "그래도 맛있어.",
+   "rd": "geuraedo masisseo.",
+   "en": "Still tastes good.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_travel_a8_grok_rewrite.md [K323]",
+  "final": ""
+ }
 }

@@ -1,0 +1,2 @@
+15 A: 진짜야? 케이크 바닥에 다 있는데 그래도 최고라고? / For real? Cake's all over the floor and you're still calling it the best?
+16 B: 응. 그래서 더 기억에 남는 거야. 이런 생일은 다시 안 올 거 같거든. / Yeah. That's exactly why it'll stick with me. A birthday like this probably won't come around again.

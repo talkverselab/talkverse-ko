@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "선배 오늘 팀장님 기분 안 좋으세요?",
-   "rd": "seonbae oneul timjangnim gibun an joeuseyo?",
-   "en": "Jiho, is the boss in a bad mood today?",
+   "ko": "지호 선배 오늘 팀장님 표정 좀 안 좋아 보이셨어요?",
+   "rd": "jiho seonbae oneul timjangnim pyojeong jom an joa boisyeosseoyo?",
+   "en": "Jiho, the team lead looked a bit off today?",
    "note": "기분",
    "tags": [],
    "new": [],
@@ -45,9 +45,9 @@
   {
    "num": 2,
    "speaker": "C",
-   "ko": "(팀 단톡) 기분 좋은데요?",
-   "rd": "(tim dantok) gibun joeundeyo?",
-   "en": "(team chat) I'm in a fine mood?",
+   "ko": "(팀 단톡) 저 괜찮은데요? 왜 그런 말 해요?",
+   "rd": "(tim dantok) jeo gwaenchaneundeyo? wae geureon mal haeyo?",
+   "en": "(team chat) I'm fine? Why are you saying that?",
    "note": "Kick: wrong chat — chaos",
    "tags": [],
    "new": [],
@@ -57,9 +57,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "헐… 죄송합니다!!",
-   "rd": "heol… joesonghamnida!!",
-   "en": "Whoa… I'm so sorry!!",
+   "ko": "헐… 죄송합니다 팀장님!! 제가 착각했나 봐요",
+   "rd": "heol… joesonghamnida timjangnim!! jega chakgakaenna bwayo",
+   "en": "Whoa… sorry boss!! I must've been mistaken",
    "note": "죄송",
    "tags": [],
    "new": [],
@@ -69,9 +69,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "(개인톡) ㅋㅋㅋㅋ 큰일 났다",
-   "rd": "(gaeintok) ㅋㅋㅋㅋ keunil natda",
-   "en": "(DM) Lolololol big trouble",
+   "ko": "(개인톡) ㅋㅋㅋ 아 큰일 났다 단톡에 다 떴어",
+   "rd": "(gaeintok) ㅋㅋㅋ a keunil natda dantoge da tteosseo",
+   "en": "(DM) lolol oh man this is bad, it all showed up in the group chat",
    "note": "큰일",
    "tags": [],
    "new": [],
@@ -81,9 +81,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "(팀 단톡) 괜찮아요. 근데 왜 그렇게 생각했어요?",
-   "rd": "(tim dantok) gwaenchanayo. geunde wae geureoke saenggakaesseoyo?",
-   "en": "(team chat) It's okay. But why did you think so?",
+   "ko": "(팀 단톡) 괜찮아요 근데 왜 그렇게 생각했어요? 다들 궁금하대요",
+   "rd": "(tim dantok) gwaenchanayo geunde wae geureoke saenggakaesseoyo? dadeul gunggeumhadaeyo",
+   "en": "(team chat) It's okay but why'd you think that? Everyone's curious too",
    "note": "question",
    "tags": [],
    "new": [],
@@ -93,9 +93,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "…회의 때 한숨 쉬셔서요",
-   "rd": "…hoeui ttae hansum swisyeoseoyo",
-   "en": "…Because you sighed in the meeting",
+   "ko": "아까 회의에서 한숨 소리 크게 들려서요…",
+   "rd": "akka hoeuieseo hansum sori keuge deullyeoseoyo…",
+   "en": "Earlier in the meeting I heard you sigh really loud…",
    "note": "honest",
    "tags": [],
    "new": [],
@@ -105,9 +105,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "(팀 단톡) 그건 점심 메뉴 고민이었어요 ㅋㅋ",
-   "rd": "(tim dantok) geugeon jeomsim menyu gominieosseoyo ㅋㅋ",
-   "en": "(team chat) I was thinking about lunch lol",
+   "ko": "(팀 단톡) 아 그건 점심 고민이었어요 ㅋㅋ 채팅창이 난리네요",
+   "rd": "(tim dantok) a geugeon jeomsim gominieosseoyo ㅋㅋ chaetingchangi nallineyo",
+   "en": "(team chat) Oh that was me stressing over lunch lol the chat's going wild",
    "note": "reveal",
    "tags": [],
    "new": [],
@@ -117,14 +117,19 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "넵!!! 다행입니다!!!",
-   "rd": "nep!!! dahaengimnida!!!",
-   "en": "Yes!!! What a relief!!!",
+   "ko": "넵!!! 아 다행이다 근데 채팅이 점점 터져요",
+   "rd": "nep!!! a dahaengida geunde chaetingi jeomjeom teojyeoyo",
+   "en": "Yes!!! Oh thank god… but the chat is exploding more",
    "note": "punchline",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "14:03"
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_work_c3_grok_rewrite.md [K359]",
+  "final": "",
+  "shorten": "data/review/r1_work_c3_grok_short.md [K421] 턴 [4, 5, 7, 8]"
+ }
 }

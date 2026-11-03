@@ -1,0 +1,1 @@
+8 C: 근데 강북 가고 짐이 너무 많아요. / But I'm going to Gangbuk and I've got way too much luggage. / "나는" 생략

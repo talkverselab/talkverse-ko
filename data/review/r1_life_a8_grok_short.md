@@ -1,0 +1,3 @@
+1 A: 저기요, 오늘 이사 왔는데 와이파이 비번 알 수 있을까요? / Excuse me, I moved in today—can I get the WiFi password? / “저”와 “좀”을 빼고 비밀번호를 비번으로 줄임
+4 C: (옆옆집) 어? 그 비밀번호? 우리 집도 그거예요! 지금 다 쓰는데! / (next door) Huh? That password? Ours is that too! Everyone’s using it now! / “우리 집 사람들도”를 “다”로 줄이고 중복된 우리 집 표현을 덜어 냄
+6 B: 이 층 다 써요. 예전에 누가 만들어 공유한 거예요. / Everyone on this floor uses it. Someone made it a while back and shared it. / “사람들”과 “놓고 다 같이”를 덜어 내고 두 문장을 짧게 다듬음

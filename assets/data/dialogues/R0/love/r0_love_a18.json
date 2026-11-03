@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "저 우산 없어요.",
-   "rd": "jeo usan eopseoyo.",
-   "en": "I don't have an umbrella.",
+   "ko": "아 우산 안 가져왔어요.",
+   "rd": "a usan an gajyeowasseoyo.",
+   "en": "Oh I didn't bring an umbrella.",
    "note": "우산",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "아… 같이 쓸래요?",
-   "rd": "a… gachi sseullaeyo?",
-   "en": "Oh… want to share?",
+   "ko": "같이 써도 괜찮아요?",
+   "rd": "gachi sseodo gwaenchanayo?",
+   "en": "Is it okay if we share?",
    "note": "같이",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "네! 근데…",
-   "rd": "ne! geunde…",
-   "en": "Yes! But…",
+   "ko": "네! 근데 사실…",
+   "rd": "ne! geunde sasil…",
+   "en": "Yes! But actually…",
    "note": "근데",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "네?",
-   "rd": "ne?",
-   "en": "Yes?",
+   "ko": "진짜요?",
+   "rd": "jinjjayo?",
+   "en": "Really?",
    "note": "네",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "사실 가방에 있어요.",
-   "rd": "sasil gabange isseoyo.",
-   "en": "Actually there's one in my bag.",
+   "ko": "가방에 우산 있는데 일부러요.",
+   "rd": "gabange usan inneunde ilbureoyo.",
+   "en": "It's in my bag, on purpose.",
    "note": "심쿵: she lied",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "헐… 그럼 왜요?",
-   "rd": "heol… geureom waeyo?",
-   "en": "Whoa… then why?",
+   "ko": "헐… 왜 그래요?",
+   "rd": "heol… wae geuraeyo?",
+   "en": "Whoa… why?",
    "note": "왜요",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "이게 더 좋아서요.",
-   "rd": "ige deo joaseoyo.",
-   "en": "Because this is better.",
+   "ko": "이게 더 좋아서요…",
+   "rd": "ige deo joaseoyo…",
+   "en": "Because this is better…",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -102,9 +102,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…비 그치지 마라.",
-   "rd": "…bi geuchiji mara.",
-   "en": "…Rain, don't stop.",
+   "ko": "비 그치지 마요.",
+   "rd": "bi geuchiji mayo.",
+   "en": "Rain, don't stop.",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -112,5 +112,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a18_grok_rewrite.md [K310]",
+  "final": ""
+ }
 }

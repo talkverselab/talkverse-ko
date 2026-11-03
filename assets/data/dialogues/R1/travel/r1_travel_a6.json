@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "어묵 하나 주세요.",
-   "rd": "eomuk hana juseyo.",
-   "en": "One fishcake, please.",
+   "ko": "어묵 하나만 살게요.",
+   "rd": "eomuk hanaman salgeyo.",
+   "en": "I'll just take one fishcake.",
    "note": "어묵",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "국물도 먹어라. 추운데.",
-   "rd": "gungmuldo meogeora. chuunde.",
-   "en": "Have some broth too. It's cold.",
+   "ko": "국물 한 모금 해. 오늘 춥잖아.",
+   "rd": "gungmul han mogeum hae. oneul chupjana.",
+   "en": "Take a sip of the broth. It's cold today.",
    "note": "국물",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "감사합니다! 맛있어요.",
-   "rd": "gamsahamnida! masisseoyo.",
-   "en": "Thank you! Delicious.",
+   "ko": "감사합니다. 맛있어요!",
+   "rd": "gamsahamnida. masisseoyo!",
+   "en": "Thank you. It's delicious!",
    "note": "맛있다",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "한 컵 더 무라.",
-   "rd": "han keop deo mura.",
-   "en": "Have another cup.",
+   "ko": "한 컵 더 마셔. ...너 때문에 따뜻해지네. 아, 춥다고.",
+   "rd": "han keop deo masyeo. ...neo ttaemune ttatteuthaejine. a, chupdago.",
+   "en": "Have another cup. ...Because of you it feels warm. Ah, it's cold.",
    "note": "dialect 무라 = 먹어라",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "진짜요? 공짜예요?",
-   "rd": "jinjjayo? gongjjayeyo?",
-   "en": "Really? Free?",
+   "ko": "진짜요? 공짜로요?",
+   "rd": "jinjjayo? gongjjaroyo?",
+   "en": "Really? For free?",
    "note": "공짜",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "국물은 공짜다. 정이다, 정.",
-   "rd": "gungmureun gongjjada. jeongida, jeong.",
-   "en": "Broth is free. That's jeong.",
+   "ko": "국물은 공짜야. ...그냥 더 주고 싶었을 뿐.",
+   "rd": "gungmureun gongjjaya. ...geunyang deo jugo sipeosseul ppun.",
+   "en": "Broth is free. ...I just wanted to give more.",
    "note": "정",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "…세 컵째예요.",
-   "rd": "…se keopjjaeyeyo.",
-   "en": "…That's my third cup.",
+   "ko": "저... 세 컵째예요.",
+   "rd": "jeo... se keopjjaeyeyo.",
+   "en": "I... this is the third cup.",
    "note": "Kick",
    "tags": [],
    "new": []
@@ -102,12 +102,16 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "배부르면 어묵 하나 더 사 가라.",
-   "rd": "baebureumyeon eomuk hana deo sa gara.",
-   "en": "If you're full, buy one more fishcake.",
+   "ko": "배부르면 어묵 하나 더 사. ...또 와.",
+   "rd": "baebureumyeon eomuk hana deo sa. ...tto wa.",
+   "en": "If you're full, buy one more fishcake. ...Come again.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_travel_a6_grok_rewrite.md [K354]",
+  "final": ""
+ }
 }

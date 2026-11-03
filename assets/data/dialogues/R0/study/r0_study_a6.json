@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "{name} 씨, 써 보세요. 「사랑」.",
-   "rd": "{name} ssi, sseo boseyo. 「sarang」.",
-   "en": "{name}, write it. \"Love.\"",
+   "ko": "{name} 씨, 나와서 사랑 써 봐요.",
+   "rd": "{name} ssi, nawaseo sarang sseo bwayo.",
+   "en": "{name}, come out and write \"love\".",
    "note": "써 보다",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "네! (쓱쓱) 사람.",
-   "rd": "ne! (sseuksseuk) saram.",
-   "en": "Yes! (scribble) \"Person.\"",
+   "ko": "네! 사람 썼어요.",
+   "rd": "ne! saram sseosseoyo.",
+   "en": "Yes! I wrote \"person\".",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "ㅋㅋ 「사람」 말고 「사랑」.",
-   "rd": "ㅋㅋ 「saram」 malgo 「sarang」.",
-   "en": "Haha, not \"person,\" \"love.\"",
+   "ko": "ㅋㅋ 사람 말고 사랑이에요.",
+   "rd": "ㅋㅋ saram malgo sarangieyo.",
+   "en": "Haha, not \"person\", it's \"love\".",
    "note": "말고",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "아… ㅁ이랑 ㅇ이 비슷해요.",
-   "rd": "a… ㅁirang ㅇi biseuthaeyo.",
-   "en": "Ah… ㅁ and ㅇ look similar.",
+   "ko": "아 ㅋㅋ 비슷해서 잘 모르겠어요.",
+   "rd": "a ㅋㅋ biseuthaeseo jal moreugesseoyo.",
+   "en": "Ah haha, they're similar so I don't really know.",
    "note": "비슷하다",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "네. 근데 아주 달라요.",
-   "rd": "ne. geunde aju dallayo.",
-   "en": "Yes. But very different.",
+   "ko": "네, 근데 완전 달라요.",
+   "rd": "ne, geunde wanjeon dallayo.",
+   "en": "Yes, but they're totally different.",
    "note": "다르다",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "사람이 없으면 사랑도 없어요.",
-   "rd": "sarami eopseumyeon sarangdo eopseoyo.",
-   "en": "Without people, there's no love.",
+   "ko": "사람 없으면 사랑도 없죠.",
+   "rd": "saram eopseumyeon sarangdo eopjyo.",
+   "en": "No people, no love, right?",
    "note": "Kick: wisdom",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "…오, 멋있는 말이네요.",
-   "rd": "…o, meosinneun marineyo.",
-   "en": "…Oh, that's a nice line.",
+   "ko": "오… 그 말 괜찮은데요.",
+   "rd": "o… geu mal gwaenchaneundeyo.",
+   "en": "Oh… that line's pretty good.",
    "note": "멋있다",
    "tags": [],
    "new": []
@@ -102,12 +102,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "감사합니다. 우연이에요.",
-   "rd": "gamsahamnida. uyeonieyo.",
-   "en": "Thank you. By accident.",
+   "ko": "감사합니다, 그냥 나온 말이에요.",
+   "rd": "gamsahamnida, geunyang naon marieyo.",
+   "en": "Thank you, it just came out.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_study_a6_grok_rewrite.md [K318]",
+  "final": ""
+ }
 }

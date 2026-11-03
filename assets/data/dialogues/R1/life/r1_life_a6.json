@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "집들이 선물! 휴지!",
-   "rd": "jipdeuri seonmul! hyuji!",
-   "en": "Housewarming gift! Toilet paper!",
+   "ko": "야 {name}, 집들이 선물! 휴지 잔뜩 들고 왔어~",
+   "rd": "ya {name}, jipdeuri seonmul! hyuji jantteuk deulgo wasseo~",
+   "en": "Hey {name}, housewarming gift! Brought a ton of toilet paper~",
    "note": "휴지",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "C",
-   "ko": "나는 세제!",
-   "rd": "naneun seje!",
-   "en": "Detergent from me!",
+   "ko": "나는 세제! 거품 팡팡 터지는 걸로 가져왔지",
+   "rd": "naneun seje! geopum pangpang teojineun geollo gajyeowatji",
+   "en": "Detergent from me! The kind that bubbles like crazy",
    "note": "세제",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "고마워! 근데 왜 다 휴지랑 세제야?",
-   "rd": "gomawo! geunde wae da hyujirang sejeya?",
-   "en": "Thanks! But why is it all toilet paper and detergent?",
+   "ko": "고마워! 근데 왜 둘 다 휴지랑 세제만 가져왔어?",
+   "rd": "gomawo! geunde wae dul da hyujirang sejeman gajyeowasseo?",
+   "en": "Thanks! But why did both of you just bring toilet paper and detergent?",
    "note": "왜",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "한국 집들이 국룰이야.",
-   "rd": "hanguk jipdeuri gungnuriya.",
-   "en": "It's the Korean housewarming rule.",
+   "ko": "아 한국 집들이 국룰이야 안 가져오면 진짜 안 끝나",
+   "rd": "a hanguk jipdeuri gungnuriya an gajyeoomyeon jinjja an kkeunna",
+   "en": "Ah, Korean housewarming rule—if you don’t bring it, it literally doesn’t end",
    "note": "국룰",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "진짜? 무슨 뜻이 있어?",
-   "rd": "jinjja? museun tteusi isseo?",
-   "en": "Really? Is there a meaning?",
+   "ko": "진짜? 무슨 뜻이 있는 거야?",
+   "rd": "jinjja? museun tteusi inneun geoya?",
+   "en": "Really? Is there a meaning behind it?",
    "note": "뜻",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "휴지처럼 잘 풀리고, 거품처럼 돈 불어나라고.",
-   "rd": "hyujicheoreom jal pulligo, geopumcheoreom don bureonarago.",
-   "en": "Things unroll smoothly like tissue, money grows like bubbles.",
+   "ko": "휴지처럼 잘 풀리고, 거품처럼 돈도 팡팡 불어나라고",
+   "rd": "hyujicheoreom jal pulligo, geopumcheoreom dondo pangpang bureonarago",
+   "en": "So things unroll smoothly like tissue, and money multiplies like bubbles",
    "note": "meaning",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "헐, 멋있다. 그럼 나 부자 되겠네.",
-   "rd": "heol, meositda. geureom na buja doegenne.",
-   "en": "Whoa, nice. Then I'll get rich.",
+   "ko": "헐, 대박이다. 그럼 나 진짜 부자 되겠네",
+   "rd": "heol, daebagida. geureom na jinjja buja doegenne",
+   "en": "Whoa, that’s crazy. Then I’m actually gonna get rich",
    "note": "부자",
    "tags": [],
    "new": []
@@ -103,12 +103,17 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "그전에 휴지 30롤 어디 둬?",
-   "rd": "geujeone hyuji 30rol eodi dwo?",
-   "en": "First, where will you put 30 rolls?",
+   "ko": "그전에 휴지 30롤은 어디다 둘 건데? 원룸인데",
+   "rd": "geujeone hyuji 30roreun eodida dul geonde? wolluminde",
+   "en": "First, where are you even putting 30 rolls? It’s a studio",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_life_a6_grok_rewrite.md [K335]",
+  "final": "",
+  "shorten": "data/review/r1_life_a6_grok_short.md [K408] 턴 [4]"
+ }
 }

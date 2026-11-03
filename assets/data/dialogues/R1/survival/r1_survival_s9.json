@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "통장 만들려고요.",
-   "rd": "tongjang mandeullyeogoyo.",
-   "en": "I'd like to open an account.",
+   "ko": "저기요, 통장 하나 만들러 왔는데요.",
+   "rd": "jeogiyo, tongjang hana mandeulleo wanneundeyo.",
+   "en": "Excuse me, I came to open a bank account.",
    "note": "통장",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "번호표 뽑아 주세요.",
-   "rd": "beonhopyo ppoba juseyo.",
-   "en": "Please take a number.",
+   "ko": "네, 번호표부터 뽑아 주시겠어요?",
+   "rd": "ne, beonhopyobuteo ppoba jusigesseoyo?",
+   "en": "Yes, could you take a number first?",
    "note": "번호표",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "287번… 지금 몇 번이에요?",
-   "rd": "287beon… jigeum myeot beonieyo?",
-   "en": "287… what number are we on?",
+   "ko": "287번 받았어요… 지금 몇 번까지 불렀어요?",
+   "rd": "287beon badasseoyo… jigeum myeot beonkkaji bulleosseoyo?",
+   "en": "Got 287… up to what number have you called?",
    "note": "몇 번",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "152번이요.",
-   "rd": "152beoniyo.",
-   "en": "152.",
+   "ko": "152번까지인데요. 근데 갑자기 단체로 사람들이 몰려와서 엄청 밀릴 거예요.",
+   "rd": "152beonkkajiindeyo. geunde gapjagi danchero saramdeuri mollyeowaseo eomcheong millil geoyeyo.",
+   "en": "We're on 152. But a big group just showed up so it's gonna get backed up forever.",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "…잠깐만요, 점심 먹고 올게요.",
-   "rd": "…jamkkanmanyo, jeomsim meokgo olgeyo.",
-   "en": "…I'll come back after lunch.",
+   "ko": "네… 감사합니다. 잠깐만요, 점심 먹고 다시 올게요.",
+   "rd": "ne… gamsahamnida. jamkkanmanyo, jeomsim meokgo dasi olgeyo.",
+   "en": "Yeah… thanks. Wait a sec, I'll grab lunch and come back.",
    "note": "점심",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "(점심 후) 287번 손님!",
-   "rd": "(jeomsim hu) 287beon sonnim!",
-   "en": "(after lunch) Customer 287!",
+   "ko": "(점심 후) 287번 손님! 어디 계세요? 또 안 오시네.",
+   "rd": "(jeomsim hu) 287beon sonnim! eodi gyeseyo? tto an osine.",
+   "en": "(after lunch) Customer 287! Where are you? Not showing up again.",
    "note": "Kick: timing",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "잠깐만요! 저요!",
-   "rd": "jamkkanmanyo! jeoyo!",
-   "en": "Wait! That's me!",
+   "ko": "잠깐만요! 저예요! 지금 막 왔어요!",
+   "rd": "jamkkanmanyo! jeoyeyo! jigeum mak wasseoyo!",
+   "en": "Wait! It's me! I just got here!",
    "note": "저요",
    "tags": [],
    "new": []
@@ -103,12 +103,17 @@
   {
    "num": 8,
    "speaker": "C",
-   "ko": "방금 부르고 지나갔어요. 다시 뽑으세요.",
-   "rd": "banggeum bureugo jinagasseoyo. dasi ppobeuseyo.",
-   "en": "We just called and moved on. Take a new number.",
+   "ko": "방금 부르고 넘어갔는데 기계까지 고장 나서 다시 뽑으셔야 해요.",
+   "rd": "banggeum bureugo neomeoganneunde gigyekkaji gojang naseo dasi ppobeusyeoya haeyo.",
+   "en": "Just called and moved on, but the machine’s broken too so you gotta take a new number.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_survival_s9_grok_rewrite.md [K353]",
+  "final": "",
+  "shorten": "data/review/r1_survival_s9_grok_short.md [K417] 턴 [8]"
+ }
 }

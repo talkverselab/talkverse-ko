@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "헐 나 팬사인회 당첨됐어!!",
-   "rd": "heol na paensainhoe dangcheomdwaesseo!!",
-   "en": "Whoa I won a fansign spot!!",
+   "ko": "헐 나 진짜 태오 팬싸 당첨됐어!! 완전 운 좋음 ㅋㅋ",
+   "rd": "heol na jinjja taeo paenssa dangcheomdwaesseo!! wanjeon un joeum ㅋㅋ",
+   "en": "Whoa I actually won the Taeo fansign!! Super lucky lol",
    "note": "당첨",
    "tags": [],
    "new": []
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "대박! 언제야?",
-   "rd": "daebak! eonjeya?",
-   "en": "Awesome! When?",
+   "ko": "진짜? 언제야?",
+   "rd": "jinjja? eonjeya?",
+   "en": "For real? When is it?",
    "note": "언제",
    "tags": [],
    "new": []
@@ -54,9 +54,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "다음 주 화요일 2시.",
-   "rd": "daeum ju hwayoil 2si.",
-   "en": "Next Tuesday at 2.",
+   "ko": "다음 주 화요일 2시야. 아 기대돼서 잠 안 올 것 같아",
+   "rd": "daeum ju hwayoil 2siya. a gidaedwaeseo jam an ol geot gata",
+   "en": "Next Tuesday at 2. I'm so hyped I don't think I can sleep",
    "note": "날짜",
    "tags": [],
    "new": []
@@ -64,9 +64,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "…그날 너 기말고사잖아.",
-   "rd": "…geunal neo gimalgosajana.",
-   "en": "…That's your final exam day.",
+   "ko": "어… 그날 너 기말고사 있는 날 아니야?",
+   "rd": "eo… geunal neo gimalgosa inneun nal aniya?",
+   "en": "Um… isn't that your final exam day?",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -74,9 +74,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "…헐. 시험 몇 시야?",
-   "rd": "…heol. siheom myeot siya?",
-   "en": "…Whoa. What time is the exam?",
+   "ko": "헐 진짜? 시험 몇 시부터야?",
+   "rd": "heol jinjja? siheom myeot sibuteoya?",
+   "en": "Whoa for real? What time does the exam start?",
    "note": "몇 시",
    "tags": [],
    "new": []
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "1시부터 3시.",
-   "rd": "1sibuteo 3si.",
-   "en": "1 to 3.",
+   "ko": "1시부터 3시까지야.",
+   "rd": "1sibuteo 3sikkajiya.",
+   "en": "From 1 to 3.",
    "note": "시간",
    "tags": [],
    "new": []
@@ -94,9 +94,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "아 몰라… 시험 30분 만에 내고 뛰어갈게.",
-   "rd": "a molla… siheom 30bun mane naego ttwieogalge.",
-   "en": "Ugh… I'll finish in 30 minutes and run.",
+   "ko": "아 몰라… 30분만 풀고 바로 뛰어갈게. 늦으면 큰일나",
+   "rd": "a molla… 30bunman pulgo baro ttwieogalge. neujeumyeon keunilla",
+   "en": "Ugh whatever… I'll do 30 minutes and just run. If I'm late it's bad",
    "note": "Kick: chaos plan",
    "tags": [],
    "new": []
@@ -104,9 +104,9 @@
   {
    "num": 8,
    "speaker": "C",
-   "ko": "(교수님) 이번 시험은 늦게 내면 감점입니다. 일찍 내는 건 자유예요.",
-   "rd": "(gyosunim) ibeon siheomeun neutge naemyeon gamjeomimnida. iljjik naeneun geon jayuyeyo.",
-   "en": "(professor) Late submissions lose points. Leaving early is up to you.",
+   "ko": "이번 시험은 늦게 내면 감점이에요. 일찍 내는 건 자유인데, 나가면 다시 못 들어와요.",
+   "rd": "ibeon siheomeun neutge naemyeon gamjeomieyo. iljjik naeneun geon jayuinde, nagamyeon dasi mot deureowayo.",
+   "en": "Late submissions lose points. Leaving early is fine, but once you leave you can't come back in.",
    "note": "reveal",
    "tags": [],
    "new": []
@@ -114,9 +114,9 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "봤지? 일찍 내는 건 자유래.",
-   "rd": "bwatji? iljjik naeneun geon jayurae.",
-   "en": "See? Leaving early is allowed.",
+   "ko": "헐 그럼 일찍 내고 바로 튀면 되는 거네! 2시까지 딱이야.",
+   "rd": "heol geureom iljjik naego baro twimyeon doeneun geone! 2sikkaji ttagiya.",
+   "en": "Whoa so I can just turn it in early and bounce! Perfect timing for 2.",
    "note": "logic",
    "tags": [],
    "new": []
@@ -124,9 +124,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "점수는?",
-   "rd": "jeomsuneun?",
-   "en": "And your score?",
+   "ko": "근데 점수는 어떡해? 감점되면 어쩌려고.",
+   "rd": "geunde jeomsuneun eotteokae? gamjeomdoemyeon eojjeoryeogo.",
+   "en": "But what about your grade? What if you lose points.",
    "note": "점수",
    "tags": [],
    "new": []
@@ -134,9 +134,9 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "태오 사인이 A+야.",
-   "rd": "taeo saini A+ya.",
-   "en": "Taeo's autograph is my A+.",
+   "ko": "태오 사인 받는 게 내 A+야 ㅋㅋ 점수는 나중에.",
+   "rd": "taeo sain banneun ge nae A+ya ㅋㅋ jeomsuneun najunge.",
+   "en": "Getting Taeo's autograph is my A+ lol. Grade can wait.",
    "note": "joke",
    "tags": [],
    "new": []
@@ -144,12 +144,17 @@
   {
    "num": 12,
    "speaker": "A",
-   "ko": "그니까 공부는 오늘 밤에 해.",
-   "rd": "geunikka gongbuneun oneul bame hae.",
-   "en": "So study tonight.",
+   "ko": "그니까 오늘 밤은 공부 좀 해. 내일 후회하지 말고.",
+   "rd": "geunikka oneul bameun gongbu jom hae. naeil huhoehaji malgo.",
+   "en": "So study a bit tonight. Don't regret it tomorrow.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_culture_b5_grok_rewrite.md [K360]",
+  "final": "",
+  "shorten": "data/review/r2_culture_b5_grok_tail.md [K422] 턴 [9, 10, 11, 12]"
+ }
 }

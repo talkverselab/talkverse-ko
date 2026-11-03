@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "안녕! MBTI 뭐야?",
-   "rd": "annyeong! MBTI mwoya?",
-   "en": "Hi! What's your MBTI?",
+   "ko": "야 안녕, MBTI 뭐야?",
+   "rd": "ya annyeong, MBTI mwoya?",
+   "en": "Hey hi, what's your MBTI?",
    "note": "MBTI",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "이름 먼저 말할게. {name}.",
-   "rd": "ireum meonjeo malhalge. {name}.",
-   "en": "Let me say my name first. {name}.",
+   "ko": "이름부터. {name}.",
+   "rd": "ireumbuteo. {name}.",
+   "en": "Name first. {name}.",
    "note": "이름",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "ㅋㅋ 알아. MBTI는?",
-   "rd": "ㅋㅋ ara. MBTIneun?",
-   "en": "Lol I know. MBTI?",
+   "ko": "ㅋㅋ 알어. 그래서?",
+   "rd": "ㅋㅋ areo. geuraeseo?",
+   "en": "lol I know. So?",
    "note": "MBTI",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "몰라. 해 본 적 없어.",
-   "rd": "molla. hae bon jeok eopseo.",
-   "en": "Don't know. Never took it.",
+   "ko": "몰라. 한 번도 안 해봤어.",
+   "rd": "molla. han beondo an haebwasseo.",
+   "en": "Dunno. Never tried it once.",
    "note": "몰라",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "헐… 그럼 지금 해!",
-   "rd": "heol… geureom jigeum hae!",
-   "en": "Whoa… then do it now!",
+   "ko": "헐 대박… 지금 해봐.",
+   "rd": "heol daebak… jigeum haebwa.",
+   "en": "Whoa crazy… do it now.",
    "note": "지금",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "(5분 뒤) …I래.",
-   "rd": "(5bun dwi) …Irae.",
-   "en": "(5 min later) …It says I.",
+   "ko": "(5분 뒤) …I 나왔대.",
+   "rd": "(5bun dwi) …I nawatdae.",
+   "en": "(5 min later) …says I.",
    "note": "Kick",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "에이, 거짓말! 너 완전 E야!",
-   "rd": "ei, geojinmal! neo wanjeon Eya!",
-   "en": "No way, liar! You're totally E!",
+   "ko": "진짜? 너 완전 E잖아.",
+   "rd": "jinjja? neo wanjeon Ejana.",
+   "en": "Really? You’re totally E though.",
    "note": "reveal",
    "tags": [],
    "new": []
@@ -103,12 +103,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…시험이 틀렸나 봐.",
-   "rd": "…siheomi teullyeonna bwa.",
-   "en": "…Maybe the test is wrong.",
+   "ko": "…그럼 틀린 건가.",
+   "rd": "…geureom teullin geonga.",
+   "en": "…then maybe it’s wrong.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_friends_a7_grok_rewrite.md [K304]",
+  "final": ""
+ }
 }

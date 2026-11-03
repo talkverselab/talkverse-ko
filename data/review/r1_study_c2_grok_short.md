@@ -1,0 +1,3 @@
+1 A: (메일) 교수님 안녕하세요 {name}예요 과제 여쭤볼 게 있어요 / (email) Hi Professor, this is {name}. I’ve got something to ask about the assignment. / ‘관련해서 하나 있는데요’를 압축해 긴 소개를 짧게 줄임
+4 C: (카톡) 헐 교수님 채점하다 메일 보시는 거야? 야행성 감시자 / (Kakao) Whoa, is the professor looking at emails while grading? Night-owl watcher. / ‘지금 안 주무시는 거야?’, ‘우리’, ‘바로’, ‘완전’ 등 부가·강조 표현을 덜어내고 핵심 추측과 킥만 남김
+8 A: (카톡) …나 자러 갈게 교수님 내 거 보고 계셔서 긴장돼 / (Kakao) …I’m gonna go to sleep. Nervous ’cause the professor is looking at mine. / ‘지금’과 ‘좀’을 덜어냄

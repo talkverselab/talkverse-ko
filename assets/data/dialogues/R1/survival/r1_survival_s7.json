@@ -88,9 +88,9 @@
   {
    "num": 6,
    "speaker": "E",
-   "ko": "사탕도 있어요!",
-   "rd": "satangdo isseoyo!",
-   "en": "I have candy too!",
+   "ko": "사탕이랑 과자도 있어요!",
+   "rd": "satangirang gwajado isseoyo!",
+   "en": "I have candy and snacks too!",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -119,6 +119,6 @@
  ],
  "review": {
   "grok_rewrite": "data/review/r1_survival_s7_grok_rewrite.md [K222]",
-  "final": "Grok 답이 끊겨 턴 [6] 은 초안 유지"
+  "final": ""
  }
 }

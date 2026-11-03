@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "비행기 3시간 지연이래",
-   "rd": "bihaenggi 3sigan jiyeonirae",
-   "en": "The flight is delayed 3 hours",
+   "ko": "우리 비행기 3시간이나 밀렸대",
+   "rd": "uri bihaenggi 3siganina millyeotdae",
+   "en": "Our flight got delayed like 3 hours",
    "note": "지연",
    "tags": [],
    "new": [],
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "헐 나도 공항인데",
-   "rd": "heol nado gonghanginde",
-   "en": "Whoa I'm at the airport too",
+   "ko": "헐 진짜? 나도 지금 공항 와 있는데",
+   "rd": "heol jinjja? nado jigeum gonghang wa inneunde",
+   "en": "Whoa for real? I'm at the airport right now too",
    "note": "공항",
    "tags": [],
    "new": [],
@@ -56,9 +56,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "어디?",
-   "rd": "eodi?",
-   "en": "Where?",
+   "ko": "너 어디야?",
+   "rd": "neo eodiya?",
+   "en": "Where you at?",
    "note": "어디",
    "tags": [],
    "new": [],
@@ -68,9 +68,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "김포. 너는?",
-   "rd": "gimpo. neoneun?",
-   "en": "Gimpo. You?",
+   "ko": "김포야. 너는 어디 와 있어?",
+   "rd": "gimpoya. neoneun eodi wa isseo?",
+   "en": "Gimpo. Where are you?",
    "note": "김포",
    "tags": [],
    "new": [],
@@ -80,9 +80,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "…나 인천인데?",
-   "rd": "…na incheoninde?",
-   "en": "…I'm at Incheon?",
+   "ko": "엥 나 인천인데…?",
+   "rd": "eng na incheoninde…?",
+   "en": "Huh I'm at Incheon…?",
    "note": "Kick: wrong airport — chaos",
    "tags": [],
    "new": [],
@@ -92,9 +92,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "제주는 김포에서 가!!",
-   "rd": "jejuneun gimpoeseo ga!!",
-   "en": "Jeju flights are from Gimpo!!",
+   "ko": "제주 가려면 김포 출발이야!!",
+   "rd": "jeju garyeomyeon gimpo chulbariya!!",
+   "en": "For Jeju you leave from Gimpo!!",
    "note": "chaos",
    "tags": [],
    "new": [],
@@ -104,9 +104,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "아 몰라 지금 갈게. 3시간 지연 다행이다",
-   "rd": "a molla jigeum galge. 3sigan jiyeon dahaengida",
-   "en": "Ugh, coming now. Lucky it's delayed 3 hours",
+   "ko": "아 몰라 지금 바로 갈게. 지연이라 살았다",
+   "rd": "a molla jigeum baro galge. jiyeonira saratda",
+   "en": "Whatever heading over now. The delay saved me",
    "note": "다행",
    "tags": [],
    "new": [],
@@ -116,14 +116,19 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "ㅋㅋ 지연이 너 살렸네",
-   "rd": "ㅋㅋ jiyeoni neo sallyeonne",
-   "en": "Lol the delay saved you",
+   "ko": "ㅋㅋㅋ 인생 구했네. 친구 둘 있는데 몇 시 와?",
+   "rd": "ㅋㅋㅋ insaeng guhaenne. chingu dul inneunde myeot si wa?",
+   "en": "Lol it saved your life. I'm with two friends, what time you coming?",
    "note": "punchline",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "10:03"
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_travel_c2_grok_rewrite.md [K356]",
+  "final": "",
+  "shorten": "data/review/r1_travel_c2_grok_short.md [K419] 턴 [8]"
+ }
 }

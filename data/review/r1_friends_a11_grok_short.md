@@ -1,0 +1,1 @@
+6 C: (큰 눈덩이 만들며) 둘 다, 저기 애들도 이리 와. / (making a big snowball) Both of you, those kids over there, come here. / 두 문장을 한 문장으로 합치고 ‘와 봐’를 ‘와’로 줄임.

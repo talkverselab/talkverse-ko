@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "어머, 새로 이사 온 학생이죠?",
-   "rd": "eomeo, saero isa on haksaengijyo?",
-   "en": "Oh my, you're the student who just moved in?",
+   "ko": "어머나, 새로 이사 오신 분 맞죠? 어서 오세요.",
+   "rd": "eomeona, saero isa osin bun matjyo? eoseo oseyo.",
+   "en": "Oh my, you're the one who just moved in, right? Welcome.",
    "note": "이사",
    "tags": [],
    "new": []
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "네, 안녕하세요. 1203호예요.",
-   "rd": "ne, annyeonghaseyo. 1203hoyeyo.",
-   "en": "Yes, hello. Unit 1203.",
+   "ko": "네, 안녕하세요. 저 1203호 {name}이에요.",
+   "rd": "ne, annyeonghaseyo. jeo 1203ho {name}ieyo.",
+   "en": "Yes, hello. I'm {name} from 1203.",
    "note": "호",
    "tags": [],
    "new": []
@@ -54,9 +54,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "아, 차 없는 1203호!",
-   "rd": "a, cha eomneun 1203ho!",
-   "en": "Ah, 1203 with no car!",
+   "ko": "아, 차 없는 1203호 맞아요!",
+   "rd": "a, cha eomneun 1203ho majayo!",
+   "en": "Ah, that 1203 without a car, right!",
    "note": "callback",
    "tags": [],
    "new": []
@@ -64,9 +64,9 @@
   {
    "num": 4,
    "speaker": "D",
-   "ko": "와이파이 「iloveyou」 쓰는 집!",
-   "rd": "waipai 「iloveyou」 sseuneun jip!",
-   "en": "The one using \"iloveyou\" Wi-Fi!",
+   "ko": "와이파이 비밀번호 iloveyou 쓰시는 집이죠? 우리 다 알아요.",
+   "rd": "waipai bimilbeonho iloveyou sseusineun jibijyo? uri da arayo.",
+   "en": "The house using \"iloveyou\" for the Wi-Fi password, right? We all know.",
    "note": "callback",
    "tags": [],
    "new": []
@@ -74,9 +74,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "…다들 저를 아세요?",
-   "rd": "…dadeul jeoreul aseyo?",
-   "en": "…Do you all know me?",
+   "ko": "진짜요? 다들 저를 그렇게 잘 아세요?",
+   "rd": "jinjjayo? dadeul jeoreul geureoke jal aseyo?",
+   "en": "Really? You all know me that well?",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "강아지 봐 주는 학생이잖아. 소문났어.",
-   "rd": "gangaji bwa juneun haksaengijana. somunnasseo.",
-   "en": "You're the student who looks after the dog. Word got around.",
+   "ko": "맞아요, 강아지 봐 주시는 학생이라고 소문 다 났어요.",
+   "rd": "majayo, gangaji bwa jusineun haksaengirago somun da nasseoyo.",
+   "en": "Yeah, word got around that you're the student who looks after the dog.",
    "note": "소문",
    "tags": [],
    "new": []
@@ -94,9 +94,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "오늘 안건: 학생 반찬 당번 정하기.",
-   "rd": "oneul angeon: haksaeng banchan dangbeon jeonghagi.",
-   "en": "Today's agenda: deciding who brings the student side dishes.",
+   "ko": "오늘 학생분 반찬 당번인데, 윗집 아랫집 다 가져오기로 했어요.",
+   "rd": "oneul haksaengbun banchan dangbeoninde, witjip araetjip da gajyeoogiro haesseoyo.",
+   "en": "Today's the student's side dish duty, and both upstairs and downstairs already said they'll bring some.",
    "note": "안건",
    "tags": [],
    "new": []
@@ -104,12 +104,17 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…저 반찬 이미 스무 통 있어요.",
-   "rd": "…jeo banchan imi seumu tong isseoyo.",
-   "en": "…I already have twenty containers of side dishes.",
+   "ko": "감사합니다. 근데 저 이미 반찬 스무 통이나 있어요.",
+   "rd": "gamsahamnida. geunde jeo imi banchan seumu tongina isseoyo.",
+   "en": "Thank you. But I already have like twenty containers of side dishes.",
    "note": "punchline callback",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_life_a9_grok_rewrite.md [K338]",
+  "final": "",
+  "shorten": "data/review/r1_life_a9_grok_short.md [K410] 턴 [7]"
+ }
 }

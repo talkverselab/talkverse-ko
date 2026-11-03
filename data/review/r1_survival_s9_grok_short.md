@@ -1,0 +1,1 @@
+8 C: 방금 부르고 넘어갔는데 기계까지 고장 나서 다시 뽑으셔야 해요. / Just called and moved on, but the machine’s broken too so you gotta take a new number. / 두 문장 합치고 “지금 사람들 다 난리예요” 덜어 냄.

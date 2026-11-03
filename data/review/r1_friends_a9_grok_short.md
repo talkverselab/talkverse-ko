@@ -1,0 +1,1 @@
+8 B: 그니까. 부산 가자. 근데 동생이랑 친구 둘, 강아지까지 온대. / Exactly. Let's do Busan. But little bro, two friends, and the dog are coming too. / "그냥"과 "다"를 덜어냄.

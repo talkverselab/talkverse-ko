@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "저기요… 와이파이 비밀번호 있어요?",
-   "rd": "jeogiyo… waipai bimilbeonho isseoyo?",
-   "en": "Excuse me… do you have a Wi-Fi password?",
+   "ko": "저기요, 오늘 이사 왔는데 와이파이 비번 알 수 있을까요?",
+   "rd": "jeogiyo, oneul isa wanneunde waipai bibeon al su isseulkkayo?",
+   "en": "Excuse me, I moved in today—can I get the WiFi password?",
    "note": "비밀번호",
    "tags": [],
    "new": []
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "이사 오셨어요? 「iloveyou」예요.",
-   "rd": "isa osyeosseoyo? 「iloveyou」yeyo.",
-   "en": "Did you just move in? It's \"iloveyou.\"",
+   "ko": "아, 이사 오셨군요. 「iloveyou」예요.",
+   "rd": "a, isa osyeotgunyo. 「iloveyou」yeyo.",
+   "en": "Oh, you moved in. It's \"iloveyou.\"",
    "note": "비밀번호",
    "tags": [],
    "new": []
@@ -54,9 +54,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "네? 아… 감사합니다.",
-   "rd": "ne? a… gamsahamnida.",
-   "en": "Sorry? Oh… thank you.",
+   "ko": "네? 아, 죄송합니다. 감사합니다.",
+   "rd": "ne? a, joesonghamnida. gamsahamnida.",
+   "en": "Huh? Oh, sorry. Thank you.",
    "note": "감사",
    "tags": [],
    "new": []
@@ -64,9 +64,9 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "(옆옆집 문 열며) 우리 것도 그거예요!",
-   "rd": "(yeopyeopjip mun yeolmyeo) uri geotdo geugeoyeyo!",
-   "en": "(the next door opens) Ours is that too!",
+   "ko": "(옆옆집) 어? 그 비밀번호? 우리 집도 그거예요! 다 쓰는데!",
+   "rd": "(yeopyeopjip) eo? geu bimilbeonho? uri jipdo geugeoyeyo! da sseuneunde!",
+   "en": "(next door over) Huh? That password? That's ours too! We all use it!",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -74,9 +74,9 @@
   {
    "num": 5,
    "speaker": "D",
-   "ko": "저희도요!",
-   "rd": "jeohuidoyo!",
-   "en": "Ours too!",
+   "ko": "저희 집도요! 건너편인데 손님들까지 다 그거 써요.",
+   "rd": "jeohui jipdoyo! geonneopyeoninde sonnimdeulkkaji da geugeo sseoyo.",
+   "en": "Ours too! We're across the way and even our guests are using it.",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "이 층 사람들 다 써요. 한 명이 만들었어요.",
-   "rd": "i cheung saramdeul da sseoyo. han myeongi mandeureosseoyo.",
-   "en": "Everyone on this floor uses it. One person set it up.",
+   "ko": "이 층 다 써요. 예전에 누가 만들어 공유한 거예요.",
+   "rd": "i cheung da sseoyo. yejeone nuga mandeureo gongyuhan geoyeyo.",
+   "en": "Everyone on this floor uses it. Someone made it a while back and shared it.",
    "note": "reveal",
    "tags": [],
    "new": []
@@ -94,9 +94,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "누가요?",
-   "rd": "nugayo?",
-   "en": "Who?",
+   "ko": "아 진짜요? 누구예요?",
+   "rd": "a jinjjayo? nuguyeyo?",
+   "en": "Oh really? Who is it?",
    "note": "누가",
    "tags": [],
    "new": []
@@ -104,12 +104,18 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "모르는데… 다들 고마워해요.",
-   "rd": "moreuneunde… dadeul gomawohaeyo.",
-   "en": "Don't know… but everyone's grateful.",
+   "ko": "몰라요… 근데 다들 고마워하니까요. 지금 다른 집에서도 나오고 있어요.",
+   "rd": "mollayo… geunde dadeul gomawohanikkayo. jigeum dareun jibeseodo naogo isseoyo.",
+   "en": "Don't know… but everyone's grateful. People from other units are coming out now too.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_life_a8_grok_rewrite.md [K337]",
+  "final": "",
+  "shorten": "data/review/r1_life_a8_grok_short.md [K409] 턴 [1, 4, 6]",
+  "manual": "턴 4 어절 1개 덜어냄(세션)"
+ }
 }

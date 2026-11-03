@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "C",
-   "ko": "오늘 회식은 아무거나 먹자.",
-   "rd": "oneul hoesigeun amugeona meokja.",
-   "en": "Let's eat anything for the team dinner.",
+   "ko": "오늘 저녁은 그냥 아무거나 먹으면 되지.",
+   "rd": "oneul jeonyeogeun geunyang amugeona meogeumyeon doeji.",
+   "en": "We can just eat whatever for dinner tonight.",
    "note": "아무거나",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "그럼 파스타 어때요?",
-   "rd": "geureom paseuta eottaeyo?",
-   "en": "Then how about pasta?",
+   "ko": "아 그럼 파스타 어때요?",
+   "rd": "a geureom paseuta eottaeyo?",
+   "en": "Oh, then how about pasta?",
    "note": "파스타",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "(속삭이며) 팀장님은 삼겹살이야.",
-   "rd": "(soksagimyeo) timjangnimeun samgyeopsariya.",
-   "en": "(whisper) The boss means samgyeopsal.",
+   "ko": "(속삭이며) 팀장님은 삼겹살 좋아하세요.",
+   "rd": "(soksagimyeo) timjangnimeun samgyeopsal joahaseyo.",
+   "en": "(whispering) The boss likes samgyeopsal.",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "네? 아무거나라고 하셨는데요.",
-   "rd": "ne? amugeonarago hasyeonneundeyo.",
-   "en": "Sorry? He said anything.",
+   "ko": "진짜요? 아무거나라셨는데요.",
+   "rd": "jinjjayo? amugeonarasyeonneundeyo.",
+   "en": "Really? But he said anything.",
    "note": "아무거나",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "팀장님 「아무거나」 = 삼겹살.",
-   "rd": "timjangnim 「amugeona」 = samgyeopsal.",
-   "en": "The boss's \"anything\" = samgyeopsal.",
+   "ko": "팀장님 아무거나는 삼겹살이에요.",
+   "rd": "timjangnim amugeonaneun samgyeopsarieyo.",
+   "en": "The boss’s “anything” means samgyeopsal.",
    "note": "rule",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "…팀장님, 삼겹살 어떠세요?",
-   "rd": "…timjangnim, samgyeopsal eotteoseyo?",
-   "en": "…Boss, how about samgyeopsal?",
+   "ko": "네, 이거 삼겹살 어떠세요?",
+   "rd": "ne, igeo samgyeopsal eotteoseyo?",
+   "en": "Yes, how about this, samgyeopsal?",
    "note": "correction",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "오! {name} 씨 센스 있네!",
-   "rd": "o! {name} ssi senseu inne!",
-   "en": "Oh! {name}, you've got good sense!",
+   "ko": "오, {name} 씨 센스 좋네!",
+   "rd": "o, {name} ssi senseu jonne!",
+   "en": "Oh, {name}, you’ve got good sense!",
    "note": "센스",
    "tags": [],
    "new": []
@@ -103,12 +103,16 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "(속삭이며) 이게 눈치야.",
-   "rd": "(soksagimyeo) ige nunchiya.",
-   "en": "(whisper) That's nunchi.",
+   "ko": "(속삭이며) 이게 바로 눈치예요.",
+   "rd": "(soksagimyeo) ige baro nunchiyeyo.",
+   "en": "(whispering) This is exactly nunchi.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_work_a5_grok_rewrite.md [K357]",
+  "final": ""
+ }
 }

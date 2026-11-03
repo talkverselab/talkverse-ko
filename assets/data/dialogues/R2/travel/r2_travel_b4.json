@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "이제 들어가야 돼.",
-   "rd": "ije deureogaya dwae.",
-   "en": "I have to go in now.",
+   "ko": "이제 진짜 들어가야 해. 더 있으면 나 눈물 날 것 같아.",
+   "rd": "ije jinjja deureogaya hae. deo isseumyeon na nunmul nal geot gata.",
+   "en": "I really have to go in now. Any longer and I might actually cry.",
    "note": "들어가다",
    "tags": [],
    "new": []
@@ -43,8 +43,8 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "응… 잘 다녀와.",
-   "rd": "eung… jal danyeowa.",
+   "ko": "그래… 잘 다녀와.",
+   "rd": "geurae… jal danyeowa.",
    "en": "Yeah… have a good trip.",
    "note": "잘 다녀와",
    "tags": [],
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "울지 마.",
-   "rd": "ulji ma.",
-   "en": "Don't cry.",
+   "ko": "울지 마. 괜찮아. 나도 참고 있으니까.",
+   "rd": "ulji ma. gwaenchana. nado chamgo isseunikka.",
+   "en": "Don’t cry. It’s okay. I’m holding it in too.",
    "note": "울다",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "안 울어. 눈에 뭐 들어갔어.",
-   "rd": "an ureo. nune mwo deureogasseo.",
-   "en": "I'm not crying. Something's in my eye.",
+   "ko": "안 울어. 그냥 눈에 뭐가 들어갔어.",
+   "rd": "an ureo. geunyang nune mwoga deureogasseo.",
+   "en": "I’m not crying. Something just got in my eye.",
    "note": "classic",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "1년이야. 금방 가.",
-   "rd": "1nyeoniya. geumbang ga.",
-   "en": "It's a year. It'll fly by.",
+   "ko": "1년이야. 금방 가. 너도 잘 지내.",
+   "rd": "1nyeoniya. geumbang ga. neodo jal jinae.",
+   "en": "It’s a year. It’ll fly by. You take care too.",
    "note": "금방",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "365일이잖아.",
-   "rd": "365irijana.",
-   "en": "That's 365 days.",
+   "ko": "365일이잖아. 진짜 금방이야?",
+   "rd": "365irijana. jinjja geumbangiya?",
+   "en": "That’s 365 days. Is it really gonna fly by?",
    "note": "숫자",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "매일 영상 통화하자. 시차 있어도.",
-   "rd": "maeil yeongsang tonghwahaja. sicha isseodo.",
-   "en": "Let's video call every day. Even with the time difference.",
+   "ko": "매일 영상 통화하자. 시차 있어도 내가 맞출게.",
+   "rd": "maeil yeongsang tonghwahaja. sicha isseodo naega matchulge.",
+   "en": "Let’s video call every day. I’ll adjust even with the time difference.",
    "note": "시차",
    "tags": [],
    "new": []
@@ -103,9 +103,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "응. 알람 맞출게.",
-   "rd": "eung. allam matchulge.",
-   "en": "Yeah. I'll set an alarm.",
+   "ko": "응. 알람 맞춰 둘게. 잊지 마.",
+   "rd": "eung. allam matchwo dulge. itji ma.",
+   "en": "Yeah. I’ll set an alarm. Don’t forget.",
    "note": "callback 알람",
    "tags": [],
    "new": []
@@ -113,9 +113,9 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "…그리고 이거. 비행기 타고 열어 봐.",
-   "rd": "…geurigo igeo. bihaenggi tago yeoreo bwa.",
-   "en": "…And this. Open it on the plane.",
+   "ko": "…이거. 비행기 타고 열어 봐. 나… 너 보고 싶을 거야.",
+   "rd": "…igeo. bihaenggi tago yeoreo bwa. na… neo bogo sipeul geoya.",
+   "en": "…This. Open it on the plane. I’m… gonna miss you.",
    "note": "심쿵 setup",
    "tags": [],
    "new": []
@@ -123,9 +123,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "이거 내가 너한테 주려던 건데.",
-   "rd": "igeo naega neohante juryeodeon geonde.",
-   "en": "I was going to give this to you.",
+   "ko": "이거 내가 주려던 건데. 너도 준비한 거야?",
+   "rd": "igeo naega juryeodeon geonde. neodo junbihan geoya?",
+   "en": "I was gonna give this to you. You prepared one too?",
    "note": "reveal",
    "tags": [],
    "new": []
@@ -133,9 +133,9 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "ㅋㅋ 똑같은 편지네. 우리 진짜 비슷하다.",
-   "rd": "ㅋㅋ ttokgateun pyeonjine. uri jinjja biseuthada.",
-   "en": "Lol it's the same letter. We're really alike.",
+   "ko": "ㅋㅋ 똑같은 편지네. 진짜? 이거 드라마보다 더하다.",
+   "rd": "ㅋㅋ ttokgateun pyeonjine. jinjja? igeo deuramaboda deohada.",
+   "en": "Lol it’s the same letter. Really? This is more dramatic than a drama.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -143,13 +143,17 @@
   {
    "num": 12,
    "speaker": "A",
-   "ko": "1년 뒤에 여기서 기다릴게.",
-   "rd": "1nyeon dwie yeogiseo gidarilge.",
-   "en": "I'll wait right here in a year.",
+   "ko": "1년 뒤에 여기서 기다릴게. 꼭.",
+   "rd": "1nyeon dwie yeogiseo gidarilge. kkok.",
+   "en": "I’ll wait right here in a year. For sure.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r2_travel_b4_grok_rewrite.md [K370]",
+  "final": ""
+ }
 }

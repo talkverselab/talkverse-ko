@@ -1,0 +1,2 @@
+15 A: 헐 진짜? 나 지금 심장 쿵 떨어지는 거 느껴져. 장난 너무 심하잖아. / Whoa for real? I can feel my heart dropping right now. The prank was way too much.
+16 B: 근데 네가 우리 추억 하나하나 다 꺼내 주는 거 보니까… 또 반했어. 뭐야 나. / But watching you pull out every single one of our memories… I fell for you all over again. What's wrong with me.

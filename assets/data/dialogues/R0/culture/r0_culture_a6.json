@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "자, 탬버린!",
-   "rd": "ja, taembeorin!",
-   "en": "Here, a tambourine!",
+   "ko": "자 이거 신나!",
+   "rd": "ja igeo sinna!",
+   "en": "Here, this is hyped!",
    "note": "탬버린",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "이거 어떻게 해?",
-   "rd": "igeo eotteoke hae?",
-   "en": "How do I use this?",
+   "ko": "어떻게 써?",
+   "rd": "eotteoke sseo?",
+   "en": "How do I use it?",
    "note": "어떻게",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "그냥 막 쳐!",
-   "rd": "geunyang mak chyeo!",
-   "en": "Just bang it!",
+   "ko": "세게 막 쳐!",
+   "rd": "sege mak chyeo!",
+   "en": "Just bang it hard!",
    "note": "막",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "(쾅쾅쾅) 이렇게?",
-   "rd": "(kwangkwangkwang) ireoke?",
-   "en": "(bang bang bang) Like this?",
+   "ko": "(쾅쾅) 좋아 이렇게?",
+   "rd": "(kwangkwang) joa ireoke?",
+   "en": "(bang bang) This good?",
    "note": "쾅",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "헐, 너무 세!",
-   "rd": "heol, neomu se!",
-   "en": "Whoa, too hard!",
+   "ko": "헐 세다 진짜!",
+   "rd": "heol seda jinjja!",
+   "en": "Whoa, hard for real!",
    "note": "세다",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "(옆방에서) 조용히 해요!",
-   "rd": "(yeopbangeseo) joyonghi haeyo!",
-   "en": "(next room) Keep it down!",
+   "ko": "야 소리 너무!",
+   "rd": "ya sori neomu!",
+   "en": "Hey, too loud!",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "…탬버린 금지야?",
-   "rd": "…taembeorin geumjiya?",
-   "en": "…Is the tambourine banned?",
+   "ko": "헐 안 되는 거야?",
+   "rd": "heol an doeneun geoya?",
+   "en": "Whoa, not allowed?",
    "note": "금지",
    "tags": [],
    "new": []
@@ -103,12 +103,16 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "아니. 박수로 해.",
-   "rd": "ani. baksuro hae.",
-   "en": "No. Clap instead.",
+   "ko": "아니 다들 박수!",
+   "rd": "ani dadeul baksu!",
+   "en": "No, everyone clap!",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_culture_a6_grok_rewrite.md [K301]",
+  "final": ""
+ }
 }

@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "추워요.",
-   "rd": "chuwoyo.",
-   "en": "It's cold.",
+   "ko": "오늘 진짜 춥네요. 손이 시려요.",
+   "rd": "oneul jinjja chumneyo. soni siryeoyo.",
+   "en": "It's really cold today. My hands are freezing.",
    "note": "춥다",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "장갑 빌려줄까요?",
-   "rd": "janggap billyeojulkkayo?",
-   "en": "Want to borrow my gloves?",
+   "ko": "그럼 장갑 빌려드릴까요?",
+   "rd": "geureom janggap billyeodeurilkkayo?",
+   "en": "Then want me to lend you my gloves?",
    "note": "장갑",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "아니요. 장갑 말고…",
-   "rd": "aniyo. janggap malgo…",
-   "en": "No. Not gloves…",
+   "ko": "장갑은 괜찮아요. 더 따뜻한 거 있으면 좋을 텐데…",
+   "rd": "janggabeun gwaenchanayo. deo ttatteuthan geo isseumyeon joeul tende…",
+   "en": "Gloves are fine. If you had something warmer…",
    "note": "말고",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "네?",
-   "rd": "ne?",
-   "en": "Sorry?",
+   "ko": "진짜요? 제 코트라도 빌려드릴까요?",
+   "rd": "jinjjayo? je koteurado billyeodeurilkkayo?",
+   "en": "Really? Want me to lend you my coat then?",
    "note": "네",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "(손을 잡는다) 이거요.",
-   "rd": "(soneul jamneunda) igeoyo.",
-   "en": "(takes his hand) This.",
+   "ko": "(손을 슬쩍 잡으며) 아니, 이거요.",
+   "rd": "(soneul seuljjeok jabeumyeo) ani, igeoyo.",
+   "en": "(casually taking the hand) No, this.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "…괜찮아요?",
-   "rd": "…gwaenchanayo?",
-   "en": "…Is this okay?",
+   "ko": "…이렇게 해도 괜찮아요?",
+   "rd": "…ireoke haedo gwaenchanayo?",
+   "en": "…Is this okay, doing it like this?",
    "note": "괜찮아요",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "제가 물어봐야죠.",
-   "rd": "jega mureobwayajyo.",
-   "en": "I should be the one asking.",
+   "ko": "제가 물어봐야 하는 거잖아요…",
+   "rd": "jega mureobwaya haneun geojanayo…",
+   "en": "I should be the one asking, right…",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -102,9 +102,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "좋아요. 많이.",
-   "rd": "joayo. mani.",
-   "en": "It's good. Very.",
+   "ko": "좋아요. 너무 좋아요.",
+   "rd": "joayo. neomu joayo.",
+   "en": "I like it. I really like it.",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -112,5 +112,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a22_grok_rewrite.md [K345]",
+  "final": ""
+ }
 }

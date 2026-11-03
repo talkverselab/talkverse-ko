@@ -35,9 +35,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "(속삭이며) 민준아, 풍선 아직도 다 안 불었잖아. 유진이 7시쯤 온다며, 지금 이 속도면 절대 안 돼.",
-   "rd": "(soksagimyeo) minjuna, pungseon ajikdo da an bureotjana. yujini 7sijjeum ondamyeo, jigeum i sokdomyeon jeoldae an dwae.",
-   "en": "Minjun, the balloons still aren't all blown up. Yujin said she's coming around 7, there's no way we'll make it at this pace.",
+   "ko": "야 민준아, 풍선 아직도 반밖에 안 불었잖아. 유진이 한 시간이나 일찍 온다는데 이 페이스면 진짜 안 돼.",
+   "rd": "ya minjuna, pungseon ajikdo banbakke an bureotjana. yujini han siganina iljjik ondaneunde i peiseumyeon jinjja an dwae.",
+   "en": "Hey Minjun, the balloons are still only half done. Yujin's coming a whole hour early, at this pace we're screwed.",
    "note": "풍선 = balloon",
    "tags": [],
    "new": [],
@@ -46,9 +46,9 @@
   {
    "num": 2,
    "speaker": "C",
-   "ko": "지금 막 6시 넘었거든. 케이크는 냉장고에 잘 넣어뒀으니까 그거만 신경 쓰지 마.",
-   "rd": "jigeum mak 6si neomeotgeodeun. keikeuneun naengjanggoe jal neoeodwosseunikka geugeoman singyeong sseuji ma.",
-   "en": "It's just past 6. The cake's safely in the fridge, so don't worry about that.",
+   "ko": "지금 막 6시 넘었거든. 케이크는 냉장고에 잘 넣어뒀으니까 그거 걱정은 접고 풍선이나 빨리 불어.",
+   "rd": "jigeum mak 6si neomeotgeodeun. keikeuneun naengjanggoe jal neoeodwosseunikka geugeo geokjeongeun jeopgo pungseonina ppalli bureo.",
+   "en": "It's just past 6. Cake's safely in the fridge so drop the worry and just blow the balloons faster.",
    "note": "냉장고 = fridge",
    "tags": [],
    "new": []
@@ -56,9 +56,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "좋아. 그럼 불만 끄고 저쪽 커튼 뒤에 숨어 있으면 되는 거지? 소리 내지 말고.",
-   "rd": "joa. geureom bulman kkeugo jeojjok keoteun dwie sumeo isseumyeon doeneun geoji? sori naeji malgo.",
-   "en": "Okay. So we just turn the lights off and hide behind that curtain, right? No noise.",
+   "ko": "응. 그럼 불 다 끄고 저쪽 커튼 뒤에 숨으면 되는 거지? 숨소리도 내지 마.",
+   "rd": "eung. geureom bul da kkeugo jeojjok keoteun dwie sumeumyeon doeneun geoji? sumsorido naeji ma.",
+   "en": "Yeah. So we turn all the lights off and hide behind that curtain, right? Don't even breathe.",
    "note": "숨다 = hide",
    "tags": [],
    "new": [],
@@ -67,9 +67,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "(문 열리며) 어? 나 왔어~ 일 생각보다 일찍 끝나서 바로 왔지.",
-   "rd": "(mun yeollimyeo) eo? na wasseo~ il saenggakboda iljjik kkeunnaseo baro watji.",
-   "en": "Huh? I'm here~ Work finished earlier than I thought so I came straight over.",
+   "ko": "(문 열리며) 어? 나 왔어. 일 생각보다 일찍 끝나서 바로 달려왔지.",
+   "rd": "(mun yeollimyeo) eo? na wasseo. il saenggakboda iljjik kkeunnaseo baro dallyeowatji.",
+   "en": "Huh? I'm here. Work ended earlier than I thought so I ran straight over.",
    "note": "일찍 = early",
    "tags": [],
    "new": []
@@ -77,9 +77,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "헐… 잠깐만! 들어오지 마, 그냥 거기서 잠깐만 기다려!",
-   "rd": "heol… jamkkanman! deureooji ma, geunyang geogiseo jamkkanman gidaryeo!",
-   "en": "Whoa… wait! Don't come in, just wait there for a sec!",
+   "ko": "헐… 잠깐만! 들어오지 마, 그냥 거기서 잠깐만 서 있어 봐!",
+   "rd": "heol… jamkkanman! deureooji ma, geunyang geogiseo jamkkanman seo isseo bwa!",
+   "en": "Whoa… wait! Don't come in, just stand there for a sec!",
    "note": "들어오다 = come in",
    "tags": [],
    "new": [],
@@ -88,9 +88,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "왜 그래? 무슨 소리야 이게? (펑! 펑! 또 펑!) 뭐가 계속 터지는데?",
-   "rd": "wae geurae? museun soriya ige? (peong! peong! tto peong!) mwoga gyesok teojineunde?",
-   "en": "Why? What's that sound? (pop! pop! another pop!) What's keep bursting?",
+   "ko": "왜 이래? 뭐야 이 소리? (펑! 펑! 펑펑펑!) 풍선이 왜 이렇게 연쇄로 터지는데?",
+   "rd": "wae irae? mwoya i sori? (peong! peong! peongpeongpeong!) pungseoni wae ireoke yeonswaero teojineunde?",
+   "en": "What's going on? What's that sound? (pop! pop! pop-pop-pop!) Why are the balloons exploding in a chain like this?",
    "note": "Kick: balloon pops — chaos begins",
    "tags": [],
    "new": []
@@ -98,9 +98,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "아, 풍선 터졌다! 케이크, 케이크!",
-   "rd": "a, pungseon teojyeotda! keikeu, keikeu!",
-   "en": "Ah, a balloon popped! The cake, the cake!",
+   "ko": "아 씨, 풍선 다 터졌어! 케이크 빨리 잡아, 미끄러지고 있어!",
+   "rd": "a ssi, pungseon da teojyeosseo! keikeu ppalli jaba, mikkeureojigo isseo!",
+   "en": "Damn, all the balloons popped! Quick grab the cake, it's sliding!",
    "note": "터지다 = burst",
    "tags": [],
    "new": [],
@@ -109,9 +109,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "(쿵) …케이크 떨어졌어.",
-   "rd": "(kung) …keikeu tteoreojyeosseo.",
-   "en": "(thud) …The cake fell.",
+   "ko": "(쿵, 또 쿵) …케이크 바닥으로 갔어. 컵들도 다 넘어졌고 크림 사방에 튀었어.",
+   "rd": "(kung, tto kung) …keikeu badageuro gasseo. keopdeuldo da neomeojyeotgo keurim sabange twieosseo.",
+   "en": "(thud, another thud) …The cake went to the floor. The cups all tipped over and cream's everywhere.",
    "note": "떨어지다 = fall",
    "tags": [],
    "new": []
@@ -119,9 +119,9 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "…설마 이거 다 나 때문에?",
-   "rd": "…seolma igeo da na ttaemune?",
-   "en": "…Don't tell me this is all for me?",
+   "ko": "…설마 이 난장판이 다 나 때문에 한 거야?",
+   "rd": "…seolma i nanjangpani da na ttaemune han geoya?",
+   "en": "…Don't tell me this whole mess is because of me?",
    "note": "설마 = don't tell me",
    "tags": [],
    "new": [],
@@ -130,9 +130,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "아 몰라… 서프라이즈였는데 다 망했어.",
-   "rd": "a molla… seopeuraijeuyeonneunde da manghaesseo.",
-   "en": "Ugh… it was a surprise and it's all ruined.",
+   "ko": "아 몰라… 서프라이즈 하려고 했는데 완전 대참사 났어.",
+   "rd": "a molla… seopeuraijeu haryeogo haenneunde wanjeon daechamsa nasseo.",
+   "en": "Ugh I don't know… we were trying to surprise you and it's a total disaster.",
    "note": "망하다 = be ruined",
    "tags": [],
    "new": []
@@ -140,9 +140,9 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "망하긴. 케이크 위에 크림만 좀 찌그러졌네.",
-   "rd": "manghagin. keikeu wie keurimman jom jjigeureojyeonne.",
-   "en": "Ruined? Just a little cream got squashed.",
+   "ko": "대참사긴. 크림만 좀 퍼진 거지, 아직 먹을 만해.",
+   "rd": "daechamsagin. keurimman jom peojin geoji, ajik meogeul manhae.",
+   "en": "Disaster? Just some cream spread out, still edible.",
    "note": "찌그러지다 = be dented",
    "tags": [],
    "new": [],
@@ -151,9 +151,9 @@
   {
    "num": 12,
    "speaker": "C",
-   "ko": "촛불은 살아 있어! 빨리 노래!",
-   "rd": "chotbureun sara isseo! ppalli norae!",
-   "en": "The candles survived! Quick, the song!",
+   "ko": "촛불은 안 꺼졌어! 빨리 노래! 그리고 밖에서 누가 계속 벨 누르고 있어, 누구야?",
+   "rd": "chotbureun an kkeojyeosseo! ppalli norae! geurigo bakkeseo nuga gyesok bel nureugo isseo, nuguya?",
+   "en": "The candles didn't go out! Quick, the song! And someone's keep ringing the doorbell outside, who is it?",
    "note": "촛불 = candle",
    "tags": [],
    "new": []
@@ -161,9 +161,9 @@
   {
    "num": 13,
    "speaker": "A",
-   "ko": "생일 축하합니다… 망한 파티지만…",
-   "rd": "saengil chukahamnida… manghan patijiman…",
-   "en": "Happy birthday to you… even though the party's a mess…",
+   "ko": "생일 축하합니다… 바닥에 케이크 있고 문 밖에도 사람 있는데…",
+   "rd": "saengil chukahamnida… badage keikeu itgo mun bakkedo saram inneunde…",
+   "en": "Happy birthday… cake on the floor and people outside too…",
    "note": "sung",
    "tags": [],
    "new": [],
@@ -172,9 +172,9 @@
   {
    "num": 14,
    "speaker": "B",
-   "ko": "그니까. 근데 제일 좋은 생일이야.",
-   "rd": "geunikka. geunde jeil joeun saengiriya.",
-   "en": "Right. But it's my best birthday.",
+   "ko": "그니까. 근데 이게 내 인생 최고의 생일이야.",
+   "rd": "geunikka. geunde ige nae insaeng choegoui saengiriya.",
+   "en": "Exactly. But this is the best birthday of my life.",
    "note": "제일 = the best",
    "tags": [],
    "new": []
@@ -182,9 +182,9 @@
   {
    "num": 15,
    "speaker": "A",
-   "ko": "진짜? 바닥에 케이크 있는데?",
-   "rd": "jinjja? badage keikeu inneunde?",
-   "en": "Really? There's cake on the floor.",
+   "ko": "진짜야? 케이크 바닥에 다 있는데 그래도 최고라고?",
+   "rd": "jinjjaya? keikeu badage da inneunde geuraedo choegorago?",
+   "en": "For real? Cake's all over the floor and you're still calling it the best?",
    "note": "바닥 = floor",
    "tags": [],
    "new": [],
@@ -193,9 +193,9 @@
   {
    "num": 16,
    "speaker": "B",
-   "ko": "응. 그래서 기억에 남을 거야.",
-   "rd": "eung. geuraeseo gieoge nameul geoya.",
-   "en": "Yep. That's why I'll remember it.",
+   "ko": "응. 그래서 더 기억에 남는 거야. 이런 생일은 다시 안 올 거 같거든.",
+   "rd": "eung. geuraeseo deo gieoge namneun geoya. ireon saengireun dasi an ol geo gatgeodeun.",
+   "en": "Yeah. That's exactly why it'll stick with me. A birthday like this probably won't come around again.",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -203,7 +203,8 @@
  ],
  "learner_gender": "M",
  "review": {
-  "grok_rewrite": "data/review/r3_love_b5_grok_rewrite.md [K170]",
-  "final": "Grok 답이 끊겨 턴 [7, 8, 9, 10, 11, 12, 13, 14, 15, 16] 은 초안 유지"
+  "grok_rewrite": "data/review/r3_love_b5_grok_rewrite.md [K377]",
+  "final": "",
+  "shorten": "data/review/r3_love_b5_grok_tail.md [K424] 턴 [15, 16]"
  }
 }

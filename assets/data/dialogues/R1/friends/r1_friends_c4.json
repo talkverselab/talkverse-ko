@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "[짤] ㅋㅋㅋㅋ",
-   "rd": "[jjal] ㅋㅋㅋㅋ",
-   "en": "[meme] lolololol",
+   "ko": "[짤] 야 이거 봐라 ㅋㅋㅋㅋ 표정 봐",
+   "rd": "[jjal] ya igeo bwara ㅋㅋㅋㅋ pyojeong bwa",
+   "en": "[meme] hey look at this lolol check the face",
    "note": "짤",
    "tags": [],
    "new": [],
@@ -46,8 +46,8 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "헐 그거 나야??",
-   "rd": "heol geugeo naya??",
+   "ko": "헐 이게 나야??",
+   "rd": "heol ige naya??",
    "en": "Whoa is that me??",
    "note": "나",
    "tags": [],
@@ -58,9 +58,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "ㅋㅋㅋ 표정 미쳤다",
-   "rd": "ㅋㅋㅋ pyojeong michyeotda",
-   "en": "Lol your face is insane",
+   "ko": "ㅋㅋㅋ 얼굴 진짜 터졌다",
+   "rd": "ㅋㅋㅋ eolgul jinjja teojyeotda",
+   "en": "Lol the face is seriously cracked",
    "note": "표정",
    "tags": [],
    "new": [],
@@ -70,9 +70,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "지워!! 당장!!",
-   "rd": "jiwo!! dangjang!!",
-   "en": "Delete it!! Now!!",
+   "ko": "지워 빨리!! 지금 당장!!",
+   "rd": "jiwo ppalli!! jigeum dangjang!!",
+   "en": "Delete it fast!! Right now!!",
    "note": "지우다",
    "tags": [],
    "new": [],
@@ -82,9 +82,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "이미 학과 단톡에 올렸어",
-   "rd": "imi hakgwa dantoge ollyeosseo",
-   "en": "Already posted it in the department chat",
+   "ko": "학과 단톡에 이미 올렸는데 지금 난리 남",
+   "rd": "hakgwa dantoge imi ollyeonneunde jigeum nalli nam",
+   "en": "Already posted it in the dept chat and it's going crazy right now",
    "note": "Kick: chaos",
    "tags": [],
    "new": [],
@@ -94,9 +94,9 @@
   {
    "num": 6,
    "speaker": "D",
-   "ko": "(학과 단톡) ㅋㅋㅋ 이거 누구예요?",
-   "rd": "(hakgwa dantok) ㅋㅋㅋ igeo nuguyeyo?",
-   "en": "(dept chat) Lolol who is this?",
+   "ko": "(학과 단톡) 누구야 ㅋㅋ 이거 완전 웃기네",
+   "rd": "(hakgwa dantok) nuguya ㅋㅋ igeo wanjeon utgine",
+   "en": "(dept chat) Who is this lol this is so funny",
    "note": "spreading",
    "tags": [],
    "new": [],
@@ -106,9 +106,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "아 몰라 나 학교 안 가",
-   "rd": "a molla na hakgyo an ga",
-   "en": "Ugh, I'm not going to school",
+   "ko": "아 몰라 나 오늘 학교 절대 안 가 진짜",
+   "rd": "a molla na oneul hakgyo jeoldae an ga jinjja",
+   "en": "Ugh whatever I'm definitely not going to school today",
    "note": "결심",
    "tags": [],
    "new": [],
@@ -118,14 +118,18 @@
   {
    "num": 8,
    "speaker": "C",
-   "ko": "근데 좋아요 200개 ㅋㅋ",
-   "rd": "geunde joayo 200gae ㅋㅋ",
-   "en": "But it has 200 likes lol",
+   "ko": "근데 좋아요 500개 넘고 다른 과에도 퍼지고 있어 ㅋㅋ",
+   "rd": "geunde joayo 500gae neomgo dareun gwaedo peojigo isseo ㅋㅋ",
+   "en": "But it has over 500 likes and it's spreading to other departments lol",
    "note": "punchline",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "20:03"
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_friends_c4_grok_rewrite.md [K380]",
+  "final": ""
+ }
 }

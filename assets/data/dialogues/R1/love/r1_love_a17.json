@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "(마이크) 유진아 생일 축하해. 그리고… 좋아해.",
-   "rd": "(maikeu) yujina saengil chukahae. geurigo… joahae.",
-   "en": "(mic) Happy birthday, Yujin. And… I like you.",
+   "ko": "(마이크) 유진아~ 생일 축하해. 그리고… 나 너 좋아해.",
+   "rd": "(maikeu) yujina~ saengil chukahae. geurigo… na neo joahae.",
+   "en": "(mic) Yujin~ Happy birthday. And… I like you.",
    "note": "마이크",
    "tags": [],
    "new": []
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "…어?",
-   "rd": "…eo?",
-   "en": "…Huh?",
+   "ko": "헐… 뭐라고 했어?",
+   "rd": "heol… mworago haesseo?",
+   "en": "Whoa… what did you say?",
    "note": "surprise",
    "tags": [],
    "new": []
@@ -54,9 +54,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "와아아아!",
-   "rd": "waaaa!",
-   "en": "Waaah!",
+   "ko": "와아아아!! 좋아한다!! 좋아한다!!",
+   "rd": "waaaa!! joahanda!! joahanda!!",
+   "en": "Waaaah!! He likes her!! He likes her!!",
    "note": "crowd",
    "tags": [],
    "new": []
@@ -64,9 +64,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "잠깐만! 이거 켜져 있었어?",
-   "rd": "jamkkanman! igeo kyeojyeo isseosseo?",
-   "en": "Wait! Was this on?",
+   "ko": "잠깐만!! 마이크 켜져 있었어??",
+   "rd": "jamkkanman!! maikeu kyeojyeo isseosseo??",
+   "en": "Wait!! Was the mic on??",
    "note": "Kick: mic on — chaos",
    "tags": [],
    "new": []
@@ -74,9 +74,9 @@
   {
    "num": 5,
    "speaker": "D",
-   "ko": "처음부터 켜져 있었어 ㅋㅋ",
-   "rd": "cheoeumbuteo kyeojyeo isseosseo ㅋㅋ",
-   "en": "It was on from the start lol",
+   "ko": "ㅋㅋ 처음부터 켜져 있었지 다들 폰으로 찍고 단톡에 올려.",
+   "rd": "ㅋㅋ cheoeumbuteo kyeojyeo isseotji dadeul poneuro jjikgo dantoge ollyeo.",
+   "en": "Lmao it was on from the start, everyone’s filming with their phones and posting to the group chat.",
    "note": "처음부터",
    "tags": [],
    "new": []
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "아 몰라… 취소!",
-   "rd": "a molla… chwiso!",
-   "en": "Ugh… cancel!",
+   "ko": "아 몰라… 취소!! 꺼!!",
+   "rd": "a molla… chwiso!! kkeo!!",
+   "en": "Ugh I don’t know… cancel!! Turn it off!!",
    "note": "취소",
    "tags": [],
    "new": []
@@ -94,9 +94,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "취소 안 돼.",
-   "rd": "chwiso an dwae.",
-   "en": "No canceling.",
+   "ko": "취소? …안 돼. 이미 다 들었는데.",
+   "rd": "chwiso? …an dwae. imi da deureonneunde.",
+   "en": "Cancel? …No. Everyone already heard.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -104,13 +104,18 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…진짜?",
-   "rd": "…jinjja?",
-   "en": "…Really?",
+   "ko": "…진짜야?",
+   "rd": "…jinjjaya?",
+   "en": "…For real?",
    "note": "punchline",
    "tags": [],
    "new": []
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a17_grok_rewrite.md [K341]",
+  "final": "",
+  "shorten": "data/review/r1_love_a17_grok_short.md [K412] 턴 [5]"
+ }
 }

@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "내 택배 없어졌어 ㅠㅠ",
-   "rd": "nae taekbae eopseojyeosseo ㅠㅠ",
-   "en": "My package disappeared ㅠㅠ",
+   "ko": "택배 왔는데 내 것만 없어 ㅠㅠ 다 뒤져봤는데",
+   "rd": "taekbae wanneunde nae geonman eopseo ㅠㅠ da dwijyeobwanneunde",
+   "en": "My package arrived but mine's the only one missing ㅠㅠ I looked everywhere",
    "note": "택배",
    "tags": [],
    "new": [],
@@ -45,9 +45,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "헐 도둑?",
-   "rd": "heol doduk?",
-   "en": "Whoa a thief?",
+   "ko": "헐 진짜? 누가 집어간 거야",
+   "rd": "heol jinjja? nuga jibeogan geoya",
+   "en": "Whoa for real? Who took it then",
    "note": "도둑",
    "tags": [],
    "new": [],
@@ -57,9 +57,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "CCTV 보자",
-   "rd": "CCTV boja",
-   "en": "Let's check the CCTV",
+   "ko": "일단 CCTV 돌려보자",
+   "rd": "ildan CCTV dollyeoboja",
+   "en": "Let's just check the CCTV first",
    "note": "CCTV",
    "tags": [],
    "new": [],
@@ -69,9 +69,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "[영상] …이거 고양이야",
-   "rd": "[yeongsang] …igeo goyangiya",
-   "en": "[video] …it's a cat",
+   "ko": "[영상] 잠깐 이거 고양이잖아 ㅋㅋ 택배 물고 뛰는 중",
+   "rd": "[yeongsang] jamkkan igeo goyangijana ㅋㅋ taekbae mulgo ttwineun jung",
+   "en": "[video] Wait this is a cat lol It's running off with the package",
    "note": "Kick",
    "tags": [],
    "new": [],
@@ -81,9 +81,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "고양이가 가져갔어??",
-   "rd": "goyangiga gajyeogasseo??",
-   "en": "The cat took it??",
+   "ko": "고양이가 택배 훔친 거임?? 진짜?",
+   "rd": "goyangiga taekbae humchin geoim?? jinjja?",
+   "en": "The cat stole the package?? For real?",
    "note": "chaos",
    "tags": [],
    "new": [],
@@ -93,9 +93,9 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "옆집 고양이. 박스 좋아해",
-   "rd": "yeopjip goyangi. bakseu joahae",
-   "en": "The neighbor's cat. Loves boxes",
+   "ko": "옆집 그 고양이 맞아 박스만 보면 그냥 훔쳐",
+   "rd": "yeopjip geu goyangi maja bakseuman bomyeon geunyang humchyeo",
+   "en": "Yeah that's the neighbor's cat It just steals anything with a box",
    "note": "박스",
    "tags": [],
    "new": [],
@@ -105,9 +105,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "지금 박스 안에서 자고 있대",
-   "rd": "jigeum bakseu aneseo jago itdae",
-   "en": "Apparently it's sleeping in the box now",
+   "ko": "박스 안서 자고 있대 옆집 누나도 택배 없어졌대 ㅋㅋ",
+   "rd": "bakseu anseo jago itdae yeopjip nunado taekbae eopseojyeotdae ㅋㅋ",
+   "en": "It's sleeping in the box now lol the neighbor girl's package is gone too",
    "note": "chaos",
    "tags": [],
    "new": [],
@@ -117,14 +117,19 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…박스는 줄게. 안에 거만 줘",
-   "rd": "…bakseuneun julge. ane geoman jwo",
-   "en": "…It can have the box. Just give me what's inside",
+   "ko": "박스는 그냥 고양이 거고 안에 거만 빨리 빼줘",
+   "rd": "bakseuneun geunyang goyangi geogo ane geoman ppalli ppaejwo",
+   "en": "The box can stay the cat's Just get the stuff inside out quick",
    "note": "punchline",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "18:07"
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_life_c4_grok_rewrite.md [K339]",
+  "final": "",
+  "shorten": "data/review/r1_life_c4_grok_short.md [K411] 턴 [7]"
+ }
 }

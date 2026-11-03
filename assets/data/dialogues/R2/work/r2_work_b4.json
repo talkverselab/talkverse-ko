@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "{name} 씨, 나 이번 달까지만 해.",
-   "rd": "{name} ssi, na ibeon dalkkajiman hae.",
-   "en": "{name}, this month is my last.",
+   "ko": "{name} 씨, 저 이번 달까지만 하고 그만둘게요.",
+   "rd": "{name} ssi, jeo ibeon dalkkajiman hago geumandulgeyo.",
+   "en": "{name}, I'm quitting after this month.",
    "note": "그만두다",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "네? 진짜요? 왜요?",
-   "rd": "ne? jinjjayo? waeyo?",
-   "en": "What? Really? Why?",
+   "ko": "네? 진짜요? 갑자기 왜요?",
+   "rd": "ne? jinjjayo? gapjagi waeyo?",
+   "en": "What? Really? Why all of a sudden?",
    "note": "왜",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "…말 못 해.",
-   "rd": "…mal mot hae.",
-   "en": "…I can't say.",
+   "ko": "…말하기가 좀 그래요.",
+   "rd": "…malhagiga jom geuraeyo.",
+   "en": "…It’s kinda hard to say.",
    "note": "비밀",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "설마 저 때문이에요? 복사 500장?",
-   "rd": "seolma jeo ttaemunieyo? boksa 500jang?",
-   "en": "Don't tell me it's because of me? The 500 copies?",
+   "ko": "설마 저 때문은 아니죠? 그 복사 500장 때문에?",
+   "rd": "seolma jeo ttaemuneun anijyo? geu boksa 500jang ttaemune?",
+   "en": "Don’t tell me it’s because of me? Those 500 copies?",
    "note": "callback",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "ㅋㅋ 아니야.",
-   "rd": "ㅋㅋ aniya.",
-   "en": "Haha, no.",
+   "ko": "ㅋㅋ 아니에요. 그건 진짜 아니에요.",
+   "rd": "ㅋㅋ anieyo. geugeon jinjja anieyo.",
+   "en": "Haha, no. Not that at all.",
    "note": "아니",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "그럼 팀장님 김치찌개 때문이에요?",
-   "rd": "geureom timjangnim gimchijjigae ttaemunieyo?",
-   "en": "Then is it the boss's kimchi stew?",
+   "ko": "그럼 혹시 팀장님 김치찌개 때문에?",
+   "rd": "geureom hoksi timjangnim gimchijjigae ttaemune?",
+   "en": "Then is it maybe the boss’s kimchi stew?",
    "note": "callback",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "그것도 조금. 근데 진짜 이유는…",
-   "rd": "geugeotdo jogeum. geunde jinjja iyuneun…",
-   "en": "A little. But the real reason…",
+   "ko": "그것도 조금 있어요. 근데 진짜 이유는…",
+   "rd": "geugeotdo jogeum isseoyo. geunde jinjja iyuneun…",
+   "en": "A little bit. But the real reason is…",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -103,9 +103,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…",
-   "rd": "…",
-   "en": "…",
+   "ko": "잠깐만요…",
+   "rd": "jamkkanmanyo…",
+   "en": "Hold on a sec…",
    "note": "silence",
    "tags": [],
    "new": []
@@ -113,9 +113,9 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "나 카페 차려. 꿈이었어.",
-   "rd": "na kape charyeo. kkumieosseo.",
-   "en": "I'm opening a café. It was my dream.",
+   "ko": "저 카페 차릴 거예요. 회사 바로 앞에, 팀장님 매일 오시라고.",
+   "rd": "jeo kape charil geoyeyo. hoesa baro ape, timjangnim maeil osirago.",
+   "en": "I’m opening a café. Right in front of the office, so the boss comes every day.",
    "note": "reveal",
    "tags": [],
    "new": []
@@ -123,9 +123,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "헐, 축하해요! 어디요?",
-   "rd": "heol, chukahaeyo! eodiyo?",
-   "en": "Whoa, congrats! Where?",
+   "ko": "헐, 축하해요! 진짜 회사 앞이요?",
+   "rd": "heol, chukahaeyo! jinjja hoesa apiyo?",
+   "en": "Whoa, congrats! Really right in front?",
    "note": "축하",
    "tags": [],
    "new": []
@@ -133,9 +133,9 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "회사 앞. 매일 와.",
-   "rd": "hoesa ap. maeil wa.",
-   "en": "In front of the office. Come every day.",
+   "ko": "네, 회사 바로 앞이에요. 매일 오세요.",
+   "rd": "ne, hoesa baro apieyo. maeil oseyo.",
+   "en": "Yeah, right in front of the office. Come every day.",
    "note": "punchline setup",
    "tags": [],
    "new": []
@@ -143,12 +143,16 @@
   {
    "num": 12,
    "speaker": "A",
-   "ko": "그럼 팀장님도 매일 가시겠네요.",
-   "rd": "geureom timjangnimdo maeil gasigenneyo.",
+   "ko": "그럼 팀장님도 매일 오시겠네요.",
+   "rd": "geureom timjangnimdo maeil osigenneyo.",
    "en": "Then the boss will come every day too.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_work_b4_grok_rewrite.md [K371]",
+  "final": ""
+ }
 }

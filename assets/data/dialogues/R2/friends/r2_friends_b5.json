@@ -35,9 +35,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "누가 첫 곡 할래?",
-   "rd": "nuga cheot gok hallae?",
-   "en": "Who's singing first?",
+   "ko": "야 누가 먼저 할 거야? 다들 눈치만 보고 있네.",
+   "rd": "ya nuga meonjeo hal geoya? dadeul nunchiman bogo inne.",
+   "en": "Who's going first? Everyone's just glancing around.",
    "note": "첫 곡",
    "tags": [],
    "new": []
@@ -45,9 +45,9 @@
   {
    "num": 2,
    "speaker": "C",
-   "ko": "(조용)",
-   "rd": "(joyong)",
-   "en": "(silence)",
+   "ko": "아... 난 좀 이따 할게.",
+   "rd": "a... nan jom itta halge.",
+   "en": "Ah... I'll go later.",
    "note": "silence",
    "tags": [],
    "new": []
@@ -55,9 +55,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "왜 아무도 안 해?",
-   "rd": "wae amudo an hae?",
-   "en": "Why is no one singing?",
+   "ko": "왜 아무도 안 해? 어색해 죽겠네.",
+   "rd": "wae amudo an hae? eosaekae jukgenne.",
+   "en": "Why isn't anyone singing? This is so awkward.",
    "note": "아무도",
    "tags": [],
    "new": []
@@ -65,9 +65,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "첫 곡은 원래 부담돼.",
-   "rd": "cheot gogeun wollae budamdwae.",
-   "en": "The first song is always pressure.",
+   "ko": "첫 곡은 원래 부담되거든. 누가 먼저 하면 되는데.",
+   "rd": "cheot gogeun wollae budamdoegeodeun. nuga meonjeo hamyeon doeneunde.",
+   "en": "The first song is always pressure, you know. Someone just has to start.",
    "note": "부담",
    "tags": [],
    "new": []
@@ -75,9 +75,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "{name}이 해! 외국인 첫 곡!",
-   "rd": "{name}i hae! oegugin cheot gok!",
-   "en": "{name} should go! A foreigner's first song!",
+   "ko": "{name} 해 봐! 외국인 첫 곡 완전 재밌을 듯.",
+   "rd": "{name} hae bwa! oegugin cheot gok wanjeon jaemisseul deut.",
+   "en": "{name}, you do it! A foreigner's first song would be so fun.",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -85,9 +85,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "잠깐만, 나 한국 노래 「생일 축하합니다」밖에 몰라.",
-   "rd": "jamkkanman, na hanguk norae 「saengil chukahamnida」bakke molla.",
-   "en": "Wait, I only know \"Happy Birthday\" in Korean.",
+   "ko": "잠깐만, 나 한국 노래는 생일 축하합니다밖에 몰라.",
+   "rd": "jamkkanman, na hanguk noraeneun saengil chukahamnidabakke molla.",
+   "en": "Wait a sec, the only Korean song I know is Happy Birthday.",
    "note": "callback",
    "tags": [],
    "new": []
@@ -95,9 +95,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "그거 해!",
-   "rd": "geugeo hae!",
-   "en": "Do that!",
+   "ko": "그럼 그거 해! 완전 웃길 거 같아.",
+   "rd": "geureom geugeo hae! wanjeon utgil geo gata.",
+   "en": "Then do that! It's gonna be hilarious.",
    "note": "그거",
    "tags": [],
    "new": []
@@ -105,9 +105,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "(노래) 생일 축하합니다~",
-   "rd": "(norae) saengil chukahamnida~",
-   "en": "(singing) Happy birthday to you~",
+   "ko": "(노래) 생일 축하합니다~ 생일 축하합니다~",
+   "rd": "(norae) saengil chukahamnida~ saengil chukahamnida~",
+   "en": "(singing) Happy birthday to you~ Happy birthday to you~",
    "note": "노래",
    "tags": [],
    "new": []
@@ -115,9 +115,9 @@
   {
    "num": 9,
    "speaker": "D",
-   "ko": "(갑자기) 오늘 내 생일인데?!",
-   "rd": "(gapjagi) oneul nae saengirinde?!",
-   "en": "(suddenly) It's actually my birthday today?!",
+   "ko": "(갑자기 일어나며) 야 잠깐만! 오늘 내 생일인데?! 왜 아무도 축하 안 해!",
+   "rd": "(gapjagi ireonamyeo) ya jamkkanman! oneul nae saengirinde?! wae amudo chuka an hae!",
+   "en": "(suddenly standing up) Hey wait! It's my birthday today?! Why isn't anyone saying anything!",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -125,9 +125,9 @@
   {
    "num": 10,
    "speaker": "C",
-   "ko": "헐 진짜? 케이크 시켜!",
-   "rd": "heol jinjja? keikeu sikyeo!",
-   "en": "Whoa really? Order a cake!",
+   "ko": "헐 진짜? 케이크 시켜! 그리고 다른 애들한테도 다 연락해!",
+   "rd": "heol jinjja? keikeu sikyeo! geurigo dareun aedeulhantedo da yeollakae!",
+   "en": "Whoa really? Order a cake! And call all the other people too!",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -135,9 +135,9 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "노래방이 생일 파티 됐네.",
-   "rd": "noraebangi saengil pati dwaenne.",
-   "en": "The karaoke turned into a birthday party.",
+   "ko": "갑자기 사람들이 막 몰려오네. 노래방이 완전 생일 파티 됐어.",
+   "rd": "gapjagi saramdeuri mak mollyeoone. noraebangi wanjeon saengil pati dwaesseo.",
+   "en": "Suddenly people are pouring in. The karaoke totally became a birthday party.",
    "note": "파티",
    "tags": [],
    "new": []
@@ -145,12 +145,16 @@
   {
    "num": 12,
    "speaker": "A",
-   "ko": "그니까 첫 곡이 중요해.",
-   "rd": "geunikka cheot gogi jungyohae.",
-   "en": "See, the first song matters.",
+   "ko": "그니까 첫 곡이 이렇게 중요해...?",
+   "rd": "geunikka cheot gogi ireoke jungyohae...?",
+   "en": "So the first song is this important...?",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_friends_b5_grok_rewrite.md [K362]",
+  "final": ""
+ }
 }

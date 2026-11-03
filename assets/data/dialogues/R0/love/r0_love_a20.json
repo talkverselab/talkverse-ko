@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "같이 찍자.",
-   "rd": "gachi jjikja.",
-   "en": "Let's take one together.",
+   "ko": "야 셀카 찍을래?",
+   "rd": "ya selka jjigeullae?",
+   "en": "Hey, wanna take a selfie?",
    "note": "찍다",
    "tags": [],
    "new": []
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "괜찮아? 사람 많아.",
-   "rd": "gwaenchana? saram mana.",
-   "en": "Is it okay? Lots of people.",
+   "ko": "사람 많은데 진짜?",
+   "rd": "saram maneunde jinjja?",
+   "en": "There are so many people, for real?",
    "note": "많다",
    "tags": [],
    "new": []
@@ -54,9 +54,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "마스크 쓰면 돼.",
-   "rd": "maseukeu sseumyeon dwae.",
-   "en": "I'll just wear a mask.",
+   "ko": "마스크만 쓰면 돼.",
+   "rd": "maseukeuman sseumyeon dwae.",
+   "en": "Just put on a mask and it's fine.",
    "note": "마스크",
    "tags": [],
    "new": []
@@ -64,9 +64,9 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "어? 저 사람 태오 아니야?",
-   "rd": "eo? jeo saram taeo aniya?",
-   "en": "Huh? Isn't that Taeo?",
+   "ko": "헐 저기 태오 아냐?!",
+   "rd": "heol jeogi taeo anya?!",
+   "en": "Whoa, isn't that Taeo over there?!",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -74,8 +74,8 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "쉿! 하나, 둘…",
-   "rd": "swit! hana, dul…",
+   "ko": "쉿! 하나 둘…",
+   "rd": "swit! hana dul…",
    "en": "Shh! One, two…",
    "note": "쉿",
    "tags": [],
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "D",
-   "ko": "(다 같이) 태오다!!",
-   "rd": "(da gachi) taeoda!!",
-   "en": "(everyone) It's Taeo!!",
+   "ko": "태오다!! 다 모여!!",
+   "rd": "taeoda!! da moyeo!!",
+   "en": "It's Taeo!! Everyone come!!",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -94,9 +94,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "빨리 찍어! 셋!",
-   "rd": "ppalli jjigeo! set!",
-   "en": "Quick, shoot! Three!",
+   "ko": "셋! 빨리 찍어!",
+   "rd": "set! ppalli jjigeo!",
+   "en": "Three! Hurry and take it!",
    "note": "셋",
    "tags": [],
    "new": []
@@ -104,13 +104,17 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "…사진에 백 명 나왔어.",
-   "rd": "…sajine baek myeong nawasseo.",
-   "en": "…A hundred people are in the photo.",
+   "ko": "와… 사진에 백 명 넘게.",
+   "rd": "wa… sajine baek myeong neomge.",
+   "en": "Wow… over a hundred people in the photo.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
  ],
- "learner_gender": "F"
+ "learner_gender": "F",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a20_grok_rewrite.md [K312]",
+  "final": ""
+ }
 }

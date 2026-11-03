@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "저 이 노래 예약했어요.",
-   "rd": "jeo i norae yeyakaesseoyo.",
-   "en": "I reserved this song.",
+   "ko": "어? 이 노래 제가 예약한 건데요.",
+   "rd": "eo? i norae jega yeyakan geondeyo.",
+   "en": "Oh? This is the song I reserved.",
    "note": "예약",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "헐, 저도 그 노래 예약했는데요.",
-   "rd": "heol, jeodo geu norae yeyakaenneundeyo.",
-   "en": "Whoa, I reserved the same song.",
+   "ko": "헐, 저도 똑같은 거 넣었는데요.",
+   "rd": "heol, jeodo ttokgateun geo neoeonneundeyo.",
+   "en": "Whoa, I put in the exact same one too.",
    "note": "저도",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "진짜요? 그럼 같이 불러요.",
-   "rd": "jinjjayo? geureom gachi bulleoyo.",
-   "en": "Really? Then let's sing together.",
+   "ko": "진짜요? 그럼 {name} 씨랑 같이 불러요.",
+   "rd": "jinjjayo? geureom {name} ssirang gachi bulleoyo.",
+   "en": "Really? Then let's sing it together with {name}.",
    "note": "같이",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "듀엣 노래 아닌데요?",
-   "rd": "dyuet norae anindeyo?",
-   "en": "It's not a duet song, though?",
+   "ko": "듀엣곡은 아니잖아요.",
+   "rd": "dyuetgogeun anijanayo.",
+   "en": "But it's not a duet song though.",
    "note": "듀엣",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "지금부터 듀엣이에요.",
-   "rd": "jigeumbuteo dyuesieyo.",
-   "en": "From now on it's a duet.",
+   "ko": "지금부터 듀엣으로 강제할게요.",
+   "rd": "jigeumbuteo dyueseuro gangjehalgeyo.",
+   "en": "I'll just force it into a duet from now on.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "…가사가 「너밖에 없어」인데.",
-   "rd": "…gasaga 「neobakke eopseo」inde.",
-   "en": "…The lyrics are \"you're the only one.\"",
+   "ko": "…가사가 「너밖에 없어」인데…",
+   "rd": "…gasaga 「neobakke eopseo」inde…",
+   "en": "…The lyrics are \"you're the only one\" though…",
    "note": "가사",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "알아요. 그래서 골랐어요.",
-   "rd": "arayo. geuraeseo gollasseoyo.",
-   "en": "I know. That's why I picked it.",
+   "ko": "알아요… 그래서 골랐어요.",
+   "rd": "arayo… geuraeseo gollasseoyo.",
+   "en": "I know… that's why I picked it.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -102,9 +102,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…두 번 불러요.",
-   "rd": "…du beon bulleoyo.",
-   "en": "…Let's sing it twice.",
+   "ko": "…그럼 두 번 불러요.",
+   "rd": "…geureom du beon bulleoyo.",
+   "en": "…Then let's sing it twice.",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -112,5 +112,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a23_grok_rewrite.md [K346]",
+  "final": ""
+ }
 }

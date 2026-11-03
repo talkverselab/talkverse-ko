@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "헐, 불 나갔어!",
-   "rd": "heol, bul nagasseo!",
-   "en": "Whoa, the power's out!",
+   "ko": "헐 갑자기 다 꺼졌어, 뭐야 이거",
+   "rd": "heol gapjagi da kkeojyeosseo, mwoya igeo",
+   "en": "Whoa everything just went out, what the hell",
    "note": "불",
    "tags": [],
    "new": []
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "태풍 때문인가 봐.",
-   "rd": "taepung ttaemuninga bwa.",
-   "en": "Must be the typhoon.",
+   "ko": "태풍 때문에 그런 거 아냐? 바람 진짜 세다",
+   "rd": "taepung ttaemune geureon geo anya? baram jinjja seda",
+   "en": "Must be the typhoon right? Wind's crazy strong",
    "note": "태풍",
    "tags": [],
    "new": []
@@ -54,9 +54,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "촛불 어디 있어?",
-   "rd": "chotbul eodi isseo?",
-   "en": "Where are the candles?",
+   "ko": "촛불 어디다 뒀더라, 서랍 한번 열어봐",
+   "rd": "chotbul eodida dwotdeora, seorap hanbeon yeoreobwa",
+   "en": "Where'd we put the candles, check the drawer",
    "note": "촛불",
    "tags": [],
    "new": []
@@ -64,9 +64,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "폰 라이트 켤게.",
-   "rd": "pon raiteu kyeolge.",
-   "en": "I'll turn on my phone light.",
+   "ko": "잠깐만 나 폰 라이트 켤게, 여기 있어",
+   "rd": "jamkkanman na pon raiteu kyeolge, yeogi isseo",
+   "en": "Hold on I'll turn on my phone light, right here",
    "note": "라이트",
    "tags": [],
    "new": []
@@ -74,9 +74,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "냉장고 아이스크림 어떡해!",
-   "rd": "naengjanggo aiseukeurim eotteokae!",
-   "en": "What about the ice cream in the fridge!",
+   "ko": "어 냉장고 열어보니까 아이스크림 벌써 녹기 시작했어!",
+   "rd": "eo naengjanggo yeoreobonikka aiseukeurim beolsseo nokgi sijakaesseo!",
+   "en": "Hey I checked the fridge and the ice cream's already melting!",
    "note": "아이스크림",
    "tags": [],
    "new": []
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "지금 다 먹어야 돼!",
-   "rd": "jigeum da meogeoya dwae!",
-   "en": "We have to eat it all now!",
+   "ko": "그럼 지금 다 먹자, 아 몰라 녹기 전에",
+   "rd": "geureom jigeum da meokja, a molla nokgi jeone",
+   "en": "Then let's just eat it all, whatever before it melts",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -94,9 +94,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "(셋이 어둠 속에서 아이스크림을 먹는다)",
-   "rd": "(sesi eodum sogeseo aiseukeurimeul meongneunda)",
-   "en": "(the three eat ice cream in the dark)",
+   "ko": "어 근데 녹아서 손에 다 묻어, 휴지 좀 줘",
+   "rd": "eo geunde nogaseo sone da mudeo, hyuji jom jwo",
+   "en": "Ugh it's melting all over my hands, gimme some tissue",
    "note": "scene",
    "tags": [],
    "new": []
@@ -104,9 +104,9 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "…무서운 얘기 할까?",
-   "rd": "…museoun yaegi halkka?",
-   "en": "…Shall we tell scary stories?",
+   "ko": "야 이 분위기면 무서운 얘기 하나 해야지, 딱이야",
+   "rd": "ya i bunwigimyeon museoun yaegi hana haeyaji, ttagiya",
+   "en": "Hey with this vibe we gotta do a scary story, perfect",
    "note": "무섭다",
    "tags": [],
    "new": []
@@ -114,9 +114,9 @@
   {
    "num": 9,
    "speaker": "C",
-   "ko": "(쾅!) 으아아!",
-   "rd": "(kwang!) euaa!",
-   "en": "(bang!) Waaah!",
+   "ko": "(쾅!) 아악! 뭐야 방금 뭐 떨어졌어 진짜 심장 떨어질 뻔!",
+   "rd": "(kwang!) aak! mwoya banggeum mwo tteoreojyeosseo jinjja simjang tteoreojil ppeon!",
+   "en": "(bang!) Aaaah! What the hell just fell, heart almost jumped out!",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -124,9 +124,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "그냥 창문 바람이야!",
-   "rd": "geunyang changmun baramiya!",
-   "en": "It's just the window in the wind!",
+   "ko": "괜찮아 괜찮아, 그냥 바람 때문에 창문이 세게 닫힌 거야",
+   "rd": "gwaenchana gwaenchana, geunyang baram ttaemune changmuni sege datin geoya",
+   "en": "It's okay it's okay, just the wind slamming the window hard",
    "note": "바람",
    "tags": [],
    "new": []
@@ -134,9 +134,9 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "(불 들어온다) …아.",
-   "rd": "(bul deureoonda) …a.",
-   "en": "(power returns) …Oh.",
+   "ko": "어 불 들어왔다! ...근데 왜 현관문이 열려 있고 물이 들어오고 있어",
+   "rd": "eo bul deureowatda! ...geunde wae hyeongwanmuni yeollyeo itgo muri deureoogo isseo",
+   "en": "Oh lights are back! ...but why's the door open and water coming in",
    "note": "reveal",
    "tags": [],
    "new": []
@@ -144,12 +144,16 @@
   {
    "num": 12,
    "speaker": "C",
-   "ko": "아이스크림 다 먹었는데…",
-   "rd": "aiseukeurim da meogeonneunde…",
-   "en": "We already ate all the ice cream…",
+   "ko": "아이스크림 다 바닥에 쏟았는데 옆집 사람까지 물 묻히고 들어왔어, 아 몰라 그냥 포기",
+   "rd": "aiseukeurim da badage ssodanneunde yeopjip saramkkaji mul mutigo deureowasseo, a molla geunyang pogi",
+   "en": "Ice cream spilled everywhere and even the neighbor came in soaked, whatever I give up",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_life_b5_grok_rewrite.md [K364]",
+  "final": ""
+ }
 }

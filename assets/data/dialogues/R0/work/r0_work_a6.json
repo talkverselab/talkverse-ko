@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "오늘 첫 월급이죠? 축하해요!",
-   "rd": "oneul cheot wolgeubijyo? chukahaeyo!",
-   "en": "Your first paycheck today? Congrats!",
+   "ko": "오늘 첫 월급이지? 축하해요!",
+   "rd": "oneul cheot wolgeubiji? chukahaeyo!",
+   "en": "First paycheck today? Congrats!",
    "note": "월급",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "감사합니다! 엄마 선물 사려고요.",
-   "rd": "gamsahamnida! eomma seonmul saryeogoyo.",
-   "en": "Thanks! I'm buying my mom a gift.",
+   "ko": "감사합니다. 엄마 선물 살게요.",
+   "rd": "gamsahamnida. eomma seonmul salgeyo.",
+   "en": "Thanks. I'll get my mom a present.",
    "note": "선물",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "착하다. 저는요?",
-   "rd": "chakada. jeoneunyo?",
-   "en": "So sweet. And me?",
+   "ko": "착하다. 나는 없어?",
+   "rd": "chakada. naneun eopseo?",
+   "en": "That's sweet. None for me?",
    "note": "착하다",
    "tags": [],
    "new": []
@@ -64,7 +64,7 @@
    "speaker": "A",
    "ko": "네?",
    "rd": "ne?",
-   "en": "Sorry?",
+   "en": "Huh?",
    "note": "네",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "농담이에요. 대신 저녁 같이 먹어요.",
-   "rd": "nongdamieyo. daesin jeonyeok gachi meogeoyo.",
-   "en": "Just kidding. Have dinner with me instead.",
+   "ko": "농담이에요. 저녁 같이 먹어요.",
+   "rd": "nongdamieyo. jeonyeok gachi meogeoyo.",
+   "en": "Just kidding. Let's grab dinner.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -84,7 +84,7 @@
    "speaker": "A",
    "ko": "진짜요? 제가 살게요!",
    "rd": "jinjjayo? jega salgeyo!",
-   "en": "Really? I'll pay!",
+   "en": "For real? I'll pay!",
    "note": "살게요",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "아니요. 오늘은 제가요.",
-   "rd": "aniyo. oneureun jegayo.",
-   "en": "No. Today it's on me.",
+   "ko": "아니. 오늘은 내가...",
+   "rd": "ani. oneureun naega...",
+   "en": "No. Today's on me...",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -102,9 +102,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…월급날인데요?",
-   "rd": "…wolgeumnarindeyo?",
-   "en": "…But it's my payday?",
+   "ko": "월급날인데?",
+   "rd": "wolgeumnarinde?",
+   "en": "But it's payday?",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -112,5 +112,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_work_a6_grok_rewrite.md [K325]",
+  "final": ""
+ }
 }

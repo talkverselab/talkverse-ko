@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "어? 너 그 옷…",
-   "rd": "eo? neo geu ot…",
-   "en": "Huh? Your clothes…",
+   "ko": "어 뭐야 너도 그거 입었어",
+   "rd": "eo mwoya neodo geugeo ibeosseo",
+   "en": "Wait what, you wore that too",
    "note": "옷",
    "tags": [],
    "new": []
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "헐. 너도?",
-   "rd": "heol. neodo?",
-   "en": "Whoa. You too?",
+   "ko": "헐 진짜? 너도?",
+   "rd": "heol jinjja? neodo?",
+   "en": "Whoa, seriously? You too?",
    "note": "너도",
    "tags": [],
    "new": []
@@ -54,9 +54,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "똑같아!",
-   "rd": "ttokgata!",
-   "en": "Identical!",
+   "ko": "완전 똑같네 ㅋㅋ",
+   "rd": "wanjeon ttokganne ㅋㅋ",
+   "en": "Totally the same, lol",
    "note": "똑같다",
    "tags": [],
    "new": []
@@ -64,9 +64,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "커플티 아니야. 진짜로.",
-   "rd": "keopeulti aniya. jinjjaro.",
-   "en": "These aren't couple tees. Seriously.",
+   "ko": "아니야 커플티 아니야",
+   "rd": "aniya keopeulti aniya",
+   "en": "No, these aren't couple tees",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -74,9 +74,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "어머, 커플이다~",
-   "rd": "eomeo, keopeurida~",
-   "en": "Aww, a couple~",
+   "ko": "어머 커플이다 다들 봐!",
+   "rd": "eomeo keopeurida dadeul bwa!",
+   "en": "Oh my, it's a couple, everyone look!",
    "note": "Kick: everyone notices — chaos",
    "tags": [],
    "new": []
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "D",
-   "ko": "사진 찍어 드릴까요?",
-   "rd": "sajin jjigeo deurilkkayo?",
-   "en": "Shall I take your picture?",
+   "ko": "사진 찍어드릴게요 여기 커플~",
+   "rd": "sajin jjigeodeurilgeyo yeogi keopeul~",
+   "en": "I'll take a picture, couple over here~",
    "note": "사진",
    "tags": [],
    "new": []
@@ -94,9 +94,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋ 이제 진짜 커플이네.",
-   "rd": "ㅋㅋ ije jinjja keopeurine.",
-   "en": "Lol now we're really a couple.",
+   "ko": "ㅋㅋ 사람 왜 이렇게 많아",
+   "rd": "ㅋㅋ saram wae ireoke mana",
+   "en": "Lol why are there so many people",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -104,13 +104,17 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…그럼 오늘부터 1일?",
-   "rd": "…geureom oneulbuteo 1il?",
-   "en": "…Then is today Day 1?",
+   "ko": "그럼 오늘부터 사귀는 거임…?",
+   "rd": "geureom oneulbuteo sagwineun geoim…?",
+   "en": "Then are we dating from today…?",
    "note": "punchline callback",
    "tags": [],
    "new": []
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a21_grok_rewrite.md [K313]",
+  "final": ""
+ }
 }

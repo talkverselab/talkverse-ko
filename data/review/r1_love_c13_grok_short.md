@@ -1,0 +1,2 @@
+5 B: 완전 다르지 ㅋㅋ 친구들도 와서 옷 더 골라야 해 / Totally different lol Friends are coming too so I gotta pick more clothes / 근데·둘도 같이 온다니까를 친구들도 와서로 줄임
+7 B: 그건 베이지야 ㅋㅋㅋ 카톡에 열 장이나 쌓였고 동생도 보냈어 / That's the beige one lolol Already like ten in the chat and my sibling sent more / 지금·사진·또를 덜어냄

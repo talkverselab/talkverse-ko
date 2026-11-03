@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "우리 오늘부터 다이어트!",
-   "rd": "uri oneulbuteo daieoteu!",
-   "en": "Starting today, we diet!",
+   "ko": "야 우리 오늘부터 다이어트 하자.",
+   "rd": "ya uri oneulbuteo daieoteu haja.",
+   "en": "Hey, let's start dieting from today.",
    "note": "다이어트",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "C",
-   "ko": "좋아! 치킨 금지!",
-   "rd": "joa! chikin geumji!",
-   "en": "Okay! No chicken!",
+   "ko": "오케이. 치킨은 진짜 금지야.",
+   "rd": "okei. chikineun jinjja geumjiya.",
+   "en": "Okay. Chicken's seriously off-limits.",
    "note": "금지",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "(밤 11시) …배고파.",
-   "rd": "(bam 11si) …baegopa.",
-   "en": "(11 p.m.) …Hungry.",
+   "ko": "(밤 11시) …배고파. 진짜?",
+   "rd": "(bam 11si) …baegopa. jinjja?",
+   "en": "(11pm) …Hungry. For real?",
    "note": "배고프다",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "참아!",
-   "rd": "chama!",
-   "en": "Hold it in!",
+   "ko": "참으라고? 나 이미 앱 켰는데.",
+   "rd": "chameurago? na imi aep kyeonneunde.",
+   "en": "Hold it? I already opened the app.",
    "note": "참다",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "(띵동) …누가 시켰어?",
-   "rd": "(ttingdong) …nuga sikyeosseo?",
-   "en": "(ding-dong) …Who ordered?",
+   "ko": "(띵동) 헐 누가 시켰어?",
+   "rd": "(ttingdong) heol nuga sikyeosseo?",
+   "en": "(ding-dong) Whoa, who ordered?",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "…나.",
-   "rd": "…na.",
-   "en": "…Me.",
+   "ko": "…나. 치킨 두 마리랑 사이드도…",
+   "rd": "…na. chikin du marirang saideudo…",
+   "en": "…Me. Two chickens plus sides…",
    "note": "reveal",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "다이어트 몇 시간 했어?",
-   "rd": "daieoteu myeot sigan haesseo?",
-   "en": "How many hours did the diet last?",
+   "ko": "다이어트 몇 시간 한 거야?",
+   "rd": "daieoteu myeot sigan han geoya?",
+   "en": "How long did the diet even last?",
    "note": "몇 시간",
    "tags": [],
    "new": []
@@ -103,12 +103,16 @@
   {
    "num": 8,
    "speaker": "C",
-   "ko": "아 몰라. 내일부터 진짜.",
-   "rd": "a molla. naeilbuteo jinjja.",
-   "en": "Ugh. For real starting tomorrow.",
+   "ko": "아 몰라. 내일부터 진짜. 또 배달 온 것 같아.",
+   "rd": "a molla. naeilbuteo jinjja. tto baedal on geot gata.",
+   "en": "Ugh, whatever. For real starting tomorrow. Another delivery just came.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_friends_a10_grok_rewrite.md [K330]",
+  "final": ""
+ }
 }

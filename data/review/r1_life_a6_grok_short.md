@@ -1,0 +1,1 @@
+4 B: 아 한국 집들이 국룰이야 안 가져오면 진짜 안 끝나 / Ah, Korean housewarming rule—if you don’t bring it, it literally doesn’t end / 이거와 두 번째 집들이, 문장 끝 -다고를 덜어내고 한 문장으로 합침

@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "(메일) 교수님, 과제 질문이 있습니다.",
-   "rd": "(meil) gyosunim, gwaje jilmuni itseumnida.",
-   "en": "(email) Professor, I have a question about the assignment.",
+   "ko": "(메일) 교수님 안녕하세요 {name}예요 과제 여쭤볼 게 있어요",
+   "rd": "(meil) gyosunim annyeonghaseyo {name}yeyo gwaje yeojjwobol ge isseoyo",
+   "en": "(email) Hi Professor, this is {name}. I’ve got something to ask about the assignment.",
    "note": "질문",
    "tags": [],
    "new": [],
@@ -45,9 +45,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "(메일) 네, 말씀하세요.",
-   "rd": "(meil) ne, malsseumhaseyo.",
-   "en": "(email) Yes, go ahead.",
+   "ko": "(메일) 네 편하게 말씀하세요",
+   "rd": "(meil) ne pyeonhage malsseumhaseyo",
+   "en": "(email) Sure, go ahead and tell me.",
    "note": "말씀하세요",
    "tags": [],
    "new": [],
@@ -57,9 +57,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "헐 1분 만에 답장…",
-   "rd": "heol 1bun mane dapjang…",
-   "en": "Whoa, a reply in one minute…",
+   "ko": "헐 진짜? 1분도 안 돼서 답장 왔는데",
+   "rd": "heol jinjja? 1bundo an dwaeseo dapjang wanneunde",
+   "en": "Whoa, for real? The reply came in less than a minute.",
    "note": "답장",
    "tags": [],
    "new": [],
@@ -69,9 +69,9 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "(카톡) 교수님 지금 안 주무셔?",
-   "rd": "(katok) gyosunim jigeum an jumusyeo?",
-   "en": "(KakaoTalk) The professor's not sleeping?",
+   "ko": "(카톡) 헐 교수님 채점하다 메일 보시는 거야? 야행성 감시자",
+   "rd": "(katok) heol gyosunim chaejeomhada meil bosineun geoya? yahaengseong gamsija",
+   "en": "(Kakao) Whoa, is the professor looking at emails while grading? Night-owl watcher.",
    "note": "주무시다",
    "tags": [],
    "new": [],
@@ -81,9 +81,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "(메일) 저도 과제 채점 중이에요.",
-   "rd": "(meil) jeodo gwaje chaejeom jungieyo.",
-   "en": "(email) I'm grading assignments too.",
+   "ko": "(메일) 나도 지금 과제 채점하고 있어",
+   "rd": "(meil) nado jigeum gwaje chaejeomhago isseo",
+   "en": "(email) I’m grading assignments right now too.",
    "note": "Kick",
    "tags": [],
    "new": [],
@@ -93,9 +93,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "(메일) 혹시 제 거도요?",
-   "rd": "(meil) hoksi je geodoyo?",
-   "en": "(email) Including mine by any chance?",
+   "ko": "(메일) 아 혹시 제 것도 보고 계신 거예요? 감사합니다",
+   "rd": "(meil) a hoksi je geotdo bogo gyesin geoyeyo? gamsahamnida",
+   "en": "(email) Ah, by any chance are you looking at mine too? Thank you.",
    "note": "혹시",
    "tags": [],
    "new": [],
@@ -105,9 +105,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "(메일) 네. 지금 보고 있어요.",
-   "rd": "(meil) ne. jigeum bogo isseoyo.",
-   "en": "(email) Yes. Looking at it now.",
+   "ko": "(메일) 응 지금 네 거 보고 있어",
+   "rd": "(meil) eung jigeum ne geo bogo isseo",
+   "en": "(email) Yeah, looking at yours now.",
    "note": "Kick: chaos-ish",
    "tags": [],
    "new": [],
@@ -117,14 +117,20 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "(카톡) …나 지금 자러 갈게",
-   "rd": "(katok) …na jigeum jareo galge",
-   "en": "(KakaoTalk) …I'm going to sleep now",
+   "ko": "(카톡) …나 자러 갈게 교수님이 내 거 보셔서 긴장돼",
+   "rd": "(katok) …na jareo galge gyosunimi nae geo bosyeoseo ginjangdwae",
+   "en": "(Kakao) …I’m gonna go to sleep. Nervous ’cause the professor is looking at mine.",
    "note": "punchline",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "23:03"
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_study_c2_grok_rewrite.md [K351]",
+  "final": "",
+  "shorten": "data/review/r1_study_c2_grok_short.md [K415] 턴 [1, 4, 8]",
+  "manual": "턴 8 어절 1개 덜어냄(세션)"
+ }
 }

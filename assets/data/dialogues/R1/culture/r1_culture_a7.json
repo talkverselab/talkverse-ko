@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "이 부분에서 「태오!」 세 번.",
-   "rd": "i bubuneseo 「taeo!」 se beon.",
-   "en": "At this part, \"Taeo!\" three times.",
+   "ko": "야 {name}, 빨리 외워. 태오! 세 번이야.",
+   "rd": "ya {name}, ppalli oewo. taeo! se beoniya.",
+   "en": "Yo {name}, memorize this quick. Taeo! Three times.",
    "note": "응원법",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "세 번. 알았어.",
-   "rd": "se beon. arasseo.",
-   "en": "Three times. Got it.",
+   "ko": "세 번? 진짜? 응, 알겠어.",
+   "rd": "se beon? jinjja? eung, algesseo.",
+   "en": "Three times? For real? Yeah, got it.",
    "note": "알다",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "그다음 「사랑해!」, 그다음 박수 두 번.",
-   "rd": "geudaeum 「saranghae!」, geudaeum baksu du beon.",
-   "en": "Then \"I love you!\", then two claps.",
+   "ko": "그다음엔 사랑해! 하고 짝짝 두 번 쳐.",
+   "rd": "geudaeumen saranghae! hago jjakjjak du beon chyeo.",
+   "en": "Then “I love you!” and clap twice.",
    "note": "박수",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "잠깐만… 태오 세 번, 사랑해, 박수…",
-   "rd": "jamkkanman… taeo se beon, saranghae, baksu…",
-   "en": "Wait… Taeo three times, I love you, claps…",
+   "ko": "어... 잠깐. 태오 세 번, 사랑해, 짝짝... 이거 맞나?",
+   "rd": "eo... jamkkan. taeo se beon, saranghae, jjakjjak... igeo manna?",
+   "en": "Uh... wait. Taeo three times, I love you, claps... is this right?",
    "note": "잠깐만",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "(무대) …",
-   "rd": "(mudae) …",
-   "en": "(on stage) …",
+   "ko": "(무대에서 웃으며) 어? 뭐야, 벌써 시작했어?",
+   "rd": "(mudaeeseo useumyeo) eo? mwoya, beolsseo sijakaesseo?",
+   "en": "(on stage, laughing) Huh? What, already started?",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "헐, 태오 두 번이었어!",
-   "rd": "heol, taeo du beonieosseo!",
-   "en": "Whoa, you only said Taeo twice!",
+   "ko": "헐! 두 번이잖아! 옆 사람들 다 따라하고 라이트스틱까지 흔들어!",
+   "rd": "heol! du beonijana! yeop saramdeul da ttarahago raiteuseutikkkaji heundeureo!",
+   "en": "Whoa! That’s only twice! People next to us are all copying and waving lightsticks!",
    "note": "틀리다",
    "tags": [],
    "new": []
@@ -103,13 +103,18 @@
   {
    "num": 8,
    "speaker": "C",
-   "ko": "(무대에서 웃으며) 한 번 더 해 줘요.",
-   "rd": "(mudaeeseo useumyeo) han beon deo hae jwoyo.",
-   "en": "(laughing on stage) Do it once more.",
+   "ko": "(크게 웃으며) 한 번 더! 더 세게!",
+   "rd": "(keuge useumyeo) han beon deo! deo sege!",
+   "en": "(laughing harder) One more time! Louder!",
    "note": "punchline 심쿵",
    "tags": [],
    "new": []
   }
  ],
- "learner_gender": "F"
+ "learner_gender": "F",
+ "review": {
+  "grok_rewrite": "data/review/r1_culture_a7_grok_rewrite.md [K327]",
+  "final": "",
+  "shorten": "data/review/r1_culture_a7_grok_short.md [K403] 턴 [8]"
+ }
 }

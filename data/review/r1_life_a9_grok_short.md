@@ -1,0 +1,1 @@
+7 C: 오늘 학생분 반찬 당번인데, 윗집 아랫집 다 가져오기로 했어요. / Today's the student's side dish duty, and both upstairs and downstairs already said they'll bring some. / 안건이 정하는 건데·이미 부분을 덜어 내고 한 문장으로 합침.

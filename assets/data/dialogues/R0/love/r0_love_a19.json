@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "나 다이어트 중이야.",
-   "rd": "na daieoteu jungiya.",
-   "en": "I'm on a diet.",
+   "ko": "아 나 지금 다이어트 중이야.",
+   "rd": "a na jigeum daieoteu jungiya.",
+   "en": "Oh I'm on a diet right now.",
    "note": "다이어트",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "그래? 그럼 나만 먹을게.",
-   "rd": "geurae? geureom naman meogeulge.",
-   "en": "Really? Then I'll eat alone.",
+   "ko": "진짜? 그럼 나 혼자 먹을게.",
+   "rd": "jinjja? geureom na honja meogeulge.",
+   "en": "Really? Then I'll just eat mine.",
    "note": "나만",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "한 입만.",
-   "rd": "han imman.",
-   "en": "Just one bite.",
+   "ko": "한 입만 줘 봐.",
+   "rd": "han imman jwo bwa.",
+   "en": "Just gimme one bite.",
    "note": "한 입",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "…또?",
-   "rd": "…tto?",
-   "en": "…Again?",
+   "ko": "또? 헐 괜찮아?",
+   "rd": "tto? heol gwaenchana?",
+   "en": "Again? Whoa, you good?",
    "note": "또",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "이건 다이어트 아니야. 맛보기야.",
-   "rd": "igeon daieoteu aniya. matbogiya.",
-   "en": "This isn't diet. It's tasting.",
+   "ko": "아 이건 그냥 맛보기야 진짜.",
+   "rd": "a igeon geunyang matbogiya jinjja.",
+   "en": "Oh this is just a taste test, seriously.",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "헐, 다 먹었어!",
-   "rd": "heol, da meogeosseo!",
-   "en": "Whoa, you ate it all!",
+   "ko": "헐 다 먹었네!",
+   "rd": "heol da meogeonne!",
+   "en": "Whoa you ate the whole thing!",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "두 개 시켜. 하나는 내 거.",
-   "rd": "du gae sikyeo. hananeun nae geo.",
-   "en": "Order two. One's mine.",
+   "ko": "사장님 세 개요. 하나는 내 거.",
+   "rd": "sajangnim se gaeyo. hananeun nae geo.",
+   "en": "Hey, three of those. One's mine.",
    "note": "주문",
    "tags": [],
    "new": []
@@ -102,9 +102,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "다이어트는?",
-   "rd": "daieoteuneun?",
-   "en": "What about the diet?",
+   "ko": "다이어트는 어쩌고?",
+   "rd": "daieoteuneun eojjeogo?",
+   "en": "What about the diet though?",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -112,5 +112,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a19_grok_rewrite.md [K311]",
+  "final": ""
+ }
 }

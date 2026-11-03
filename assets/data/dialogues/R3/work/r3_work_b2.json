@@ -36,9 +36,9 @@
   {
    "num": 1,
    "speaker": "C",
-   "ko": "{name} 씨, 시작해요.",
-   "rd": "{name} ssi, sijakaeyo.",
-   "en": "{name}, go ahead.",
+   "ko": "{name} 씨, 준비 다 됐죠? 바로 시작할게요.",
+   "rd": "{name} ssi, junbi da dwaetjyo? baro sijakalgeyo.",
+   "en": "{name}, you're all set, right? Let's just get started.",
    "note": "시작",
    "tags": [],
    "new": []
@@ -46,9 +46,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "네. 안녕하십니까, 오늘 발표할…",
-   "rd": "ne. annyeonghasimnikka, oneul balpyohal…",
-   "en": "Yes. Good afternoon, today I'll present…",
+   "ko": "네. 안녕하십니까. 오늘 제가 말씀드릴 건 회의를 좀 더 짧게 하자는 내용인데요…",
+   "rd": "ne. annyeonghasimnikka. oneul jega malsseumdeuril geon hoeuireul jom deo jjalge hajaneun naeyongindeyo…",
+   "en": "Yes. Hello. Today I'll be talking about making our meetings a bit shorter…",
    "note": "발표",
    "tags": [],
    "new": []
@@ -56,9 +56,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "(노트북 화면이 꺼진다) …어?",
-   "rd": "(noteubuk hwamyeoni kkeojinda) …eo?",
-   "en": "(laptop screen goes black) …Huh?",
+   "ko": "어? 화면이 갑자기 꺼졌어요. 잠깐만요…",
+   "rd": "eo? hwamyeoni gapjagi kkeojyeosseoyo. jamkkanmanyo…",
+   "en": "Huh? The screen just went black. Just a second…",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -66,9 +66,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "(속삭이며) 배터리! 충전기!",
-   "rd": "(soksagimyeo) baeteori! chungjeongi!",
-   "en": "(whisper) Battery! Charger!",
+   "ko": "(속삭이며) 배터리야! 충전기 어디 갔어? 빨리 찾아!",
+   "rd": "(soksagimyeo) baeteoriya! chungjeongi eodi gasseo? ppalli chaja!",
+   "en": "(whispering) It's the battery! Where's the charger? Find it quick!",
    "note": "충전기",
    "tags": [],
    "new": []
@@ -76,9 +76,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "잠깐만요… (삐이이—)",
-   "rd": "jamkkanmanyo… (ppiii—)",
-   "en": "Just a moment… (feedback squeal—)",
+   "ko": "죄송합니다… (삐이이—) 아, 이거 어떻게 끄죠?",
+   "rd": "joesonghamnida… (ppiii—) a, igeo eotteoke kkeujyo?",
+   "en": "I'm sorry… (feedback squeal—) Ah, how do I turn this off?",
    "note": "Kick: mic — chaos",
    "tags": [],
    "new": []
@@ -86,9 +86,9 @@
   {
    "num": 6,
    "speaker": "D",
-   "ko": "마이크 끄세요!",
-   "rd": "maikeu kkeuseyo!",
-   "en": "Turn off the mic!",
+   "ko": "마이크 좀 꺼 주세요! 소리 너무 커요, 진짜!",
+   "rd": "maikeu jom kkeo juseyo! sori neomu keoyo, jinjja!",
+   "en": "Please turn the mic off! It's way too loud, seriously!",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -96,9 +96,9 @@
   {
    "num": 7,
    "speaker": "E",
-   "ko": "(문 열리며) 발표 중이에요? 대표입니다. 저도 들을게요.",
-   "rd": "(mun yeollimyeo) balpyo jungieyo? daepyoimnida. jeodo deureulgeyo.",
-   "en": "(door opens) Presenting? I'm the CEO. I'll listen too.",
+   "ko": "(문 열리며) 아, 지금 발표 중이셨군요? 대표입니다. 저도 잠깐 들어볼게요.",
+   "rd": "(mun yeollimyeo) a, jigeum balpyo jungisyeotgunyo? daepyoimnida. jeodo jamkkan deureobolgeyo.",
+   "en": "(door opens) Oh, you're in the middle of presenting? I'm the CEO. I'll listen for a bit too.",
    "note": "Kick: CEO — chaos peak",
    "tags": [],
    "new": []
@@ -106,9 +106,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…네. 그럼 화면 없이 말로 하겠습니다.",
-   "rd": "…ne. geureom hwamyeon eopsi mallo hagetseumnida.",
-   "en": "…Yes. Then I'll present without slides.",
+   "ko": "네… 그럼 화면 없이 그냥 말씀드릴게요.",
+   "rd": "ne… geureom hwamyeon eopsi geunyang malsseumdeurilgeyo.",
+   "en": "Yes… Then I'll just explain without the screen.",
    "note": "결심",
    "tags": [],
    "new": []
@@ -116,9 +116,9 @@
   {
    "num": 9,
    "speaker": "A",
-   "ko": "제 제안은 하나입니다. 회의는 5분만, 진짜 5분만.",
-   "rd": "je jeaneun hanaimnida. hoeuineun 5bunman, jinjja 5bunman.",
-   "en": "My proposal is one thing. Meetings of five minutes — really five.",
+   "ko": "제가 드리고 싶은 말씀은 하나예요. 회의는 진짜 5분만 하자고요.",
+   "rd": "jega deurigo sipeun malsseumeun hanayeyo. hoeuineun jinjja 5bunman hajagoyo.",
+   "en": "What I want to say is one thing. Let's keep meetings to really just five minutes.",
    "note": "callback 5분",
    "tags": [],
    "new": []
@@ -126,9 +126,9 @@
   {
    "num": 10,
    "speaker": "C",
-   "ko": "…",
-   "rd": "…",
-   "en": "…",
+   "ko": "(잠시 침묵) …5분이요?",
+   "rd": "(jamsi chimmuk) …5buniyo?",
+   "en": "(brief silence) …Five minutes?",
    "note": "silence",
    "tags": [],
    "new": []
@@ -136,9 +136,9 @@
   {
    "num": 11,
    "speaker": "E",
-   "ko": "(웃으며) 좋네요. 지금 이 발표도 5분이었죠?",
-   "rd": "(useumyeo) jonneyo. jigeum i balpyodo 5bunieotjyo?",
-   "en": "(smiling) Good. This presentation was five minutes too, right?",
+   "ko": "(웃으며) 좋네요. 방금 이 발표도 거의 5분이었잖아요?",
+   "rd": "(useumyeo) jonneyo. banggeum i balpyodo geoui 5bunieotjanayo?",
+   "en": "(smiling) Nice. This presentation just now was almost five minutes too, right?",
    "note": "reveal",
    "tags": [],
    "new": []
@@ -146,9 +146,9 @@
   {
    "num": 12,
    "speaker": "A",
-   "ko": "네. 노트북이 도와줬습니다.",
-   "rd": "ne. noteubugi dowajwotseumnida.",
-   "en": "Yes. The laptop helped.",
+   "ko": "네, 노트북이 딱 도와준 것 같아요.",
+   "rd": "ne, noteubugi ttak dowajun geot gatayo.",
+   "en": "Yes, the laptop seemed to help just right.",
    "note": "joke",
    "tags": [],
    "new": []
@@ -156,9 +156,9 @@
   {
    "num": 13,
    "speaker": "E",
-   "ko": "다음 주부터 시행합시다. 팀장님, 김치찌개는 계속 드셔도 돼요.",
-   "rd": "daeum jubuteo sihaenghapsida. timjangnim, gimchijjigaeneun gyesok deusyeodo dwaeyo.",
-   "en": "Let's start next week. Team leader, you can keep your kimchi stew.",
+   "ko": "다음 주부터 그렇게 해봅시다. 팀장님, 김치찌개는 계속 드셔도 괜찮아요.",
+   "rd": "daeum jubuteo geureoke haebopsida. timjangnim, gimchijjigaeneun gyesok deusyeodo gwaenchanayo.",
+   "en": "Let's do that starting next week. Team leader, you can keep having your kimchi stew.",
    "note": "callback",
    "tags": [],
    "new": []
@@ -166,12 +166,17 @@
   {
    "num": 14,
    "speaker": "B",
-   "ko": "(속삭이며) 이번 발표, 전설 된다.",
-   "rd": "(soksagimyeo) ibeon balpyo, jeonseol doenda.",
-   "en": "(whisper) This presentation is going to be a legend.",
+   "ko": "(속삭이며) 이번 발표, 완전 레전드 되겠다.",
+   "rd": "(soksagimyeo) ibeon balpyo, wanjeon rejeondeu doegetda.",
+   "en": "(whispering) This presentation is gonna be a total legend.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r3_work_b2_grok_rewrite.md [K376]",
+  "final": "",
+  "shorten": "data/review/r3_work_b2_grok_tail.md [K427] 턴 [7, 8, 9, 10, 11, 12, 13, 14]"
+ }
 }

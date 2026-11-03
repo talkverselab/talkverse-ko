@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "헐 마지막 회 봤어? 남주가 재벌 2세였어",
-   "rd": "heol majimak hoe bwasseo? namjuga jaebeol 2seyeosseo",
-   "en": "Whoa did you see the finale? The male lead was a chaebol heir",
+   "ko": "헐 대박 {name}아 마지막 회 봤어?? 남주가 재벌 2세였대 ㅋㅋ",
+   "rd": "heol daebak {name}a majimak hoe bwasseo?? namjuga jaebeol 2seyeotdae ㅋㅋ",
+   "en": "Whoa big deal {name}, did you see the finale?? Turns out the male lead is a chaebol heir lol",
    "note": "재벌",
    "tags": [],
    "new": [],
@@ -45,9 +45,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "야!! 나 아직 3화야!!",
-   "rd": "ya!! na ajik 3hwaya!!",
-   "en": "Hey!! I'm still on episode 3!!",
+   "ko": "야!! 나 아직 3화인데!! 스포 하지마!!",
+   "rd": "ya!! na ajik 3hwainde!! seupo hajima!!",
+   "en": "Hey!! I'm still on episode 3!! Don't spoil it!!",
    "note": "Kick: spoiler",
    "tags": [],
    "new": [],
@@ -57,9 +57,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "헐 미안!! 근데 3화도 재벌이야",
-   "rd": "heol mian!! geunde 3hwado jaebeoriya",
-   "en": "Whoa sorry!! But he's rich in episode 3 too",
+   "ko": "헐 미안 ㅋㅋ 근데 3화에도 이미 재벌이야",
+   "rd": "heol mian ㅋㅋ geunde 3hwaedo imi jaebeoriya",
+   "en": "Whoa sorry lol but he's already a chaebol in ep 3 too",
    "note": "chaos",
    "tags": [],
    "new": [],
@@ -69,9 +69,9 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "그리고 기억상실도 있어",
-   "rd": "geurigo gieoksangsildo isseo",
-   "en": "And there's amnesia too",
+   "ko": "그리고 기억상실 있고 쌍둥이까지 있어 ㅋㅋ 완전 대박",
+   "rd": "geurigo gieoksangsil itgo ssangdungikkaji isseo ㅋㅋ wanjeon daebak",
+   "en": "And there's amnesia and even a twin lol totally insane",
    "note": "more spoilers",
    "tags": [],
    "new": [],
@@ -81,9 +81,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "다 말하지 마!!",
-   "rd": "da malhaji ma!!",
-   "en": "Stop telling me everything!!",
+   "ko": "다 말하지 마!! 아 진짜 그만해!!",
+   "rd": "da malhaji ma!! a jinjja geumanhae!!",
+   "en": "Stop telling me everything!! Seriously stop!!",
    "note": "말하다",
    "tags": [],
    "new": [],
@@ -93,9 +93,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "ㅋㅋ 근데 이거 다 클리셰야",
-   "rd": "ㅋㅋ geunde igeo da keullisyeya",
-   "en": "Lol but these are all clichés",
+   "ko": "ㅋㅋ 근데 이거 완전 뻔한 클리셰잖아",
+   "rd": "ㅋㅋ geunde igeo wanjeon ppeonhan keullisyejana",
+   "en": "Lol but this is a total obvious cliché right",
    "note": "클리셰",
    "tags": [],
    "new": [],
@@ -105,9 +105,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "그래서 몰라도 다 알아",
-   "rd": "geuraeseo mollado da ara",
-   "en": "So you know it all even without knowing",
+   "ko": "그래서 몰라도 다 알아 지금 단톡 난리났어 ㅋㅋ",
+   "rd": "geuraeseo mollado da ara jigeum dantok nallinasseo ㅋㅋ",
+   "en": "So you know it all even without watching, the group chat's going crazy right now lol",
    "note": "logic",
    "tags": [],
    "new": [],
@@ -117,14 +117,19 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…그럼 그냥 마지막 회 볼게",
-   "rd": "…geureom geunyang majimak hoe bolge",
-   "en": "…Then I'll just watch the finale",
+   "ko": "아 몰라 그냥 마지막 회 볼게",
+   "rd": "a molla geunyang majimak hoe bolge",
+   "en": "Ah whatever, I'll just watch the finale",
    "note": "punchline",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "22:03"
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_culture_c3_grok_rewrite.md [K329]",
+  "final": "",
+  "shorten": "data/review/r1_culture_c3_grok_short.md [K405] 턴 [7]"
+ }
 }

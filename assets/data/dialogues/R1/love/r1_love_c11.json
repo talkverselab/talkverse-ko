@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "자?",
-   "rd": "ja?",
-   "en": "You up?",
+   "ko": "야 아직 안 자? ㅋㅋ",
+   "rd": "ya ajik an ja? ㅋㅋ",
+   "en": "Hey still up? lol",
    "note": "자?",
    "tags": [],
    "new": [],
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "응… 지금 새벽 3시야",
-   "rd": "eung… jigeum saebyeok 3siya",
-   "en": "Mm… it's 3 a.m. here",
+   "ko": "응 근데 여기 새벽 3시야",
+   "rd": "eung geunde yeogi saebyeok 3siya",
+   "en": "Yeah but it’s 3 a.m. here",
    "note": "새벽",
    "tags": [],
    "new": [],
@@ -56,9 +56,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "미안. 여기는 저녁이야",
-   "rd": "mian. yeogineun jeonyeogiya",
-   "en": "Sorry. It's evening here",
+   "ko": "아 미안 ㅋㅋ 여기는 저녁이야",
+   "rd": "a mian ㅋㅋ yeogineun jeonyeogiya",
+   "en": "Ah sorry lol it’s evening here",
    "note": "저녁",
    "tags": [],
    "new": [],
@@ -68,9 +68,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "공연 끝났어?",
-   "rd": "gongyeon kkeunnasseo?",
-   "en": "Is the concert over?",
+   "ko": "공연은 이제 끝났어?",
+   "rd": "gongyeoneun ije kkeunnasseo?",
+   "en": "Is the show over now?",
    "note": "끝나다",
    "tags": [],
    "new": [],
@@ -80,9 +80,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "응. 사진 한 장만 보내 줘",
-   "rd": "eung. sajin han jangman bonae jwo",
-   "en": "Yeah. Send me just one photo",
+   "ko": "응 지금 모습 사진 하나만 찍어 보내 줘",
+   "rd": "eung jigeum moseup sajin hanaman jjigeo bonae jwo",
+   "en": "Yeah take one pic of how you look right now and send it",
    "note": "사진",
    "tags": [],
    "new": [],
@@ -92,9 +92,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "지금? 나 완전 자다 깼는데",
-   "rd": "jigeum? na wanjeon jada kkaenneunde",
-   "en": "Now? I just woke up",
+   "ko": "지금? 나 막 자다 깼는데 완전 귀찮아",
+   "rd": "jigeum? na mak jada kkaenneunde wanjeon gwichana",
+   "en": "Now? I just woke up and can’t be bothered",
    "note": "자다 깨다",
    "tags": [],
    "new": [],
@@ -104,9 +104,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "그래서 보고 싶어",
-   "rd": "geuraeseo bogo sipeo",
-   "en": "That's why I want to see",
+   "ko": "그래서 보고 싶어... 잘 자",
+   "rd": "geuraeseo bogo sipeo... jal ja",
+   "en": "That’s why I miss you... sleep well",
    "note": "심쿵",
    "tags": [],
    "new": [],
@@ -116,9 +116,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…10초만 기다려",
-   "rd": "…10choman gidaryeo",
-   "en": "…Give me 10 seconds",
+   "ko": "알겠어 10초만 기다려",
+   "rd": "algesseo 10choman gidaryeo",
+   "en": "Okay give me 10 seconds",
    "note": "punchline",
    "tags": [],
    "new": [],
@@ -126,5 +126,9 @@
    "at": "03:15"
   }
  ],
- "learner_gender": "F"
+ "learner_gender": "F",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_c11_grok_rewrite.md [K347]",
+  "final": ""
+ }
 }

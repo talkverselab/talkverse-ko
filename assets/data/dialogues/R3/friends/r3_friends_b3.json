@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "10년 뒤에 같이 열자. 약속.",
-   "rd": "10nyeon dwie gachi yeolja. yaksok.",
-   "en": "Let's open them together in ten years. Promise.",
+   "ko": "야, 10년 뒤에 우리 셋이서 같이 열어보자. 진짜 약속이다?",
+   "rd": "ya, 10nyeon dwie uri sesiseo gachi yeoreoboja. jinjja yaksogida?",
+   "en": "Hey, let's open them together in ten years, the three of us. For real promise?",
    "note": "약속",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "10년 뒤면 우리 몇 살이야?",
-   "rd": "10nyeon dwimyeon uri myeot sariya?",
-   "en": "How old will we be in ten years?",
+   "ko": "10년 뒤면 우리 몇 살이지? 나이 세기도 귀찮아.",
+   "rd": "10nyeon dwimyeon uri myeot sariji? nai segido gwichana.",
+   "en": "How old will we be in ten years? Counting ages is already a pain.",
    "note": "몇 살",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "난 서른넷. 아마 팀장.",
-   "rd": "nan seoreunnet. ama timjang.",
-   "en": "I'll be 34. Probably a team leader.",
+   "ko": "난 서른넷. 아마 팀장 달고 있을걸.",
+   "rd": "nan seoreunnet. ama timjang dalgo isseulgeol.",
+   "en": "I'll be 34. Probably with a team-lead title by then.",
    "note": "팀장",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "그럼 너도 「아무거나」 하면 삼겹살이야?",
-   "rd": "geureom neodo 「amugeona」 hamyeon samgyeopsariya?",
-   "en": "Then will your \"anything\" mean samgyeopsal too?",
+   "ko": "그럼 너 「아무거나」 하면 아직도 삼겹살이야? ㅋㅋ 변함없네.",
+   "rd": "geureom neo 「amugeona」 hamyeon ajikdo samgyeopsariya? ㅋㅋ byeonhameomne.",
+   "en": "Then if you say \"anything,\" is it still samgyeopsal? lol You're consistent.",
    "note": "callback",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "ㅋㅋ 뭐 쓸 거야?",
-   "rd": "ㅋㅋ mwo sseul geoya?",
-   "en": "Lol what are you writing?",
+   "ko": "ㅋㅋㅋ 뭐 쓰고 있어? 너무 진지한 표정이야.",
+   "rd": "ㅋㅋㅋ mwo sseugo isseo? neomu jinjihan pyojeongiya.",
+   "en": "lol what are you writing? Your face looks way too serious.",
    "note": "쓰다",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "비밀. 근데 하나만 말해 줄게.",
-   "rd": "bimil. geunde hanaman malhae julge.",
-   "en": "Secret. But I'll tell you one thing.",
+   "ko": "비밀이야. 근데 하나만 말해줄게.",
+   "rd": "bimiriya. geunde hanaman malhaejulge.",
+   "en": "It's a secret. But I'll tell you one thing.",
    "note": "비밀",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "너 처음 왔을 때 「밥 먹었어?」에 진짜 밥 먹자고 한 거.",
-   "rd": "neo cheoeum wasseul ttae 「bap meogeosseo?」e jinjja bap meokjago han geo.",
-   "en": "When you first came and took \"did you eat?\" literally.",
+   "ko": "너 처음 왔을 때 「밥 먹었어?」 하자마자 진짜 밥 먹자고 했던 거 있잖아.",
+   "rd": "neo cheoeum wasseul ttae 「bap meogeosseo?」 hajamaja jinjja bap meokjago haetdeon geo itjana.",
+   "en": "When you first came, the second I said \"have you eaten?\" you literally suggested eating, remember?",
    "note": "callback",
    "tags": [],
    "new": []
@@ -103,9 +103,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "그걸 아직 기억해?",
-   "rd": "geugeol ajik gieokae?",
-   "en": "You still remember that?",
+   "ko": "그걸 아직도 기억해? 진짜? 나 완전 창피했는데.",
+   "rd": "geugeol ajikdo gieokae? jinjja? na wanjeon changpihaenneunde.",
+   "en": "You still remember that? For real? I was so embarrassed.",
    "note": "기억",
    "tags": [],
    "new": []
@@ -113,9 +113,9 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "응. 그때부터 친구였으니까.",
-   "rd": "eung. geuttaebuteo chinguyeosseunikka.",
-   "en": "Yeah. That's when we became friends.",
+   "ko": "응. 그때부터 친구 된 거잖아.",
+   "rd": "eung. geuttaebuteo chingu doen geojana.",
+   "en": "Yeah. That's when we became friends, right?",
    "note": "심쿵(우정)",
    "tags": [],
    "new": []
@@ -123,9 +123,9 @@
   {
    "num": 10,
    "speaker": "C",
-   "ko": "나는 「군대 다녀왔어요?」 할 때.",
-   "rd": "naneun 「gundae danyeowasseoyo?」 hal ttae.",
-   "en": "For me it was when you got the \"army talk\" joke.",
+   "ko": "나는 「군대 다녀왔어요?」 할 때. 완전 당황하던 모습.",
+   "rd": "naneun 「gundae danyeowasseoyo?」 hal ttae. wanjeon danghwanghadeon moseup.",
+   "en": "For me it was the \"have you done your military service?\" thing. You looked so flustered.",
    "note": "callback",
    "tags": [],
    "new": []
@@ -133,9 +133,9 @@
   {
    "num": 11,
    "speaker": "A",
-   "ko": "…다들 내 실수만 기억하네.",
-   "rd": "…dadeul nae silsuman gieokane.",
-   "en": "…You all only remember my mistakes.",
+   "ko": "…다들 내 흑역사만 골라 기억하네. 완전 내 인생 최고 웃긴 장면이었지.",
+   "rd": "…dadeul nae heugyeoksaman golla gieokane. wanjeon nae insaeng choego utgin jangmyeonieotji.",
+   "en": "…You all only pick out my black history. That was totally the funniest moment of my life.",
    "note": "joke",
    "tags": [],
    "new": []
@@ -143,9 +143,9 @@
   {
    "num": 12,
    "speaker": "B",
-   "ko": "그 실수가 다 우리 추억이야.",
-   "rd": "geu silsuga da uri chueogiya.",
-   "en": "Those mistakes are all our memories.",
+   "ko": "그런 실수들이 다 우리 추억이지. 그니까… 더 보고 싶을 거야.",
+   "rd": "geureon silsudeuri da uri chueogiji. geunikka… deo bogo sipeul geoya.",
+   "en": "Those mistakes are all our memories. So… I'll miss you even more.",
    "note": "따뜻",
    "tags": [],
    "new": []
@@ -153,9 +153,9 @@
   {
    "num": 13,
    "speaker": "A",
-   "ko": "그럼 10년 뒤에는 실수 없이 한국어로 읽어 줄게.",
-   "rd": "geureom 10nyeon dwieneun silsu eopsi hangugeoro ilgeo julge.",
-   "en": "Then in ten years I'll read it to you in Korean without mistakes.",
+   "ko": "그럼 10년 뒤에는 실수 없이 한국어로 읽어줄게.",
+   "rd": "geureom 10nyeon dwieneun silsu eopsi hangugeoro ilgeojulge.",
+   "en": "Then in ten years I'll read it to you in Korean without any mistakes.",
    "note": "약속",
    "tags": [],
    "new": []
@@ -163,12 +163,16 @@
   {
    "num": 14,
    "speaker": "C",
-   "ko": "틀리면 치킨 쏘기.",
-   "rd": "teullimyeon chikin ssogi.",
-   "en": "If you get it wrong, you buy chicken.",
+   "ko": "틀리면 치킨 쏘는 거다. 기억해둬.",
+   "rd": "teullimyeon chikin ssoneun geoda. gieokaedwo.",
+   "en": "If you mess up, you're buying chicken. Remember that.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r3_friends_b3_grok_rewrite.md [K373]",
+  "final": ""
+ }
 }

@@ -1,0 +1,1 @@
+4 C: (문 열며) 죄송합니다! 뒤에 더 있어요! / (opens door) Sorry! More behind me! / “저”를 덜어냄 (문맥상 불필요)

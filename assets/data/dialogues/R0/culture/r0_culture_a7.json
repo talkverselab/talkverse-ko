@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "(전화) 한강 어디세요?",
-   "rd": "(jeonhwa) hangang eodiseyo?",
-   "en": "(phone) Where at the Han River?",
+   "ko": "(전화) 지금 어디요?",
+   "rd": "(jeonhwa) jigeum eodiyo?",
+   "en": "(on phone) Where are you now?",
    "note": "어디",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "여기요! 나무 옆!",
-   "rd": "yeogiyo! namu yeop!",
-   "en": "Here! Next to a tree!",
+   "ko": "여기요! 큰 나무 밑!",
+   "rd": "yeogiyo! keun namu mit!",
+   "en": "Here! Under the big tree!",
    "note": "여기요",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "나무가 백 개예요.",
-   "rd": "namuga baek gaeyeyo.",
-   "en": "There are a hundred trees.",
+   "ko": "나무 진짜 많아요.",
+   "rd": "namu jinjja manayo.",
+   "en": "There are so many trees.",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "어… 파란 텐트!",
-   "rd": "eo… paran tenteu!",
-   "en": "Uh… a blue tent!",
+   "ko": "헐... 파란 텐트요!",
+   "rd": "heol... paran tenteuyo!",
+   "en": "Whoa... the blue tent!",
    "note": "텐트",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "파란 텐트도 오십 개예요.",
-   "rd": "paran tenteudo osip gaeyeyo.",
-   "en": "There are fifty blue tents too.",
+   "ko": "파란 거 한가득이요.",
+   "rd": "paran geo hangadeugiyo.",
+   "en": "Blue ones are everywhere.",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "손 흔들어! 크게!",
-   "rd": "son heundeureo! keuge!",
-   "en": "Wave! Big!",
+   "ko": "빨리 손 흔들어!",
+   "rd": "ppalli son heundeureo!",
+   "en": "Wave your hands quick!",
    "note": "흔들다",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "(다 같이 흔든다) 여기요!!",
-   "rd": "(da gachi heundeunda) yeogiyo!!",
-   "en": "(everyone waves) Over here!!",
+   "ko": "(친구들이랑 다 같이) 여기요!!",
+   "rd": "(chingudeurirang da gachi) yeogiyo!!",
+   "en": "(with friends all together) Over here!!",
    "note": "Kick",
    "tags": [],
    "new": []
@@ -103,12 +103,16 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "…찾았다. 다들 흔드네요.",
-   "rd": "…chajatda. dadeul heundeuneyo.",
-   "en": "…Found you. Everyone is waving.",
+   "ko": "헐... 다 흔드네요.",
+   "rd": "heol... da heundeuneyo.",
+   "en": "Whoa... everyone's waving.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_culture_a7_grok_rewrite.md [K302]",
+  "final": ""
+ }
 }

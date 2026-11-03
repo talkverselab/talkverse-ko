@@ -1,0 +1,2 @@
+4 A: (장갑) 양념 이만큼 바르면 돼요? 많네. / (gloves) Is this much seasoning okay? It’s a lot. / 단계 지문 ‘끼고’ 빼고 ‘좀 많은 것 같은데’를 ‘많네’로 줄임.
+8 C: 수육 먹고 시작하자. 배고프면 못 해. 옆집 아줌마도 온대. / Let’s eat the pork first. Can’t work if we’re hungry. Neighbor lady’s coming too. / ‘아,’ 지우고 ‘온다는데?’를 ‘온대’로 줄임.

@@ -54,9 +54,11 @@ while time.time() - t0 < wait:
     busy = '작업 중' in body or c.ev("!![...document.querySelectorAll('button')].find(e=>(e.getAttribute('aria-label')||'')==='응답 중지')")
     els = answers(c)
     if not busy and els and not els[-1].startswith('[J') and not els[-1].startswith('[G'):
-        if len(els[-1]) > 150 and els[-1] != last_answer:
+        # 짧은 답(어절 줄이기·꼬리 턴 요청은 한두 줄)도 대사 줄 형식이면 완료로 본다(2026-11-04)
+        done = len(els[-1]) > 150 or re.search(r'^\d+ [A-Z]: .+ / .+', els[-1], re.M)
+        if done and els[-1] != last_answer:
             open(dst, 'w', encoding='utf-8').write(els[-1]); print('OK', dst); sys.exit(0)
-        if not reloaded and len(els[-1]) <= 150:
+        if not reloaded and not done:
             c.call('Page.reload'); reloaded = True; time.sleep(9); c = g.CDP(g.tab(frag)); continue
     time.sleep(8)
 print('TIMEOUT'); sys.exit(1)

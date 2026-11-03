@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "여권, 사진, 신청서, 재학 증명서 주세요.",
-   "rd": "yeogwon, sajin, sincheongseo, jaehak jeungmyeongseo juseyo.",
-   "en": "Passport, photo, application, and proof of enrollment, please.",
+   "ko": "여권이랑 사진, 신청서, 재학증명서 다 가지고 오셨어요?",
+   "rd": "yeogwonirang sajin, sincheongseo, jaehakjeungmyeongseo da gajigo osyeosseoyo?",
+   "en": "Passport, photo, application, and enrollment certificate—all ready?",
    "note": "서류",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "여기요.",
-   "rd": "yeogiyo.",
-   "en": "Here.",
+   "ko": "네, 여기 있어요.",
+   "rd": "ne, yeogi isseoyo.",
+   "en": "Yes, here they are.",
    "note": "여기요",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "사진이 흰 배경이 아니네요.",
-   "rd": "sajini huin baegyeongi anineyo.",
-   "en": "The photo doesn't have a white background.",
+   "ko": "사진 배경이 하얀색이 아니네요. 다시 찍으셔야겠는데요.",
+   "rd": "sajin baegyeongi hayansaegi anineyo. dasi jjigeusyeoyagenneundeyo.",
+   "en": "The photo background isn’t white. You’ll need to retake it.",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "네? 다시 찍어 올게요.",
-   "rd": "ne? dasi jjigeo olgeyo.",
-   "en": "What? I'll retake it.",
+   "ko": "네? 그럼 잠깐만요. 다시 찍어 올게요. 죄송합니다.",
+   "rd": "ne? geureom jamkkanmanyo. dasi jjigeo olgeyo. joesonghamnida.",
+   "en": "What? Then just a sec. I’ll go retake it. Sorry.",
    "note": "다시",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "(1시간 뒤) 이제 주소 증명서가 없네요.",
-   "rd": "(1sigan dwi) ije juso jeungmyeongseoga eomneyo.",
-   "en": "(an hour later) Now there's no proof of address.",
+   "ko": "(한 시간 뒤) 아, 이번엔 주소 증명 서류가 빠졌네요.",
+   "rd": "(han sigan dwi) a, ibeonen juso jeungmyeong seoryuga ppajyeonneyo.",
+   "en": "(An hour later) Ah, this time the address proof is missing.",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "다시 한 번 말해 주세요… 주소요?",
-   "rd": "dasi han beon malhae juseyo… jusoyo?",
-   "en": "Please say that again… address?",
+   "ko": "다시 한 번 말해 주세요. 주소 서류요?",
+   "rd": "dasi han beon malhae juseyo. juso seoryuyo?",
+   "en": "Please say that again. The address documents?",
    "note": "다시 한 번",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "네. 집 계약서요.",
-   "rd": "ne. jip gyeyakseoyo.",
-   "en": "Yes. Your lease.",
+   "ko": "네, 임대차 계약서 같은 거요.",
+   "rd": "ne, imdaecha gyeyakseo gateun geoyo.",
+   "en": "Yes, like a lease agreement.",
    "note": "계약서",
    "tags": [],
    "new": []
@@ -103,9 +103,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "(2시간 뒤) 여기요! 다 있어요!",
-   "rd": "(2sigan dwi) yeogiyo! da isseoyo!",
-   "en": "(2 hours later) Here! I have everything!",
+   "ko": "(두 시간 뒤) 여기요! 다 가져왔어요.",
+   "rd": "(du sigan dwi) yeogiyo! da gajyeowasseoyo.",
+   "en": "(Two hours later) Here! I brought everything.",
    "note": "Kick",
    "tags": [],
    "new": []
@@ -113,9 +113,9 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "…오늘 마감 5시예요. 지금 5시 1분.",
-   "rd": "…oneul magam 5siyeyo. jigeum 5si 1bun.",
-   "en": "…Today's cutoff is 5. It's 5:01.",
+   "ko": "…오늘 접수가 5시까지인데 지금 5시 넘었어요. 사진도 아직 좀 그렇고 뒤에 줄이 점점 길어지고 있어요.",
+   "rd": "…oneul jeopsuga 5sikkajiinde jigeum 5si neomeosseoyo. sajindo ajik jom geureoko dwie juri jeomjeom gireojigo isseoyo.",
+   "en": "…Today’s cutoff is 5 and it’s past 5 now. The photo’s still off and the line behind is getting longer.",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -123,9 +123,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "…번호표 또 뽑을게요.",
-   "rd": "…beonhopyo tto ppobeulgeyo.",
-   "en": "…I'll take another number.",
+   "ko": "아… 그럼 번호표 또 뽑아야 하나요? 죄송합니다.",
+   "rd": "a… geureom beonhopyo tto ppobaya hanayo? joesonghamnida.",
+   "en": "Ah… then do I need to take another number? Sorry.",
    "note": "번호표",
    "tags": [],
    "new": []
@@ -133,9 +133,9 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "ㅋㅋ 아니에요. 오늘 마지막으로 해 드릴게요.",
-   "rd": "ㅋㅋ anieyo. oneul majimageuro hae deurilgeyo.",
-   "en": "Haha, no. I'll do yours as the last one today.",
+   "ko": "아니에요. 오늘 마지막으로 처리해 드릴게요. 팀장님, 여기 좀 봐 주세요!",
+   "rd": "anieyo. oneul majimageuro cheorihae deurilgeyo. timjangnim, yeogi jom bwa juseyo!",
+   "en": "No. I’ll handle it as the last one today. Team leader, please take a look here!",
    "note": "kindness",
    "tags": [],
    "new": []
@@ -143,12 +143,16 @@
   {
    "num": 12,
    "speaker": "A",
-   "ko": "감사합니다! 사진 다시 찍길 잘했어요.",
-   "rd": "gamsahamnida! sajin dasi jjikgil jalhaesseoyo.",
-   "en": "Thank you! Good thing I retook the photo.",
+   "ko": "감사합니다! 이렇게 여러 번 왔다 갔다 할 줄 몰랐어요.",
+   "rd": "gamsahamnida! ireoke yeoreo beon watda gatda hal jul mollasseoyo.",
+   "en": "Thank you! I didn’t expect to go back and forth so many times.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_survival_b1_grok_rewrite.md [K369]",
+  "final": ""
+ }
 }

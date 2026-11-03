@@ -1,0 +1,1 @@
+8 C: ㅋㅋ 많이 해. 민지가 또 반죽 들고 와서 뒤집어지겠네. / Haha make lots. Minji brought more dough again and everything's gonna tip over. / Cut "아 옆에서" and "다", joined the dough and tipping parts.

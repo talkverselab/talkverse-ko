@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "(드르렁) …",
-   "rd": "(deureureong) …",
-   "en": "(snore) …",
+   "ko": "(드르렁드르렁…)",
+   "rd": "(deureureongdeureureong…)",
+   "en": "(snore snore...)",
    "note": "코골이",
    "tags": [],
    "new": []
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "(속삭이며) 헐, 누구야?",
-   "rd": "(soksagimyeo) heol, nuguya?",
-   "en": "(whisper) Who is that?",
+   "ko": "(속삭이며) 헐, 누구야 저거?",
+   "rd": "(soksagimyeo) heol, nuguya jeogeo?",
+   "en": "(whispering) Whoa, who's that?",
    "note": "누구",
    "tags": [],
    "new": []
@@ -54,9 +54,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "(속삭이며) …민준이야.",
-   "rd": "(soksagimyeo) …minjuniya.",
-   "en": "(whisper) …It's Minjun.",
+   "ko": "(속삭이며) …민준이네.",
+   "rd": "(soksagimyeo) …minjunine.",
+   "en": "(whispering) ...It's Minjun.",
    "note": "Kick",
    "tags": [],
    "new": []
@@ -64,9 +64,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "깨워. 빨리.",
-   "rd": "kkaewo. ppalli.",
-   "en": "Wake him up. Quick.",
+   "ko": "잠깐만, 깨워야겠다. 빨리.",
+   "rd": "jamkkanman, kkaewoyagetda. ppalli.",
+   "en": "Wait, we gotta wake him. Quick.",
    "note": "깨우다",
    "tags": [],
    "new": []
@@ -74,9 +74,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "민준아! (툭)",
-   "rd": "minjuna! (tuk)",
-   "en": "Minjun! (poke)",
+   "ko": "민준아! (톡톡)",
+   "rd": "minjuna! (toktok)",
+   "en": "Minjun! (tap tap)",
    "note": "툭",
    "tags": [],
    "new": []
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "어? 시험 끝났어?!",
-   "rd": "eo? siheom kkeunnasseo?!",
-   "en": "Huh? Is the exam over?!",
+   "ko": "어? 뭐야, 시험 끝났어?! (의자 넘어뜨리며)",
+   "rd": "eo? mwoya, siheom kkeunnasseo?! (uija neomeotteurimyeo)",
+   "en": "Huh? What, is the exam over?! (knocking the chair over)",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -94,9 +94,9 @@
   {
    "num": 7,
    "speaker": "D",
-   "ko": "쉿!!!",
-   "rd": "swit!!!",
-   "en": "Shh!!!",
+   "ko": "쉿!!! (사람들이 다 돌아보고 책 떨어짐)",
+   "rd": "swit!!! (saramdeuri da dorabogo chaek tteoreojim)",
+   "en": "Shh!!! (everyone turns and a book falls)",
    "note": "everyone",
    "tags": [],
    "new": []
@@ -104,12 +104,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…우리 셋 다 나가야겠다.",
-   "rd": "…uri set da nagayagetda.",
-   "en": "…All three of us should leave.",
+   "ko": "…이제 우리 나가야 할 것 같아. 다들 쳐다보잖아.",
+   "rd": "…ije uri nagaya hal geot gata. dadeul chyeodabojana.",
+   "en": "...I think we really need to leave. Everyone's staring.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_study_a6_grok_rewrite.md [K350]",
+  "final": ""
+ }
 }

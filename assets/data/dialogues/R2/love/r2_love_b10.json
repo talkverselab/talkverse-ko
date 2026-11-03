@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "부탁이 있어. 석 달만 내 남자친구인 척해 줘.",
-   "rd": "butagi isseo. seok dalman nae namjachinguin cheokae jwo.",
-   "en": "I have a favor. Pretend to be my boyfriend for three months.",
+   "ko": "야, 부탁 하나 들어줄래? 딱 석 달만 내 남친인 척 좀 해 줘.",
+   "rd": "ya, butak hana deureojullae? ttak seok dalman nae namchinin cheok jom hae jwo.",
+   "en": "Hey, can you do me a favor? Just pretend to be my boyfriend for three months.",
    "note": "척하다 = pretend",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "…드라마 찍어?",
-   "rd": "…deurama jjigeo?",
-   "en": "…Are we filming a drama?",
+   "ko": "뭐야… 드라마 찍는 거야, 진짜?",
+   "rd": "mwoya… deurama jjingneun geoya, jinjja?",
+   "en": "Wait… are we filming a drama, for real?",
    "note": "드라마",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "엄마가 소개팅을 계속 잡아. 남자친구 있다고 하면 끝나.",
-   "rd": "eommaga sogaetingeul gyesok jaba. namjachingu itdago hamyeon kkeunna.",
-   "en": "My mom keeps setting up blind dates. If I say I have a boyfriend, it'll stop.",
+   "ko": "엄마가 맨날 소개팅 잡아. 남친 있다고 하면 그만둘 텐데.",
+   "rd": "eommaga maennal sogaeting jaba. namchin itdago hamyeon geumandul tende.",
+   "en": "My mom keeps setting me up on blind dates. If I say I have a boyfriend, she'll stop.",
    "note": "소개팅",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "설마 계약서도 있어?",
-   "rd": "seolma gyeyakseodo isseo?",
-   "en": "Don't tell me there's a contract too?",
+   "ko": "설마 계약서까지 준비한 건 아니지?",
+   "rd": "seolma gyeyakseokkaji junbihan geon aniji?",
+   "en": "Don't tell me you even prepared a contract?",
    "note": "설마",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "응. (종이) 조건 1: 손잡기 가능. 조건 2: 진짜로 좋아하기 금지.",
-   "rd": "eung. (jongi) jogeon 1: sonjapgi ganeung. jogeon 2: jinjjaro joahagi geumji.",
-   "en": "Yep. (paper) Condition 1: hand-holding allowed. Condition 2: no really falling for each other.",
+   "ko": "응. (종이 내밀며) 손잡는 건 괜찮아. 근데 진짜로 좋아하는 건 안 돼.",
+   "rd": "eung. (jongi naemilmyeo) sonjamneun geon gwaenchana. geunde jinjjaro joahaneun geon an dwae.",
+   "en": "Yep. (holds out paper) Holding hands is fine. But actually liking each other is not allowed.",
    "note": "조건",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "조건 2가 제일 어렵겠는데.",
-   "rd": "jogeon 2ga jeil eoryeopgenneunde.",
-   "en": "Condition 2 sounds the hardest.",
+   "ko": "그 두 번째 조건이 제일 힘들 것 같은데.",
+   "rd": "geu du beonjjae jogeoni jeil himdeul geot gateunde.",
+   "en": "That second one sounds like the hardest.",
    "note": "어렵다",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "왜?",
-   "rd": "wae?",
-   "en": "Why?",
+   "ko": "왜? 뭐가 힘들어?",
+   "rd": "wae? mwoga himdeureo?",
+   "en": "Why? What's hard about it?",
    "note": "왜",
    "tags": [],
    "new": []
@@ -103,9 +103,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…그냥.",
-   "rd": "…geunyang.",
-   "en": "…Just because.",
+   "ko": "…그냥. 뭐, 그냥 그런 생각.",
+   "rd": "…geunyang. mwo, geunyang geureon saenggak.",
+   "en": "…Just. I don't know, just a thought.",
    "note": "심쿵 setup",
    "tags": [],
    "new": []
@@ -113,9 +113,9 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "(작게) 사실 그 조건, 나도 벌써 어겼어.",
-   "rd": "(jakge) sasil geu jogeon, nado beolsseo eogyeosseo.",
-   "en": "(quietly) Actually, I already broke that condition.",
+   "ko": "(작게, 시선 피하며) 근데 나… 벌써 그 조건 어겼는데. 너 만나고 나서.",
+   "rd": "(jakge, siseon pihamyeo) geunde na… beolsseo geu jogeon eogyeonneunde. neo mannago naseo.",
+   "en": "(quietly, looking away) But I… already broke that one. After I met you.",
    "note": "심쿵 kick",
    "tags": [],
    "new": []
@@ -123,9 +123,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "…그럼 계약 취소?",
-   "rd": "…geureom gyeyak chwiso?",
-   "en": "…Then is the contract canceled?",
+   "ko": "그럼… 계약 끝이야? 됐어?",
+   "rd": "geureom… gyeyak kkeuchiya? dwaesseo?",
+   "en": "Then… is the contract over? Are we done?",
    "note": "취소",
    "tags": [],
    "new": []
@@ -133,9 +133,9 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "아니. 계약서 다시 쓰자. 기간 없이.",
-   "rd": "ani. gyeyakseo dasi sseuja. gigan eopsi.",
-   "en": "No. Let's rewrite it. No end date.",
+   "ko": "아니. 다시 쓰자. 이번엔 끝나는 날 없이.",
+   "rd": "ani. dasi sseuja. ibeonen kkeunnaneun nal eopsi.",
+   "en": "No. Let's rewrite it. This time with no end date.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -143,9 +143,9 @@
   {
    "num": 12,
    "speaker": "A",
-   "ko": "그니까, 진짜 연애네.",
-   "rd": "geunikka, jinjja yeonaene.",
-   "en": "So, it's a real relationship.",
+   "ko": "그니까… 진짜 우리 사귀자는 거네.",
+   "rd": "geunikka… jinjja uri sagwijaneun geone.",
+   "en": "So… you mean we're actually dating.",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -153,5 +153,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r2_love_b10_grok_rewrite.md [K365]",
+  "final": ""
+ }
 }

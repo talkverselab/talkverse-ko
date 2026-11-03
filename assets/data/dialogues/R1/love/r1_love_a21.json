@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "잠깐만. 가지 마.",
-   "rd": "jamkkanman. gaji ma.",
-   "en": "Wait. Don't go.",
+   "ko": "야, 잠깐만! {name}, 그쪽으로 가지 마.",
+   "rd": "ya, jamkkanman! {name}, geujjogeuro gaji ma.",
+   "en": "Hey, wait! {name}, don't go that way.",
    "note": "가지 마",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "…이거 드라마 그 장면이야?",
-   "rd": "…igeo deurama geu jangmyeoniya?",
-   "en": "…Is this that drama scene?",
+   "ko": "어… 이거 그… 벽치기 장면이야?",
+   "rd": "eo… igeo geu… byeokchigi jangmyeoniya?",
+   "en": "Uh… is this that… wall-push thing?",
    "note": "드라마",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "아니. 앞에 똥 있어.",
-   "rd": "ani. ape ttong isseo.",
-   "en": "No. There's poop ahead.",
+   "ko": "아니야. 앞에 개똥 진짜 있어. 밟지 마.",
+   "rd": "aniya. ape gaettong jinjja isseo. balji ma.",
+   "en": "No. There's actual dog poop ahead. Don't step on it.",
    "note": "Kick: reality",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "헐… 고마워.",
-   "rd": "heol… gomawo.",
-   "en": "Whoa… thanks.",
+   "ko": "헐… 진짜? 고마워…",
+   "rd": "heol… jinjja? gomawo…",
+   "en": "Whoa… for real? Thanks…",
    "note": "고마워",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "근데 이왕 막은 김에…",
-   "rd": "geunde iwang mageun gime…",
-   "en": "But since I'm already blocking you…",
+   "ko": "근데… 이왕 이렇게 된 김에, 조금만 더…",
+   "rd": "geunde… iwang ireoke doen gime, jogeumman deo…",
+   "en": "But… since we're already like this, just a little closer…",
    "note": "심쿵 setup",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "(자전거) 비켜요!!",
-   "rd": "(jajeongeo) bikyeoyo!!",
-   "en": "(bicycle) Move!!",
+   "ko": "야!! 비켜!! 자전거 온다!! 뒤에 강아지도 쫓아와!!",
+   "rd": "ya!! bikyeo!! jajeongeo onda!! dwie gangajido jjochawa!!",
+   "en": "Hey!! Move!! Bike's coming!! And a dog's chasing behind too!!",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "(둘 다 벽에 붙는다) …",
-   "rd": "(dul da byeoge bunneunda) …",
-   "en": "(both press against the wall) …",
+   "ko": "(벽에 붙으며) 어… 뭐야, 왜 이렇게 많아…",
+   "rd": "(byeoge buteumyeo) eo… mwoya, wae ireoke mana…",
+   "en": "(pressing against the wall) Uh… what, why's there so much…",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -103,13 +103,17 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "…이제 진짜 그 장면 됐다.",
-   "rd": "…ije jinjja geu jangmyeon dwaetda.",
-   "en": "…Now it really became that scene.",
+   "ko": "(벽에 붙어서 웃으며) …이제 진짜 벽치기 됐다. 헐.",
+   "rd": "(byeoge buteoseo useumyeo) …ije jinjja byeokchigi dwaetda. heol.",
+   "en": "(against the wall, laughing) …Now it's actually the wall-push. Whoa.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
  ],
- "learner_gender": "F"
+ "learner_gender": "F",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a21_grok_rewrite.md [K344]",
+  "final": ""
+ }
 }

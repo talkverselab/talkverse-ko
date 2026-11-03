@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "(띵동) 안녕하세요, 아랫집이에요.",
-   "rd": "(ttingdong) annyeonghaseyo, araetjibieyo.",
-   "en": "(ding-dong) Hello, I'm from downstairs.",
+   "ko": "(띵동) 아, 안녕하세요~ 저 아래층 {name}인데요...",
+   "rd": "(ttingdong) a, annyeonghaseyo~ jeo araecheung {name}indeyo...",
+   "en": "(ding-dong) Oh, hi~ I'm {name} from downstairs...",
    "note": "아랫집",
    "tags": [],
    "new": []
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "아… 강아지 때문이죠? 죄송해요.",
-   "rd": "a… gangaji ttaemunijyo? joesonghaeyo.",
-   "en": "Ah… it's about the dog, right? Sorry.",
+   "ko": "어... 강아지 소리 때문에 올라오신 거 맞죠? 진짜 죄송합니다.",
+   "rd": "eo... gangaji sori ttaemune ollaosin geo matjyo? jinjja joesonghamnida.",
+   "en": "Uh... you came up about the dog, right? I'm really sorry.",
    "note": "강아지",
    "tags": [],
    "new": []
@@ -54,9 +54,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "네… 밤에 좀 짖어서요.",
-   "rd": "ne… bame jom jijeoseoyo.",
-   "en": "Yes… it barks a bit at night.",
+   "ko": "네... 밤에 계속 짖어서 좀 힘들어요.",
+   "rd": "ne... bame gyesok jijeoseo jom himdeureoyo.",
+   "en": "Yeah... it keeps barking at night and it's kinda rough.",
    "note": "짖다",
    "tags": [],
    "new": []
@@ -64,9 +64,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "혼자 있을 때 무서워해요. 제가 밤 근무라서.",
-   "rd": "honja isseul ttae museowohaeyo. jega bam geunmuraseo.",
-   "en": "He gets scared alone. I work nights.",
+   "ko": "혼자 있을 때 무서워하거든요. 제가 야근이 많아서...",
+   "rd": "honja isseul ttae museowohageodeunyo. jega yageuni manaseo...",
+   "en": "He gets scared when he's alone. I have a lot of night shifts...",
    "note": "근무",
    "tags": [],
    "new": []
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "…헐, 너무 귀여워.",
-   "rd": "…heol, neomu gwiyeowo.",
-   "en": "…Whoa, so cute.",
+   "ko": "...헐, 진짜 귀여워.",
+   "rd": "...heol, jinjja gwiyeowo.",
+   "en": "...Whoa, so cute.",
    "note": "귀엽다",
    "tags": [],
    "new": []
@@ -94,9 +94,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "혹시… 저 없을 때 가끔 봐 줄 수 있어요?",
-   "rd": "hoksi… jeo eopseul ttae gakkeum bwa jul su isseoyo?",
-   "en": "By any chance… could you check on him sometimes when I'm out?",
+   "ko": "혹시... 저 없을 때 가끔 같이 있어 줄 수 있어요? 아, 강아지요.",
+   "rd": "hoksi... jeo eopseul ttae gakkeum gachi isseo jul su isseoyo? a, gangajiyo.",
+   "en": "By any chance... could you hang out with him sometimes when I'm out? Oh, the dog.",
    "note": "부탁",
    "tags": [],
    "new": []
@@ -106,7 +106,7 @@
    "speaker": "A",
    "ko": "저요? 진짜요?",
    "rd": "jeoyo? jinjjayo?",
-   "en": "Me? Really?",
+   "en": "Me? For real?",
    "note": "진짜요",
    "tags": [],
    "new": []
@@ -114,9 +114,9 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "짖는 거 들리면 바로 올라와 주세요. 비밀번호 알려 드릴게요.",
-   "rd": "jinneun geo deullimyeon baro ollawa juseyo. bimilbeonho allyeo deurilgeyo.",
-   "en": "If you hear barking, just come up. I'll give you the passcode.",
+   "ko": "응, 짖는 거 들리면 바로 올라와 주세요. 비번 알려 드릴게요.",
+   "rd": "eung, jinneun geo deullimyeon baro ollawa juseyo. bibeon allyeo deurilgeyo.",
+   "en": "Yeah, just come up if you hear him. I'll give you the code.",
    "note": "비밀번호",
    "tags": [],
    "new": []
@@ -124,9 +124,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "그럼 이제 짖는 소리가 반갑겠네요.",
-   "rd": "geureom ije jinneun soriga bangapgenneyo.",
-   "en": "Then I'll actually be glad to hear barking now.",
+   "ko": "그럼 이제 짖는 소리가 반갑겠네요. 괜찮아요.",
+   "rd": "geureom ije jinneun soriga bangapgenneyo. gwaenchanayo.",
+   "en": "Then I'll actually look forward to the barking. It's fine.",
    "note": "심쿵(정)",
    "tags": [],
    "new": []
@@ -144,13 +144,17 @@
   {
    "num": 12,
    "speaker": "B",
-   "ko": "벌써 좋아하네요. 저도요.",
-   "rd": "beolsseo joahaneyo. jeodoyo.",
-   "en": "He likes you already. Me too.",
+   "ko": "벌써 좋아하네요. ...저도요.",
+   "rd": "beolsseo joahaneyo. ...jeodoyo.",
+   "en": "He likes you already. ...Me too.",
    "note": "punchline 심쿵",
    "tags": [],
    "new": []
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r2_life_b4_grok_rewrite.md [K363]",
+  "final": ""
+ }
 }

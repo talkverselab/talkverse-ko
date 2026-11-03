@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "이렇게 반달 모양으로.",
-   "rd": "ireoke bandal moyangeuro.",
-   "en": "Like this, a half-moon shape.",
+   "ko": "자 이렇게 반달로 딱 집어. 손 좀 더 세게.",
+   "rd": "ja ireoke bandallo ttak jibeo. son jom deo sege.",
+   "en": "Okay just pinch it into a half-moon. Squeeze a bit harder.",
    "note": "반달",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "반달… 이렇게?",
-   "rd": "bandal… ireoke?",
-   "en": "Half-moon… like this?",
+   "ko": "반달… 이렇게요? 손가락이 잘 안 움직여.",
+   "rd": "bandal… ireokeyo? songaragi jal an umjigyeo.",
+   "en": "Half-moon… like this? My fingers won't cooperate.",
    "note": "이렇게",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "어머, 그건 별이네.",
-   "rd": "eomeo, geugeon byeorine.",
-   "en": "Oh my, that's a star.",
+   "ko": "어머 그건 별이야. 완전 반짝반짝.",
+   "rd": "eomeo geugeon byeoriya. wanjeon banjjakbanjjak.",
+   "en": "Oh my that's a star. Totally sparkly.",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "다시! …이건?",
-   "rd": "dasi! …igeon?",
-   "en": "Again! …This one?",
+   "ko": "헐 진짜? 다시! 이건… 하트 맞아요?",
+   "rd": "heol jinjja? dasi! igeon… hateu majayo?",
+   "en": "Whoa for real? Again! This one… is it a heart?",
    "note": "다시",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "ㅋㅋ 그건 하트야.",
-   "rd": "ㅋㅋ geugeon hateuya.",
-   "en": "Lol that's a heart.",
+   "ko": "ㅋㅋㅋ 하트도 아니고 뭐야 이거. 폭탄처럼 생겼어.",
+   "rd": "ㅋㅋㅋ hateudo anigo mwoya igeo. poktancheoreom saenggyeosseo.",
+   "en": "Lolol not even a heart, what is this. Looks like a bomb.",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "예쁜 송편 빚으면 예쁜 딸 낳는대.",
-   "rd": "yeppeun songpyeon bijeumyeon yeppeun ttal nanneundae.",
-   "en": "They say pretty songpyeon means a pretty daughter.",
+   "ko": "예쁘게 빚어야 예쁜 딸 낳는대. 근데 이거 다 이상해.",
+   "rd": "yeppeuge bijeoya yeppeun ttal nanneundae. geunde igeo da isanghae.",
+   "en": "They say pretty ones mean a pretty daughter. But all of these are weird.",
    "note": "tradition",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "그럼 저는 별이랑 하트를 낳아요?",
-   "rd": "geureom jeoneun byeorirang hateureul naayo?",
-   "en": "Then will I have a star and a heart?",
+   "ko": "그럼 저는 별이랑 폭탄 낳아요? 할머니 더 주세요.",
+   "rd": "geureom jeoneun byeorirang poktan naayo? halmeoni deo juseyo.",
+   "en": "Then I'm having a star and a bomb? Grandma give me more.",
    "note": "Kick",
    "tags": [],
    "new": []
@@ -103,12 +103,17 @@
   {
    "num": 8,
    "speaker": "C",
-   "ko": "ㅋㅋ 그것도 좋다. 많이 빚어.",
-   "rd": "ㅋㅋ geugeotdo jota. mani bijeo.",
-   "en": "Haha, that's nice too. Make lots.",
+   "ko": "ㅋㅋ 많이 해. 민지가 또 반죽 들고 와서 뒤집어지겠네.",
+   "rd": "ㅋㅋ mani hae. minjiga tto banjuk deulgo waseo dwijibeojigenne.",
+   "en": "Haha make lots. Minji brought more dough again and everything's gonna tip over.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_culture_a6_grok_rewrite.md [K326]",
+  "final": "",
+  "shorten": "data/review/r1_culture_a6_grok_short.md [K402] 턴 [8]"
+ }
 }

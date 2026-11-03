@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "헐! 벌레!",
-   "rd": "heol! beolle!",
-   "en": "Whoa! A bug!",
+   "ko": "헐! 바퀴벌레야!",
+   "rd": "heol! bakwibeolleya!",
+   "en": "Whoa! It's a cockroach!",
    "note": "벌레 = bug",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "어디? 어디?",
-   "rd": "eodi? eodi?",
-   "en": "Where? Where?",
+   "ko": "어디야 어디?",
+   "rd": "eodiya eodi?",
+   "en": "Where is it where?",
    "note": "어디",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "저기! 냉장고 밑!",
-   "rd": "jeogi! naengjanggo mit!",
-   "en": "There! Under the fridge!",
+   "ko": "냉장고 밑에!",
+   "rd": "naengjanggo mite!",
+   "en": "Under the fridge!",
    "note": "밑",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "잠깐만, 휴지!",
-   "rd": "jamkkanman, hyuji!",
-   "en": "Wait, tissues!",
+   "ko": "잠깐만 슬리퍼!",
+   "rd": "jamkkanman seullipeo!",
+   "en": "Wait, the slipper!",
    "note": "휴지",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "(비명) 날았어!!",
-   "rd": "(bimyeong) narasseo!!",
-   "en": "(scream) It flew!!",
+   "ko": "아악!! 날아다녀!!",
+   "rd": "aak!! naradanyeo!!",
+   "en": "Aaaah!! It's flying around!!",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "다 나가! 빨리!",
-   "rd": "da naga! ppalli!",
-   "en": "Everyone out! Quick!",
+   "ko": "다 나와 빨리!",
+   "rd": "da nawa ppalli!",
+   "en": "Everyone come out quick!",
    "note": "빨리",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "(밖에서) …누가 잡아?",
-   "rd": "(bakkeseo) …nuga jaba?",
-   "en": "(outside) …Who's going to catch it?",
+   "ko": "(밖에서) 옆집도 왔어 누가?",
+   "rd": "(bakkeseo) yeopjipdo wasseo nuga?",
+   "en": "(outside) Neighbors came too, who?",
    "note": "누가",
    "tags": [],
    "new": []
@@ -103,12 +103,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "가위바위보.",
-   "rd": "gawibawibo.",
-   "en": "Rock-paper-scissors.",
+   "ko": "가위바위보 하자.",
+   "rd": "gawibawibo haja.",
+   "en": "Let's do rock-paper-scissors.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_life_a8_grok_rewrite.md [K307]",
+  "final": ""
+ }
 }

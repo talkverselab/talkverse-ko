@@ -1,4 +1,4 @@
-[K170] 아래는 영어권 학습자가 한국어를 배우는 앱의 회화 1편 **초안**입니다. 이 초안을 베이스로, 지금 한국 20~30대가 이 장면에서 실제로 할 법한 **구어체 한국어로 새로 써 주세요**(판정이 아니라 재작성). 교과서체·번역투·설명하는 대사·정리된 AI 말투가 전혀 안 나야 합니다. 카톡·현장에서 진짜 쓰는 말투(줄임말·말끝 흐리기·맞장구)로.
+[K377] 아래는 영어권 학습자가 한국어를 배우는 앱의 회화 1편 **초안**입니다. 이 초안을 베이스로, 지금 한국 20~30대가 이 장면에서 실제로 할 법한 **구어체 한국어로 새로 써 주세요**(판정이 아니라 재작성). 교과서체·번역투·설명하는 대사·정리된 AI 말투가 전혀 안 나야 합니다. 카톡·현장에서 진짜 쓰는 말투(줄임말·말끝 흐리기·맞장구)로.
 화자: A = 학습자(외국인, 이름 {name}), B = 유진, C = 민준. 장면: 유진 생일. 몰래 파티를 준비하는데 유진이 한 시간 일찍 도착한다. 말투: casual. 레벨: 고급(턴당 1~3문장, 감정·뉘앙스).
 이 편은 **일상 장면**이다 — 드라마 클리셰를 넣지 말고 진짜 생활 대화로.
 반전 유형 = **카오스**: 일이 걷잡을 수 없이 커지는 장면이다. 끝으로 갈수록 상황이 더 꼬이고 사람·물건이 늘어나게 — 이 카오스를 줄이지 말고 더 세게.
@@ -6,12 +6,12 @@
 출력 형식(이것만, 다른 설명 없이): 줄마다 `번호 화자: 한국어 / English(자연스러운 영어 구어) / 초안에서 무엇을 어떻게 바꿨는지 한 줄`. 마지막 줄에 `추천 표현:` 이 장면에서 한국 사람이 진짜 자주 쓰는데 못 넣은 짧은 표현 2개(한국어 / 뜻).
 
 초안:
-1 A: (속삭이며) 민준아, 풍선 빨리! 유진이 7시에 와. / (whispering) Minjun, the balloons, quick! Yujin comes at 7.
-2 C: 지금 6시야. 케이크는 냉장고에 있어. / It's 6 now. The cake's in the fridge.
-3 A: 좋아. 불 끄고 숨어 있으면 돼. / Good. We just turn off the lights and hide.
-4 B: (문 열리며) 나 왔어~ 일찍 끝났어! / (door opens) I'm here~ I got off early!
-5 A: 헐… 잠깐만! 들어오지 마! / Whoa… wait! Don't come in!
-6 B: 왜? 무슨 소리야? (펑!) / Why? What's that sound? (pop!)
+1 A: (속삭이며) 민준아, 풍선 아직도 다 안 불었잖아. 유진이 7시쯤 온다며, 지금 이 속도면 절대 안 돼. / Minjun, the balloons still aren't all blown up. Yujin said she's coming around 7, there's no way we'll make it at this pace.
+2 C: 지금 막 6시 넘었거든. 케이크는 냉장고에 잘 넣어뒀으니까 그거만 신경 쓰지 마. / It's just past 6. The cake's safely in the fridge, so don't worry about that.
+3 A: 좋아. 그럼 불만 끄고 저쪽 커튼 뒤에 숨어 있으면 되는 거지? 소리 내지 말고. / Okay. So we just turn the lights off and hide behind that curtain, right? No noise.
+4 B: (문 열리며) 어? 나 왔어~ 일 생각보다 일찍 끝나서 바로 왔지. / Huh? I'm here~ Work finished earlier than I thought so I came straight over.
+5 A: 헐… 잠깐만! 들어오지 마, 그냥 거기서 잠깐만 기다려! / Whoa… wait! Don't come in, just wait there for a sec!
+6 B: 왜 그래? 무슨 소리야 이게? (펑! 펑! 또 펑!) 뭐가 계속 터지는데? / Why? What's that sound? (pop! pop! another pop!) What's keep bursting?
 7 C: 아, 풍선 터졌다! 케이크, 케이크! / Ah, a balloon popped! The cake, the cake!
 8 A: (쿵) …케이크 떨어졌어. / (thud) …The cake fell.
 9 B: …설마 이거 다 나 때문에? / …Don't tell me this is all for me?

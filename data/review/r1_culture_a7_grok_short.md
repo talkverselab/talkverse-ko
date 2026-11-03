@@ -1,0 +1,1 @@
+8 C: (크게 웃으며) 한 번 더! 더 세게! / (laughing harder) One more time! Louder! / 무대에서 더를 크게로 줄이고 다 같이·해 봐요를 덜어냄

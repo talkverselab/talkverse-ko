@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "처음 오셨어요? 신분증요.",
-   "rd": "cheoeum osyeosseoyo? sinbunjeungyo.",
-   "en": "First visit? ID please.",
+   "ko": "처음 오시는 분 맞으시죠? 신분증이랑 보험증 좀 보여주시겠어요?",
+   "rd": "cheoeum osineun bun majeusijyo? sinbunjeungirang boheomjeung jom boyeojusigesseoyo?",
+   "en": "You're a first-timer, right? Mind showing me your ID and insurance card?",
    "note": "신분증",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "네, 여기요.",
-   "rd": "ne, yeogiyo.",
-   "en": "Yes, here.",
+   "ko": "네, 여기 있어요.",
+   "rd": "ne, yeogi isseoyo.",
+   "en": "Yeah, here they are.",
    "note": "여기요",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "주소, 전화번호, 증상, 알레르기, 복용 중인 약 써 주세요.",
-   "rd": "juso, jeonhwabeonho, jeungsang, allereugi, bogyong jungin yak sseo juseyo.",
-   "en": "Write your address, phone, symptoms, allergies, and current medication.",
+   "ko": "주소 전화 아픈 곳 알레르기 약 종이에 적어 주세요.",
+   "rd": "juso jeonhwa apeun got allereugi yak jongie jeogeo juseyo.",
+   "en": "Write your address, phone, where it hurts, allergies and meds on the form.",
    "note": "Kick: too many questions",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "천천히 말해 주세요…",
-   "rd": "cheoncheonhi malhae juseyo…",
-   "en": "Please speak slowly…",
+   "ko": "천천히 말해 주세요. 너무 빨라서 따라가기 힘들어요.",
+   "rd": "cheoncheonhi malhae juseyo. neomu ppallaseo ttaragagi himdeureoyo.",
+   "en": "Please speak slowly. You're going too fast, I can't keep up.",
    "note": "천천히",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "하나씩 할게요. 어디가 아파요?",
-   "rd": "hanassik halgeyo. eodiga apayo?",
-   "en": "One at a time. Where does it hurt?",
+   "ko": "네, 하나씩 할게요. 어디가 제일 불편하세요? 전화 잠깐만요!",
+   "rd": "ne, hanassik halgeyo. eodiga jeil bulpyeonhaseyo? jeonhwa jamkkanmanyo!",
+   "en": "Okay, one at a time. Where does it hurt most? Phone, hang on!",
    "note": "하나씩",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "배요. 어제 떡볶이 세 그릇 먹었어요.",
-   "rd": "baeyo. eoje tteokbokki se geureut meogeosseoyo.",
-   "en": "My stomach. I ate three bowls of tteokbokki yesterday.",
+   "ko": "배가 아파요. 어제 떡볶이 세 그릇 먹었는데, 약은 잘 모르겠어요.",
+   "rd": "baega apayo. eoje tteokbokki se geureut meogeonneunde, yageun jal moreugesseoyo.",
+   "en": "My stomach hurts. I ate three bowls of tteokbokki yesterday, but I don't really know about the meds.",
    "note": "Kick: callback",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "(옆 환자) 저도요!",
-   "rd": "(yeop hwanja) jeodoyo!",
-   "en": "(another patient) Me too!",
+   "ko": "(옆에서) 저도 배 아파요! 떡볶이 먹었어요. 뒤에 세 명!",
+   "rd": "(yeopeseo) jeodo bae apayo! tteokbokki meogeosseoyo. dwie se myeong!",
+   "en": "(from the side) My stomach hurts too! Had tteokbokki too. Three more behind!",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -103,12 +103,18 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "…오늘 떡볶이 환자 다섯 번째예요.",
-   "rd": "…oneul tteokbokki hwanja daseot beonjjaeyeyo.",
-   "en": "…You're the fifth tteokbokki patient today.",
+   "ko": "헐, 떡볶이 환자 여덟 명째예요. 번호 뽑고 줄 서세요!",
+   "rd": "heol, tteokbokki hwanja yeodeol myeongjjaeyeyo. beonho ppopgo jul seoseyo!",
+   "en": "Whoa, eighth tteokbokki patient already. Grab a number and line up!",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_survival_s8_grok_rewrite.md [K352]",
+  "final": "",
+  "shorten": "data/review/r1_survival_s8_grok_short.md [K416] 턴 [3, 5, 7, 8]",
+  "manual": "턴 7 어절 1개 덜어냄(세션)"
+ }
 }

@@ -1,0 +1,1 @@
+5 D: ㅋㅋ 처음부터 켜져 있었지 다들 폰으로 찍고 단톡에 올려. / Lmao it was on from the start, everyone’s filming with their phones and posting to the group chat. / 지금을 빼고 ‘올리고 있어’를 ‘올려’로 줄임.

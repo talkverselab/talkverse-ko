@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "오늘 단어. 「설레다」.",
-   "rd": "oneul daneo. 「seolleda」.",
-   "en": "Today's word: \"설레다\" (to flutter).",
+   "ko": "야, 오늘 단어 설레다야. 들어본 적 있어?",
+   "rd": "ya, oneul daneo seolledaya. deureobon jeok isseo?",
+   "en": "Hey, today's word is 설레다. Ever heard it?",
    "note": "설레다",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "무슨 뜻이야?",
-   "rd": "museun tteusiya?",
-   "en": "What does it mean?",
+   "ko": "설레다? 무슨 뜻이야?",
+   "rd": "seolleda? museun tteusiya?",
+   "en": "설레다? What's that mean?",
    "note": "뜻",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "좋아하는 사람 볼 때 느낌.",
-   "rd": "joahaneun saram bol ttae neukkim.",
-   "en": "The feeling when you see someone you like.",
+   "ko": "좋아하는 사람 보면 심장이 두근거리는 거야.",
+   "rd": "joahaneun saram bomyeon simjangi dugeungeorineun geoya.",
+   "en": "It's when your heart goes thump-thump seeing someone you like.",
    "note": "느낌",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "예문 만들어 볼게. 「나는 지금 설레요.」",
-   "rd": "yemun mandeureo bolge. 「naneun jigeum seolleyo.」",
-   "en": "Let me make an example. \"I'm fluttering right now.\"",
+   "ko": "알겠어. 나 지금 설레. 하늘 보고 있어서.",
+   "rd": "algesseo. na jigeum seolle. haneul bogo isseoseo.",
+   "en": "Got it. I'm fluttering right now. Looking at 하늘.",
    "note": "예문",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "…왜 지금이야?",
-   "rd": "…wae jigeumiya?",
-   "en": "…Why right now?",
+   "ko": "진짜...? 왜 지금이야.",
+   "rd": "jinjja...? wae jigeumiya.",
+   "en": "For real...? Why now.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "선생님 보고 있어서.",
-   "rd": "seonsaengnim bogo isseoseo.",
-   "en": "Because I'm looking at my teacher.",
+   "ko": "선생님이 예뻐 보여서. 아 하늘이.",
+   "rd": "seonsaengnimi yeppeo boyeoseo. a haneuri.",
+   "en": "'Cause the teacher looks pretty. I mean 하늘.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "…그건 숙제 아니야.",
-   "rd": "…geugeon sukje aniya.",
-   "en": "…That's not homework.",
+   "ko": "...그건 숙제 아니야.",
+   "rd": "...geugeon sukje aniya.",
+   "en": "...That's not homework.",
    "note": "flustered",
    "tags": [],
    "new": []
@@ -102,9 +102,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "그럼 시험에 내 줘.",
-   "rd": "geureom siheome nae jwo.",
-   "en": "Then put it on the test.",
+   "ko": "그럼 시험에 내 줘. 내가 외웠잖아.",
+   "rd": "geureom siheome nae jwo. naega oewotjana.",
+   "en": "Then put it on the test. I memorized it.",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -112,5 +112,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a20_grok_rewrite.md [K343]",
+  "final": ""
+ }
 }

@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "택배 왔어요!",
-   "rd": "taekbae wasseoyo!",
-   "en": "Delivery!",
+   "ko": "문 앞에 상자 다 뒀어요!",
+   "rd": "mun ape sangja da dwosseoyo!",
+   "en": "I left all the boxes by the door!",
    "note": "택배",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "감사합니다!",
-   "rd": "gamsahamnida!",
-   "en": "Thank you!",
+   "ko": "네, 감사합니다!",
+   "rd": "ne, gamsahamnida!",
+   "en": "Yeah, thanks!",
    "note": "감사합니다",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "여기 사인요.",
-   "rd": "yeogi sainyo.",
-   "en": "Sign here.",
+   "ko": "사인 여기 좀 해주세요.",
+   "rd": "sain yeogi jom haejuseyo.",
+   "en": "Sign here real quick, please.",
    "note": "사인",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "…상자가 열 개예요?",
-   "rd": "…sangjaga yeol gaeyeyo?",
-   "en": "…Ten boxes?",
+   "ko": "헐… 상자가 열 개예요?",
+   "rd": "heol… sangjaga yeol gaeyeyo?",
+   "en": "Wait… there are ten boxes?",
    "note": "Kick",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "네. {name} 씨 거요.",
-   "rd": "ne. {name} ssi geoyo.",
-   "en": "Yes. They're yours, {name}.",
+   "ko": "네. {name} 씨 거 전부예요.",
+   "rd": "ne. {name} ssi geo jeonbuyeyo.",
+   "en": "Yeah. All of them are {name}’s.",
    "note": "이름",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "저 하나만 샀어요!",
-   "rd": "jeo hanaman sasseoyo!",
-   "en": "I only bought one!",
+   "ko": "저 하나만 샀거든요!",
+   "rd": "jeo hanaman satgeodeunyo!",
+   "en": "I only bought one, though!",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "(전화) 아들, 엄마가 보냈어!",
-   "rd": "(jeonhwa) adeul, eommaga bonaesseo!",
-   "en": "(phone) Son, Mom sent them!",
+   "ko": "(전화) 아들, 엄마가 보냈고 이모도 보냈어!",
+   "rd": "(jeonhwa) adeul, eommaga bonaetgo imodo bonaesseo!",
+   "en": "(on the phone) Son, Mom sent them and Auntie did too!",
    "note": "Kick: mom",
    "tags": [],
    "new": []
@@ -103,12 +103,16 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…김치 열 통?",
-   "rd": "…gimchi yeol tong?",
-   "en": "…Ten tubs of kimchi?",
+   "ko": "네? 김치 열 통에 이모까지요?",
+   "rd": "ne? gimchi yeol tonge imokkajiyo?",
+   "en": "What? Ten tubs of kimchi and Auntie too?",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_life_a9_grok_rewrite.md [K308]",
+  "final": ""
+ }
 }

@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "C",
-   "ko": "오늘 배추 200포기다.",
-   "rd": "oneul baechu 200pogida.",
-   "en": "Today it's 200 heads of cabbage.",
+   "ko": "배추 이백 포기 왔어. 오늘 다 해치워야 해.",
+   "rd": "baechu ibaek pogi wasseo. oneul da haechiwoya hae.",
+   "en": "Two hundred heads of cabbage just got here. We gotta finish all of it today.",
    "note": "포기",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "200? 오늘 하루에요?",
-   "rd": "200? oneul harueyo?",
-   "en": "200? In one day?",
+   "ko": "이백 포기요? 진짜요? 하루에?",
+   "rd": "ibaek pogiyo? jinjjayo? harue?",
+   "en": "Two hundred heads? For real? In one day?",
    "note": "하루",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "응. 온 가족 다 와.",
-   "rd": "eung. on gajok da wa.",
-   "en": "Yep. The whole family comes.",
+   "ko": "응. 할머니 친구분들이랑 이모들도 다 오신대.",
+   "rd": "eung. halmeoni chingubundeurirang imodeuldo da osindae.",
+   "en": "Yeah. Grandma’s friends and the aunts are all coming too.",
    "note": "가족",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "(장갑 끼고) 이렇게 양념 발라요?",
-   "rd": "(janggap kkigo) ireoke yangnyeom ballayo?",
-   "en": "(gloves on) Spread the seasoning like this?",
+   "ko": "(장갑) 양념 이만큼 바르면 돼요? 많네.",
+   "rd": "(janggap) yangnyeom imankeum bareumyeon dwaeyo? manne.",
+   "en": "(gloves) Is this much seasoning okay? It’s a lot.",
    "note": "양념",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "더 많이! 팍팍!",
-   "rd": "deo mani! pakpak!",
-   "en": "More! Lots!",
+   "ko": "더 팍팍! 손 아끼지 말고 얼굴에도 묻혀!",
+   "rd": "deo pakpak! son akkiji malgo eolguredo mutyeo!",
+   "en": "Slap on more! Don’t hold back, get it on your face too!",
    "note": "팍팍",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "(얼굴에 튀어서) 헐, 매워!",
-   "rd": "(eolgure twieoseo) heol, maewo!",
-   "en": "(splashes face) Whoa, spicy!",
+   "ko": "(얼굴에 튀어서) 헐! 진짜 매워! 근데 맛있다…",
+   "rd": "(eolgure twieoseo) heol! jinjja maewo! geunde masitda…",
+   "en": "(splashes face) Whoa! It’s so spicy! But it tastes good…",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋ 이제 진짜 김장한 얼굴이야.",
-   "rd": "ㅋㅋ ije jinjja gimjanghan eolguriya.",
-   "en": "Lol now you have a real kimjang face.",
+   "ko": "ㅋㅋ 양념 얼굴에 다 묻었네. 이제 진짜 김장 멤버다.",
+   "rd": "ㅋㅋ yangnyeom eolgure da mudeonne. ije jinjja gimjang membeoda.",
+   "en": "Lol your face is covered in seasoning. Now you’re a real kimjang member.",
    "note": "얼굴",
    "tags": [],
    "new": []
@@ -103,12 +103,17 @@
   {
    "num": 8,
    "speaker": "C",
-   "ko": "수육 먹고 하자. 그게 김장이야.",
-   "rd": "suyuk meokgo haja. geuge gimjangiya.",
-   "en": "Let's eat boiled pork first. That's kimjang.",
+   "ko": "수육 먹고 시작하자. 배고프면 못 해. 옆집 아줌마도 온대.",
+   "rd": "suyuk meokgo sijakaja. baegopeumyeon mot hae. yeopjip ajummado ondae.",
+   "en": "Let’s eat the pork first. Can’t work if we’re hungry. Neighbor lady’s coming too.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_culture_a8_grok_rewrite.md [K328]",
+  "final": "",
+  "shorten": "data/review/r1_culture_a8_grok_short.md [K404] 턴 [4, 8]"
+ }
 }

@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "어? 전화 왔다. 「남편」?",
-   "rd": "eo? jeonhwa watda. 「nampyeon」?",
-   "en": "Huh? A call. \"Husband\"?",
+   "ko": "뭐야, 전화 왔는데 남편?",
+   "rd": "mwoya, jeonhwa wanneunde nampyeon?",
+   "en": "What, a call came and it says husband?",
    "note": "남편",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "ㅋㅋ 나야.",
-   "rd": "ㅋㅋ naya.",
-   "en": "Lol it's me.",
+   "ko": "ㅋㅋ 나야 나.",
+   "rd": "ㅋㅋ naya na.",
+   "en": "Lol it's me, me.",
    "note": "나야",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "왜 남편이야?",
-   "rd": "wae nampyeoniya?",
-   "en": "Why \"husband\"?",
+   "ko": "왜 남편으로 해놓은 거야?",
+   "rd": "wae nampyeoneuro haenoeun geoya?",
+   "en": "Why'd you save it as husband?",
    "note": "왜",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "미리 저장했어.",
-   "rd": "miri jeojanghaesseo.",
-   "en": "I saved it in advance.",
+   "ko": "미리 저장해뒀지. 민준이도 봤어.",
+   "rd": "miri jeojanghaedwotji. minjunido bwasseo.",
+   "en": "I saved it ahead. Minjun saw it too.",
    "note": "심쿵 kick",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "(옆에서) 헐, 결혼했어?",
-   "rd": "(yeopeseo) heol, gyeolhonhaesseo?",
-   "en": "(nearby) Whoa, you're married?",
+   "ko": "헐 뭐야, 결혼한 거야?",
+   "rd": "heol mwoya, gyeolhonhan geoya?",
+   "en": "Whoa what, you're married?",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "아니야!",
-   "rd": "aniya!",
-   "en": "No!",
+   "ko": "아니야, 진짜 아니야!",
+   "rd": "aniya, jinjja aniya!",
+   "en": "No, seriously no!",
    "note": "아니야",
    "tags": [],
    "new": []
@@ -93,8 +93,8 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "아직.",
-   "rd": "ajik.",
+   "ko": "아직이야.",
+   "rd": "ajigiya.",
    "en": "Not yet.",
    "note": "심쿵",
    "tags": [],
@@ -103,9 +103,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…아직?",
-   "rd": "…ajik?",
-   "en": "…Not yet?",
+   "ko": "…아직이라고?",
+   "rd": "…ajigirago?",
+   "en": "…You mean not yet?",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -113,5 +113,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_a22_grok_rewrite.md [K314]",
+  "final": ""
+ }
 }

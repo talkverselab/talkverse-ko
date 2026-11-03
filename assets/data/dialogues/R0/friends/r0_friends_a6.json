@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "게임 전에 라면!",
-   "rd": "geim jeone ramyeon!",
-   "en": "Ramyeon before games!",
+   "ko": "라면 먼저 시킬래?",
+   "rd": "ramyeon meonjeo sikillae?",
+   "en": "Wanna order ramyeon first?",
    "note": "라면",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "PC방에서 라면?",
-   "rd": "PCbangeseo ramyeon?",
-   "en": "Ramyeon at a PC bang?",
+   "ko": "진짜? PC방에서?",
+   "rd": "jinjja? PCbangeseo?",
+   "en": "For real? At a PC bang?",
    "note": "PC방",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "응. 자리에서 시켜.",
-   "rd": "eung. jarieseo sikyeo.",
-   "en": "Yeah. Order from your seat.",
+   "ko": "응, 여기서 눌러.",
+   "rd": "eung, yeogiseo nulleo.",
+   "en": "Yeah, just press here.",
    "note": "시키다",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "(쾅) 어? 국물!",
-   "rd": "(kwang) eo? gungmul!",
-   "en": "(bump) Huh? The soup!",
+   "ko": "아악 국물 다!",
+   "rd": "aak gungmul da!",
+   "en": "Ahh, all the soup!",
    "note": "Kick: spill — chaos",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "헐, 키보드!",
-   "rd": "heol, kibodeu!",
-   "en": "Whoa, the keyboard!",
+   "ko": "헐 키보드 완전 젖어!",
+   "rd": "heol kibodeu wanjeon jeojeo!",
+   "en": "Whoa, the keyboard's totally soaked!",
    "note": "키보드",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "괜찮아요, 새 거 드릴게요.",
-   "rd": "gwaenchanayo, sae geo deurilgeyo.",
-   "en": "It's fine, I'll give you a new one.",
+   "ko": "새 키보드 드릴게요.",
+   "rd": "sae kibodeu deurilgeyo.",
+   "en": "I'll bring a new keyboard.",
    "note": "새 거",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "감사합니다… 라면은요?",
-   "rd": "gamsahamnida… ramyeoneunyo?",
-   "en": "Thank you… and the ramyeon?",
+   "ko": "옆자리까지 갔어요…",
+   "rd": "yeopjarikkaji gasseoyo…",
+   "en": "It went to the next seat too…",
    "note": "라면",
    "tags": [],
    "new": []
@@ -103,12 +103,16 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "라면도 새 거!",
-   "rd": "ramyeondo sae geo!",
-   "en": "A new ramyeon too!",
+   "ko": "좋아 다 새로 시키자!",
+   "rd": "joa da saero sikija!",
+   "en": "Alright, let's just reorder everything!",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_friends_a6_grok_rewrite.md [K303]",
+  "final": ""
+ }
 }

@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "❤️",
-   "rd": "❤️",
-   "en": "❤️",
+   "ko": "하트 보냈지",
+   "rd": "hateu bonaetji",
+   "en": "Wait, I sent a heart?",
    "note": "heart",
    "tags": [],
    "new": [],
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "어? 이거 나한테?",
-   "rd": "eo? igeo nahante?",
-   "en": "Huh? Is this for me?",
+   "ko": "응 나한테?",
+   "rd": "eung nahante?",
+   "en": "Yeah, to me?",
    "note": "나한테",
    "tags": [],
    "new": [],
@@ -56,9 +56,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "아 실수!",
-   "rd": "a silsu!",
-   "en": "Oops, mistake!",
+   "ko": "아 실수야 ㅋㅋ",
+   "rd": "a silsuya ㅋㅋ",
+   "en": "Ah, it's a mistake lol",
    "note": "실수",
    "tags": [],
    "new": [],
@@ -68,9 +68,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "ㅋㅋ 그래?",
-   "rd": "ㅋㅋ geurae?",
-   "en": "Lol really?",
+   "ko": "아 진짜?",
+   "rd": "a jinjja?",
+   "en": "Oh, really?",
    "note": "그래?",
    "tags": [],
    "new": [],
@@ -80,9 +80,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "…아니. 실수 아니야.",
-   "rd": "…ani. silsu aniya.",
-   "en": "…No. Not a mistake.",
+   "ko": "…아 들켰네. 일부러야",
+   "rd": "…a deulkyeonne. ilbureoya",
+   "en": "…Ah, you caught me. On purpose",
    "note": "심쿵",
    "tags": [],
    "new": [],
@@ -92,9 +92,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "헐.",
-   "rd": "heol.",
-   "en": "Whoa.",
+   "ko": "헐 대박",
+   "rd": "heol daebak",
+   "en": "Whoa, no way",
    "note": "헐",
    "tags": [],
    "new": [],
@@ -104,9 +104,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "자. 내일 말할게.",
-   "rd": "ja. naeil malhalge.",
-   "en": "Sleep. I'll tell you tomorrow.",
+   "ko": "자 내일 말해",
+   "rd": "ja naeil malhae",
+   "en": "Sleep, I'll tell you tomorrow",
    "note": "내일",
    "tags": [],
    "new": [],
@@ -116,9 +116,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "지금 말해 줘!",
-   "rd": "jigeum malhae jwo!",
-   "en": "Tell me now!",
+   "ko": "지금 말해 줘",
+   "rd": "jigeum malhae jwo",
+   "en": "Tell me now",
    "note": "punchline",
    "tags": [],
    "new": [],
@@ -126,5 +126,9 @@
    "at": "23:53"
   }
  ],
- "learner_gender": "F"
+ "learner_gender": "F",
+ "review": {
+  "grok_rewrite": "data/review/r0_love_c8_grok_rewrite.md [K315]",
+  "final": ""
+ }
 }

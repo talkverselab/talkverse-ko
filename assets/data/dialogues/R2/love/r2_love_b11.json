@@ -36,9 +36,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "오늘 뭐 했어?",
-   "rd": "oneul mwo haesseo?",
-   "en": "What did you do today?",
+   "ko": "오늘 뭐 하고 있었어 진짜?",
+   "rd": "oneul mwo hago isseosseo jinjja?",
+   "en": "What were you actually up to today?",
    "note": "오늘",
    "tags": [],
    "new": []
@@ -46,9 +46,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "그냥 집에서… 어? 엄마?",
-   "rd": "geunyang jibeseo… eo? eomma?",
-   "en": "Just at home… huh? Mom?",
+   "ko": "그냥 집에서 쉬고 있었는데… 어 엄마?",
+   "rd": "geunyang jibeseo swigo isseonneunde… eo eomma?",
+   "en": "Just chilling at home… oh, Mom?",
    "note": "엄마",
    "tags": [],
    "new": []
@@ -56,9 +56,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "어머, 이 아가씨가 유진이니?",
-   "rd": "eomeo, i agassiga yujinini?",
-   "en": "Oh my, is this young lady Yujin?",
+   "ko": "어머나, 이 예쁜 아가씨가 유진이구나!",
+   "rd": "eomeona, i yeppeun agassiga yujiniguna!",
+   "en": "Oh my, so this pretty young lady is Yujin!",
    "note": "Kick: mom appears",
    "tags": [],
    "new": []
@@ -66,9 +66,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "헐… 안, 안녕하세요!",
-   "rd": "heol… an, annyeonghaseyo!",
-   "en": "Whoa… h-hello!",
+   "ko": "헐 잠깐만! 안녕하세요…",
+   "rd": "heol jamkkanman! annyeonghaseyo…",
+   "en": "Whoa wait a sec! Hello…",
    "note": "안녕하세요",
    "tags": [],
    "new": []
@@ -76,9 +76,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "한국어 잘하는 우리 아들 여자친구! 예쁘다!",
-   "rd": "hangugeo jalhaneun uri adeul yeojachingu! yeppeuda!",
-   "en": "My son's girlfriend who speaks Korean! So pretty!",
+   "ko": "우리 아들 여자친구네? 한국말 잘하네 진짜 예쁘다!",
+   "rd": "uri adeul yeojachingune? hangungmal jalhane jinjja yeppeuda!",
+   "en": "So it's our son's girlfriend? Speaks Korean well, so pretty for real!",
    "note": "칭찬",
    "tags": [],
    "new": []
@@ -86,9 +86,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "엄마, 한국어 알아?",
-   "rd": "eomma, hangugeo ara?",
-   "en": "Mom, you know Korean?",
+   "ko": "엄마 한국말 할 줄 알아요?",
+   "rd": "eomma hangungmal hal jul arayo?",
+   "en": "Mom, you can speak Korean?",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -96,9 +96,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "드라마로 배웠지. 사랑해요~",
-   "rd": "deuramaro baewotji. saranghaeyo~",
-   "en": "Learned from dramas. Saranghaeyo~",
+   "ko": "드라마 보면서 배웠어. 사랑해요~",
+   "rd": "deurama bomyeonseo baewosseo. saranghaeyo~",
+   "en": "Learned watching dramas. Saranghaeyo~",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -106,9 +106,9 @@
   {
    "num": 8,
    "speaker": "D",
-   "ko": "(아빠) 나도 보자! 누구야?",
-   "rd": "(appa) nado boja! nuguya?",
-   "en": "(Dad) Let me see too! Who is it?",
+   "ko": "나도 좀 보자! 이 사람이 누구야?",
+   "rd": "nado jom boja! i sarami nuguya?",
+   "en": "Let me see too for a sec! Who is this person?",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -116,9 +116,9 @@
   {
    "num": 9,
    "speaker": "E",
-   "ko": "(할머니) 결혼은 언제?",
-   "rd": "(halmeoni) gyeolhoneun eonje?",
-   "en": "(Grandma) When's the wedding?",
+   "ko": "결혼은 언제 하냐? 손주 빨리 보고 싶구나!",
+   "rd": "gyeolhoneun eonje hanya? sonju ppalli bogo sipguna!",
+   "en": "When's the wedding? Want to see grandkids soon!",
    "note": "chaos peak",
    "tags": [],
    "new": []
@@ -126,9 +126,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "아 몰라… 다들 나가!",
-   "rd": "a molla… dadeul naga!",
-   "en": "Ugh… everyone out!",
+   "ko": "아 몰라… 다들 잠깐만 나가 좀!",
+   "rd": "a molla… dadeul jamkkanman naga jom!",
+   "en": "Ugh I dunno… everyone wait a sec get out!",
    "note": "아 몰라",
    "tags": [],
    "new": []
@@ -136,9 +136,9 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "ㅋㅋ 아니야. 다 너무 좋아.",
-   "rd": "ㅋㅋ aniya. da neomu joa.",
-   "en": "Lol no. I love them all.",
+   "ko": "ㅋㅋㅋㅋ 아니야 다 너무 좋아 진짜.",
+   "rd": "ㅋㅋㅋㅋ aniya da neomu joa jinjja.",
+   "en": "Lol no, I love them all so much.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -146,13 +146,17 @@
   {
    "num": 12,
    "speaker": "C",
-   "ko": "유진아, 다음 달에 놀러 와!",
-   "rd": "yujina, daeum dare nolleo wa!",
-   "en": "Yujin, come visit next month!",
+   "ko": "유진아 다음 달에 꼭 놀러 와! 맛있는 거 해줄게!",
+   "rd": "yujina daeum dare kkok nolleo wa! masinneun geo haejulge!",
+   "en": "Yujin come visit next month for sure! I'll make something yummy!",
    "note": "punchline",
    "tags": [],
    "new": []
   }
  ],
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r2_love_b11_grok_rewrite.md [K366]",
+  "final": ""
+ }
 }

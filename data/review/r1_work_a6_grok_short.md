@@ -1,0 +1,1 @@
+4 C: 어? 저도 방금 알았어요. 세 달째 김인 줄 알았네요. / Huh? I just found out too. Thought I was Kim for three months. / "내가"를 빼고 "알고 있었네요"를 "알았네요"로 줄임.

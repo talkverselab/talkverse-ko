@@ -35,9 +35,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "김 팀장님, 보고서입니다.",
-   "rd": "gim timjangnim, bogoseoimnida.",
-   "en": "Team leader Kim, here's the report.",
+   "ko": "김 팀장님, 보고서 가져왔어요. 봐 주세요.",
+   "rd": "gim timjangnim, bogoseo gajyeowasseoyo. bwa juseyo.",
+   "en": "Team leader Kim, I brought the report. Please take a look.",
    "note": "팀장님",
    "tags": [],
    "new": []
@@ -45,9 +45,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "(속삭이며) …팀장님 박 씨야.",
-   "rd": "(soksagimyeo) …timjangnim bak ssiya.",
-   "en": "(whisper) …The boss is Park.",
+   "ko": "(작게) …팀장님 박 씨예요. 김 아니에요.",
+   "rd": "(jakge) …timjangnim bak ssiyeyo. gim anieyo.",
+   "en": "(softly) …The team leader is Park. Not Kim.",
    "note": "Kick",
    "tags": [],
    "new": []
@@ -55,9 +55,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "네? 3개월 동안 김이라고 했는데요?",
-   "rd": "ne? 3gaewol dongan gimirago haenneundeyo?",
-   "en": "What? I've been calling him Kim for three months?",
+   "ko": "네? 헐… 3개월 동안 김이라고 불렀는데 진짜요?",
+   "rd": "ne? heol… 3gaewol dongan gimirago bulleonneunde jinjjayo?",
+   "en": "What? Whoa… I’ve been calling him Kim for three months, really?",
    "note": "3개월",
    "tags": [],
    "new": []
@@ -65,9 +65,9 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "괜찮아요. 저도 몰랐네요, 내가 김인 줄.",
-   "rd": "gwaenchanayo. jeodo mollanneyo, naega gimin jul.",
-   "en": "It's fine. I didn't realize I was Kim either.",
+   "ko": "어? 저도 방금 알았어요. 세 달째 김인 줄 알았네요.",
+   "rd": "eo? jeodo banggeum arasseoyo. se daljjae gimin jul aranneyo.",
+   "en": "Huh? I just found out too. Thought I was Kim for three months.",
    "note": "joke",
    "tags": [],
    "new": []
@@ -75,9 +75,9 @@
   {
    "num": 5,
    "speaker": "D",
-   "ko": "(옆에서) 저도 김 팀장님이라고 했어요…",
-   "rd": "(yeopeseo) jeodo gim timjangnimirago haesseoyo…",
-   "en": "(nearby) I've been calling him Kim too…",
+   "ko": "어라… 저도 계속 김 팀장님이라고 불렀어요.",
+   "rd": "eora… jeodo gyesok gim timjangnimirago bulleosseoyo.",
+   "en": "Oh… I’ve been calling him Team Leader Kim too.",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -85,9 +85,9 @@
   {
    "num": 6,
    "speaker": "E",
-   "ko": "저도요.",
-   "rd": "jeodoyo.",
-   "en": "Me too.",
+   "ko": "진짜요? 저도요. 그럼 메일 서명도 다 김으로 나갔겠네요.",
+   "rd": "jinjjayo? jeodoyo. geureom meil seomyeongdo da gimeuro nagatgenneyo.",
+   "en": "Really? Me too. Then the email signatures must have all gone out as Kim.",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -95,9 +95,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "…이제부터 김 팀장 할까요?",
-   "rd": "…ijebuteo gim timjang halkkayo?",
-   "en": "…Should I just be Team Leader Kim from now on?",
+   "ko": "…그럼 이제부터 김으로 할까요? 제가 박에서 김으로 바꿀까요?",
+   "rd": "…geureom ijebuteo gimeuro halkkayo? jega bageseo gimeuro bakkulkkayo?",
+   "en": "…Then should we just go with Kim from now on? Should I change from Park to Kim?",
    "note": "joke",
    "tags": [],
    "new": []
@@ -105,12 +105,17 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "죄송합니다, 박 팀장님!",
-   "rd": "joesonghamnida, bak timjangnim!",
-   "en": "Sorry, Team Leader Park!",
+   "ko": "죄송합니다, 박 팀장님! 착각했어요.",
+   "rd": "joesonghamnida, bak timjangnim! chakgakaesseoyo.",
+   "en": "I’m sorry, Team Leader Park! I got it mixed up.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_work_a6_grok_rewrite.md [K358]",
+  "final": "",
+  "shorten": "data/review/r1_work_a6_grok_short.md [K420] 턴 [4]"
+ }
 }

@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "생일 축하해!!",
-   "rd": "saengil chukahae!!",
-   "en": "Happy birthday!!",
+   "ko": "서아야 생일 축하해!!",
+   "rd": "seoaya saengil chukahae!!",
+   "en": "Happy birthday Seo-a!!",
    "note": "생일 축하해",
    "tags": [],
    "new": [],
@@ -45,9 +45,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "헐 1등! 고마워 ㅠㅠ",
-   "rd": "heol 1deung! gomawo ㅠㅠ",
-   "en": "Whoa first! Thanks ㅠㅠ",
+   "ko": "헐 {name} 1등이다 고마워",
+   "rd": "heol {name} 1deungida gomawo",
+   "en": "Whoa {name} you're first thanks",
    "note": "1등",
    "tags": [],
    "new": [],
@@ -57,9 +57,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "아 2등…",
-   "rd": "a 2deung…",
-   "en": "Ah, second…",
+   "ko": "아 나 2등...",
+   "rd": "a na 2deung...",
+   "en": "Ah I'm second...",
    "note": "2등",
    "tags": [],
    "new": [],
@@ -69,9 +69,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "ㅋㅋ 선물은 내일!",
-   "rd": "ㅋㅋ seonmureun naeil!",
-   "en": "Lol gift tomorrow!",
+   "ko": "ㅋㅋ 선물은 떡볶이야",
+   "rd": "ㅋㅋ seonmureun tteokbokkiya",
+   "en": "lol the gift is tteokbokki",
    "note": "선물",
    "tags": [],
    "new": [],
@@ -81,9 +81,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "뭐야? 힌트!",
-   "rd": "mwoya? hinteu!",
-   "en": "What is it? Hint!",
+   "ko": "뭐야 진짜??",
+   "rd": "mwoya jinjja??",
+   "en": "What seriously??",
    "note": "힌트",
    "tags": [],
    "new": [],
@@ -93,9 +93,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "먹는 거.",
-   "rd": "meongneun geo.",
-   "en": "Something to eat.",
+   "ko": "응 먹는 거...",
+   "rd": "eung meongneun geo...",
+   "en": "Yeah something to eat...",
    "note": "Kick setup",
    "tags": [],
    "new": [],
@@ -105,9 +105,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "케이크?",
-   "rd": "keikeu?",
-   "en": "Cake?",
+   "ko": "케이크야?",
+   "rd": "keikeuya?",
+   "en": "Is it cake?",
    "note": "케이크",
    "tags": [],
    "new": [],
@@ -119,12 +119,16 @@
    "speaker": "A",
    "ko": "아니 떡볶이 ㅋㅋ",
    "rd": "ani tteokbokki ㅋㅋ",
-   "en": "No, tteokbokki lol",
+   "en": "No tteokbokki lol",
    "note": "punchline",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "00:02"
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_friends_c1_grok_rewrite.md [K305]",
+  "final": ""
+ }
 }

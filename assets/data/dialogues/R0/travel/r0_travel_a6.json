@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "저기요, 명동역 어디예요?",
-   "rd": "jeogiyo, myeongdongyeok eodiyeyo?",
-   "en": "Excuse me, where is Myeongdong station?",
+   "ko": "저기요… 명동역이요?",
+   "rd": "jeogiyo… myeongdongyeogiyo?",
+   "en": "Excuse me… Myeongdong Station?",
    "note": "어디",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "Go straight!",
-   "rd": "Go straight!",
-   "en": "Go straight!",
+   "ko": "Straight ahead!",
+   "rd": "Straight ahead!",
+   "en": "Just straight ahead!",
    "note": "English reply",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "한국어로 말해 주세요!",
-   "rd": "hangugeoro malhae juseyo!",
-   "en": "Please speak Korean!",
+   "ko": "한국말로 해주세요!",
+   "rd": "hangungmallo haejuseyo!",
+   "en": "Say it in Korean, please!",
    "note": "한국어로",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "어? 한국어 잘해요!",
-   "rd": "eo? hangugeo jalhaeyo!",
-   "en": "Oh? You speak Korean well!",
+   "ko": "헐 대박, 한국말 되세요?!",
+   "rd": "heol daebak, hangungmal doeseyo?!",
+   "en": "Whoa, you actually speak Korean?!",
    "note": "잘하다",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "감사합니다. 역은요?",
-   "rd": "gamsahamnida. yeogeunyo?",
-   "en": "Thank you. And the station?",
+   "ko": "감사합니다, 역은요?",
+   "rd": "gamsahamnida, yeogeunyo?",
+   "en": "Thanks, so the station?",
    "note": "역",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "쭉 가요. 저기!",
-   "rd": "jjuk gayo. jeogi!",
-   "en": "Go straight. There!",
+   "ko": "앞으로 쭉 가세요!",
+   "rd": "apeuro jjuk gaseyo!",
+   "en": "Just go straight ahead!",
    "note": "쭉",
    "tags": [],
    "new": []
@@ -92,9 +92,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "…\"Go straight\"랑 똑같네요.",
-   "rd": "…\"Go straight\"rang ttokganneyo.",
-   "en": "…Same as \"go straight.\"",
+   "ko": "아… 영어랑 똑같네요.",
+   "rd": "a… yeongeorang ttokganneyo.",
+   "en": "Ah… same as the English.",
    "note": "Kick",
    "tags": [],
    "new": []
@@ -102,12 +102,16 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "ㅋㅋ 네. 똑같아요.",
-   "rd": "ㅋㅋ ne. ttokgatayo.",
-   "en": "Haha, yes. Same.",
+   "ko": "ㅋㅋ 맞아요, 똑같죠.",
+   "rd": "ㅋㅋ majayo, ttokgatjyo.",
+   "en": "Haha, yeah, exactly.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_travel_a6_grok_rewrite.md [K321]",
+  "final": ""
+ }
 }

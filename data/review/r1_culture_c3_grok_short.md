@@ -1,0 +1,1 @@
+7 C: 그래서 몰라도 다 알아 지금 단톡 난리났어 ㅋㅋ / So you know it all even without watching, the group chat's going crazy right now lol / 두 문장을 합치고 ‘다 스포 중이야’를 덜어냄

@@ -35,9 +35,9 @@
   {
    "num": 1,
    "speaker": "D",
-   "ko": "이번엔 내가 리더 할게.",
-   "rd": "ibeonen naega rideo halge.",
-   "en": "This time I'll be the leader.",
+   "ko": "야 이번엔 내가 리더 할게. 진짜 책임질게.",
+   "rd": "ya ibeonen naega rideo halge. jinjja chaegimjilge.",
+   "en": "Hey, this time I'll be the leader. I'll actually own it.",
    "note": "리더",
    "tags": [],
    "new": []
@@ -45,9 +45,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "…진짜? 지난번에 읽씹했잖아.",
-   "rd": "…jinjja? jinanbeone ikssipaetjana.",
-   "en": "…Really? You left us on read last time.",
+   "ko": "진짜? 지난번에 읽씹했잖아.",
+   "rd": "jinjja? jinanbeone ikssipaetjana.",
+   "en": "For real? You left us on read last time.",
    "note": "callback",
    "tags": [],
    "new": []
@@ -55,9 +55,9 @@
   {
    "num": 3,
    "speaker": "D",
-   "ko": "반성했어. 일정표도 만들었어.",
-   "rd": "banseonghaesseo. iljeongpyodo mandeureosseo.",
-   "en": "I reflected. I even made a schedule.",
+   "ko": "아 몰라 그때는 좀 바빴어. 이번엔 일정표도 만들었어.",
+   "rd": "a molla geuttaeneun jom bappasseo. ibeonen iljeongpyodo mandeureosseo.",
+   "en": "Ah whatever, I was kinda busy then. This time I even made a schedule.",
    "note": "반성",
    "tags": [],
    "new": []
@@ -65,9 +65,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "헐, 일정표가 엑셀이야?",
-   "rd": "heol, iljeongpyoga ekseriya?",
-   "en": "Whoa, the schedule's in Excel?",
+   "ko": "헐 일정표가 엑셀이야?",
+   "rd": "heol iljeongpyoga ekseriya?",
+   "en": "Whoa, the schedule's Excel?",
    "note": "엑셀",
    "tags": [],
    "new": []
@@ -75,9 +75,9 @@
   {
    "num": 5,
    "speaker": "D",
-   "ko": "응. 색깔도 칠했어.",
-   "rd": "eung. saekkkaldo chilhaesseo.",
-   "en": "Yeah. Color-coded too.",
+   "ko": "응 색깔도 다 칠했어. 괜찮지?",
+   "rd": "eung saekkkaldo da chilhaesseo. gwaenchanchi?",
+   "en": "Yeah, I colored it all. Pretty good, right?",
    "note": "색깔",
    "tags": [],
    "new": []
@@ -95,9 +95,9 @@
   {
    "num": 7,
    "speaker": "D",
-   "ko": "…어제야?",
-   "rd": "…eojeya?",
-   "en": "…Was it yesterday?",
+   "ko": "뭐? 어제라고 썼어?",
+   "rd": "mwo? eojerago sseosseo?",
+   "en": "What? Did I put yesterday?",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -105,9 +105,9 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "아니. 내일이야.",
-   "rd": "ani. naeiriya.",
-   "en": "No. Tomorrow.",
+   "ko": "아니 내일이야. 오늘 밤에 다 해야 해.",
+   "rd": "ani naeiriya. oneul bame da haeya hae.",
+   "en": "No, it's tomorrow. We gotta do everything tonight.",
    "note": "reveal",
    "tags": [],
    "new": []
@@ -115,9 +115,9 @@
   {
    "num": 9,
    "speaker": "D",
-   "ko": "그럼 오늘 밤에 다 하자! 내가 치킨 쏠게!",
-   "rd": "geureom oneul bame da haja! naega chikin ssolge!",
-   "en": "Then let's do everything tonight! Chicken's on me!",
+   "ko": "그럼 오늘 밤에 다 하자! 치킨이랑 피자 쏠게. 다른 애들 부를까?",
+   "rd": "geureom oneul bame da haja! chikinirang pija ssolge. dareun aedeul bureulkka?",
+   "en": "Then let's do it all tonight! Chicken and pizza on me. Should we call the others?",
    "note": "치킨",
    "tags": [],
    "new": []
@@ -125,9 +125,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "결국 또 전날 밤이네.",
-   "rd": "gyeolguk tto jeonnal bamine.",
-   "en": "So it's the night before again.",
+   "ko": "결국 또 전날 밤이네. 사람까지?",
+   "rd": "gyeolguk tto jeonnal bamine. saramkkaji?",
+   "en": "So it's the night before again. And more people?",
    "note": "전날",
    "tags": [],
    "new": []
@@ -135,9 +135,9 @@
   {
    "num": 11,
    "speaker": "C",
-   "ko": "그래도 이번엔 리더가 있잖아.",
-   "rd": "geuraedo ibeonen rideoga itjana.",
-   "en": "But this time there's a leader.",
+   "ko": "그래도 이번엔 리더가 있잖아. 근데 리더 때문에 더 커지는 것 같아.",
+   "rd": "geuraedo ibeonen rideoga itjana. geunde rideo ttaemune deo keojineun geot gata.",
+   "en": "But this time there's a leader. Though it feels like it's getting bigger because of the leader.",
    "note": "있다",
    "tags": [],
    "new": []
@@ -145,12 +145,16 @@
   {
    "num": 12,
    "speaker": "B",
-   "ko": "그니까. 치킨 리더.",
-   "rd": "geunikka. chikin rideo.",
-   "en": "Right. A chicken leader.",
+   "ko": "그니까. 치킨 리더가 다 꼬이게 만들고 있어.",
+   "rd": "geunikka. chikin rideoga da kkoige mandeulgo isseo.",
+   "en": "Right. The chicken leader is making everything more of a mess.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r2_study_b3_grok_rewrite.md [K368]",
+  "final": ""
+ }
 }

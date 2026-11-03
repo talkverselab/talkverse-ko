@@ -34,9 +34,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "이거 얼마예요?",
-   "rd": "igeo eolmayeyo?",
-   "en": "How much is this?",
+   "ko": "이거는 얼마예요?",
+   "rd": "igeoneun eolmayeyo?",
+   "en": "How much is this one?",
    "note": "얼마예요?",
    "tags": [],
    "new": []
@@ -44,9 +44,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "만 이천 오백 원!",
-   "rd": "man icheon obaek won!",
-   "en": "Twelve thousand five hundred!",
+   "ko": "만이천오백원이요!",
+   "rd": "manicheonobaegwoniyo!",
+   "en": "Twelve thousand five hundred won!",
    "note": "숫자",
    "tags": [],
    "new": []
@@ -54,9 +54,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "천천히요…",
-   "rd": "cheoncheonhiyo…",
-   "en": "Slowly please…",
+   "ko": "아 천천히요…",
+   "rd": "a cheoncheonhiyo…",
+   "en": "Ah, slowly please…",
    "note": "천천히",
    "tags": [],
    "new": []
@@ -64,9 +64,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "만! 이천! 오백!",
-   "rd": "man! icheon! obaek!",
-   "en": "Ten thousand! Two thousand! Five hundred!",
+   "ko": "만! 이천! 오백! 서비스요!",
+   "rd": "man! icheon! obaek! seobiseuyo!",
+   "en": "Ten! Two thousand! Five hundred! Freebie!",
    "note": "숫자",
    "tags": [],
    "new": []
@@ -74,9 +74,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "…만 이천 오백 원?",
-   "rd": "…man icheon obaek won?",
-   "en": "…12,500 won?",
+   "ko": "감사합니다, 만이천오백원요?",
+   "rd": "gamsahamnida, manicheonobaegwonyo?",
+   "en": "Thanks, twelve thousand five hundred won?",
    "note": "Kick: he got it",
    "tags": [],
    "new": []
@@ -84,9 +84,9 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "어머, 잘하네! 하나 더 줄게.",
-   "rd": "eomeo, jalhane! hana deo julge.",
-   "en": "Oh my, well done! I'll give you one more.",
+   "ko": "어머나 잘한다! 이거 더 줄게요!",
+   "rd": "eomeona jalhanda! igeo deo julgeyo!",
+   "en": "Oh my, you're good! I'll give you this extra!",
    "note": "덤",
    "tags": [],
    "new": []
@@ -94,9 +94,9 @@
   {
    "num": 7,
    "speaker": "D",
-   "ko": "나도 한국어 잘해요! 깎아 줘요!",
-   "rd": "nado hangugeo jalhaeyo! kkakka jwoyo!",
-   "en": "I speak Korean well too! Discount!",
+   "ko": "저도 한국어 잘해요! 깎아 주세요!",
+   "rd": "jeodo hangugeo jalhaeyo! kkakka juseyo!",
+   "en": "Me too, I speak Korean well! Discount please!",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -104,12 +104,16 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "…오늘은 한국어 할인 끝!",
-   "rd": "…oneureun hangugeo harin kkeut!",
-   "en": "…Korean-language discount is over today!",
+   "ko": "아 이제 진짜 끝났어요! 가세요!",
+   "rd": "a ije jinjja kkeunnasseoyo! gaseyo!",
+   "en": "Ah, it's really over now! Please go!",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r0_survival_s6_grok_rewrite.md [K320]",
+  "final": ""
+ }
 }

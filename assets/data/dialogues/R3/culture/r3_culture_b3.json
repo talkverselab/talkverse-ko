@@ -37,9 +37,9 @@
   {
    "num": 1,
    "speaker": "C",
-   "ko": "(민준 아빠) 서울에서 부산까지 다섯 시간이면 간다!",
-   "rd": "(minjun appa) seoureseo busankkaji daseot siganimyeon ganda!",
-   "en": "(Minjun's dad) Seoul to Busan in five hours!",
+   "ko": "서울에서 부산 이 길이면 다섯 시간이면 간다. 새벽이라 괜찮을 거야.",
+   "rd": "seoureseo busan i girimyeon daseot siganimyeon ganda. saebyeogira gwaenchaneul geoya.",
+   "en": "From Seoul to Busan on this route, five hours should do it. It's dawn so it'll be fine.",
    "note": "다섯 시간",
    "tags": [],
    "new": []
@@ -47,9 +47,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "다섯 시간이요? 생각보다 짧네요.",
-   "rd": "daseot siganiyo? saenggakboda jjalleyo.",
-   "en": "Five hours? Shorter than I thought.",
+   "ko": "진짜? 다섯 시간이요? 저 더 걸릴 줄 알았는데.",
+   "rd": "jinjja? daseot siganiyo? jeo deo geollil jul aranneunde.",
+   "en": "Really? Five hours? I thought it would take longer.",
    "note": "짧다",
    "tags": [],
    "new": []
@@ -57,9 +57,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "(두 시간 뒤) …아직 서울이야.",
-   "rd": "(du sigan dwi) …ajik seouriya.",
-   "en": "(two hours later) …We're still in Seoul.",
+   "ko": "(두 시간 뒤) 야 아직도 서울이야. 진짜 뭐야 이거.",
+   "rd": "(du sigan dwi) ya ajikdo seouriya. jinjja mwoya igeo.",
+   "en": "(two hours later) Dude, we're still in Seoul. What is this even.",
    "note": "Kick setup",
    "tags": [],
    "new": []
@@ -67,9 +67,9 @@
   {
    "num": 4,
    "speaker": "D",
-   "ko": "(민준 엄마) 휴게소 들르자. 호두과자!",
-   "rd": "(minjun eomma) hyugeso deulleuja. hodugwaja!",
-   "en": "(Minjun's mom) Let's stop at a rest stop. Walnut cakes!",
+   "ko": "어 휴게소 들러서 호두과자 좀 사 가자. 설날이니까 필수야.",
+   "rd": "eo hyugeso deulleoseo hodugwaja jom sa gaja. seollarinikka pilsuya.",
+   "en": "Oh let's stop at a rest stop and grab some walnut cakes. It's a must for Seollal.",
    "note": "휴게소",
    "tags": [],
    "new": []
@@ -77,9 +77,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "휴게소가 주차장 같아요.",
-   "rd": "hyugesoga juchajang gatayo.",
-   "en": "The rest stop looks like a parking lot.",
+   "ko": "헐 휴게소가 주차장이야. 차들이 완전 안 움직여.",
+   "rd": "heol hyugesoga juchajangiya. chadeuri wanjeon an umjigyeo.",
+   "en": "Whoa the rest stop is a parking lot. The cars aren't moving at all.",
    "note": "주차장",
    "tags": [],
    "new": []
@@ -87,9 +87,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "설날엔 다 그래. 전국이 이동해.",
-   "rd": "seollaren da geurae. jeongugi idonghae.",
-   "en": "It's always like this at Lunar New Year. The whole country moves.",
+   "ko": "설날이면 원래 이 꼴이야. 온 나라가 다 도로에 나와 있거든.",
+   "rd": "seollarimyeon wollae i kkoriya. on naraga da doroe nawa itgeodeun.",
+   "en": "On Seollal it's always this mess. The whole country's out on the roads.",
    "note": "전국",
    "tags": [],
    "new": []
@@ -97,9 +97,9 @@
   {
    "num": 7,
    "speaker": "E",
-   "ko": "(동생) 화장실! 급해!",
-   "rd": "(dongsaeng) hwajangsil! geupae!",
-   "en": "(little brother) Bathroom! Urgent!",
+   "ko": "화장실! 진짜 급해! 지금 당장!",
+   "rd": "hwajangsil! jinjja geupae! jigeum dangjang!",
+   "en": "Bathroom! I'm dying! Right now!",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -107,9 +107,9 @@
   {
    "num": 8,
    "speaker": "C",
-   "ko": "다음 휴게소까지 참아!",
-   "rd": "daeum hyugesokkaji chama!",
-   "en": "Hold it till the next rest stop!",
+   "ko": "다음 휴게소까지 참아! 금방 갈 거야!",
+   "rd": "daeum hyugesokkaji chama! geumbang gal geoya!",
+   "en": "Hold it till the next rest stop! We'll get there soon!",
    "note": "참다",
    "tags": [],
    "new": []
@@ -117,9 +117,9 @@
   {
    "num": 9,
    "speaker": "D",
-   "ko": "다음 휴게소 두 시간이래.",
-   "rd": "daeum hyugeso du siganirae.",
-   "en": "The next one's two hours away.",
+   "ko": "다음 휴게소가 두 시간이나 남았대. 어떡해.",
+   "rd": "daeum hyugesoga du siganina namatdae. eotteokae.",
+   "en": "They say the next one's still two hours away. What do we do.",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -127,9 +127,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "아 몰라… 저 호두과자 다 먹었어요.",
-   "rd": "a molla… jeo hodugwaja da meogeosseoyo.",
-   "en": "Ugh… I ate all the walnut cakes.",
+   "ko": "아 진짜… 호두과자 다 먹어버렸네. 배불러.",
+   "rd": "a jinjja… hodugwaja da meogeobeoryeonne. baebulleo.",
+   "en": "Ugh seriously… I ate all the walnut cakes. I'm stuffed.",
    "note": "chaos",
    "tags": [],
    "new": []
@@ -137,9 +137,9 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "(열 시간 뒤) 도착! 할머니!",
-   "rd": "(yeol sigan dwi) dochak! halmeoni!",
-   "en": "(ten hours later) We're here! Grandma!",
+   "ko": "드디어 도착했다! 할머니!",
+   "rd": "deudieo dochakaetda! halmeoni!",
+   "en": "Finally we're here! Grandma!",
    "note": "도착",
    "tags": [],
    "new": []
@@ -147,9 +147,9 @@
   {
    "num": 12,
    "speaker": "F",
-   "ko": "(할머니) 아이고, 외국 손님까지! 떡국 먹어라.",
-   "rd": "(halmeoni) aigo, oeguk sonnimkkaji! tteokguk meogeora.",
-   "en": "(Grandma) Oh my, even a foreign guest! Eat rice cake soup.",
+   "ko": "아이고, 외국 손님까지 오셨네! 어서 떡국 한 그릇 먹어.",
+   "rd": "aigo, oeguk sonnimkkaji osyeonne! eoseo tteokguk han geureut meogeo.",
+   "en": "Oh my, we even have a foreign guest! Come on, have a bowl of rice cake soup.",
    "note": "환영",
    "tags": [],
    "new": []
@@ -157,9 +157,9 @@
   {
    "num": 13,
    "speaker": "A",
-   "ko": "10시간이 아깝지 않아요.",
-   "rd": "10sigani akkapji anayo.",
-   "en": "The ten hours were worth it.",
+   "ko": "10시간 걸려도 올 만했어요. 할머니 뵈니까.",
+   "rd": "10sigan geollyeodo ol manhaesseoyo. halmeoni boenikka.",
+   "en": "Even though it took 10 hours, it was worth it. Seeing Grandma.",
    "note": "감동",
    "tags": [],
    "new": []
@@ -167,12 +167,17 @@
   {
    "num": 14,
    "speaker": "B",
-   "ko": "그니까. 이게 설날이야. 다음 주엔 올라가는 길 또 10시간.",
-   "rd": "geunikka. ige seollariya. daeum juen ollaganeun gil tto 10sigan.",
-   "en": "Right. That's Lunar New Year. And next week, ten hours back.",
+   "ko": "그치. 이게 설날이야. 다음 주에 다시 올라갈 때도 또 10시간이지.",
+   "rd": "geuchi. ige seollariya. daeum jue dasi ollagal ttaedo tto 10siganiji.",
+   "en": "Right. This is Seollal. And next week when we go back, another 10 hours.",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r3_culture_b3_grok_rewrite.md [K372]",
+  "final": "",
+  "shorten": "data/review/r3_culture_b3_grok_tail.md [K423] 턴 [6, 7, 8, 9, 10, 11, 12, 13, 14]"
+ }
 }

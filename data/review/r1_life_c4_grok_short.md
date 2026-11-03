@@ -1,0 +1,1 @@
+7 B: 박스 안서 자고 있대 옆집 누나도 택배 없어졌대 ㅋㅋ / It's sleeping in the box now lol the neighbor girl's package is gone too / 문 앞에 와 있다는 부분과 지금·근데 등 덜어냄

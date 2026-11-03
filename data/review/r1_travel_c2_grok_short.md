@@ -1,0 +1,1 @@
+8 B: ㅋㅋㅋ 인생 구했네. 친구 둘 있는데 몇 시 와? / Lol it saved your life. I'm with two friends, what time you coming? / '3시간 지연이'와 '근데/같이/너'를 덜어내고 두 문장을 짧게 합침(지연 내용은 이미 나옴)

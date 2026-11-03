@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "받아라! (휙)",
-   "rd": "badara! (hwik)",
-   "en": "Take this! (whoosh)",
+   "ko": "야 {name}! 이거 받아 봐! (휙)",
+   "rd": "ya {name}! igeo bada bwa! (hwik)",
+   "en": "Yo {name}! Try catching this! (whoosh)",
    "note": "던지다",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "어? 피해! …어?",
-   "rd": "eo? pihae! …eo?",
-   "en": "Huh? Dodge! …Huh?",
+   "ko": "어? 뭐야 이거? 피해!! …맞았어?",
+   "rd": "eo? mwoya igeo? pihae!! …majasseo?",
+   "en": "Huh? What’s this? Dodge!! …Did it hit?",
    "note": "피하다",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "C",
-   "ko": "(퍽) …누구야?",
-   "rd": "(peok) …nuguya?",
-   "en": "(thud) …Who did this?",
+   "ko": "(퍽) 아야… 누구야 지금?",
+   "rd": "(peok) aya… nuguya jigeum?",
+   "en": "(thud) Ouch… Who was that just now?",
    "note": "Kick: the professor",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "헐… 교수님이다.",
-   "rd": "heol… gyosunimida.",
-   "en": "Whoa… it's the professor.",
+   "ko": "헐… 교수님이네. 우리 완전 끝났어.",
+   "rd": "heol… gyosunimine. uri wanjeon kkeunnasseo.",
+   "en": "Whoa… it’s the professor. We’re totally done for.",
    "note": "교수님",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "죄송합니다! 민준이가…",
-   "rd": "joesonghamnida! minjuniga…",
-   "en": "I'm sorry! Minjun…",
+   "ko": "죄송합니다! 민준이가 던진 건데…",
+   "rd": "joesonghamnida! minjuniga deonjin geonde…",
+   "en": "I’m sorry! Minjun threw it…",
    "note": "죄송",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "(눈덩이를 만들며) 둘 다 이리 와.",
-   "rd": "(nundeongireul mandeulmyeo) dul da iri wa.",
-   "en": "(making a snowball) Both of you, come here.",
+   "ko": "(큰 눈덩이 만들며) 둘 다, 저기 애들도 이리 와.",
+   "rd": "(keun nundeongi mandeulmyeo) dul da, jeogi aedeuldo iri wa.",
+   "en": "(making a big snowball) Both of you, those kids over there, come here.",
    "note": "Kick: chaos",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "잠깐만요, 교수님?!",
-   "rd": "jamkkanmanyo, gyosunim?!",
-   "en": "Wait, Professor?!",
+   "ko": "잠깐만 교수님! 진짜 하시게요?!",
+   "rd": "jamkkanman gyosunim! jinjja hasigeyo?!",
+   "en": "Wait a sec, Professor! You’re actually gonna?!",
    "note": "잠깐만",
    "tags": [],
    "new": []
@@ -103,12 +103,17 @@
   {
    "num": 8,
    "speaker": "C",
-   "ko": "첫눈이잖아. 학점은 안 깎아.",
-   "rd": "cheonnunijana. hakjeomeun an kkakka.",
-   "en": "It's the first snow. I won't cut your grade.",
+   "ko": "첫눈이잖아. 학점은 안 깎을게. 자, 받아!",
+   "rd": "cheonnunijana. hakjeomeun an kkakkeulge. ja, bada!",
+   "en": "It’s the first snow. I won’t cut your grade. Here, catch!",
    "note": "punchline",
    "tags": [],
    "new": []
   }
- ]
+ ],
+ "review": {
+  "grok_rewrite": "data/review/r1_friends_a11_grok_rewrite.md [K331]",
+  "final": "",
+  "shorten": "data/review/r1_friends_a11_grok_short.md [K406] 턴 [6]"
+ }
 }

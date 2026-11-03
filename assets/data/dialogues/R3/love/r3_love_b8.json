@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "너 친구 중에 괜찮은 사람 없어? 소개 좀 해 줘.",
-   "rd": "neo chingu junge gwaenchaneun saram eopseo? sogae jom hae jwo.",
-   "en": "Any decent people among your friends? Introduce me.",
+   "ko": "야, 너 주변에 괜찮은 애 없냐? 소개 좀 시켜 줘.",
+   "rd": "ya, neo jubyeone gwaenchaneun ae eomnya? sogae jom sikyeo jwo.",
+   "en": "Yo, any decent people around you? Hook me up.",
    "note": "소개",
    "tags": [],
    "new": []
@@ -43,9 +43,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "…갑자기 왜?",
-   "rd": "…gapjagi wae?",
-   "en": "…Why all of a sudden?",
+   "ko": "갑자기 왜 그래? 무슨 일 있어?",
+   "rd": "gapjagi wae geurae? museun il isseo?",
+   "en": "Why the sudden? Something going on?",
    "note": "갑자기",
    "tags": [],
    "new": []
@@ -53,9 +53,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "그냥. 연애하고 싶어서.",
-   "rd": "geunyang. yeonaehago sipeoseo.",
-   "en": "Just. I want to date.",
+   "ko": "그냥. 연애 좀 하고 싶어서 그래.",
+   "rd": "geunyang. yeonae jom hago sipeoseo geurae.",
+   "en": "Just. I kinda wanna date, that’s all.",
    "note": "연애",
    "tags": [],
    "new": []
@@ -63,9 +63,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "어떤 사람이 좋은데?",
-   "rd": "eotteon sarami joeunde?",
-   "en": "What kind of person do you like?",
+   "ko": "어떤 타입이 끌리는데?",
+   "rd": "eotteon taibi kkeullineunde?",
+   "en": "What type are you into?",
    "note": "어떤",
    "tags": [],
    "new": []
@@ -73,9 +73,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "음… 한국어 공부 열심히 하고, 편의점 라면 잘 끓이고.",
-   "rd": "eum… hangugeo gongbu yeolsimhi hago, pyeonuijeom ramyeon jal kkeuligo.",
-   "en": "Hmm… studies Korean hard, makes great convenience-store ramyeon.",
+   "ko": "음… 한국어 열심히 하고, 라면도 잘 끓이는 사람.",
+   "rd": "eum… hangugeo yeolsimhi hago, ramyeondo jal kkeulineun saram.",
+   "en": "Hmm… someone who studies Korean hard and makes good ramyeon too.",
    "note": "hint",
    "tags": [],
    "new": []
@@ -83,9 +83,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "그런 사람 많은데.",
-   "rd": "geureon saram maneunde.",
-   "en": "There are lots of people like that.",
+   "ko": "그런 사람 많잖아. 그니까 좀 더 말해 봐.",
+   "rd": "geureon saram manchana. geunikka jom deo malhae bwa.",
+   "en": "There’s a ton of people like that. So spill a bit more.",
    "note": "많다",
    "tags": [],
    "new": []
@@ -93,9 +93,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "내 말에 매일 답장 빨리 하고, 우산 맨날 까먹고.",
-   "rd": "nae mare maeil dapjang ppalli hago, usan maennal kkameokgo.",
-   "en": "Replies to me fast every day, always forgets his umbrella.",
+   "ko": "카톡 답장 빨리 하고, 우산은 맨날 까먹는 애.",
+   "rd": "katok dapjang ppalli hago, usaneun maennal kkameongneun ae.",
+   "en": "Replies fast on KakaoTalk and always forgets his umbrella.",
    "note": "hint",
    "tags": [],
    "new": []
@@ -103,9 +103,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…그건 좀 구체적인데.",
-   "rd": "…geugeon jom guchejeoginde.",
-   "en": "…That's pretty specific.",
+   "ko": "…그건 좀 특정한데. 진짜?",
+   "rd": "…geugeon jom teukjeonghande. jinjja?",
+   "en": "…That’s kinda specific. For real?",
    "note": "구체적",
    "tags": [],
    "new": []
@@ -113,9 +113,9 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "오늘 회색 후드티 입었고.",
-   "rd": "oneul hoesaek hudeuti ibeotgo.",
-   "en": "And is wearing a gray hoodie today.",
+   "ko": "오늘 회색 후드 입고 온 사람.",
+   "rd": "oneul hoesaek hudeu ipgo on saram.",
+   "en": "The one who showed up in a gray",
    "note": "hint",
    "tags": [],
    "new": []
@@ -123,9 +123,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "설마…",
-   "rd": "seolma…",
-   "en": "No way…",
+   "ko": "잠깐만, 그거 나 말하는 거지?",
+   "rd": "jamkkanman, geugeo na malhaneun geoji?",
+   "en": "Hold on, you're talking about me, right?",
    "note": "설마",
    "tags": [],
    "new": []
@@ -133,9 +133,9 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "(작게) 언제 알아챌까 했는데, 진짜 늦다.",
-   "rd": "(jakge) eonje arachaelkka haenneunde, jinjja neutda.",
-   "en": "(quietly) I was wondering when you'd notice. You're really slow.",
+   "ko": "(작게) 언제 눈치챌까 했는데, 진짜 둔하네.",
+   "rd": "(jakge) eonje nunchichaelkka haenneunde, jinjja dunhane.",
+   "en": "(quietly) I was wondering when you'd catch on. You're so dense.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -143,9 +143,9 @@
   {
    "num": 12,
    "speaker": "A",
-   "ko": "…소개 안 해도 되겠네.",
-   "rd": "…sogae an haedo doegenne.",
-   "en": "…Guess I don't need to introduce anyone.",
+   "ko": "…아, 그럼 굳이 소개 안 해도 되겠네.",
+   "rd": "…a, geureom guji sogae an haedo doegenne.",
+   "en": "…Oh, then I guess I don't have to introduce anyone.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -153,9 +153,9 @@
   {
    "num": 13,
    "speaker": "B",
-   "ko": "응. 이미 와 있으니까.",
-   "rd": "eung. imi wa isseunikka.",
-   "en": "Right. He's already here.",
+   "ko": "응. 바로 앞에 있잖아.",
+   "rd": "eung. baro ape itjana.",
+   "en": "Yeah. He's right in front of me.",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -163,8 +163,8 @@
   {
    "num": 14,
    "speaker": "A",
-   "ko": "그럼 오늘 라면은 내가 끓일게.",
-   "rd": "geureom oneul ramyeoneun naega kkeulilge.",
+   "ko": "그럼 오늘은 내가 라면 끓여 줄게.",
+   "rd": "geureom oneureun naega ramyeon kkeulyeo julge.",
    "en": "Then I'll make the ramyeon today.",
    "note": "punchline",
    "tags": [],
@@ -173,5 +173,10 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r3_love_b8_grok_rewrite.md [K375]",
+  "final": "",
+  "shorten": "data/review/r3_love_b8_grok_tail.md [K426] 턴 [10, 11, 12, 13, 14]"
+ }
 }

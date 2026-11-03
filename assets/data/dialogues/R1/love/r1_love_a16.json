@@ -32,9 +32,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "어서 오세요.",
-   "rd": "eoseo oseyo.",
-   "en": "Welcome.",
+   "ko": "어서 오세요. 오늘도 이 시간이네요.",
+   "rd": "eoseo oseyo. oneuldo i siganineyo.",
+   "en": "Welcome. It's this time again today.",
    "note": "어서 오세요",
    "tags": [],
    "new": []
@@ -42,9 +42,9 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "오늘도 바나나 우유요.",
-   "rd": "oneuldo banana uyuyo.",
-   "en": "Banana milk again today.",
+   "ko": "네, 바나나 우유 하나 주세요.",
+   "rd": "ne, banana uyu hana juseyo.",
+   "en": "Yeah, one banana milk please.",
    "note": "오늘도",
    "tags": [],
    "new": []
@@ -52,9 +52,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "매일 오시네요.",
-   "rd": "maeil osineyo.",
-   "en": "You come every day.",
+   "ko": "네, 바나나 우유요. 감사합니다. 진짜요? 매일 오시는 거예요?",
+   "rd": "ne, banana uyuyo. gamsahamnida. jinjjayo? maeil osineun geoyeyo?",
+   "en": "Banana milk, got it. Thank you. Really? You come every day?",
    "note": "매일",
    "tags": [],
    "new": []
@@ -62,9 +62,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "네. 바나나 우유 좋아해서요.",
-   "rd": "ne. banana uyu joahaeseoyo.",
-   "en": "Yes. Because I like banana milk.",
+   "ko": "네. 바나나 우유 너무 좋아해서요.",
+   "rd": "ne. banana uyu neomu joahaeseoyo.",
+   "en": "Yeah. I just really like banana milk.",
    "note": "좋아하다",
    "tags": [],
    "new": []
@@ -72,9 +72,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "…저도 좋아해요.",
-   "rd": "…jeodo joahaeyo.",
-   "en": "…I like it too.",
+   "ko": "…저도 매일 보고 싶어요. 아니, 바나나 우유 좋아해요.",
+   "rd": "…jeodo maeil bogo sipeoyo. ani, banana uyu joahaeyo.",
+   "en": "…I wanna see it every day too. No—I like banana milk.",
    "note": "ambiguous",
    "tags": [],
    "new": []
@@ -82,9 +82,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "바나나 우유요? 아니면…",
-   "rd": "banana uyuyo? animyeon…",
-   "en": "Banana milk? Or…",
+   "ko": "보고 싶어요? 아니면 바나나 우유요?",
+   "rd": "bogo sipeoyo? animyeon banana uyuyo?",
+   "en": "Wanna see it? Or the banana milk?",
    "note": "심쿵",
    "tags": [],
    "new": []
@@ -94,7 +94,7 @@
    "speaker": "A",
    "ko": "…바나나 우유요.",
    "rd": "…banana uyuyo.",
-   "en": "…Banana milk.",
+   "en": "…The banana milk.",
    "note": "flustered",
    "tags": [],
    "new": []
@@ -102,9 +102,9 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "ㅋㅋ 내일은 답 바꿔요.",
-   "rd": "ㅋㅋ naeireun dap bakkwoyo.",
-   "en": "Haha, change your answer tomorrow.",
+   "ko": "ㅋㅋㅋ 내일은 좀 더 솔직하게 말해 봐요.",
+   "rd": "ㅋㅋㅋ naeireun jom deo soljikage malhae bwayo.",
+   "en": "Haha, try being a bit more honest tomorrow.",
    "note": "punchline",
    "tags": [],
    "new": []
@@ -112,5 +112,9 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M"
+ "learner_gender": "M",
+ "review": {
+  "grok_rewrite": "data/review/r1_love_a16_grok_rewrite.md [K340]",
+  "final": ""
+ }
 }
