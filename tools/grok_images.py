@@ -1,12 +1,12 @@
 #!/usr/bin/python3
 """Grok 에 그림 여러 장(최대 4)을 한 요청으로 받는다 — 일본어앱 확인(2026-11-02 밤): 한 메시지 최대 4장.
-  /usr/bin/python3 tools/grok_images.py <요청문.md> <저장 접두어> <장수> [--tab 91501f08] [--attach a.jpg,b.jpg] [--wait 600]
+  /usr/bin/python3 tools/grok_images.py <요청문.md> <저장 접두어> <장수> [--tab b9466d0b] [--attach a.jpg,b.jpg] [--wait 600]
 저장: <접두어>1.jpg … <접두어>N.jpg (답에 나타난 순서 = 요청문의 컷 순서). 마지막 줄: OK <받은 수> | PARTIAL <받은 수> | TIMEOUT
 """
 import base64, os, subprocess, sys, time
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__))); from grok_base import g, remote_paths  # noqa: E402
 a = sys.argv[1:]; src, pre, want = a[0], a[1], int(a[2])
-frag = a[a.index('--tab') + 1] if '--tab' in a else '91501f08'
+frag = a[a.index('--tab') + 1] if '--tab' in a else 'b9466d0b'
 wait = int(a[a.index('--wait') + 1]) if '--wait' in a else 600
 here = os.path.dirname(os.path.abspath(__file__))
 GEN = "[...document.querySelectorAll('img')].filter(i=>i.src.includes('/generated/')&&i.complete&&i.naturalWidth>0).map(i=>i.src)"

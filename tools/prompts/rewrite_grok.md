@@ -1,6 +1,6 @@
 # Grok 재작성 프롬프트 — 한국어 (2026-11-02, 사용자 지시: "꼭 그록에게 한국 구어체로 새로 써 달라고 할 것")
 
-흐름: 이 세션 초안(JSON) → `tools/grok_prompt.py <편.json>` 이 아래 틀을 채워 `data/review/<편id>_req.md` → `tools/grok_send.py`(프로젝트 「한국어 회화 검수」 9632e457) → 받은 대사를 JSON 에 넣고 최소 수정 → 리뷰 페이지.
+흐름: 이 세션 초안(JSON) → `tools/grok_prompt.py <편.json>` 이 아래 틀을 채워 `data/review/<편id>_req.md` → `tools/grok_send.py`(프로젝트 「한국어 회화 검수」 e049e908) → 받은 대사를 JSON 에 넣고 최소 수정 → 리뷰 페이지.
 판정형 검수가 아니라 **재작성**. K-드라마 클리셰는 `kdrama` 필드가 있는 편에만(사용자 지시: 모든 편이 그러면 안 됨).
 
 ```

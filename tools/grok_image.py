@@ -1,12 +1,12 @@
 #!/usr/bin/python3
 """Grok 에 그림 1장 요청 → 생성이 끝날 때까지 기다려 jpg 로 저장(로그인된 전용 Chrome 안에서 받아 옴).
-  /usr/bin/python3 tools/grok_image.py <요청문.md> <저장.jpg> [--tab 91501f08] [--attach a.jpg,b.jpg] [--wait 600]
+  /usr/bin/python3 tools/grok_image.py <요청문.md> <저장.jpg> [--tab b9466d0b] [--attach a.jpg,b.jpg] [--wait 600]
 출력 마지막 줄: OK <저장.jpg> <답 글자 수> | NOIMAGE | TIMEOUT
 """
 import base64, os, subprocess, sys, time
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__))); from grok_base import g, remote_paths  # noqa: E402
 a = sys.argv[1:]; src, dst = a[0], a[1]
-frag = a[a.index('--tab') + 1] if '--tab' in a else '91501f08'
+frag = a[a.index('--tab') + 1] if '--tab' in a else 'b9466d0b'
 wait = int(a[a.index('--wait') + 1]) if '--wait' in a else 600
 here = os.path.dirname(os.path.abspath(__file__))
 GEN = "[...document.querySelectorAll('img')].filter(i=>i.src.includes('/generated/')&&i.complete&&i.naturalWidth>0).map(i=>i.src)"
