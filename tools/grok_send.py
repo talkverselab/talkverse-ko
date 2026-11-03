@@ -45,7 +45,9 @@ t0 = time.time(); reloaded = False
 while time.time() - t0 < wait:
     body = c.ev("document.body.innerText")
     tail = body[-1500:]
-    if LIMIT_RE.search(tail) and ('한도' in tail or 'limit' in tail.lower() or '초기화' in tail):
+    # 답 본문(`번호 화자: …` 줄)은 빼고 UI 문구만 본다 — 영어 번역의 off-limits 가 LIMIT 로 오판된 적 있음(2026-11-03)
+    ui = '\n'.join(l for l in tail.split('\n') if not re.match(r'^\d+ [A-D]:', l.strip()))
+    if LIMIT_RE.search(ui) and ('한도' in ui or re.search(r'(rate|usage) limit|limit reached|reached your', ui, re.I) or '초기화' in ui):
         m = TIME_RE.search(tail[tail.lower().find('한도') if '한도' in tail else 0:])
         print('LIMIT', m.group(0) if m else '?', '|', re.sub(r'\s+', ' ', tail[-300:]))
         sys.exit(3)
