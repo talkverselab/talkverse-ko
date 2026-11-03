@@ -44,7 +44,7 @@ class VocabularyScreen extends StatelessWidget {
                             style: theme.textTheme.titleMedium),
                         const SizedBox(height: 2),
                         Text(
-                          'Ranked by frequency in Korean dramas and films. The first 130 words (R1) — particles and endings included — cover about 63 % of what people actually say.',
+                          'Ranked by frequency in Korean dramas and films. The first 75 words (R1) — particles and endings included — cover 55 % of what people actually say; the first 521 (R1–R4) cover 80 %.',
                           style: theme.textTheme.bodyMedium?.copyWith(
                               color: theme.colorScheme.onSurfaceVariant),
                         ),
