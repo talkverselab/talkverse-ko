@@ -1,25 +1,4 @@
 state,word,en,rank,level,lemma_count
-재사용,단계,"step, stage",3009,Conv,7
-재사용,장면,scene,3012,Conv,6
-재사용,무료,free,3056,Conv,4
-재사용,저장,"save, store",3099,Conv,2
-재사용,멤버,member,3105,Conv,2
-재사용,제목,title,3124,Conv,2
-재사용,데뷔,debut,3178,Conv,2
-재사용,대사,line,3192,Conv,2
-재사용,날씨,weather,1709,R4+,1
-재사용,강제,compulsion,3314,Conv,1
-재사용,자동,automatic,3333,Conv,1
-재사용,기계,machine,3362,Conv,1
-재사용,링크,link,3377,Conv,1
-재사용,디자인,design,3422,Conv,1
-재사용,배경,background,3430,Conv,1
-재사용,포인트,point,3455,Conv,1
-재사용,정상,normal; summit,1409,R4+,0
-재사용,학원,academy,1460,R4+,0
-재사용,자세,(suffix),1698,R4+,0
-재사용,통과,passing,2369,R4+,0
-재사용,전국,nationwide,2381,R4+,0
 그록대기,반찬,side dish,9107,R5,6
 그록대기,피자,pizza,9109,R5,6
 그록대기,바나나,banana,9110,R5,6
@@ -35,6 +14,7 @@ state,word,en,rank,level,lemma_count
 그록대기,휴지,tissue,9124,R5,5
 그록대기,박자,beat,9125,R5,5
 그록대기,과제,assignment,9126,R5,5
+그록대기,무료,free,3056,Conv,4
 그록대기,한복,hanbok,9127,R5,4
 그록대기,브이,V sign,9128,R5,4
 그록대기,다이어트,diet,9129,R5,4
@@ -62,6 +42,8 @@ state,word,en,rank,level,lemma_count
 그록대기,시원하다,"cool, refreshing",9164,R5,3
 그록대기,짖다,bark,9165,R5,3
 그록대기,충전기,charger,9167,R5,3
+그록대기,제목,title,3124,Conv,2
+그록대기,데뷔,debut,3178,Conv,2
 그록대기,외국인,foreigner,9169,R5,2
 그록대기,가위바위보,rock-paper-scissors,9170,R5,2
 그록대기,닫히다,be closed,9171,R5,2
@@ -249,7 +231,6 @@ state,word,en,rank,level,lemma_count
 그록대기,헹구다,to rinse,9401,R5,1
 그록대기,재다,to measure,9402,R5,1
 그록대기,노트북,laptop,9403,R5,1
-그록대기,합격,passing (exam),1893,R4+,0
 목록밖,한국어,Korean language,3001,Conv,13
 목록밖,룰,rule,3008,Conv,7
 목록밖,금요일,Friday,3025,Conv,5
