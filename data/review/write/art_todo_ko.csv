@@ -1,0 +1,446 @@
+state,word,en,rank,level,lemma_count
+재사용,단계,"step, stage",3009,Conv,7
+재사용,장면,scene,3012,Conv,6
+재사용,무료,free,3056,Conv,4
+재사용,저장,"save, store",3099,Conv,2
+재사용,멤버,member,3105,Conv,2
+재사용,제목,title,3124,Conv,2
+재사용,데뷔,debut,3178,Conv,2
+재사용,대사,line,3192,Conv,2
+재사용,날씨,weather,1709,R4+,1
+재사용,강제,compulsion,3314,Conv,1
+재사용,자동,automatic,3333,Conv,1
+재사용,기계,machine,3362,Conv,1
+재사용,링크,link,3377,Conv,1
+재사용,디자인,design,3422,Conv,1
+재사용,배경,background,3430,Conv,1
+재사용,포인트,point,3455,Conv,1
+재사용,정상,normal; summit,1409,R4+,0
+재사용,학원,academy,1460,R4+,0
+재사용,자세,(suffix),1698,R4+,0
+재사용,통과,passing,2369,R4+,0
+재사용,전국,nationwide,2381,R4+,0
+그록대기,반찬,side dish,9107,R5,6
+그록대기,피자,pizza,9109,R5,6
+그록대기,바나나,banana,9110,R5,6
+그록대기,따릉이,Ttareungi bike,9111,R5,6
+그록대기,젖다,get wet,9114,R5,5
+그록대기,옆집,next-door house,9116,R5,5
+그록대기,과자,"snack, cookie",9117,R5,5
+그록대기,기대다,lean on,9118,R5,5
+그록대기,포장,packaging,9119,R5,5
+그록대기,앞줄,front row,9120,R5,5
+그록대기,단톡,group chat,9122,R5,5
+그록대기,보일러,boiler,9123,R5,5
+그록대기,휴지,tissue,9124,R5,5
+그록대기,박자,beat,9125,R5,5
+그록대기,과제,assignment,9126,R5,5
+그록대기,한복,hanbok,9127,R5,4
+그록대기,브이,V sign,9128,R5,4
+그록대기,다이어트,diet,9129,R5,4
+그록대기,셀카,selfie,9130,R5,4
+그록대기,미끄러지다,slip,9131,R5,4
+그록대기,이마,forehead,9135,R5,4
+그록대기,거품,"foam, bubbles",9136,R5,4
+그록대기,반반,half and half,9138,R5,4
+그록대기,아메리카노,americano,9139,R5,4
+그록대기,노래방,karaoke room,9143,R5,4
+그록대기,휴게소,rest stop,9144,R5,4
+그록대기,풍선,balloon,9145,R5,4
+그록대기,텐트,tent,9146,R5,3
+그록대기,국물,broth,9147,R5,3
+그록대기,키보드,keyboard,9148,R5,3
+그록대기,뛰어가다,run over,9149,R5,3
+그록대기,숙제,homework,9152,R5,3
+그록대기,셀프,self-service,9153,R5,3
+그록대기,깎다,"peel, bargain down",9155,R5,3
+그록대기,첫눈,first snow,9159,R5,3
+그록대기,세제,detergent,9160,R5,3
+그록대기,씌우다,"put on, cover",9161,R5,3
+그록대기,목도리,scarf,9162,R5,3
+그록대기,탬버린,tambourine,9163,R5,3
+그록대기,시원하다,"cool, refreshing",9164,R5,3
+그록대기,짖다,bark,9165,R5,3
+그록대기,충전기,charger,9167,R5,3
+그록대기,외국인,foreigner,9169,R5,2
+그록대기,가위바위보,rock-paper-scissors,9170,R5,2
+그록대기,닫히다,be closed,9171,R5,2
+그록대기,버거,burger,9177,R5,2
+그록대기,봉지,plastic bag,9179,R5,2
+그록대기,외치다,shout,9180,R5,2
+그록대기,반달,half moon,9181,R5,2
+그록대기,양념,seasoning,9182,R5,2
+그록대기,간식,snack,9183,R5,2
+그록대기,퍼지다,spread,9184,R5,2
+그록대기,소파,sofa,9185,R5,2
+그록대기,이불,blanket,9186,R5,2
+그록대기,안무,choreography,9188,R5,2
+그록대기,장갑,gloves,9190,R5,2
+그록대기,듀엣,duet,9191,R5,2
+그록대기,목걸이,necklace,9193,R5,2
+그록대기,존댓말,honorific speech,9194,R5,2
+그록대기,쪽지,note,9195,R5,2
+그록대기,복도,hallway,9196,R5,2
+그록대기,제출,submit,9197,R5,2
+그록대기,채점,grading,9198,R5,2
+그록대기,데우다,heat up,9199,R5,2
+그록대기,번호표,queue ticket,9200,R5,2
+그록대기,몰려오다,swarm in,9201,R5,2
+그록대기,캐리어,suitcase,9202,R5,2
+그록대기,어묵,fish cake,9203,R5,2
+그록대기,배부르다,be full,9204,R5,2
+그록대기,기차,train,9206,R5,2
+그록대기,파스타,pasta,9208,R5,2
+그록대기,오른발,right foot,9209,R5,2
+그록대기,왼발,left foot,9210,R5,2
+그록대기,부서지다,break into pieces,9211,R5,2
+그록대기,입대,enlistment,9212,R5,2
+그록대기,트럭,truck,9213,R5,2
+그록대기,경차,compact car,9214,R5,2
+그록대기,짜장면,jajangmyeon,9215,R5,2
+그록대기,촛불,candle flame,9216,R5,2
+그록대기,배터리,battery,9217,R5,2
+그록대기,합석,share a table,9218,R5,2
+그록대기,캠핑,camping,9220,R5,2
+그록대기,원샷,bottoms up,9221,R5,2
+그록대기,호두,walnut,9222,R5,2
+그록대기,빈손,empty hands,9223,R5,2
+그록대기,손목,wrist,9225,R5,2
+그록대기,졸다,doze off,9226,R5,2
+그록대기,크림,cream,9227,R5,2
+그록대기,묵,acorn jelly,9228,R5,2
+그록대기,엄지,thumb,9229,R5,1
+그록대기,검지,index finger,9230,R5,1
+그록대기,연예인,celebrity,9231,R5,1
+그록대기,볼,cheek,9233,R5,1
+그록대기,조각,piece,9234,R5,1
+그록대기,옆방,next room,9235,R5,1
+그록대기,섞다,mix,9236,R5,1
+그록대기,플라스틱,plastic,9237,R5,1
+그록대기,눌리다,be pressed,9238,R5,1
+그록대기,치즈,cheese,9239,R5,1
+그록대기,햄,ham,9240,R5,1
+그록대기,찌개,stew,9241,R5,1
+그록대기,쏟아지다,pour down,9242,R5,1
+그록대기,헉헉,panting,9243,R5,1
+그록대기,벌레,bug,9244,R5,1
+그록대기,슬리퍼,slippers,9245,R5,1
+그록대기,날아다니다,fly around,9246,R5,1
+그록대기,졸리다,sleepy,9249,R5,1
+그록대기,고리,"ring, loop",9252,R5,1
+그록대기,잠옷,pajamas,9253,R5,1
+그록대기,동물원,zoo,9255,R5,1
+그록대기,결제,payment,9256,R5,1
+그록대기,흥정,haggling,9257,R5,1
+그록대기,귤,tangerine,9258,R5,1
+그록대기,일행,"party, companions",9259,R5,1
+그록대기,노래지다,turn yellow,9260,R5,1
+그록대기,이름표,name tag,9262,R5,1
+그록대기,거꾸로,upside down,9263,R5,1
+그록대기,튀기다,deep-fry,9264,R5,1
+그록대기,응원봉,light stick,9265,R5,1
+그록대기,부치다,send by mail,9266,R5,1
+그록대기,빗소리,sound of rain,9267,R5,1
+그록대기,반짝반짝,sparkling,9268,R5,1
+그록대기,반죽,dough,9270,R5,1
+그록대기,배추,napa cabbage,9272,R5,1
+그록대기,김장,kimchi-making,9273,R5,1
+그록대기,수육,boiled pork slices,9274,R5,1
+그록대기,쌍둥이,twins,9275,R5,1
+그록대기,컵라면,cup noodles,9276,R5,1
+그록대기,국그릇,soup bowl,9277,R5,1
+그록대기,거실,living room,9278,R5,1
+그록대기,집들이,housewarming,9282,R5,1
+그록대기,원룸,studio apartment,9283,R5,1
+그록대기,건너편,opposite side,9284,R5,1
+그록대기,고마워하다,to be grateful,9285,R5,1
+그록대기,당번,person on duty,9286,R5,1
+그록대기,난방,heating,9288,R5,1
+그록대기,현관,entrance hall,9289,R5,1
+그록대기,재킷,jacket,9291,R5,1
+그록대기,두근거리다,heart pounds,9293,R5,1
+그록대기,쫓아오다,to chase after,9294,R5,1
+그록대기,시리다,to feel cold,9295,R5,1
+그록대기,코트,coat,9296,R5,1
+그록대기,글씨,handwriting,9297,R5,1
+그록대기,얼음,ice,9298,R5,1
+그록대기,창가,by the window,9299,R5,1
+그록대기,카운터,counter,9300,R5,1
+그록대기,사촌,cousin,9302,R5,1
+그록대기,가슴살,chicken breast,9303,R5,1
+그록대기,질리다,to be sick of,9304,R5,1
+그록대기,대본,script,9307,R5,1
+그록대기,도시락,lunch box,9308,R5,1
+그록대기,빨대,straw,9310,R5,1
+그록대기,카페라떼,cafe latte,9311,R5,1
+그록대기,유자차,yuja tea,9312,R5,1
+그록대기,건너가다,to cross over,9313,R5,1
+그록대기,광장시장,Gwangjang Market,9315,R5,1
+그록대기,칼칼하다,spicy and crisp,9318,R5,1
+그록대기,띵하다,to feel dizzy,9319,R5,1
+그록대기,기침,cough,9320,R5,1
+그록대기,신분증,ID card,9322,R5,1
+그록대기,통장,bankbook,9324,R5,1
+그록대기,수건,towel,9325,R5,1
+그록대기,한강,Han River,9326,R5,1
+그록대기,자물쇠,lock,9327,R5,1
+그록대기,돼지국밥,pork soup rice,9328,R5,1
+그록대기,복사기,copier,9329,R5,1
+그록대기,뚜껑,lid,9330,R5,1
+그록대기,쇼핑몰,shopping mall,9331,R5,1
+그록대기,사료,pet food,9332,R5,1
+그록대기,서명,signature,9334,R5,1
+그록대기,연습실,practice room,9335,R5,1
+그록대기,세배,New Year bow,9337,R5,1
+그록대기,세뱃돈,New Year money,9338,R5,1
+그록대기,양손,both hands,9339,R5,1
+그록대기,다듬다,to trim,9340,R5,1
+그록대기,점검,inspection,9341,R5,1
+그록대기,사다리,ladder,9342,R5,1
+그록대기,야근,overtime work,9343,R5,1
+그록대기,태풍,typhoon,9344,R5,1
+그록대기,서랍,drawer,9345,R5,1
+그록대기,현관문,front door,9346,R5,1
+그록대기,소개팅,blind date,9347,R5,1
+그록대기,스테이크,steak,9349,R5,1
+그록대기,샴페인,champagne,9350,R5,1
+그록대기,타워,tower,9351,R5,1
+그록대기,콜라,cola,9352,R5,1
+그록대기,튀김,fried food,9353,R5,1
+그록대기,안주,side dish for drinks,9355,R5,1
+그록대기,쫓아내다,to drive out,9356,R5,1
+그록대기,뾰족,pointed,9358,R5,1
+그록대기,꼬이다,to get tangled,9359,R5,1
+그록대기,여권,passport,9360,R5,1
+그록대기,신청서,application form,9361,R5,1
+그록대기,접수,reception,9362,R5,1
+그록대기,꼬다,to twist,9363,R5,1
+그록대기,대여,rental,9364,R5,1
+그록대기,유적지,historic site,9365,R5,1
+그록대기,사극,period drama,9366,R5,1
+그록대기,익다,to be cooked,9367,R5,1
+그록대기,빗방울,raindrop,9368,R5,1
+그록대기,맛집,famous restaurant,9369,R5,1
+그록대기,마트,supermarket,9371,R5,1
+그록대기,포스트잇,sticky note,9372,R5,1
+그록대기,맑다,clear,9373,R5,1
+그록대기,주차장,parking lot,9375,R5,1
+그록대기,멸치,anchovy,9376,R5,1
+그록대기,볶음,stir-fry,9377,R5,1
+그록대기,빠져나가다,to slip out,9378,R5,1
+그록대기,쿵쿵거리다,to thud,9379,R5,1
+그록대기,경비실,guard booth,9380,R5,1
+그록대기,두르다,to wrap around,9381,R5,1
+그록대기,놀이공원,amusement park,9382,R5,1
+그록대기,정류장,bus stop,9383,R5,1
+그록대기,커튼,curtain,9384,R5,1
+그록대기,달려오다,to run over,9385,R5,1
+그록대기,난장판,mess,9386,R5,1
+그록대기,흐리다,cloudy,9389,R5,1
+그록대기,소리치다,to shout,9390,R5,1
+그록대기,삐다,to sprain,9391,R5,1
+그록대기,반하다,to fall for,9393,R5,1
+그록대기,후드,hoodie,9394,R5,1
+그록대기,수강,taking a class,9396,R5,1
+그록대기,예불,Buddhist service,9397,R5,1
+그록대기,발우,monk's bowl,9398,R5,1
+그록대기,공양,temple meal,9399,R5,1
+그록대기,고추,chili pepper,9400,R5,1
+그록대기,헹구다,to rinse,9401,R5,1
+그록대기,재다,to measure,9402,R5,1
+그록대기,노트북,laptop,9403,R5,1
+그록대기,합격,passing (exam),1893,R4+,0
+목록밖,한국어,Korean language,3001,Conv,13
+목록밖,룰,rule,3008,Conv,7
+목록밖,금요일,Friday,3025,Conv,5
+목록밖,한국말,Korean speech,3041,Conv,4
+목록밖,상실,loss,3043,Conv,4
+목록밖,공짜,free of charge,3044,Conv,4
+목록밖,월세,monthly rent,3047,Conv,4
+목록밖,넵,yep,3053,Conv,4
+목록밖,리더,leader,3057,Conv,4
+목록밖,점수,score,3061,Conv,3
+목록밖,반대쪽,opposite side,3068,Conv,3
+목록밖,명동,Myeongdong,3072,Conv,3
+목록밖,제주,Jeju,3077,Conv,3
+목록밖,원플원,buy one get one,3078,Conv,3
+목록밖,단어,word,3081,Conv,3
+목록밖,정산,settlement,3087,Conv,3
+목록밖,묵언,silence,3089,Conv,3
+목록밖,가사,lyrics,3093,Conv,2
+목록밖,월요일,Monday,3104,Conv,2
+목록밖,직캠,fancam,3107,Conv,2
+목록밖,라이트,light,3110,Conv,2
+목록밖,톡,chat message,3112,Conv,2
+목록밖,제주도,Jeju Island,3114,Conv,2
+목록밖,축,congrats,3115,Conv,2
+목록밖,반값,half price,3117,Conv,2
+목록밖,팡팡,pop pop,3119,Conv,2
+목록밖,와이파이,Wi-Fi,3120,Conv,2
+목록밖,비번,password,3121,Conv,2
+목록밖,비밀번호,password,3122,Conv,2
+목록밖,망원동,Mangwon-dong,3126,Conv,2
+목록밖,강남역,Gangnam Station,3129,Conv,2
+목록밖,필수,essential,3134,Conv,2
+목록밖,아이보리,ivory,3135,Conv,2
+목록밖,카톡,KakaoTalk,3136,Conv,2
+목록밖,서울역,Seoul Station,3137,Conv,2
+목록밖,살아나다,come back to life,3138,Conv,2
+목록밖,경제학,economics,3143,Conv,2
+목록밖,격식,formality,3144,Conv,2
+목록밖,체,pretending,3145,Conv,2
+목록밖,아이스,iced,3148,Conv,2
+목록밖,홍대,Hongdae,3149,Conv,2
+목록밖,해운대,Haeundae,3153,Conv,2
+목록밖,김포,Gimpo,3158,Conv,2
+목록밖,채팅,chatting,3161,Conv,2
+목록밖,외국어,foreign language,3162,Conv,2
+목록밖,턴,turn,3165,Conv,2
+목록밖,새해,new year,3166,Conv,2
+목록밖,감점,point deduction,3169,Conv,2
+목록밖,보증금,deposit,3173,Conv,2
+목록밖,전세,jeonse,3174,Conv,2
+목록밖,한국식,Korean style,3176,Conv,2
+목록밖,타입,type,3179,Conv,2
+목록밖,과목,school subject,3181,Conv,2
+목록밖,읽씹,left on read,3184,Conv,2
+목록밖,일정표,schedule,3185,Conv,2
+목록밖,색깔,color,3186,Conv,2
+목록밖,연차,annual leave,3189,Conv,2
+목록밖,목요일,Thursday,3190,Conv,2
+목록밖,컷,cut,3191,Conv,2
+목록밖,멘트,comment,3197,Conv,2
+목록밖,참사,disaster,3200,Conv,2
+목록밖,한가득,full,3206,Conv,1
+목록밖,왕창,a lot,3212,Conv,1
+목록밖,공범,accomplice,3222,Conv,1
+목록밖,편히,comfortably,3226,Conv,1
+목록밖,잔액,balance,3235,Conv,1
+목록밖,명동역,Myeongdong Station,3240,Conv,1
+목록밖,강남,Gangnam,3241,Conv,1
+목록밖,종점,terminus,3242,Conv,1
+목록밖,강북,Gangbuk,3243,Conv,1
+목록밖,안건,agenda item,3247,Conv,1
+목록밖,월급날,payday,3248,Conv,1
+목록밖,피켓팅,ticket scramble,3249,Conv,1
+목록밖,예매,advance booking,3251,Conv,1
+목록밖,블루투스,Bluetooth,3253,Conv,1
+목록밖,사랑해,I love you,3259,Conv,1
+목록밖,스틱,stick,3261,Conv,1
+목록밖,해치우다,knock out,3263,Conv,1
+목록밖,친구분,friend (hon.),3264,Conv,1
+목록밖,이만큼,this much,3265,Conv,1
+목록밖,팍팍,vigorously,3266,Conv,1
+목록밖,뮤비,music video,3269,Conv,1
+목록밖,스포,spoiler,3270,Conv,1
+목록밖,클리셰,cliche,3272,Conv,1
+목록밖,사이드,side dish,3273,Conv,1
+목록밖,학점,course credit,3274,Conv,1
+목록밖,삼각,triangle,3275,Conv,1
+목록밖,페이퍼,paper,3276,Conv,1
+목록밖,학기,semester,3277,Conv,1
+목록밖,공문,official letter,3278,Conv,1
+목록밖,잘하다,to be good at,3279,Conv,1
+목록밖,짤,meme image,3280,Conv,1
+목록밖,학과,department,3281,Conv,1
+목록밖,이득,gain,3283,Conv,1
+목록밖,관리비,maintenance fee,3288,Conv,1
+목록밖,잔뜩,a lot,3291,Conv,1
+목록밖,불어나다,to swell,3292,Conv,1
+목록밖,롤,roll,3293,Conv,1
+목록밖,아랫집,downstairs neighbor,3298,Conv,1
+목록밖,지난달,last month,3301,Conv,1
+목록밖,비버,beaver,3304,Conv,1
+목록밖,칸,compartment,3306,Conv,1
+목록밖,개똥,dog poop,3309,Conv,1
+목록밖,이왕,since it's so,3310,Conv,1
+목록밖,홀더,cup holder sleeve,3315,Conv,1
+목록밖,단톡방,group chat,3321,Conv,1
+목록밖,보정,photo retouching,3322,Conv,1
+목록밖,필터,filter,3323,Conv,1
+목록밖,베이지,beige,3325,Conv,1
+목록밖,크림색,cream color,3326,Conv,1
+목록밖,구별,distinction,3327,Conv,1
+목록밖,내려앉다,to sink down,3328,Conv,1
+목록밖,받침,final consonant,3334,Conv,1
+목록밖,좀비,zombie,3335,Conv,1
+목록밖,탭,tab,3337,Conv,1
+목록밖,용량,capacity,3338,Conv,1
+목록밖,한글,Hangul,3339,Conv,1
+목록밖,야행,night walking,3340,Conv,1
+목록밖,감시자,watcher,3341,Conv,1
+목록밖,적립,earn points,3345,Conv,1
+목록밖,정거장,stop,3352,Conv,1
+목록밖,보험증,insurance card,3359,Conv,1
+목록밖,돌돌,rolling up,3364,Conv,1
+목록밖,검은색,black,3367,Conv,1
+목록밖,핑크,pink,3368,Conv,1
+목록밖,지연,delay,3371,Conv,1
+목록밖,뜨아,hot americano,3372,Conv,1
+목록밖,센스,sense,3378,Conv,1
+목록밖,보컬,vocalist,3382,Conv,1
+목록밖,발음,pronunciation,3384,Conv,1
+목록밖,열정,passion,3387,Conv,1
+목록밖,팬싸,fan signing,3389,Conv,1
+목록밖,당첨,winning,3390,Conv,1
+목록밖,화요일,Tuesday,3391,Conv,1
+목록밖,기말,end of term,3392,Conv,1
+목록밖,고사,exam,3393,Conv,1
+목록밖,매주,every week,3394,Conv,1
+목록밖,유행,trend,3396,Conv,1
+목록밖,순식간,in an instant,3403,Conv,1
+목록밖,동시,at the same time,3404,Conv,1
+목록밖,어기다,to break,3406,Conv,1
+목록밖,아무거나,anything,3414,Conv,1
+목록밖,원론,basic theory,3415,Conv,1
+목록밖,틀,mold,3421,Conv,1
+목록밖,엑셀,Excel,3423,Conv,1
+목록밖,전날,the day before,3424,Conv,1
+목록밖,재학,enrollment,3428,Conv,1
+목록밖,증명서,certificate,3429,Conv,1
+목록밖,하얀색,white,3431,Conv,1
+목록밖,임대차,lease,3432,Conv,1
+목록밖,목적지,destination,3434,Conv,1
+목록밖,옵서예,welcome (Jeju),3435,Conv,1
+목록밖,사투리,dialect,3436,Conv,1
+목록밖,육지,mainland,3437,Conv,1
+목록밖,대부분,mostly,3441,Conv,1
+목록밖,강등,demotion,3443,Conv,1
+목록밖,타프,tarp,3446,Conv,1
+목록밖,시차,time difference,3447,Conv,1
+목록밖,엑스트라,extra,3452,Conv,1
+목록밖,살수차,water truck,3454,Conv,1
+목록밖,케미,chemistry,3456,Conv,1
+목록밖,길이,length,3458,Conv,1
+목록밖,변함없다,unchanging,3463,Conv,1
+목록밖,진지,serious,3464,Conv,1
+목록밖,흑역사,embarrassing past,3465,Conv,1
+목록밖,소음,noise,3467,Conv,1
+목록밖,윗집,upstairs neighbor,3469,Conv,1
+목록밖,본론,main point,3471,Conv,1
+목록밖,이용권,pass,3473,Conv,1
+목록밖,인스타,Instagram,3474,Conv,1
+목록밖,페이스,pace,3476,Conv,1
+목록밖,사방,all around,3479,Conv,1
+목록밖,일시,date and time,3484,Conv,1
+목록밖,익숙,familiar,3485,Conv,1
+목록밖,과하다,to be excessive,3489,Conv,1
+목록밖,하나하나,one by one,3490,Conv,1
+목록밖,끌리다,to be drawn,3492,Conv,1
+목록밖,특정,specific,3493,Conv,1
+목록밖,회색,gray,3494,Conv,1
+목록밖,둔하다,to be slow,3496,Conv,1
+목록밖,말투,way of speaking,3499,Conv,1
+목록밖,부득이,unavoidably,3500,Conv,1
+목록밖,기한,deadline,3501,Conv,1
+목록밖,연장,extension,3502,Conv,1
+목록밖,문장,sentence,3503,Conv,1
+목록밖,레전드,legend,3511,Conv,1
+민감보류,자살,suicide,1025,R4+,0
+민감보류,또라이,weirdo,1650,R4+,0
+민감보류,폭행,assault,1733,R4+,0
+민감보류,마약,drugs,1737,R4+,0
+민감보류,변태,pervert,2227,R4+,0
+민감보류,부검,autopsy,2285,R4+,0
+민감보류,미친놈,crazy guy,2314,R4+,0
+민감보류,양아치,thug,2408,R4+,0
