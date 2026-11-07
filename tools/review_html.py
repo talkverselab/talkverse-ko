@@ -20,16 +20,19 @@ def aurl(r):
 
 def play(eid, n):
     """턴의 재생 버튼. 모든 턴에 남성판·여성판 두 줄 — 소리가 같으면(sha1) 버튼 하나만."""
-    rs = {r['voice']: r for r in AUD.get(eid, []) if r['turn'] == n}
-    if not rs:
-        return ''
-    m, f = rs.get('m'), rs.get('f')
-    emo = ' → '.join(EMO.get(x, x) for x in (m or f)['emotion'].split('+'))
-    if m and f and m['sha1'] != f['sha1']:
-        bs = f"<button class='pl vm' data-u='{aurl(m)}' onclick='p1(this)'>▶ 남자</button><button class='pl vf' data-u='{aurl(f)}' onclick='p1(this)'>▶ 여자</button>"
-    else:
-        bs = f"<button class='pl vc' data-u='{aurl(m or f)}' onclick='p1(this)'>▶ 재생</button>"
-    return f"<div class=au>{bs}<span class=em>감정: {emo}</span></div>"
+    out = ''
+    for suf, label in (('', ''), ('_vox', 'VoxCPM2 ')):
+        rs = {r['voice']: r for r in AUD.get(eid + suf, []) if r['turn'] == n}
+        if not rs:
+            continue
+        m, f = rs.get('m'), rs.get('f')
+        emo = ' → '.join(EMO.get(x, x) for x in (m or f)['emotion'].split('+'))
+        if m and f and m['sha1'] != f['sha1']:
+            bs = f"<button class='pl vm{suf}' data-u='{aurl(m)}' onclick='p1(this)'>▶ {label}남자</button><button class='pl vf{suf}' data-u='{aurl(f)}' onclick='p1(this)'>▶ {label}여자</button>"
+        else:
+            bs = f"<button class='pl vc{suf}' data-u='{aurl(m or f)}' onclick='p1(this)'>▶ {label}재생</button>"
+        out += f"<div class=au>{bs}<span class=em>{label}감정: {emo}</span></div>"
+    return out
 
 
 def audio_head(e):
@@ -37,7 +40,8 @@ def audio_head(e):
         return ''
     k = f"{e['id']}:audio"
     return (f"<div class=aubox><b>🔊 음성 품질 확인</b> — 문장마다 감정을 넣은 생성 음성입니다. 학습자 이름은 남성판 「알렉스」, 여성판 「에마」입니다(화면의 대본은 이름 자리 그대로)."
-            f"<div class=au><button class=pl onclick=\"pa(this,'m')\">▶ 전체 듣기(남자 학습자)</button><button class=pl onclick=\"pa(this,'f')\">▶ 전체 듣기(여자 학습자)</button></div>"
+            f"<div class=au><button class=pl onclick=\"pa(this,'m')\">▶ 전체 듣기(남자 학습자)</button><button class=pl onclick=\"pa(this,'f')\">▶ 전체 듣기(여자 학습자)</button>"
+            + (f"<button class=pl onclick=\"pa(this,'m_vox')\">▶ VoxCPM2 전체(남)</button><button class=pl onclick=\"pa(this,'f_vox')\">▶ VoxCPM2 전체(여)</button><span class=em>두 모델 비교 — 어느 쪽이 자연스러운지 적어 주세요</span>" if e['id'] + '_vox' in AUD else '') + "</div>"
             f"<div class=rv><textarea data-k='{k}' placeholder='음성 리뷰 — 목소리·감정·억양·속도…'></textarea><button onclick=\"sv(this)\">저장</button></div><div class=rs data-s='{k}'></div></div>")
 
 
@@ -103,7 +107,7 @@ function off(){if(B)B.classList.remove('on');document.querySelectorAll('.t.now')
 function stop(){Q=[];AU.pause();off();B=null;}
 function go(b,u){off();B=b;b.classList.add('on');AU.src=u;AU.play().catch(()=>stop());}
 function p1(b){if(B===b&&!AU.paused){stop();return;}stop();go(b,b.dataset.u);}
-function pa(b,g){if(B===b){stop();return;}stop();const box=b.closest('.aubox');let e=box;const L=[];while((e=e.nextElementSibling)&&e.tagName!=='H2'){if(!e.classList.contains('t'))continue;const x=e.querySelector('.pl.v'+g)||e.querySelector('.pl.vc');if(x)L.push(x);}
+function pa(b,g){if(B===b){stop();return;}stop();const box=b.closest('.aubox');let e=box;const L=[];while((e=e.nextElementSibling)&&e.tagName!=='H2'){if(!e.classList.contains('t'))continue;const s=g.endsWith('_vox')?'_vox':'';const gg=g.replace('_vox','');const x=e.querySelector('.pl.v'+gg+s)||e.querySelector('.pl.vc'+s);if(x)L.push(x);}
  Q=L.slice();B=b;b.classList.add('on');nx();}
 function nx(){const x=Q.shift();if(!x){stop();return;}const t=x.closest('.t');document.querySelectorAll('.t.now').forEach(y=>y.classList.remove('now'));t.classList.add('now');t.scrollIntoView({block:'center',behavior:'smooth'});AU.src=x.dataset.u;AU.play().catch(()=>stop());}
 AU.onended=()=>{if(Q.length){setTimeout(nx,350);}else{stop();}};

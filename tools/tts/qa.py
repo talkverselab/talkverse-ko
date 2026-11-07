@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""생성된 문장 조각을 받아쓰기로 검사하고, 나쁜 조각의 재생성 작업을 만든다(mlx-whisper·pykakasi 필요).
+"""생성된 문장 조각을 받아쓰기로 검사하고(품질 기준 = ja docs/DIALOGUE_AUDIO.md §5, 2026-11-07 밤: 유사도 ≥0.90 · 첫/끝 낱말 누락 불합격 · 말 속도 · 잡음 바닥 ≤-55dB · 클리핑 0 · 언어 판정 ko), 나쁜 조각의 재생성 작업을 만든다(mlx-whisper·pykakasi 필요).
   python qa.py <wav폴더> <편id>... [--jobs <moss_jobs.json>]   결과는 <wav폴더>/qa.json 에 쌓인다(조각 → sim·dur·tries·ok)
 한글 음절만 남겨 견준다(띄어쓰기·문장부호 무시). 나쁨 = 비슷함 0.72 미만 또는 길이가 글자 수에 견줘 지나치게 길거나 짧음.
 재생성본은 PC 의 out/retake/<편>/<조각>.t<N>.wav — 받아 온 뒤 다시 돌리면 가장 잘 나온 판을 본 파일로 고른다. 세 번 해도 나쁘면 가장 나은 판을 쓰고 qa.json 에 ok=false 로 남긴다."""
@@ -20,16 +20,50 @@ def peak(f):
     return float(m.group(1)) if m else -99.0
 
 
+SIM_MIN = 0.90
+SPEED = (3.2, 7.5)   # 한국어 음절/초 — 자연스러운 대화 약 4~6, 느리면 pack 이 1.15배까지 당기므로 아래 한계는 3.2(= 3.7/1.15)
+
+
+def stats(f):
+    return L.audio_stats(f)
+
+
+def speech_dur(f):
+    import librosa
+    y, sr = librosa.load(f, sr=16000)
+    yt, _ = librosa.effects.trim(y, top_db=40)
+    return len(yt) / sr
+
+
+def words(t):
+    return [x for x in re.split(r'[\s,.!?…~]+', re.sub(r'\([^)]*\)', '', t)) if re.search(r'[가-힣]', x)]
+
+
 def score(f, text):
     w = norm(text); d = dur(f)
-    if d <= 0 or peak(f) < -30:            # 거의 무음으로 나온 조각(생성 실패)
+    pk, nf, clip = stats(f)
+    if d <= 0 or pk < -30:                 # 거의 무음으로 나온 조각(생성 실패)
+        return 0.0, d
+    if clip > 0.0005:                      # 클리핑(잡음 바닥은 1~3초 조각에서 잴 수 없어 참고 음성에서만 본다 — check_refs.py)
         return 0.0, d
     if d > 2.2 + 0.42 * len(w) or d < 0.05 * len(w):
         return 0.0, d
-    if len(w) <= 2:                       # 한두 글자는 받아쓰기를 믿을 수 없다 — 길이만 본다
+    if len(w) <= 2:                        # 한두 글자는 받아쓰기를 믿을 수 없다 — 길이만 본다
         return (1.0 if d <= 2.0 else 0.0), d
-    g = norm(mlx_whisper.transcribe(f, path_or_hf_repo=M, language='ko', condition_on_previous_text=False)['text'])
-    return difflib.SequenceMatcher(None, w, g).ratio(), d
+    sp = speech_dur(f)                      # 말 속도(음절/초) — 앞뒤 무음을 뺀 길이로
+    if sp > 0 and (len(w) / sp > SPEED[1] or len(w) / sp < SPEED[0]):
+        return 0.0, d
+    r = mlx_whisper.transcribe(f, path_or_hf_repo=M, language='ko', condition_on_previous_text=False)
+    g = norm(r['text'])
+    sim = difflib.SequenceMatcher(None, w, g).ratio()
+    ww, gw = words(text), words(r['text'])
+    if ww and gw:                          # 첫 낱말·끝 낱말이 빠지면 점수와 무관하게 불합격
+        n0, n1 = norm(ww[0]), norm(ww[-1])
+        if difflib.SequenceMatcher(None, n0, norm(gw[0])).ratio() < 0.6 or difflib.SequenceMatcher(None, n1, norm(gw[-1])).ratio() < 0.6:
+            sim = min(sim, SIM_MIN - 0.01)
+    elif ww:
+        sim = 0.0
+    return sim, d
 
 
 def main():
@@ -51,7 +85,7 @@ def main():
                 if s > q['sim']:
                     shutil.copy(c, f); q['sim'], q['dur'] = s, d
                 os.remove(c)
-            q['ok'] = q['sim'] >= 0.72
+            q['ok'] = q['sim'] >= SIM_MIN
             if not q['ok']:
                 bad += 1
                 if q['tries'] < 3:

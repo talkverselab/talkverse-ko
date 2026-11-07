@@ -54,7 +54,7 @@ def turns(ep):
         T = P['turns'][str(t['num'])]; row = {'num': t['num'], 'speaker': t['speaker']}
         for g in 'mf':
             X = T.get(g) or {}; F = fills(P, g)
-            segs = [(s[0], fill(s[-1], F, 'text').strip()) for s in (X.get('segs') or T['segs'])]
+            segs = [(s[0], re.sub(r'\s+', ' ', fill(s[-1], F, 'text').replace('…', ' ').replace('...', ' ')).strip()) for s in (X.get('segs') or T['segs'])]  # §5: 「…」은 읽히지 않게 뺀다
             segs = [s for s in segs if SIL.sub('', s[1])]
             row[g] = {'voice': ('am' if g == 'm' else 'af') if t['speaker'] == 'A' else P['cast'][t['speaker']],
                       'text': fill(X.get('text') or t['ko'], F, 'text'), 'reading': '',
@@ -80,3 +80,20 @@ def seg_files(ep):
 def planned():
     """감정 계획이 있는 편 id(정렬)."""
     return sorted(os.path.basename(p)[:-5] for p in glob.glob(f'{R}/data/tts/plan/*.json') if os.path.basename(p)[:-5] in EP)
+
+
+def audio_stats(f):
+    """(최대 음량 dB, 잡음 바닥 dB, 클리핑 샘플 비율) — 잡음 바닥 = 50ms 창 RMS 의 250ms 이동 중앙값 최소(-75dB 미만 디지털 무음 창 제외) — 근사치. librosa 필요(검사 venv)."""
+    import numpy as np, soundfile as sf
+    y, sr = sf.read(f, dtype='float32', always_2d=True); y = y.mean(axis=1)
+    if len(y) == 0:
+        return -99.0, -99.0, 0.0
+    peak = 20 * np.log10(max(float(np.abs(y).max()), 1e-9))
+    n = max(int(sr * 0.05), 1); frames = y[:len(y) // n * n].reshape(-1, n)
+    rms = np.sqrt((frames ** 2).mean(axis=1)); rms = rms[rms > 10 ** (-75 / 20)]   # 앞뒤 패딩 같은 디지털 무음(-75dB 미만)은 뺀다
+    if len(rms) >= 5:                      # 5창(250ms) 이동 중앙값의 최소 = 가장 조용히 이어지는 구간(말 사이 바닥)
+        sm = np.array([np.median(rms[i:i + 5]) for i in range(len(rms) - 4)]); nf = 20 * np.log10(float(sm.min()))
+    else:
+        nf = 20 * np.log10(float(rms.min())) if len(rms) else -99.0
+    clip = float((np.abs(y) >= 0.999).mean())
+    return peak, nf, clip

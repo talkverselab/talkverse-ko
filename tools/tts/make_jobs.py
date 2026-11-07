@@ -2,6 +2,7 @@
 """감정 계획 → PC 작업 파일(D:\\tts_test\\job 에 넣는다). 한국어 = language 'Korean'.
   python3 tools/tts/make_jobs.py <출력폴더> --refs [편id...]   쓰이는 (목소리, 감정) 참고 음성 → vox_jobs.json (편을 주면 그 편들만)
   PC 출력은 out/ko/<편>/, 참고 음성은 out/ref_ko/ 에 둔다(편 id·목소리 이름이 언어와 같아 일본어 결과가 있으면 건너뛰어 버림) — 일본어 out/ref/ 와 이름(am·af·man_y…)이 겹쳐 건너뛰기 때문.
+  python3 tools/tts/make_jobs.py <출력폴더> --vox <편id>...    같은 조각을 VoxCPM2 로(참고 음성 복제) → vox_jobs.json (out/ko_vox/<편>/) — §5 모델 비교용
   python3 tools/tts/make_jobs.py <출력폴더> <편id>...          문장 조각 → moss_jobs.json (out/ko/<편>/<턴>_<조각>_<c|m|f>.wav)"""
 import json, sys
 import ttslib as L
@@ -17,6 +18,9 @@ def main():
             x, E = L.V['voices'][v], L.V['emotions'][e]
             vox.append({'out': f'ref_ko/{v}_{e}.wav', 'text': E['ref'], 'instruct': f"{x['desc']}, {E['instruct']}", 'reference': f'out/ref_ko/{v}_base.wav'})
         json.dump(vox, open(f'{out}/vox_jobs.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0); print(len(vox), 'vox'); return
+    if eps and eps[0] == '--vox':
+        vox = [{'out': f'ko_vox/{ep}/{f}', 'text': text, 'reference': f'out/ref_ko/{v}_{e}.wav'} for ep in eps[1:] for f, v, e, text in L.seg_files(ep)]
+        json.dump(vox, open(f'{out}/vox_jobs.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0); print(len(vox), 'vox(문장)'); return
     moss = [{'out': f'ko/{ep}/{f}', 'text': text, 'language': 'Korean', 'reference': f'out/ref_ko/{v}_{e}.wav'} for ep in eps for f, v, e, text in L.seg_files(ep)]
     json.dump(moss, open(f'{out}/moss_jobs.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0); print(len(moss), 'moss')
 

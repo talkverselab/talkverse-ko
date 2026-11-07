@@ -13,7 +13,7 @@ h1{font-size:20px}h2{font-size:17px;margin:28px 0 4px;color:#3d8b7a}.meta{font-s
 .au{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin-top:6px}.pl{border:1px solid #cfd8e3;border-radius:16px;padding:5px 12px;background:#fff;color:#0a2540;font-size:13px;cursor:pointer}.pl.on{background:#635bff;border-color:#635bff;color:#fff}
 .em{font-size:12px;color:#b77548}.aubox{margin:10px 0;padding:10px 12px;border:1px solid #b77548;border-radius:12px;font-size:14px}.t.now{outline:2px solid #635bff}
 @media(max-width:560px){.cuts{grid-template-columns:1fr}}</style></head><body>
-<h1>한국어 회화 리뷰 시트</h1><div class=meta>갱신 2026-11-07 20:04 · 턴마다 한국어 / 로마자 / English · 턴 두 개마다 장면 그림(기본·여자 학습자, 누르면 크게) · 🎬 = K-드라마 클리셰 편 · 고칠 곳은 편 id·턴 번호로</div><div class=aubox>🔊 음성이 들어간 편 1편 — 편마다 「전체 듣기」와 턴별 재생 버튼이 있습니다.</div><div class=nav>
+<h1>한국어 회화 리뷰 시트</h1><div class=meta>갱신 2026-11-07 22:02 · 턴마다 한국어 / 로마자 / English · 턴 두 개마다 장면 그림(기본·여자 학습자, 누르면 크게) · 🎬 = K-드라마 클리셰 편 · 고칠 곳은 편 id·턴 번호로</div><div class=aubox>🔊 음성이 들어간 편 1편 — 편마다 「전체 듣기」와 턴별 재생 버튼이 있습니다.</div><div class=nav>
 <a href='#r0_culture_a1'>최애가 누구야?</a>
 <a href='#r0_culture_a2'>손하트</a>
 <a href='#r0_culture_a3'>진짜 매워</a>
@@ -3973,7 +3973,7 @@ function off(){if(B)B.classList.remove('on');document.querySelectorAll('.t.now')
 function stop(){Q=[];AU.pause();off();B=null;}
 function go(b,u){off();B=b;b.classList.add('on');AU.src=u;AU.play().catch(()=>stop());}
 function p1(b){if(B===b&&!AU.paused){stop();return;}stop();go(b,b.dataset.u);}
-function pa(b,g){if(B===b){stop();return;}stop();const box=b.closest('.aubox');let e=box;const L=[];while((e=e.nextElementSibling)&&e.tagName!=='H2'){if(!e.classList.contains('t'))continue;const x=e.querySelector('.pl.v'+g)||e.querySelector('.pl.vc');if(x)L.push(x);}
+function pa(b,g){if(B===b){stop();return;}stop();const box=b.closest('.aubox');let e=box;const L=[];while((e=e.nextElementSibling)&&e.tagName!=='H2'){if(!e.classList.contains('t'))continue;const s=g.endsWith('_vox')?'_vox':'';const gg=g.replace('_vox','');const x=e.querySelector('.pl.v'+gg+s)||e.querySelector('.pl.vc'+s);if(x)L.push(x);}
  Q=L.slice();B=b;b.classList.add('on');nx();}
 function nx(){const x=Q.shift();if(!x){stop();return;}const t=x.closest('.t');document.querySelectorAll('.t.now').forEach(y=>y.classList.remove('now'));t.classList.add('now');t.scrollIntoView({block:'center',behavior:'smooth'});AU.src=x.dataset.u;AU.play().catch(()=>stop());}
 AU.onended=()=>{if(Q.length){setTimeout(nx,350);}else{stop();}};
