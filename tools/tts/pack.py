@@ -12,7 +12,8 @@ R = L.R
 TRIM = ('silenceremove=start_periods=1:start_threshold=-45dB:start_silence=0.03,areverse,'
         'silenceremove=start_periods=1:start_threshold=-45dB:start_silence=0.05,areverse,'
         'silenceremove=stop_periods=-1:stop_duration=0.25:stop_threshold=-45dB:stop_silence=0.25')
-GAP = '0.18'; SLOW = 3.7; MAX_TEMPO = 1.15
+GAP = '0.18'; MAX_TEMPO = 1.15
+SLOW = [4.5 * 0.9]   # 음절/초 — 참고 음성 중앙값의 0.9배 미만이면 당긴다(main 이 ref_ko 로 다시 잰다)
 W = ['npx', '-y', 'wrangler@4']
 
 
@@ -29,8 +30,8 @@ def build(wav, ep, num, tag, segs, out, tmp):
         if os.path.getsize(o) < 1000:            # 소리가 작아 무음 자르기에 전부 잘려 나간 조각(ffmpeg 는 0 을 돌려준다) → 자르지 않고 쓴다
             run('ffmpeg', '-y', '-i', src, '-ar', '24000', '-ac', '1', o)
         syl = len(re.sub(r'[^가-힣]', '', text)); d = dur(o)
-        if syl >= 3 and d > 0 and syl / d < SLOW:    # 느린 조각은 속도만 올린다(음높이 유지)
-            t = min(MAX_TEMPO, SLOW / (syl / d)); o2 = o[:-4] + '_t.wav'
+        if syl >= 3 and d > 0 and syl / d < SLOW[0]:    # 느린 조각은 속도만 올린다(음높이 유지)
+            t = min(MAX_TEMPO, SLOW[0] / (syl / d)); o2 = o[:-4] + '_t.wav'
             run('ffmpeg', '-y', '-i', o, '-af', f'atempo={t:.3f}', o2); o = o2
         parts.append(o)
     gap = f'{tmp}/gap.wav'
@@ -61,6 +62,13 @@ def main():
     if '--variant' in a:
         i = a.index('--variant'); var = '_' + a[i + 1]; a = a[:i] + a[i + 2:]
     wav, eps = a[0], a[1:]
+    try:
+        import qa
+        rs = qa.ref_speed(f'{wav}/ref_ko') if os.path.isdir(f'{wav}/ref_ko') else None
+        if rs:
+            SLOW[0] = rs * 0.9
+    except Exception:
+        pass
     tmp = tempfile.mkdtemp(); q = lambda s: "'" + s.replace("'", "''") + "'"
     mf = f'{R}/data/tts/audio_ko.json'
     for ep0 in eps:

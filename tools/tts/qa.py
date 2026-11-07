@@ -21,7 +21,21 @@ def peak(f):
 
 
 SIM_MIN = 0.90
-SPEED = (3.2, 7.5)   # 한국어 음절/초 — 자연스러운 대화 약 4~6, 느리면 pack 이 1.15배까지 당기므로 아래 한계는 3.2(= 3.7/1.15)
+REF_SPEED = [4.5]   # 음절/초 — main() 이 <wav>/ref_ko 의 참고 음성 중앙값으로 바꾼다(§5: 범위 = 중앙값의 0.75~1.15배, pack 이 1.15배까지 당긴 뒤에도 0.75 미만이면 재생성)
+NOISE_MAX = -45.0   # 문서 -55 는 우리 측정(무음 구간 RMS)과 안 맞아 분명한 잡음만(check_refs 와 같은 이유)
+
+
+def ref_speed(d):
+    """참고 음성(VoxCPM2) 말 속도 중앙값(음절/초)."""
+    import glob, statistics
+    v = []
+    for f in glob.glob(f'{d}/*.wav'):
+        name = os.path.basename(f)[:-4]; voice, emo = name.rsplit('_', 1)
+        text = L.V['base_text'] if emo == 'base' else L.V['emotions'].get(emo, {}).get('ref', '')
+        syl = len(re.sub(r'[^가-힣]', '', text)); sp = speech_dur(f)
+        if syl and sp > 0:
+            v.append(syl / sp)
+    return statistics.median(v) if v else None
 
 
 def stats(f):
@@ -44,18 +58,21 @@ def score(f, text):
     pk, nf, clip = stats(f)
     if d <= 0 or pk < -30:                 # 거의 무음으로 나온 조각(생성 실패)
         return 0.0, d
-    if clip > 0.0005:                      # 클리핑(잡음 바닥은 1~3초 조각에서 잴 수 없어 참고 음성에서만 본다 — check_refs.py)
+    if clip > 0.0005:                      # 클리핑
         return 0.0, d
     if d > 2.2 + 0.42 * len(w) or d < 0.05 * len(w):
         return 0.0, d
     if len(w) <= 2:                        # 한두 글자는 받아쓰기를 믿을 수 없다 — 길이만 본다
         return (1.0 if d <= 2.0 else 0.0), d
-    sp = speech_dur(f)                      # 말 속도(음절/초) — 앞뒤 무음을 뺀 길이로
-    if sp > 0 and (len(w) / sp > SPEED[1] or len(w) / sp < SPEED[0]):
-        return 0.0, d
     r = mlx_whisper.transcribe(f, path_or_hf_repo=M, language='ko', condition_on_previous_text=False)
     g = norm(r['text'])
     sim = difflib.SequenceMatcher(None, w, g).ratio()
+    if sim < 1.0:                          # §5: 받아쓰기 1.0 인 조각은 잡음·속도 수치만으로 다시 만들지 않는다
+        sp = speech_dur(f); ratio = (len(w) / sp) / REF_SPEED[0] if sp > 0 else 1.0   # 말 속도 = 참고 음성 중앙값 대비
+        if ratio * 1.15 < 0.75 or ratio > 1.15:
+            return 0.0, d
+        if nf is not None and nf > NOISE_MAX:
+            return 0.0, d
     ww, gw = words(text), words(r['text'])
     if ww and gw:                          # 첫 낱말·끝 낱말이 빠지면 점수와 무관하게 불합격
         n0, n1 = norm(ww[0]), norm(ww[-1])
@@ -71,6 +88,10 @@ def main():
     if '--jobs' in a:
         i = a.index('--jobs'); jobs_out = a[i + 1]; a = a[:i] + a[i + 2:]
     wav, eps = a[0], a[1:]
+    rs = ref_speed(f'{wav}/ref_ko') if os.path.isdir(f'{wav}/ref_ko') else None
+    if rs:
+        REF_SPEED[0] = rs
+    print(f'참고 음성 속도 중앙값 {REF_SPEED[0]:.1f}음절/초 → 허용 {REF_SPEED[0]*0.75:.1f}~{REF_SPEED[0]*1.15:.1f}')
     qf = f'{wav}/qa.json'; Q = json.load(open(qf, encoding='utf-8')) if os.path.exists(qf) else {}
     jobs = []; bad = 0
     for ep in eps:

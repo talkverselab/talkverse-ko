@@ -83,17 +83,29 @@ def planned():
 
 
 def audio_stats(f):
-    """(최대 음량 dB, 잡음 바닥 dB, 클리핑 샘플 비율) — 잡음 바닥 = 50ms 창 RMS 의 250ms 이동 중앙값 최소(-75dB 미만 디지털 무음 창 제외) — 근사치. librosa 필요(검사 venv)."""
+    """(최대 음량 dB, 잡음 바닥 dB 또는 None, 클리핑 샘플 비율) — §5(b189b0c): 잡음 바닥은 **무음 구간만**(-40dB 아래 50ms 창이 0.3초 이상 이어진 곳)의 RMS.
+    그런 구간이 없으면 None(검사 건너뜀 — 짧은 조각은 재지 않는다). librosa/soundfile 필요(검사 venv)."""
     import numpy as np, soundfile as sf
     y, sr = sf.read(f, dtype='float32', always_2d=True); y = y.mean(axis=1)
     if len(y) == 0:
-        return -99.0, -99.0, 0.0
+        return -99.0, None, 0.0
     peak = 20 * np.log10(max(float(np.abs(y).max()), 1e-9))
     n = max(int(sr * 0.05), 1); frames = y[:len(y) // n * n].reshape(-1, n)
-    rms = np.sqrt((frames ** 2).mean(axis=1)); rms = rms[rms > 10 ** (-75 / 20)]   # 앞뒤 패딩 같은 디지털 무음(-75dB 미만)은 뺀다
-    if len(rms) >= 5:                      # 5창(250ms) 이동 중앙값의 최소 = 가장 조용히 이어지는 구간(말 사이 바닥)
-        sm = np.array([np.median(rms[i:i + 5]) for i in range(len(rms) - 4)]); nf = 20 * np.log10(float(sm.min()))
-    else:
-        nf = 20 * np.log10(float(rms.min())) if len(rms) else -99.0
+    rms = np.sqrt((frames ** 2).mean(axis=1)); db = 20 * np.log10(np.maximum(rms, 1e-9))
+    quiet = db < -40; runs = []; i = 0
+    while i < len(quiet):
+        if quiet[i]:
+            j = i
+            while j < len(quiet) and quiet[j]:
+                j += 1
+            if j - i >= 6:                      # 0.3초 이상
+                runs.append(frames[i:j].ravel())
+            i = j
+        else:
+            i += 1
+    nf = None
+    if runs:
+        seg = np.concatenate(runs); seg = seg[np.abs(seg) > 1e-5]   # 디지털 0 패딩 제외
+        nf = 20 * np.log10(float(np.sqrt((seg ** 2).mean()))) if len(seg) else -99.0
     clip = float((np.abs(y) >= 0.999).mean())
     return peak, nf, clip
