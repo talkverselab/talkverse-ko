@@ -38,7 +38,7 @@ def main():
             cor = float(np.dot(tb, te) / (np.linalg.norm(tb) * np.linalg.norm(te) + 1e-9))
             rep.append((v, e, nf, cor))
             if (nf is not None and nf > NOISE_FAIL) or cor < 0.90:
-                bad[f'{v}_{e}'] = f'잡음 {nf:.0f}dB 상관 {cor:.2f}'
+                bad[f'{v}_{e}'] = f'잡음 {("%.0f" % nf) if nf is not None else "없음"}dB 상관 {cor:.2f}'
     for v, e, nf, cor in rep:
         print(f'{v:10s} {e:10s} 잡음 {("%6.1f" % nf) if nf is not None else "  없음"}  상관 {cor:.2f}' + ('  ✗' if f'{v}_{e}' in bad else ''))
     print('참고 음성', len(rep), '미달', len(bad))
