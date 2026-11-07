@@ -22,6 +22,7 @@ NEED = ('id', 'region', 'island', 'kind', 'title', 'scene', 'speakers', 'registe
 
 def eojeol(ko):
     s = re.sub(r'\{[a-z_]+\}', 'X', ko)
+    s = re.sub(r'[\U0001F300-\U0001FAFF\u2600-\u27BF\u2B50\uFE0F]', '', s)  # 어조사 턴의 감정 이모지는 어절로 세지 않는다
     for e in sorted(EXPR, key=len, reverse=True):
         if ' ' in e and e in s:
             s = s.replace(e, 'X')
