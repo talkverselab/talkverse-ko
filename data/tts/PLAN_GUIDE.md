@@ -1,5 +1,7 @@
 # 회화 음성 감정 계획 작성법 (한국어)
 
+**자동 생성(2026-11-07 사용자 지시)**: 회화 파일의 턴에 `emotion`(16개 중 하나) 또는 `segs`([감정, 본문(, 읽기)]) 가 있으면 `python3 tools/tts/plan_from_dialogue.py <편id>` (또는 `--missing`, run_all 이 시작 때 자동 실행) 가 아래 형식의 계획을 만든다 — 감정을 다시 손으로 적지 않는다. cast 는 `voices.json` 의 `cast` 표로 자동 배정, 읽기는 지문·ㅋㅋ 제거·숫자 한글화·마침표 보강. 학습자 성별 판(m/f)만 필요할 때 손으로 더한다. 아래는 그 계획 파일의 형식 설명이다.
+
 편마다 `data/tts/plan/<편id>.json` 한 파일. 검사 `python3 tools/tts/check_plan.py <편id>...`. 일본어앱 `data/tts/PLAN_GUIDE.md` 와 같은 틀, 한국어 칸 이름만 다르다.
 
 ```json

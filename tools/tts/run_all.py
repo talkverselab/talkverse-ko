@@ -33,6 +33,8 @@ def fetch(path):
     sh('scp', '-q', '-r', f'{PC}:D:/tts_test/job/out/ko/{path}', os.path.dirname(f'{work}/wav/{path}') + '/', check=False)
 
 
+# 회화 파일에 emotion/segs 가 있는데 계획이 없는 편은 자동 계획(plan_from_dialogue.py)
+sh(sys.executable, f'{HERE}/plan_from_dialogue.py', '--missing')
 done = set(open(f'{work}/done.txt').read().split()) if os.path.exists(f'{work}/done.txt') else set()
 ids = [e for e in L.planned() if e not in done]
 log('남은 편', len(ids))
