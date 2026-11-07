@@ -36,7 +36,7 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "{name} 씨 탬버린 쳐요 팀장님 노래니까.",
+   "ko": "{name} 씨 탬버린 쳐요 팀장님 노래니까. 🤔",
    "rd": "{name} ssi taembeorin chyeoyo timjangnim noraenikka.",
    "en": "{name}, play the tambourine, it's the boss's song.",
    "note": "탬버린 = tambourine",
@@ -91,7 +91,7 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "끝날 때까지요.",
+   "ko": "끝날 때까지요. 🙂",
    "rd": "kkeunnal ttaekkajiyo.",
    "en": "Until it ends.",
    "note": "-ㄹ 때까지 = until",
@@ -219,7 +219,7 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "잠깐만요 탬버린이 두 개가 됐는데요?",
+   "ko": "잠깐만요 탬버린이 두 개가 됐는데요? 😳",
    "rd": "jamkkanmanyo taembeorini du gaega dwaenneundeyo?",
    "en": "Wait the tambourine turned into two pieces?",
    "note": "Kick: chaos escalates",
@@ -241,7 +241,7 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "양손으로 쳐요 그게 더 신나요.",
+   "ko": "양손으로 쳐요 그게 더 신나요. 😏",
    "rd": "yangsoneuro chyeoyo geuge deo sinnayo.",
    "en": "Play with both hands, it's more fun.",
    "note": "양손 = both hands",

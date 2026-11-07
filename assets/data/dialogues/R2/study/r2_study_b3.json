@@ -68,7 +68,7 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "진짜? 지난번에 읽씹했잖아.",
+   "ko": "진짜? 지난번에 읽씹했잖아. 😤",
    "rd": "jinjja? jinanbeone ikssipaetjana.",
    "en": "For real? You left us on read last time.",
    "note": "callback",
@@ -160,7 +160,7 @@
   {
    "num": 5,
    "speaker": "D",
-   "ko": "응 색깔도 다 칠했어. 괜찮지?",
+   "ko": "응 색깔도 다 칠했어. 괜찮지? 😊",
    "rd": "eung saekkkaldo da chilhaesseo. gwaenchanchi?",
    "en": "Yeah, I colored it all. Pretty good, right?",
    "note": "색깔",
@@ -188,7 +188,7 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "근데 발표 날짜가 틀렸는데?",
+   "ko": "근데 발표 날짜가 틀렸는데? 😤",
    "rd": "geunde balpyo naljjaga teullyeonneunde?",
    "en": "But the presentation date is wrong?",
    "note": "Kick setup",
@@ -323,7 +323,7 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "결국 또 전날 밤이네. 사람까지?",
+   "ko": "결국 또 전날 밤이네. 사람까지? 😤",
    "rd": "gyeolguk tto jeonnal bamine. saramkkaji?",
    "en": "So it's the night before again. And more people?",
    "note": "전날",

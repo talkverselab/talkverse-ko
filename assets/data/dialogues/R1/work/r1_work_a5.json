@@ -33,7 +33,7 @@
   {
    "num": 1,
    "speaker": "C",
-   "ko": "오늘 저녁은 그냥 아무거나 먹으면 되지.",
+   "ko": "오늘 저녁은 그냥 아무거나 먹으면 되지. 🙂",
    "rd": "oneul jeonyeogeun geunyang amugeona meogeumyeon doeji.",
    "en": "We can just eat whatever for dinner tonight.",
    "note": "아무거나",
@@ -106,7 +106,7 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "진짜요? 아무거나라셨는데요.",
+   "ko": "진짜요? 아무거나라셨는데요. 😮",
    "rd": "jinjjayo? amugeonarasyeonneundeyo.",
    "en": "Really? But he said anything.",
    "note": "아무거나",
@@ -163,7 +163,7 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "오, {name} 씨 센스 좋네!",
+   "ko": "오, {name} 씨 센스 좋네! 🤩",
    "rd": "o, {name} ssi senseu jonne!",
    "en": "Oh, {name}, you’ve got good sense!",
    "note": "센스",

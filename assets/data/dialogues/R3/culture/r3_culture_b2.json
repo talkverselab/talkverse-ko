@@ -78,7 +78,7 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "비요? 오늘 날씨 맑은데요.",
+   "ko": "비요? 오늘 날씨 맑은데요. 😮",
    "rd": "biyo? oneul nalssi malgeundeyo.",
    "en": "Rain? The weather is clear today.",
    "note": "맑다 = clear",
@@ -148,7 +148,7 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "우산 없이요? 그럼 젖잖아요.",
+   "ko": "우산 없이요? 그럼 젖잖아요. 😟",
    "rd": "usan eopsiyo? geureom jeotjanayo.",
    "en": "Without an umbrella? Then I'll get wet.",
    "note": "젖다 = get wet",
@@ -400,7 +400,7 @@
   {
    "num": 13,
    "speaker": "B",
-   "ko": "(모니터를 보며) 헐. 행인이랑 케미가 더 좋은데요?",
+   "ko": "(모니터를 보며) 헐. 행인이랑 케미가 더 좋은데요? 😮",
    "rd": "(moniteoreul bomyeo) heol. haenginirang kemiga deo joeundeyo?",
    "en": "(watching the monitor) Whoa. The chemistry with the passerby is better?",
    "note": "케미 = chemistry",

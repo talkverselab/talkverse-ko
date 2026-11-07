@@ -33,7 +33,7 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "네? 여기 제가 예약했는데요.",
+   "ko": "네? 여기 제가 예약했는데요. 😮",
    "rd": "ne? yeogi jega yeyakaenneundeyo.",
    "en": "Huh? I booked this though.",
    "note": "예약",
@@ -143,7 +143,7 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "안건 다른데 또 오네요.",
+   "ko": "안건 다른데 또 오네요. 😤",
    "rd": "angeon dareunde tto oneyo.",
    "en": "Agendas are different and more people are coming.",
    "note": "punchline",

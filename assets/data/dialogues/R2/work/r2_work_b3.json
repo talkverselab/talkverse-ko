@@ -35,7 +35,7 @@
   {
    "num": 1,
    "speaker": "C",
-   "ko": "어 {name} 씨 컵 예쁘네요.",
+   "ko": "어 {name} 씨 컵 예쁘네요. 😊",
    "rd": "eo {name} ssi keop yeppeuneyo.",
    "en": "Oh nice mug {name}.",
    "note": "컵 = cup / mug",
@@ -80,7 +80,7 @@
   {
    "num": 3,
    "speaker": "D",
-   "ko": "어 해솔 씨 컵이랑 똑같네요?",
+   "ko": "어 해솔 씨 컵이랑 똑같네요? 😮",
    "rd": "eo haesol ssi keobirang ttokganneyo?",
    "en": "Huh it's the same as Haesol's?",
    "note": "똑같다 = identical",
@@ -257,7 +257,7 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "그니까 비밀 연애 끝났네요.",
+   "ko": "그니까 비밀 연애 끝났네요. 😳",
    "rd": "geunikka bimil yeonae kkeunnanneyo.",
    "en": "So the secret relationship is over.",
    "note": "끝나다 = end",

@@ -32,7 +32,7 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "어? 비 오네. 우산 안 가져왔는데.",
+   "ko": "어? 비 오네. 우산 안 가져왔는데. 😟",
    "rd": "eo? bi one. usan an gajyeowanneunde.",
    "en": "Huh? It's raining. I didn't bring an umbrella.",
    "note": "우산 = umbrella",
@@ -197,7 +197,7 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "진짜? 방금까지 멀쩡했는데?",
+   "ko": "진짜? 방금까지 멀쩡했는데? 😤",
    "rd": "jinjja? banggeumkkaji meoljjeonghaenneunde?",
    "en": "Really? It was fine just a second ago?",
    "note": "멀쩡하다 = perfectly fine",
@@ -225,7 +225,7 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "…아 몰라. 고장 났다고.",
+   "ko": "…아 몰라. 고장 났다고. 😳",
    "rd": "…a molla. gojang natdago.",
    "en": "…Ugh whatever. I said it's broken.",
    "note": "Kick: he wants to share hers",
@@ -275,7 +275,7 @@
   {
    "num": 10,
    "speaker": "B",
-   "ko": "드라마에서 그렇게 하던데 ㅋㅋ",
+   "ko": "드라마에서 그렇게 하던데 ㅋㅋ ☺️",
    "rd": "deuramaeseo geureoke hadeonde ㅋㅋ",
    "en": "That's what they do in dramas lol",
    "note": "-던데 = from what I've seen",

@@ -33,7 +33,7 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "저기요, 컵 홀더에 글씨 있는데요?",
+   "ko": "저기요, 컵 홀더에 글씨 있는데요? 😮",
    "rd": "jeogiyo, keop holdeoe geulssi inneundeyo?",
    "en": "Excuse me, there’s writing on the cup holder?",
    "note": "써 있다 = to be written",
@@ -66,7 +66,7 @@
   {
    "num": 2,
    "speaker": "B",
-   "ko": "아, 그거요? 한번 읽어 보실래요?",
+   "ko": "아, 그거요? 한번 읽어 보실래요? 😏",
    "rd": "a, geugeoyo? hanbeon ilgeo bosillaeyo?",
    "en": "Oh, that? Want to read it?",
    "note": "-아 보세요 = try (doing)",
@@ -116,7 +116,7 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "매일 이 시간에 오시잖아요.",
+   "ko": "매일 이 시간에 오시잖아요. 🙂",
    "rd": "maeil i sigane osijanayo.",
    "en": "You come at this time every day.",
    "note": "-잖아요 = you know",

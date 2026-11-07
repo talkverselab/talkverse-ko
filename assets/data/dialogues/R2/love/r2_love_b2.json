@@ -35,7 +35,7 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "{name}, 나 할 말 있는데.",
+   "ko": "{name}, 나 할 말 있는데. ☺️",
    "rd": "{name}, na hal mal inneunde.",
    "en": "{name}, I have something to say.",
    "note": "할 말 있어 = I have something to tell you",
@@ -160,7 +160,7 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "아 몰라! 내일 기억 안 날 거야. 취했으니까.",
+   "ko": "아 몰라! 내일 기억 안 날 거야. 취했으니까. 😳",
    "rd": "a molla! naeil gieok an nal geoya. chwihaesseunikka.",
    "en": "Ugh whatever! I won't remember tomorrow. I'm drunk.",
    "note": "the classic \"blame the soju\" escape",
@@ -275,7 +275,7 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "…그럼 다 기억하겠네.",
+   "ko": "…그럼 다 기억하겠네. 😳",
    "rd": "…geureom da gieokagenne.",
    "en": "…Then you'll remember all of it.",
    "note": "-겠네 = I guess you will",

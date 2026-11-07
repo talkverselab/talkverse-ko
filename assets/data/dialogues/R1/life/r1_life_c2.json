@@ -140,7 +140,7 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "지난달 보일러 고쳐 줬잖아요.",
+   "ko": "지난달 보일러 고쳐 줬잖아요. 😊",
    "rd": "jinandal boilleo gochyeo jwotjanayo.",
    "en": "You fixed the boiler last month.",
    "note": "callback 보일러",
@@ -170,7 +170,7 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "아 버튼 하나 눌렀는데요?",
+   "ko": "아 버튼 하나 눌렀는데요? 😳",
    "rd": "a beoteun hana nulleonneundeyo?",
    "en": "Ah I only pressed one button?",
    "note": "버튼 = button",

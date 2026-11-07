@@ -33,7 +33,7 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "저기요, 통장 하나 만들러 왔는데요.",
+   "ko": "저기요, 통장 하나 만들러 왔는데요. 🙂",
    "rd": "jeogiyo, tongjang hana mandeulleo wanneundeyo.",
    "en": "Excuse me, I came to open a bank account.",
    "note": "통장",
@@ -191,7 +191,7 @@
   {
    "num": 6,
    "speaker": "C",
-   "ko": "(점심 후) 287번 손님! 어디 계세요? 또 안 오시네.",
+   "ko": "(점심 후) 287번 손님! 어디 계세요? 또 안 오시네. 😒",
    "rd": "(jeomsim hu) 287beon sonnim! eodi gyeseyo? tto an osine.",
    "en": "(after lunch) Customer 287! Where are you? Not showing up again.",
    "note": "Kick: timing",

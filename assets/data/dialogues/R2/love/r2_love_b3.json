@@ -34,7 +34,7 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "점심 뭐 먹을까?",
+   "ko": "점심 뭐 먹을까? 😊",
    "rd": "jeomsim mwo meogeulkka?",
    "en": "What should we get for lunch?",
    "note": "뭐 먹을래? = what do you want to eat?",
@@ -92,7 +92,7 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "어제 먹었는데.",
+   "ko": "어제 먹었는데. 😒",
    "rd": "eoje meogeonneunde.",
    "en": "We had that yesterday though.",
    "note": "-잖아 = you know",

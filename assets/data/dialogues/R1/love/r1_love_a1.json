@@ -31,7 +31,7 @@
   {
    "num": 1,
    "speaker": "B",
-   "ko": "{name} 씨 맞아요? 사진이랑 완전 똑같네!",
+   "ko": "{name} 씨 맞아요? 사진이랑 완전 똑같네! 😊",
    "rd": "{name} ssi majayo? sajinirang wanjeon ttokganne!",
    "en": "You're {name}, right? You look exactly like your photo!",
    "note": "맞아요? = is that right? (checking politely)",
@@ -109,7 +109,7 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "어… 이상해요? 책에서 이렇게 배웠거든요.",
+   "ko": "어… 이상해요? 책에서 이렇게 배웠거든요. 😳",
    "rd": "eo… isanghaeyo? chaegeseo ireoke baewotgeodeunyo.",
    "en": "Uh… is it weird? That's how I learned it from the book.",
    "note": "-거든요 = you see (giving a reason, polite)",
@@ -141,7 +141,7 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "아니, 귀여워서 그래. 우리 말 놓을까?",
+   "ko": "아니, 귀여워서 그래. 우리 말 놓을까? 😏",
    "rd": "ani, gwiyeowoseo geurae. uri mal noeulkka?",
    "en": "No, it's just cute. Shall we drop the formalities?",
    "note": "말 놓을까? = shall we speak casually (반말)?",
