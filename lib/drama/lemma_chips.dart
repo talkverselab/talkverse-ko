@@ -3,6 +3,8 @@ import 'package:provider/provider.dart';
 
 import '../core/l10n.dart';
 import '../db/database.dart';
+import '../services/content_sync.dart';
+import '../services/tts_service.dart';
 import 'drama_service.dart';
 import 'drama_theme.dart';
 
@@ -40,34 +42,56 @@ class LemmaChips extends StatelessWidget {
       future: _lookup(db, lemmas.map((l) => l.base).toList()),
       builder: (context, snap) {
         final found = snap.data ?? const {};
-        return Wrap(spacing: 6, runSpacing: 6, children: [
+        final chips = [
           for (final l in lemmas)
             _Chip(
               label: l.base,
               gloss: found[l.base]?.glossEn,
               compact: compact,
-              onTap: found[l.base] == null ? null : () => _sheet(context, found[l.base]!, l.rd),
+              onTap: found[l.base] == null ? null : () => showWordSheet(context, found[l.base]!, l.rd),
             ),
-        ]);
+        ];
+        // compact = 한 줄 가로 스크롤 — 칩이 쌓여 그림을 밀어내지 않게
+        if (compact) {
+          return SingleChildScrollView(
+            scrollDirection: Axis.horizontal,
+            child: Row(children: [for (var i = 0; i < chips.length; i++) ...[if (i > 0) const SizedBox(width: 6), chips[i]]]),
+          );
+        }
+        return Wrap(spacing: 6, runSpacing: 6, children: chips);
       },
     );
   }
+}
 
-  static void _sheet(BuildContext context, VocabEntry v, String rd) => showModalBottomSheet<void>(
-        context: context,
-        showDragHandle: true,
-        builder: (_) => Padding(
-          padding: const EdgeInsets.fromLTRB(24, 0, 24, 28),
-          child: Column(mainAxisSize: MainAxisSize.min, crossAxisAlignment: CrossAxisAlignment.start, children: [
-            Text(v.word, style: const TextStyle(fontSize: 30, fontWeight: FontWeight.w900, color: DramaColors.ink)),
-            Text(rd, style: const TextStyle(fontSize: 14, color: DramaColors.jade)),
-            const SizedBox(height: 10),
-            if ((v.glossEn ?? '').isNotEmpty) Text(v.glossEn!, style: const TextStyle(fontSize: 16, color: DramaColors.body)),
-            const SizedBox(height: 10),
-            Text(trf('빈도 {0}위', [v.rank]), style: const TextStyle(fontSize: 12, color: DramaColors.muted)),
-          ]),
-        ),
-      );
+/// 단어 시트 — 그림(있으면) · 단어 · 로마자 · 뜻 · 빈도 순위 · 듣기.
+void showWordSheet(BuildContext context, VocabEntry v, String rd) {
+  final art = ContentSync.instance.wordArt(v.word);
+  showModalBottomSheet<void>(
+    context: context,
+    showDragHandle: true,
+    builder: (_) => Padding(
+      padding: const EdgeInsets.fromLTRB(24, 0, 24, 28),
+      child: Column(mainAxisSize: MainAxisSize.min, crossAxisAlignment: CrossAxisAlignment.start, children: [
+        if (art != null)
+          Center(
+            child: Padding(
+              padding: const EdgeInsets.only(bottom: 12),
+              child: ClipRRect(borderRadius: BorderRadius.circular(16), child: Image(image: artProvider(art), width: 160, height: 160, fit: BoxFit.cover, errorBuilder: (_, _, _) => const SizedBox.shrink())),
+            ),
+          ),
+        Row(children: [
+          Expanded(child: Text(v.word, style: const TextStyle(fontSize: 30, fontWeight: FontWeight.w900, color: DramaColors.ink))),
+          IconButton(icon: const Icon(Icons.volume_up_rounded, color: DramaColors.jade), onPressed: () => TtsService.instance.speak(v.word)),
+        ]),
+        if (rd.isNotEmpty) Text(rd, style: const TextStyle(fontSize: 14, color: DramaColors.jade)),
+        const SizedBox(height: 10),
+        if ((v.glossEn ?? '').isNotEmpty) Text(v.glossEn!, style: const TextStyle(fontSize: 16, color: DramaColors.body)),
+        const SizedBox(height: 10),
+        Text(trf('빈도 {0}위', [v.rank]), style: const TextStyle(fontSize: 12, color: DramaColors.muted)),
+      ]),
+    ),
+  );
 }
 
 class _Chip extends StatelessWidget {

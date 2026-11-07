@@ -140,6 +140,7 @@ class _DialoguePlayerScreenState extends State<DialoguePlayerScreen> {
                         ),
                       ),
                       FilledButton(
+                        style: FilledButton.styleFrom(minimumSize: const Size.fromHeight(56)),
                         onPressed: isComplete
                             ? () => _complete(turns.length)
                             : () => _next(turns.length),

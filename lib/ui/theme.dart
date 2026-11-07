@@ -99,7 +99,7 @@ ThemeData _baseTheme(ColorScheme cs, Color scaffoldBg) {
         backgroundColor: cs.primary,
         foregroundColor: cs.onPrimary,
         elevation: 0,
-        minimumSize: const Size(double.infinity, 56),
+        minimumSize: const Size(64, 56), // 가로 무한이면 Row 안에서 레이아웃 오류(복습 카드·다음 회 버튼)
       ),
     ),
     outlinedButtonTheme: OutlinedButtonThemeData(

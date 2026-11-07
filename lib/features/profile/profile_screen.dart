@@ -6,21 +6,18 @@ import 'package:k_universe/ui/mascot.dart';
 import 'package:k_universe/ui/spacing.dart';
 import '../../core/l10n.dart';
 import '../../core/platform.dart';
+import '../../drama/learner_setup_dialog.dart';
+import '../../services/learner_prefs.dart';
 import 'account_section.dart';
 
 class ProfileScreen extends StatelessWidget {
-  const ProfileScreen({super.key});
+  final bool embedded; // 「나」 탭 안에 넣을 때 — 앱바·스크롤 없이 내용만
+  const ProfileScreen({super.key, this.embedded = false});
 
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    return Scaffold(
-      appBar: AppBar(title: const Text('Profile')),
-      body: SafeArea(
-        child: ListView(
-          padding: const EdgeInsets.fromLTRB(
-              KSpace.lg, KSpace.md, KSpace.lg, KSpace.xxxl),
-          children: [
+    final items = <Widget>[
             _SectionLabel(label: tr('계정')),
             const AccountSection(),
             const SizedBox(height: KSpace.lg),
@@ -45,6 +42,7 @@ class ProfileScreen extends StatelessWidget {
                     style: const TextStyle(fontWeight: FontWeight.w700)),
               ),
             ),
+            const _LearnerRow(),
             _ProfileHeader(),
             const SizedBox(height: KSpace.xl),
             _SectionLabel(label: 'Learning'),
@@ -88,11 +86,41 @@ class ProfileScreen extends StatelessWidget {
                     color: KColors.inkFaint, fontSize: 12),
               ),
             ),
-          ],
+    ];
+    if (embedded) return Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: items);
+    return Scaffold(
+      appBar: AppBar(title: Text(tr('프로필'))),
+      body: SafeArea(
+        child: ListView(
+          padding: const EdgeInsets.fromLTRB(
+              KSpace.lg, KSpace.md, KSpace.lg, KSpace.xxxl),
+          children: items,
         ),
       ),
     );
   }
+}
+
+/// 회화 속 「나」 — 이름·성별(장면 컷·음성 판).
+class _LearnerRow extends StatelessWidget {
+  const _LearnerRow();
+  @override
+  Widget build(BuildContext context) => ValueListenableBuilder<String>(
+        valueListenable: LearnerPrefs.name,
+        builder: (context, name, _) => ValueListenableBuilder<String>(
+          valueListenable: LearnerPrefs.gender,
+          builder: (context, gender, _) => InkWell(
+            onTap: () => editLearner(context),
+            child: _SettingRow(
+              emoji: '🙂',
+              tile: KColors.tileBlush,
+              title: tr('회화 속 「나」'),
+              subtitle: '${name.isEmpty ? tr('나') : name} · ${tr(gender == 'female' ? '여' : '남')}',
+              trailing: Icon(Icons.arrow_forward_rounded, size: 18, color: KColors.inkFaint),
+            ),
+          ),
+        ),
+      );
 }
 
 class _ProfileHeader extends StatelessWidget {

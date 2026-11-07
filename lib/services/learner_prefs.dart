@@ -8,6 +8,8 @@ class LearnerPrefs {
   static final ValueNotifier<String> name = ValueNotifier('');
   static final ValueNotifier<String> gender = ValueNotifier('male'); // male | female
 
+  static bool get isFemale => gender.value == 'female';
+
   static Future<void> load() async {
     final p = await SharedPreferences.getInstance();
     name.value = p.getString('learner_name') ?? '';

@@ -27,7 +27,9 @@ class AppLangPrefs {
 
   static Future<void> load() async {
     final p = await SharedPreferences.getInstance();
-    final v = p.getString(_key) ?? 'ko';
+    // 처음 켜면 기기 언어를 따른다(영어권 학습자 앱 — 그 밖의 언어는 English).
+    final dev = PlatformDispatcher.instance.locale.languageCode;
+    final v = p.getString(_key) ?? (const {'ko', 'ja', 'zh'}.contains(dev) ? dev : 'en');
     lang.value = AppLang.values.firstWhere((l) => l.name == v, orElse: () => AppLang.ko);
   }
 

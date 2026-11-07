@@ -3,7 +3,9 @@ import 'package:flutter/material.dart';
 import '../core/l10n.dart';
 import '../core/platform.dart';
 import '../services/content_sync.dart';
-import '../services/tts_service.dart';
+import '../services/achievement_service.dart';
+import 'card_screen.dart';
+import 'drama_audio.dart';
 import 'drama_service.dart';
 import 'drama_theme.dart';
 import 'learner_setup_dialog.dart';
@@ -46,7 +48,7 @@ class _EpisodeScreenState extends State<EpisodeScreen> {
     SceneArt.instance.ensureLoaded().then((_) { if (mounted) setState(() {}); });
     WidgetsBinding.instance.addPostFrameCallback((_) async {
       if (!mounted) return;
-      await ensureLearnerName(context, needed: ep.needsName);
+      await ensureLearnerName(context, needed: ep.needsName && !DramaAudio.instance.covers(ep));
       if (mounted) setState(() {});
     });
     if (widget.autoPlay) WidgetsBinding.instance.addPostFrameCallback((_) => _play());
@@ -55,24 +57,22 @@ class _EpisodeScreenState extends State<EpisodeScreen> {
   @override
   void dispose() {
     _session++;
-    TtsService.instance.stop();
+    DramaAudio.instance.stop();
     super.dispose();
   }
-
-  String _say(DramaTurn t) => DramaEpisode.fill(t.ko).replaceAll(RegExp(r'\([^)]*\)'), '').replaceAll(RegExp(r'[ㅋㅎㅠㅜ]+'), '').trim();
 
   Future<void> _play() async {
     final my = ++_session;
     setState(() => _playing = true);
     while (mounted && my == _session && _i < ep.turns.length) {
       _scrollTo(_i);
-      final s = _say(ep.turns[_i]);
-      if (s.isNotEmpty) await TtsService.instance.speakAndWait(s, rate: 0.45 * _rate);
+      await speakTurn(ep, ep.view(ep.turns[_i]), rate: _rate);
       if (!mounted || my != _session) return;
       await Future.delayed(Duration(milliseconds: (600 / _rate).round()));
       if (!mounted || my != _session) return;
       if (_i >= ep.turns.length - 1) {
         await DramaService.instance.markWatched(ep.id);
+        await AchievementService.instance.markEpisodeDone(ep.id);
         if (mounted) setState(() { _done = true; _playing = false; });
         return;
       }
@@ -83,16 +83,16 @@ class _EpisodeScreenState extends State<EpisodeScreen> {
 
   void _pause() {
     _session++;
-    TtsService.instance.stop();
+    DramaAudio.instance.stop();
     setState(() => _playing = false);
   }
 
   void _goto(int n, {bool speak = false}) {
     _session++;
-    TtsService.instance.stop();
+    DramaAudio.instance.stop();
     setState(() { _i = n.clamp(0, ep.turns.length - 1); _playing = false; });
     _scrollTo(_i);
-    if (speak) TtsService.instance.speak(_say(ep.turns[_i]));
+    if (speak) speakTurn(ep, ep.view(ep.turns[_i]));
   }
 
   void _scrollTo(int i) {
@@ -104,7 +104,7 @@ class _EpisodeScreenState extends State<EpisodeScreen> {
   Widget build(BuildContext context) {
     final epNo = DramaService.instance.epNumber(ep);
     final script = _Script(ep: ep, current: _i, keys: _keys, ko: _ko, rd: _rd, en: _en, onTap: (i) => _goto(i, speak: true));
-    final scene = _ScenePanel(ep: ep, epNo: epNo, index: _i, ko: _ko, rd: _rd, en: _en);
+    Widget scene({required bool fit}) => _ScenePanel(ep: ep, epNo: epNo, index: _i, ko: _ko, rd: _rd, en: _en, fit: fit);
     final controls = _Controls(
       playing: _playing, index: _i, total: ep.turns.length, rate: _rate, ko: _ko, rd: _rd, en: _en,
       onPlay: _playing ? _pause : _play,
@@ -118,6 +118,7 @@ class _EpisodeScreenState extends State<EpisodeScreen> {
         backgroundColor: DramaColors.ink,
         foregroundColor: Colors.white,
         title: Text('${ep.emoji}  ${ep.title}', style: const TextStyle(fontWeight: FontWeight.w800, fontSize: 17)),
+        actions: [IconButton(tooltip: tr('그림 카드'), icon: const Icon(Icons.style_outlined), onPressed: _cards)],
       ),
       body: LayoutBuilder(builder: (context, c) {
         final side = c.maxWidth >= 900;
@@ -129,10 +130,14 @@ class _EpisodeScreenState extends State<EpisodeScreen> {
                   ? Row(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
                       Expanded(flex: 4, child: _card(script)),
                       const SizedBox(width: 12),
-                      Expanded(flex: 6, child: _card(scene)),
+                      Expanded(flex: 6, child: _card(scene(fit: false))),
                     ])
                   : Column(children: [
-                      SizedBox(height: (c.maxHeight * 0.5).clamp(260, 560), child: _card(scene)),
+                      // 폰: 그림 3:2 고정, 자막은 자연 높이(길면 자막만 스크롤), 위 칸 최대 62% — 그림이 잘리지 않게(일본어앱 c558734)
+                      if (c.maxWidth < 600)
+                        ConstrainedBox(constraints: BoxConstraints(maxHeight: c.maxHeight * 0.62), child: _card(scene(fit: true)))
+                      else
+                        SizedBox(height: c.maxHeight * 0.58, child: _card(scene(fit: false))),
                       const SizedBox(height: 10),
                       Expanded(child: _card(script)),
                     ]),
@@ -148,10 +153,19 @@ class _EpisodeScreenState extends State<EpisodeScreen> {
             next: DramaService.instance.next(ep),
             onReplay: () => setState(() { _done = false; _i = 0; }),
             onClose: () => setState(() => _done = false),
+            onCards: () {
+              setState(() => _done = false);
+              _cards();
+            },
           ),
         ]);
       }),
     );
+  }
+
+  void _cards() {
+    _pause();
+    Navigator.of(context).push(MaterialPageRoute(builder: (_) => PictureCardScreen.episode(ep)));
   }
 
   Widget _card(Widget child) => Container(
@@ -181,7 +195,7 @@ class _Script extends StatelessWidget {
             padding: EdgeInsets.fromLTRB(10, 0, 10, 12 + bottomInset(context)),
             itemCount: ep.turns.length,
             itemBuilder: (context, i) {
-              final t = ep.turns[i];
+              final t = ep.view(ep.turns[i]);
               final on = i == current;
               return InkWell(
                 key: keys[i],
@@ -224,51 +238,56 @@ class _ScenePanel extends StatelessWidget {
   final DramaEpisode ep;
   final int epNo, index;
   final bool ko, rd, en;
-  const _ScenePanel({required this.ep, required this.epNo, required this.index, required this.ko, required this.rd, required this.en});
+  final bool fit; // true = 폰(그림 3:2 + 자막 자연 높이), false = 넓은 화면(그림이 칸을 채움)
+  const _ScenePanel({required this.ep, required this.epNo, required this.index, required this.ko, required this.rd, required this.en, required this.fit});
 
   @override
   Widget build(BuildContext context) {
-    final t = ep.turns[index];
+    final t = ep.view(ep.turns[index]);
     final url = SceneArt.instance.cut(ep.id, t.num);
-    return Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
+    final art = AnimatedSwitcher(
+      duration: const Duration(milliseconds: 400),
+      child: url == null
+          ? _SceneCard(key: ValueKey('card${ep.id}'), ep: ep)
+          : Image(image: artProvider(url), key: ValueKey(url), fit: BoxFit.cover, width: double.infinity, errorBuilder: (_, _, _) => _SceneCard(ep: ep)),
+    );
+    final caption = Container(
+      padding: const EdgeInsets.fromLTRB(16, 10, 16, 12),
+      decoration: const BoxDecoration(border: Border(top: BorderSide(color: DramaColors.line))),
+      child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+        const Icon(Icons.volume_up_rounded, color: DramaColors.jade, size: 22),
+        const SizedBox(width: 10),
+        Expanded(
+          child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+            if (ko) Text(DramaEpisode.fill(t.ko), style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w800, color: DramaColors.ink)),
+            if (rd) Text(DramaEpisode.fill(t.rd), style: const TextStyle(fontSize: 13, color: DramaColors.jade)),
+            if (en) Text(DramaEpisode.fill(t.en), style: const TextStyle(fontSize: 14, color: DramaColors.body)),
+            if (t.note.isNotEmpty) Padding(padding: const EdgeInsets.only(top: 4), child: Text(t.note, style: const TextStyle(fontSize: 12, color: DramaColors.muted))),
+            if (t.lemmas.isNotEmpty) Padding(padding: const EdgeInsets.only(top: 8), child: LemmaChips(turn: t, compact: true)),
+          ]),
+        ),
+      ]),
+    );
+    return Column(mainAxisSize: fit ? MainAxisSize.min : MainAxisSize.max, crossAxisAlignment: CrossAxisAlignment.stretch, children: [
       Padding(
-        padding: const EdgeInsets.fromLTRB(16, 14, 16, 8),
+        padding: EdgeInsets.fromLTRB(16, fit ? 10 : 14, 16, 8),
         child: Row(children: [
-          Text(tr('회화 장면'), style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w900, color: DramaColors.ink)),
-          const SizedBox(width: 10),
-          Container(
-            padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
-            decoration: BoxDecoration(borderRadius: BorderRadius.circular(20), border: Border.all(color: DramaColors.line)),
-            child: Text('EP.$epNo · ${ep.title}', style: const TextStyle(fontSize: 12, fontWeight: FontWeight.w700, color: DramaColors.ink)),
+          if (!fit) ...[
+            Text(tr('회화 장면'), style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w900, color: DramaColors.ink)),
+            const SizedBox(width: 10),
+          ],
+          Flexible(
+            child: Container(
+              padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+              decoration: BoxDecoration(borderRadius: BorderRadius.circular(20), border: Border.all(color: DramaColors.line)),
+              child: Text('EP.$epNo · ${ep.title}', maxLines: 1, overflow: TextOverflow.ellipsis, style: const TextStyle(fontSize: 12, fontWeight: FontWeight.w700, color: DramaColors.ink)),
+            ),
           ),
           if (ep.cliche) ...[const SizedBox(width: 6), const Text('🎬', style: TextStyle(fontSize: 14))],
         ]),
       ),
-      Expanded(
-        child: AnimatedSwitcher(
-          duration: const Duration(milliseconds: 400),
-          child: url == null
-              ? _SceneCard(key: ValueKey('card${ep.id}'), ep: ep)
-              : Image(image: artProvider(url), key: ValueKey(url), fit: BoxFit.cover, width: double.infinity, errorBuilder: (_, _, _) => _SceneCard(ep: ep)),
-        ),
-      ),
-      Container(
-        padding: const EdgeInsets.fromLTRB(16, 10, 16, 12),
-        decoration: const BoxDecoration(border: Border(top: BorderSide(color: DramaColors.line))),
-        child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
-          const Icon(Icons.volume_up_rounded, color: DramaColors.jade, size: 22),
-          const SizedBox(width: 10),
-          Expanded(
-            child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-              if (ko) Text(DramaEpisode.fill(t.ko), style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w800, color: DramaColors.ink)),
-              if (rd) Text(DramaEpisode.fill(t.rd), style: const TextStyle(fontSize: 13, color: DramaColors.jade)),
-              if (en) Text(DramaEpisode.fill(t.en), style: const TextStyle(fontSize: 14, color: DramaColors.body)),
-              if (t.note.isNotEmpty) Padding(padding: const EdgeInsets.only(top: 4), child: Text(t.note, style: const TextStyle(fontSize: 12, color: DramaColors.muted))),
-              if (t.lemmas.isNotEmpty) Padding(padding: const EdgeInsets.only(top: 8), child: LemmaChips(turn: t, compact: true)),
-            ]),
-          ),
-        ]),
-      ),
+      if (fit) AspectRatio(aspectRatio: 1168 / 784, child: art) else Expanded(child: art),
+      if (fit) Flexible(child: SingleChildScrollView(child: caption)) else caption,
     ]);
   }
 }
@@ -280,12 +299,14 @@ class _SceneCard extends StatelessWidget {
   Widget build(BuildContext context) => Container(
         color: DramaColors.jadeSoft,
         alignment: Alignment.center,
-        padding: const EdgeInsets.all(24),
-        child: Column(mainAxisSize: MainAxisSize.min, children: [
-          Text(ep.emoji, style: const TextStyle(fontSize: 64)),
-          const SizedBox(height: 10),
-          Text(ep.scene, textAlign: TextAlign.center, style: const TextStyle(fontSize: 13, color: DramaColors.body, height: 1.4)),
-        ]),
+        padding: const EdgeInsets.all(16),
+        child: SingleChildScrollView(
+          child: Column(mainAxisSize: MainAxisSize.min, children: [
+            Text(ep.emoji, style: const TextStyle(fontSize: 64)),
+            const SizedBox(height: 10),
+            Text(ep.scene, textAlign: TextAlign.center, style: const TextStyle(fontSize: 13, color: DramaColors.body, height: 1.4)),
+          ]),
+        ),
       );
 }
 
@@ -348,8 +369,8 @@ class _Controls extends StatelessWidget {
 class _NextEpisode extends StatelessWidget {
   final DramaEpisode ep;
   final DramaEpisode? next;
-  final VoidCallback onReplay, onClose;
-  const _NextEpisode({required this.ep, required this.next, required this.onReplay, required this.onClose});
+  final VoidCallback onReplay, onClose, onCards;
+  const _NextEpisode({required this.ep, required this.next, required this.onReplay, required this.onClose, required this.onCards});
   @override
   Widget build(BuildContext context) {
     final url = next == null ? null : SceneArt.instance.cut(next!.id, 1);
@@ -385,6 +406,7 @@ class _NextEpisode extends StatelessWidget {
               padding: const EdgeInsets.fromLTRB(16, 10, 16, 16),
               child: Row(children: [
                 TextButton(onPressed: onReplay, child: Text(tr('다시 보기'))),
+                TextButton(onPressed: onCards, child: Text(tr('그림 카드'))),
                 const Spacer(),
                 if (next != null)
                   FilledButton(

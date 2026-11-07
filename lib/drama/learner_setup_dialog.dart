@@ -12,7 +12,13 @@ bool _askedThisRun = false;
 Future<void> ensureLearnerName(BuildContext context, {required bool needed}) async {
   if (!needed || _askedThisRun || LearnerPrefs.name.value.isNotEmpty) return;
   _askedThisRun = true;
-  final c = TextEditingController(text: (Account.user.value?['display_name'] as String?)?.trim() ?? '');
+  await editLearner(context);
+}
+
+/// 이름·성별 창(프로필에서도 연다).
+Future<void> editLearner(BuildContext context) async {
+  final now = LearnerPrefs.name.value;
+  final c = TextEditingController(text: now.isNotEmpty ? now : (Account.user.value?['display_name'] as String?)?.trim() ?? '');
   var gender = LearnerPrefs.gender.value;
   final ok = await showDialog<bool>(
     context: context,

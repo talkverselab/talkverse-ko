@@ -4,6 +4,7 @@ import 'package:flutter/services.dart' show AssetManifest, rootBundle;
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../data/account.dart';
+import '../services/content_sync.dart';
 import '../services/learner_prefs.dart';
 
 /// 드라마 회화(R0~R4 · 주제별 JSON) 로더 — 일본어앱 dialogue_service 를 한국어 필드로 옮김(2026-11-03).
@@ -27,6 +28,8 @@ class DramaTurn {
   final String? art;
   final List<DramaLemma> lemmas;
   const DramaTurn({required this.num, required this.speaker, required this.ko, required this.rd, required this.en, required this.note, this.at, this.bubble = false, this.art, this.lemmas = const []});
+  /// 본문만 바꾼 사본(생성 음성이 읽은 판). 영어 뜻·메모는 그대로.
+  DramaTurn withText({String? ko, String? rd}) => DramaTurn(num: num, speaker: speaker, ko: ko ?? this.ko, rd: rd ?? this.rd, en: en, note: note, at: at, bubble: bubble, art: art, lemmas: lemmas);
   factory DramaTurn.fromJson(Map<String, dynamic> j) => DramaTurn(
         num: j['num'] as int? ?? 0,
         speaker: j['speaker'] as String? ?? 'A',
@@ -49,8 +52,9 @@ class DramaEpisode {
   final Map<String, String> speakers;
   final int twist;
   final String kdrama;
+  final List<String> expressions;
   final List<DramaTurn> turns;
-  const DramaEpisode({required this.id, required this.region, required this.island, required this.kind, required this.title, required this.emoji, required this.scene, required this.register, required this.speakers, required this.twist, required this.kdrama, required this.turns});
+  const DramaEpisode({required this.id, required this.region, required this.island, required this.kind, required this.title, required this.emoji, required this.scene, required this.register, required this.speakers, required this.twist, required this.kdrama, this.expressions = const [], required this.turns});
   factory DramaEpisode.fromJson(Map<String, dynamic> j) => DramaEpisode(
         id: j['id'] as String,
         region: j['region'] as String? ?? 'R1',
@@ -63,9 +67,18 @@ class DramaEpisode {
         speakers: ((j['speakers'] as Map?) ?? const {}).map((k, v) => MapEntry(k.toString(), v.toString())),
         twist: j['twist'] as int? ?? 0,
         kdrama: j['kdrama'] as String? ?? '',
+        expressions: (j['expressions'] as List?)?.cast<String>() ?? const [],
         turns: ((j['turns'] as List?) ?? const []).map((t) => DramaTurn.fromJson(t as Map<String, dynamic>)).toList(),
       );
   bool get isChat => kind == 'chat';
+
+  /// 화면에 보일 턴: 생성 음성이 있으면 그 음성이 읽는 본문(학습자 성별판) — 듣는 말과 글이 같아야 한다.
+  DramaTurn view(DramaTurn t) {
+    final l = ContentSync.instance.audioIndex[id]?[t.num]?[LearnerPrefs.isFemale ? 'f' : 'm'];
+    if (l == null || l.text.isEmpty) return t;
+    return t.withText(ko: l.text, rd: l.rd.isEmpty ? null : l.rd);
+  }
+
   bool get cliche => kdrama.isNotEmpty;
   int get cutCount => (turns.length + 1) ~/ 2;
 
@@ -139,6 +152,20 @@ class DramaService {
   }
 
   DramaEpisode? byId(String id) => _byId[id];
+  List<DramaEpisode> get all => _byId.values.toList();
+
+  /// 단어(기본형) → 로마자. 회화 레마에서 모은다 — 복습 카드·단어 시트의 읽기.
+  late final Map<String, String> romanOf = () {
+    final m = <String, String>{};
+    for (final e in _byId.values) {
+      for (final t in e.turns) {
+        for (final l in t.lemmas) {
+          if (l.rd.isNotEmpty) m.putIfAbsent(l.base, () => l.rd);
+        }
+      }
+    }
+    return m;
+  }();
   int get total => _byId.length;
 
   List<DramaEpisode> list(String region, {String? island}) {

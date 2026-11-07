@@ -108,7 +108,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     const SizedBox(height: 8),
                     TextField(controller: pwCtl, obscureText: true, decoration: InputDecoration(hintText: tr('비밀번호')), onSubmitted: (_) => _goEmail()),
                     const SizedBox(height: 10),
-                    FilledButton(onPressed: busy != null ? null : _goEmail, child: Text(tr('로그인'))),
+                    FilledButton(style: FilledButton.styleFrom(minimumSize: const Size.fromHeight(56)), onPressed: busy != null ? null : _goEmail, child: Text(tr('로그인'))),
                   ],
                 ],
               ),
