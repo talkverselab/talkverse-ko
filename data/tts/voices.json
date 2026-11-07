@@ -61,6 +61,24 @@
   },
   "kid": {
    "desc": "A Korean child around eight years old, small and bright voice"
+  },
+  "mom": {
+   "desc": "A Korean woman in her early fifties, warm, brisk and motherly voice"
+  },
+  "grandma": {
+   "desc": "A Korean woman in her seventies, aged, slow and affectionate voice"
+  },
+  "prof": {
+   "desc": "A Korean man in his late fifties, calm, measured and slightly dry voice"
+  },
+  "announce": {
+   "desc": "A clear, even female announcer voice, like a subway or store announcement"
+  },
+  "robot": {
+   "desc": "A flat synthetic machine voice, like a kiosk or payment terminal"
+  },
+  "teen": {
+   "desc": "A Korean teenage girl around fifteen, quick and bright voice"
   }
  },
  "emotions": {

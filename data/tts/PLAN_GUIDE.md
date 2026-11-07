@@ -17,6 +17,6 @@
 - **읽기(세 번째 칸)** = 음성 모델이 읽을 글. 회화 본문에 문장부호가 없으면 여기서 `.`·`?`·`,` 를 넣어 끊어 읽게 한다. 지문 `(문이 열리며)`·`(메신저)`, `ㅋㅋ`·`ㅠㅠ`, 이모지는 뺀다. 숫자는 한글로(`5분` → `오 분`, `1교시` → `일교시`). 두 글자 미만 조각은 만들지 않는다.
 - **감정은 문장마다 대사 맥락으로 정한다.** 감정이 바뀌는 곳에서만 나눈다. neutral 만 쓰지 말 것 — 점원·안내는 polite, 받아치기는 tsukkomi, 심쿵 턴은 gentle·shy.
   감정: neutral polite stiff cheerful amused teasing excited surprised shout tsukkomi annoyed sad worried flustered shy gentle.
-- **cast**: A(학습자)는 쓰지 않는다(자동 am/af). 고정 인물 서아=seoa · 민준=minjun · 유진=yujin · 하늘=haneul · 태오=taeo · 도윤=doyun · 해솔=haesol · 지호 선배=jiho · 팀장님=timjang · 대리님=daeri · 지안=jian. 그 밖은 나이·성별로 man_y/man_m/man_o/woman_y/woman_m/woman_o/kid.
+- **cast**: A(학습자)는 쓰지 않는다(자동 am/af). 고정 인물 서아=seoa · 민준=minjun · 유진=yujin · 하늘=haneul · 태오=taeo · 도윤=doyun · 해솔=haesol · 지호 선배=jiho · 팀장님=timjang · 대리님=daeri · 지안=jian. 그 밖은 나이·성별로 man_y/man_m/man_o/woman_y/woman_m/woman_o/kid · 엄마=mom · 할머니=grandma · 교수님/선생님(남)=prof · 안내 방송=announce · 키오스크/단말기=robot · 여중고생=teen. 「친구들」「팬들」처럼 여럿이 말하는 화자는 한 목소리(man_y/woman_y)로.
 - **자리 표시**: `{name}`·`{country}`·`{city}`·`{lang}` 은 그대로 둔다(자동: 남성판 알렉스, 여성판 에마 · 캐나다 · 토론토 · 영어, 조사는 받침에 맞춰 바뀐다). 그 밖의 자리는 `fill` 에 `{text, rd, en}` 으로. 실제 작품·가수·회사 이름 금지.
 - **남성판·여성판(`m`·`f`)**: 기본 본문이 그 판에 어색할 때만 그 판의 전체 턴(`text`·`rd`·`en`·`segs`)을 넣는다 — 「누나/오빠」·「형/언니」·「여자친구/남자친구」처럼 학습자 성별로 달라지는 말, 학습자를 남자·여자로 부르는 말. 뜻과 재미는 유지하고 그 밖의 줄은 건드리지 않는다. `learner_gender` 가 정해진 편(F 20편)은 그 성별판만 맞고 다른 판은 그대로 둔다.

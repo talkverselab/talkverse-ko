@@ -1,0 +1,86 @@
+{
+ "ep": "r0_life_a9",
+ "cast": {
+  "B": "man_m",
+  "C": "mom"
+ },
+ "turns": {
+  "1": {
+   "segs": [
+    [
+     "polite",
+     "문 앞에 상자 다 뒀어요!"
+    ]
+   ]
+  },
+  "2": {
+   "segs": [
+    [
+     "cheerful",
+     "네, 감사합니다!"
+    ]
+   ]
+  },
+  "3": {
+   "segs": [
+    [
+     "polite",
+     "사인 여기 좀 해주세요."
+    ]
+   ]
+  },
+  "4": {
+   "segs": [
+    [
+     "surprised",
+     "헐… 상자가 열 개예요?"
+    ]
+   ]
+  },
+  "5": {
+   "segs": [
+    [
+     "neutral",
+     "네. {name} 씨 거 전부예요."
+    ]
+   ]
+  },
+  "6": {
+   "segs": [
+    [
+     "flustered",
+     "저 하나만 샀거든요!"
+    ]
+   ]
+  },
+  "7": {
+   "segs": [
+    [
+     "cheerful",
+     "(전화) 아들, 엄마가 보냈고 이모도 보냈어!",
+     "아들, 엄마가 보냈고 이모도 보냈어!"
+    ]
+   ],
+   "f": {
+    "text": "(전화) 딸, 엄마가 보냈고 이모도 보냈어!",
+    "rd": "(jeonhwa) ttal, eommaga bonaetgo imodo bonaesseo!",
+    "en": "(on the phone) Sweetie, Mom sent them and Auntie did too!",
+    "segs": [
+     [
+      "cheerful",
+      "(전화) 딸, 엄마가 보냈고 이모도 보냈어!",
+      "딸, 엄마가 보냈고 이모도 보냈어!"
+     ]
+    ]
+   }
+  },
+  "8": {
+   "segs": [
+    [
+     "shout",
+     "네? 김치 열 통에 이모까지요?"
+    ]
+   ]
+  }
+ }
+}

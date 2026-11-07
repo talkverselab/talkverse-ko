@@ -1,0 +1,126 @@
+{
+ "ep": "r1_love_a19",
+ "cast": {
+  "B": "yujin",
+  "C": "kid"
+ },
+ "turns": {
+  "1": {
+   "segs": [
+    [
+     "cheerful",
+     "오늘 진짜 고마웠어. 잘 가~",
+     "오늘 진짜 고마웠어. 잘 가."
+    ]
+   ]
+  },
+  "2": {
+   "segs": [
+    [
+     "shy",
+     "어, 응. 너도 잘 자."
+    ]
+   ]
+  },
+  "3": {
+   "segs": [
+    [
+     "shout",
+     "누나!! 야 이 형 누구야?",
+     "누나!! 야, 이 형 누구야?"
+    ]
+   ],
+   "f": {
+    "text": "누나!! 야 이 언니 누구야?",
+    "rd": "nuna!! ya i eonni nuguya?",
+    "en": "Sis!! Hey, who's this girl?",
+    "segs": [
+     [
+      "shout",
+      "누나!! 야 이 언니 누구야?",
+      "누나!! 야, 이 언니 누구야?"
+     ]
+    ]
+   }
+  },
+  "4": {
+   "segs": [
+    [
+     "annoyed",
+     "아 들어가! 빨리 들어가!!",
+     "아, 들어가! 빨리 들어가!!"
+    ]
+   ]
+  },
+  "5": {
+   "segs": [
+    [
+     "teasing",
+     "형아, 우리 누나 좋아하냐??"
+    ],
+    [
+     "excited",
+     "헐 대박",
+     "헐, 대박."
+    ]
+   ],
+   "f": {
+    "text": "언니, 우리 누나 좋아하냐?? 헐 대박",
+    "rd": "eonni, uri nuna joahanya?? heol daebak",
+    "en": "Unni, do you like my sister or what?? Whoa, no way",
+    "segs": [
+     [
+      "teasing",
+      "언니, 우리 누나 좋아하냐??"
+     ],
+     [
+      "excited",
+      "헐 대박",
+      "헐, 대박."
+     ]
+    ]
+   }
+  },
+  "6": {
+   "segs": [
+    [
+     "flustered",
+     "어… 뭐야 갑자기. 그런 거 아니야.",
+     "어… 뭐야, 갑자기. 그런 거 아니야."
+    ]
+   ]
+  },
+  "7": {
+   "segs": [
+    [
+     "shout",
+     "엄마!! 누나가 남자 데려왔어!! 빨리 나와!!"
+    ]
+   ],
+   "f": {
+    "text": "엄마!! 누나가 여자 데려왔어!! 빨리 나와!!",
+    "rd": "eomma!! nunaga yeoja deryeowasseo!! ppalli nawa!!",
+    "en": "Mom!! Sis brought a girl!! Come out, quick!!",
+    "segs": [
+     [
+      "shout",
+      "엄마!! 누나가 여자 데려왔어!! 빨리 나와!!"
+     ]
+    ]
+   }
+  },
+  "8": {
+   "segs": [
+    [
+     "annoyed",
+     "아 진짜… 됐어 그냥 들어와.",
+     "아, 진짜… 됐어, 그냥 들어와."
+    ],
+    [
+     "gentle",
+     "밥 먹고 가."
+    ]
+   ]
+  }
+ }
+}
