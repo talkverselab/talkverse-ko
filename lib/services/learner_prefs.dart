@@ -7,6 +7,8 @@ class LearnerPrefs {
   LearnerPrefs._();
   static final ValueNotifier<String> name = ValueNotifier('');
   static final ValueNotifier<String> gender = ValueNotifier('male'); // male | female
+  /// 읽기 보조(로마자) 전역 표시 — 기본 미표시(일본어앱 후리가나 토글과 같은 뜻, 2026-11-07).
+  static final ValueNotifier<bool> roman = ValueNotifier(false);
 
   static bool get isFemale => gender.value == 'female';
 
@@ -14,6 +16,12 @@ class LearnerPrefs {
     final p = await SharedPreferences.getInstance();
     name.value = p.getString('learner_name') ?? '';
     gender.value = p.getString('learner_gender') ?? 'male';
+    roman.value = p.getBool('roman_show') ?? false;
+  }
+
+  static Future<void> setRoman(bool v) async {
+    roman.value = v;
+    (await SharedPreferences.getInstance()).setBool('roman_show', v);
   }
 
   static Future<void> setName(String v) async {

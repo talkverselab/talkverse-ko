@@ -120,7 +120,7 @@ class AchievementService {
     final rows = words.isEmpty ? const <VocabEntry>[] : await (db.select(db.vocab)..where((v) => v.word.isIn(words))).get();
     final sum = rows.fold<double>(0, (a, r) => a + (r.freq ?? 0));
     final known = rows.length;
-    final next = cliffs.firstWhere((c) => c > known, orElse: () => 2500);
+    final next = cliffs.firstWhere((c) => c > known, orElse: () => 2000);
     return (pct: sum * 100, known: known, nextCliff: next, toNext: (next - known).clamp(0, 9999));
   }
 

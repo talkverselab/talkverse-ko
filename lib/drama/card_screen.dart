@@ -6,10 +6,13 @@ import '../core/l10n.dart';
 import '../core/platform.dart';
 import '../services/achievement_service.dart';
 import '../services/content_sync.dart';
+import '../services/learner_prefs.dart';
 import 'drama_audio.dart';
 import 'drama_service.dart';
 import 'drama_theme.dart';
 import 'lemma_chips.dart';
+import 'lemma_text.dart';
+import 'roman_toggle.dart';
 import 'scene_art.dart';
 
 /// 그림 카드 — 일본어앱 `dialogue_card_screen.dart` 를 옮김. 앞면 = 장면 그림 + 영어 뜻, 탭하면 한국어·로마자.
@@ -108,6 +111,7 @@ class _PictureCardScreenState extends State<PictureCardScreen> {
           Text(widget.title, maxLines: 1, overflow: TextOverflow.ellipsis, style: const TextStyle(fontWeight: FontWeight.w800, fontSize: 15)),
           Text('${_pos + 1} / ${_order.length}', style: const TextStyle(fontSize: 11, color: Colors.white70)),
         ]),
+        actions: const [RomanToggleAction()],
       ),
       body: Column(children: [
         Expanded(
@@ -173,7 +177,9 @@ class _CardText extends StatelessWidget {
   const _CardText({required this.ep, required this.t, required this.flipped});
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context) => ValueListenableBuilder<bool>(valueListenable: LearnerPrefs.roman, builder: (context, _, _) => _build(context));
+
+  Widget _build(BuildContext context) {
     final name = ep.speakerName(t.speaker);
     return Container(
       width: double.infinity,
@@ -184,8 +190,8 @@ class _CardText extends StatelessWidget {
               child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
                 Text('$name · ${t.num}', style: const TextStyle(fontSize: 11, color: DramaColors.muted)),
                 const SizedBox(height: 8),
-                Text(DramaEpisode.fill(t.ko), style: const TextStyle(fontSize: 24, fontWeight: FontWeight.w900, color: DramaColors.ink, height: 1.3)),
-                if (t.rd.isNotEmpty) Padding(padding: const EdgeInsets.only(top: 6), child: Text(DramaEpisode.fill(t.rd), style: const TextStyle(fontSize: 14, color: DramaColors.jade, fontWeight: FontWeight.w700))),
+                LemmaText(text: DramaEpisode.fill(t.ko), turn: t, style: const TextStyle(fontSize: 24, fontWeight: FontWeight.w900, color: DramaColors.ink, height: 1.3)),
+                if (t.rd.isNotEmpty && LearnerPrefs.roman.value) Padding(padding: const EdgeInsets.only(top: 6), child: Text(DramaEpisode.fill(t.rd), style: const TextStyle(fontSize: 14, color: DramaColors.jade, fontWeight: FontWeight.w700))),
                 const Divider(height: 22, color: DramaColors.line),
                 Text(DramaEpisode.fill(t.en), style: const TextStyle(fontSize: 17, fontWeight: FontWeight.w700, color: DramaColors.body, height: 1.4)),
                 if (t.note.isNotEmpty) Padding(padding: const EdgeInsets.only(top: 10), child: Text('💡 ${t.note}', style: const TextStyle(fontSize: 12, color: DramaColors.muted, height: 1.4))),

@@ -15,9 +15,12 @@ import 'package:k_universe/drama/card_screen.dart';
 import 'package:k_universe/drama/drama_service.dart';
 import 'package:k_universe/drama/episode_screen.dart';
 import 'package:k_universe/review/review_service.dart';
+import 'package:k_universe/screens/about_screen.dart';
 import 'package:k_universe/state/app_state.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+
+NavigatorState nav0(WidgetTester t) => t.state<NavigatorState>(find.byType(Navigator).first);
 
 const _sizes = {'phone': Size(390, 844), 'fold': Size(740, 900), 'ipad': Size(1180, 820)};
 
@@ -98,9 +101,37 @@ void main() {
 
       await tap('탐색');
       await _shot(t, '${e.key}_5_explore');
-      await tap('나');
+      await tap('프로필');
       await _settle(t, 15);
       await _shot(t, '${e.key}_6_me');
+      await tap('탐색');
+      await tap('절벽 단어 R1~R5');
+      var tries = 0;
+      while (find.textContaining('1단원', skipOffstage: false).evaluate().isEmpty && tries++ < 30) {
+        await _settle(t, 2);
+      }
+      expect(find.textContaining('1단원', skipOffstage: false), findsWidgets);
+      await _shot(t, '${e.key}_6b_vocab');
+      // 회화 단어 목록(에셋)은 두 번째 시험부터 flutter_test 가 돌려주지 않는다 — 있을 때만 「회화」 구간을 확인
+      final convBtn = find.textContaining(RegExp(r'^회화 단어 포함 \(\+\d+\)$'));
+      final hasConv = !find.text('회화 단어 포함 (+0)').evaluate().isNotEmpty;
+      await t.tap(convBtn);
+      await _settle(t);
+      if (hasConv) {
+        await t.drag(find.widgetWithText(ChoiceChip, 'R3'), const Offset(-300, 0));
+        await _settle(t, 4);
+        await t.tap(find.widgetWithText(ChoiceChip, '회화'));
+        await _settle(t, 10);
+        expect(find.textContaining('회화 · 1-20', skipOffstage: false), findsOneWidget);
+      }
+      await _shot(t, '${e.key}_6c_vocab_conv');
+      t.state<NavigatorState>(find.byType(Navigator).first).maybePop();
+      await _settle(t);
+      nav0(t).push(MaterialPageRoute(builder: (_) => const AboutScreen()));
+      await _settle(t, 10);
+      await _shot(t, '${e.key}_6d_about');
+      nav0(t).pop();
+      await _settle(t);
       await tap('배우기');
 
       final nav = t.state<NavigatorState>(find.byType(Navigator).first);

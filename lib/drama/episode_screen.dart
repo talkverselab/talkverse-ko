@@ -4,12 +4,15 @@ import '../core/l10n.dart';
 import '../core/platform.dart';
 import '../services/content_sync.dart';
 import '../services/achievement_service.dart';
+import '../services/learner_prefs.dart';
 import 'card_screen.dart';
 import 'drama_audio.dart';
 import 'drama_service.dart';
 import 'drama_theme.dart';
 import 'learner_setup_dialog.dart';
 import 'lemma_chips.dart';
+import 'lemma_text.dart';
+import 'roman_toggle.dart';
 import 'scene_art.dart';
 
 /// 드라마 한 회 보기 — Grok UXUI 시안 04(사용자 채택, `data/review/uxui/sian_04.md`).
@@ -35,7 +38,8 @@ class _EpisodeScreenState extends State<EpisodeScreen> {
   int _i = 0;
   bool _playing = false;
   double _rate = 1.0;
-  bool _ko = true, _rd = false, _en = true;
+  bool _ko = true, _en = true;
+  bool get _rd => LearnerPrefs.roman.value; // 읽기 보조(로마자)는 전역 설정
   int _session = 0;
   bool _done = false;
   late final List<GlobalKey> _keys = List.generate(widget.ep.turns.length, (_) => GlobalKey());
@@ -46,6 +50,7 @@ class _EpisodeScreenState extends State<EpisodeScreen> {
   void initState() {
     super.initState();
     SceneArt.instance.ensureLoaded().then((_) { if (mounted) setState(() {}); });
+    LearnerPrefs.roman.addListener(_onRoman);
     WidgetsBinding.instance.addPostFrameCallback((_) async {
       if (!mounted) return;
       await ensureLearnerName(context, needed: ep.needsName && !DramaAudio.instance.covers(ep));
@@ -55,7 +60,13 @@ class _EpisodeScreenState extends State<EpisodeScreen> {
   }
 
   @override
+  void _onRoman() {
+    if (mounted) setState(() {});
+  }
+
+  @override
   void dispose() {
+    LearnerPrefs.roman.removeListener(_onRoman);
     _session++;
     DramaAudio.instance.stop();
     super.dispose();
@@ -110,7 +121,7 @@ class _EpisodeScreenState extends State<EpisodeScreen> {
       onPlay: _playing ? _pause : _play,
       onSeek: (v) => _goto(v),
       onRate: () => setState(() => _rate = _rate >= 1.25 ? 0.75 : _rate + 0.25),
-      onKo: () => setState(() => _ko = !_ko), onRd: () => setState(() => _rd = !_rd), onEn: () => setState(() => _en = !_en),
+      onKo: () => setState(() => _ko = !_ko), onRd: () => RomanToggleAction.toggle(context), onEn: () => setState(() => _en = !_en),
     );
     return Scaffold(
       backgroundColor: DramaColors.bg,
@@ -118,7 +129,7 @@ class _EpisodeScreenState extends State<EpisodeScreen> {
         backgroundColor: DramaColors.ink,
         foregroundColor: Colors.white,
         title: Text('${ep.emoji}  ${ep.title}', style: const TextStyle(fontWeight: FontWeight.w800, fontSize: 17)),
-        actions: [IconButton(tooltip: tr('그림 카드'), icon: const Icon(Icons.style_outlined), onPressed: _cards)],
+        actions: [const RomanToggleAction(), IconButton(tooltip: tr('그림 카드'), icon: const Icon(Icons.style_outlined), onPressed: _cards)],
       ),
       body: LayoutBuilder(builder: (context, c) {
         final side = c.maxWidth >= 900;
@@ -219,7 +230,7 @@ class _Script extends StatelessWidget {
                     Expanded(
                       child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
                         Text(ep.speakerName(t.speaker), style: const TextStyle(fontSize: 11, color: DramaColors.muted, fontWeight: FontWeight.w700)),
-                        if (ko) Text(DramaEpisode.fill(t.ko), style: const TextStyle(fontSize: 16, fontWeight: FontWeight.w700, color: DramaColors.ink, height: 1.35)),
+                        if (ko) LemmaText(text: DramaEpisode.fill(t.ko), turn: t, style: const TextStyle(fontSize: 16, fontWeight: FontWeight.w700, color: DramaColors.ink, height: 1.35)),
                         if (rd) Text(DramaEpisode.fill(t.rd), style: const TextStyle(fontSize: 12.5, color: DramaColors.jade, height: 1.3)),
                         if (en) Text(DramaEpisode.fill(t.en), style: const TextStyle(fontSize: 13, color: DramaColors.body, height: 1.3)),
                       ]),
@@ -259,7 +270,7 @@ class _ScenePanel extends StatelessWidget {
         const SizedBox(width: 10),
         Expanded(
           child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            if (ko) Text(DramaEpisode.fill(t.ko), style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w800, color: DramaColors.ink)),
+            if (ko) LemmaText(text: DramaEpisode.fill(t.ko), turn: t, style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w800, color: DramaColors.ink)),
             if (rd) Text(DramaEpisode.fill(t.rd), style: const TextStyle(fontSize: 13, color: DramaColors.jade)),
             if (en) Text(DramaEpisode.fill(t.en), style: const TextStyle(fontSize: 14, color: DramaColors.body)),
             if (t.note.isNotEmpty) Padding(padding: const EdgeInsets.only(top: 4), child: Text(t.note, style: const TextStyle(fontSize: 12, color: DramaColors.muted))),

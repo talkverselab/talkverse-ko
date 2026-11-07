@@ -17,7 +17,9 @@ class LemmaChips extends StatelessWidget {
 
   static final Map<String, VocabEntry?> _cache = {};
 
-  static Future<Map<String, VocabEntry>> _lookup(AppDatabase db, List<String> bases) async {
+  static Future<Map<String, VocabEntry>> _lookup(AppDatabase db, List<String> bases) => lookupLemmas(db, bases);
+
+  static Future<Map<String, VocabEntry>> _lookupImpl(AppDatabase db, List<String> bases) async {
     final todo = bases.where((b) => !_cache.containsKey(b)).toList();
     if (todo.isNotEmpty) {
       final rows = await (db.select(db.vocab)..where((v) => v.word.isIn(todo))).get();
@@ -93,6 +95,9 @@ void showWordSheet(BuildContext context, VocabEntry v, String rd) {
     ),
   );
 }
+
+/// 기본형 목록 → 단어장 항목(캐시). 문장 레마 글(LemmaText)과 칩이 같이 쓴다.
+Future<Map<String, VocabEntry>> lookupLemmas(AppDatabase db, List<String> bases) => LemmaChips._lookupImpl(db, bases);
 
 class _Chip extends StatelessWidget {
   final String label;

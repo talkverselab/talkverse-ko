@@ -1,0 +1,3515 @@
+{
+"_meta": "회화 레마 중 절벽 단어표(2,000위) 밖이면서 단어 DB에 있는 것 · tools/conv_words.py",
+"words": [
+{
+"word": "저기요",
+"rd": "jeogiyo",
+"en": "excuse me",
+"n": 19
+},
+{
+"word": "우산",
+"rd": "usan",
+"en": "umbrella",
+"n": 13
+},
+{
+"word": "한국어",
+"rd": "hangugeo",
+"en": "Korean language",
+"n": 13
+},
+{
+"word": "하트",
+"rd": "hateu",
+"en": "heart",
+"n": 11
+},
+{
+"word": "우유",
+"rd": "uyu",
+"en": "milk",
+"n": 10
+},
+{
+"word": "컵",
+"rd": "keop",
+"en": "cup",
+"n": 10
+},
+{
+"word": "커플",
+"rd": "keopeul",
+"en": "couple",
+"n": 9
+},
+{
+"word": "냉장고",
+"rd": "naengjanggo",
+"en": "refrigerator",
+"n": 8
+},
+{
+"word": "자전거",
+"rd": "jajeongeo",
+"en": "bicycle",
+"n": 8
+},
+{
+"word": "봉투",
+"rd": "bongtu",
+"en": "envelope",
+"n": 7
+},
+{
+"word": "택배",
+"rd": "taekbae",
+"en": "parcel delivery",
+"n": 7
+},
+{
+"word": "케이크",
+"rd": "keikeu",
+"en": "cake",
+"n": 7
+},
+{
+"word": "룰",
+"rd": "rul",
+"en": "rule",
+"n": 7
+},
+{
+"word": "외우다",
+"rd": "oeuda",
+"en": "memorize",
+"n": 7
+},
+{
+"word": "단계",
+"rd": "dangye",
+"en": "step, stage",
+"n": 7
+},
+{
+"word": "장면",
+"rd": "jangmyeon",
+"en": "scene",
+"n": 6
+},
+{
+"word": "버튼",
+"rd": "beoteun",
+"en": "button",
+"n": 6
+},
+{
+"word": "반찬",
+"rd": "banchan",
+"en": "side dish",
+"n": 6
+},
+{
+"word": "김치찌개",
+"rd": "gimchijjigae",
+"en": "kimchi stew",
+"n": 6
+},
+{
+"word": "거울",
+"rd": "geoul",
+"en": "mirror",
+"n": 6
+},
+{
+"word": "부산",
+"rd": "busan",
+"en": "Busan",
+"n": 6
+},
+{
+"word": "바나나",
+"rd": "banana",
+"en": "banana",
+"n": 6
+},
+{
+"word": "박스",
+"rd": "bakseu",
+"en": "box",
+"n": 6
+},
+{
+"word": "피자",
+"rd": "pija",
+"en": "pizza",
+"n": 6
+},
+{
+"word": "따릉이",
+"rd": "ttareungi",
+"en": "Ttareungi bike",
+"n": 6
+},
+{
+"word": "응원",
+"rd": "eungwon",
+"en": "cheering",
+"n": 6
+},
+{
+"word": "기대다",
+"rd": "gidaeda",
+"en": "lean on",
+"n": 5
+},
+{
+"word": "과자",
+"rd": "gwaja",
+"en": "snack, cookie",
+"n": 5
+},
+{
+"word": "아이돌",
+"rd": "aidol",
+"en": "idol",
+"n": 5
+},
+{
+"word": "김치",
+"rd": "gimchi",
+"en": "kimchi",
+"n": 5
+},
+{
+"word": "옆집",
+"rd": "yeopjip",
+"en": "next-door house",
+"n": 5
+},
+{
+"word": "종이",
+"rd": "jongi",
+"en": "paper",
+"n": 5
+},
+{
+"word": "금요일",
+"rd": "geumyoil",
+"en": "Friday",
+"n": 5
+},
+{
+"word": "젖다",
+"rd": "jeotda",
+"en": "get wet",
+"n": 5
+},
+{
+"word": "포장",
+"rd": "pojang",
+"en": "packaging",
+"n": 5
+},
+{
+"word": "아이스크림",
+"rd": "aiseukeurim",
+"en": "ice cream",
+"n": 5
+},
+{
+"word": "과제",
+"rd": "gwaje",
+"en": "assignment",
+"n": 5
+},
+{
+"word": "단톡",
+"rd": "dantok",
+"en": "group chat",
+"n": 5
+},
+{
+"word": "박자",
+"rd": "bakja",
+"en": "beat",
+"n": 5
+},
+{
+"word": "알람",
+"rd": "allam",
+"en": "alarm",
+"n": 5
+},
+{
+"word": "보일러",
+"rd": "boilleo",
+"en": "boiler",
+"n": 5
+},
+{
+"word": "휴지",
+"rd": "hyuji",
+"en": "tissue",
+"n": 5
+},
+{
+"word": "앞줄",
+"rd": "apjul",
+"en": "front row",
+"n": 5
+},
+{
+"word": "화면",
+"rd": "hwamyeon",
+"en": "screen",
+"n": 4
+},
+{
+"word": "셀카",
+"rd": "selka",
+"en": "selfie",
+"n": 4
+},
+{
+"word": "답장",
+"rd": "dapjang",
+"en": "reply",
+"n": 4
+},
+{
+"word": "미끄러지다",
+"rd": "mikkeureojida",
+"en": "slip",
+"n": 4
+},
+{
+"word": "다이어트",
+"rd": "daieoteu",
+"en": "diet",
+"n": 4
+},
+{
+"word": "계란",
+"rd": "gyeran",
+"en": "egg",
+"n": 4
+},
+{
+"word": "브이",
+"rd": "beui",
+"en": "V sign",
+"n": 4
+},
+{
+"word": "한국말",
+"rd": "hangungmal",
+"en": "Korean speech",
+"n": 4
+},
+{
+"word": "이마",
+"rd": "ima",
+"en": "forehead",
+"n": 4
+},
+{
+"word": "계단",
+"rd": "gyedan",
+"en": "stairs",
+"n": 4
+},
+{
+"word": "흔들다",
+"rd": "heundeulda",
+"en": "shake",
+"n": 4
+},
+{
+"word": "한복",
+"rd": "hanbok",
+"en": "hanbok",
+"n": 4
+},
+{
+"word": "창문",
+"rd": "changmun",
+"en": "window",
+"n": 4
+},
+{
+"word": "메일",
+"rd": "meil",
+"en": "email",
+"n": 4
+},
+{
+"word": "아메리카노",
+"rd": "amerikano",
+"en": "americano",
+"n": 4
+},
+{
+"word": "반반",
+"rd": "banban",
+"en": "half and half",
+"n": 4
+},
+{
+"word": "월세",
+"rd": "wolse",
+"en": "monthly rent",
+"n": 4
+},
+{
+"word": "공짜",
+"rd": "gongjja",
+"en": "free of charge",
+"n": 4
+},
+{
+"word": "거품",
+"rd": "geopum",
+"en": "foam, bubbles",
+"n": 4
+},
+{
+"word": "공유",
+"rd": "gongyu",
+"en": "share",
+"n": 4
+},
+{
+"word": "넵",
+"rd": "nep",
+"en": "yep",
+"n": 4
+},
+{
+"word": "삼겹살",
+"rd": "samgyeopsal",
+"en": "pork belly",
+"n": 4
+},
+{
+"word": "재벌",
+"rd": "jaebeol",
+"en": "chaebol",
+"n": 4
+},
+{
+"word": "상실",
+"rd": "sangsil",
+"en": "loss",
+"n": 4
+},
+{
+"word": "풍선",
+"rd": "pungseon",
+"en": "balloon",
+"n": 4
+},
+{
+"word": "휴게소",
+"rd": "hyugeso",
+"en": "rest stop",
+"n": 4
+},
+{
+"word": "설날",
+"rd": "seollal",
+"en": "Lunar New Year",
+"n": 4
+},
+{
+"word": "리더",
+"rd": "rideo",
+"en": "leader",
+"n": 4
+},
+{
+"word": "무료",
+"rd": "muryo",
+"en": "free",
+"n": 4
+},
+{
+"word": "노래방",
+"rd": "noraebang",
+"en": "karaoke room",
+"n": 4
+},
+{
+"word": "숙제",
+"rd": "sukje",
+"en": "homework",
+"n": 3
+},
+{
+"word": "키보드",
+"rd": "kibodeu",
+"en": "keyboard",
+"n": 3
+},
+{
+"word": "반대쪽",
+"rd": "bandaejjok",
+"en": "opposite side",
+"n": 3
+},
+{
+"word": "심심",
+"rd": "simsim",
+"en": "(suffix)",
+"n": 3
+},
+{
+"word": "뛰어가다",
+"rd": "ttwieogada",
+"en": "run over",
+"n": 3
+},
+{
+"word": "영수증",
+"rd": "yeongsujeung",
+"en": "receipt",
+"n": 3
+},
+{
+"word": "펜",
+"rd": "pen",
+"en": "pen",
+"n": 3
+},
+{
+"word": "점수",
+"rd": "jeomsu",
+"en": "score",
+"n": 3
+},
+{
+"word": "국물",
+"rd": "gungmul",
+"en": "broth",
+"n": 3
+},
+{
+"word": "명동",
+"rd": "myeongdong",
+"en": "Myeongdong",
+"n": 3
+},
+{
+"word": "바구니",
+"rd": "baguni",
+"en": "basket",
+"n": 3
+},
+{
+"word": "깎다",
+"rd": "kkakda",
+"en": "peel, bargain down",
+"n": 3
+},
+{
+"word": "엘리베이터",
+"rd": "ellibeiteo",
+"en": "elevator",
+"n": 3
+},
+{
+"word": "셀프",
+"rd": "selpeu",
+"en": "self-service",
+"n": 3
+},
+{
+"word": "벽",
+"rd": "byeok",
+"en": "wall",
+"n": 3
+},
+{
+"word": "텐트",
+"rd": "tenteu",
+"en": "tent",
+"n": 3
+},
+{
+"word": "날아가다",
+"rd": "naragada",
+"en": "fly away",
+"n": 3
+},
+{
+"word": "깨우다",
+"rd": "kkaeuda",
+"en": "wake (someone)",
+"n": 3
+},
+{
+"word": "씌우다",
+"rd": "ssuiuda",
+"en": "put on, cover",
+"n": 3
+},
+{
+"word": "첫눈",
+"rd": "cheonnun",
+"en": "first snow",
+"n": 3
+},
+{
+"word": "목도리",
+"rd": "mokdori",
+"en": "scarf",
+"n": 3
+},
+{
+"word": "단어",
+"rd": "daneo",
+"en": "word",
+"n": 3
+},
+{
+"word": "원플원",
+"rd": "wonpeurwon",
+"en": "buy one get one",
+"n": 3
+},
+{
+"word": "세제",
+"rd": "seje",
+"en": "detergent",
+"n": 3
+},
+{
+"word": "밀리다",
+"rd": "millida",
+"en": "be pushed",
+"n": 3
+},
+{
+"word": "앱",
+"rd": "aep",
+"en": "app",
+"n": 3
+},
+{
+"word": "제주",
+"rd": "jeju",
+"en": "Jeju",
+"n": 3
+},
+{
+"word": "고장",
+"rd": "gojang",
+"en": "breakdown",
+"n": 3
+},
+{
+"word": "짝짝",
+"rd": "jjakjjak",
+"en": "clap clap",
+"n": 3
+},
+{
+"word": "까먹다",
+"rd": "kkameokda",
+"en": "forget",
+"n": 3
+},
+{
+"word": "충전기",
+"rd": "chungjeongi",
+"en": "charger",
+"n": 3
+},
+{
+"word": "묵언",
+"rd": "mugeon",
+"en": "silence",
+"n": 3
+},
+{
+"word": "외국",
+"rd": "oeguk",
+"en": "foreign country",
+"n": 3
+},
+{
+"word": "정산",
+"rd": "jeongsan",
+"en": "settlement",
+"n": 3
+},
+{
+"word": "시원하다",
+"rd": "siwonhada",
+"en": "cool, refreshing",
+"n": 3
+},
+{
+"word": "짖다",
+"rd": "jitda",
+"en": "bark",
+"n": 3
+},
+{
+"word": "녹다",
+"rd": "nokda",
+"en": "melt",
+"n": 3
+},
+{
+"word": "선비",
+"rd": "seonbi",
+"en": "scholar",
+"n": 3
+},
+{
+"word": "탬버린",
+"rd": "taembeorin",
+"en": "tambourine",
+"n": 3
+},
+{
+"word": "틀다",
+"rd": "teulda",
+"en": "to turn on (music)",
+"n": 3
+},
+{
+"word": "출석",
+"rd": "chulseok",
+"en": "attendance",
+"n": 2
+},
+{
+"word": "마스크",
+"rd": "maseukeu",
+"en": "mask",
+"n": 2
+},
+{
+"word": "저장",
+"rd": "jeojang",
+"en": "save, store",
+"n": 2
+},
+{
+"word": "숟가락",
+"rd": "sutgarak",
+"en": "spoon",
+"n": 2
+},
+{
+"word": "상자",
+"rd": "sangja",
+"en": "box",
+"n": 2
+},
+{
+"word": "쌓이다",
+"rd": "ssaida",
+"en": "pile up",
+"n": 2
+},
+{
+"word": "닫히다",
+"rd": "datida",
+"en": "be closed",
+"n": 2
+},
+{
+"word": "가위바위보",
+"rd": "gawibawibo",
+"en": "rock-paper-scissors",
+"n": 2
+},
+{
+"word": "월요일",
+"rd": "woryoil",
+"en": "Monday",
+"n": 2
+},
+{
+"word": "가사",
+"rd": "gasa",
+"en": "lyrics",
+"n": 2
+},
+{
+"word": "봉지",
+"rd": "bongji",
+"en": "plastic bag",
+"n": 2
+},
+{
+"word": "메뉴",
+"rd": "menyu",
+"en": "menu",
+"n": 2
+},
+{
+"word": "버거",
+"rd": "beogeo",
+"en": "burger",
+"n": 2
+},
+{
+"word": "세트",
+"rd": "seteu",
+"en": "set",
+"n": 2
+},
+{
+"word": "신나다",
+"rd": "sinnada",
+"en": "excited",
+"n": 2
+},
+{
+"word": "티켓",
+"rd": "tiket",
+"en": "ticket",
+"n": 2
+},
+{
+"word": "외국인",
+"rd": "oegugin",
+"en": "foreigner",
+"n": 2
+},
+{
+"word": "복도",
+"rd": "bokdo",
+"en": "hallway",
+"n": 2
+},
+{
+"word": "존댓말",
+"rd": "jondaenmal",
+"en": "honorific speech",
+"n": 2
+},
+{
+"word": "채점",
+"rd": "chaejeom",
+"en": "grading",
+"n": 2
+},
+{
+"word": "쪽지",
+"rd": "jjokji",
+"en": "note",
+"n": 2
+},
+{
+"word": "제출",
+"rd": "jechul",
+"en": "submit",
+"n": 2
+},
+{
+"word": "파일",
+"rd": "pail",
+"en": "file",
+"n": 2
+},
+{
+"word": "경제학",
+"rd": "gyeongjehak",
+"en": "economics",
+"n": 2
+},
+{
+"word": "격식",
+"rd": "gyeoksik",
+"en": "formality",
+"n": 2
+},
+{
+"word": "체",
+"rd": "che",
+"en": "pretending",
+"n": 2
+},
+{
+"word": "살아나다",
+"rd": "saranada",
+"en": "come back to life",
+"n": 2
+},
+{
+"word": "듀엣",
+"rd": "dyuet",
+"en": "duet",
+"n": 2
+},
+{
+"word": "안무",
+"rd": "anmu",
+"en": "choreography",
+"n": 2
+},
+{
+"word": "장갑",
+"rd": "janggap",
+"en": "gloves",
+"n": 2
+},
+{
+"word": "강남역",
+"rd": "gangnamyeok",
+"en": "Gangnam Station",
+"n": 2
+},
+{
+"word": "망원동",
+"rd": "mangwondong",
+"en": "Mangwon-dong",
+"n": 2
+},
+{
+"word": "톡",
+"rd": "tok",
+"en": "chat message",
+"n": 2
+},
+{
+"word": "테이블",
+"rd": "teibeul",
+"en": "table",
+"n": 2
+},
+{
+"word": "아이보리",
+"rd": "aibori",
+"en": "ivory",
+"n": 2
+},
+{
+"word": "카톡",
+"rd": "katok",
+"en": "KakaoTalk",
+"n": 2
+},
+{
+"word": "소나기",
+"rd": "sonagi",
+"en": "shower",
+"n": 2
+},
+{
+"word": "필수",
+"rd": "pilsu",
+"en": "essential",
+"n": 2
+},
+{
+"word": "창피",
+"rd": "changpi",
+"en": "embarrassment",
+"n": 2
+},
+{
+"word": "서울역",
+"rd": "seouryeok",
+"en": "Seoul Station",
+"n": 2
+},
+{
+"word": "목걸이",
+"rd": "mokgeori",
+"en": "necklace",
+"n": 2
+},
+{
+"word": "제목",
+"rd": "jemok",
+"en": "title",
+"n": 2
+},
+{
+"word": "충분",
+"rd": "chungbun",
+"en": "(suffix)",
+"n": 2
+},
+{
+"word": "마이크",
+"rd": "maikeu",
+"en": "microphone",
+"n": 2
+},
+{
+"word": "반값",
+"rd": "bangap",
+"en": "half price",
+"n": 2
+},
+{
+"word": "소파",
+"rd": "sopa",
+"en": "sofa",
+"n": 2
+},
+{
+"word": "와이파이",
+"rd": "waipai",
+"en": "Wi-Fi",
+"n": 2
+},
+{
+"word": "비번",
+"rd": "bibeon",
+"en": "password",
+"n": 2
+},
+{
+"word": "비밀번호",
+"rd": "bimilbeonho",
+"en": "password",
+"n": 2
+},
+{
+"word": "팡팡",
+"rd": "pangpang",
+"en": "pop pop",
+"n": 2
+},
+{
+"word": "이불",
+"rd": "ibul",
+"en": "blanket",
+"n": 2
+},
+{
+"word": "아이스",
+"rd": "aiseu",
+"en": "iced",
+"n": 2
+},
+{
+"word": "채팅",
+"rd": "chaeting",
+"en": "chatting",
+"n": 2
+},
+{
+"word": "복사",
+"rd": "boksa",
+"en": "copy",
+"n": 2
+},
+{
+"word": "파스타",
+"rd": "paseuta",
+"en": "pasta",
+"n": 2
+},
+{
+"word": "퍼지다",
+"rd": "peojida",
+"en": "spread",
+"n": 2
+},
+{
+"word": "군인",
+"rd": "gunin",
+"en": "soldier",
+"n": 2
+},
+{
+"word": "제주도",
+"rd": "jejudo",
+"en": "Jeju Island",
+"n": 2
+},
+{
+"word": "간식",
+"rd": "gansik",
+"en": "snack",
+"n": 2
+},
+{
+"word": "축",
+"rd": "chuk",
+"en": "congrats",
+"n": 2
+},
+{
+"word": "단체",
+"rd": "danche",
+"en": "organization",
+"n": 2
+},
+{
+"word": "기차",
+"rd": "gicha",
+"en": "train",
+"n": 2
+},
+{
+"word": "어묵",
+"rd": "eomuk",
+"en": "fish cake",
+"n": 2
+},
+{
+"word": "배부르다",
+"rd": "baebureuda",
+"en": "be full",
+"n": 2
+},
+{
+"word": "산책",
+"rd": "sanchaek",
+"en": "walk",
+"n": 2
+},
+{
+"word": "해운대",
+"rd": "haeundae",
+"en": "Haeundae",
+"n": 2
+},
+{
+"word": "공항",
+"rd": "gonghang",
+"en": "airport",
+"n": 2
+},
+{
+"word": "김포",
+"rd": "gimpo",
+"en": "Gimpo",
+"n": 2
+},
+{
+"word": "캐리어",
+"rd": "kaerieo",
+"en": "suitcase",
+"n": 2
+},
+{
+"word": "번호표",
+"rd": "beonhopyo",
+"en": "queue ticket",
+"n": 2
+},
+{
+"word": "몰려오다",
+"rd": "mollyeooda",
+"en": "swarm in",
+"n": 2
+},
+{
+"word": "홍대",
+"rd": "hongdae",
+"en": "Hongdae",
+"n": 2
+},
+{
+"word": "데우다",
+"rd": "deuda",
+"en": "heat up",
+"n": 2
+},
+{
+"word": "직캠",
+"rd": "jikkaem",
+"en": "fancam",
+"n": 2
+},
+{
+"word": "반달",
+"rd": "bandal",
+"en": "half moon",
+"n": 2
+},
+{
+"word": "라이트",
+"rd": "raiteu",
+"en": "light",
+"n": 2
+},
+{
+"word": "양념",
+"rd": "yangnyeom",
+"en": "seasoning",
+"n": 2
+},
+{
+"word": "묻히다",
+"rd": "mutida",
+"en": "be buried",
+"n": 2
+},
+{
+"word": "멤버",
+"rd": "membeo",
+"en": "member",
+"n": 2
+},
+{
+"word": "파전",
+"rd": "pajeon",
+"en": "scallion pancake",
+"n": 2
+},
+{
+"word": "외치다",
+"rd": "oechida",
+"en": "shout",
+"n": 2
+},
+{
+"word": "크림",
+"rd": "keurim",
+"en": "cream",
+"n": 2
+},
+{
+"word": "참사",
+"rd": "chamsa",
+"en": "disaster",
+"n": 2
+},
+{
+"word": "촛불",
+"rd": "chotbul",
+"en": "candle flame",
+"n": 2
+},
+{
+"word": "타입",
+"rd": "taip",
+"en": "type",
+"n": 2
+},
+{
+"word": "졸다",
+"rd": "jolda",
+"en": "doze off",
+"n": 2
+},
+{
+"word": "멘트",
+"rd": "menteu",
+"en": "comment",
+"n": 2
+},
+{
+"word": "손목",
+"rd": "sonmok",
+"en": "wrist",
+"n": 2
+},
+{
+"word": "추억",
+"rd": "chueok",
+"en": "memory",
+"n": 2
+},
+{
+"word": "데뷔",
+"rd": "debwi",
+"en": "debut",
+"n": 2
+},
+{
+"word": "천장",
+"rd": "cheonjang",
+"en": "ceiling",
+"n": 2
+},
+{
+"word": "한국식",
+"rd": "hanguksik",
+"en": "Korean style",
+"n": 2
+},
+{
+"word": "배터리",
+"rd": "baeteori",
+"en": "battery",
+"n": 2
+},
+{
+"word": "돌려주다",
+"rd": "dollyeojuda",
+"en": "give back",
+"n": 2
+},
+{
+"word": "빈손",
+"rd": "binson",
+"en": "empty hands",
+"n": 2
+},
+{
+"word": "대사",
+"rd": "daesa",
+"en": "line",
+"n": 2
+},
+{
+"word": "묵",
+"rd": "muk",
+"en": "acorn jelly",
+"n": 2
+},
+{
+"word": "컷",
+"rd": "keot",
+"en": "cut",
+"n": 2
+},
+{
+"word": "호두",
+"rd": "hodu",
+"en": "walnut",
+"n": 2
+},
+{
+"word": "떡국",
+"rd": "tteokguk",
+"en": "tteokguk",
+"n": 2
+},
+{
+"word": "읽씹",
+"rd": "ikssip",
+"en": "left on read",
+"n": 2
+},
+{
+"word": "일정표",
+"rd": "iljeongpyo",
+"en": "schedule",
+"n": 2
+},
+{
+"word": "색깔",
+"rd": "saekkkal",
+"en": "color",
+"n": 2
+},
+{
+"word": "과목",
+"rd": "gwamok",
+"en": "school subject",
+"n": 2
+},
+{
+"word": "합석",
+"rd": "hapseok",
+"en": "share a table",
+"n": 2
+},
+{
+"word": "계약서",
+"rd": "gyeyakseo",
+"en": "contract",
+"n": 2
+},
+{
+"word": "기구",
+"rd": "gigu",
+"en": "equipment",
+"n": 2
+},
+{
+"word": "보증금",
+"rd": "bojeunggeum",
+"en": "deposit",
+"n": 2
+},
+{
+"word": "전세",
+"rd": "jeonse",
+"en": "jeonse",
+"n": 2
+},
+{
+"word": "짜장면",
+"rd": "jjajangmyeon",
+"en": "jajangmyeon",
+"n": 2
+},
+{
+"word": "연차",
+"rd": "yeoncha",
+"en": "annual leave",
+"n": 2
+},
+{
+"word": "목요일",
+"rd": "mogyoil",
+"en": "Thursday",
+"n": 2
+},
+{
+"word": "원샷",
+"rd": "wonsyat",
+"en": "bottoms up",
+"n": 2
+},
+{
+"word": "입대",
+"rd": "ipdae",
+"en": "enlistment",
+"n": 2
+},
+{
+"word": "트럭",
+"rd": "teureok",
+"en": "truck",
+"n": 2
+},
+{
+"word": "경차",
+"rd": "gyeongcha",
+"en": "compact car",
+"n": 2
+},
+{
+"word": "캠핑",
+"rd": "kaemping",
+"en": "camping",
+"n": 2
+},
+{
+"word": "새해",
+"rd": "saehae",
+"en": "new year",
+"n": 2
+},
+{
+"word": "외국어",
+"rd": "oegugeo",
+"en": "foreign language",
+"n": 2
+},
+{
+"word": "오른발",
+"rd": "oreunbal",
+"en": "right foot",
+"n": 2
+},
+{
+"word": "왼발",
+"rd": "oenbal",
+"en": "left foot",
+"n": 2
+},
+{
+"word": "턴",
+"rd": "teon",
+"en": "turn",
+"n": 2
+},
+{
+"word": "감점",
+"rd": "gamjeom",
+"en": "point deduction",
+"n": 2
+},
+{
+"word": "부서지다",
+"rd": "buseojida",
+"en": "break into pieces",
+"n": 2
+},
+{
+"word": "비슷하다",
+"rd": "biseuthada",
+"en": "similar",
+"n": 1
+},
+{
+"word": "여기요",
+"rd": "yeogiyo",
+"en": "excuse me",
+"n": 1
+},
+{
+"word": "찢다",
+"rd": "jjitda",
+"en": "tear",
+"n": 1
+},
+{
+"word": "동물원",
+"rd": "dongmurwon",
+"en": "zoo",
+"n": 1
+},
+{
+"word": "졸리다",
+"rd": "jollida",
+"en": "sleepy",
+"n": 1
+},
+{
+"word": "편히",
+"rd": "pyeonhi",
+"en": "comfortably",
+"n": 1
+},
+{
+"word": "공범",
+"rd": "gongbeom",
+"en": "accomplice",
+"n": 1
+},
+{
+"word": "나뭇잎",
+"rd": "namusip",
+"en": "leaf",
+"n": 1
+},
+{
+"word": "고리",
+"rd": "gori",
+"en": "ring, loop",
+"n": 1
+},
+{
+"word": "잠옷",
+"rd": "jamot",
+"en": "pajamas",
+"n": 1
+},
+{
+"word": "선반",
+"rd": "seonban",
+"en": "shelf",
+"n": 1
+},
+{
+"word": "그치다",
+"rd": "geuchida",
+"en": "stop",
+"n": 1
+},
+{
+"word": "맛보다",
+"rd": "matboda",
+"en": "taste",
+"n": 1
+},
+{
+"word": "눌리다",
+"rd": "nullida",
+"en": "be pressed",
+"n": 1
+},
+{
+"word": "왕창",
+"rd": "wangchang",
+"en": "a lot",
+"n": 1
+},
+{
+"word": "바퀴",
+"rd": "bakwi",
+"en": "wheel; cockroach",
+"n": 1
+},
+{
+"word": "벌레",
+"rd": "beolle",
+"en": "bug",
+"n": 1
+},
+{
+"word": "슬리퍼",
+"rd": "seullipeo",
+"en": "slippers",
+"n": 1
+},
+{
+"word": "날아다니다",
+"rd": "naradanida",
+"en": "fly around",
+"n": 1
+},
+{
+"word": "쏟아지다",
+"rd": "ssodajida",
+"en": "pour down",
+"n": 1
+},
+{
+"word": "헉헉",
+"rd": "heokeok",
+"en": "panting",
+"n": 1
+},
+{
+"word": "치즈",
+"rd": "chijeu",
+"en": "cheese",
+"n": 1
+},
+{
+"word": "햄",
+"rd": "haem",
+"en": "ham",
+"n": 1
+},
+{
+"word": "찌개",
+"rd": "jjigae",
+"en": "stew",
+"n": 1
+},
+{
+"word": "섞다",
+"rd": "seokda",
+"en": "mix",
+"n": 1
+},
+{
+"word": "플라스틱",
+"rd": "peullaseutik",
+"en": "plastic",
+"n": 1
+},
+{
+"word": "월급날",
+"rd": "wolgeumnal",
+"en": "payday",
+"n": 1
+},
+{
+"word": "컴퓨터",
+"rd": "keompyuteo",
+"en": "computer",
+"n": 1
+},
+{
+"word": "이름표",
+"rd": "ireumpyo",
+"en": "name tag",
+"n": 1
+},
+{
+"word": "거꾸로",
+"rd": "geokkuro",
+"en": "upside down",
+"n": 1
+},
+{
+"word": "안건",
+"rd": "angeon",
+"en": "agenda item",
+"n": 1
+},
+{
+"word": "조각",
+"rd": "jogak",
+"en": "piece",
+"n": 1
+},
+{
+"word": "볼",
+"rd": "bol",
+"en": "cheek",
+"n": 1
+},
+{
+"word": "옆방",
+"rd": "yeopbang",
+"en": "next room",
+"n": 1
+},
+{
+"word": "강남",
+"rd": "gangnam",
+"en": "Gangnam",
+"n": 1
+},
+{
+"word": "종점",
+"rd": "jongjeom",
+"en": "terminus",
+"n": 1
+},
+{
+"word": "강북",
+"rd": "gangbuk",
+"en": "Gangbuk",
+"n": 1
+},
+{
+"word": "명동역",
+"rd": "myeongdongyeok",
+"en": "Myeongdong Station",
+"n": 1
+},
+{
+"word": "노래지다",
+"rd": "noraejida",
+"en": "turn yellow",
+"n": 1
+},
+{
+"word": "살살",
+"rd": "salsal",
+"en": "gently",
+"n": 1
+},
+{
+"word": "일행",
+"rd": "ilhaeng",
+"en": "party, companions",
+"n": 1
+},
+{
+"word": "흥정",
+"rd": "heungjeong",
+"en": "haggling",
+"n": 1
+},
+{
+"word": "귤",
+"rd": "gyul",
+"en": "tangerine",
+"n": 1
+},
+{
+"word": "불고기",
+"rd": "bulgogi",
+"en": "bulgogi",
+"n": 1
+},
+{
+"word": "결제",
+"rd": "gyeolje",
+"en": "payment",
+"n": 1
+},
+{
+"word": "지하",
+"rd": "jiha",
+"en": "underground",
+"n": 1
+},
+{
+"word": "잔액",
+"rd": "janaek",
+"en": "balance",
+"n": 1
+},
+{
+"word": "현금",
+"rd": "hyeongeum",
+"en": "cash",
+"n": 1
+},
+{
+"word": "서비스",
+"rd": "seobiseu",
+"en": "service",
+"n": 1
+},
+{
+"word": "한가득",
+"rd": "hangadeuk",
+"en": "full",
+"n": 1
+},
+{
+"word": "박수",
+"rd": "baksu",
+"en": "applause",
+"n": 1
+},
+{
+"word": "엄지",
+"rd": "eomji",
+"en": "thumb",
+"n": 1
+},
+{
+"word": "검지",
+"rd": "geomji",
+"en": "index finger",
+"n": 1
+},
+{
+"word": "연예인",
+"rd": "yeonyein",
+"en": "celebrity",
+"n": 1
+},
+{
+"word": "반납",
+"rd": "bannap",
+"en": "return",
+"n": 1
+},
+{
+"word": "대본",
+"rd": "daebon",
+"en": "script",
+"n": 1
+},
+{
+"word": "여쭈다",
+"rd": "yeojjuda",
+"en": "ask (humble)",
+"n": 1
+},
+{
+"word": "야행",
+"rd": "yahaeng",
+"en": "night walking",
+"n": 1
+},
+{
+"word": "감시자",
+"rd": "gamsija",
+"en": "watcher",
+"n": 1
+},
+{
+"word": "탭",
+"rd": "taep",
+"en": "tab",
+"n": 1
+},
+{
+"word": "용량",
+"rd": "yongnyang",
+"en": "capacity",
+"n": 1
+},
+{
+"word": "한글",
+"rd": "hangeul",
+"en": "Hangul",
+"n": 1
+},
+{
+"word": "받침",
+"rd": "batchim",
+"en": "final consonant",
+"n": 1
+},
+{
+"word": "좀비",
+"rd": "jombi",
+"en": "zombie",
+"n": 1
+},
+{
+"word": "강제",
+"rd": "gangje",
+"en": "compulsion",
+"n": 1
+},
+{
+"word": "단톡방",
+"rd": "dantokbang",
+"en": "group chat",
+"n": 1
+},
+{
+"word": "시리다",
+"rd": "sirida",
+"en": "to feel cold",
+"n": 1
+},
+{
+"word": "코트",
+"rd": "koteu",
+"en": "coat",
+"n": 1
+},
+{
+"word": "왼쪽",
+"rd": "oenjjok",
+"en": "left",
+"n": 1
+},
+{
+"word": "칸",
+"rd": "kan",
+"en": "compartment",
+"n": 1
+},
+{
+"word": "사촌",
+"rd": "sachon",
+"en": "cousin",
+"n": 1
+},
+{
+"word": "질투",
+"rd": "jiltu",
+"en": "jealousy",
+"n": 1
+},
+{
+"word": "창가",
+"rd": "changga",
+"en": "by the window",
+"n": 1
+},
+{
+"word": "카운터",
+"rd": "kaunteo",
+"en": "counter",
+"n": 1
+},
+{
+"word": "베이지",
+"rd": "beiji",
+"en": "beige",
+"n": 1
+},
+{
+"word": "크림색",
+"rd": "keurimsaek",
+"en": "cream color",
+"n": 1
+},
+{
+"word": "구별",
+"rd": "gubyeol",
+"en": "distinction",
+"n": 1
+},
+{
+"word": "재킷",
+"rd": "jaekit",
+"en": "jacket",
+"n": 1
+},
+{
+"word": "놀이",
+"rd": "nori",
+"en": "play",
+"n": 1
+},
+{
+"word": "공원",
+"rd": "gongwon",
+"en": "park",
+"n": 1
+},
+{
+"word": "출구",
+"rd": "chulgu",
+"en": "exit",
+"n": 1
+},
+{
+"word": "보정",
+"rd": "bojeong",
+"en": "photo retouching",
+"n": 1
+},
+{
+"word": "필터",
+"rd": "pilteo",
+"en": "filter",
+"n": 1
+},
+{
+"word": "비버",
+"rd": "bibeo",
+"en": "beaver",
+"n": 1
+},
+{
+"word": "가슴살",
+"rd": "gaseumsal",
+"en": "chicken breast",
+"n": 1
+},
+{
+"word": "질리다",
+"rd": "jillida",
+"en": "to be sick of",
+"n": 1
+},
+{
+"word": "홀더",
+"rd": "holdeo",
+"en": "cup holder sleeve",
+"n": 1
+},
+{
+"word": "글씨",
+"rd": "geulssi",
+"en": "handwriting",
+"n": 1
+},
+{
+"word": "얼음",
+"rd": "eoreum",
+"en": "ice",
+"n": 1
+},
+{
+"word": "자동",
+"rd": "jadong",
+"en": "automatic",
+"n": 1
+},
+{
+"word": "완성",
+"rd": "wanseong",
+"en": "completion",
+"n": 1
+},
+{
+"word": "오른쪽",
+"rd": "oreunjjok",
+"en": "right",
+"n": 1
+},
+{
+"word": "떨어뜨리다",
+"rd": "tteoreotteurida",
+"en": "to drop",
+"n": 1
+},
+{
+"word": "팝콘",
+"rd": "papkon",
+"en": "popcorn",
+"n": 1
+},
+{
+"word": "개똥",
+"rd": "gaettong",
+"en": "dog poop",
+"n": 1
+},
+{
+"word": "이왕",
+"rd": "iwang",
+"en": "since it's so",
+"n": 1
+},
+{
+"word": "쫓아오다",
+"rd": "jjochaoda",
+"en": "to chase after",
+"n": 1
+},
+{
+"word": "내려앉다",
+"rd": "naeryeoanda",
+"en": "to sink down",
+"n": 1
+},
+{
+"word": "두근거리다",
+"rd": "dugeungeorida",
+"en": "heart pounds",
+"n": 1
+},
+{
+"word": "지난달",
+"rd": "jinandal",
+"en": "last month",
+"n": 1
+},
+{
+"word": "컵라면",
+"rd": "keomnamyeon",
+"en": "cup noodles",
+"n": 1
+},
+{
+"word": "이득",
+"rd": "ideuk",
+"en": "gain",
+"n": 1
+},
+{
+"word": "국그릇",
+"rd": "gukgeureut",
+"en": "soup bowl",
+"n": 1
+},
+{
+"word": "거실",
+"rd": "geosil",
+"en": "living room",
+"n": 1
+},
+{
+"word": "목욕",
+"rd": "mogyok",
+"en": "bath",
+"n": 1
+},
+{
+"word": "현관",
+"rd": "hyeongwan",
+"en": "entrance hall",
+"n": 1
+},
+{
+"word": "가득",
+"rd": "gadeuk",
+"en": "full",
+"n": 1
+},
+{
+"word": "세일",
+"rd": "seil",
+"en": "sale",
+"n": 1
+},
+{
+"word": "리모컨",
+"rd": "rimokeon",
+"en": "remote control",
+"n": 1
+},
+{
+"word": "건너편",
+"rd": "geonneopyeon",
+"en": "opposite side",
+"n": 1
+},
+{
+"word": "고마워하다",
+"rd": "gomawohada",
+"en": "to be grateful",
+"n": 1
+},
+{
+"word": "당번",
+"rd": "dangbeon",
+"en": "person on duty",
+"n": 1
+},
+{
+"word": "아랫집",
+"rd": "araetjip",
+"en": "downstairs neighbor",
+"n": 1
+},
+{
+"word": "관리비",
+"rd": "gwallibi",
+"en": "maintenance fee",
+"n": 1
+},
+{
+"word": "에어컨",
+"rd": "eeokeon",
+"en": "air conditioner",
+"n": 1
+},
+{
+"word": "내내",
+"rd": "naenae",
+"en": "throughout",
+"n": 1
+},
+{
+"word": "집들이",
+"rd": "jipdeuri",
+"en": "housewarming",
+"n": 1
+},
+{
+"word": "잔뜩",
+"rd": "jantteuk",
+"en": "a lot",
+"n": 1
+},
+{
+"word": "불어나다",
+"rd": "bureonada",
+"en": "to swell",
+"n": 1
+},
+{
+"word": "롤",
+"rd": "rol",
+"en": "roll",
+"n": 1
+},
+{
+"word": "원룸",
+"rd": "wollum",
+"en": "studio apartment",
+"n": 1
+},
+{
+"word": "호수",
+"rd": "hosu",
+"en": "lake",
+"n": 1
+},
+{
+"word": "부엌",
+"rd": "bueok",
+"en": "kitchen",
+"n": 1
+},
+{
+"word": "난방",
+"rd": "nanbang",
+"en": "heating",
+"n": 1
+},
+{
+"word": "보고서",
+"rd": "bogoseo",
+"en": "report",
+"n": 1
+},
+{
+"word": "서명",
+"rd": "seomyeong",
+"en": "signature",
+"n": 1
+},
+{
+"word": "뜨아",
+"rd": "tteua",
+"en": "hot americano",
+"n": 1
+},
+{
+"word": "한숨",
+"rd": "hansum",
+"en": "sigh",
+"n": 1
+},
+{
+"word": "쇼핑몰",
+"rd": "syopingmol",
+"en": "shopping mall",
+"n": 1
+},
+{
+"word": "사료",
+"rd": "saryo",
+"en": "pet food",
+"n": 1
+},
+{
+"word": "링크",
+"rd": "ringkeu",
+"en": "link",
+"n": 1
+},
+{
+"word": "복사기",
+"rd": "boksagi",
+"en": "copier",
+"n": 1
+},
+{
+"word": "뚜껑",
+"rd": "ttukkeong",
+"en": "lid",
+"n": 1
+},
+{
+"word": "센스",
+"rd": "senseu",
+"en": "sense",
+"n": 1
+},
+{
+"word": "짤",
+"rd": "jjal",
+"en": "meme image",
+"n": 1
+},
+{
+"word": "학과",
+"rd": "hakgwa",
+"en": "department",
+"n": 1
+},
+{
+"word": "삼각",
+"rd": "samgak",
+"en": "triangle",
+"n": 1
+},
+{
+"word": "공문",
+"rd": "gongmun",
+"en": "official letter",
+"n": 1
+},
+{
+"word": "반말",
+"rd": "banmal",
+"en": "casual speech",
+"n": 1
+},
+{
+"word": "잘하다",
+"rd": "jalhada",
+"en": "to be good at",
+"n": 1
+},
+{
+"word": "투표",
+"rd": "tupyo",
+"en": "vote",
+"n": 1
+},
+{
+"word": "사이드",
+"rd": "saideu",
+"en": "side dish",
+"n": 1
+},
+{
+"word": "학점",
+"rd": "hakjeom",
+"en": "course credit",
+"n": 1
+},
+{
+"word": "차이",
+"rd": "chai",
+"en": "difference",
+"n": 1
+},
+{
+"word": "숫자",
+"rd": "sutja",
+"en": "number",
+"n": 1
+},
+{
+"word": "페이퍼",
+"rd": "peipeo",
+"en": "paper",
+"n": 1
+},
+{
+"word": "학기",
+"rd": "hakgi",
+"en": "semester",
+"n": 1
+},
+{
+"word": "수건",
+"rd": "sugeon",
+"en": "towel",
+"n": 1
+},
+{
+"word": "돌돌",
+"rd": "doldol",
+"en": "rolling up",
+"n": 1
+},
+{
+"word": "식혜",
+"rd": "sikye",
+"en": "sikhye",
+"n": 1
+},
+{
+"word": "돼지국밥",
+"rd": "dwaejigukbap",
+"en": "pork soup rice",
+"n": 1
+},
+{
+"word": "자물쇠",
+"rd": "jamulsoe",
+"en": "lock",
+"n": 1
+},
+{
+"word": "지연",
+"rd": "jiyeon",
+"en": "delay",
+"n": 1
+},
+{
+"word": "한강",
+"rd": "hangang",
+"en": "Han River",
+"n": 1
+},
+{
+"word": "검은색",
+"rd": "geomeunsaek",
+"en": "black",
+"n": 1
+},
+{
+"word": "핑크",
+"rd": "pingkeu",
+"en": "pink",
+"n": 1
+},
+{
+"word": "광장시장",
+"rd": "gwangjangsijang",
+"en": "Gwangjang Market",
+"n": 1
+},
+{
+"word": "지하철",
+"rd": "jihacheol",
+"en": "subway",
+"n": 1
+},
+{
+"word": "정거장",
+"rd": "jeonggeojang",
+"en": "stop",
+"n": 1
+},
+{
+"word": "걸어가다",
+"rd": "georeogada",
+"en": "to walk",
+"n": 1
+},
+{
+"word": "신분증",
+"rd": "sinbunjeung",
+"en": "ID card",
+"n": 1
+},
+{
+"word": "보험증",
+"rd": "boheomjeung",
+"en": "insurance card",
+"n": 1
+},
+{
+"word": "알레르기",
+"rd": "allereugi",
+"en": "allergy",
+"n": 1
+},
+{
+"word": "통장",
+"rd": "tongjang",
+"en": "bankbook",
+"n": 1
+},
+{
+"word": "기계",
+"rd": "gigye",
+"en": "machine",
+"n": 1
+},
+{
+"word": "카페라떼",
+"rd": "kaperatte",
+"en": "cafe latte",
+"n": 1
+},
+{
+"word": "유자차",
+"rd": "yujacha",
+"en": "yuja tea",
+"n": 1
+},
+{
+"word": "건너가다",
+"rd": "geonneogada",
+"en": "to cross over",
+"n": 1
+},
+{
+"word": "갈아타다",
+"rd": "garatada",
+"en": "to transfer",
+"n": 1
+},
+{
+"word": "도시락",
+"rd": "dosirak",
+"en": "lunch box",
+"n": 1
+},
+{
+"word": "젓가락",
+"rd": "jeotgarak",
+"en": "chopsticks",
+"n": 1
+},
+{
+"word": "빨대",
+"rd": "ppaldae",
+"en": "straw",
+"n": 1
+},
+{
+"word": "적립",
+"rd": "jeongnip",
+"en": "earn points",
+"n": 1
+},
+{
+"word": "칼칼하다",
+"rd": "kalkalhada",
+"en": "spicy and crisp",
+"n": 1
+},
+{
+"word": "띵하다",
+"rd": "ttinghada",
+"en": "to feel dizzy",
+"n": 1
+},
+{
+"word": "기침",
+"rd": "gichim",
+"en": "cough",
+"n": 1
+},
+{
+"word": "밴드",
+"rd": "baendeu",
+"en": "band",
+"n": 1
+},
+{
+"word": "사탕",
+"rd": "satang",
+"en": "candy",
+"n": 1
+},
+{
+"word": "뮤비",
+"rd": "myubi",
+"en": "music video",
+"n": 1
+},
+{
+"word": "피켓팅",
+"rd": "piketting",
+"en": "ticket scramble",
+"n": 1
+},
+{
+"word": "튀기다",
+"rd": "twigida",
+"en": "deep-fry",
+"n": 1
+},
+{
+"word": "예매",
+"rd": "yemae",
+"en": "advance booking",
+"n": 1
+},
+{
+"word": "반짝반짝",
+"rd": "banjjakbanjjak",
+"en": "sparkling",
+"n": 1
+},
+{
+"word": "빚다",
+"rd": "bitda",
+"en": "shape (dough)",
+"n": 1
+},
+{
+"word": "반죽",
+"rd": "banjuk",
+"en": "dough",
+"n": 1
+},
+{
+"word": "사랑해",
+"rd": "saranghae",
+"en": "I love you",
+"n": 1
+},
+{
+"word": "따라하다",
+"rd": "ttarahada",
+"en": "imitate",
+"n": 1
+},
+{
+"word": "스틱",
+"rd": "seutik",
+"en": "stick",
+"n": 1
+},
+{
+"word": "배추",
+"rd": "baechu",
+"en": "napa cabbage",
+"n": 1
+},
+{
+"word": "해치우다",
+"rd": "haechiuda",
+"en": "knock out",
+"n": 1
+},
+{
+"word": "친구분",
+"rd": "chingubun",
+"en": "friend (hon.)",
+"n": 1
+},
+{
+"word": "이만큼",
+"rd": "imankeum",
+"en": "this much",
+"n": 1
+},
+{
+"word": "팍팍",
+"rd": "pakpak",
+"en": "vigorously",
+"n": 1
+},
+{
+"word": "김장",
+"rd": "gimjang",
+"en": "kimchi-making",
+"n": 1
+},
+{
+"word": "수육",
+"rd": "suyuk",
+"en": "boiled pork slices",
+"n": 1
+},
+{
+"word": "부치다",
+"rd": "buchida",
+"en": "send by mail",
+"n": 1
+},
+{
+"word": "빗소리",
+"rd": "bitsori",
+"en": "sound of rain",
+"n": 1
+},
+{
+"word": "응원봉",
+"rd": "eungwonbong",
+"en": "light stick",
+"n": 1
+},
+{
+"word": "블루투스",
+"rd": "beullutuseu",
+"en": "Bluetooth",
+"n": 1
+},
+{
+"word": "색",
+"rd": "saek",
+"en": "color",
+"n": 1
+},
+{
+"word": "순서",
+"rd": "sunseo",
+"en": "order",
+"n": 1
+},
+{
+"word": "스포",
+"rd": "seupo",
+"en": "spoiler",
+"n": 1
+},
+{
+"word": "쌍둥이",
+"rd": "ssangdungi",
+"en": "twins",
+"n": 1
+},
+{
+"word": "클리셰",
+"rd": "keullisye",
+"en": "cliche",
+"n": 1
+},
+{
+"word": "친절",
+"rd": "chinjeol",
+"en": "kindness",
+"n": 1
+},
+{
+"word": "수강",
+"rd": "sugang",
+"en": "taking a class",
+"n": 1
+},
+{
+"word": "말투",
+"rd": "maltu",
+"en": "way of speaking",
+"n": 1
+},
+{
+"word": "부득이",
+"rd": "budeugi",
+"en": "unavoidably",
+"n": 1
+},
+{
+"word": "기한",
+"rd": "gihan",
+"en": "deadline",
+"n": 1
+},
+{
+"word": "연장",
+"rd": "yeonjang",
+"en": "extension",
+"n": 1
+},
+{
+"word": "문장",
+"rd": "munjang",
+"en": "sentence",
+"n": 1
+},
+{
+"word": "페이스",
+"rd": "peiseu",
+"en": "pace",
+"n": 1
+},
+{
+"word": "커튼",
+"rd": "keoteun",
+"en": "curtain",
+"n": 1
+},
+{
+"word": "달려오다",
+"rd": "dallyeooda",
+"en": "to run over",
+"n": 1
+},
+{
+"word": "연쇄",
+"rd": "yeonswae",
+"en": "serial",
+"n": 1
+},
+{
+"word": "사방",
+"rd": "sabang",
+"en": "all around",
+"n": 1
+},
+{
+"word": "난장판",
+"rd": "nanjangpan",
+"en": "mess",
+"n": 1
+},
+{
+"word": "서프라이즈",
+"rd": "seopeuraijeu",
+"en": "surprise",
+"n": 1
+},
+{
+"word": "벨",
+"rd": "bel",
+"en": "bell",
+"n": 1
+},
+{
+"word": "끌리다",
+"rd": "kkeullida",
+"en": "to be drawn",
+"n": 1
+},
+{
+"word": "특정",
+"rd": "teukjeong",
+"en": "specific",
+"n": 1
+},
+{
+"word": "회색",
+"rd": "hoesaek",
+"en": "gray",
+"n": 1
+},
+{
+"word": "후드",
+"rd": "hudeu",
+"en": "hoodie",
+"n": 1
+},
+{
+"word": "채다",
+"rd": "chaeda",
+"en": "snatch",
+"n": 1
+},
+{
+"word": "둔하다",
+"rd": "dunhada",
+"en": "to be slow",
+"n": 1
+},
+{
+"word": "노리다",
+"rd": "norida",
+"en": "aim at",
+"n": 1
+},
+{
+"word": "정류장",
+"rd": "jeongnyujang",
+"en": "bus stop",
+"n": 1
+},
+{
+"word": "인스타",
+"rd": "inseuta",
+"en": "Instagram",
+"n": 1
+},
+{
+"word": "본론",
+"rd": "bollon",
+"en": "main point",
+"n": 1
+},
+{
+"word": "놀이공원",
+"rd": "norigongwon",
+"en": "amusement park",
+"n": 1
+},
+{
+"word": "이용권",
+"rd": "iyonggwon",
+"en": "pass",
+"n": 1
+},
+{
+"word": "두르다",
+"rd": "dureuda",
+"en": "to wrap around",
+"n": 1
+},
+{
+"word": "일시",
+"rd": "ilsi",
+"en": "date and time",
+"n": 1
+},
+{
+"word": "익숙",
+"rd": "iksuk",
+"en": "familiar",
+"n": 1
+},
+{
+"word": "소리치다",
+"rd": "sorichida",
+"en": "to shout",
+"n": 1
+},
+{
+"word": "삐다",
+"rd": "ppida",
+"en": "to sprain",
+"n": 1
+},
+{
+"word": "간호사",
+"rd": "ganhosa",
+"en": "nurse",
+"n": 1
+},
+{
+"word": "과하다",
+"rd": "gwahada",
+"en": "to be excessive",
+"n": 1
+},
+{
+"word": "하나하나",
+"rd": "hanahana",
+"en": "one by one",
+"n": 1
+},
+{
+"word": "반하다",
+"rd": "banhada",
+"en": "to fall for",
+"n": 1
+},
+{
+"word": "흐리다",
+"rd": "heurida",
+"en": "cloudy",
+"n": 1
+},
+{
+"word": "쿵쿵거리다",
+"rd": "kungkunggeorida",
+"en": "to thud",
+"n": 1
+},
+{
+"word": "소음",
+"rd": "soeum",
+"en": "noise",
+"n": 1
+},
+{
+"word": "경비실",
+"rd": "gyeongbisil",
+"en": "guard booth",
+"n": 1
+},
+{
+"word": "윗집",
+"rd": "witjip",
+"en": "upstairs neighbor",
+"n": 1
+},
+{
+"word": "노트북",
+"rd": "noteubuk",
+"en": "laptop",
+"n": 1
+},
+{
+"word": "레전드",
+"rd": "rejeondeu",
+"en": "legend",
+"n": 1
+},
+{
+"word": "재다",
+"rd": "jaeda",
+"en": "to measure",
+"n": 1
+},
+{
+"word": "멸치",
+"rd": "myeolchi",
+"en": "anchovy",
+"n": 1
+},
+{
+"word": "볶음",
+"rd": "bokkeum",
+"en": "stir-fry",
+"n": 1
+},
+{
+"word": "빠져나가다",
+"rd": "ppajyeonagada",
+"en": "to slip out",
+"n": 1
+},
+{
+"word": "변함없다",
+"rd": "byeonhameopda",
+"en": "unchanging",
+"n": 1
+},
+{
+"word": "진지",
+"rd": "jinji",
+"en": "serious",
+"n": 1
+},
+{
+"word": "당황",
+"rd": "danghwang",
+"en": "flustered",
+"n": 1
+},
+{
+"word": "흑역사",
+"rd": "heugyeoksa",
+"en": "embarrassing past",
+"n": 1
+},
+{
+"word": "예불",
+"rd": "yebul",
+"en": "Buddhist service",
+"n": 1
+},
+{
+"word": "발우",
+"rd": "baru",
+"en": "monk's bowl",
+"n": 1
+},
+{
+"word": "공양",
+"rd": "gongyang",
+"en": "temple meal",
+"n": 1
+},
+{
+"word": "고추",
+"rd": "gochu",
+"en": "chili pepper",
+"n": 1
+},
+{
+"word": "헹구다",
+"rd": "hengguda",
+"en": "to rinse",
+"n": 1
+},
+{
+"word": "엑스트라",
+"rd": "ekseuteura",
+"en": "extra",
+"n": 1
+},
+{
+"word": "맑다",
+"rd": "makda",
+"en": "clear",
+"n": 1
+},
+{
+"word": "살수차",
+"rd": "salsucha",
+"en": "water truck",
+"n": 1
+},
+{
+"word": "포인트",
+"rd": "pointeu",
+"en": "point",
+"n": 1
+},
+{
+"word": "케미",
+"rd": "kemi",
+"en": "chemistry",
+"n": 1
+},
+{
+"word": "승진",
+"rd": "seungjin",
+"en": "promotion",
+"n": 1
+},
+{
+"word": "길이",
+"rd": "giri",
+"en": "length",
+"n": 1
+},
+{
+"word": "주차장",
+"rd": "juchajang",
+"en": "parking lot",
+"n": 1
+},
+{
+"word": "포스트잇",
+"rd": "poseuteuit",
+"en": "sticky note",
+"n": 1
+},
+{
+"word": "엑셀",
+"rd": "eksel",
+"en": "Excel",
+"n": 1
+},
+{
+"word": "칠",
+"rd": "chil",
+"en": "seven; paint",
+"n": 1
+},
+{
+"word": "날짜",
+"rd": "naljja",
+"en": "date",
+"n": 1
+},
+{
+"word": "전날",
+"rd": "jeonnal",
+"en": "the day before",
+"n": 1
+},
+{
+"word": "커지다",
+"rd": "keojida",
+"en": "grow bigger",
+"n": 1
+},
+{
+"word": "꼬이다",
+"rd": "kkoida",
+"en": "to get tangled",
+"n": 1
+},
+{
+"word": "틀",
+"rd": "teul",
+"en": "mold",
+"n": 1
+},
+{
+"word": "디자인",
+"rd": "dijain",
+"en": "design",
+"n": 1
+},
+{
+"word": "손주",
+"rd": "sonju",
+"en": "grandchild",
+"n": 1
+},
+{
+"word": "원론",
+"rd": "wollon",
+"en": "basic theory",
+"n": 1
+},
+{
+"word": "노트",
+"rd": "noteu",
+"en": "notebook",
+"n": 1
+},
+{
+"word": "안주",
+"rd": "anju",
+"en": "side dish for drinks",
+"n": 1
+},
+{
+"word": "쫓아내다",
+"rd": "jjochanaeda",
+"en": "to drive out",
+"n": 1
+},
+{
+"word": "소개팅",
+"rd": "sogaeting",
+"en": "blind date",
+"n": 1
+},
+{
+"word": "어기다",
+"rd": "eogida",
+"en": "to break",
+"n": 1
+},
+{
+"word": "모자",
+"rd": "moja",
+"en": "hat",
+"n": 1
+},
+{
+"word": "뾰족",
+"rd": "ppyojok",
+"en": "pointed",
+"n": 1
+},
+{
+"word": "콜라",
+"rd": "kolla",
+"en": "cola",
+"n": 1
+},
+{
+"word": "순대",
+"rd": "sundae",
+"en": "sundae",
+"n": 1
+},
+{
+"word": "튀김",
+"rd": "twigim",
+"en": "fried food",
+"n": 1
+},
+{
+"word": "아무거나",
+"rd": "amugeona",
+"en": "anything",
+"n": 1
+},
+{
+"word": "순식간",
+"rd": "sunsikgan",
+"en": "in an instant",
+"n": 1
+},
+{
+"word": "동시",
+"rd": "dongsi",
+"en": "at the same time",
+"n": 1
+},
+{
+"word": "스테이크",
+"rd": "seuteikeu",
+"en": "steak",
+"n": 1
+},
+{
+"word": "샴페인",
+"rd": "syampein",
+"en": "champagne",
+"n": 1
+},
+{
+"word": "타워",
+"rd": "tawo",
+"en": "tower",
+"n": 1
+},
+{
+"word": "다듬다",
+"rd": "dadeumda",
+"en": "to trim",
+"n": 1
+},
+{
+"word": "유행",
+"rd": "yuhaeng",
+"en": "trend",
+"n": 1
+},
+{
+"word": "점검",
+"rd": "jeomgeom",
+"en": "inspection",
+"n": 1
+},
+{
+"word": "사다리",
+"rd": "sadari",
+"en": "ladder",
+"n": 1
+},
+{
+"word": "야근",
+"rd": "yageun",
+"en": "overtime work",
+"n": 1
+},
+{
+"word": "태풍",
+"rd": "taepung",
+"en": "typhoon",
+"n": 1
+},
+{
+"word": "서랍",
+"rd": "seorap",
+"en": "drawer",
+"n": 1
+},
+{
+"word": "현관문",
+"rd": "hyeongwanmun",
+"en": "front door",
+"n": 1
+},
+{
+"word": "마트",
+"rd": "mateu",
+"en": "supermarket",
+"n": 1
+},
+{
+"word": "맛집",
+"rd": "matjip",
+"en": "famous restaurant",
+"n": 1
+},
+{
+"word": "추천",
+"rd": "chucheon",
+"en": "recommendation",
+"n": 1
+},
+{
+"word": "고개",
+"rd": "gogae",
+"en": "head; hill",
+"n": 1
+},
+{
+"word": "예의",
+"rd": "yeui",
+"en": "manners",
+"n": 1
+},
+{
+"word": "매주",
+"rd": "maeju",
+"en": "every week",
+"n": 1
+},
+{
+"word": "어색",
+"rd": "eosaek",
+"en": "(suffix)",
+"n": 1
+},
+{
+"word": "목적지",
+"rd": "mokjeokji",
+"en": "destination",
+"n": 1
+},
+{
+"word": "옵서예",
+"rd": "opseoye",
+"en": "welcome (Jeju)",
+"n": 1
+},
+{
+"word": "사투리",
+"rd": "saturi",
+"en": "dialect",
+"n": 1
+},
+{
+"word": "육지",
+"rd": "yukji",
+"en": "mainland",
+"n": 1
+},
+{
+"word": "꼬다",
+"rd": "kkoda",
+"en": "to twist",
+"n": 1
+},
+{
+"word": "시차",
+"rd": "sicha",
+"en": "time difference",
+"n": 1
+},
+{
+"word": "대여",
+"rd": "daeyeo",
+"en": "rental",
+"n": 1
+},
+{
+"word": "유적지",
+"rd": "yujeokji",
+"en": "historic site",
+"n": 1
+},
+{
+"word": "대부분",
+"rd": "daebubun",
+"en": "mostly",
+"n": 1
+},
+{
+"word": "인기",
+"rd": "ingi",
+"en": "popularity",
+"n": 1
+},
+{
+"word": "사극",
+"rd": "sageuk",
+"en": "period drama",
+"n": 1
+},
+{
+"word": "강등",
+"rd": "gangdeung",
+"en": "demotion",
+"n": 1
+},
+{
+"word": "익다",
+"rd": "ikda",
+"en": "to be cooked",
+"n": 1
+},
+{
+"word": "빗방울",
+"rd": "bitbangul",
+"en": "raindrop",
+"n": 1
+},
+{
+"word": "타프",
+"rd": "tapeu",
+"en": "tarp",
+"n": 1
+},
+{
+"word": "여권",
+"rd": "yeogwon",
+"en": "passport",
+"n": 1
+},
+{
+"word": "신청서",
+"rd": "sincheongseo",
+"en": "application form",
+"n": 1
+},
+{
+"word": "재학",
+"rd": "jaehak",
+"en": "enrollment",
+"n": 1
+},
+{
+"word": "증명서",
+"rd": "jeungmyeongseo",
+"en": "certificate",
+"n": 1
+},
+{
+"word": "배경",
+"rd": "baegyeong",
+"en": "background",
+"n": 1
+},
+{
+"word": "하얀색",
+"rd": "hayansaek",
+"en": "white",
+"n": 1
+},
+{
+"word": "임대차",
+"rd": "imdaecha",
+"en": "lease",
+"n": 1
+},
+{
+"word": "접수",
+"rd": "jeopsu",
+"en": "reception",
+"n": 1
+},
+{
+"word": "세배",
+"rd": "sebae",
+"en": "New Year bow",
+"n": 1
+},
+{
+"word": "차례",
+"rd": "charye",
+"en": "turn",
+"n": 1
+},
+{
+"word": "세뱃돈",
+"rd": "sebaetdon",
+"en": "New Year money",
+"n": 1
+},
+{
+"word": "연습실",
+"rd": "yeonseupsil",
+"en": "practice room",
+"n": 1
+},
+{
+"word": "오전",
+"rd": "ojeon",
+"en": "morning",
+"n": 1
+},
+{
+"word": "보컬",
+"rd": "bokeol",
+"en": "vocalist",
+"n": 1
+},
+{
+"word": "댄스",
+"rd": "daenseu",
+"en": "dance",
+"n": 1
+},
+{
+"word": "발음",
+"rd": "bareum",
+"en": "pronunciation",
+"n": 1
+},
+{
+"word": "팬싸",
+"rd": "paenssa",
+"en": "fan signing",
+"n": 1
+},
+{
+"word": "당첨",
+"rd": "dangcheom",
+"en": "winning",
+"n": 1
+},
+{
+"word": "화요일",
+"rd": "hwayoil",
+"en": "Tuesday",
+"n": 1
+},
+{
+"word": "기말",
+"rd": "gimal",
+"en": "end of term",
+"n": 1
+},
+{
+"word": "고사",
+"rd": "gosa",
+"en": "exam",
+"n": 1
+},
+{
+"word": "열정",
+"rd": "yeoljeong",
+"en": "passion",
+"n": 1
+},
+{
+"word": "양손",
+"rd": "yangson",
+"en": "both hands",
+"n": 1
+}
+]
+}
