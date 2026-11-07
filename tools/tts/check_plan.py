@@ -3,7 +3,7 @@
 import json, sys, os, re
 import ttslib as L
 V, EP = L.V, L.EP
-norm = lambda s: re.sub(r'[\s…。、！？!?.,~♪「」\'"]|（[^）]*）|\([^)]*\)', '', s)
+norm = lambda s: re.sub(r'[\s…。、！？!?.,~♪「」\'"]|（[^）]*）|\([^)]*\)|[\U0001F300-\U0001FAFF☀-➿⭐️]', '', s)  # 이모지(어조사 턴)는 비교에서 뺀다
 ids = sys.argv[1:] or L.planned()
 bad = miss = 0
 for ep in ids:

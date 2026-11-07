@@ -5,7 +5,7 @@ import glob, json, os, re
 R = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 V = json.load(open(f'{R}/data/tts/voices.json', encoding='utf-8'))
 EP = {os.path.basename(p)[:-5]: p for p in glob.glob(f'{R}/assets/data/dialogues/*/*/*.json')}
-SIL = re.compile(r'[\s…。、！？!?.,~♪ㅋㅎㅠㅜ]|\([^)]*\)')
+SIL = re.compile(r'[\s…。、！？!?.,~♪ㅋㅎㅠㅜ]|\([^)]*\)|[\U0001F300-\U0001FAFF☀-➿⭐️]')
 JOSA = {'은': '는', '는': '은', '이': '가', '가': '이', '을': '를', '를': '을', '과': '와', '와': '과', '이라고': '라고', '라고': '이라고', '아': '야', '야': '아',
         '으로': '로', '로': '으로', '이랑': '랑', '랑': '이랑', '이야': '야', '이에요': '예요', '예요': '이에요', '이라는': '라는', '라는': '이라는', '이요': '요', '요': '이요'}
 BATCHIM = {'은', '이', '을', '과', '이라고', '아', '으로', '이랑', '이야', '이에요', '이라는', '이요'}   # 받침 뒤에 오는 꼴

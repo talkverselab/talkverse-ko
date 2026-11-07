@@ -70,6 +70,7 @@ class DramaAudio {
 /// 턴 하나 읽기: 생성 음성이 있으면 그것, 없으면 기기 음성. 끝날 때까지 기다린다.
 Future<void> speakTurn(DramaEpisode e, DramaTurn t, {double rate = 1.0}) async {
   if (await DramaAudio.instance.play(e.id, t.num, rate: rate)) return;
-  final s = DramaEpisode.fill(t.ko).replaceAll(RegExp(r'\([^)]*\)'), '').replaceAll(RegExp(r'[ㅋㅎㅠㅜ]+'), '').trim();
+  // 지문·ㅋㅋ·이모지(어조사 턴에 붙는 감정 이모지)는 소리 내지 않는다
+  final s = DramaEpisode.fill(t.ko).replaceAll(RegExp(r'\([^)]*\)'), '').replaceAll(RegExp(r'[ㅋㅎㅠㅜ]+'), '').replaceAll(RegExp(r'[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}\u{2B50}\u{FE0F}]', unicode: true), '').trim();
   if (s.isNotEmpty) await TtsService.instance.speakAndWait(s, rate: 0.45 * rate);
 }

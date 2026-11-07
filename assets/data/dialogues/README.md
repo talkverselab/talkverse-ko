@@ -17,3 +17,8 @@ assets/data/dialogues/R<레벨>/<주제>/<id>.json   R0 왕초보 · R1 초보 �
 
 앞으로 쓰는 회화는 턴마다 `emotion` 을 넣는다 — 값은 `data/tts/PLAN_GUIDE.md` 의 16개(neutral polite stiff cheerful amused teasing excited surprised shout tsukkomi annoyed sad worried flustered shy gentle).
 한 턴에서 감정이 바뀌면 `segs: [[감정, 본문], …]` 로 나눈다(이어 붙이면 `ko` 와 같아야 함). 밋밋하게 neutral 만 쓰지 않는다. 음성 생성(`tools/tts/`)이 이 값을 그대로 쓴다.
+
+## 어조사 턴의 이모지 (2026-11-07 사용자 지시, 한·중·일·태·베 공통)
+
+문장 끝 어조사·종결어미로 감정을 드러내는 턴(…잖아 / …거든 / …네 / …지? / …구나 / …다니 / …라니까 / …요~ 등)에는 그 감정에 어울리는 이모지를 `ko` 끝에 하나 붙인다. 감정 열(`emotion`)과 어긋나지 않게 고른다. 어조사가 없는 턴에는 넣지 않는다.
+이모지는 화면에만 보이고 소리로는 읽히지 않는다 — `tools/tts` 의 읽기 자동 정리와 앱의 기기 음성 폴백이 이모지를 뺀다. 계획 검사(`check_plan.py`)도 이모지를 무시하고 본문을 견준다.
