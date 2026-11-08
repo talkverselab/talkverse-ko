@@ -62,6 +62,10 @@ class ProfileScreen extends StatelessWidget {
           trailing: Icon(Icons.arrow_forward_rounded, size: 18, color: KColors.inkFaint),
         ),
       ),
+      InkWell(
+        onTap: () => showLicensePage(context: context, applicationName: 'Talkverse Korean'),
+        child: _SettingRow(emoji: '©', tile: KColors.tileCream, title: tr('라이선스'), subtitle: tr('오픈소스 라이선스'), trailing: Icon(Icons.arrow_forward_rounded, size: 18, color: KColors.inkFaint)),
+      ),
       FutureBuilder<PackageInfo>(
         future: PackageInfo.fromPlatform(),
         builder: (context, s) => _SettingRow(

@@ -21,6 +21,7 @@ import '../services/tts_service.dart';
 import '../ui/mesh_backdrop.dart';
 import '../widgets/achievement_desk.dart';
 import 'dialogue/scenario_list_screen.dart';
+import 'hangul/hangul_chart_screen.dart';
 import 'particles/particles_screen.dart';
 import 'profile/profile_screen.dart';
 import 'vocabulary/vocabulary_screen.dart';
@@ -285,6 +286,7 @@ class _LearnTabState extends State<LearnTab> {
           _section(tr('오늘의 컷')),
           if (_ready) _TodayCut(onBack: () => setState(() {})) else const SizedBox(height: 200),
           _section(tr('기초')),
+          _NavRow(seal: '한글', title: tr('한글과 발음'), subtitle: tr('자음·모음·받침 · 탭하면 IPA·입모양'), onTap: () => _open((_) => const HangulChartScreen())),
           _NavRow(seal: '기본', color: DramaColors.ink, title: tr('기본 회화 8장면'), subtitle: tr('문법 표시가 달린 짧은 장면'), onTap: () => _open((_) => const ScenarioListScreen())),
           _section(tr('문법')),
           _NavRow(seal: '조사', color: DramaColors.ink, title: tr('조사·어미'), subtitle: tr('한국어 말의 63%를 만드는 19개'), onTap: () => _open((_) => const ParticlesScreen())),
