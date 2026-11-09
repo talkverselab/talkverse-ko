@@ -147,78 +147,87 @@
   {
    "num": 6,
    "speaker": "D",
-   "ko": "지하예요. 여기는 5층.",
-   "rd": "jihayeyo. yeogineun 5cheung.",
-   "en": "It’s underground. This is the 5th floor.",
-   "note": "층 = floor",
+   "ko": "화장실요? 바로 뒤에 있어요.",
+   "rd": "hwajangsiryo? baro dwie isseoyo.",
+   "en": "The restroom? It's right behind you.",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "polite",
    "lemmas": [
     [
-     "지하",
-     "지하",
-     "jiha"
+     "화장실",
+     "화장실",
+     "hwajangsil"
     ],
     [
-     "층",
-     "층",
-     "cheung"
+     "요",
+     "요",
+     "yo"
+    ],
+    [
+     "바로",
+     "바로",
+     "baro"
+    ],
+    [
+     "뒤",
+     "뒤",
+     "dwi"
     ]
    ]
   },
   {
    "num": 7,
    "speaker": "A",
-   "ko": "감사합니다! 급해요.",
-   "rd": "gamsahamnida! geupaeyo.",
-   "en": "Thank you! It’s urgent.",
-   "note": "빨리",
+   "ko": "헐, 처음 그 자리예요?!",
+   "rd": "heol, cheoeum geu jariyeyo?!",
+   "en": "Whoa, the very spot where I first asked?!",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_survival_s3/cut4",
+   "emotion": "surprised",
    "lemmas": [
     [
-     "감사",
-     "감사",
-     "gamsa"
+     "처음",
+     "처음",
+     "cheoeum"
     ],
     [
-     "급해",
-     "급하다",
-     "geupada"
+     "자리",
+     "자리",
+     "jari"
     ]
    ]
   },
   {
    "num": 8,
    "speaker": "D",
-   "ko": "계단이랑 엘리베이터 다 막혔어요.",
-   "rd": "gyedanirang ellibeiteo da makyeosseoyo.",
-   "en": "Both the stairs and elevator are blocked.",
-   "note": "punchline",
+   "ko": "네, 저 직원분 바로 옆이요. ㅋㅋ",
+   "rd": "ne, jeo jigwonbun baro yeopiyo. ㅋㅋ",
+   "en": "Yes, right next to that staff member. Lol",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "amused",
    "lemmas": [
     [
-     "계단",
-     "계단",
-     "gyedan"
+     "바로",
+     "바로",
+     "baro"
     ],
     [
-     "엘리베이터",
-     "엘리베이터",
-     "ellibeiteo"
-    ],
-    [
-     "막혔",
-     "막히다",
-     "makida"
+     "옆",
+     "옆",
+     "yeop"
     ]
    ]
   }
  ],
  "review": {
   "grok_rewrite": "data/review/r0_survival_s3_grok_rewrite.md [K180]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

@@ -138,61 +138,59 @@
   {
    "num": 7,
    "speaker": "D",
-   "ko": "저도 한국어 잘해요! 깎아 주세요!",
-   "rd": "jeodo hangugeo jalhaeyo! kkakka juseyo!",
-   "en": "Me too, I speak Korean well! Discount please!",
-   "note": "Kick: chaos",
+   "ko": "저도 단골이에요! 저도 서비스요!",
+   "rd": "jeodo dangorieyo! jeodo seobiseuyo!",
+   "en": "I'm a regular too! A freebie for me too!",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_survival_s6/cut4",
+   "emotion": "cheerful",
    "lemmas": [
     [
-     "한국어",
-     "한국어",
-     "hangugeo"
+     "단골",
+     "단골",
+     "dangol"
     ],
     [
-     "깎",
-     "깎다",
-     "kkakda"
+     "서비스",
+     "서비스",
+     "seobiseu"
     ]
    ]
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "아 이제 진짜 끝났어요! 가세요!",
-   "rd": "a ije jinjja kkeunnasseoyo! gaseyo!",
-   "en": "Ah, it's really over now! Please go!",
-   "note": "punchline",
+   "ko": "아이고, 오늘 장사 다 했네! ㅋㅋ",
+   "rd": "aigo, oneul jangsa da haenne! ㅋㅋ",
+   "en": "Oh dear, there goes today's profit! Lol",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "amused",
    "lemmas": [
     [
-     "이제",
-     "이제",
-     "ije"
+     "아이고",
+     "아이고",
+     "aigo"
     ],
     [
-     "진짜",
-     "진짜",
-     "jinjja"
+     "오늘",
+     "오늘",
+     "oneul"
     ],
     [
-     "끝났",
-     "끝나다",
-     "kkeunnada"
-    ],
-    [
-     "가",
-     "가다",
-     "gada"
+     "장사",
+     "장사",
+     "jangsa"
     ]
    ]
   }
  ],
  "review": {
   "grok_rewrite": "data/review/r0_survival_s6_grok_rewrite.md [K320]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

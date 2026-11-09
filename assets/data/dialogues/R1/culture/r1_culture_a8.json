@@ -153,13 +153,14 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "더 팍팍! 손 아끼지 말고 얼굴에도 묻혀!",
-   "rd": "deo pakpak! son akkiji malgo eolguredo mutyeo!",
-   "en": "Slap on more! Don’t hold back, get it on your face too!",
+   "ko": "더 팍팍! 손 아끼지 말고. 자, 아 해 봐.",
+   "rd": "deo pakpak! son akkiji malgo. ja, a hae bwa.",
+   "en": "Slap on more! Don't hold back. Here, say \"ah.\"",
    "note": "팍팍",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_culture_a8/cut3",
+   "emotion": "cheerful",
    "lemmas": [
     [
      "팍팍",
@@ -175,28 +176,19 @@
      "아끼",
      "아끼다",
      "akkida"
-    ],
-    [
-     "얼굴",
-     "얼굴",
-     "eolgul"
-    ],
-    [
-     "묻혀",
-     "묻히다",
-     "mutida"
     ]
    ]
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "(얼굴에 튀어서) 헐! 진짜 매워! 근데 맛있다…",
-   "rd": "(eolgure twieoseo) heol! jinjja maewo! geunde masitda…",
-   "en": "(splashes face) Whoa! It’s so spicy! But it tastes good…",
-   "note": "Kick: chaos",
+   "ko": "(한 입) 헐! 진짜 매워! 근데 맛있다…",
+   "rd": "(han ip) heol! jinjja maewo! geunde masitda…",
+   "en": "(one bite) Whoa! It's so spicy! But it tastes good…",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "surprised",
    "lemmas": [
     [
      "진짜",
@@ -213,23 +205,24 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋ 양념 얼굴에 다 묻었네. 이제 진짜 김장 멤버다.",
-   "rd": "ㅋㅋ yangnyeom eolgure da mudeonne. ije jinjja gimjang membeoda.",
-   "en": "Lol your face is covered in seasoning. Now you’re a real kimjang member.",
-   "note": "얼굴",
+   "ko": "ㅋㅋ 볼에 고춧가루 묻었어. 이제 진짜 김장 멤버다.",
+   "rd": "ㅋㅋ bore gochutgaru mudeosseo. ije jinjja gimjang membeoda.",
+   "en": "Lol there's chili powder on your cheek. Now you're a real kimjang member.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_culture_a8/cut4",
+   "emotion": "teasing",
    "lemmas": [
     [
-     "양념",
-     "양념",
-     "yangnyeom"
+     "볼",
+     "볼",
+     "bol"
     ],
     [
-     "얼굴",
-     "얼굴",
-     "eolgul"
+     "고춧가루",
+     "고춧가루",
+     "gochutgaru"
     ],
     [
      "이제",
@@ -304,6 +297,7 @@
  "review": {
   "grok_rewrite": "data/review/r1_culture_a8_grok_rewrite.md [K328]",
   "final": "",
-  "shorten": "data/review/r1_culture_a8_grok_short.md [K404] 턴 [4, 8]"
+  "shorten": "data/review/r1_culture_a8_grok_short.md [K404] 턴 [4, 8]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

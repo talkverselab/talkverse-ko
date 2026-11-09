@@ -117,54 +117,51 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "ㅋㅋㅋ 필터가 너한테만 고양이 귀랑 눈 세 개 붙였어",
-   "rd": "ㅋㅋㅋ pilteoga neohanteman goyangi gwirang nun se gae butyeosseo",
-   "en": "Lolol the filter put cat ears and three eyes only on you",
-   "note": "Kick: chaos",
+   "ko": "ㅋㅋㅋ 내 얼굴 줄이다가 네 얼굴이 늘어났어",
+   "rd": "ㅋㅋㅋ nae eolgul juridaga ne eolguri neureonasseo",
+   "en": "Lolol I was slimming my face and yours got stretched",
+   "note": "",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "10:02",
+   "emotion": "amused",
    "lemmas": [
     [
-     "필터",
-     "필터",
-     "pilteo"
+     "얼굴",
+     "얼굴",
+     "eolgul"
     ],
     [
-     "고양이",
-     "고양이",
-     "goyangi"
+     "줄이",
+     "줄이다",
+     "jurida"
     ],
     [
-     "귀",
-     "귀",
-     "gwi"
+     "얼굴",
+     "얼굴",
+     "eolgul"
     ],
     [
-     "눈",
-     "눈",
-     "nun"
-    ],
-    [
-     "붙였",
-     "붙이다",
-     "buchida"
+     "늘어났",
+     "늘어나다",
+     "neureonada"
     ]
    ]
   },
   {
    "num": 5,
    "speaker": "A",
-   "ko": "…진짜 눈도 세 개야",
-   "rd": "…jinjja nundo se gaeya",
-   "en": "…Really three eyes too",
-   "note": "chaos",
+   "ko": "…진짜 턱이 두 배야",
+   "rd": "…jinjja teogi du baeya",
+   "en": "…My chin's literally twice as big",
+   "note": "",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "10:02",
    "art": "scene/ko/r1_love_c10/cut3",
+   "emotion": "tsukkomi",
    "lemmas": [
     [
      "진짜",
@@ -172,9 +169,14 @@
      "jinjja"
     ],
     [
-     "눈",
-     "눈",
-     "nun"
+     "턱",
+     "턱",
+     "teok"
+    ],
+    [
+     "배",
+     "배",
+     "bae"
     ]
    ]
   },
@@ -255,6 +257,7 @@
  "learner_gender": "M",
  "review": {
   "grok_rewrite": "data/review/r1_love_c10_grok_rewrite.md [K220]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

@@ -378,55 +378,72 @@
   {
    "num": 15,
    "speaker": "A",
-   "ko": "(문이 열리며) 우산 놓고 갔… 어, 다들 어디 가요?",
-   "rd": "(muni yeollimyeo) usan noko gat… eo, dadeul eodi gayo?",
-   "en": "(door opens) I left my umbrel… huh, where is everyone going?",
-   "note": "Kick: the boss comes back",
+   "ko": "(문이 열리며) 어? 팀장님 우산 가지러 다시 오셨어요.",
+   "rd": "(muni yeollimyeo) eo? timjangnim usan gajireo dasi osyeosseoyo.",
+   "en": "(door opens) Huh? The boss came back for his umbrella.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r3_work_b1/cut8",
+   "emotion": "surprised",
    "lemmas": [
+    [
+     "팀장",
+     "팀장",
+     "timjang"
+    ],
     [
      "우산",
      "우산",
      "usan"
     ],
     [
-     "놓",
-     "놓다",
-     "nota"
+     "가지",
+     "가지다",
+     "gajida"
     ],
     [
-     "갔",
-     "가다",
-     "gada"
+     "다시",
+     "다시",
+     "dasi"
     ],
     [
-     "가",
-     "가다",
-     "gada"
+     "오",
+     "오다",
+     "oda"
     ]
    ]
   },
   {
    "num": 16,
    "speaker": "B",
-   "ko": "(메신저) …선배, 이것도 눈치예요?",
-   "rd": "(mesinjeo) …seonbae, igeotdo nunchiyeyo?",
-   "en": "(message) …Jiho, is this nunchi too?",
-   "note": "punchline",
+   "ko": "(메신저) …망했다. 다들 자연스럽게 다시 앉아.",
+   "rd": "(mesinjeo) …manghaetda. dadeul jayeonseureopge dasi anja.",
+   "en": "(message) …We're doomed. Everyone sit back down like nothing happened.",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "tsukkomi",
    "lemmas": [
     [
-     "선배",
-     "선배",
-     "seonbae"
+     "망했",
+     "망하다",
+     "manghada"
     ],
     [
-     "눈치",
-     "눈치",
-     "nunchi"
+     "자연",
+     "자연",
+     "jayeon"
+    ],
+    [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
+     "앉",
+     "앉다",
+     "anda"
     ]
    ]
   }
@@ -434,7 +451,8 @@
  "review": {
   "grok_rewrite": "data/review/r3_work_b1_grok_rewrite.md [K067]",
   "final": "",
-  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성"
+  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  },
  "twist_type": "chaos"
 }

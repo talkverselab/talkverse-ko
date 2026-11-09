@@ -127,22 +127,47 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "(옆옆집) 어? 그 비밀번호? 우리 집도 그거예요! 다 쓰는데! 😮",
-   "rd": "(yeopyeopjip) eo? geu bimilbeonho? uri jipdo geugeoyeyo! da sseuneunde!",
-   "en": "(next door over) Huh? That password? That's ours too! We all use it!",
-   "note": "Kick: chaos",
+   "ko": "(옆옆집) 어? 그 비번 저희 집 와이파이인데요! 😮",
+   "rd": "(yeopyeopjip) eo? geu bibeon jeohui jip waipaiindeyo!",
+   "en": "(two doors down) Huh? That password is our Wi-Fi!",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "surprised",
    "lemmas": [
     [
-     "비밀번호",
-     "비밀번호",
-     "bimilbeonho"
+     "비번",
+     "비번",
+     "bibeon"
     ],
     [
      "집",
      "집",
      "jip"
+    ],
+    [
+     "와이파이",
+     "와이파이",
+     "waipai"
+    ]
+   ]
+  },
+  {
+   "num": 5,
+   "speaker": "D",
+   "ko": "(건너편) 아… 저도 그거 몰래 쓰고 있었어요.",
+   "rd": "(geonneopyeon) a… jeodo geugeo mollae sseugo isseosseoyo.",
+   "en": "(across the hall) Ah… I've been secretly using it too.",
+   "note": "",
+   "tags": [],
+   "new": [],
+   "art": "scene/ko/r1_life_a8/cut3",
+   "emotion": "flustered",
+   "lemmas": [
+    [
+     "몰래",
+     "몰래",
+     "mollae"
     ],
     [
      "쓰",
@@ -152,127 +177,102 @@
    ]
   },
   {
-   "num": 5,
-   "speaker": "D",
-   "ko": "저희 집도요! 건너편인데 손님들까지 다 그거 써요.",
-   "rd": "jeohui jipdoyo! geonneopyeoninde sonnimdeulkkaji da geugeo sseoyo.",
-   "en": "Ours too! We're across the way and even our guests are using it.",
-   "note": "chaos",
+   "num": 6,
+   "speaker": "B",
+   "ko": "죄송해요. 저희 집 와이파이가 자꾸 끊겨서요.",
+   "rd": "joesonghaeyo. jeohui jip waipaiga jakku kkeunkyeoseoyo.",
+   "en": "Sorry. Our Wi-Fi keeps cutting out.",
+   "note": "",
    "tags": [],
    "new": [],
-   "art": "scene/ko/r1_life_a8/cut3",
+   "emotion": "flustered",
    "lemmas": [
+    [
+     "죄송",
+     "죄송",
+     "joesong"
+    ],
     [
      "집",
      "집",
      "jip"
     ],
     [
-     "건너편",
-     "건너편",
-     "geonneopyeon"
+     "와이파이",
+     "와이파이",
+     "waipai"
     ],
     [
-     "손",
-     "손",
-     "son"
+     "자꾸",
+     "자꾸",
+     "jakku"
     ],
     [
-     "써",
-     "쓰다",
-     "sseuda"
-    ]
-   ]
-  },
-  {
-   "num": 6,
-   "speaker": "B",
-   "ko": "이 층 다 써요. 예전에 누가 만들어 공유한 거예요.",
-   "rd": "i cheung da sseoyo. yejeone nuga mandeureo gongyuhan geoyeyo.",
-   "en": "Everyone on this floor uses it. Someone made it a while back and shared it.",
-   "note": "reveal",
-   "tags": [],
-   "new": [],
-   "lemmas": [
-    [
-     "층",
-     "층",
-     "cheung"
-    ],
-    [
-     "써",
-     "쓰다",
-     "sseuda"
-    ],
-    [
-     "예전",
-     "예전",
-     "yejeon"
-    ],
-    [
-     "만들",
-     "만들다",
-     "mandeulda"
-    ],
-    [
-     "공유",
-     "공유",
-     "gongyu"
+     "끊겨",
+     "끊기다",
+     "kkeunkida"
     ]
    ]
   },
   {
    "num": 7,
    "speaker": "A",
-   "ko": "아 진짜요? 누구예요?",
-   "rd": "a jinjjayo? nuguyeyo?",
-   "en": "Oh really? Who is it?",
-   "note": "누가",
+   "ko": "아 진짜요? 그럼 저는 어떡하죠? 😟",
+   "rd": "a jinjjayo? geureom jeoneun eotteokajyo?",
+   "en": "Oh really? Then what should I do?",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_life_a8/cut4",
+   "emotion": "worried",
    "lemmas": [
     [
      "진짜",
      "진짜",
      "jinjja"
+    ],
+    [
+     "어떡하",
+     "어떡하다",
+     "eotteokada"
     ]
    ]
   },
   {
    "num": 8,
-   "speaker": "B",
-   "ko": "몰라요… 근데 다들 고마워하니까요. 지금 다른 집에서도 나오고 있어요.",
-   "rd": "mollayo… geunde dadeul gomawohanikkayo. jigeum dareun jibeseodo naogo isseoyo.",
-   "en": "Don't know… but everyone's grateful. People from other units are coming out now too.",
-   "note": "punchline",
+   "speaker": "C",
+   "ko": "그냥 쓰세요. 대신 비번 바꾸면 알려 드릴게요.",
+   "rd": "geunyang sseuseyo. daesin bibeon bakkumyeon allyeo deurilgeyo.",
+   "en": "Just use it. I'll let you know if I change the password.",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "amused",
    "lemmas": [
     [
-     "몰",
-     "모르다",
-     "moreuda"
+     "쓰",
+     "쓰다",
+     "sseuda"
     ],
     [
-     "고마워하",
-     "고마워하다",
-     "gomawohada"
+     "대신",
+     "대신",
+     "daesin"
     ],
     [
-     "지금",
-     "지금",
-     "jigeum"
+     "비번",
+     "비번",
+     "bibeon"
     ],
     [
-     "집",
-     "집",
-     "jip"
+     "바꾸",
+     "바꾸다",
+     "bakkuda"
     ],
     [
-     "나오",
-     "나오다",
-     "naoda"
+     "알려",
+     "알리다",
+     "allida"
     ]
    ]
   }
@@ -281,6 +281,7 @@
   "grok_rewrite": "data/review/r1_life_a8_grok_rewrite.md [K337]",
   "final": "",
   "shorten": "data/review/r1_life_a8_grok_short.md [K409] 턴 [1, 4, 6]",
-  "manual": "턴 4 어절 1개 덜어냄(세션)"
+  "manual": "턴 4 어절 1개 덜어냄(세션)",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

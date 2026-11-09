@@ -103,14 +103,15 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "응 하트 열 개나 눌렀고 단톡 터져서 사촌들까지 들어왔어",
-   "rd": "eung hateu yeol gaena nulleotgo dantok teojyeoseo sachondeulkkaji deureowasseo",
-   "en": "Yeah she hit like ten hearts and the group chat blew up so the cousins jumped in too",
-   "note": "Kick setup",
+   "ko": "응. 하트도 열 개 누르고 단톡에도 퍼 날랐어",
+   "rd": "eung. hateudo yeol gae nureugo dantogedo peo nallasseo",
+   "en": "Yeah. She hit like ten hearts and shared it to the family chat too",
+   "note": "",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "21:01",
+   "emotion": "tsukkomi",
    "lemmas": [
     [
      "하트",
@@ -118,29 +119,24 @@
      "hateu"
     ],
     [
-     "눌",
+     "누르",
      "누르다",
      "nureuda"
     ],
     [
-     "톡",
-     "톡",
-     "tok"
+     "단톡",
+     "단톡",
+     "dantok"
     ],
     [
-     "터져",
-     "터지다",
-     "teojida"
+     "퍼",
+     "푸다",
+     "puda"
     ],
     [
-     "사촌",
-     "사촌",
-     "sachon"
-    ],
-    [
-     "들어왔",
-     "들어오다",
-     "deureooda"
+     "날",
+     "나르다",
+     "nareuda"
     ]
    ]
   },
@@ -211,15 +207,16 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "엄마가 다 말해서 할머니 전화까지 언제 소개하냐고 난리야",
-   "rd": "eommaga da malhaeseo halmeoni jeonhwakkaji eonje sogaehanyago nalliya",
-   "en": "Mom told everyone and grandma's calling asking when I'll introduce you, total chaos",
+   "ko": "엄마가 다 말했나 봐. 이모가 밥 한번 먹재",
+   "rd": "eommaga da malhaenna bwa. imoga bap hanbeon meokjae",
+   "en": "Guess mom told her everything. My aunt wants to grab a meal",
    "note": "엄마",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "21:03",
    "art": "scene/ko/r1_love_c12/cut4",
+   "emotion": "flustered",
    "lemmas": [
     [
      "말",
@@ -227,38 +224,29 @@
      "mal"
     ],
     [
-     "전화",
-     "전화",
-     "jeonhwa"
+     "밥",
+     "밥",
+     "bap"
     ],
     [
-     "언제",
-     "언제",
-     "eonje"
-    ],
-    [
-     "소개",
-     "소개",
-     "sogae"
-    ],
-    [
-     "난리",
-     "난리",
-     "nalli"
+     "먹",
+     "먹다",
+     "meokda"
     ]
    ]
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "…됐어 질투 취소 다음 주 갈게 엄마도 가고 싶대",
-   "rd": "…dwaesseo jiltu chwiso daeum ju galge eommado gago sipdae",
-   "en": "…Forget it. Jealousy canceled. I'll go next week, mom wants to come too",
-   "note": "punchline",
+   "ko": "…됐어 질투 취소. 이모랑 밥 먹으러 갈게",
+   "rd": "…dwaesseo jiltu chwiso. imorang bap meogeureo galge",
+   "en": "…Forget it, jealousy canceled. I'll go eat with your aunt",
+   "note": "",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "21:03",
+   "emotion": "shy",
    "lemmas": [
     [
      "질투",
@@ -271,22 +259,17 @@
      "chwiso"
     ],
     [
-     "다음",
-     "다음",
-     "daeum"
+     "밥",
+     "밥",
+     "bap"
     ],
     [
-     "주",
-     "주",
-     "ju"
+     "먹",
+     "먹다",
+     "meokda"
     ],
     [
      "갈",
-     "가다",
-     "gada"
-    ],
-    [
-     "가",
      "가다",
      "gada"
     ]
@@ -297,6 +280,7 @@
  "review": {
   "grok_rewrite": "data/review/r1_love_c12_grok_rewrite.md [K348]",
   "final": "",
-  "shorten": "data/review/r1_love_c12_grok_short.md [K413] 턴 [4, 7, 8]"
+  "shorten": "data/review/r1_love_c12_grok_short.md [K413] 턴 [4, 7, 8]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

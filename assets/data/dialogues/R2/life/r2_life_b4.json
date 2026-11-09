@@ -243,13 +243,14 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "응, 짖는 거 들리면 바로 올라와 주세요. 비번 알려 드릴게요.",
-   "rd": "eung, jinneun geo deullimyeon baro ollawa juseyo. bibeon allyeo deurilgeyo.",
-   "en": "Yeah, just come up if you hear him. I'll give you the code.",
-   "note": "비밀번호",
+   "ko": "네, 짖는 소리 들리면 문자 주세요. 제 번호 드릴게요.",
+   "rd": "ne, jinneun sori deullimyeon munja juseyo. je beonho deurilgeyo.",
+   "en": "Yes, text me if you hear him bark. I'll give you my number.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r2_life_b4/cut5",
+   "emotion": "shy",
    "lemmas": [
     [
      "짖",
@@ -257,29 +258,34 @@
      "jitda"
     ],
     [
+     "소리",
+     "소리",
+     "sori"
+    ],
+    [
      "들리",
      "들리다",
      "deullida"
     ],
     [
-     "바로",
-     "바로",
-     "baro"
+     "문자",
+     "문자",
+     "munja"
     ],
     [
-     "올라와",
-     "올라오다",
-     "ollaoda"
+     "주",
+     "주다",
+     "juda"
     ],
     [
-     "비번",
-     "비번",
-     "bibeon"
+     "번호",
+     "번호",
+     "beonho"
     ],
     [
-     "알려",
-     "알리다",
-     "allida"
+     "드릴",
+     "드리다",
+     "deurida"
     ]
    ]
   },
@@ -353,6 +359,7 @@
  "learner_gender": "M",
  "review": {
   "grok_rewrite": "data/review/r2_life_b4_grok_rewrite.md [K363]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

@@ -92,100 +92,89 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "(옆방) 100점 누구야!! 우리도 갈게!!",
-   "rd": "(yeopbang) 100jeom nuguya!! urido galge!!",
-   "en": "(next room) Who got 100!! We're coming too!!",
-   "note": "Kick: chaos",
+   "ko": "(옆방에서) 와 100점! 빠바밤~",
+   "rd": "(yeopbangeseo) wa 100jeom! ppababam~",
+   "en": "(from next room) Wow, 100! Ta-da-da~",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "excited",
    "lemmas": [
     [
-     "갈",
-     "가다",
-     "gada"
+     "빠바밤",
+     "빠바밤",
+     "ppababam"
     ]
    ]
   },
   {
    "num": 5,
    "speaker": "A",
-   "ko": "어? 옆방 사람들 온다…",
-   "rd": "eo? yeopbang saramdeul onda…",
-   "en": "Huh? Next room people are coming…",
+   "ko": "어? 옆방도 100점이야?",
+   "rd": "eo? yeopbangdo 100jeomiya?",
+   "en": "Huh? Next room got 100 too?",
    "note": "옆방",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_friends_a5/cut3",
+   "emotion": "surprised",
    "lemmas": [
     [
-     "옆방",
-     "옆방",
-     "yeopbang"
+     "옆",
+     "옆",
+     "yeop"
     ],
     [
-     "사람",
-     "사람",
-     "saram"
-    ],
-    [
-     "온",
-     "오다",
-     "oda"
+     "방",
+     "방",
+     "bang"
     ]
    ]
   },
   {
    "num": 6,
    "speaker": "D",
-   "ko": "한 곡 더!! 다 같이 불러!!",
-   "rd": "han gok deo!! da gachi bulleo!!",
-   "en": "One more!! Everybody sing!!",
-   "note": "crowd",
+   "ko": "(복도) 우리 방도 100점!!",
+   "rd": "(bokdo) uri bangdo 100jeom!!",
+   "en": "(hallway) Our room too, 100!!",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "shout",
    "lemmas": [
     [
-     "곡",
-     "곡",
-     "gok"
-    ],
-    [
-     "같이",
-     "같이",
-     "gachi"
-    ],
-    [
-     "불",
-     "부르다",
-     "bureuda"
+     "방",
+     "방",
+     "bang"
     ]
    ]
   },
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋ 이제 완전 난리야.",
-   "rd": "ㅋㅋ ije wanjeon nalliya.",
-   "en": "Lol it's total chaos now.",
-   "note": "스타",
+   "ko": "ㅋㅋ 여기 기계 원래 후해.",
+   "rd": "ㅋㅋ yeogi gigye wonrae huhae.",
+   "en": "Lol the machines here are just generous.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_friends_a5/cut4",
+   "emotion": "amused",
    "lemmas": [
     [
-     "이제",
-     "이제",
-     "ije"
+     "기계",
+     "기계",
+     "gigye"
     ],
     [
-     "완전",
-     "완전",
-     "wanjeon"
+     "원래",
+     "원래",
+     "wollae"
     ],
     [
-     "난리",
-     "난리",
-     "nalli"
+     "후해",
+     "후하다",
+     "huhada"
     ]
    ]
   },
@@ -214,6 +203,7 @@
  ],
  "review": {
   "grok_rewrite": "data/review/r0_friends_a5_grok_rewrite.md [K202]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

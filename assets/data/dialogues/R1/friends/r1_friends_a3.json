@@ -128,25 +128,39 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "하나 둘 셋 몇 명이야?",
-   "rd": "hana dul set myeot myeongiya?",
-   "en": "One two three how many is this?",
-   "note": "몇 명 = how many people",
+   "ko": "하나 둘 셋… 다 들어왔어?",
+   "rd": "hana dul set… da deureowasseo?",
+   "en": "One two three… is everyone in?",
+   "note": "",
    "tags": [],
    "new": [],
-   "lemmas": []
+   "emotion": "amused",
+   "lemmas": [
+    [
+     "들어왔",
+     "들어오다",
+     "deureooda"
+    ]
+   ]
   },
   {
    "num": 7,
    "speaker": "B",
-   "ko": "여덟 명이랑 강아지야.",
-   "rd": "yeodeol myeongirang gangajiya.",
-   "en": "Eight people and a dog.",
+   "ko": "우리 넷이랑 모르는 강아지 한 마리.",
+   "rd": "uri nesirang moreuneun gangaji han mari.",
+   "en": "The four of us and one random dog.",
    "note": "마리 = counter for animals",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_friends_a3/cut4",
-   "lemmas": []
+   "emotion": "amused",
+   "lemmas": [
+    [
+     "모르",
+     "모르다",
+     "moreuda"
+    ]
+   ]
   },
   {
    "num": 8,
@@ -178,6 +192,7 @@
  ],
  "review": {
   "grok_rewrite": "data/review/r1_friends_a3_grok_rewrite.md [K128]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

@@ -267,23 +267,24 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "(옆에서) 저도 배 아파요! 떡볶이 먹었어요. 뒤에 세 명!",
-   "rd": "(yeopeseo) jeodo bae apayo! tteokbokki meogeosseoyo. dwie se myeong!",
-   "en": "(from the side) My stomach hurts too! Had tteokbokki too. Three more behind!",
-   "note": "chaos",
+   "ko": "(옆에서) 혹시 시장 떡볶이요? 저도 그거 먹었어요!",
+   "rd": "(yeopeseo) hoksi sijang tteokbokkiyo? jeodo geugeo meogeosseoyo!",
+   "en": "(from the side) The market tteokbokki? I had that too!",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_survival_s8/cut4",
+   "emotion": "surprised",
    "lemmas": [
     [
-     "배",
-     "배",
-     "bae"
+     "혹시",
+     "혹시",
+     "hoksi"
     ],
     [
-     "아파",
-     "아프다",
-     "apeuda"
+     "시장",
+     "시장",
+     "sijang"
     ],
     [
      "떡볶이",
@@ -294,24 +295,30 @@
      "먹",
      "먹다",
      "meokda"
-    ],
-    [
-     "뒤",
-     "뒤",
-     "dwi"
     ]
    ]
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "헐, 떡볶이 환자 여덟 명째예요. 번호 뽑고 줄 서세요!",
-   "rd": "heol, tteokbokki hwanja yeodeol myeongjjaeyeyo. beonho ppopgo jul seoseyo!",
-   "en": "Whoa, eighth tteokbokki patient already. Grab a number and line up!",
-   "note": "punchline",
+   "ko": "아이고, 오늘 떡볶이 환자 두 번째네요. 번호 뽑고 앉으세요!",
+   "rd": "aigo, oneul tteokbokki hwanja du beonjjaeneyo. beonho ppopgo anjeuseyo!",
+   "en": "Oh dear, second tteokbokki patient today. Take a number and have a seat!",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "amused",
    "lemmas": [
+    [
+     "아이고",
+     "아이고",
+     "aigo"
+    ],
+    [
+     "오늘",
+     "오늘",
+     "oneul"
+    ],
     [
      "떡볶이",
      "떡볶이",
@@ -328,14 +335,9 @@
      "beonho"
     ],
     [
-     "줄",
-     "줄",
-     "jul"
-    ],
-    [
-     "서",
-     "서다",
-     "seoda"
+     "앉",
+     "앉다",
+     "anda"
     ]
    ]
   }
@@ -344,6 +346,7 @@
   "grok_rewrite": "data/review/r1_survival_s8_grok_rewrite.md [K352]",
   "final": "",
   "shorten": "data/review/r1_survival_s8_grok_short.md [K416] 턴 [3, 5, 7, 8]",
-  "manual": "턴 7 어절 1개 덜어냄(세션)"
+  "manual": "턴 7 어절 1개 덜어냄(세션)",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

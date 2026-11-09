@@ -79,13 +79,14 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "잠깐만요! 대본이 날아가요!",
-   "rd": "jamkkanmanyo! daeboni naragayo!",
-   "en": "Wait! My notes are flying away!",
+   "ko": "잠깐만요! 대본 순서가 다 섞였어요!",
+   "rd": "jamkkanmanyo! daebon sunseoga da seokkyeosseoyo!",
+   "en": "Wait! My script pages are all out of order!",
    "note": "대본 = script",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_study_a4/cut2",
+   "emotion": "flustered",
    "lemmas": [
     [
      "잠깐",
@@ -98,49 +99,32 @@
      "daebon"
     ],
     [
-     "날아가",
-     "날아가다",
-     "naragada"
+     "순서",
+     "순서",
+     "sunseo"
+    ],
+    [
+     "섞였",
+     "섞이다",
+     "seokkida"
     ]
    ]
   },
   {
    "num": 4,
    "speaker": "C",
-   "ko": "헐, 창문 다 열려 있었어!",
-   "rd": "heol, changmun da yeollyeo isseosseo!",
-   "en": "Whoa, all the windows were open!",
-   "note": "Kick: chaos",
+   "ko": "헐, 아까 복도에서 떨어뜨렸잖아! 😮",
+   "rd": "heol, akka bokdoeseo tteoreotteuryeotjana!",
+   "en": "Whoa, you dropped it in the hallway earlier!",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "surprised",
    "lemmas": [
     [
-     "창문",
-     "창문",
-     "changmun"
-    ],
-    [
-     "열려",
-     "열리다",
-     "yeollida"
-    ]
-   ]
-  },
-  {
-   "num": 5,
-   "speaker": "D",
-   "ko": "종이가 복도랑 계단까지 날아갔어요!",
-   "rd": "jongiga bokdorang gyedankkaji naragasseoyo!",
-   "en": "The pages flew into the hallway and the stairs!",
-   "note": "복도",
-   "tags": [],
-   "new": [],
-   "art": "scene/ko/r1_study_a4/cut3",
-   "lemmas": [
-    [
-     "종이",
-     "종이",
-     "jongi"
+     "아까",
+     "아까",
+     "akka"
     ],
     [
      "복도",
@@ -148,14 +132,38 @@
      "bokdo"
     ],
     [
-     "계단",
-     "계단",
-     "gyedan"
+     "떨어뜨렸",
+     "떨어뜨리다",
+     "tteoreotteurida"
+    ]
+   ]
+  },
+  {
+   "num": 5,
+   "speaker": "D",
+   "ko": "마지막 장이 맨 앞에 있어요!",
+   "rd": "majimak jangi maen ape isseoyo!",
+   "en": "The last page is at the very front!",
+   "note": "",
+   "tags": [],
+   "new": [],
+   "art": "scene/ko/r1_study_a4/cut3",
+   "emotion": "shout",
+   "lemmas": [
+    [
+     "마지막",
+     "마지막",
+     "majimak"
     ],
     [
-     "날아갔",
-     "날아가다",
-     "naragada"
+     "장",
+     "장",
+     "jang"
+    ],
+    [
+     "앞",
+     "앞",
+     "ap"
     ]
    ]
   },
@@ -184,13 +192,14 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "죄송합니다… 제 발표는 바람과 함께 갔습니다.",
-   "rd": "joesonghamnida… je balpyoneun baramgwa hamkke gatseumnida.",
-   "en": "Sorry… my presentation went with the wind.",
-   "note": "joke",
+   "ko": "죄송합니다… 그럼 결론부터 말하겠습니다.",
+   "rd": "joesonghamnida… geureom gyeollonbuteo malhagetseumnida.",
+   "en": "Sorry… then I'll start with the conclusion.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_study_a4/cut4",
+   "emotion": "stiff",
    "lemmas": [
     [
      "죄송",
@@ -198,41 +207,49 @@
      "joesong"
     ],
     [
-     "발표",
-     "발표",
-     "balpyo"
+     "결론",
+     "결론",
+     "gyeollon"
     ],
     [
-     "바람",
-     "바람",
-     "baram"
-    ],
-    [
-     "함께",
-     "함께",
-     "hamkke"
-    ],
-    [
-     "갔",
-     "가다",
-     "gada"
+     "말",
+     "말",
+     "mal"
     ]
    ]
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "ㅋㅋ 그럼 A+ 드릴게요.",
-   "rd": "ㅋㅋ geureom A+ deurilgeyo.",
-   "en": "Haha then I’ll give you an A+.",
-   "note": "punchline",
+   "ko": "ㅋㅋ 좋아요. 짧아서 더 좋네요. 😄",
+   "rd": "ㅋㅋ joayo. jjalbaseo deo jonneyo.",
+   "en": "Haha good. Even better that it's short.",
+   "note": "",
    "tags": [],
    "new": [],
-   "lemmas": []
+   "emotion": "amused",
+   "lemmas": [
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ],
+    [
+     "짧",
+     "짧다",
+     "jjalda"
+    ],
+    [
+     "좋",
+     "좋다",
+     "jota"
+    ]
+   ]
   }
  ],
  "review": {
   "grok_rewrite": "data/review/r1_study_a4_grok_rewrite.md [K191]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

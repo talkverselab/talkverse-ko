@@ -96,90 +96,109 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "(쾅!) 어머! 선반이 다 무너졌어요!",
-   "rd": "(kwang!) eomeo! seonbani da muneojyeosseoyo!",
-   "en": "(crash!) Oh my! The whole shelf collapsed!",
-   "note": "Kick: the shelf topples — chaos",
+   "ko": "그거 예약된 책이에요. 마지막 한 권이요.",
+   "rd": "geugeo yeyakdoen chaegieyo. majimak han gwonieyo.",
+   "en": "That one's reserved. It's the last copy.",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "polite",
    "lemmas": [
     [
-     "선반",
-     "선반",
-     "seonban"
+     "예약",
+     "예약",
+     "yeyak"
     ],
     [
-     "무너졌",
-     "무너지다",
-     "muneojida"
+     "책",
+     "책",
+     "chaek"
+    ],
+    [
+     "마지막",
+     "마지막",
+     "majimak"
     ]
    ]
   },
   {
    "num": 5,
    "speaker": "B",
-   "ko": "헐… 진짜 우리 때문인가요?",
-   "rd": "heol… jinjja uri ttaemuningayo?",
-   "en": "Whoa… is it really because of us?",
-   "note": "때문에 = because of",
+   "ko": "헐… 그럼 둘 다 못 사요?",
+   "rd": "heol… geureom dul da mot sayo?",
+   "en": "Whoa… so neither of us can buy it?",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_love_a12/cut3",
+   "emotion": "surprised",
    "lemmas": [
     [
-     "진짜",
-     "진짜",
-     "jinjja"
+     "사",
+     "사다",
+     "sada"
     ]
    ]
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "빨리 같이 주워요.",
-   "rd": "ppalli gachi juwoyo.",
-   "en": "Quick, let’s pick them up together.",
-   "note": "줍다 = pick up",
+   "ko": "그럼 같이 주문할까요?",
+   "rd": "geureom gachi jumunhalkkayo?",
+   "en": "Then shall we order it together?",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "shy",
    "lemmas": [
-    [
-     "빨리",
-     "빨리",
-     "ppalli"
-    ],
     [
      "같이",
      "같이",
      "gachi"
+    ],
+    [
+     "주문",
+     "주문",
+     "jumun"
     ]
    ]
   },
   {
    "num": 7,
    "speaker": "B",
-   "ko": "(세 시간 뒤) …아직 반이나 남았네요. 😢",
-   "rd": "(se sigan dwi) …ajik banina namanneyo.",
-   "en": "(three hours later) …still half left.",
-   "note": "정리 = tidy",
+   "ko": "좋아요. 다음 주에 같이 받으러 와요.",
+   "rd": "joayo. daeum jue gachi badeureo wayo.",
+   "en": "Sure. Let's come pick it up together next week.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_love_a12/cut4",
+   "emotion": "gentle",
    "lemmas": [
     [
-     "아직",
-     "아직",
-     "ajik"
+     "좋",
+     "좋다",
+     "jota"
     ],
     [
-     "반",
-     "반",
-     "ban"
+     "다음",
+     "다음",
+     "daeum"
     ],
     [
-     "남",
-     "남다",
-     "namda"
+     "주",
+     "주",
+     "ju"
+    ],
+    [
+     "같이",
+     "같이",
+     "gachi"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
     ]
    ]
   },
@@ -221,6 +240,7 @@
  "learner_gender": "M",
  "review": {
   "grok_rewrite": "data/review/r0_love_a12_grok_rewrite.md [K176]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

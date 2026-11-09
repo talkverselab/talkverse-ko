@@ -278,12 +278,13 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "왜 이래? 뭐야 이 소리? (펑! 펑! 펑펑펑!) 풍선이 왜 이렇게 연쇄로 터지는데? 😱",
-   "rd": "wae irae? mwoya i sori? (peong! peong! peongpeongpeong!) pungseoni wae ireoke yeonswaero teojineunde?",
-   "en": "What's going on? What's that sound? (pop! pop! pop-pop-pop!) Why are the balloons exploding in a chain like this?",
-   "note": "Kick: balloon pops — chaos begins",
+   "ko": "왜 이래? 커튼 밑으로 발 다 보이는데? (펑!) 헐, 풍선 터졌어? 😱",
+   "rd": "wae irae? keoteun mideuro bal da boineunde? (peong!) heol, pungseon teojyeosseo?",
+   "en": "What's going on? I can see feet under the curtain? (pop!) Whoa, did a balloon just pop?",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "surprised",
    "lemmas": [
     [
      "왜",
@@ -291,47 +292,24 @@
      "wae"
     ],
     [
-     "소리",
-     "소리",
-     "sori"
+     "커튼",
+     "커튼",
+     "keoteun"
     ],
     [
-     "풍선",
-     "풍선",
-     "pungseon"
+     "밑",
+     "밑",
+     "mit"
     ],
     [
-     "왜",
-     "왜",
-     "wae"
+     "발",
+     "발",
+     "bal"
     ],
     [
-     "연쇄",
-     "연쇄",
-     "yeonswae"
-    ],
-    [
-     "터지",
-     "터지다",
-     "teojida"
-    ]
-   ]
-  },
-  {
-   "num": 7,
-   "speaker": "C",
-   "ko": "아 씨, 풍선 다 터졌어! 케이크 빨리 잡아, 미끄러지고 있어!",
-   "rd": "a ssi, pungseon da teojyeosseo! keikeu ppalli jaba, mikkeureojigo isseo!",
-   "en": "Damn, all the balloons popped! Quick grab the cake, it's sliding!",
-   "note": "터지다 = burst",
-   "tags": [],
-   "new": [],
-   "art": "scene/ko/r3_love_b5/cut4",
-   "lemmas": [
-    [
-     "씨",
-     "씨",
-     "ssi"
+     "보이",
+     "보이다",
+     "boida"
     ],
     [
      "풍선",
@@ -342,6 +320,30 @@
      "터졌",
      "터지다",
      "teojida"
+    ]
+   ]
+  },
+  {
+   "num": 7,
+   "speaker": "C",
+   "ko": "아 씨, 놀라서 케이크 놓쳤어! 빨리 잡아, 미끄러진다!",
+   "rd": "a ssi, nollaseo keikeu nochyeosseo! ppalli jaba, mikkeureojinda!",
+   "en": "Damn, it startled me and I let go of the cake! Grab it, it's sliding!",
+   "note": "",
+   "tags": [],
+   "new": [],
+   "art": "scene/ko/r3_love_b5/cut4",
+   "emotion": "shout",
+   "lemmas": [
+    [
+     "씨",
+     "씨",
+     "ssi"
+    ],
+    [
+     "놀라",
+     "놀라다",
+     "nollada"
     ],
     [
      "케이크",
@@ -349,12 +351,17 @@
      "keikeu"
     ],
     [
+     "놓쳤",
+     "놓치다",
+     "notchida"
+    ],
+    [
      "빨리",
      "빨리",
      "ppalli"
     ],
     [
-     "미끄러지",
+     "미끄러진",
      "미끄러지다",
      "mikkeureojida"
     ]
@@ -363,12 +370,13 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "(쿵, 또 쿵) …케이크 바닥으로 갔어. 컵들도 다 넘어졌고 크림 사방에 튀었어.",
-   "rd": "(kung, tto kung) …keikeu badageuro gasseo. keopdeuldo da neomeojyeotgo keurim sabange twieosseo.",
-   "en": "(thud, another thud) …The cake went to the floor. The cups all tipped over and cream's everywhere.",
-   "note": "떨어지다 = fall",
+   "ko": "(쿵) …케이크 바닥으로 갔어. 크림 다 뭉개졌어.",
+   "rd": "(kung) …keikeu badageuro gasseo. keurim da munggaejyeosseo.",
+   "en": "(thud) …The cake hit the floor. The cream's all squished.",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "sad",
    "lemmas": [
     [
      "케이크",
@@ -386,29 +394,14 @@
      "gada"
     ],
     [
-     "컵",
-     "컵",
-     "keop"
-    ],
-    [
-     "넘어졌",
-     "넘어지다",
-     "neomeojida"
-    ],
-    [
      "크림",
      "크림",
      "keurim"
     ],
     [
-     "사방",
-     "사방",
-     "sabang"
-    ],
-    [
-     "튀",
-     "튀다",
-     "twida"
+     "뭉개",
+     "뭉개다",
+     "munggaeda"
     ]
    ]
   },
@@ -513,22 +506,33 @@
   {
    "num": 12,
    "speaker": "C",
-   "ko": "촛불은 안 꺼졌어! 빨리 노래! 그리고 밖에서 누가 계속 벨 누르고 있어, 누구야?",
-   "rd": "chotbureun an kkeojyeosseo! ppalli norae! geurigo bakkeseo nuga gyesok bel nureugo isseo, nuguya?",
-   "en": "The candles didn't go out! Quick, the song! And someone's keep ringing the doorbell outside, who is it?",
-   "note": "촛불 = candle",
+   "ko": "초는 멀쩡해! 남은 데 꽂자. 빨리 노래!",
+   "rd": "choneun meoljjeonghae! nameun de kkotja. ppalli norae!",
+   "en": "The candles are fine! Stick them in what's left. Quick, the song!",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "excited",
    "lemmas": [
     [
-     "촛불",
-     "촛불",
-     "chotbul"
+     "초",
+     "초",
+     "cho"
     ],
     [
-     "꺼졌",
-     "꺼지다",
-     "kkeojida"
+     "멀쩡",
+     "멀쩡",
+     "meoljjeong"
+    ],
+    [
+     "남",
+     "남다",
+     "namda"
+    ],
+    [
+     "꽂",
+     "꽂다",
+     "kkotda"
     ],
     [
      "빨리",
@@ -539,39 +543,20 @@
      "노래",
      "노래",
      "norae"
-    ],
-    [
-     "밖",
-     "밖",
-     "bak"
-    ],
-    [
-     "계속",
-     "계속",
-     "gyesok"
-    ],
-    [
-     "벨",
-     "벨",
-     "bel"
-    ],
-    [
-     "누르",
-     "누르다",
-     "nureuda"
     ]
    ]
   },
   {
    "num": 13,
    "speaker": "A",
-   "ko": "생일 축하합니다… 바닥에 케이크 있고 문 밖에도 사람 있는데… 😳",
-   "rd": "saengil chukahamnida… badage keikeu itgo mun bakkedo saram inneunde…",
-   "en": "Happy birthday… cake on the floor and people outside too…",
-   "note": "sung",
+   "ko": "생일 축하합니다… 바닥에 앉아서 부르는 생일 노래라니… 😳",
+   "rd": "saengil chukahamnida… badage anjaseo bureuneun saengil noraerani…",
+   "en": "Happy birthday to you… singing it sitting on the floor, of all things…",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r3_love_b5/cut7",
+   "emotion": "flustered",
    "lemmas": [
     [
      "생일",
@@ -589,24 +574,24 @@
      "badak"
     ],
     [
-     "케이크",
-     "케이크",
-     "keikeu"
+     "앉",
+     "앉다",
+     "anda"
     ],
     [
-     "문",
-     "문",
-     "mun"
+     "부르",
+     "부르다",
+     "bureuda"
     ],
     [
-     "밖",
-     "밖",
-     "bak"
+     "생일",
+     "생일",
+     "saengil"
     ],
     [
-     "사람",
-     "사람",
-     "saram"
+     "노래",
+     "노래",
+     "norae"
     ]
    ]
   },
@@ -712,6 +697,7 @@
  "review": {
   "grok_rewrite": "data/review/r3_love_b5_grok_rewrite.md [K377]",
   "final": "",
-  "shorten": "data/review/r3_love_b5_grok_tail.md [K424] 턴 [15, 16]"
+  "shorten": "data/review/r3_love_b5_grok_tail.md [K424] 턴 [15, 16]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

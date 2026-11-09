@@ -101,45 +101,52 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "아이고, 다음이 종점이에요!",
-   "rd": "aigo, daeumi jongjeomieyo!",
-   "en": "Oh no, the next stop is the terminal!",
-   "note": "내리다",
+   "ko": "다음 정류장에서 내려서 건너가요!",
+   "rd": "daeum jeongnyujangeseo naeryeoseo geonneogayo!",
+   "en": "Get off at the next stop and cross over!",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "polite",
    "lemmas": [
-    [
-     "아이고",
-     "아이고",
-     "aigo"
-    ],
     [
      "다음",
      "다음",
      "daeum"
     ],
     [
-     "종점",
-     "종점",
-     "jongjeom"
+     "정류장",
+     "정류장",
+     "jeongnyujang"
+    ],
+    [
+     "내려",
+     "내리다",
+     "naerida"
+    ],
+    [
+     "건너가",
+     "건너가다",
+     "geonneogada"
     ]
    ]
   },
   {
    "num": 5,
    "speaker": "A",
-   "ko": "어? 또 반대예요?",
-   "rd": "eo? tto bandaeyeyo?",
-   "en": "Huh? Opposite again?",
-   "note": "Kick: chaos",
+   "ko": "네? 어디서 건너요?",
+   "rd": "ne? eodiseo geonneoyo?",
+   "en": "Huh? Where do I cross?",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_travel_a7/cut3",
+   "emotion": "flustered",
    "lemmas": [
     [
-     "반대",
-     "반대",
-     "bandae"
+     "건너",
+     "건너다",
+     "geonneoda"
     ]
    ]
   },
@@ -201,37 +208,23 @@
   {
    "num": 8,
    "speaker": "C",
-   "ko": "근데 강북 가고 짐이 너무 많아요.",
-   "rd": "geunde gangbuk gago jimi neomu manayo.",
-   "en": "But I'm going to Gangbuk and I've got way too much luggage.",
-   "note": "punchline",
+   "ko": "대신 이 짐 좀 들어 줘요.",
+   "rd": "daesin i jim jom deureo jwoyo.",
+   "en": "In return, carry these bags for me.",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "amused",
    "lemmas": [
     [
-     "강북",
-     "강북",
-     "gangbuk"
-    ],
-    [
-     "가",
-     "가다",
-     "gada"
+     "대신",
+     "대신",
+     "daesin"
     ],
     [
      "짐",
      "짐",
      "jim"
-    ],
-    [
-     "너무",
-     "너무",
-     "neomu"
-    ],
-    [
-     "많",
-     "많다",
-     "manta"
     ]
    ]
   }
@@ -239,6 +232,7 @@
  "review": {
   "grok_rewrite": "data/review/r0_travel_a7_grok_rewrite.md [K322]",
   "final": "",
-  "shorten": "data/review/r0_travel_a7_grok_short.md [K401] 턴 [8]"
+  "shorten": "data/review/r0_travel_a7_grok_short.md [K401] 턴 [8]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

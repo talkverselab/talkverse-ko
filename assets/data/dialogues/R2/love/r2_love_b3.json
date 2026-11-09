@@ -207,60 +207,18 @@
   {
    "num": 10,
    "speaker": "C",
-   "ko": "네~ 아무거나 두 개! 떡볶이, 라면, 김밥, 순대, 튀김… 다 나갑니다!",
-   "rd": "ne~ amugeona du gae! tteokbokki, ramyeon, gimbap, sundae, twigim… da nagamnida!",
-   "en": "Coming right up~ two \"anythings\"! Tteokbokki, ramyeon, gimbap, sundae, fried stuff… everything!",
-   "note": "Kick: \"anything\" = literally everything — chaos",
+   "ko": "네~ 저희 집 「아무거나」는 김치찌개예요!",
+   "rd": "ne~ jeohui jip 「amugeona」neun gimchijjigaeyeyo!",
+   "en": "Sure~ our house \"anything\" is kimchi stew!",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "cheerful",
    "lemmas": [
     [
-     "떡볶이",
-     "떡볶이",
-     "tteokbokki"
-    ],
-    [
-     "라면",
-     "라면",
-     "ramyeon"
-    ],
-    [
-     "김밥",
-     "김밥",
-     "gimbap"
-    ],
-    [
-     "순대",
-     "순대",
-     "sundae"
-    ],
-    [
-     "튀김",
-     "튀김",
-     "twigim"
-    ],
-    [
-     "나갑",
-     "나가다",
-     "nagada"
-    ]
-   ]
-  },
-  {
-   "num": 11,
-   "speaker": "B",
-   "ko": "…잠깐만, 이게 다 「아무거나」야? 테이블이 모자라.",
-   "rd": "…jamkkanman, ige da 「amugeona」ya? teibeuri mojara.",
-   "en": "…Wait, all of this is \"anything\"? The table's not big enough.",
-   "note": "모자라다 = not enough",
-   "tags": [],
-   "new": [],
-   "art": "scene/ko/r2_love_b3/cut6",
-   "lemmas": [
-    [
-     "잠깐",
-     "잠깐",
-     "jamkkan"
+     "집",
+     "집",
+     "jip"
     ],
     [
      "아무거나",
@@ -268,14 +226,43 @@
      "amugeona"
     ],
     [
-     "테이블",
-     "테이블",
-     "teibeul"
+     "김치찌개",
+     "김치찌개",
+     "gimchijjigae"
+    ]
+   ]
+  },
+  {
+   "num": 11,
+   "speaker": "B",
+   "ko": "…잠깐만, 김치찌개? 어제 먹었다니까. 😤",
+   "rd": "…jamkkanman, gimchijjigae? eoje meogeotdanikka.",
+   "en": "…Wait, kimchi stew? I told you we had it yesterday.",
+   "note": "",
+   "tags": [],
+   "new": [],
+   "art": "scene/ko/r2_love_b3/cut6",
+   "emotion": "tsukkomi",
+   "lemmas": [
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
     ],
     [
-     "모자라",
-     "모자라다",
-     "mojarada"
+     "김치찌개",
+     "김치찌개",
+     "gimchijjigae"
+    ],
+    [
+     "어제",
+     "어제",
+     "eoje"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
     ]
    ]
   },
@@ -315,7 +302,8 @@
  "review": {
   "grok_rewrite": "data/review/r2_love_b3_grok_rewrite.md [K028]",
   "final": "",
-  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성"
+  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  },
  "learner_gender": "M",
  "twist_type": "chaos"

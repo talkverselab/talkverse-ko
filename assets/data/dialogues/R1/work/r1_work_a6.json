@@ -133,32 +133,33 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "어? 저도 방금 알았어요. 세 달째 김인 줄 알았네요. 😄",
-   "rd": "eo? jeodo banggeum arasseoyo. se daljjae gimin jul aranneyo.",
-   "en": "Huh? I just found out too. Thought I was Kim for three months.",
-   "note": "joke",
+   "ko": "ㅋㅋ 괜찮아요. 석 달 동안 아무도 안 고쳐 줬네요. 😄",
+   "rd": "ㅋㅋ gwaenchanayo. seok dal dongan amudo an gochyeo jwonneyo.",
+   "en": "Haha it's fine. Nobody corrected it for three months.",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "amused",
    "lemmas": [
     [
-     "방금",
-     "방금",
-     "banggeum"
+     "괜찮",
+     "괜찮다",
+     "gwaenchanta"
     ],
     [
-     "알",
-     "알다",
-     "alda"
+     "달",
+     "달",
+     "dal"
     ],
     [
-     "김",
-     "김",
-     "gim"
+     "동안",
+     "동안",
+     "dongan"
     ],
     [
-     "알",
-     "알다",
-     "alda"
+     "고쳐",
+     "고치다",
+     "gochida"
     ]
    ]
   },
@@ -240,38 +241,39 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "…그럼 이제부터 김으로 할까요? 제가 박에서 김으로 바꿀까요?",
-   "rd": "…geureom ijebuteo gimeuro halkkayo? jega bageseo gimeuro bakkulkkayo?",
-   "en": "…Then should we just go with Kim from now on? Should I change from Park to Kim?",
-   "note": "joke",
+   "ko": "…내일부터 명패를 좀 크게 바꿔야겠네요. 박으로.",
+   "rd": "…naeilbuteo myeongpaereul jom keuge bakkwoyagenneyo. bageuro.",
+   "en": "…Guess I need a bigger nameplate from tomorrow. Saying Park.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_work_a6/cut4",
+   "emotion": "teasing",
    "lemmas": [
     [
-     "이제",
-     "이제",
-     "ije"
+     "내일",
+     "내일",
+     "naeil"
     ],
     [
-     "김",
-     "김",
-     "gim"
+     "명패",
+     "명패",
+     "myeongpae"
+    ],
+    [
+     "크",
+     "크다",
+     "keuda"
+    ],
+    [
+     "바꿔",
+     "바꾸다",
+     "bakkuda"
     ],
     [
      "박",
      "박",
      "bak"
-    ],
-    [
-     "김",
-     "김",
-     "gim"
-    ],
-    [
-     "바꿀",
-     "바꾸다",
-     "bakkuda"
     ]
    ]
   },
@@ -311,6 +313,7 @@
  "review": {
   "grok_rewrite": "data/review/r1_work_a6_grok_rewrite.md [K358]",
   "final": "",
-  "shorten": "data/review/r1_work_a6_grok_short.md [K420] 턴 [4]"
+  "shorten": "data/review/r1_work_a6_grok_short.md [K420] 턴 [4]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

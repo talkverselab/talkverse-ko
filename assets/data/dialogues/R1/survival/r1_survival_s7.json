@@ -125,13 +125,14 @@
   {
    "num": 5,
    "speaker": "D",
-   "ko": "물도 드세요! 우산도 드릴게요!",
-   "rd": "muldo deuseyo! usando deurilgeyo!",
-   "en": "Have some water! I'll give you an umbrella too!",
-   "note": "Kick: more helpers — chaos",
+   "ko": "물도 드세요! 여기 의자에 앉으세요!",
+   "rd": "muldo deuseyo! yeogi uijae anjeuseyo!",
+   "en": "Have some water! Sit on this chair!",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_survival_s7/cut3",
+   "emotion": "excited",
    "lemmas": [
     [
      "물",
@@ -144,14 +145,14 @@
      "deuseda"
     ],
     [
-     "우산",
-     "우산",
-     "usan"
+     "의자",
+     "의자",
+     "uija"
     ],
     [
-     "드릴",
-     "드리다",
-     "deurida"
+     "앉",
+     "앉다",
+     "anda"
     ]
    ]
   },
@@ -213,12 +214,13 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "한국은 넘어지면 선물 받아요. 더 줄게요.",
-   "rd": "hangugeun neomeojimyeon seonmul badayo. deo julgeyo.",
-   "en": "In Korea, if you fall you get gifts. I'll give more.",
-   "note": "punchline",
+   "ko": "한국 아주머니들은 원래 이래요. 그냥 다 받아요.",
+   "rd": "hanguk ajumeonideureun wollae iraeyo. geunyang da badayo.",
+   "en": "Korean aunties are always like this. Just take it all.",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "amused",
    "lemmas": [
     [
      "한국",
@@ -226,25 +228,16 @@
      "hanguk"
     ],
     [
-     "넘어지",
-     "넘어지다",
-     "neomeojida"
-    ],
-    [
-     "선물",
-     "선물",
-     "seonmul"
-    ],
-    [
-     "줄",
-     "주다",
-     "juda"
+     "원래",
+     "원래",
+     "wollae"
     ]
    ]
   }
  ],
  "review": {
   "grok_rewrite": "data/review/r1_survival_s7_grok_rewrite.md [K222]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

@@ -157,25 +157,15 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "(밖에서) 옆집도 왔어 누가?",
-   "rd": "(bakkeseo) yeopjipdo wasseo nuga?",
-   "en": "(outside) Neighbors came too, who?",
+   "ko": "(밖에서) 근데 누가 잡아?",
+   "rd": "(bakkeseo) geunde nuga jaba?",
+   "en": "(outside) So who's catching it?",
    "note": "누가",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_life_a8/cut4",
-   "lemmas": [
-    [
-     "옆집",
-     "옆집",
-     "yeopjip"
-    ],
-    [
-     "왔",
-     "오다",
-     "oda"
-    ]
-   ]
+   "emotion": "worried",
+   "lemmas": []
   },
   {
    "num": 8,
@@ -197,6 +187,7 @@
  ],
  "review": {
   "grok_rewrite": "data/review/r0_life_a8_grok_rewrite.md [K307]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

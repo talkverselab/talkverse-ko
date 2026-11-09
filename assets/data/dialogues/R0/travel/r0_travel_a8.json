@@ -61,45 +61,52 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "이마에 탁 쳐.",
-   "rd": "imae tak chyeo.",
-   "en": "Tap it on your forehead.",
-   "note": "머리",
+   "ko": "바닥에 톡 치고 굴려.",
+   "rd": "badage tok chigo gullyeo.",
+   "en": "Tap it on the floor and roll it.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_travel_a8/cut2",
+   "emotion": "gentle",
    "lemmas": [
     [
-     "이마",
-     "이마",
-     "ima"
+     "바닥",
+     "바닥",
+     "badak"
     ],
     [
-     "탁",
-     "탁",
-     "tak"
+     "톡",
+     "톡",
+     "tok"
     ],
     [
-     "쳐",
+     "치",
      "치다",
      "chida"
+    ],
+    [
+     "굴려",
+     "굴리다",
+     "gullida"
     ]
    ]
   },
   {
    "num": 4,
    "speaker": "A",
-   "ko": "이마에? 진짜?",
-   "rd": "imae? jinjja?",
-   "en": "On my forehead? For real?",
+   "ko": "바닥에? 진짜?",
+   "rd": "badage? jinjja?",
+   "en": "On the floor? For real?",
    "note": "진짜?",
    "tags": [],
    "new": [],
+   "emotion": "surprised",
    "lemmas": [
     [
-     "이마",
-     "이마",
-     "ima"
+     "바닥",
+     "바닥",
+     "badak"
     ],
     [
      "진짜",
@@ -111,45 +118,47 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "응. 드라마에서 하잖아. 😄",
-   "rd": "eung. deuramaeseo hajana.",
-   "en": "Yeah. They do it in dramas, you know.",
-   "note": "드라마",
+   "ko": "응. 그리고 식혜랑 먹어야 돼. 😄",
+   "rd": "eung. geurigo sikyerang meogeoya dwae.",
+   "en": "Yeah. And you have to eat it with sikhye.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_travel_a8/cut3",
+   "emotion": "cheerful",
    "lemmas": [
     [
-     "드라마",
-     "드라마",
-     "deurama"
+     "식혜",
+     "식혜",
+     "sikye"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
     ]
    ]
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "(탁) 아야, 이마가 약해.",
-   "rd": "(tak) aya, imaga yakae.",
-   "en": "(tap) Ouch, my forehead is weak.",
-   "note": "Kick",
+   "ko": "(쾅) 아, 계란이 다 부서졌어.",
+   "rd": "(kwang) a, gyerani da buseojyeosseo.",
+   "en": "(bang) Ah, the egg got totally smashed.",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "flustered",
    "lemmas": [
     [
-     "아야",
-     "아야",
-     "aya"
+     "계란",
+     "계란",
+     "gyeran"
     ],
     [
-     "이마",
-     "이마",
-     "ima"
-    ],
-    [
-     "약해",
-     "약하다",
-     "yakada"
+     "부서졌",
+     "부서지다",
+     "buseojida"
     ]
    ]
   },
@@ -191,6 +200,7 @@
  ],
  "review": {
   "grok_rewrite": "data/review/r0_travel_a8_grok_rewrite.md [K323]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

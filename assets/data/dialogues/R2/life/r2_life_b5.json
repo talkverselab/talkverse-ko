@@ -394,13 +394,14 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "어 불 들어왔다! ...근데 왜 현관문이 열려 있고 물이 들어오고 있어",
-   "rd": "eo bul deureowatda! ...geunde wae hyeongwanmuni yeollyeo itgo muri deureoogo isseo",
-   "en": "Oh lights are back! ...but why's the door open and water coming in",
-   "note": "reveal",
+   "ko": "어 불 들어왔다! …근데 아이스크림 벌써 다 먹었어?",
+   "rd": "eo bul deureowatda! …geunde aiseukeurim beolsseo da meogeosseo?",
+   "en": "Oh the lights are back! …but did we already eat all the ice cream?",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r2_life_b5/cut6",
+   "emotion": "surprised",
    "lemmas": [
     [
      "불",
@@ -413,92 +414,74 @@
      "deureooda"
     ],
     [
-     "왜",
-     "왜",
-     "wae"
+     "아이스크림",
+     "아이스크림",
+     "aiseukeurim"
     ],
     [
-     "현관문",
-     "현관문",
-     "hyeongwanmun"
+     "벌써",
+     "벌써",
+     "beolsseo"
     ],
     [
-     "열려",
-     "열리다",
-     "yeollida"
-    ],
-    [
-     "물",
-     "물",
-     "mul"
-    ],
-    [
-     "들어오",
-     "들어오다",
-     "deureooda"
+     "먹",
+     "먹다",
+     "meokda"
     ]
    ]
   },
   {
    "num": 12,
    "speaker": "C",
-   "ko": "아이스크림 다 바닥에 쏟았는데 옆집 사람까지 물 묻히고 들어왔어, 아 몰라 그냥 포기",
-   "rd": "aiseukeurim da badage ssodanneunde yeopjip saramkkaji mul mutigo deureowasseo, a molla geunyang pogi",
-   "en": "Ice cream spilled everywhere and even the neighbor came in soaked, whatever I give up",
-   "note": "punchline",
+   "ko": "아 몰라, 비 그치면 편의점 가자. 또 사 오게.",
+   "rd": "a molla, bi geuchimyeon pyeonuijeom gaja. tto sa oge.",
+   "en": "Whatever, let's hit the convenience store when the rain stops. To buy more.",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "amused",
    "lemmas": [
-    [
-     "아이스크림",
-     "아이스크림",
-     "aiseukeurim"
-    ],
-    [
-     "바닥",
-     "바닥",
-     "badak"
-    ],
-    [
-     "옆집",
-     "옆집",
-     "yeopjip"
-    ],
-    [
-     "사람",
-     "사람",
-     "saram"
-    ],
-    [
-     "물",
-     "물",
-     "mul"
-    ],
-    [
-     "묻히",
-     "묻히다",
-     "mutida"
-    ],
-    [
-     "들어왔",
-     "들어오다",
-     "deureooda"
-    ],
     [
      "몰",
      "모르다",
      "moreuda"
     ],
     [
-     "포기",
-     "포기",
-     "pogi"
+     "비",
+     "비",
+     "bi"
+    ],
+    [
+     "그치",
+     "그치다",
+     "geuchida"
+    ],
+    [
+     "편의점",
+     "편의점",
+     "pyeonuijeom"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
+    ],
+    [
+     "사",
+     "사다",
+     "sada"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
     ]
    ]
   }
  ],
  "review": {
   "grok_rewrite": "data/review/r2_life_b5_grok_rewrite.md [K364]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

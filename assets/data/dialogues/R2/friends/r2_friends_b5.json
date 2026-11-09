@@ -303,12 +303,13 @@
   {
    "num": 10,
    "speaker": "C",
-   "ko": "헐 진짜? 케이크 시켜! 그리고 다른 애들한테도 다 연락해!",
-   "rd": "heol jinjja? keikeu sikyeo! geurigo dareun aedeulhantedo da yeollakae!",
-   "en": "Whoa really? Order a cake! And call all the other people too!",
-   "note": "chaos",
+   "ko": "헐 진짜? 내가 앞 편의점에서 케이크 사 올게!",
+   "rd": "heol jinjja? naega ap pyeonuijeomeseo keikeu sa olge!",
+   "en": "Whoa really? I'll grab a cake from the convenience store out front!",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "excited",
    "lemmas": [
     [
      "진짜",
@@ -316,57 +317,58 @@
      "jinjja"
     ],
     [
+     "앞",
+     "앞",
+     "ap"
+    ],
+    [
+     "편의점",
+     "편의점",
+     "pyeonuijeom"
+    ],
+    [
      "케이크",
      "케이크",
      "keikeu"
     ],
     [
-     "시켜",
-     "시키다",
-     "sikida"
+     "사",
+     "사다",
+     "sada"
     ],
     [
-     "애",
-     "애",
-     "ae"
-    ],
-    [
-     "연락",
-     "연락",
-     "yeollak"
+     "올",
+     "오다",
+     "oda"
     ]
    ]
   },
   {
    "num": 11,
    "speaker": "B",
-   "ko": "갑자기 사람들이 막 몰려오네. 노래방이 완전 생일 파티 됐어.",
-   "rd": "gapjagi saramdeuri mak mollyeoone. noraebangi wanjeon saengil pati dwaesseo.",
-   "en": "Suddenly people are pouring in. The karaoke totally became a birthday party.",
+   "ko": "사장님이 서비스로 30분 넣어 주셨어. 완전 생일 파티 됐네. 😊",
+   "rd": "sajangnimi seobiseuro 30bun neoeo jusyeosseo. wanjeon saengil pati dwaenne.",
+   "en": "The owner threw in 30 free minutes. It totally turned into a birthday party.",
    "note": "파티",
    "tags": [],
    "new": [],
    "art": "scene/ko/r2_friends_b5/cut6",
+   "emotion": "cheerful",
    "lemmas": [
     [
-     "갑자기",
-     "갑자기",
-     "gapjagi"
+     "사장",
+     "사장",
+     "sajang"
     ],
     [
-     "사람",
-     "사람",
-     "saram"
+     "서비스",
+     "서비스",
+     "seobiseu"
     ],
     [
-     "몰려오",
-     "몰려오다",
-     "mollyeooda"
-    ],
-    [
-     "노래방",
-     "노래방",
-     "noraebang"
+     "넣",
+     "넣다",
+     "neota"
     ],
     [
      "완전",
@@ -410,6 +412,7 @@
  ],
  "review": {
   "grok_rewrite": "data/review/r2_friends_b5_grok_rewrite.md [K362]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

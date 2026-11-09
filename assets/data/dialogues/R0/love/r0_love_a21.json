@@ -113,13 +113,14 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "어머 커플이다 다들 봐!",
-   "rd": "eomeo keopeurida dadeul bwa!",
-   "en": "Oh my, it's a couple, everyone look!",
-   "note": "Kick: everyone notices — chaos",
+   "ko": "어머, 커플티 귀엽다~",
+   "rd": "eomeo, keopeulti gwiyeopda~",
+   "en": "Aww, cute couple tees~",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_love_a21/cut3",
+   "emotion": "amused",
    "lemmas": [
     [
      "커플",
@@ -127,69 +128,56 @@
      "keopeul"
     ],
     [
-     "봐",
-     "보다",
-     "boda"
+     "티",
+     "티",
+     "ti"
     ]
    ]
   },
   {
    "num": 6,
    "speaker": "D",
-   "ko": "사진 찍어드릴게요 여기 커플~",
-   "rd": "sajin jjigeodeurilgeyo yeogi keopeul~",
-   "en": "I'll take a picture, couple over here~",
-   "note": "사진",
+   "ko": "커플이시면 세트 할인돼요~",
+   "rd": "keopeurisimyeon seteu harindwaeyo~",
+   "en": "If you're a couple, there's a set discount~",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "cheerful",
    "lemmas": [
-    [
-     "사진",
-     "사진",
-     "sajin"
-    ],
-    [
-     "찍",
-     "찍다",
-     "jjikda"
-    ],
     [
      "커플",
      "커플",
      "keopeul"
+    ],
+    [
+     "세트",
+     "세트",
+     "seteu"
+    ],
+    [
+     "할인",
+     "할인",
+     "harin"
     ]
    ]
   },
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋ 사람 왜 이렇게 많아",
-   "rd": "ㅋㅋ saram wae ireoke mana",
-   "en": "Lol why are there so many people",
-   "note": "심쿵",
+   "ko": "ㅋㅋ 할인이래. 그냥 받을까? 😏",
+   "rd": "ㅋㅋ harinirae. geunyang badeulkka?",
+   "en": "Lol, a discount. Should we just take it?",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_love_a21/cut4",
+   "emotion": "teasing",
    "lemmas": [
     [
-     "사람",
-     "사람",
-     "saram"
-    ],
-    [
-     "왜",
-     "왜",
-     "wae"
-    ],
-    [
-     "이렇게",
-     "이렇게",
-     "ireoke"
-    ],
-    [
-     "많",
-     "많다",
-     "manta"
+     "할인",
+     "할인",
+     "harin"
     ]
    ]
   },
@@ -219,6 +207,7 @@
  "learner_gender": "M",
  "review": {
   "grok_rewrite": "data/review/r0_love_a21_grok_rewrite.md [K313]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

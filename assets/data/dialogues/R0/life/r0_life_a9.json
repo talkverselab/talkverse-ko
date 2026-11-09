@@ -148,13 +148,14 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "(전화) 아들, 엄마가 보냈고 이모도 보냈어!",
-   "rd": "(jeonhwa) adeul, eommaga bonaetgo imodo bonaesseo!",
-   "en": "(on the phone) Son, Mom sent them and Auntie did too!",
-   "note": "Kick: mom",
+   "ko": "(전화) 아들, 김치 보냈어. 이모 것도!",
+   "rd": "(jeonhwa) adeul, gimchi bonaesseo. imo geotdo!",
+   "en": "(on the phone) Son, I sent kimchi. Auntie's too!",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_life_a9/cut4",
+   "emotion": "cheerful",
    "lemmas": [
     [
      "아들",
@@ -162,9 +163,9 @@
      "adeul"
     ],
     [
-     "보냈",
-     "보내다",
-     "bonaeda"
+     "김치",
+     "김치",
+     "gimchi"
     ],
     [
      "보냈",
@@ -176,13 +177,19 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "네? 김치 열 통에 이모까지요? 😱",
-   "rd": "ne? gimchi yeol tonge imokkajiyo?",
-   "en": "What? Ten tubs of kimchi and Auntie too?",
-   "note": "punchline",
+   "ko": "네? 열 상자 다 김치예요? 😱",
+   "rd": "ne? yeol sangja da gimchiyeyo?",
+   "en": "What? All ten boxes are kimchi?",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "surprised",
    "lemmas": [
+    [
+     "상자",
+     "상자",
+     "sangja"
+    ],
     [
      "김치",
      "김치",
@@ -193,6 +200,7 @@
  ],
  "review": {
   "grok_rewrite": "data/review/r0_life_a9_grok_rewrite.md [K308]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

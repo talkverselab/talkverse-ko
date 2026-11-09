@@ -145,15 +145,16 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "완전 다르지 ㅋㅋ 친구들도 와서 옷 더 골라야 해",
-   "rd": "wanjeon dareuji ㅋㅋ chingudeuldo waseo ot deo gollaya hae",
-   "en": "Totally different lol Friends are coming too so I gotta pick more clothes",
-   "note": "다르다",
+   "ko": "완전 다르지 ㅋㅋ 친구한테 물어봤더니 넷 다 다르대",
+   "rd": "wanjeon dareuji ㅋㅋ chinguhante mureobwatdeoni net da dareudae",
+   "en": "Totally different lol I asked a friend and she says all four are different",
+   "note": "",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "17:02",
    "art": "scene/ko/r1_love_c13/cut3",
+   "emotion": "teasing",
    "lemmas": [
     [
      "완전",
@@ -171,19 +172,14 @@
      "chingu"
     ],
     [
-     "와",
-     "오다",
-     "oda"
+     "물어봤",
+     "물어보다",
+     "mureoboda"
     ],
     [
-     "옷",
-     "옷",
-     "ot"
-    ],
-    [
-     "골",
-     "고르다",
-     "goreuda"
+     "다르",
+     "다르다",
+     "dareuda"
     ]
    ]
   },
@@ -209,15 +205,16 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "그건 베이지야 ㅋㅋㅋ 카톡에 열 장이나 쌓였고 동생도 보냈어",
-   "rd": "geugeon beijiya ㅋㅋㅋ katoge yeol jangina ssayeotgo dongsaengdo bonaesseo",
-   "en": "That's the beige one lolol Already like ten in the chat and my sibling sent more",
-   "note": "chaos",
+   "ko": "그건 베이지야 ㅋㅋㅋ 네 셔츠 색 보내 봐",
+   "rd": "geugeon beijiya ㅋㅋㅋ ne syeocheu saek bonae bwa",
+   "en": "That's beige lol. Send me your shirt color.",
+   "note": "",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "17:03",
    "art": "scene/ko/r1_love_c13/cut4",
+   "emotion": "amused",
    "lemmas": [
     [
      "베이지야",
@@ -225,22 +222,17 @@
      "beijiya"
     ],
     [
-     "카톡",
-     "카톡",
-     "katok"
+     "셔츠",
+     "셔츠",
+     "syeocheu"
     ],
     [
-     "쌓였",
-     "쌓이다",
-     "ssaida"
+     "색",
+     "색",
+     "saek"
     ],
     [
-     "동생",
-     "동생",
-     "dongsaeng"
-    ],
-    [
-     "보냈",
+     "보내",
      "보내다",
      "bonaeda"
     ]
@@ -272,6 +264,7 @@
  "review": {
   "grok_rewrite": "data/review/r1_love_c13_grok_rewrite.md [K349]",
   "final": "",
-  "shorten": "data/review/r1_love_c13_grok_short.md [K414] 턴 [5, 7]"
+  "shorten": "data/review/r1_love_c13_grok_short.md [K414] 턴 [5, 7]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

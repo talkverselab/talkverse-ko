@@ -106,50 +106,57 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "잠깐만요 창가에 민준이도 있어요.",
-   "rd": "jamkkanmanyo changgae minjunido isseoyo.",
-   "en": "Wait, Minjun is by the window too.",
-   "note": "창가 = by the window",
+   "ko": "둘 다 걱정돼서 따라왔나 봐요.",
+   "rd": "dul da geokjeongdwaeseo ttarawanna bwayo.",
+   "en": "Looks like they both followed us out of worry.",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "amused",
    "lemmas": [
     [
-     "잠깐",
-     "잠깐",
-     "jamkkan"
+     "걱정",
+     "걱정",
+     "geokjeong"
     ],
     [
-     "창가",
-     "창가",
-     "changga"
+     "따라",
+     "따르다",
+     "ttareuda"
+    ],
+    [
+     "왔",
+     "오다",
+     "oda"
     ]
    ]
   },
   {
    "num": 5,
    "speaker": "B",
-   "ko": "헐 카운터에 언니도 있어요 진짜요?",
-   "rd": "heol kaunteoe eonnido isseoyo jinjjayo?",
-   "en": "Whoa my sister is at the counter too, really?",
-   "note": "Kick: the whole café is watching — chaos",
+   "ko": "헐, 근데 저 둘 지금 번호 교환해요.",
+   "rd": "heol, geunde jeo dul jigeum beonho gyohwanhaeyo.",
+   "en": "Whoa, but those two are swapping numbers right now.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_love_a6/cut3",
+   "emotion": "surprised",
    "lemmas": [
     [
-     "카운터",
-     "카운터",
-     "kaunteo"
+     "지금",
+     "지금",
+     "jigeum"
     ],
     [
-     "언니",
-     "언니",
-     "eonni"
+     "번호",
+     "번호",
+     "beonho"
     ],
     [
-     "진짜",
-     "진짜",
-     "jinjja"
+     "교환",
+     "교환",
+     "gyohwan"
     ]
    ]
   },
@@ -196,12 +203,13 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "좋아요 뛰어요!",
-   "rd": "joayo ttwieoyo!",
-   "en": "Okay, let's run!",
-   "note": "punchline",
+   "ko": "좋아요, 저 둘은 두고 가요!",
+   "rd": "joayo, jeo dureun dugo gayo!",
+   "en": "Okay, let's leave those two here!",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "cheerful",
    "lemmas": [
     [
      "좋",
@@ -209,9 +217,14 @@
      "jota"
     ],
     [
-     "뛰",
-     "뛰다",
-     "ttwida"
+     "두",
+     "두다",
+     "duda"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
     ]
    ]
   }
@@ -221,6 +234,7 @@
  "learner_gender": "M",
  "review": {
   "grok_rewrite": "data/review/r1_love_a6_grok_rewrite.md [K133]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

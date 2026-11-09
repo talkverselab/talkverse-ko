@@ -86,30 +86,31 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "고마워요 근데 이번 달 안 내도 돼요.",
-   "rd": "gomawoyo geunde ibeon dal an naedo dwaeyo.",
-   "en": "Thanks but you don't have to pay this month.",
-   "note": "안 내도 돼요 = no need to pay",
+   "ko": "고마워요. 근데 저녁에 반찬 좀 가져갈게요.",
+   "rd": "gomawoyo. geunde jeonyeoge banchan jom gajyeogalgeyo.",
+   "en": "Thank you. But I'll bring some side dishes over this evening.",
+   "note": "",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "09:13",
    "art": "scene/ko/r1_life_c2/cut2",
+   "emotion": "gentle",
    "lemmas": [
     [
-     "이번",
-     "이번",
-     "ibeon"
+     "저녁",
+     "저녁",
+     "jeonyeok"
     ],
     [
-     "달",
-     "달",
-     "dal"
+     "반찬",
+     "반찬",
+     "banchan"
     ],
     [
-     "내",
-     "내다",
-     "naeda"
+     "가져갈",
+     "가져가다",
+     "gajyeogada"
     ]
    ]
   },
@@ -194,15 +195,16 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "그 버튼 3년 동안 몰랐어요 돌려줄게요.",
-   "rd": "geu beoteun 3nyeon dongan mollasseoyo dollyeojulgeyo.",
-   "en": "Nobody knew that button for 3 years, I'll send it back.",
-   "note": "돌려주다 = give back",
+   "ko": "그 버튼 3년 동안 몰랐어요. 김치도 한 통 줄게요.",
+   "rd": "geu beoteun 3nyeon dongan mollasseoyo. gimchido han tong julgeyo.",
+   "en": "Nobody knew that button for 3 years. I'll give you a tub of kimchi too.",
+   "note": "",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "09:15",
    "art": "scene/ko/r1_life_c2/cut4",
+   "emotion": "cheerful",
    "lemmas": [
     [
      "버튼",
@@ -220,9 +222,19 @@
      "moreuda"
     ],
     [
-     "돌려",
-     "돌리다",
-     "dollida"
+     "김치",
+     "김치",
+     "gimchi"
+    ],
+    [
+     "통",
+     "통",
+     "tong"
+    ],
+    [
+     "줄",
+     "주다",
+     "juda"
     ]
    ]
   },
@@ -258,6 +270,7 @@
  ],
  "review": {
   "grok_rewrite": "data/review/r1_life_c2_grok_rewrite.md [K131]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

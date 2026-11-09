@@ -208,72 +208,95 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "따릉이 따릉이 타자!",
-   "rd": "ttareungi ttareungi taja!",
-   "en": "City bike let's take a 따릉이!",
-   "note": "callback 따릉이 — chaos",
+   "ko": "저기 편의점! 편의점 들어가자!",
+   "rd": "jeogi pyeonuijeom! pyeonuijeom deureogaja!",
+   "en": "Over there, a convenience store! Let's duck in!",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "excited",
    "lemmas": [
     [
-     "따릉이",
-     "따릉이",
-     "ttareungi"
+     "저기",
+     "저기",
+     "jeogi"
     ],
     [
-     "따릉이",
-     "따릉이",
-     "ttareungi"
+     "편의점",
+     "편의점",
+     "pyeonuijeom"
     ],
     [
-     "타",
-     "타다",
-     "tada"
+     "편의점",
+     "편의점",
+     "pyeonuijeom"
+    ],
+    [
+     "들어가",
+     "들어가다",
+     "deureogada"
     ]
    ]
   },
   {
    "num": 9,
    "speaker": "B",
-   "ko": "나 자전거 못 타는데? 😳",
-   "rd": "na jajeongeo mot taneunde?",
-   "en": "I can't ride a bike?",
-   "note": "Kick: chaos peak",
+   "ko": "편의점에 사람이 더 많은데? 😳",
+   "rd": "pyeonuijeome sarami deo maneunde?",
+   "en": "There are even more people in there?",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r2_love_b9/cut5",
+   "emotion": "flustered",
    "lemmas": [
     [
-     "자전거",
-     "자전거",
-     "jajeongeo"
+     "편의점",
+     "편의점",
+     "pyeonuijeom"
     ],
     [
-     "타",
-     "타다",
-     "tada"
+     "사람",
+     "사람",
+     "saram"
+    ],
+    [
+     "많",
+     "많다",
+     "manta"
     ]
    ]
   },
   {
    "num": 10,
    "speaker": "A",
-   "ko": "그럼 뒤에 타 내가 할게.",
-   "rd": "geureom dwie ta naega halge.",
-   "en": "Then ride behind I'll pedal.",
-   "note": "뒤에 타다 = ride on the back",
+   "ko": "그럼 컵라면 사서 구석에 앉자.",
+   "rd": "geureom keomnamyeon saseo guseoge anja.",
+   "en": "Then let's grab cup ramyeon and sit in the corner.",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "gentle",
    "lemmas": [
     [
-     "뒤",
-     "뒤",
-     "dwi"
+     "컵라면",
+     "컵라면",
+     "keomnamyeon"
     ],
     [
-     "타",
-     "타다",
-     "tada"
+     "사",
+     "사다",
+     "sada"
+    ],
+    [
+     "구석",
+     "구석",
+     "guseok"
+    ],
+    [
+     "앉",
+     "앉다",
+     "anda"
     ]
    ]
   },
@@ -298,27 +321,28 @@
   {
    "num": 12,
    "speaker": "A",
-   "ko": "그니까 근데 따릉이는 1인용이야 진짜?",
-   "rd": "geunikka geunde ttareungineun 1inyongiya jinjja?",
-   "en": "Right but a 따릉이 is for one person really?",
-   "note": "punchline",
+   "ko": "그니까 근데 마스크 쓰고 라면 어떻게 먹어?",
+   "rd": "geunikka geunde maseukeu sseugo ramyeon eotteoke meogeo?",
+   "en": "Right, but how are you gonna eat ramyeon with a mask on?",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "teasing",
    "lemmas": [
     [
-     "따릉이",
-     "따릉이",
-     "ttareungi"
+     "마스크",
+     "마스크",
+     "maseukeu"
     ],
     [
-     "인",
-     "인",
-     "in"
+     "쓰",
+     "쓰다",
+     "sseuda"
     ],
     [
-     "진짜",
-     "진짜",
-     "jinjja"
+     "먹",
+     "먹다",
+     "meokda"
     ]
    ]
   }
@@ -326,6 +350,7 @@
  "learner_gender": "F",
  "review": {
   "grok_rewrite": "data/review/r2_love_b9_grok_rewrite.md [K157]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

@@ -147,19 +147,14 @@
   {
    "num": 6,
    "speaker": "D",
-   "ko": "태오다!! 다 모여!!",
-   "rd": "taeoda!! da moyeo!!",
-   "en": "It's Taeo!! Everyone come!!",
-   "note": "Kick: chaos",
+   "ko": "태오 씨! 저희도 한 장만요!",
+   "rd": "taeo ssi! jeohuido han jangmanyo!",
+   "en": "Taeo! Just one photo with us too!",
+   "note": "",
    "tags": [],
    "new": [],
-   "lemmas": [
-    [
-     "모여",
-     "모이다",
-     "moida"
-    ]
-   ]
+   "emotion": "excited",
+   "lemmas": []
   },
   {
    "num": 7,
@@ -187,22 +182,28 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "와… 사진에 백 명 넘게.",
-   "rd": "wa… sajine baek myeong neomge.",
-   "en": "Wow… over a hundred people in the photo.",
-   "note": "punchline",
+   "ko": "와… 셀카에 모르는 사람 다섯 명.",
+   "rd": "wa… selkae moreuneun saram daseot myeong.",
+   "en": "Wow… five strangers in our selfie.",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "amused",
    "lemmas": [
     [
-     "사진",
-     "사진",
-     "sajin"
+     "셀카",
+     "셀카",
+     "selka"
     ],
     [
-     "넘",
-     "넘다",
-     "neomda"
+     "모르",
+     "모르다",
+     "moreuda"
+    ],
+    [
+     "사람",
+     "사람",
+     "saram"
     ]
    ]
   }
@@ -210,6 +211,7 @@
  "learner_gender": "F",
  "review": {
   "grok_rewrite": "data/review/r0_love_a20_grok_rewrite.md [K312]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

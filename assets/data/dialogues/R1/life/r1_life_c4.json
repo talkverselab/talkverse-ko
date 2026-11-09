@@ -112,14 +112,15 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "[영상] 잠깐 이거 고양이잖아 ㅋㅋ 택배 물고 뛰는 중",
-   "rd": "[yeongsang] jamkkan igeo goyangijana ㅋㅋ taekbae mulgo ttwineun jung",
-   "en": "[video] Wait this is a cat lol It's running off with the package",
-   "note": "Kick",
+   "ko": "[영상] 잠깐 기사님이 옆집 앞에 놨어 ㅋㅋ",
+   "rd": "[yeongsang] jamkkan gisanimi yeopjip ape nwasseo ㅋㅋ",
+   "en": "[video] Wait, the delivery guy left it in front of next door lol",
+   "note": "",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "18:05",
+   "emotion": "amused",
    "lemmas": [
     [
      "영상",
@@ -132,73 +133,70 @@
      "jamkkan"
     ],
     [
-     "고양이",
-     "고양이",
-     "goyangi"
+     "기사",
+     "기사",
+     "gisa"
     ],
     [
-     "택배",
-     "택배",
-     "taekbae"
+     "옆",
+     "옆",
+     "yeop"
     ],
     [
-     "물",
-     "물다",
-     "mulda"
+     "집",
+     "집",
+     "jip"
     ],
     [
-     "뛰",
-     "뛰다",
-     "ttwida"
+     "앞",
+     "앞",
+     "ap"
     ]
    ]
   },
   {
    "num": 5,
    "speaker": "A",
-   "ko": "고양이가 택배 훔친 거임?? 진짜?",
-   "rd": "goyangiga taekbae humchin geoim?? jinjja?",
-   "en": "The cat stole the package?? For real?",
-   "note": "chaos",
+   "ko": "옆집? 진짜? 근데 왜 없어??",
+   "rd": "yeopjip? jinjja? geunde wae eopseo??",
+   "en": "Next door? For real? Then why isn't it there??",
+   "note": "",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "18:05",
    "art": "scene/ko/r1_life_c4/cut3",
+   "emotion": "surprised",
    "lemmas": [
     [
-     "고양이",
-     "고양이",
-     "goyangi"
-    ],
-    [
-     "택배",
-     "택배",
-     "taekbae"
-    ],
-    [
-     "훔친",
-     "훔치다",
-     "humchida"
+     "옆집",
+     "옆집",
+     "yeopjip"
     ],
     [
      "진짜",
      "진짜",
      "jinjja"
+    ],
+    [
+     "왜",
+     "왜",
+     "wae"
     ]
    ]
   },
   {
    "num": 6,
    "speaker": "C",
-   "ko": "옆집 그 고양이 맞아 박스만 보면 그냥 훔쳐",
-   "rd": "yeopjip geu goyangi maja bakseuman bomyeon geunyang humchyeo",
-   "en": "Yeah that's the neighbor's cat It just steals anything with a box",
+   "ko": "옆집 고양이가 그 박스 위에서 자고 있어 ㅋㅋ",
+   "rd": "yeopjip goyangiga geu bakseu wieseo jago isseo ㅋㅋ",
+   "en": "The neighbor's cat is sleeping on top of that box lol",
    "note": "박스",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "18:06",
+   "emotion": "amused",
    "lemmas": [
     [
      "옆집",
@@ -211,55 +209,36 @@
      "goyangi"
     ],
     [
-     "맞",
-     "맞다",
-     "matda"
-    ],
-    [
      "박스",
      "박스",
      "bakseu"
     ],
     [
-     "보",
-     "보다",
-     "boda"
+     "위",
+     "위",
+     "wi"
     ],
     [
-     "훔쳐",
-     "훔치다",
-     "humchida"
+     "자",
+     "자다",
+     "jada"
     ]
    ]
   },
   {
    "num": 7,
    "speaker": "B",
-   "ko": "박스 안서 자고 있대 옆집 누나도 택배 없어졌대 ㅋㅋ",
-   "rd": "bakseu anseo jago itdae yeopjip nunado taekbae eopseojyeotdae ㅋㅋ",
-   "en": "It's sleeping in the box now lol the neighbor girl's package is gone too",
-   "note": "chaos",
+   "ko": "옆집 누나가 고양이 안 비킨대 ㅋㅋ 사진 보냈어",
+   "rd": "yeopjip nunaga goyangi an bikindae ㅋㅋ sajin bonaesseo",
+   "en": "The neighbor says the cat won't move lol she sent a photo",
+   "note": "",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "18:06",
    "art": "scene/ko/r1_life_c4/cut4",
+   "emotion": "teasing",
    "lemmas": [
-    [
-     "박스",
-     "박스",
-     "bakseu"
-    ],
-    [
-     "서",
-     "서",
-     "seo"
-    ],
-    [
-     "자",
-     "자다",
-     "jada"
-    ],
     [
      "옆집",
      "옆집",
@@ -271,9 +250,24 @@
      "nuna"
     ],
     [
-     "택배",
-     "택배",
-     "taekbae"
+     "고양이",
+     "고양이",
+     "goyangi"
+    ],
+    [
+     "비킨",
+     "비키다",
+     "bikida"
+    ],
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "보냈",
+     "보내다",
+     "bonaeda"
     ]
    ]
   },
@@ -315,6 +309,7 @@
  "review": {
   "grok_rewrite": "data/review/r1_life_c4_grok_rewrite.md [K339]",
   "final": "",
-  "shorten": "data/review/r1_life_c4_grok_short.md [K411] 턴 [7]"
+  "shorten": "data/review/r1_life_c4_grok_short.md [K411] 턴 [7]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

@@ -129,23 +129,34 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "(파도) 쏴아아— 더 크게!",
-   "rd": "(pado) sswaaa— deo keuge!",
-   "en": "(wave) Whoosh— even bigger!",
-   "note": "Kick: chaos",
+   "ko": "(옆 사람) 어어, 큰 파도 와요! 뒤로요!",
+   "rd": "(yeop saram) eoeo, keun pado wayo! dwiroyo!",
+   "en": "(bystander) Whoa, big wave coming! Step back!",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_travel_a5/cut3",
+   "emotion": "shout",
    "lemmas": [
     [
-     "쏴아",
-     "쏴아",
-     "sswaa"
+     "어어",
+     "어어",
+     "eoeo"
     ],
     [
-     "크",
+     "큰",
      "크다",
      "keuda"
+    ],
+    [
+     "와",
+     "오다",
+     "oda"
+    ],
+    [
+     "뒤",
+     "뒤",
+     "dwi"
     ]
    ]
   },
@@ -244,6 +255,7 @@
  ],
  "review": {
   "grok_rewrite": "data/review/r1_travel_a5_grok_rewrite.md [K223]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

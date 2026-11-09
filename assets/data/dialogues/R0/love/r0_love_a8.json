@@ -108,64 +108,89 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "또 쏟았어요 헐!",
-   "rd": "tto ssodasseoyo heol!",
-   "en": "I spilled it again, whoa!",
-   "note": "Kick: chaos begins",
+   "ko": "헐, 닦다가 또 쏟았어요!",
+   "rd": "heol, dakdaga tto ssodasseoyo!",
+   "en": "Whoa, I spilled it again while wiping!",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_love_a8/cut3",
-   "lemmas": []
+   "emotion": "flustered",
+   "lemmas": [
+    [
+     "닦",
+     "닦다",
+     "dakda"
+    ]
+   ]
   },
   {
    "num": 6,
    "speaker": "C",
-   "ko": "어머 저도 죄송해요!",
-   "rd": "eomeo jeodo joesonghaeyo!",
-   "en": "Oh my, I'm sorry too!",
-   "note": "a third person",
+   "ko": "어머, 휴지 여기 있어요!",
+   "rd": "eomeo, hyuji yeogi isseoyo!",
+   "en": "Oh my, here are some napkins!",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "surprised",
    "lemmas": [
     [
-     "죄송",
-     "죄송",
-     "joesong"
+     "휴지",
+     "휴지",
+     "hyuji"
     ]
    ]
   },
   {
    "num": 7,
    "speaker": "B",
-   "ko": "헐 다 커피네요... 😄",
-   "rd": "heol da keopineyo...",
-   "en": "Whoa, we're all coffee now...",
-   "note": "셋 다 = all three",
+   "ko": "ㅋㅋ 커피 말고 번호 주세요. 😄",
+   "rd": "ㅋㅋ keopi malgo beonho juseyo.",
+   "en": "Lol, give me your number instead of coffee.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_love_a8/cut4",
+   "emotion": "teasing",
    "lemmas": [
     [
      "커피",
      "커피",
      "keopi"
+    ],
+    [
+     "말",
+     "말다",
+     "malda"
+    ],
+    [
+     "번호",
+     "번호",
+     "beonho"
+    ],
+    [
+     "주",
+     "주다",
+     "juda"
     ]
    ]
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "세 잔 사 드릴게요...",
-   "rd": "se jan sa deurilgeyo...",
-   "en": "I'll buy three cups...",
-   "note": "punchline",
+   "ko": "네? 커피도 사 드릴게요...",
+   "rd": "ne? keopido sa deurilgeyo...",
+   "en": "What? I'll buy you a coffee too...",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "flustered",
    "lemmas": [
     [
-     "잔",
-     "잔",
-     "jan"
+     "커피",
+     "커피",
+     "keopi"
     ],
     [
      "사",
@@ -180,6 +205,7 @@
  "learner_gender": "M",
  "review": {
   "grok_rewrite": "data/review/r0_love_a8_grok_rewrite.md [K118]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

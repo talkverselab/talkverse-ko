@@ -128,23 +128,29 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "(10분 뒤) 백 명 넘어서 정신없어요.",
-   "rd": "(10bun dwi) baek myeong neomeoseo jeongsineopseoyo.",
-   "en": "(10 min later) Over a hundred people, it’s total chaos.",
-   "note": "50명",
+   "ko": "(10분 뒤) 벌써 열 팀째예요. 정신없어요.",
+   "rd": "(10bun dwi) beolsseo yeol timjjaeyeyo. jeongsineopseoyo.",
+   "en": "(10 min later) That's the tenth group already. It's total chaos.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_culture_a4/cut3",
+   "emotion": "flustered",
    "lemmas": [
     [
-     "넘",
-     "넘다",
-     "neomda"
+     "벌써",
+     "벌써",
+     "beolsseo"
     ],
     [
-     "정신",
-     "정신",
-     "jeongsin"
+     "팀",
+     "팀",
+     "tim"
+    ],
+    [
+     "정신없",
+     "정신없다",
+     "jeongsineopda"
     ]
    ]
   },
@@ -228,6 +234,7 @@
  ],
  "review": {
   "grok_rewrite": "data/review/r0_culture_a4_grok_rewrite.md [K171]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

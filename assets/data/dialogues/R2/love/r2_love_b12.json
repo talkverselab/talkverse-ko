@@ -132,12 +132,13 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "스테이크 하나에 30만 원이야. 진짜?",
-   "rd": "seuteikeu hanae 30man woniya. jinjja?",
-   "en": "One steak is 300,000 won. For real?",
-   "note": "Kick setup",
+   "ko": "스테이크 하나에 15만 원이야. 진짜?",
+   "rd": "seuteikeu hanae 15man woniya. jinjja?",
+   "en": "One steak is 150,000 won. For real?",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "surprised",
    "lemmas": [
     [
      "스테이크",
@@ -248,13 +249,47 @@
   {
    "num": 9,
    "speaker": "C",
-   "ko": "물은 무료예요~ 근데 주문하신 샴페인 타워 지금 나오고 있어요.",
-   "rd": "mureun muryoyeyo~ geunde jumunhasin syampein tawo jigeum naogo isseoyo.",
-   "en": "Water's free~ But the champagne tower you ordered is coming out now.",
-   "note": "chaos",
+   "ko": "주문 도와드릴까요? 물은 탄산수만 있고 한 병에 만 원이에요.",
+   "rd": "jumun dowadeurilkkayo? mureun tansansuman itgo han byeonge man wonieyo.",
+   "en": "Ready to order? We only have sparkling water, 10,000 won a bottle.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r2_love_b12/cut5",
+   "emotion": "polite",
+   "lemmas": [
+    [
+     "주문",
+     "주문",
+     "jumun"
+    ],
+    [
+     "물",
+     "물",
+     "mul"
+    ],
+    [
+     "탄산수",
+     "탄산수",
+     "tansansu"
+    ],
+    [
+     "병",
+     "병",
+     "byeong"
+    ]
+   ]
+  },
+  {
+   "num": 10,
+   "speaker": "B",
+   "ko": "물도 돈 받아요? 잠깐만요!",
+   "rd": "muldo don badayo? jamkkanmanyo!",
+   "en": "You charge for water too? Wait a sec!",
+   "note": "",
+   "tags": [],
+   "new": [],
+   "emotion": "surprised",
    "lemmas": [
     [
      "물",
@@ -262,56 +297,9 @@
      "mul"
     ],
     [
-     "무료",
-     "무료",
-     "muryo"
-    ],
-    [
-     "주문",
-     "주문",
-     "jumun"
-    ],
-    [
-     "샴페인",
-     "샴페인",
-     "syampein"
-    ],
-    [
-     "타워",
-     "타워",
-     "tawo"
-    ],
-    [
-     "지금",
-     "지금",
-     "jigeum"
-    ],
-    [
-     "나오",
-     "나오다",
-     "naoda"
-    ]
-   ]
-  },
-  {
-   "num": 10,
-   "speaker": "B",
-   "ko": "뭐? 우리 안 시켰는데. 잠깐만!",
-   "rd": "mwo? uri an sikyeonneunde. jamkkanman!",
-   "en": "What? We didn't order that. Wait a sec!",
-   "note": "joke",
-   "tags": [],
-   "new": [],
-   "lemmas": [
-    [
-     "뭐",
-     "뭐",
-     "mwo"
-    ],
-    [
-     "시켰",
-     "시키다",
-     "sikida"
+     "돈",
+     "돈",
+     "don"
     ],
     [
      "잠깐",
@@ -323,14 +311,35 @@
   {
    "num": 11,
    "speaker": "A",
-   "ko": "헐 이거 어떻게 해. 일어나, 떡볶이는 내가 쏠게.",
-   "rd": "heol igeo eotteoke hae. ireona, tteokbokkineun naega ssolge.",
-   "en": "Whoa what do we do. Get up, tteokbokki's on me.",
-   "note": "심쿵",
+   "ko": "헐 물값이 떡볶이값이야. 일어나, 떡볶이는 내가 쏠게.",
+   "rd": "heol mulgapsi tteokbokkigapsiya. ireona, tteokbokkineun naega ssolge.",
+   "en": "Whoa, the water costs as much as tteokbokki. Get up, tteokbokki's on me.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r2_love_b12/cut6",
+   "emotion": "amused",
    "lemmas": [
+    [
+     "물",
+     "물",
+     "mul"
+    ],
+    [
+     "값",
+     "값",
+     "gap"
+    ],
+    [
+     "떡볶이",
+     "떡볶이",
+     "tteokbokki"
+    ],
+    [
+     "값",
+     "값",
+     "gap"
+    ],
     [
      "일어나",
      "일어나다",
@@ -399,6 +408,7 @@
  "learner_gender": "F",
  "review": {
   "grok_rewrite": "data/review/r2_love_b12_grok_rewrite.md [K367]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

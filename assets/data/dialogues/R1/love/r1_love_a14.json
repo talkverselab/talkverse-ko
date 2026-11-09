@@ -129,28 +129,19 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "(쾅) 거울 깨졌어! 거울!",
-   "rd": "(kwang) geoul kkaejyeosseo! geoul!",
-   "en": "(crash) The mirror broke! The mirror!",
-   "note": "chaos",
+   "ko": "(쿵) 헐, 둘 다 넘어졌어!",
+   "rd": "(kung) heol, dul da neomeojyeosseo!",
+   "en": "(thud) Whoa, you both fell!",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_love_a14/cut3",
+   "emotion": "surprised",
    "lemmas": [
     [
-     "거울",
-     "거울",
-     "geoul"
-    ],
-    [
-     "깨졌",
-     "깨지다",
-     "kkaejida"
-    ],
-    [
-     "거울",
-     "거울",
-     "geoul"
+     "넘어졌",
+     "넘어지다",
+     "neomeojida"
     ]
    ]
   },
@@ -179,23 +170,29 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "응… 근데 거울 200만 원이라며. 진짜?",
-   "rd": "eung… geunde geoul 200man woniramyeo. jinjja?",
-   "en": "Yeah… but the mirror's 2 million, really?",
-   "note": "callback",
+   "ko": "응… 근데 나 네 발 밟았지? 미안.",
+   "rd": "eung… geunde na ne bal balbatji? mian.",
+   "en": "Yeah… but I stepped on your foot, right? Sorry.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_love_a14/cut4",
+   "emotion": "flustered",
    "lemmas": [
     [
-     "거울",
-     "거울",
-     "geoul"
+     "발",
+     "발",
+     "bal"
     ],
     [
-     "진짜",
-     "진짜",
-     "jinjja"
+     "밟",
+     "밟다",
+     "balda"
+    ],
+    [
+     "미안",
+     "미안",
+     "mian"
     ]
    ]
   },
@@ -225,6 +222,7 @@
  "learner_gender": "F",
  "review": {
   "grok_rewrite": "data/review/r1_love_a14_grok_rewrite.md [K218]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

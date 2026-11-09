@@ -33,15 +33,16 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "(메일) 교수님 안녕하세요 {name}예요 과제 여쭤볼 게 있어요",
-   "rd": "(meil) gyosunim annyeonghaseyo {name}yeyo gwaje yeojjwobol ge isseoyo",
-   "en": "(email) Hi Professor, this is {name}. I’ve got something to ask about the assignment.",
-   "note": "질문",
+   "ko": "(메일) 교수님 안녕하세요. {name}입니다. 과제 관련해 여쭤볼 게 있습니다.",
+   "rd": "(meil) gyosunim annyeonghaseyo. {name}imnida. gwaje gwallyeonhae yeojjwobol ge itseumnida.",
+   "en": "(email) Hello Professor, this is {name}. I have a question about the assignment.",
+   "note": "",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "23:00",
    "art": "scene/ko/r1_study_c2/cut1",
+   "emotion": "polite",
    "lemmas": [
     [
      "교수",
@@ -57,6 +58,11 @@
      "과제",
      "과제",
      "gwaje"
+    ],
+    [
+     "관련",
+     "관련",
+     "gwallyeon"
     ],
     [
      "여쭤",
@@ -122,14 +128,15 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "(카톡) 헐 교수님 채점하다 메일 보시는 거야? 야행성 감시자",
-   "rd": "(katok) heol gyosunim chaejeomhada meil bosineun geoya? yahaengseong gamsija",
-   "en": "(Kakao) Whoa, is the professor looking at emails while grading? Night-owl watcher.",
-   "note": "주무시다",
+   "ko": "(카톡) 헐 교수님 지금 채점하시나 봐",
+   "rd": "(katok) heol gyosunim jigeum chaejeomhasina bwa",
+   "en": "(Kakao) Whoa, the professor must be grading right now",
+   "note": "",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "23:01",
+   "emotion": "surprised",
    "lemmas": [
     [
      "교수",
@@ -137,45 +144,36 @@
      "gyosu"
     ],
     [
+     "지금",
+     "지금",
+     "jigeum"
+    ],
+    [
      "채점",
      "채점",
      "chaejeom"
-    ],
-    [
-     "메일",
-     "메일",
-     "meil"
-    ],
-    [
-     "보",
-     "보다",
-     "boda"
-    ],
-    [
-     "야행",
-     "야행",
-     "yahaeng"
-    ],
-    [
-     "감시자",
-     "감시자",
-     "gamsija"
     ]
    ]
   },
   {
    "num": 5,
    "speaker": "B",
-   "ko": "(메일) 나도 지금 과제 채점하고 있어",
-   "rd": "(meil) nado jigeum gwaje chaejeomhago isseo",
-   "en": "(email) I’m grading assignments right now too.",
-   "note": "Kick",
+   "ko": "(메일) 마침 지금 과제를 채점하고 있어요.",
+   "rd": "(meil) machim jigeum gwajereul chaejeomhago isseoyo.",
+   "en": "(email) As it happens, I'm grading the assignments right now.",
+   "note": "",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "23:02",
    "art": "scene/ko/r1_study_c2/cut3",
+   "emotion": "neutral",
    "lemmas": [
+    [
+     "마침",
+     "마침",
+     "machim"
+    ],
     [
      "지금",
      "지금",
@@ -225,20 +223,31 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "(메일) 응 지금 네 거 보고 있어",
-   "rd": "(meil) eung jigeum ne geo bogo isseo",
-   "en": "(email) Yeah, looking at yours now.",
-   "note": "Kick: chaos-ish",
+   "ko": "(메일) 네, 지금 {name} 학생 과제 보고 있어요.",
+   "rd": "(meil) ne, jigeum {name} haksaeng gwaje bogo isseoyo.",
+   "en": "(email) Yes, I'm looking at your assignment right now.",
+   "note": "",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "23:03",
    "art": "scene/ko/r1_study_c2/cut4",
+   "emotion": "polite",
    "lemmas": [
     [
      "지금",
      "지금",
      "jigeum"
+    ],
+    [
+     "학생",
+     "학생",
+     "haksaeng"
+    ],
+    [
+     "과제",
+     "과제",
+     "gwaje"
     ],
     [
      "보",
@@ -291,6 +300,7 @@
   "grok_rewrite": "data/review/r1_study_c2_grok_rewrite.md [K351]",
   "final": "",
   "shorten": "data/review/r1_study_c2_grok_short.md [K415] 턴 [1, 4, 8]",
-  "manual": "턴 8 어절 1개 덜어냄(세션)"
+  "manual": "턴 8 어절 1개 덜어냄(세션)",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

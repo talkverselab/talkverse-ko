@@ -19,7 +19,7 @@
  },
  "register": "chat",
  "twist": 5,
- "twist_type": "chaos",
+ "twist_type": "emotion",
  "flags": [],
  "kdrama": "",
  "expressions": [
@@ -46,6 +46,11 @@
      "배고파",
      "배고프다",
      "baegopeuda"
+    ],
+    [
+     "죽",
+     "죽다",
+     "jukda"
     ]
    ]
   },
@@ -120,20 +125,21 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "친구들이랑 집 앞이야",
-   "rd": "chingudeurirang jip apiya",
-   "en": "Outside with friends",
-   "note": "Kick: chaos",
+   "ko": "나 지금 너네 집 앞 편의점이야",
+   "rd": "na jigeum neone jip ap pyeonuijeomiya",
+   "en": "I'm at the convenience store by your place right now",
+   "note": "",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "00:03",
    "art": "scene/ko/r0_love_c9/cut3",
+   "emotion": "teasing",
    "lemmas": [
     [
-     "친구",
-     "친구",
-     "chingu"
+     "지금",
+     "지금",
+     "jigeum"
     ],
     [
      "집",
@@ -144,6 +150,11 @@
      "앞",
      "앞",
      "ap"
+    ],
+    [
+     "편의점",
+     "편의점",
+     "pyeonuijeom"
     ]
    ]
   },
@@ -169,35 +180,31 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "라면 열 개랑 치킨 사 왔어",
-   "rd": "ramyeon yeol gaerang chikin sa wasseo",
-   "en": "Bought ten ramyeon and chicken",
+   "ko": "컵라면 두 개 샀어. 나와",
+   "rd": "keomnamyeon du gae sasseo. nawa",
+   "en": "I bought two cup ramyeon. Come out",
    "note": "라면",
    "tags": [],
    "new": [],
    "ui": "bubble",
    "at": "00:03",
    "art": "scene/ko/r0_love_c9/cut4",
+   "emotion": "gentle",
    "lemmas": [
     [
-     "라면",
-     "라면",
-     "ramyeon"
+     "컵라면",
+     "컵라면",
+     "keomnamyeon"
     ],
     [
-     "치킨",
-     "치킨",
-     "chikin"
-    ],
-    [
-     "사",
+     "샀",
      "사다",
      "sada"
     ],
     [
-     "왔",
-     "오다",
-     "oda"
+     "나와",
+     "나오다",
+     "naoda"
     ]
    ]
   },
@@ -231,6 +238,7 @@
  "learner_gender": "M",
  "review": {
   "grok_rewrite": "data/review/r0_love_c9_grok_rewrite.md [K316]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

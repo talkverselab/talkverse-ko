@@ -66,22 +66,18 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "뭐야… 드라마 찍는 거야, 진짜?",
-   "rd": "mwoya… deurama jjingneun geoya, jinjja?",
-   "en": "Wait… are we filming a drama, for real?",
-   "note": "드라마",
+   "ko": "뭐야… 엄마한테 거짓말하자고, 진짜?",
+   "rd": "mwoya… eommahante geojitmalhajago, jinjja?",
+   "en": "What… you want to lie to your mom, for real?",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "surprised",
    "lemmas": [
     [
-     "드라마",
-     "드라마",
-     "deurama"
-    ],
-    [
-     "찍",
-     "찍다",
-     "jjikda"
+     "거짓말",
+     "거짓말",
+     "geojinmal"
     ],
     [
      "진짜",
@@ -131,12 +127,13 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "설마 계약서까지 준비한 건 아니지? 😤",
-   "rd": "seolma gyeyakseokkaji junbihan geon aniji?",
-   "en": "Don't tell me you even prepared a contract?",
+   "ko": "설마 규칙까지 정해 온 건 아니지? 😤",
+   "rd": "seolma gyuchikkkaji jeonghae on geon aniji?",
+   "en": "Don't tell me you even came with rules?",
    "note": "설마",
    "tags": [],
    "new": [],
+   "emotion": "tsukkomi",
    "lemmas": [
     [
      "설마",
@@ -144,27 +141,28 @@
      "seolma"
     ],
     [
-     "계약서",
-     "계약서",
-     "gyeyakseo"
+     "규칙",
+     "규칙",
+     "gyuchik"
     ],
     [
-     "준비",
-     "준비",
-     "junbi"
+     "정해",
+     "정하다",
+     "jeonghada"
     ]
    ]
   },
   {
    "num": 5,
    "speaker": "B",
-   "ko": "응. (종이 내밀며) 손잡는 건 괜찮아. 근데 진짜로 좋아하는 건 안 돼.",
-   "rd": "eung. (jongi naemilmyeo) sonjamneun geon gwaenchana. geunde jinjjaro joahaneun geon an dwae.",
-   "en": "Yep. (holds out paper) Holding hands is fine. But actually liking each other is not allowed.",
-   "note": "조건",
+   "ko": "응. 손잡는 건 괜찮아. 근데 진짜로 좋아하는 건 안 돼.",
+   "rd": "eung. sonjamneun geon gwaenchana. geunde jinjjaro joahaneun geon an dwae.",
+   "en": "Yep. Holding hands is fine. But actually liking each other is not allowed.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r2_love_b10/cut3",
+   "emotion": "teasing",
    "lemmas": [
     [
      "손",
@@ -396,6 +394,7 @@
  "learner_gender": "M",
  "review": {
   "grok_rewrite": "data/review/r2_love_b10_grok_rewrite.md [K365]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

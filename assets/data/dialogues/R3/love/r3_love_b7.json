@@ -164,28 +164,39 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "일시적 기억상실이에요. 익숙한 거 빨리 보여 주세요. 다른 것도 가져와.",
-   "rd": "ilsijeok gieoksangsirieyo. iksukan geo ppalli boyeo juseyo. dareun geotdo gajyeowa.",
-   "en": "It's temporary amnesia. Show her familiar stuff quick. Bring more too.",
-   "note": "기억상실",
+   "ko": "검사는 다 정상이에요. 놀라서 잠깐 헷갈리실 수 있어요. 익숙한 걸 보여 주세요.",
+   "rd": "geomsaneun da jeongsangieyo. nollaseo jamkkan hetgallisil su isseoyo. iksukan geol boyeo juseyo.",
+   "en": "The tests are all normal. She may just be confused from the shock. Show her something familiar.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r3_love_b7/cut3",
+   "emotion": "gentle",
    "lemmas": [
     [
-     "일시",
-     "일시",
-     "ilsi"
+     "검사",
+     "검사",
+     "geomsa"
     ],
     [
-     "기억",
-     "기억",
-     "gieok"
+     "정상",
+     "정상",
+     "jeongsang"
     ],
     [
-     "상실",
-     "상실",
-     "sangsil"
+     "놀라",
+     "놀라다",
+     "nollada"
+    ],
+    [
+     "잠깐",
+     "잠깐",
+     "jamkkan"
+    ],
+    [
+     "헷갈리",
+     "헷갈리다",
+     "hetgallida"
     ],
     [
      "익숙",
@@ -193,19 +204,9 @@
      "iksuk"
     ],
     [
-     "빨리",
-     "빨리",
-     "ppalli"
-    ],
-    [
      "보여",
      "보이다",
      "boida"
-    ],
-    [
-     "가져와",
-     "가져오다",
-     "gajyeooda"
     ]
    ]
   },
@@ -473,13 +474,14 @@
   {
    "num": 13,
    "speaker": "B",
-   "ko": "다 기억나. 손목만 삐었어. 의사 선생님이랑 간호사들이랑 다 짰어. 너 반응 보느라고 여기까지 왔어.",
-   "rd": "da gieongna. sonmongman ppieosseo. uisa seonsaengnimirang ganhosadeurirang da jjasseo. neo baneung boneurago yeogikkaji wasseo.",
-   "en": "I remember everything. Just sprained my wrist. Me, the doctor, and the nurses all planned it. We came all the way here to see your reaction.",
-   "note": "Kick: chaos",
+   "ko": "다 기억나. 손목만 삐었어. 너 반응 보고 싶어서 연기한 거야.",
+   "rd": "da gieongna. sonmongman ppieosseo. neo baneung bogo sipeoseo yeongihan geoya.",
+   "en": "I remember everything. I just sprained my wrist. I was acting because I wanted to see how you'd react.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r3_love_b7/cut7",
+   "emotion": "teasing",
    "lemmas": [
     [
      "기억",
@@ -502,21 +504,6 @@
      "ppida"
     ],
     [
-     "선생",
-     "선생",
-     "seonsaeng"
-    ],
-    [
-     "간호사",
-     "간호사",
-     "ganhosa"
-    ],
-    [
-     "짰",
-     "짜다",
-     "jjada"
-    ],
-    [
      "반응",
      "반응",
      "baneung"
@@ -527,46 +514,32 @@
      "boda"
     ],
     [
-     "왔",
-     "오다",
-     "oda"
+     "연기",
+     "연기",
+     "yeongi"
     ]
    ]
   },
   {
    "num": 14,
    "speaker": "C",
-   "ko": "죄송합니다. 드라마 팬이라서요. 저도 모르게 과하게… 다른 환자들도 보고 있어요.",
-   "rd": "joesonghamnida. deurama paeniraseoyo. jeodo moreuge gwahage… dareun hwanjadeuldo bogo isseoyo.",
-   "en": "Sorry. I'm a drama fan. It got a bit much… other patients are watching too.",
-   "note": "chaos",
+   "ko": "보호자분, 여기 응급실이에요. 다른 환자분들도 계세요.",
+   "rd": "bohojabun, yeogi eunggeupsirieyo. dareun hwanjabundeuldo gyeseyo.",
+   "en": "Excuse me, this is the ER. There are other patients here too.",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "annoyed",
    "lemmas": [
     [
-     "죄송",
-     "죄송",
-     "joesong"
+     "보호자",
+     "보호자",
+     "bohoja"
     ],
     [
-     "드라마",
-     "드라마",
-     "deurama"
-    ],
-    [
-     "팬",
-     "팬",
-     "paen"
-    ],
-    [
-     "모르",
-     "모르다",
-     "moreuda"
-    ],
-    [
-     "과하",
-     "과하다",
-     "gwahada"
+     "응급실",
+     "응급실",
+     "eunggeupsil"
     ],
     [
      "환자",
@@ -574,9 +547,9 @@
      "hwanja"
     ],
     [
-     "보",
-     "보다",
-     "boda"
+     "계",
+     "계",
+     "gye"
     ]
    ]
   },
@@ -680,6 +653,7 @@
  "review": {
   "grok_rewrite": "data/review/r3_love_b7_grok_rewrite.md [K374]",
   "final": "",
-  "shorten": "data/review/r3_love_b7_grok_tail.md [K425] 턴 [15, 16]"
+  "shorten": "data/review/r3_love_b7_grok_tail.md [K425] 턴 [15, 16]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

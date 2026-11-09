@@ -171,13 +171,14 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "그리고 계란은 이마에 깨는 거예요. 드라마처럼.",
-   "rd": "geurigo gyeraneun imae kkaeneun geoyeyo. deuramacheoreom.",
-   "en": "And you crack the egg on your forehead. Like in dramas.",
-   "note": "the jjimjilbang egg-on-forehead ritual",
+   "ko": "(매점에서) 계란 주세요. …네, 네, 네.",
+   "rd": "(maejeomeseo) gyeran juseyo. …ne, ne, ne.",
+   "en": "(at the snack bar) Eggs, please. …Yes, yes, yes.",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_travel_a1/cut4",
+   "emotion": "polite",
    "lemmas": [
     [
      "계란",
@@ -185,36 +186,32 @@
      "gyeran"
     ],
     [
-     "이마",
-     "이마",
-     "ima"
-    ],
-    [
-     "깨",
-     "깨다",
-     "kkaeda"
-    ],
-    [
-     "드라마",
-     "드라마",
-     "deurama"
+     "주",
+     "주다",
+     "juda"
     ]
    ]
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "(쾅) …아주머니, 이거 날계란이에요!!",
-   "rd": "(kwang) …ajumeoni, igeo nalgyeranieyo!!",
-   "en": "(thunk) …Ma'am, this one's raw!!",
-   "note": "Kick: raw egg on the head — chaos",
+   "ko": "…아주머니, 계란이 왜 열 개예요?!",
+   "rd": "…ajumeoni, gyerani wae yeol gaeyeyo?!",
+   "en": "…Ma'am, why are there ten eggs?!",
+   "note": "",
    "tags": [],
    "new": [],
+   "emotion": "surprised",
    "lemmas": [
     [
      "계란",
      "계란",
      "gyeran"
+    ],
+    [
+     "왜",
+     "왜",
+     "wae"
     ]
    ]
   }
@@ -222,7 +219,8 @@
  "review": {
   "grok_rewrite": "data/review/r1_travel_a1_grok_rewrite.md [K053]",
   "final": "",
-  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성"
+  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  },
  "twist_type": "chaos"
 }

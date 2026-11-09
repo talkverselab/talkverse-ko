@@ -57,28 +57,17 @@
    "segs": [
     [
      "cheerful",
-     "(전화) 아들, 엄마가 보냈고 이모도 보냈어!",
-     "아들, 엄마가 보냈고 이모도 보냈어!"
+     "(전화) 아들, 김치 보냈어. 이모 것도!",
+     "아들, 김치 보냈어. 이모 것도!"
     ]
-   ],
-   "f": {
-    "text": "(전화) 딸, 엄마가 보냈고 이모도 보냈어!",
-    "rd": "(jeonhwa) ttal, eommaga bonaetgo imodo bonaesseo!",
-    "en": "(on the phone) Sweetie, Mom sent them and Auntie did too!",
-    "segs": [
-     [
-      "cheerful",
-      "(전화) 딸, 엄마가 보냈고 이모도 보냈어!",
-      "딸, 엄마가 보냈고 이모도 보냈어!"
-     ]
-    ]
-   }
+   ]
   },
   "8": {
    "segs": [
     [
-     "shout",
-     "네? 김치 열 통에 이모까지요?"
+     "surprised",
+     "네? 열 상자 다 김치예요? 😱",
+     "네? 열 상자 다 김치예요?"
     ]
    ]
   }

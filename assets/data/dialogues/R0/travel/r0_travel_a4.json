@@ -158,35 +158,59 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "(한 시간 뒤) 프로세요?",
-   "rd": "(han sigan dwi) peuroseyo?",
-   "en": "(an hour later) Are you a pro?",
-   "note": "사진사 = photographer",
+   "ko": "(다섯 팀째) 사진 진짜 잘 찍으시네요! 😊",
+   "rd": "(daseot timjjae) sajin jinjja jal jjigeusineyo!",
+   "en": "(fifth group) You take really great photos!",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_travel_a4/cut4",
+   "emotion": "cheerful",
    "lemmas": [
     [
-     "프로",
-     "프로",
-     "peuro"
+     "사진",
+     "사진",
+     "sajin"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
+     "찍",
+     "찍다",
+     "jjikda"
     ]
    ]
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "아니에요. 관광객이에요.",
-   "rd": "anieyo. gwangwanggaegieyo.",
-   "en": "No. I’m a tourist.",
-   "note": "punchline",
+   "ko": "감사합니다… 근데 제 사진은요?",
+   "rd": "gamsahamnida… geunde je sajineunyo?",
+   "en": "Thanks… but what about my photo?",
+   "note": "",
    "tags": [],
    "new": [],
-   "lemmas": []
+   "emotion": "sad",
+   "lemmas": [
+    [
+     "감사",
+     "감사",
+     "gamsa"
+    ],
+    [
+     "사진",
+     "사진",
+     "sajin"
+    ]
+   ]
   }
  ],
  "review": {
   "grok_rewrite": "data/review/r0_travel_a4_grok_rewrite.md [K181]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }

@@ -113,18 +113,19 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "멍멍! …어 뭐야!",
-   "rd": "meongmeong! …eo mwoya!",
-   "en": "Woof woof! …Huh, what!",
-   "note": "Kick: the dog — chaos",
+   "ko": "가위바위보! …어 뭐야!",
+   "rd": "gawibawibo! …eo mwoya!",
+   "en": "Rock-paper-scissors! …Huh, what!",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_friends_a3/cut3",
+   "emotion": "surprised",
    "lemmas": [
     [
-     "멍멍",
-     "멍멍",
-     "meongmeong"
+     "가위바위보",
+     "가위바위보",
+     "gawibawibo"
     ]
    ]
   },
@@ -148,18 +149,19 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "아니 누구 강아지야 또!",
-   "rd": "ani nugu gangajiya tto!",
-   "en": "No way, whose dog is this again!",
-   "note": "누구 = whose",
+   "ko": "아 콩이 너 또야!",
+   "rd": "a kongi neo ttoya!",
+   "en": "Ah, Kong-i, you again!",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_friends_a3/cut4",
+   "emotion": "tsukkomi",
    "lemmas": [
     [
-     "아니",
-     "아니",
-     "ani"
+     "콩",
+     "콩",
+     "kong"
     ]
    ]
   },
@@ -193,6 +195,7 @@
  ],
  "review": {
   "grok_rewrite": "data/review/r0_friends_a3_grok_rewrite.md [K113]",
-  "final": ""
+  "final": "",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
  }
 }
