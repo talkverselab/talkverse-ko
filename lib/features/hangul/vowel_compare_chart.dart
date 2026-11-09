@@ -65,7 +65,7 @@ class _P extends CustomPainter {
       _label(c, s, p, '${e.ipa} ${e.label}', DramaColors.ink, false);
     }
     c.drawCircle(ko, 7, Paint()..color = DramaColors.jade);
-    _label(c, s, ko, '${d.ko.ipa} ${d.ko.label}', DramaColors.jade, true);
+    _label(c, s, ko + const Offset(0, 16), '${d.ko.ipa} ${d.ko.label}', DramaColors.jade, true); // 한국어 라벨은 점 아래 — 영어 점과 겹치지 않게
   }
 
   void _label(Canvas c, Size s, Offset p, String t, Color col, bool b) {

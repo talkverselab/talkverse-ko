@@ -8,7 +8,7 @@ import '../../screens/login_screen.dart';
 import '../../ui/colors.dart';
 
 /// 프로필 맨 위 「계정」 칸 — Talkverse ID(한자 앱 me_screen 계정 칸을 옮김, 2026-11-02).
-/// 로그인 전: 로그인 타일 / 후: 이름·이메일·로그아웃·계정 삭제(스토어 심사 요구). 아래에 평생 이용권·구매 복원.
+/// 로그인 전: 로그인 타일 / 후: 이름·이메일·로그아웃·계정 삭제(스토어 심사 요구). 아래에 이용권·구매 복원.
 class AccountSection extends StatelessWidget {
   const AccountSection({super.key});
 
@@ -49,8 +49,8 @@ class AccountSection extends StatelessWidget {
             animation: Listenable.merge([Account.entitlements, Purchase.owned]),
             builder: (context, _) => ListTile(
               leading: const Icon(Icons.workspace_premium_outlined, color: KColors.softPink),
-              title: Text(tr('평생 이용권')),
-              subtitle: Text(Entitlement.premium ? tr('이용 중') : tr('한 번 결제 · 구독 아님'), style: const TextStyle(fontSize: 12)),
+              title: Text(tr('이용권')),
+              subtitle: Text(Entitlement.premium ? tr('이용 중') : tr('1개월 · 3개월 · 1년 · 평생'), style: const TextStyle(fontSize: 12)),
               trailing: Entitlement.premium ? const Icon(Icons.check_circle, color: KColors.sage) : const Icon(Icons.chevron_right),
               onTap: Entitlement.premium ? null : () => Entitlement.showPaywall(context),
             ),
@@ -66,7 +66,7 @@ class AccountSection extends StatelessWidget {
                     'pending' => tr('확인 중…'),
                     'restored' => tr('복원했습니다'),
                     'nothing' => tr('복원할 구매가 없습니다'),
-                    _ => tr('이전에 산 평생 이용권을 이 기기에서 다시 엽니다'),
+                    _ => tr('이전에 산 이용권을 이 기기에서 다시 엽니다'),
                   },
                   style: const TextStyle(fontSize: 12)),
             ),

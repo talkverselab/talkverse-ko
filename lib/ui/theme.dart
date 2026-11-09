@@ -81,8 +81,10 @@ ThemeData _baseTheme(ColorScheme cs, Color scaffoldBg) {
       scrolledUnderElevation: 0,
       // 사이트 헤더처럼 아래 1px `--line`
       shape: Border(bottom: BorderSide(color: cs.outlineVariant, width: 1)),
-      titleTextStyle: KType.titleLarge.copyWith(
-        color: cs.onSurface,
+      // 색은 비워 둔다 — AppBar 마다 foregroundColor(예: 짙은 남색 바의 흰 글자)를 따르게(2026-11-09, 제목이 안 보이던 버그)
+      titleTextStyle: TextStyle(
+        fontFamily: KType.titleLarge.fontFamily,
+        fontFamilyFallback: KType.titleLarge.fontFamilyFallback,
         fontSize: 17,
         fontWeight: FontWeight.w600,
       ),

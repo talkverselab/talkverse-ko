@@ -4,7 +4,7 @@ import 'account.dart';
 import 'purchase.dart';
 import '../screens/paywall_screen.dart';
 
-/// 평생 이용권 — Talkverse 계정 이용권(lang 'ko', auth.talkverse.uk) OR 이 기기에서 산·복원한 스토어 구매(2026-11-02, 한자 앱 방식).
+/// 이용권 — Talkverse 계정 이용권(lang 'ko') OR 이 기기에서 산·복원한 스토어 구매(언어 1m·3m·1y·평생, 종합 1y·평생 — PRICING.md).
 /// 어떤 화면을 잠글지는 아직 정하지 않았다 — 지금은 잠금 없이 「나」의 이용권 타일에서만 시트를 연다.
 class Entitlement {
   Entitlement._();
