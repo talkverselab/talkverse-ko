@@ -1,3 +1,4 @@
+import '../core/embed_env.dart';
 import 'dart:convert';
 
 import 'package:drift/drift.dart' show Value;
@@ -13,11 +14,11 @@ class SeedLoader {
   final AppDatabase db;
   SeedLoader(this.db);
 
-  static const _versionKey = 'content_seed_version';
+  static const _versionKey = 'content_seed_version'; // app_meta(DB) 키 — DB 파일이 이미 언어별
 
   static Future<String> bundledVersion() async {
     try {
-      final j = json.decode(await rootBundle.loadString('assets/data/version.json')) as Map<String, dynamic>;
+      final j = json.decode(await rootBundle.loadString(assetPath('assets/data/version.json'))) as Map<String, dynamic>;
       return '${j['db']}';
     } catch (_) {
       return '0';
@@ -49,7 +50,7 @@ class SeedLoader {
   }
 
   Future<void> _seedScenarios() async {
-    final raw = await rootBundle.loadString('assets/seed/scenarios.json');
+    final raw = await rootBundle.loadString(assetPath('assets/seed/scenarios.json'));
     final list = (json.decode(raw) as List).cast<Map<String, dynamic>>();
     for (final m in list) {
       await db.into(db.scenarios).insert(
@@ -69,7 +70,7 @@ class SeedLoader {
   }
 
   Future<void> _seedTurns() async {
-    final raw = await rootBundle.loadString('assets/seed/turns.json');
+    final raw = await rootBundle.loadString(assetPath('assets/seed/turns.json'));
     final list = (json.decode(raw) as List).cast<Map<String, dynamic>>();
     for (final m in list) {
       await db.into(db.turns).insert(
@@ -87,7 +88,7 @@ class SeedLoader {
   }
 
   Future<void> _seedAnnotations() async {
-    final raw = await rootBundle.loadString('assets/seed/annotations.json');
+    final raw = await rootBundle.loadString(assetPath('assets/seed/annotations.json'));
     final list = (json.decode(raw) as List).cast<Map<String, dynamic>>();
 
     // Annotations in JSON reference (scenario_id, turn_order); resolve to turn id.
@@ -115,7 +116,7 @@ class SeedLoader {
   }
 
   Future<void> _seedVocab() async {
-    final raw = await rootBundle.loadString('assets/seed/vocab.json');
+    final raw = await rootBundle.loadString(assetPath('assets/seed/vocab.json'));
     final list = (json.decode(raw) as List).cast<Map<String, dynamic>>();
     for (final m in list) {
       await db.into(db.vocab).insert(
@@ -132,7 +133,7 @@ class SeedLoader {
   }
 
   Future<void> _seedParticles() async {
-    final raw = await rootBundle.loadString('assets/seed/particles.json');
+    final raw = await rootBundle.loadString(assetPath('assets/seed/particles.json'));
     final list = (json.decode(raw) as List).cast<Map<String, dynamic>>();
     for (final m in list) {
       await db.into(db.particles).insert(

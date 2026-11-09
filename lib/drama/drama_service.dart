@@ -1,3 +1,4 @@
+import '../core/embed_env.dart';
 import 'dart:convert';
 
 import 'package:flutter/services.dart' show AssetManifest, rootBundle;
@@ -127,13 +128,13 @@ class DramaService {
   Future<void> ensureLoaded() async {
     if (_loaded) return;
     final prefs = await SharedPreferences.getInstance();
-    lastOpened = prefs.getString('drama_last');
-    watched.addAll(prefs.getStringList('drama_watched') ?? const []);
+    lastOpened = prefs.getString(pk('drama_last'));
+    watched.addAll(prefs.getStringList(pk('drama_watched')) ?? const []);
     final manifest = await AssetManifest.loadFromAssetBundle(rootBundle);
-    final paths = manifest.listAssets().where((p) => RegExp(r'^assets/data/dialogues/R[0-4]/[^/]+/[^/]+\.json$').hasMatch(p));
+    final paths = manifest.listAssets().map(unpackAsset).whereType<String>().where((p) => RegExp(r'^assets/data/dialogues/R[0-4]/[^/]+/[^/]+\.json$').hasMatch(p));
     for (final p in paths) {
       try {
-        final e = DramaEpisode.fromJson(json.decode(await rootBundle.loadString(p)) as Map<String, dynamic>);
+        final e = DramaEpisode.fromJson(json.decode(await rootBundle.loadString(assetPath(p))) as Map<String, dynamic>);
         if (e.turns.isNotEmpty) _byId[e.id] = e;
       } catch (_) {}
     }
@@ -142,12 +143,12 @@ class DramaService {
 
   Future<void> markOpened(String id) async {
     lastOpened = id;
-    (await SharedPreferences.getInstance()).setString('drama_last', id);
+    (await SharedPreferences.getInstance()).setString(pk('drama_last'), id);
   }
 
   Future<bool> markWatched(String id) async {
     final first = watched.add(id);
-    if (first) (await SharedPreferences.getInstance()).setStringList('drama_watched', watched.toList());
+    if (first) (await SharedPreferences.getInstance()).setStringList(pk('drama_watched'), watched.toList());
     return first;
   }
 

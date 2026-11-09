@@ -166,4 +166,4 @@ class AppDatabase extends _$AppDatabase {
   }
 }
 
-QueryExecutor _openConnection() => driftDatabase(name: 'k_universe');
+QueryExecutor _openConnection() => driftDatabase(name: 'ko_k_universe'); // 언어 접두(통합 앱 충돌 방지) — 옛 k_universe.sqlite 는 embed.migrateStorage 가 옮김

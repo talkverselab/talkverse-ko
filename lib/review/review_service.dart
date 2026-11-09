@@ -14,6 +14,8 @@ import 'review_engine.dart';
 enum ReviewDirection { learnerToTarget, targetToLearner }
 
 class ReviewService {
+  /// 설정 키 접두(통합 앱에서 언어끼리 겹치지 않게, 2026-11-09 — 공용 엔진 원본에도 같은 줄 필요).
+  static String keyPrefix = '';
   ReviewService._();
   static final instance = ReviewService._();
 
@@ -45,9 +47,9 @@ class ReviewService {
     } catch (_) {}
     try {
       final p = await SharedPreferences.getInstance();
-      newPerDay = p.getInt('review_new_per_day') ?? 20;
-      direction = ReviewDirection.values[p.getInt('review_direction') ?? 0];
-      reminderMinutes = p.getInt('review_reminder');
+      newPerDay = p.getInt('${ReviewService.keyPrefix}review_new_per_day') ?? 20;
+      direction = ReviewDirection.values[p.getInt('${ReviewService.keyPrefix}review_direction') ?? 0];
+      reminderMinutes = p.getInt('${ReviewService.keyPrefix}review_reminder');
     } catch (_) {}
     _loaded = true;
     changes.value++;
@@ -85,11 +87,11 @@ class ReviewService {
   /// 옛 '알아요' 상태 이전 — 앱 업데이트 때 한 번(이미 한 적 있으면 건너뜀).
   Future<void> migrateKnownOnce(Iterable<String> ids) async {
     final p = await SharedPreferences.getInstance();
-    if (p.getBool('review_migrated_v1') ?? false) return;
+    if (p.getBool('${ReviewService.keyPrefix}review_migrated_v1') ?? false) return;
     for (final id in ids) {
       engine.migrateKnown(item(id));
     }
-    await p.setBool('review_migrated_v1', true);
+    await p.setBool('${ReviewService.keyPrefix}review_migrated_v1', true);
     _changed();
   }
 
@@ -105,20 +107,20 @@ class ReviewService {
 
   Future<void> setNewPerDay(int n) async {
     newPerDay = n;
-    (await SharedPreferences.getInstance()).setInt('review_new_per_day', n);
+    (await SharedPreferences.getInstance()).setInt('${ReviewService.keyPrefix}review_new_per_day', n);
     changes.value++;
   }
 
   Future<void> setDirection(ReviewDirection d) async {
     direction = d;
-    (await SharedPreferences.getInstance()).setInt('review_direction', d.index);
+    (await SharedPreferences.getInstance()).setInt('${ReviewService.keyPrefix}review_direction', d.index);
     changes.value++;
   }
 
   Future<void> setReminder(int? minutes) async {
     reminderMinutes = minutes;
     final p = await SharedPreferences.getInstance();
-    minutes == null ? p.remove('review_reminder') : p.setInt('review_reminder', minutes);
+    minutes == null ? p.remove('${ReviewService.keyPrefix}review_reminder') : p.setInt('${ReviewService.keyPrefix}review_reminder', minutes);
     changes.value++;
   }
 

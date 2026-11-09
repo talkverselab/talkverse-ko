@@ -1,3 +1,4 @@
+import '../core/embed_env.dart';
 import 'package:flutter/foundation.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -16,12 +17,12 @@ class LearnerPrefs {
     final p = await SharedPreferences.getInstance();
     name.value = p.getString('learner_name') ?? '';
     gender.value = p.getString('learner_gender') ?? 'male';
-    roman.value = p.getBool('roman_show') ?? false;
+    roman.value = p.getBool(pk('roman_show')) ?? false;
   }
 
   static Future<void> setRoman(bool v) async {
     roman.value = v;
-    (await SharedPreferences.getInstance()).setBool('roman_show', v);
+    (await SharedPreferences.getInstance()).setBool(pk('roman_show'), v);
   }
 
   static Future<void> setName(String v) async {

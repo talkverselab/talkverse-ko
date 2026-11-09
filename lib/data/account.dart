@@ -1,3 +1,4 @@
+import '../core/embed_env.dart';
 import 'dart:convert';
 import 'dart:io' show Platform;
 import 'dart:math';
@@ -16,7 +17,7 @@ import 'package:sign_in_with_apple/sign_in_with_apple.dart';
 class Account {
   Account._();
   static const base = 'https://auth.talkverse.uk';
-  static const clientId = 'ko';
+  static String get clientId => Embed.embedded ? 'talkverse' : 'ko'; // 통합 앱은 Talkverse ID 클라이언트 talkverse
   static const scheme = 'talkverse.ko';
   static const _redirect = '$scheme://auth';
 

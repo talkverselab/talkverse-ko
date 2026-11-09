@@ -1,3 +1,4 @@
+import '../core/embed_env.dart';
 import 'dart:convert';
 
 import 'package:flutter/foundation.dart';
@@ -13,7 +14,7 @@ import '../review/review_service.dart';
 class AchievementService {
   AchievementService._();
   static final AchievementService instance = AchievementService._();
-  static const _key = 'achievements_v1';
+  static final _key = pk('achievements_v1');
 
   /// 한국어 절벽(누적 55/60/70/80% 에 처음 닿는 순위).
   static const cliffs = [75, 104, 215, 521];

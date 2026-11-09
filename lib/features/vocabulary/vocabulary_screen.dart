@@ -1,3 +1,4 @@
+import '../../core/embed_env.dart';
 import 'dart:convert';
 
 import 'package:drift/drift.dart' show OrderingTerm;
@@ -66,7 +67,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
     if (mounted) setState(() => _cliff = cliff);
     // 회화 단어 목록은 따로 — 늦게 와도 절벽 단어 화면은 먼저 뜬다
     try {
-      final j = json.decode(await rootBundle.loadString('assets/data/freq/conv_words_ko.json')) as Map<String, dynamic>;
+      final j = json.decode(await rootBundle.loadString(assetPath('assets/data/freq/conv_words_ko.json'))) as Map<String, dynamic>;
       final conv = [for (final w in (j['words'] as List? ?? const [])) _Word(0, '${w['word']}', '${w['rd'] ?? ''}', '${w['en'] ?? ''}', '회화')];
       if (mounted) setState(() => _conv = conv);
     } catch (_) {}

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:package_info_plus/package_info_plus.dart';
 
+import '../../core/embed_env.dart';
 import '../../core/pane.dart';
 import '../../screens/about_screen.dart';
 import 'package:k_universe/ui/colors.dart';
@@ -50,6 +51,11 @@ class ProfileScreen extends StatelessWidget {
           ),
         ),
       ),
+      if (Embed.onSwitchLanguage != null)
+        InkWell(
+          onTap: Embed.onSwitchLanguage,
+          child: _SettingRow(emoji: '🌏', tile: KColors.tileSage, title: tr('다른 언어 배우기'), subtitle: tr('Talkverse 의 다른 언어 과정으로'), trailing: Icon(Icons.arrow_forward_rounded, size: 18, color: KColors.inkFaint)),
+        ),
       const SizedBox(height: KSpace.lg),
       _SectionLabel(label: tr('정보')),
       InkWell(
