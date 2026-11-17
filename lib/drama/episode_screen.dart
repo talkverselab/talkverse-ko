@@ -315,7 +315,7 @@ class _SceneCard extends StatelessWidget {
           child: Column(mainAxisSize: MainAxisSize.min, children: [
             Text(ep.emoji, style: const TextStyle(fontSize: 64)),
             const SizedBox(height: 10),
-            Text(ep.scene, textAlign: TextAlign.center, style: const TextStyle(fontSize: 13, color: DramaColors.body, height: 1.4)),
+            Text(ep.sceneShown, textAlign: TextAlign.center, style: const TextStyle(fontSize: 13, color: DramaColors.body, height: 1.4)),
           ]),
         ),
       );

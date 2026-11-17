@@ -34,7 +34,7 @@ if attach:
     print('attached', len(attach))
 c.ev("document.querySelector('.ProseMirror').focus()")
 c.call('Input.insertText', text=text); time.sleep(1)
-c.ev("(()=>{const b=[...document.querySelectorAll('button')].find(e=>(e.getAttribute('aria-label')||'')==='제출');if(b)b.click()})()")
+c.ev("(()=>{const b=[...document.querySelectorAll('button')].find(e=>['제출','보내기'].includes(e.getAttribute('aria-label')||''));if(b)b.click()})()")
 time.sleep(3)
 left = c.ev("document.querySelector('.ProseMirror').innerText.trim().length")
 if left > 5:

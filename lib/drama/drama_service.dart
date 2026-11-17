@@ -98,6 +98,9 @@ class DramaEpisode {
     return raw.contains('{name}') ? learnerName() : raw.replaceAll(RegExp(r'[{}]'), '');
   }
 
+  /// 화면에 보일 장면 설명 — 원고의 「A」(학습자)를 이름(없으면 「나」)으로(일본어앱 2026-11-17 사용자 지시와 같게).
+  String get sceneShown => scene.replaceAllMapped(RegExp(r'(?<![A-Za-z])A(?![A-Za-z]) ?(?=[가-힣])'), (_) => speakerName('A'));
+
   /// 화면에 보일 문장 — 변수 채우기.
   static String fill(String s) => s.replaceAll('{name}', learnerName()).replaceAll(RegExp(r'\{[a-z_]+\}'), '…');
 
