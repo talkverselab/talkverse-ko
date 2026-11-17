@@ -24,7 +24,7 @@ def save(urls):
 while time.time() - t0 < wait:
     c = g.CDP(g.tab(frag))
     busy = c.ev("!![...document.querySelectorAll('button')].find(e=>(e.getAttribute('aria-label')||'')==='응답 중지')")
-    new = [u for u in (c.ev(GEN) or []) if u not in before]
+    new = list(dict.fromkeys(u for u in (c.ev(GEN) or []) if u not in before))  # 같은 그림이 DOM 에 두 번(미리보기+본문) 나온다 → 처음 나온 순서로 하나씩(2026-11-17, 중복 저장 8편)
     if len(new) >= want and not busy:
         save(new[:want]); print('OK', want); sys.exit(0)
     if not new and not busy and time.time() - t0 > 60 and not reloaded:  # 답은 끝났는데 그림이 안 보임 = 렌더 버그 → 새로고침(2026-11-03)
