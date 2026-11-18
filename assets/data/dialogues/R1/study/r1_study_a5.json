@@ -103,7 +103,7 @@
    "ko": "{name} 씨 자리요. 제가 맡아 놨어요.",
    "rd": "{name} ssi jariyo. jega mata nwasseoyo.",
    "en": "It's your seat. I saved it.",
-   "note": "심쿵",
+   "note": "",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -148,7 +148,7 @@
    "ko": "매일 이 시간에 오시잖아요. 맡아 놨어요…",
    "rd": "maeil i sigane osijanayo. mata nwasseoyo…",
    "en": "You come at this time every day. I saved it…",
-   "note": "심쿵",
+   "note": "",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -203,7 +203,7 @@
    "ko": "저도요…",
    "rd": "jeodoyo…",
    "en": "Me neither…",
-   "note": "punchline",
+   "note": "",
    "tags": [],
    "new": [],
    "lemmas": []

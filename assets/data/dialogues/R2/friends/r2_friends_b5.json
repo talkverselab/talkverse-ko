@@ -138,7 +138,7 @@
    "ko": "{name} 해 봐! 외국인 첫 곡 완전 재밌을 듯.",
    "rd": "{name} hae bwa! oegugin cheot gok wanjeon jaemisseul deut.",
    "en": "{name}, you do it! A foreigner's first song would be so fun.",
-   "note": "Kick setup",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r2_friends_b5/cut3",
@@ -171,7 +171,7 @@
    "ko": "잠깐만, 나 한국 노래는 생일 축하합니다밖에 몰라.",
    "rd": "jamkkanman, na hanguk noraeneun saengil chukahamnidabakke molla.",
    "en": "Wait a sec, the only Korean song I know is Happy Birthday.",
-   "note": "callback",
+   "note": "",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -393,7 +393,7 @@
    "ko": "그니까 첫 곡이 이렇게 중요해...?",
    "rd": "geunikka cheot gogi ireoke jungyohae...?",
    "en": "So the first song is this important...?",
-   "note": "punchline",
+   "note": "",
    "tags": [],
    "new": [],
    "lemmas": [

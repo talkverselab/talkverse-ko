@@ -102,7 +102,7 @@
    "ko": "아, 차 없는 1203호 맞아요!",
    "rd": "a, cha eomneun 1203ho majayo!",
    "en": "Ah, that 1203 without a car, right!",
-   "note": "callback",
+   "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_life_a9/cut2",
@@ -125,7 +125,7 @@
    "ko": "와이파이 비밀번호 iloveyou 쓰시는 집이죠? 우리 다 알아요.",
    "rd": "waipai bimilbeonho iloveyou sseusineun jibijyo? uri da arayo.",
    "en": "The house using \"iloveyou\" for the Wi-Fi password, right? We all know.",
-   "note": "callback",
+   "note": "",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -270,7 +270,7 @@
    "ko": "감사합니다. 근데 저 이미 반찬 스무 통이나 있어요.",
    "rd": "gamsahamnida. geunde jeo imi banchan seumu tongina isseoyo.",
    "en": "Thank you. But I already have like twenty containers of side dishes.",
-   "note": "punchline callback",
+   "note": "",
    "tags": [],
    "new": [],
    "lemmas": [
