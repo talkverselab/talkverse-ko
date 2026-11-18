@@ -90,6 +90,7 @@ flutter:
   assets:
     - assets/seed/
     - assets/data/version.json
+    - assets/data/script_rev.json
     - assets/images/ipa/
     - assets/data/freq/conv_words_ko.json
     - assets/data/dialogues/R0/culture/

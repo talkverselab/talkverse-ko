@@ -1,12 +1,14 @@
 import '../core/embed_env.dart';
 import 'dart:convert';
 
+import 'package:flutter/foundation.dart' show ValueNotifier;
 import 'package:flutter/services.dart' show AssetManifest, rootBundle;
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../data/account.dart';
 import '../services/content_sync.dart';
 import '../services/learner_prefs.dart';
+import '../services/script_sync.dart';
 
 /// 드라마 회화(R0~R4 · 주제별 JSON) 로더 — 일본어앱 dialogue_service 를 한국어 필드로 옮김(2026-11-03).
 /// 파일 `assets/data/dialogues/R<레벨>/<주제>/<편id>.json`, 구조는 `assets/data/dialogues/README.md`.
@@ -133,15 +135,40 @@ class DramaService {
     final prefs = await SharedPreferences.getInstance();
     lastOpened = prefs.getString(pk('drama_last'));
     watched.addAll(prefs.getStringList(pk('drama_watched')) ?? const []);
+    await _readAll();
+    _loaded = true;
+    // 서버에 더 새 원고가 있으면 뒤에서 받아 다시 읽는다(없거나 실패하면 그대로) — 일본어앱 빌드 113
+    ScriptSync.instance.refresh().then((changed) async {
+      if (!changed) return;
+      await _readAll();
+      _romanOf = null;
+      revision.value++;
+    });
+  }
+
+  /// 원고가 서버 판으로 바뀌어 다시 읽힐 때마다 오른다.
+  final ValueNotifier<int> revision = ValueNotifier(0);
+
+  /// 앱 안 편 + 서버에서 받은 새 편을 읽는다. 각 파일은 덮어쓴 판이 있으면 그것([ScriptSync]).
+  Future<void> _readAll() async {
+    final sync = ScriptSync.instance;
+    await sync.init();
     final manifest = await AssetManifest.loadFromAssetBundle(rootBundle);
-    final paths = manifest.listAssets().map(unpackAsset).whereType<String>().where((p) => RegExp(r'^assets/data/dialogues/R[0-4]/[^/]+/[^/]+\.json$').hasMatch(p));
-    for (final p in paths) {
+    final pat = RegExp(r'^assets/data/dialogues/R[0-4]/[^/]+/[^/]+\.json$');
+    final rels = <String>{
+      for (final p in manifest.listAssets().map(unpackAsset).whereType<String>().where(pat.hasMatch)) p.substring('assets/data/'.length),
+      ...sync.added.where((p) => pat.hasMatch('assets/data/$p')),
+    }..removeAll(sync.removed);
+    final next = <String, DramaEpisode>{};
+    for (final rel in rels) {
       try {
-        final e = DramaEpisode.fromJson(json.decode(await rootBundle.loadString(assetPath(p))) as Map<String, dynamic>);
-        if (e.turns.isNotEmpty) _byId[e.id] = e;
+        final e = DramaEpisode.fromJson(json.decode(await sync.load(rel)) as Map<String, dynamic>);
+        if (e.turns.isNotEmpty) next[e.id] = e;
       } catch (_) {}
     }
-    _loaded = true;
+    _byId
+      ..clear()
+      ..addAll(next);
   }
 
   Future<void> markOpened(String id) async {
@@ -159,7 +186,8 @@ class DramaService {
   List<DramaEpisode> get all => _byId.values.toList();
 
   /// 단어(기본형) → 로마자. 회화 레마에서 모은다 — 복습 카드·단어 시트의 읽기.
-  late final Map<String, String> romanOf = () {
+  Map<String, String>? _romanOf;
+  Map<String, String> get romanOf => _romanOf ??= () {
     final m = <String, String>{};
     for (final e in _byId.values) {
       for (final t in e.turns) {

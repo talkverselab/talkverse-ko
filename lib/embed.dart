@@ -15,6 +15,7 @@ import 'db/seed_loader.dart';
 import 'review/review_service.dart';
 import 'review/review_ui.dart';
 import 'services/content_sync.dart';
+import 'services/script_sync.dart';
 import 'services/learner_prefs.dart';
 import 'state/app_state.dart';
 
@@ -45,6 +46,11 @@ Future<void> embedInit({bool embedded = false}) async {
   await LearnerPrefs.load();
   await ReviewService.instance.load(file: File('${(await getApplicationDocumentsDirectory()).path}/${pk('review_items.json')}'));
   ReviewText.en = !AppLangPrefs.isKo;
+  // 회화 원고는 켤 때마다 무조건 서버 판을 확인해 받는다 — 그림·음성 내려받기와 따로(일본어앱 빌드 114, 사용자 지시 2026-11-17).
+  // 느린 망에서는 startupWait 까지만 기다리고 앱을 연다(받기는 뒤에서 이어지고, 끝나면 회화 목록을 다시 읽는다).
+  try {
+    await ScriptSync.instance.refresh().timeout(ScriptSync.startupWait);
+  } catch (_) {}
   // 그림 기기 내려받기 — 매니페스트가 바뀌었으면 시작 때 로딩 화면, 오프라인이면 바로 홈.
   final view = WidgetsBinding.instance.platformDispatcher.views.first;
   final shortest = view.physicalSize.shortestSide / view.devicePixelRatio;
