@@ -109,6 +109,8 @@ class Purchase {
 
   /// 통합 앱의 공용 결제가 받은 구매 갱신을 넘기는 입구(이 언어 상품만 처리된다).
   static Future<void> onUpdates(List<PurchaseDetails> list) => _onUpdates(list);
+  /// 통합 앱 공용 결제가 부르는 이름(다른 언어 패키지와 같게, uk 요청 2026-11-18).
+  static Future<void> onPurchaseUpdates(List<PurchaseDetails> list) => _onUpdates(list);
 
   /// 단독 앱 구매 스트림 수신을 끊는다(통합 앱으로 옮겨 갈 때).
   static Future<void> detachStream() async {
