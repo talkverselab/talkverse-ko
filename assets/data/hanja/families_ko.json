@@ -1,0 +1,2388 @@
+{
+"_meta": "한자 연습 — 교육용 한자 중 소리 부품이 같은 글자 3자 이상 가족(한자유니버스 공용 DB hanja_chars: kr·kr_hun·meaning_en·phonetic·edu, 2026-11-18). 가족 큰 순, 가족 안은 중학교→고등학교·중요도 순.",
+"families": [
+{
+"root": "工",
+"hun": "장인 공",
+"en": "Craft",
+"members": [
+{
+"ch": "江",
+"hun": "강 강",
+"en": "Creek, Inlet",
+"edu": "중"
+},
+{
+"ch": "功",
+"hun": "공 공",
+"en": "Achievement, Merits",
+"edu": "중"
+},
+{
+"ch": "紅",
+"hun": "붉을 홍",
+"en": "Crimson, Deep Red",
+"edu": "중"
+},
+{
+"ch": "空",
+"hun": "빌 공",
+"en": "Empty, Sky",
+"edu": "중"
+},
+{
+"ch": "鴻",
+"hun": "기러기 홍",
+"en": "Large Bird, Wild Goose",
+"edu": "고"
+},
+{
+"ch": "攻",
+"hun": "칠 공",
+"en": "Aggression, Attack",
+"edu": "고"
+},
+{
+"ch": "貢",
+"hun": "바칠 공",
+"en": "Tribute, Support",
+"edu": "고"
+},
+{
+"ch": "項",
+"hun": "항목 항",
+"en": "Paragraph, Nape Of Neck",
+"edu": "고"
+}
+]
+},
+{
+"root": "尙",
+"hun": "오히려 상",
+"en": "Esteem",
+"members": [
+{
+"ch": "賞",
+"hun": "상줄 상",
+"en": "Prize, Reward",
+"edu": "중"
+},
+{
+"ch": "常",
+"hun": "떳떳할 상",
+"en": "Usual, Ordinary",
+"edu": "중"
+},
+{
+"ch": "堂",
+"hun": "집 당",
+"en": "Public Chamber, Hall",
+"edu": "중"
+},
+{
+"ch": "裳",
+"hun": "치마 상",
+"en": "Skirt",
+"edu": "고"
+},
+{
+"ch": "嘗",
+"hun": "맛볼 상",
+"en": "Once, Before",
+"edu": "고"
+},
+{
+"ch": "掌",
+"hun": "손바닥 장",
+"en": "Manipulate, Rule",
+"edu": "고"
+},
+{
+"ch": "黨",
+"hun": "무리 당",
+"en": "Party, Faction",
+"edu": "고"
+}
+]
+},
+{
+"root": "古",
+"hun": "예 고",
+"en": "Old",
+"members": [
+{
+"ch": "固",
+"hun": "굳을 고",
+"en": "Harden, Set",
+"edu": "중"
+},
+{
+"ch": "故",
+"hun": "연고 고",
+"en": "Happenstance, Especially",
+"edu": "중"
+},
+{
+"ch": "居",
+"hun": "살 거",
+"en": "Reside, To Be",
+"edu": "중"
+},
+{
+"ch": "苦",
+"hun": "쓸 고",
+"en": "Suffering, Trial",
+"edu": "중"
+},
+{
+"ch": "胡",
+"hun": "되 호",
+"en": "Barbarian, Foreign",
+"edu": "고"
+},
+{
+"ch": "姑",
+"hun": "시어미 고",
+"en": "Mother-in-law",
+"edu": "고"
+},
+{
+"ch": "枯",
+"hun": "마를 고",
+"en": "Wither, Die",
+"edu": "고"
+}
+]
+},
+{
+"root": "寺",
+"hun": "절 사",
+"en": "Buddhist Temple",
+"members": [
+{
+"ch": "詩",
+"hun": "시 시",
+"en": "Poem, Poetry",
+"edu": "중"
+},
+{
+"ch": "等",
+"hun": "무리 등",
+"en": "Etc., And So Forth",
+"edu": "중"
+},
+{
+"ch": "待",
+"hun": "기다릴 대",
+"en": "Wait, Depend On",
+"edu": "중"
+},
+{
+"ch": "持",
+"hun": "가질 지",
+"en": "Hold, Have",
+"edu": "중"
+},
+{
+"ch": "時",
+"hun": "때 시",
+"en": "Time, Hour",
+"edu": "중"
+},
+{
+"ch": "侍",
+"hun": "모실 시",
+"en": "Waiter, Samurai",
+"edu": "고"
+}
+]
+},
+{
+"root": "方",
+"hun": "모 방",
+"en": "Direction",
+"members": [
+{
+"ch": "房",
+"hun": "방 방",
+"en": "Tassel, Tuft",
+"edu": "중"
+},
+{
+"ch": "防",
+"hun": "막을 방",
+"en": "Ward Off, Defend",
+"edu": "중"
+},
+{
+"ch": "訪",
+"hun": "찾을 방",
+"en": "Call On, Visit",
+"edu": "중"
+},
+{
+"ch": "放",
+"hun": "놓을 방",
+"en": "Set Free, Release",
+"edu": "중"
+},
+{
+"ch": "妨",
+"hun": "방해할 방",
+"en": "Disturb, Prevent",
+"edu": "고"
+},
+{
+"ch": "芳",
+"hun": "꽃다울 방",
+"en": "Perfume, Balmy",
+"edu": "고"
+}
+]
+},
+{
+"root": "艮",
+"hun": "괘이름 간",
+"en": "Northeast (oriental Zodiac)",
+"members": [
+{
+"ch": "恨",
+"hun": "한 한",
+"en": "Regret, Bear A Grudge",
+"edu": "중"
+},
+{
+"ch": "眼",
+"hun": "눈 안",
+"en": "Eyeball",
+"edu": "중"
+},
+{
+"ch": "限",
+"hun": "한할 한",
+"en": "Limit, Restrict",
+"edu": "중"
+},
+{
+"ch": "根",
+"hun": "뿌리 근",
+"en": "Root, Radical",
+"edu": "중"
+},
+{
+"ch": "退",
+"hun": "물러날 퇴",
+"en": "Retreat, Withdraw",
+"edu": "중"
+},
+{
+"ch": "銀",
+"hun": "은 은",
+"en": "Silver",
+"edu": "중"
+}
+]
+},
+{
+"root": "兌",
+"hun": "바꿀·기쁠 태",
+"en": "Exchange",
+"members": [
+{
+"ch": "悅",
+"hun": "기쁠 열",
+"en": "Ecstasy, Joy",
+"edu": "중"
+},
+{
+"ch": "脫",
+"hun": "벗을 탈",
+"en": "Undress, Removing",
+"edu": "중"
+},
+{
+"ch": "稅",
+"hun": "세금 세",
+"en": "Tax, Duty",
+"edu": "중"
+},
+{
+"ch": "說",
+"hun": "말씀 설, 달랠 세",
+"en": "Opinion, Theory",
+"edu": "중"
+},
+{
+"ch": "閱",
+"hun": "볼 열",
+"en": "Review, Inspection",
+"edu": "고"
+},
+{
+"ch": "銳",
+"hun": "날카로울 예",
+"en": "Pointed, Sharpness",
+"edu": "고"
+}
+]
+},
+{
+"root": "丁",
+"hun": "고무래·장정 정",
+"en": "Street",
+"members": [
+{
+"ch": "頂",
+"hun": "정수리 정",
+"en": "Place On The Head, Receive",
+"edu": "중"
+},
+{
+"ch": "打",
+"hun": "칠 타",
+"en": "Strike, Hit",
+"edu": "중"
+},
+{
+"ch": "亭",
+"hun": "정자 정",
+"en": "Pavilion, Restaurant",
+"edu": "고"
+},
+{
+"ch": "寧",
+"hun": "편안 녕",
+"en": "Rather, Preferably",
+"edu": "고"
+},
+{
+"ch": "訂",
+"hun": "바로잡을 정",
+"en": "Revise, Correct",
+"edu": "고"
+}
+]
+},
+{
+"root": "韋",
+"hun": "가죽 위",
+"en": "Tanned Leather Radical (no. 178)",
+"members": [
+{
+"ch": "偉",
+"hun": "클 위",
+"en": "Admirable, Greatness",
+"edu": "중"
+},
+{
+"ch": "緯",
+"hun": "씨 위",
+"en": "Horizontal, Woof",
+"edu": "고"
+},
+{
+"ch": "衛",
+"hun": "지킬 위",
+"en": "Defense, Protection",
+"edu": "고"
+},
+{
+"ch": "違",
+"hun": "어긋날 위",
+"en": "Difference, Differ",
+"edu": "고"
+},
+{
+"ch": "圍",
+"hun": "에워쌀 위",
+"en": "Surround, Besiege",
+"edu": "고"
+}
+]
+},
+{
+"root": "且",
+"hun": "또 차",
+"en": "Moreover",
+"members": [
+{
+"ch": "祖",
+"hun": "할아비 조",
+"en": "Ancestor, Pioneer",
+"edu": "중"
+},
+{
+"ch": "助",
+"hun": "도울 조",
+"en": "Help, Rescue",
+"edu": "중"
+},
+{
+"ch": "租",
+"hun": "조세 조",
+"en": "Tariff, Crop Tax",
+"edu": "고"
+},
+{
+"ch": "査",
+"hun": "조사할 사",
+"en": "Investigate",
+"edu": "고"
+},
+{
+"ch": "組",
+"hun": "짤 조",
+"en": "Association, Braid",
+"edu": "고"
+}
+]
+},
+{
+"root": "才",
+"hun": "재주 재",
+"en": "Genius",
+"members": [
+{
+"ch": "財",
+"hun": "재물 재",
+"en": "Property, Money",
+"edu": "중"
+},
+{
+"ch": "材",
+"hun": "재목 재",
+"en": "Lumber, Log",
+"edu": "중"
+},
+{
+"ch": "存",
+"hun": "있을 존",
+"en": "Exist, Suppose",
+"edu": "중"
+},
+{
+"ch": "在",
+"hun": "있을 재",
+"en": "Exist, Outskirts",
+"edu": "중"
+},
+{
+"ch": "裁",
+"hun": "옷마를 재",
+"en": "Tailor, Judge",
+"edu": "고"
+}
+]
+},
+{
+"root": "正",
+"hun": "바를 정",
+"en": "Correct",
+"members": [
+{
+"ch": "政",
+"hun": "정사(政事) 정",
+"en": "Politics, Government",
+"edu": "중"
+},
+{
+"ch": "定",
+"hun": "정할 정",
+"en": "Determine, Fix",
+"edu": "중"
+},
+{
+"ch": "症",
+"hun": "증세 증",
+"en": "Symptoms, Illness",
+"edu": "고"
+},
+{
+"ch": "征",
+"hun": "칠 정",
+"en": "Subjugate, Attack The Rebellious",
+"edu": "고"
+},
+{
+"ch": "整",
+"hun": "가지런할 정",
+"en": "Organize, Arranging",
+"edu": "고"
+}
+]
+},
+{
+"root": "蜀",
+"hun": "나라이름 촉",
+"en": "Green Caterpillar",
+"members": [
+{
+"ch": "獨",
+"hun": "홀로 독",
+"en": "Single, Alone",
+"edu": "중"
+},
+{
+"ch": "燭",
+"hun": "촛불 촉",
+"en": "Light, Candlepower",
+"edu": "고"
+},
+{
+"ch": "濁",
+"hun": "흐릴 탁",
+"en": "Voiced, Uncleanness",
+"edu": "고"
+},
+{
+"ch": "觸",
+"hun": "닿을 촉",
+"en": "Contact, Touch",
+"edu": "고"
+},
+{
+"ch": "屬",
+"hun": "붙일 속",
+"en": "Belong, Genus",
+"edu": "고"
+}
+]
+},
+{
+"root": "皮",
+"hun": "가죽 피",
+"en": "Pelt",
+"members": [
+{
+"ch": "波",
+"hun": "물결 파",
+"en": "Waves, Billows",
+"edu": "중"
+},
+{
+"ch": "彼",
+"hun": "저 피",
+"en": "He, That",
+"edu": "중"
+},
+{
+"ch": "破",
+"hun": "깨뜨릴 파",
+"en": "Rend, Rip",
+"edu": "중"
+},
+{
+"ch": "疲",
+"hun": "피곤할 피",
+"en": "Exhausted, Tire",
+"edu": "고"
+},
+{
+"ch": "被",
+"hun": "입을 피",
+"en": "Incur, Cover",
+"edu": "고"
+}
+]
+},
+{
+"root": "己",
+"hun": "몸 기",
+"en": "Self",
+"members": [
+{
+"ch": "改",
+"hun": "고칠 개",
+"en": "Reformation, Change",
+"edu": "중"
+},
+{
+"ch": "記",
+"hun": "기록할 기",
+"en": "Scribe, Account",
+"edu": "중"
+},
+{
+"ch": "起",
+"hun": "일어날 기",
+"en": "Rouse, Wake Up",
+"edu": "중"
+},
+{
+"ch": "忌",
+"hun": "꺼릴 기",
+"en": "Mourning, Abhor",
+"edu": "고"
+},
+{
+"ch": "紀",
+"hun": "벼리 기",
+"en": "Chronicle, Account",
+"edu": "고"
+}
+]
+},
+{
+"root": "靑",
+"hun": "푸를 청",
+"en": "Blue",
+"members": [
+{
+"ch": "請",
+"hun": "청할 청",
+"en": "Solicit, Invite",
+"edu": "중"
+},
+{
+"ch": "淸",
+"hun": "맑을 청",
+"en": "Pure, Purify",
+"edu": "중"
+},
+{
+"ch": "精",
+"hun": "정할 정",
+"en": "Refined, Ghost",
+"edu": "중"
+},
+{
+"ch": "情",
+"hun": "뜻 정",
+"en": "Feelings, Emotion",
+"edu": "중"
+},
+{
+"ch": "晴",
+"hun": "갤 청",
+"en": "Clear Up",
+"edu": "중"
+}
+]
+},
+{
+"root": "反",
+"hun": "돌이킬·돌아올 반",
+"en": "Anti-",
+"members": [
+{
+"ch": "飯",
+"hun": "밥 반",
+"en": "Meal, Boiled Rice",
+"edu": "중"
+},
+{
+"ch": "販",
+"hun": "팔 판",
+"en": "Marketing, Sell",
+"edu": "고"
+},
+{
+"ch": "版",
+"hun": "판목 판",
+"en": "Printing Block, Printing Plate",
+"edu": "고"
+},
+{
+"ch": "返",
+"hun": "돌이킬 반",
+"en": "Return, Answer",
+"edu": "고"
+},
+{
+"ch": "板",
+"hun": "널 판",
+"en": "Plank, Board",
+"edu": "고"
+}
+]
+},
+{
+"root": "僉",
+"hun": "다·여러 첨",
+"en": "All",
+"members": [
+{
+"ch": "儉",
+"hun": "검소할 검",
+"en": "Frugal, Economy",
+"edu": "고"
+},
+{
+"ch": "劍",
+"hun": "칼 검",
+"en": "Sabre, Sword",
+"edu": "고"
+},
+{
+"ch": "檢",
+"hun": "검사할 검",
+"en": "Examination, Investigate",
+"edu": "고"
+},
+{
+"ch": "險",
+"hun": "험할 험",
+"en": "Precipitous, Inaccessible Place",
+"edu": "고"
+},
+{
+"ch": "驗",
+"hun": "시험 험",
+"en": "Verification, Effect",
+"edu": "고"
+}
+]
+},
+{
+"root": "白",
+"hun": "흰 백",
+"en": "White",
+"members": [
+{
+"ch": "百",
+"hun": "일백 백",
+"en": "Hundred",
+"edu": "중"
+},
+{
+"ch": "伯",
+"hun": "맏 백",
+"en": "Chief, Count",
+"edu": "고"
+},
+{
+"ch": "迫",
+"hun": "핍박할 박",
+"en": "Urge, Force",
+"edu": "고"
+},
+{
+"ch": "拍",
+"hun": "칠 박",
+"en": "Clap, Beat (music)",
+"edu": "고"
+}
+]
+},
+{
+"root": "主",
+"hun": "임금·주인 주",
+"en": "Lord",
+"members": [
+{
+"ch": "註",
+"hun": "글뜻풀 주",
+"en": "Notes, Comment",
+"edu": "중"
+},
+{
+"ch": "注",
+"hun": "부을 주",
+"en": "Pour, Irrigate",
+"edu": "중"
+},
+{
+"ch": "住",
+"hun": "살 주",
+"en": "Dwell, Reside",
+"edu": "중"
+},
+{
+"ch": "柱",
+"hun": "기둥 주",
+"en": "Pillar, Post",
+"edu": "고"
+}
+]
+},
+{
+"root": "弗",
+"hun": "아닐·말 불",
+"en": "Dollar",
+"members": [
+{
+"ch": "彿",
+"hun": "비슷할 불",
+"en": "Dimly",
+"edu": "중"
+},
+{
+"ch": "佛",
+"hun": "부처 불",
+"en": "Buddha, The Dead",
+"edu": "중"
+},
+{
+"ch": "拂",
+"hun": "떨칠 불",
+"en": "Pay, Clear Out",
+"edu": "고"
+},
+{
+"ch": "費",
+"hun": "쓸 비",
+"en": "Expense, Cost",
+"edu": "고"
+}
+]
+},
+{
+"root": "昔",
+"hun": "예 석",
+"en": "Once Upon A Time",
+"members": [
+{
+"ch": "惜",
+"hun": "아낄 석",
+"en": "Pity, Be Sparing Of",
+"edu": "중"
+},
+{
+"ch": "借",
+"hun": "빌·빌릴 차",
+"en": "Borrow, Rent",
+"edu": "중"
+},
+{
+"ch": "籍",
+"hun": "문서 적",
+"en": "Enroll, Domiciliary Register",
+"edu": "고"
+},
+{
+"ch": "錯",
+"hun": "어긋날 착",
+"en": "Confused, Mix",
+"edu": "고"
+}
+]
+},
+{
+"root": "扁",
+"hun": "작을 편",
+"en": "Level",
+"members": [
+{
+"ch": "篇",
+"hun": "책 편",
+"en": "Volume, Chapter",
+"edu": "중"
+},
+{
+"ch": "偏",
+"hun": "치우칠 편",
+"en": "Partial, Side",
+"edu": "고"
+},
+{
+"ch": "編",
+"hun": "엮을 편",
+"en": "Compilation, Knit",
+"edu": "고"
+},
+{
+"ch": "遍",
+"hun": "두루 편",
+"en": "Everywhere, Times",
+"edu": "고"
+}
+]
+},
+{
+"root": "畐",
+"hun": "",
+"en": "To Fill",
+"members": [
+{
+"ch": "富",
+"hun": "부자 부",
+"en": "Wealth, Enrich",
+"edu": "중"
+},
+{
+"ch": "福",
+"hun": "복 복",
+"en": "Blessing, Fortune",
+"edu": "중"
+},
+{
+"ch": "幅",
+"hun": "폭 폭",
+"en": "Hanging Scroll, Width",
+"edu": "고"
+},
+{
+"ch": "副",
+"hun": "버금 부",
+"en": "Vice-, Assistant",
+"edu": "고"
+}
+]
+},
+{
+"root": "甬",
+"hun": "종꼭지 용",
+"en": "Road With Walls On Both Sides",
+"members": [
+{
+"ch": "勇",
+"hun": "날랠 용",
+"en": "Courage, Cheer Up",
+"edu": "중"
+},
+{
+"ch": "通",
+"hun": "통할 통",
+"en": "Traffic, Pass Through",
+"edu": "중"
+},
+{
+"ch": "誦",
+"hun": "욀 송",
+"en": "Recite, Chant",
+"edu": "고"
+},
+{
+"ch": "痛",
+"hun": "아플 통",
+"en": "Pain, Hurt",
+"edu": "고"
+}
+]
+},
+{
+"root": "曾",
+"hun": "일찍 증",
+"en": "Formerly",
+"members": [
+{
+"ch": "增",
+"hun": "더할 증",
+"en": "Increase, Add",
+"edu": "중"
+},
+{
+"ch": "憎",
+"hun": "미울 증",
+"en": "Hate, Detest",
+"edu": "고"
+},
+{
+"ch": "贈",
+"hun": "줄 증",
+"en": "Presents, Send",
+"edu": "고"
+},
+{
+"ch": "層",
+"hun": "층 층",
+"en": "Stratum, Social Class",
+"edu": "고"
+}
+]
+},
+{
+"root": "亡",
+"hun": "망할 망",
+"en": "Deceased",
+"members": [
+{
+"ch": "望",
+"hun": "바랄 망",
+"en": "Ambition, Full Moon",
+"edu": "중"
+},
+{
+"ch": "忘",
+"hun": "잊을 망",
+"en": "Forget",
+"edu": "중"
+},
+{
+"ch": "忙",
+"hun": "바쁠 망",
+"en": "Busy, Occupied",
+"edu": "중"
+},
+{
+"ch": "妄",
+"hun": "망령될 망",
+"en": "Delusion, Unnecessarily",
+"edu": "고"
+}
+]
+},
+{
+"root": "台",
+"hun": "별 태",
+"en": "Pedestal",
+"members": [
+{
+"ch": "治",
+"hun": "다스릴 치",
+"en": "Reign, Be At Peace",
+"edu": "중"
+},
+{
+"ch": "始",
+"hun": "비로소 시",
+"en": "Commence, Begin",
+"edu": "중"
+},
+{
+"ch": "殆",
+"hun": "거의 태",
+"en": "Almost, Quite",
+"edu": "고"
+},
+{
+"ch": "怠",
+"hun": "게으를 태",
+"en": "Neglect, Laziness",
+"edu": "고"
+}
+]
+},
+{
+"root": "各",
+"hun": "각각 각",
+"en": "Each",
+"members": [
+{
+"ch": "客",
+"hun": "손 객",
+"en": "Guest, Visitor",
+"edu": "중"
+},
+{
+"ch": "閣",
+"hun": "집 각",
+"en": "Tower, Tall Building",
+"edu": "고"
+},
+{
+"ch": "絡",
+"hun": "이을·얽을 락",
+"en": "Entwine, Coil Around",
+"edu": "고"
+},
+{
+"ch": "格",
+"hun": "격식 격",
+"en": "Status, Rank",
+"edu": "고"
+}
+]
+},
+{
+"root": "莫",
+"hun": "없을 막",
+"en": "Must Not",
+"members": [
+{
+"ch": "暮",
+"hun": "저물 모",
+"en": "Evening, Twilight",
+"edu": "중"
+},
+{
+"ch": "幕",
+"hun": "장막 막",
+"en": "Curtain, Bunting",
+"edu": "고"
+},
+{
+"ch": "漠",
+"hun": "넓을 막",
+"en": "Vague, Obscure",
+"edu": "고"
+},
+{
+"ch": "模",
+"hun": "본뜰 모",
+"en": "Imitation, Copy",
+"edu": "고"
+}
+]
+},
+{
+"root": "每",
+"hun": "매양 매",
+"en": "Every",
+"members": [
+{
+"ch": "海",
+"hun": "바다 해",
+"en": "Sea, Ocean",
+"edu": "중"
+},
+{
+"ch": "悔",
+"hun": "뉘우칠 회",
+"en": "Repent, Regret",
+"edu": "고"
+},
+{
+"ch": "敏",
+"hun": "민첩할 민",
+"en": "Cleverness, Agile",
+"edu": "고"
+},
+{
+"ch": "梅",
+"hun": "매화 매",
+"en": "Plum",
+"edu": "고"
+}
+]
+},
+{
+"root": "召",
+"hun": "부를 소",
+"en": "Seduce",
+"members": [
+{
+"ch": "招",
+"hun": "부를 초",
+"en": "Beckon, Invite",
+"edu": "중"
+},
+{
+"ch": "昭",
+"hun": "밝을 소",
+"en": "Shining, Bright",
+"edu": "고"
+},
+{
+"ch": "照",
+"hun": "비칠 조",
+"en": "Illuminate, Shine",
+"edu": "고"
+},
+{
+"ch": "超",
+"hun": "뛰어넘을 초",
+"en": "Transcend, Super-",
+"edu": "고"
+}
+]
+},
+{
+"root": "啇",
+"hun": "",
+"en": "The Stalk",
+"members": [
+{
+"ch": "敵",
+"hun": "대적할 적",
+"en": "Enemy, Foe",
+"edu": "중"
+},
+{
+"ch": "適",
+"hun": "맞을 적",
+"en": "Suitable, Occasional",
+"edu": "중"
+},
+{
+"ch": "摘",
+"hun": "딸 적",
+"en": "Pinch, Pick",
+"edu": "고"
+},
+{
+"ch": "滴",
+"hun": "물방울 적",
+"en": "Drip, Drop",
+"edu": "고"
+}
+]
+},
+{
+"root": "交",
+"hun": "사귈 교",
+"en": "Mingle",
+"members": [
+{
+"ch": "效",
+"hun": "본받을 효",
+"en": "Merit, Efficacy",
+"edu": "중"
+},
+{
+"ch": "校",
+"hun": "학교 교",
+"en": "Exam, School",
+"edu": "중"
+},
+{
+"ch": "郊",
+"hun": "들 교",
+"en": "Outskirts, Suburbs",
+"edu": "고"
+},
+{
+"ch": "較",
+"hun": "견줄·비교할 교",
+"en": "Contrast, Compare",
+"edu": "고"
+}
+]
+},
+{
+"root": "公",
+"hun": "공평할 공",
+"en": "Public",
+"members": [
+{
+"ch": "松",
+"hun": "소나무 송",
+"en": "Pine Tree",
+"edu": "중"
+},
+{
+"ch": "翁",
+"hun": "늙은이 옹",
+"en": "Venerable Old Man",
+"edu": "고"
+},
+{
+"ch": "訟",
+"hun": "송사할 송",
+"en": "Sue, Accuse",
+"edu": "고"
+},
+{
+"ch": "頌",
+"hun": "기릴·칭송할 송",
+"en": "Eulogy",
+"edu": "고"
+}
+]
+},
+{
+"root": "羊",
+"hun": "양 양",
+"en": "Sheep",
+"members": [
+{
+"ch": "養",
+"hun": "기를 양",
+"en": "Foster, Bring Up",
+"edu": "중"
+},
+{
+"ch": "洋",
+"hun": "큰바다 양",
+"en": "Ocean, Sea",
+"edu": "중"
+},
+{
+"ch": "詳",
+"hun": "자세할 상",
+"en": "Detailed, Full",
+"edu": "고"
+},
+{
+"ch": "樣",
+"hun": "모양 양",
+"en": "Esq., Way",
+"edu": "고"
+}
+]
+},
+{
+"root": "干",
+"hun": "방패 간",
+"en": "Dry",
+"members": [
+{
+"ch": "肝",
+"hun": "간 간",
+"en": "Liver, Pluck",
+"edu": "고"
+},
+{
+"ch": "岸",
+"hun": "언덕 안",
+"en": "Beach",
+"edu": "고"
+},
+{
+"ch": "汗",
+"hun": "땀 한",
+"en": "Sweat, Perspire",
+"edu": "고"
+},
+{
+"ch": "刊",
+"hun": "새길 간",
+"en": "Publish, Carve",
+"edu": "고"
+}
+]
+},
+{
+"root": "甫",
+"hun": "클 보",
+"en": "For The First Time",
+"members": [
+{
+"ch": "浦",
+"hun": "개 포",
+"en": "Bay, Creek",
+"edu": "고"
+},
+{
+"ch": "博",
+"hun": "넓을 박",
+"en": "Dr., Command",
+"edu": "고"
+},
+{
+"ch": "捕",
+"hun": "잡을 포",
+"en": "Catch, Capture",
+"edu": "고"
+},
+{
+"ch": "補",
+"hun": "기울 보",
+"en": "Supplement, Supply",
+"edu": "고"
+}
+]
+},
+{
+"root": "兆",
+"hun": "억조 조",
+"en": "Portent",
+"members": [
+{
+"ch": "桃",
+"hun": "복숭아 도",
+"en": "Peach",
+"edu": "고"
+},
+{
+"ch": "挑",
+"hun": "돋울 도",
+"en": "Challenge, Contend For",
+"edu": "고"
+},
+{
+"ch": "跳",
+"hun": "뛸 도",
+"en": "Hop, Leap Up",
+"edu": "고"
+},
+{
+"ch": "逃",
+"hun": "도망할 도",
+"en": "Escape, Flee",
+"edu": "고"
+}
+]
+},
+{
+"root": "也",
+"hun": "이끼·어조사 야",
+"en": "To Be (classical)",
+"members": [
+{
+"ch": "他",
+"hun": "다를 타",
+"en": "Other, Another",
+"edu": "중"
+},
+{
+"ch": "地",
+"hun": "따 지",
+"en": "Ground, Earth",
+"edu": "중"
+},
+{
+"ch": "池",
+"hun": "못 지",
+"en": "Pond, Cistern",
+"edu": "고"
+}
+]
+},
+{
+"root": "半",
+"hun": "반(半) 반",
+"en": "Half",
+"members": [
+{
+"ch": "判",
+"hun": "판단할 판",
+"en": "Judgement, Signature",
+"edu": "중"
+},
+{
+"ch": "叛",
+"hun": "배반할 반",
+"en": "Disobey, Defy",
+"edu": "고"
+},
+{
+"ch": "伴",
+"hun": "짝 반",
+"en": "Consort, Accompany",
+"edu": "고"
+}
+]
+},
+{
+"root": "氐",
+"hun": "근본 저",
+"en": "Name Of An Ancient Tribe",
+"members": [
+{
+"ch": "低",
+"hun": "낮을 저",
+"en": "Lower, Short",
+"edu": "중"
+},
+{
+"ch": "抵",
+"hun": "막을 저",
+"en": "Resist, Reach",
+"edu": "고"
+},
+{
+"ch": "底",
+"hun": "밑 저",
+"en": "Bottom, Sole",
+"edu": "고"
+}
+]
+},
+{
+"root": "圭",
+"hun": "서옥(瑞玉)·쌍토 규",
+"en": "Square Jewel",
+"members": [
+{
+"ch": "佳",
+"hun": "아름다울 가",
+"en": "Excellent, Beautiful",
+"edu": "중"
+},
+{
+"ch": "街",
+"hun": "거리 가",
+"en": "Boulevard, Street",
+"edu": "중"
+},
+{
+"ch": "桂",
+"hun": "계수나무 계",
+"en": "Japanese Judas-tree, Cinnamon Tree",
+"edu": "고"
+}
+]
+},
+{
+"root": "列",
+"hun": "벌릴 렬",
+"en": "File",
+"members": [
+{
+"ch": "烈",
+"hun": "매울 렬",
+"en": "Ardent, Violent",
+"edu": "중"
+},
+{
+"ch": "例",
+"hun": "법식 례",
+"en": "Example, Custom",
+"edu": "중"
+},
+{
+"ch": "裂",
+"hun": "찢어질 렬",
+"en": "Split, Rend",
+"edu": "고"
+}
+]
+},
+{
+"root": "直",
+"hun": "곧을 직",
+"en": "Straightaway",
+"members": [
+{
+"ch": "植",
+"hun": "심을 식",
+"en": "Plant",
+"edu": "중"
+},
+{
+"ch": "置",
+"hun": "둘 치",
+"en": "Placement, Put",
+"edu": "고"
+},
+{
+"ch": "値",
+"hun": "값 치",
+"en": "Price, Cost",
+"edu": "고"
+}
+]
+},
+{
+"root": "令",
+"hun": "하여금 령",
+"en": "Orders",
+"members": [
+{
+"ch": "領",
+"hun": "거느릴 령",
+"en": "Jurisdiction, Dominion",
+"edu": "중"
+},
+{
+"ch": "冷",
+"hun": "찰 랭",
+"en": "Cool, Cold (beer",
+"edu": "중"
+},
+{
+"ch": "零",
+"hun": "떨어질·영 령",
+"en": "Zero, Spill",
+"edu": "고"
+}
+]
+},
+{
+"root": "重",
+"hun": "무거울 중",
+"en": "Heavy",
+"members": [
+{
+"ch": "種",
+"hun": "씨 종",
+"en": "Species, Kind",
+"edu": "중"
+},
+{
+"ch": "動",
+"hun": "움직일 동",
+"en": "Move, Motion",
+"edu": "중"
+},
+{
+"ch": "衝",
+"hun": "찌를 충",
+"en": "Collide, Brunt",
+"edu": "고"
+}
+]
+},
+{
+"root": "今",
+"hun": "이제 금",
+"en": "Now",
+"members": [
+{
+"ch": "念",
+"hun": "생각 념",
+"en": "Wish, Sense",
+"edu": "중"
+},
+{
+"ch": "琴",
+"hun": "거문고 금",
+"en": "Harp, Koto",
+"edu": "고"
+},
+{
+"ch": "含",
+"hun": "머금을 함",
+"en": "Contain, Include",
+"edu": "고"
+}
+]
+},
+{
+"root": "及",
+"hun": "미칠 급",
+"en": "Reach Out",
+"members": [
+{
+"ch": "急",
+"hun": "급할 급",
+"en": "Hurry, Emergency",
+"edu": "중"
+},
+{
+"ch": "級",
+"hun": "등급 급",
+"en": "Class, Rank",
+"edu": "고"
+},
+{
+"ch": "吸",
+"hun": "마실 흡",
+"en": "Suck, Imbibe",
+"edu": "고"
+}
+]
+},
+{
+"root": "門",
+"hun": "문 문",
+"en": "Gate",
+"members": [
+{
+"ch": "問",
+"hun": "물을 문",
+"en": "Question, Ask",
+"edu": "중"
+},
+{
+"ch": "間",
+"hun": "사이 간",
+"en": "Interval, Space",
+"edu": "중"
+},
+{
+"ch": "聞",
+"hun": "들을 문",
+"en": "Hear, Ask",
+"edu": "중"
+}
+]
+},
+{
+"root": "成",
+"hun": "이룰 성",
+"en": "Turn Into",
+"members": [
+{
+"ch": "盛",
+"hun": "성할 성",
+"en": "Boom, Prosper",
+"edu": "중"
+},
+{
+"ch": "誠",
+"hun": "정성 성",
+"en": "Sincerity, Admonish",
+"edu": "중"
+},
+{
+"ch": "城",
+"hun": "재 성",
+"en": "Castle",
+"edu": "중"
+}
+]
+},
+{
+"root": "其",
+"hun": "그 기",
+"en": "That",
+"members": [
+{
+"ch": "基",
+"hun": "터 기",
+"en": "Fundamentals, Radical (chem)",
+"edu": "중"
+},
+{
+"ch": "期",
+"hun": "기약할 기",
+"en": "Period, Time",
+"edu": "중"
+},
+{
+"ch": "欺",
+"hun": "속일 기",
+"en": "Deceit, Cheat",
+"edu": "고"
+}
+]
+},
+{
+"root": "襄",
+"hun": "도울 양",
+"en": "Rise",
+"members": [
+{
+"ch": "讓",
+"hun": "사양할 양",
+"en": "Defer, Turnover",
+"edu": "중"
+},
+{
+"ch": "壤",
+"hun": "흙덩이 양",
+"en": "Lot, Earth",
+"edu": "고"
+},
+{
+"ch": "孃",
+"hun": "아가씨 양",
+"en": "Lass, Girl",
+"edu": "고"
+}
+]
+},
+{
+"root": "生",
+"hun": "날 생",
+"en": "Life",
+"members": [
+{
+"ch": "星",
+"hun": "별 성",
+"en": "Star, Spot",
+"edu": "중"
+},
+{
+"ch": "姓",
+"hun": "성 성",
+"en": "Surname",
+"edu": "중"
+},
+{
+"ch": "性",
+"hun": "성품 성",
+"en": "Sex, Gender",
+"edu": "중"
+}
+]
+},
+{
+"root": "至",
+"hun": "이를 지",
+"en": "Climax",
+"members": [
+{
+"ch": "致",
+"hun": "이를 치",
+"en": "Doth, Do",
+"edu": "중"
+},
+{
+"ch": "室",
+"hun": "집 실",
+"en": "Room, Apartment",
+"edu": "중"
+},
+{
+"ch": "姪",
+"hun": "조카 질",
+"en": "Niece",
+"edu": "고"
+}
+]
+},
+{
+"root": "良",
+"hun": "어질 량",
+"en": "Good",
+"members": [
+{
+"ch": "郞",
+"hun": "사내 랑",
+"en": "Son, Counter For Sons",
+"edu": "중"
+},
+{
+"ch": "浪",
+"hun": "물결 랑",
+"en": "Wandering, Waves",
+"edu": "중"
+},
+{
+"ch": "娘",
+"hun": "계집 낭",
+"en": "Daughter, Girl",
+"edu": "고"
+}
+]
+},
+{
+"root": "單",
+"hun": "홑 단",
+"en": "Simple",
+"members": [
+{
+"ch": "戰",
+"hun": "싸움 전",
+"en": "War, Battle",
+"edu": "중"
+},
+{
+"ch": "禪",
+"hun": "선 선",
+"en": "Zen, Silent Meditation",
+"edu": "고"
+},
+{
+"ch": "彈",
+"hun": "탄알 탄",
+"en": "Bullet, Twang",
+"edu": "고"
+}
+]
+},
+{
+"root": "巠",
+"hun": "",
+"en": "Streams Running Underground",
+"members": [
+{
+"ch": "輕",
+"hun": "가벼울 경",
+"en": "Lightly, Trifling",
+"edu": "중"
+},
+{
+"ch": "經",
+"hun": "지날·글 경",
+"en": "Sutra, Longitude",
+"edu": "중"
+},
+{
+"ch": "徑",
+"hun": "지름길·길 경",
+"en": "Diameter, Path",
+"edu": "고"
+}
+]
+},
+{
+"root": "非",
+"hun": "아닐 비",
+"en": "Un-",
+"members": [
+{
+"ch": "悲",
+"hun": "슬플 비",
+"en": "Grieve, Sad",
+"edu": "중"
+},
+{
+"ch": "輩",
+"hun": "무리 배",
+"en": "Comrade, Fellow",
+"edu": "고"
+},
+{
+"ch": "排",
+"hun": "밀칠 배",
+"en": "Repudiate, Exclude",
+"edu": "고"
+}
+]
+},
+{
+"root": "咸",
+"hun": "다 함",
+"en": "All",
+"members": [
+{
+"ch": "減",
+"hun": "덜 감",
+"en": "Dwindle, Decrease",
+"edu": "중"
+},
+{
+"ch": "感",
+"hun": "느낄 감",
+"en": "Emotion, Feeling",
+"edu": "중"
+},
+{
+"ch": "鹹",
+"hun": "짤 함",
+"en": "Salty",
+"edu": "고"
+}
+]
+},
+{
+"root": "包",
+"hun": "쌀 포",
+"en": "Wrap",
+"members": [
+{
+"ch": "抱",
+"hun": "안을 포",
+"en": "Embrace, Hug",
+"edu": "중"
+},
+{
+"ch": "胞",
+"hun": "세포 포",
+"en": "Placenta, Sac",
+"edu": "고"
+},
+{
+"ch": "飽",
+"hun": "배부를 포",
+"en": "Sated, Tired Of",
+"edu": "고"
+}
+]
+},
+{
+"root": "由",
+"hun": "말미암을 유",
+"en": "Wherefore",
+"members": [
+{
+"ch": "油",
+"hun": "기름 유",
+"en": "Oil, Fat",
+"edu": "중"
+},
+{
+"ch": "抽",
+"hun": "뽑을 추",
+"en": "Pluck, Pull",
+"edu": "고"
+},
+{
+"ch": "郵",
+"hun": "우편 우",
+"en": "Mail, Stagecoach Stop",
+"edu": "고"
+}
+]
+},
+{
+"root": "合",
+"hun": "합할 합",
+"en": "Fit",
+"members": [
+{
+"ch": "拾",
+"hun": "주울 습, 열 십",
+"en": "Pick Up, Gather",
+"edu": "중"
+},
+{
+"ch": "給",
+"hun": "줄 급",
+"en": "Salary, Wage",
+"edu": "중"
+},
+{
+"ch": "答",
+"hun": "대답 답",
+"en": "Solution, Answer",
+"edu": "중"
+}
+]
+},
+{
+"root": "央",
+"hun": "가운데 앙",
+"en": "Center",
+"members": [
+{
+"ch": "英",
+"hun": "꽃부리 영",
+"en": "England, English",
+"edu": "중"
+},
+{
+"ch": "殃",
+"hun": "재앙 앙",
+"en": "Misfortune, Disaster",
+"edu": "고"
+},
+{
+"ch": "映",
+"hun": "비칠 영",
+"en": "Reflect, Reflection",
+"edu": "고"
+}
+]
+},
+{
+"root": "里",
+"hun": "마을 리",
+"en": "Ri",
+"members": [
+{
+"ch": "裡",
+"hun": "속 리",
+"en": "Reverse, Inside",
+"edu": "중"
+},
+{
+"ch": "理",
+"hun": "다스릴 리",
+"en": "Logic, Arrangement",
+"edu": "중"
+},
+{
+"ch": "裏",
+"hun": "속 리",
+"en": "Back, Amidst",
+"edu": "고"
+}
+]
+},
+{
+"root": "分",
+"hun": "나눌 분",
+"en": "Part",
+"members": [
+{
+"ch": "貧",
+"hun": "가난할 빈",
+"en": "Poverty, Poor",
+"edu": "중"
+},
+{
+"ch": "紛",
+"hun": "어지러울 분",
+"en": "Distract, Be Mistaken For",
+"edu": "고"
+},
+{
+"ch": "粉",
+"hun": "가루 분",
+"en": "Flour, Powder",
+"edu": "고"
+}
+]
+},
+{
+"root": "戠",
+"hun": "",
+"en": "Sword",
+"members": [
+{
+"ch": "識",
+"hun": "알 식",
+"en": "Discriminating, Know",
+"edu": "중"
+},
+{
+"ch": "織",
+"hun": "짤 직",
+"en": "Weave, Fabric",
+"edu": "고"
+},
+{
+"ch": "職",
+"hun": "직분 직",
+"en": "Post, Employment",
+"edu": "고"
+}
+]
+},
+{
+"root": "化",
+"hun": "될 화",
+"en": "Change",
+"members": [
+{
+"ch": "華",
+"hun": "빛날 화",
+"en": "Splendor, Flower",
+"edu": "중"
+},
+{
+"ch": "貨",
+"hun": "재물 화",
+"en": "Freight, Goods",
+"edu": "중"
+},
+{
+"ch": "花",
+"hun": "꽃 화",
+"en": "Flower",
+"edu": "중"
+}
+]
+},
+{
+"root": "亥",
+"hun": "돼지 해",
+"en": "Sign Of The Hog",
+"members": [
+{
+"ch": "核",
+"hun": "씨 핵",
+"en": "Nucleus, Core",
+"edu": "고"
+},
+{
+"ch": "該",
+"hun": "갖출·마땅 해",
+"en": "Above-stated, The Said",
+"edu": "고"
+},
+{
+"ch": "刻",
+"hun": "새길 각",
+"en": "Engrave, Cut Fine",
+"edu": "고"
+}
+]
+},
+{
+"root": "岡",
+"hun": "산등성이 강",
+"en": "Mount",
+"members": [
+{
+"ch": "綱",
+"hun": "벼리 강",
+"en": "Hawser, Class (genus)",
+"edu": "고"
+},
+{
+"ch": "鋼",
+"hun": "강철 강",
+"en": "Steel",
+"edu": "고"
+},
+{
+"ch": "剛",
+"hun": "굳셀 강",
+"en": "Sturdy, Strength",
+"edu": "고"
+}
+]
+},
+{
+"root": "付",
+"hun": "부칠 부",
+"en": "Adhere",
+"members": [
+{
+"ch": "附",
+"hun": "붙을 부",
+"en": "Affixed, Attach",
+"edu": "고"
+},
+{
+"ch": "府",
+"hun": "마을 부",
+"en": "Borough, Urban Prefecture",
+"edu": "고"
+},
+{
+"ch": "符",
+"hun": "부호 부",
+"en": "Token, Sign",
+"edu": "고"
+}
+]
+},
+{
+"root": "斬",
+"hun": "벨 참",
+"en": "Beheading",
+"members": [
+{
+"ch": "慙",
+"hun": "부끄러울 참",
+"en": "Ashamed, Humiliated",
+"edu": "고"
+},
+{
+"ch": "暫",
+"hun": "잠깐 잠",
+"en": "Temporarily, A While",
+"edu": "고"
+},
+{
+"ch": "漸",
+"hun": "점점 점",
+"en": "Steadily, Gradually Advancing",
+"edu": "고"
+}
+]
+},
+{
+"root": "少",
+"hun": "적을 소",
+"en": "Few",
+"members": [
+{
+"ch": "抄",
+"hun": "뽑을 초",
+"en": "Extract, Selection",
+"edu": "고"
+},
+{
+"ch": "秒",
+"hun": "분초 초",
+"en": "Second (1/60 Minute)",
+"edu": "고"
+},
+{
+"ch": "沙",
+"hun": "모래 사",
+"en": "Sand",
+"edu": "고"
+}
+]
+},
+{
+"root": "句",
+"hun": "글귀 구",
+"en": "Phrase",
+"members": [
+{
+"ch": "苟",
+"hun": "진실로·구차할 구",
+"en": "Any, At All",
+"edu": "고"
+},
+{
+"ch": "拘",
+"hun": "잡을 구",
+"en": "Arrest, Seize",
+"edu": "고"
+},
+{
+"ch": "狗",
+"hun": "개 구",
+"en": "Puppy, Dog",
+"edu": "고"
+}
+]
+},
+{
+"root": "辰",
+"hun": "별 진, 때 신",
+"en": "Sign Of The Dragon",
+"members": [
+{
+"ch": "振",
+"hun": "떨칠 진",
+"en": "Shake, Wave",
+"edu": "고"
+},
+{
+"ch": "震",
+"hun": "우레 진",
+"en": "Quake, Shake",
+"edu": "고"
+},
+{
+"ch": "晨",
+"hun": "새벽 신",
+"en": "Morning, Early",
+"edu": "고"
+}
+]
+},
+{
+"root": "朱",
+"hun": "붉을 주",
+"en": "Vermilion",
+"members": [
+{
+"ch": "株",
+"hun": "그루 주",
+"en": "Stocks, Stump",
+"edu": "고"
+},
+{
+"ch": "珠",
+"hun": "구슬 주",
+"en": "Pearl, Gem",
+"edu": "고"
+},
+{
+"ch": "殊",
+"hun": "다를 수",
+"en": "Particularly, Especially",
+"edu": "고"
+}
+]
+},
+{
+"root": "高",
+"hun": "높을 고",
+"en": "Tall",
+"members": [
+{
+"ch": "毫",
+"hun": "터럭 호",
+"en": "Fine Hair, Brush",
+"edu": "고"
+},
+{
+"ch": "豪",
+"hun": "호걸 호",
+"en": "Overpowering, Great",
+"edu": "고"
+},
+{
+"ch": "稿",
+"hun": "원고·볏짚 고",
+"en": "Draft, Copy",
+"edu": "고"
+}
+]
+},
+{
+"root": "監",
+"hun": "볼 감",
+"en": "Oversee",
+"members": [
+{
+"ch": "濫",
+"hun": "넘칠 람",
+"en": "Excessive, Overflow",
+"edu": "고"
+},
+{
+"ch": "覽",
+"hun": "볼 람",
+"en": "Perusal, See",
+"edu": "고"
+},
+{
+"ch": "鑑",
+"hun": "거울 감",
+"en": "Specimen, Take Warning From",
+"edu": "고"
+}
+]
+},
+{
+"root": "復",
+"hun": "회복할 복, 다시 부",
+"en": "Restore",
+"members": [
+{
+"ch": "覆",
+"hun": "덮을 부, 다시 복",
+"en": "Capsize, Cover",
+"edu": "고"
+},
+{
+"ch": "腹",
+"hun": "배 복",
+"en": "Abdomen, Belly",
+"edu": "고"
+},
+{
+"ch": "複",
+"hun": "겹칠 복",
+"en": "Duplicate, Double",
+"edu": "고"
+}
+]
+}
+]
+}

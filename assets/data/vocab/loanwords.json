@@ -1,0 +1,1439 @@
+{
+ "_meta": "Korean loanwords from English — stage 1 core · 2 intermediate · 3 all",
+ "intro": "Korean borrows thousands of English words, but reshapes them to fit Korean sounds: extra 으 vowels, f → ㅍ, r and l → ㄹ. Learn these few rules and you can read — and often guess — hundreds of words. Watch out for Konglish, though: some words look English but mean something else.",
+ "branches": [
+  {
+   "id": "vowel",
+   "title": "Extra vowel 으",
+   "emoji": "🔤",
+   "rule": "A Korean syllable can't hold a cluster like st- or end on most consonants, so Korean adds a soft 으 (eu) after the stranded consonant. That's why one English syllable can become two or three Korean ones.",
+   "words": [
+    {
+     "ko": "버스",
+     "rd": "beoseu",
+     "en": "bus",
+     "note": "s → 스",
+     "st": 1
+    },
+    {
+     "ko": "테스트",
+     "rd": "teseuteu",
+     "en": "test",
+     "note": "two 으 vowels: s·t → 스·트",
+     "st": 1
+    },
+    {
+     "ko": "케이크",
+     "rd": "keikeu",
+     "en": "cake",
+     "note": "a → 에이, final k → 크",
+     "st": 1
+    },
+    {
+     "ko": "아이스크림",
+     "rd": "aiseukeurim",
+     "en": "ice cream",
+     "st": 1
+    },
+    {
+     "ko": "주스",
+     "rd": "juseu",
+     "en": "juice",
+     "note": "Standard spelling; 쥬스 is a common misspelling",
+     "st": 1
+    },
+    {
+     "ko": "마스크",
+     "rd": "maseukeu",
+     "en": "mask",
+     "st": 1
+    },
+    {
+     "ko": "스키",
+     "rd": "seuki",
+     "en": "ski",
+     "note": "Initial sk- splits into 스 + 키",
+     "st": 1
+    },
+    {
+     "ko": "드라마",
+     "rd": "deurama",
+     "en": "drama",
+     "note": "dr- → 드라",
+     "st": 1
+    },
+    {
+     "ko": "스포츠",
+     "rd": "seupocheu",
+     "en": "sports",
+     "note": "Final -ts → 츠",
+     "st": 1
+    },
+    {
+     "ko": "택시",
+     "rd": "taeksi",
+     "en": "taxi",
+     "note": "x = ks → ㄱ + 시",
+     "st": 1
+    },
+    {
+     "ko": "크림",
+     "rd": "keurim",
+     "en": "cream",
+     "st": 2
+    },
+    {
+     "ko": "가스",
+     "rd": "gaseu",
+     "en": "gas",
+     "st": 2
+    },
+    {
+     "ko": "스트레스",
+     "rd": "seuteureseu",
+     "en": "stress",
+     "note": "str- → 스트, three syllables from one",
+     "st": 2
+    },
+    {
+     "ko": "데스크",
+     "rd": "deseukeu",
+     "en": "desk",
+     "st": 2
+    },
+    {
+     "ko": "스타일",
+     "rd": "seutail",
+     "en": "style",
+     "st": 2
+    },
+    {
+     "ko": "스케줄",
+     "rd": "seukejul",
+     "en": "schedule",
+     "st": 2
+    },
+    {
+     "ko": "스마트폰",
+     "rd": "seumateupon",
+     "en": "smartphone",
+     "note": "ph → ㅍ too",
+     "st": 2
+    },
+    {
+     "ko": "브랜드",
+     "rd": "beuraendeu",
+     "en": "brand",
+     "note": "Final -nd → ㄴ + 드",
+     "st": 2
+    },
+    {
+     "ko": "그룹",
+     "rd": "geurup",
+     "en": "group",
+     "note": "gr- → 그",
+     "st": 2
+    },
+    {
+     "ko": "프로그램",
+     "rd": "peurogeuraem",
+     "en": "program",
+     "st": 2
+    },
+    {
+     "ko": "클래스",
+     "rd": "keullaeseu",
+     "en": "class",
+     "st": 2
+    },
+    {
+     "ko": "스타",
+     "rd": "seuta",
+     "en": "star",
+     "note": "Final r is silent",
+     "st": 2
+    },
+    {
+     "ko": "트럭",
+     "rd": "teureok",
+     "en": "truck",
+     "st": 2
+    },
+    {
+     "ko": "스케이트",
+     "rd": "seukeiteu",
+     "en": "skate",
+     "st": 2
+    },
+    {
+     "ko": "플러스",
+     "rd": "peulleoseu",
+     "en": "plus",
+     "st": 2
+    },
+    {
+     "ko": "스크린",
+     "rd": "seukeurin",
+     "en": "screen",
+     "note": "scr- → 스크",
+     "st": 3
+    },
+    {
+     "ko": "스프레이",
+     "rd": "seupeurei",
+     "en": "spray",
+     "st": 3
+    },
+    {
+     "ko": "스트라이크",
+     "rd": "seuteuraikeu",
+     "en": "strike",
+     "st": 3
+    },
+    {
+     "ko": "디스크",
+     "rd": "diseukeu",
+     "en": "disk",
+     "st": 3
+    },
+    {
+     "ko": "블록",
+     "rd": "beullok",
+     "en": "block",
+     "st": 3
+    },
+    {
+     "ko": "프라이버시",
+     "rd": "peuraibeosi",
+     "en": "privacy",
+     "note": "v → ㅂ as well",
+     "st": 3
+    },
+    {
+     "ko": "크레디트",
+     "rd": "keurediteu",
+     "en": "credit",
+     "note": "Standard spelling; 크레딧 is common in speech",
+     "st": 3
+    },
+    {
+     "ko": "스튜디오",
+     "rd": "seutyudio",
+     "en": "studio",
+     "st": 3
+    },
+    {
+     "ko": "스펀지",
+     "rd": "seupeonji",
+     "en": "sponge",
+     "st": 3
+    },
+    {
+     "ko": "트렌드",
+     "rd": "teurendeu",
+     "en": "trend",
+     "st": 3
+    },
+    {
+     "ko": "플랫폼",
+     "rd": "peullaetpom",
+     "en": "platform",
+     "st": 3
+    },
+    {
+     "ko": "드레스",
+     "rd": "deureseu",
+     "en": "dress",
+     "st": 3
+    },
+    {
+     "ko": "글로벌",
+     "rd": "geullobeol",
+     "en": "global",
+     "st": 3
+    }
+   ]
+  },
+  {
+   "id": "fv",
+   "title": "F → ㅍ, V → ㅂ",
+   "emoji": "💨",
+   "rule": "Korean has no f or v sounds. F (and ph) becomes ㅍ (p), and v becomes ㅂ (b).",
+   "words": [
+    {
+     "ko": "커피",
+     "rd": "keopi",
+     "en": "coffee",
+     "note": "ff → ㅍ",
+     "st": 1
+    },
+    {
+     "ko": "파일",
+     "rd": "pail",
+     "en": "file",
+     "st": 1
+    },
+    {
+     "ko": "비디오",
+     "rd": "bidio",
+     "en": "video",
+     "note": "v → ㅂ",
+     "st": 1
+    },
+    {
+     "ko": "포크",
+     "rd": "pokeu",
+     "en": "fork",
+     "st": 1
+    },
+    {
+     "ko": "팬",
+     "rd": "paen",
+     "en": "fan",
+     "note": "Also used for a fan of a star",
+     "st": 1
+    },
+    {
+     "ko": "패스트푸드",
+     "rd": "paeseuteupudeu",
+     "en": "fast food",
+     "note": "Both f's → ㅍ",
+     "st": 1
+    },
+    {
+     "ko": "프라이팬",
+     "rd": "peuraipaen",
+     "en": "frying pan",
+     "note": "fry- → 프라이",
+     "st": 1
+    },
+    {
+     "ko": "텔레비전",
+     "rd": "tellebijeon",
+     "en": "television",
+     "note": "v → ㅂ; often shortened to 티브이 (TV)",
+     "st": 1
+    },
+    {
+     "ko": "바이올린",
+     "rd": "baiollin",
+     "en": "violin",
+     "st": 1
+    },
+    {
+     "ko": "오븐",
+     "rd": "obeun",
+     "en": "oven",
+     "st": 2
+    },
+    {
+     "ko": "필터",
+     "rd": "pilteo",
+     "en": "filter",
+     "st": 2
+    },
+    {
+     "ko": "소파",
+     "rd": "sopa",
+     "en": "sofa",
+     "st": 2
+    },
+    {
+     "ko": "셀프",
+     "rd": "selpeu",
+     "en": "self",
+     "note": "As in self-service",
+     "st": 2
+    },
+    {
+     "ko": "골프",
+     "rd": "golpeu",
+     "en": "golf",
+     "st": 2
+    },
+    {
+     "ko": "프로필",
+     "rd": "peuropil",
+     "en": "profile",
+     "st": 2
+    },
+    {
+     "ko": "이벤트",
+     "rd": "ibenteu",
+     "en": "event",
+     "st": 2
+    },
+    {
+     "ko": "비타민",
+     "rd": "bitamin",
+     "en": "vitamin",
+     "st": 2
+    },
+    {
+     "ko": "바이러스",
+     "rd": "baireoseu",
+     "en": "virus",
+     "st": 2
+    },
+    {
+     "ko": "레벨",
+     "rd": "rebel",
+     "en": "level",
+     "st": 2
+    },
+    {
+     "ko": "인터뷰",
+     "rd": "inteobyu",
+     "en": "interview",
+     "st": 2
+    },
+    {
+     "ko": "비자",
+     "rd": "bija",
+     "en": "visa",
+     "st": 2
+    },
+    {
+     "ko": "폰",
+     "rd": "pon",
+     "en": "phone",
+     "note": "ph → ㅍ",
+     "st": 2
+    },
+    {
+     "ko": "퓨즈",
+     "rd": "pyujeu",
+     "en": "fuse",
+     "st": 3
+    },
+    {
+     "ko": "피드백",
+     "rd": "pideubaek",
+     "en": "feedback",
+     "st": 3
+    },
+    {
+     "ko": "포럼",
+     "rd": "poreom",
+     "en": "forum",
+     "st": 3
+    },
+    {
+     "ko": "볼륨",
+     "rd": "bollyum",
+     "en": "volume",
+     "st": 3
+    },
+    {
+     "ko": "버전",
+     "rd": "beojeon",
+     "en": "version",
+     "st": 3
+    },
+    {
+     "ko": "플래시",
+     "rd": "peullaesi",
+     "en": "flash",
+     "st": 3
+    },
+    {
+     "ko": "비전",
+     "rd": "bijeon",
+     "en": "vision",
+     "st": 3
+    },
+    {
+     "ko": "보컬",
+     "rd": "bokeol",
+     "en": "vocal",
+     "st": 3
+    },
+    {
+     "ko": "서핑",
+     "rd": "seoping",
+     "en": "surfing",
+     "st": 3
+    }
+   ]
+  },
+  {
+   "id": "rl",
+   "title": "R and L → ㄹ",
+   "emoji": "🌀",
+   "rule": "Korean uses one letter, ㄹ, for both r and l. An English l in the middle of a word is usually doubled as ㄹㄹ (콜라, 샐러드), which sounds like a clear l.",
+   "words": [
+    {
+     "ko": "라디오",
+     "rd": "radio",
+     "en": "radio",
+     "note": "r → ㄹ",
+     "st": 1
+    },
+    {
+     "ko": "레몬",
+     "rd": "remon",
+     "en": "lemon",
+     "note": "l → ㄹ",
+     "st": 1
+    },
+    {
+     "ko": "콜라",
+     "rd": "kolla",
+     "en": "cola",
+     "note": "Middle l → ㄹㄹ",
+     "st": 1
+    },
+    {
+     "ko": "호텔",
+     "rd": "hotel",
+     "en": "hotel",
+     "note": "Final l → ㄹ",
+     "st": 1
+    },
+    {
+     "ko": "샐러드",
+     "rd": "saelleodeu",
+     "en": "salad",
+     "note": "Middle l → ㄹㄹ",
+     "st": 1
+    },
+    {
+     "ko": "테이블",
+     "rd": "teibeul",
+     "en": "table",
+     "st": 1
+    },
+    {
+     "ko": "엘리베이터",
+     "rd": "ellibeiteo",
+     "en": "elevator",
+     "note": "Middle l → ㄹㄹ",
+     "st": 1
+    },
+    {
+     "ko": "초콜릿",
+     "rd": "chokollit",
+     "en": "chocolate",
+     "note": "Standard spelling; 초콜렛 is common in speech",
+     "st": 1
+    },
+    {
+     "ko": "레스토랑",
+     "rd": "reseutorang",
+     "en": "restaurant",
+     "note": "From French, so it follows the French pronunciation",
+     "ex": true,
+     "st": 2
+    },
+    {
+     "ko": "렌즈",
+     "rd": "renjeu",
+     "en": "lens",
+     "st": 2
+    },
+    {
+     "ko": "필름",
+     "rd": "pilleum",
+     "en": "film",
+     "note": "f → ㅍ too",
+     "st": 2
+    },
+    {
+     "ko": "클럽",
+     "rd": "keulleop",
+     "en": "club",
+     "st": 2
+    },
+    {
+     "ko": "골",
+     "rd": "gol",
+     "en": "goal",
+     "note": "In sports: scoring a goal",
+     "st": 2
+    },
+    {
+     "ko": "이메일",
+     "rd": "imeil",
+     "en": "email",
+     "st": 2
+    },
+    {
+     "ko": "갤러리",
+     "rd": "gaelleori",
+     "en": "gallery",
+     "st": 2
+    },
+    {
+     "ko": "젤리",
+     "rd": "jelli",
+     "en": "jelly",
+     "st": 2
+    },
+    {
+     "ko": "럭비",
+     "rd": "reokbi",
+     "en": "rugby",
+     "st": 2
+    },
+    {
+     "ko": "로션",
+     "rd": "rosyeon",
+     "en": "lotion",
+     "st": 2
+    },
+    {
+     "ko": "레시피",
+     "rd": "resipi",
+     "en": "recipe",
+     "st": 2
+    },
+    {
+     "ko": "올림픽",
+     "rd": "ollimpik",
+     "en": "Olympics",
+     "st": 2
+    },
+    {
+     "ko": "릴레이",
+     "rd": "rillei",
+     "en": "relay",
+     "st": 2
+    },
+    {
+     "ko": "실리콘",
+     "rd": "sillikon",
+     "en": "silicon",
+     "st": 3
+    },
+    {
+     "ko": "플라스틱",
+     "rd": "peullaseutik",
+     "en": "plastic",
+     "st": 3
+    },
+    {
+     "ko": "알코올",
+     "rd": "alkool",
+     "en": "alcohol",
+     "note": "Standard spelling; 알콜 is common in speech",
+     "st": 3
+    },
+    {
+     "ko": "칼로리",
+     "rd": "kallori",
+     "en": "calorie",
+     "st": 3
+    },
+    {
+     "ko": "컬러",
+     "rd": "keolleo",
+     "en": "color",
+     "st": 3
+    },
+    {
+     "ko": "달러",
+     "rd": "dalleo",
+     "en": "dollar",
+     "st": 3
+    },
+    {
+     "ko": "롤러코스터",
+     "rd": "rolleokoseuteo",
+     "en": "roller coaster",
+     "st": 3
+    },
+    {
+     "ko": "클리닉",
+     "rd": "keullinik",
+     "en": "clinic",
+     "st": 3
+    },
+    {
+     "ko": "슬로건",
+     "rd": "seullogeon",
+     "en": "slogan",
+     "st": 3
+    }
+   ]
+  },
+  {
+   "id": "final",
+   "title": "Final consonants & ch·j·sh",
+   "emoji": "🔚",
+   "rule": "Only a few consonants can end a Korean syllable. Final p, t, k are written ㅂ, ㅅ, ㄱ (컵, 로봇). Ch, j, sh take a vowel: 치, 지, 시 (or 샤·쇼·슈).",
+   "words": [
+    {
+     "ko": "컵",
+     "rd": "keop",
+     "en": "cup",
+     "note": "Final p → ㅂ",
+     "st": 1
+    },
+    {
+     "ko": "로봇",
+     "rd": "robot",
+     "en": "robot",
+     "note": "Final t → ㅅ (sounds like a cut-off t)",
+     "st": 1
+    },
+    {
+     "ko": "인터넷",
+     "rd": "inteonet",
+     "en": "internet",
+     "note": "Final t → ㅅ",
+     "st": 1
+    },
+    {
+     "ko": "티켓",
+     "rd": "tiket",
+     "en": "ticket",
+     "st": 1
+    },
+    {
+     "ko": "치즈",
+     "rd": "chijeu",
+     "en": "cheese",
+     "note": "ch → ㅊ",
+     "st": 1
+    },
+    {
+     "ko": "쇼핑",
+     "rd": "syoping",
+     "en": "shopping",
+     "note": "sho → 쇼",
+     "st": 1
+    },
+    {
+     "ko": "샤워",
+     "rd": "syawo",
+     "en": "shower",
+     "note": "sh → 샤",
+     "st": 1
+    },
+    {
+     "ko": "오렌지",
+     "rd": "orenji",
+     "en": "orange",
+     "note": "Final j sound → 지",
+     "st": 1
+    },
+    {
+     "ko": "샴푸",
+     "rd": "syampu",
+     "en": "shampoo",
+     "st": 2
+    },
+    {
+     "ko": "팁",
+     "rd": "tip",
+     "en": "tip",
+     "st": 2
+    },
+    {
+     "ko": "숍",
+     "rd": "syop",
+     "en": "shop",
+     "note": "Standard spelling; 샵 is common on signs",
+     "st": 2
+    },
+    {
+     "ko": "마켓",
+     "rd": "maket",
+     "en": "market",
+     "st": 2
+    },
+    {
+     "ko": "로켓",
+     "rd": "roket",
+     "en": "rocket",
+     "st": 2
+    },
+    {
+     "ko": "블랙",
+     "rd": "beullaek",
+     "en": "black",
+     "note": "Final k → ㄱ",
+     "st": 2
+    },
+    {
+     "ko": "픽업",
+     "rd": "pigeop",
+     "en": "pickup",
+     "st": 2
+    },
+    {
+     "ko": "벤치",
+     "rd": "benchi",
+     "en": "bench",
+     "note": "Final ch → 치",
+     "st": 2
+    },
+    {
+     "ko": "메시지",
+     "rd": "mesiji",
+     "en": "message",
+     "note": "Standard spelling; 메세지 is common in speech",
+     "st": 2
+    },
+    {
+     "ko": "패션",
+     "rd": "paesyeon",
+     "en": "fashion",
+     "note": "sh → 션",
+     "st": 2
+    },
+    {
+     "ko": "재킷",
+     "rd": "jaekit",
+     "en": "jacket",
+     "note": "Standard spelling; 자켓 is common in shops",
+     "st": 2
+    },
+    {
+     "ko": "캐시",
+     "rd": "kaesi",
+     "en": "cash",
+     "note": "Final sh → 시",
+     "st": 2
+    },
+    {
+     "ko": "터치",
+     "rd": "teochi",
+     "en": "touch",
+     "st": 2
+    },
+    {
+     "ko": "헬멧",
+     "rd": "helmet",
+     "en": "helmet",
+     "st": 3
+    },
+    {
+     "ko": "비스킷",
+     "rd": "biseukit",
+     "en": "biscuit",
+     "st": 3
+    },
+    {
+     "ko": "워크숍",
+     "rd": "wokeusyop",
+     "en": "workshop",
+     "st": 3
+    },
+    {
+     "ko": "브러시",
+     "rd": "beureosi",
+     "en": "brush",
+     "st": 3
+    },
+    {
+     "ko": "리더십",
+     "rd": "rideosip",
+     "en": "leadership",
+     "note": "-ship → 십",
+     "st": 3
+    },
+    {
+     "ko": "스위치",
+     "rd": "seuwichi",
+     "en": "switch",
+     "st": 3
+    },
+    {
+     "ko": "코치",
+     "rd": "kochi",
+     "en": "coach",
+     "st": 3
+    },
+    {
+     "ko": "이미지",
+     "rd": "imiji",
+     "en": "image",
+     "st": 3
+    },
+    {
+     "ko": "세트",
+     "rd": "seteu",
+     "en": "set",
+     "note": "Exception: short vowel, yet written 세트 by convention (compare 로봇)",
+     "ex": true,
+     "st": 3
+    },
+    {
+     "ko": "디지털",
+     "rd": "dijiteol",
+     "en": "digital",
+     "st": 3
+    }
+   ]
+  },
+  {
+   "id": "vowelx",
+   "title": "Vowels: a → 애·아, -er → 어",
+   "emoji": "🅰️",
+   "rule": "English vowels are mapped to the nearest Korean vowel. The a in cat becomes 애, the a in father becomes 아, and an ending -er, -or, -ar becomes 어 with no r sound.",
+   "words": [
+    {
+     "ko": "컴퓨터",
+     "rd": "keompyuteo",
+     "en": "computer",
+     "note": "-er → 어",
+     "st": 1
+    },
+    {
+     "ko": "햄버거",
+     "rd": "haembeogeo",
+     "en": "hamburger",
+     "note": "a → 애, -er → 어",
+     "st": 1
+    },
+    {
+     "ko": "카메라",
+     "rd": "kamera",
+     "en": "camera",
+     "st": 1
+    },
+    {
+     "ko": "바나나",
+     "rd": "banana",
+     "en": "banana",
+     "note": "a → 아",
+     "st": 1
+    },
+    {
+     "ko": "토마토",
+     "rd": "tomato",
+     "en": "tomato",
+     "st": 1
+    },
+    {
+     "ko": "피아노",
+     "rd": "piano",
+     "en": "piano",
+     "st": 1
+    },
+    {
+     "ko": "쿠키",
+     "rd": "kuki",
+     "en": "cookie",
+     "note": "oo → 우",
+     "st": 1
+    },
+    {
+     "ko": "카페",
+     "rd": "kape",
+     "en": "cafe",
+     "note": "Standard spelling; often said with a tense 까페",
+     "st": 1
+    },
+    {
+     "ko": "매니저",
+     "rd": "maenijeo",
+     "en": "manager",
+     "note": "a → 애, -er → 어",
+     "st": 2
+    },
+    {
+     "ko": "프린터",
+     "rd": "peurinteo",
+     "en": "printer",
+     "st": 2
+    },
+    {
+     "ko": "센터",
+     "rd": "senteo",
+     "en": "center",
+     "st": 2
+    },
+    {
+     "ko": "모니터",
+     "rd": "moniteo",
+     "en": "monitor",
+     "note": "-or → 어",
+     "st": 2
+    },
+    {
+     "ko": "캠퍼스",
+     "rd": "kaempeoseu",
+     "en": "campus",
+     "st": 2
+    },
+    {
+     "ko": "캠프",
+     "rd": "kaempeu",
+     "en": "camp",
+     "st": 2
+    },
+    {
+     "ko": "팀",
+     "rd": "tim",
+     "en": "team",
+     "note": "Long ea → 이",
+     "st": 2
+    },
+    {
+     "ko": "쿠폰",
+     "rd": "kupon",
+     "en": "coupon",
+     "st": 2
+    },
+    {
+     "ko": "사이즈",
+     "rd": "saijeu",
+     "en": "size",
+     "note": "i (as in size) → 아이",
+     "st": 2
+    },
+    {
+     "ko": "메이크업",
+     "rd": "meikeueop",
+     "en": "makeup",
+     "note": "a (as in make) → 에이",
+     "st": 2
+    },
+    {
+     "ko": "보트",
+     "rd": "boteu",
+     "en": "boat",
+     "note": "Long o is just 오, not 오우",
+     "st": 2
+    },
+    {
+     "ko": "코트",
+     "rd": "koteu",
+     "en": "coat",
+     "st": 2
+    },
+    {
+     "ko": "옐로",
+     "rd": "yello",
+     "en": "yellow",
+     "note": "Standard spelling drops the 우; 옐로우 is common",
+     "st": 3
+    },
+    {
+     "ko": "윈도",
+     "rd": "windo",
+     "en": "window",
+     "note": "Standard spelling; 윈도우 is common",
+     "st": 3
+    },
+    {
+     "ko": "리포터",
+     "rd": "ripoteo",
+     "en": "reporter",
+     "st": 3
+    },
+    {
+     "ko": "컨테이너",
+     "rd": "keonteineo",
+     "en": "container",
+     "st": 3
+    },
+    {
+     "ko": "시나리오",
+     "rd": "sinario",
+     "en": "scenario",
+     "st": 3
+    },
+    {
+     "ko": "커버",
+     "rd": "keobeo",
+     "en": "cover",
+     "note": "u (as in cover) → 어",
+     "st": 3
+    },
+    {
+     "ko": "스캐너",
+     "rd": "seukaeneo",
+     "en": "scanner",
+     "st": 3
+    },
+    {
+     "ko": "커튼",
+     "rd": "keoteun",
+     "en": "curtain",
+     "st": 3
+    },
+    {
+     "ko": "버터",
+     "rd": "beoteo",
+     "en": "butter",
+     "st": 3
+    },
+    {
+     "ko": "타워",
+     "rd": "tawo",
+     "en": "tower",
+     "st": 3
+    },
+    {
+     "ko": "에너지",
+     "rd": "eneoji",
+     "en": "energy",
+     "st": 3
+    },
+    {
+     "ko": "매트",
+     "rd": "maeteu",
+     "en": "mat",
+     "st": 3
+    }
+   ]
+  },
+  {
+   "id": "konglish",
+   "title": "Konglish & false friends",
+   "emoji": "🇰🇷",
+   "rule": "Some loanwords were made or reshaped in Korea. They look English, but an English speaker would not use them this way — learn the Korean meaning.",
+   "words": [
+    {
+     "ko": "핸드폰",
+     "rd": "haendeupon",
+     "en": "hand + phone",
+     "meaning": "cell phone",
+     "note": "English: cell phone / mobile",
+     "st": 1
+    },
+    {
+     "ko": "노트북",
+     "rd": "noteubuk",
+     "en": "notebook",
+     "meaning": "laptop",
+     "note": "Not a paper notebook (that's 공책)",
+     "st": 1
+    },
+    {
+     "ko": "아이쇼핑",
+     "rd": "aisyoping",
+     "en": "eye + shopping",
+     "meaning": "window shopping",
+     "st": 1
+    },
+    {
+     "ko": "셀카",
+     "rd": "selka",
+     "en": "self + camera",
+     "meaning": "selfie",
+     "note": "Short for 셀프 카메라",
+     "st": 1
+    },
+    {
+     "ko": "파이팅",
+     "rd": "paiting",
+     "en": "fighting",
+     "meaning": "Go for it! / You can do it!",
+     "note": "Standard spelling; 화이팅 is very common. Cheered to encourage someone",
+     "st": 1
+    },
+    {
+     "ko": "서비스",
+     "rd": "seobiseu",
+     "en": "service",
+     "meaning": "free extra (on the house)",
+     "note": "Said in restaurants when something is on the house",
+     "st": 1
+    },
+    {
+     "ko": "원룸",
+     "rd": "wollum",
+     "en": "one + room",
+     "meaning": "studio apartment",
+     "st": 1
+    },
+    {
+     "ko": "아르바이트",
+     "rd": "areubaiteu",
+     "en": "Arbeit (German)",
+     "meaning": "part-time job",
+     "note": "From German; often shortened to 알바",
+     "ex": true,
+     "st": 1
+    },
+    {
+     "ko": "에어컨",
+     "rd": "eeokeon",
+     "en": "air con(ditioner)",
+     "meaning": "air conditioner",
+     "note": "Shortened from air conditioner",
+     "st": 1
+    },
+    {
+     "ko": "아파트",
+     "rd": "apateu",
+     "en": "apart(ment)",
+     "meaning": "apartment (high-rise)",
+     "note": "Usually a unit in a high-rise complex",
+     "st": 1
+    },
+    {
+     "ko": "사인",
+     "rd": "sain",
+     "en": "sign",
+     "meaning": "signature / autograph",
+     "st": 2
+    },
+    {
+     "ko": "오픈",
+     "rd": "opeun",
+     "en": "open",
+     "meaning": "opening (of a shop)",
+     "note": "e.g. 그랜드 오픈 on a new store",
+     "st": 2
+    },
+    {
+     "ko": "미팅",
+     "rd": "miting",
+     "en": "meeting",
+     "meaning": "group blind date",
+     "note": "Also a business meeting, but often this",
+     "st": 2
+    },
+    {
+     "ko": "커닝",
+     "rd": "keoning",
+     "en": "cunning",
+     "meaning": "cheating on a test",
+     "note": "Standard spelling; 컨닝 is very common in speech",
+     "st": 2
+    },
+    {
+     "ko": "헬스",
+     "rd": "helseu",
+     "en": "health",
+     "meaning": "working out at a gym",
+     "note": "헬스장 = gym",
+     "st": 2
+    },
+    {
+     "ko": "스킨십",
+     "rd": "seukinsip",
+     "en": "skin + ship",
+     "meaning": "physical affection (touching, hugging)",
+     "st": 2
+    },
+    {
+     "ko": "리모컨",
+     "rd": "rimokeon",
+     "en": "remote con(trol)",
+     "meaning": "remote control",
+     "st": 2
+    },
+    {
+     "ko": "오토바이",
+     "rd": "otobai",
+     "en": "auto + bi(ke)",
+     "meaning": "motorcycle",
+     "st": 2
+    },
+    {
+     "ko": "개그맨",
+     "rd": "gaegeumaen",
+     "en": "gag + man",
+     "meaning": "comedian",
+     "st": 2
+    },
+    {
+     "ko": "콘센트",
+     "rd": "konsenteu",
+     "en": "concent",
+     "meaning": "electrical outlet",
+     "note": "From 'concentric plug'",
+     "st": 2
+    },
+    {
+     "ko": "사이다",
+     "rd": "saida",
+     "en": "cider",
+     "meaning": "lemon-lime soda",
+     "note": "Not apple cider",
+     "st": 2
+    },
+    {
+     "ko": "비닐",
+     "rd": "binil",
+     "en": "vinyl",
+     "meaning": "plastic (bag, wrap)",
+     "note": "비닐봉지 = plastic bag",
+     "st": 2
+    },
+    {
+     "ko": "오피스텔",
+     "rd": "opiseutel",
+     "en": "office + hotel",
+     "meaning": "studio flat zoned for office/living",
+     "st": 3
+    },
+    {
+     "ko": "스펙",
+     "rd": "seupek",
+     "en": "spec",
+     "meaning": "job-seeker qualifications",
+     "note": "Grades, test scores, certificates",
+     "st": 3
+    },
+    {
+     "ko": "샤프",
+     "rd": "syapeu",
+     "en": "sharp (pencil)",
+     "meaning": "mechanical pencil",
+     "st": 3
+    },
+    {
+     "ko": "핫도그",
+     "rd": "hatdogeu",
+     "en": "hot dog",
+     "meaning": "corn dog",
+     "note": "Usually on a stick and battered",
+     "st": 3
+    },
+    {
+     "ko": "매직",
+     "rd": "maejik",
+     "en": "magic (marker)",
+     "meaning": "permanent marker",
+     "st": 3
+    },
+    {
+     "ko": "프린트",
+     "rd": "peurinteu",
+     "en": "print",
+     "meaning": "handout (printout)",
+     "st": 3
+    },
+    {
+     "ko": "모닝콜",
+     "rd": "moningkol",
+     "en": "morning call",
+     "meaning": "wake-up call",
+     "st": 3
+    },
+    {
+     "ko": "컨디션",
+     "rd": "keondisyeon",
+     "en": "condition",
+     "meaning": "how you feel physically",
+     "st": 3
+    },
+    {
+     "ko": "핸들",
+     "rd": "haendeul",
+     "en": "handle",
+     "meaning": "steering wheel",
+     "st": 3
+    },
+    {
+     "ko": "백미러",
+     "rd": "baengmireo",
+     "en": "back mirror",
+     "meaning": "rear-view mirror",
+     "st": 3
+    },
+    {
+     "ko": "깁스",
+     "rd": "gipseu",
+     "en": "Gips (German)",
+     "meaning": "plaster cast",
+     "note": "From German",
+     "ex": true,
+     "st": 3
+    },
+    {
+     "ko": "디카",
+     "rd": "dika",
+     "en": "digital camera",
+     "meaning": "digital camera",
+     "note": "Short for 디지털카메라",
+     "st": 3
+    }
+   ]
+  }
+ ],
+ "rules_table": [
+  [
+   "Consonant clusters (st, sk, pr)",
+   "Add 으 between",
+   "stress → 스트레스 · cream → 크림"
+  ],
+  [
+   "Final s · k · t (in long words)",
+   "스 · 크 · 트",
+   "bus → 버스 · cake → 케이크 · test → 테스트"
+  ],
+  [
+   "Final p · t · k (short vowel)",
+   "ㅂ · ㅅ · ㄱ",
+   "cup → 컵 · robot → 로봇 · black → 블랙"
+  ],
+  [
+   "F · PH",
+   "ㅍ",
+   "coffee → 커피 · phone → 폰"
+  ],
+  [
+   "V",
+   "ㅂ",
+   "video → 비디오"
+  ],
+  [
+   "B · P",
+   "ㅂ · ㅍ",
+   "banana → 바나나 · piano → 피아노"
+  ],
+  [
+   "R · L (start of syllable)",
+   "ㄹ",
+   "radio → 라디오 · lemon → 레몬"
+  ],
+  [
+   "L in the middle",
+   "ㄹㄹ",
+   "cola → 콜라 · salad → 샐러드"
+  ],
+  [
+   "Final L",
+   "ㄹ",
+   "hotel → 호텔"
+  ],
+  [
+   "Z · J",
+   "ㅈ",
+   "size → 사이즈 · juice → 주스"
+  ],
+  [
+   "CH · final -ch",
+   "ㅊ · 치",
+   "cheese → 치즈 · bench → 벤치"
+  ],
+  [
+   "SH",
+   "시 · 샤 · 쇼 · 슈",
+   "shower → 샤워 · fashion → 패션"
+  ],
+  [
+   "TH",
+   "ㅅ or ㄷ",
+   "thriller → 스릴러 · rhythm → 리듬"
+  ],
+  [
+   "a (cat) · a (father)",
+   "애 · 아",
+   "camp → 캠프 · banana → 바나나"
+  ],
+  [
+   "-er · -or · -ar",
+   "어 (no r)",
+   "computer → 컴퓨터 · monitor → 모니터"
+  ],
+  [
+   "ee · ea · oo",
+   "이 · 우",
+   "team → 팀 · cookie → 쿠키"
+  ],
+  [
+   "Long o (boat)",
+   "오 (not 오우)",
+   "boat → 보트 · window → 윈도"
+  ]
+ ]
+}

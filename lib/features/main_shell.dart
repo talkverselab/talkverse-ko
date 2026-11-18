@@ -23,6 +23,9 @@ import '../widgets/achievement_desk.dart';
 import 'dialogue/scenario_list_screen.dart';
 import 'hangul/hangul_chart_screen.dart';
 import 'particles/particles_screen.dart';
+import 'hanja/hanja_practice_screen.dart';
+import 'loanwords/loanword_screen.dart';
+import 'sense/sense_course_screen.dart';
 import 'profile/profile_screen.dart';
 import 'vocabulary/vocabulary_screen.dart';
 
@@ -289,7 +292,10 @@ class _LearnTabState extends State<LearnTab> {
           _NavRow(seal: '한글', title: tr('한글과 발음'), subtitle: tr('자음·모음·받침 · 탭하면 IPA·입모양'), onTap: () => _open((_) => const HangulChartScreen())),
           _NavRow(seal: '기본', color: DramaColors.ink, title: tr('기본 회화 8장면'), subtitle: tr('문법 표시가 달린 짧은 장면'), onTap: () => _open((_) => const ScenarioListScreen())),
           _section(tr('문법')),
+          _NavRow(seal: '감각', title: tr('언어감각 익히기'), subtitle: tr('정규과정 · 영상 → 대화 통째로 외우기 → 참고'), onTap: () => _open((_) => const SenseCourseScreen())),
           _NavRow(seal: '조사', color: DramaColors.ink, title: tr('조사·어미'), subtitle: tr('한국어 말의 63%를 만드는 19개'), onTap: () => _open((_) => const ParticlesScreen())),
+          _NavRow(seal: '외래', color: DramaColors.ink, title: tr('외래어 익히기'), subtitle: tr('영어가 한국어 소리로 · 3단계 · 퀴즈'), onTap: () => _open((_) => const LoanwordScreen())),
+          _NavRow(seal: '漢', color: DramaColors.ink, title: tr('한자 연습'), subtitle: tr('하루 3자 · 소리 부품이 같은 가족부터'), onTap: () => _open((_) => const HanjaPracticeScreen())),
           _section(tr('회화')),
           _NavRow(seal: '회화', title: tr('주제별 회화 R0~R4'), subtitle: tr('모든 문장 듣기 · 그림 카드 · 왕초보/초보'), onTap: () => _open((_) => const SeriesScreen())),
           _section(tr('단어')),
@@ -477,6 +483,10 @@ class ExploreTab extends StatelessWidget {
       _section(tr('단어')),
       _NavRow(seal: '단어', title: tr('절벽 단어 R1~R5'), subtitle: tr('20어 단원 · 타일 · 회화 단어 포함'), onTap: () => openPane(context, (_) => const VocabularyScreen())),
       _NavRow(seal: '조사', color: DramaColors.ink, title: tr('조사·어미'), subtitle: tr('한국어 말의 63%를 만드는 19개'), onTap: () => openPane(context, (_) => const ParticlesScreen())),
+      _section(tr('문법')),
+      _NavRow(seal: '감각', title: tr('언어감각 익히기'), subtitle: tr('정규과정 · 영상 → 대화 통째로 외우기 → 참고'), onTap: () => openPane(context, (_) => const SenseCourseScreen())),
+      _NavRow(seal: '외래', color: DramaColors.ink, title: tr('외래어 익히기'), subtitle: tr('영어가 한국어 소리로 · 3단계 · 퀴즈'), onTap: () => openPane(context, (_) => const LoanwordScreen())),
+      _NavRow(seal: '漢', color: DramaColors.ink, title: tr('한자 연습'), subtitle: tr('하루 3자 · 소리 부품이 같은 가족부터'), onTap: () => openPane(context, (_) => const HanjaPracticeScreen())),
       _section(tr('회화')),
       _NavRow(seal: '회화', title: tr('주제별 회화 R0~R4'), subtitle: tr('모든 문장 듣기 · 그림 카드 · 왕초보/초보'), onTap: () => openPane(context, (_) => const SeriesScreen())),
       _NavRow(seal: '기본', color: DramaColors.ink, title: tr('기본 회화 8장면'), subtitle: tr('문법 표시가 달린 짧은 장면'), onTap: () => openPane(context, (_) => const ScenarioListScreen())),

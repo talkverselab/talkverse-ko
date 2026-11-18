@@ -28,7 +28,7 @@ PREFIX = 'script/ko'
 
 
 def current():
-    paths = sorted(glob.glob(str(DATA / 'dialogues/R[0-4]/*/*.json')))  # 한국어앱은 아직 언어감각 과정 파일이 없다 — 생기면 여기에 더한다
+    paths = sorted(glob.glob(str(DATA / 'dialogues/R[0-4]/*/*.json'))) + [str(DATA / 'grammar/sense_course.json')]
     out = {}
     for p in paths:
         b = Path(p).read_bytes()

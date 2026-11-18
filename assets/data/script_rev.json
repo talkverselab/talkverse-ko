@@ -249,7 +249,8 @@
 "dialogues/R3/study/r3_study_b1.json": "ac58354c40b7",
 "dialogues/R3/travel/r3_travel_b1.json": "9e95bccf3659",
 "dialogues/R3/work/r3_work_b1.json": "9283ffe705a7",
-"dialogues/R3/work/r3_work_b2.json": "f6223c1e6dcc"
+"dialogues/R3/work/r3_work_b2.json": "f6223c1e6dcc",
+"grammar/sense_course.json": "f0bc1aaad9c4"
 },
-"rev": 1
+"rev": 2
 }

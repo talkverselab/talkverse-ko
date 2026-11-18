@@ -40,6 +40,7 @@ dependencies:
   path_provider: ^2.1.5
   provider: ^6.1.5+1
   flutter_tts: ^4.2.5
+  video_player: ^2.14.1
   audioplayers: ^6.1.0 # 회화 생성 음성(mp4) 재생
   flutter_svg: ^2.3.0
   shared_preferences: ^2.5.5
@@ -91,6 +92,9 @@ flutter:
     - assets/seed/
     - assets/data/version.json
     - assets/data/script_rev.json
+    - assets/data/grammar/sense_course.json
+    - assets/data/vocab/loanwords.json
+    - assets/data/hanja/families_ko.json
     - assets/images/ipa/
     - assets/data/freq/conv_words_ko.json
     - assets/data/dialogues/R0/culture/

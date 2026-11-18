@@ -1,0 +1,1881 @@
+{
+ "title": "Feel for Korean",
+ "subtitle": "Core course · video → learn a whole dialogue by heart → reference sheet",
+ "levels": [
+  {
+   "id": "L1",
+   "title": "Particles (은/는 · 이/가 · 을/를 · 에 · 에서 …)",
+   "lessons": [
+    {
+     "id": "L1-talk",
+     "title": "Particles — the bakery (a short story)",
+     "kind": "memorize",
+     "video": "",
+     "note": "On purpose, nothing is explained here. Learn the whole story by heart and the grammar sinks in by itself.",
+     "sentences": [
+      {
+       "ko": "토요일{에|4} 나{는|1} 동네 빵집{에|4} 갔어.",
+       "rd": "toyoire naneun dongne ppangjibe gasseo.",
+       "en": "{On|4} Saturday {I|1} went {to|4} the bakery in my neighborhood."
+      },
+      {
+       "ko": "빵집{에서|5} 직원{이|2} 나{한테|8} 웃어 줬어.",
+       "rd": "ppangjibeseo jigwoni nahante useo jwosseo.",
+       "en": "{At|5} the bakery, {the person at the counter|2} smiled {at|8} me."
+      },
+      {
+       "ko": "나{는|1} 크루아상{을|3} 두 개 샀어. 그 사람{도|6} 크루아상{을|3} 좋아한대.",
+       "rd": "naneun keuruasangeul du gae sasseo. geu saramdo keuruasangeul joahandae.",
+       "en": "{I|1} bought two {croissants|3}. Apparently they love {croissants|3} {too|6}."
+      },
+      {
+       "ko": "그날{부터|9} 나{는|1} 매일 아침 빵집{에|4} 가.",
+       "rd": "geunalbuteo naneun maeil achim ppangjibe ga.",
+       "en": "{Ever since|9} that day, {I|1}'ve been going {to|4} the bakery every morning."
+      },
+      {
+       "ko": "일곱 시{부터|9} 여덟 시{까지|9} 빵집{에서|5} 커피{만|7} 마셔.",
+       "rd": "ilgop sibuteo yeodeol sikkaji ppangjibeseo keopiman masyeo.",
+       "en": "{From|9} seven {to|9} eight, I sit {in|5} the bakery drinking {nothing but|7} coffee."
+      },
+      {
+       "ko": "솔직히 빵{보다|10} 그 사람{이|2} 더 좋아.",
+       "rd": "soljiki ppangboda geu sarami deo joa.",
+       "en": "Honestly, I like {that person|2} more {than|10} the bread."
+      },
+      {
+       "ko": "오늘{은|1} 용기{를|3} 내서 쪽지{를|3} 건넸어. \"번호 좀 알려 주세요.\"",
+       "rd": "oneureun yonggireul naeseo jjokjireul geonnesseo. \"beonho jom allyeo juseyo.\"",
+       "en": "{Today|1} I worked up {the courage|3} and handed over {a note|3}: \"Could I get your number?\""
+      },
+      {
+       "ko": "그 사람{은|1} 웃으면서 쪽지{에|4} 뭔가 적었어.",
+       "rd": "geu sarameun useumyeonseo jjokjie mwonga jeogeosseo.",
+       "en": "{They|1} smiled and wrote something {on|4} the note."
+      },
+      {
+       "ko": "\"저 사장님{하고|8} 결혼했어요. 대신 쿠폰{을|3} 드릴게요.\"",
+       "rd": "\"jeo sajangnimhago gyeolhonhaesseoyo. daesin kuponeul deurilgeyo.\"",
+       "en": "\"I'm married {to|8} the owner. But here's {a coupon|3} instead.\""
+      },
+      {
+       "ko": "그래서 나{는|1} 지금{도|6} 매일 빵집{에|4} 가. 쿠폰{만|7} 계속 쌓여.",
+       "rd": "geuraeseo naneun jigeumdo maeil ppangjibe ga. kuponman gyesok ssayeo.",
+       "en": "So {I|1} {still|6} go {to|4} the bakery every day. {Only|7} the coupons keep piling up."
+      }
+     ],
+     "footnotes": [
+      "은/는 vs 이/가 — 은/는 sets the topic (\"as for me…\") or contrasts; 이/가 points at who or what. After a consonant 은·이, after a vowel 는·가.",
+      "에 vs 에서 — 에 = the place you go to / a point in time (빵집에 가); 에서 = the place where something happens (빵집에서 마셔).",
+      "English puts small words in front (to, at, on); Korean glues them to the end of the noun: 빵집에, 빵집에서.",
+      "한테 = to/at a person. 하고 = and / with. 부터…까지 = from…to. 보다 = than (it goes after the thing you compare against).",
+      "도 (too) and 만 (only) replace 은/는, 이/가, 을/를 — not 그 사람이도, just 그 사람도."
+     ]
+    },
+    {
+     "id": "L1-ref",
+     "kind": "ref",
+     "title": "Particles at a glance",
+     "points": [
+      {
+       "head": "은/는  topic · contrast",
+       "tip": "After a consonant 은, after a vowel 는. \"As for…\". Also contrasts one thing with another.",
+       "sentences": [
+        {
+         "ko": "저는 학생이에요.",
+         "rd": "jeoneun haksaengieyo.",
+         "en": "I'm a student."
+        },
+        {
+         "ko": "커피는 좋아하는데 차는 안 좋아해요.",
+         "rd": "keopineun joahaneunde chaneun an joahaeyo.",
+         "en": "I like coffee, but not tea."
+        }
+       ]
+      },
+      {
+       "head": "이/가  subject · new info",
+       "tip": "After a consonant 이, after a vowel 가. Answers to 누가 / 뭐가 always take 이/가. Also with 있다·없다·좋다.",
+       "sentences": [
+        {
+         "ko": "누가 왔어요? 유진 씨가 왔어요.",
+         "rd": "nuga wasseoyo? yujin ssiga wasseoyo.",
+         "en": "Who came? Yujin did."
+        },
+        {
+         "ko": "배가 고파요.",
+         "rd": "baega gopayo.",
+         "en": "I'm hungry."
+        }
+       ]
+      },
+      {
+       "head": "을/를  object",
+       "tip": "After a consonant 을, after a vowel 를. What the action is done to. Often dropped in casual speech.",
+       "sentences": [
+        {
+         "ko": "물을 마셔요.",
+         "rd": "mureul masyeoyo.",
+         "en": "I'm drinking water."
+        },
+        {
+         "ko": "한국어를 배우고 있어요.",
+         "rd": "hangugeoreul baeugo isseoyo.",
+         "en": "I'm learning Korean."
+        }
+       ]
+      },
+      {
+       "head": "에 · 에서  to / at · in",
+       "tip": "에 = destination, time, or where something simply is (있다). 에서 = where an action happens, or \"from\" a place.",
+       "sentences": [
+        {
+         "ko": "세 시에 학교에 가요.",
+         "rd": "se sie hakgyoe gayo.",
+         "en": "I go to school at three."
+        },
+        {
+         "ko": "학교에서 친구를 만나요.",
+         "rd": "hakgyoeseo chingureul mannayo.",
+         "en": "I meet my friends at school."
+        }
+       ]
+      },
+      {
+       "head": "도 · 만  too · only",
+       "tip": "Both take the place of 은/는, 이/가, 을/를.",
+       "sentences": [
+        {
+         "ko": "저도 가고 싶어요.",
+         "rd": "jeodo gago sipeoyo.",
+         "en": "I want to go too."
+        },
+        {
+         "ko": "오늘은 물만 마셨어요.",
+         "rd": "oneureun mulman masyeosseoyo.",
+         "en": "Today I only drank water."
+        }
+       ]
+      },
+      {
+       "head": "한테 · 하고  to a person · with",
+       "tip": "한테 = to/at a person (spoken; 에게 in writing, 한테서 = from a person). 하고 = and / with (spoken; 와/과 in writing).",
+       "sentences": [
+        {
+         "ko": "엄마한테 전화했어요.",
+         "rd": "eommahante jeonhwahaesseoyo.",
+         "en": "I called my mom."
+        },
+        {
+         "ko": "친구하고 영화 봤어요.",
+         "rd": "chinguhago yeonghwa bwasseoyo.",
+         "en": "I watched a movie with a friend."
+        }
+       ]
+      },
+      {
+       "head": "부터 · 까지 · 보다  from · until · than",
+       "tip": "부터…까지 = from…to (for places 에서…까지 is common). 보다 = than.",
+       "sentences": [
+        {
+         "ko": "아홉 시부터 여섯 시까지 일해요.",
+         "rd": "ahop sibuteo yeoseot sikkaji ilhaeyo.",
+         "en": "I work from nine to six."
+        },
+        {
+         "ko": "오늘이 어제보다 추워요.",
+         "rd": "oneuri eojeboda chuwoyo.",
+         "en": "Today is colder than yesterday."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L2",
+   "title": "Sentence endings (해요 · 합니다 · 해 …)",
+   "lessons": [
+    {
+     "id": "L2-talk",
+     "title": "Sentence endings — the language exchange",
+     "kind": "memorize",
+     "video": "",
+     "note": "On purpose, nothing is explained here. Learn the whole dialogue by heart and the grammar sinks in by itself.",
+     "sentences": [
+      {
+       "who": "Me",
+       "ko": "안녕! 나 한국어 공부{해|3}.",
+       "rd": "annyeong! na hangugeo gongbuhae.",
+       "en": "Hi! I'm studying Korean."
+      },
+      {
+       "who": "유진",
+       "ko": "아… 처음 보는 사람한테는 \"안녕하세요\"가 좋{아요|1}.",
+       "rd": "a… cheoeum boneun saramhanteneun \"annyeonghaseyo\"ga joayo.",
+       "en": "Uh… with someone you've just met, \"안녕하세요\" is better."
+      },
+      {
+       "who": "Me",
+       "ko": "안녕하{십니까|2}! 만나서 반갑{습니다|2}!",
+       "rd": "annyeonghasimnikka! mannaseo bangapseumnida!",
+       "en": "Good day to you! It is an honor to meet you!"
+      },
+      {
+       "who": "유진",
+       "ko": "하하, 군인 같{네요|6}. 그냥 \"반가워요\" 하면 {돼요|1}.",
+       "rd": "haha, gunin ganneyo. geunyang \"bangawoyo\" hamyeon dwaeyo.",
+       "en": "Haha, you sound like a soldier. Just \"반가워요\" is fine."
+      },
+      {
+       "who": "Me",
+       "ko": "반가워{요|1}! 한국어는 어렵{지만|5} 재미있어{요|1}.",
+       "rd": "bangawoyo! hangugeoneun eoryeopjiman jaemiisseoyo.",
+       "en": "Nice to meet you! Korean is hard, {but|5} it's fun."
+      },
+      {
+       "who": "유진",
+       "ko": "맞아요. 외국어는 다 어렵{죠|7}. 저도 영어 배우{고|4} 일본어도 배워요.",
+       "rd": "majayo. oegugeoneun da eoryeopjyo. jeodo yeongeo baeugo ilboneodo baewoyo.",
+       "en": "True. Foreign languages are all hard, {aren't they|7}? I'm learning English, {and|4} Japanese too."
+      },
+      {
+       "who": "Me",
+       "ko": "그럼 서로 가르쳐 줄{까요|9}? 제가 영어 가르쳐 드릴{게요|8}.",
+       "rd": "geureom seoro gareuchyeo julkkayo? jega yeongeo gareuchyeo deurilgeyo.",
+       "en": "Then {shall we|9} teach each other? {I'll|8} teach you English."
+      },
+      {
+       "who": "유진",
+       "ko": "좋아요! 저는 한국어 알려 드릴{게요|8}. 카페 갈{까요|9}?",
+       "rd": "joayo! jeoneun hangugeo allyeo deurilgeyo. kape galkkayo?",
+       "en": "Deal! And {I'll|8} teach you Korean. {Shall we|9} go to a café?"
+      },
+      {
+       "who": "유진",
+       "ko": "우리 이제 친구니까 말 놓을{까|9}?",
+       "rd": "uri ije chingunikka mal noeulkka?",
+       "en": "We're friends now — {should we|9} switch to casual speech?"
+      },
+      {
+       "who": "Me",
+       "ko": "좋{아|3}! …아, 아니, 좋{습니다|2}!",
+       "rd": "joa! …a, ani, josseumnida!",
+       "en": "Sure! …Uh, I mean — affirmative!"
+      },
+      {
+       "who": "유진",
+       "ko": "하하, 군인이 또 왔{네|6}. 괜찮아, 천천히 하{자|3}.",
+       "rd": "haha, gunini tto wanne. gwaenchana, cheoncheonhi haja.",
+       "en": "Haha, the soldier's back. It's okay, let's take it slow."
+      },
+      {
+       "who": "Me",
+       "ko": "응! 커피는 내가 살{게|8}. 반말은 어렵{지만|5} 커피는 쉽{지|7}!",
+       "rd": "eung! keopineun naega salge. banmareun eoryeopjiman keopineun swipji!",
+       "en": "Yeah! {I'll|8} get the coffee. Casual speech is hard, {but|5} coffee's easy, {right|7}?"
+      }
+     ],
+     "footnotes": [
+      "Korean changes the END of the sentence depending on who you're talking to. 해요 (polite, everyday) · 합니다 (formal, announcements) · 해 (casual, close friends only).",
+      "Starting with 해 (반말) to a stranger sounds rude; using only 합니다 in a café sounds like a soldier reporting for duty. 해요 is the safe default.",
+      "말 놓다 = \"to drop the polite endings\". Koreans usually ask first: 말 놓을까요? / 말 편하게 해도 돼요?",
+      "-네요 = \"oh, I see / wow\" (you just noticed it). -죠 = \"…right?\" (you expect agreement). -(으)ㄹ게요 = \"I'll (do it for you)\". -(으)ㄹ까요 = \"shall we / should I?\""
+     ]
+    },
+    {
+     "id": "L2-ref",
+     "kind": "ref",
+     "title": "Sentence endings at a glance",
+     "points": [
+      {
+       "head": "-아요/어요  polite (해요)",
+       "tip": "The everyday polite style for strangers, shops and coworkers. The same form works as a statement or, with rising tone, a question.",
+       "sentences": [
+        {
+         "ko": "지금 가요.",
+         "rd": "jigeum gayo.",
+         "en": "I'm going now."
+        },
+        {
+         "ko": "어디 가요?",
+         "rd": "eodi gayo?",
+         "en": "Where are you going?"
+        }
+       ]
+      },
+      {
+       "head": "-ㅂ니다/습니다  formal (합니다)",
+       "tip": "Announcements, news, speeches, interviews. Questions end in -ㅂ니까/습니까.",
+       "sentences": [
+        {
+         "ko": "감사합니다.",
+         "rd": "gamsahamnida.",
+         "en": "Thank you."
+        },
+        {
+         "ko": "잠시 후 출발합니다.",
+         "rd": "jamsi hu chulbalhamnida.",
+         "en": "We'll be departing shortly."
+        }
+       ]
+      },
+      {
+       "head": "-아/어  casual (반말)",
+       "tip": "Drop the 요. Only with close friends, younger people and kids.",
+       "sentences": [
+        {
+         "ko": "배고파.",
+         "rd": "baegopa.",
+         "en": "I'm hungry."
+        },
+        {
+         "ko": "너 지금 어디야?",
+         "rd": "neo jigeum eodiya?",
+         "en": "Where are you right now?"
+        }
+       ]
+      },
+      {
+       "head": "-고 · -지만  and · but",
+       "tip": "-고 links two actions or facts; -지만 contrasts them.",
+       "sentences": [
+        {
+         "ko": "밥 먹고 커피 마셔요.",
+         "rd": "bap meokgo keopi masyeoyo.",
+         "en": "I eat, then have coffee."
+        },
+        {
+         "ko": "비싸지만 맛있어요.",
+         "rd": "bissajiman masisseoyo.",
+         "en": "It's pricey, but it's good."
+        }
+       ]
+      },
+      {
+       "head": "-네요 · -죠  wow · right?",
+       "tip": "-네요: you've just noticed something. -죠 (-지요): you assume the listener agrees, or you ask softly.",
+       "sentences": [
+        {
+         "ko": "와, 한국어 잘하시네요!",
+         "rd": "wa, hangugeo jalhasineyo!",
+         "en": "Wow, your Korean is really good!"
+        },
+        {
+         "ko": "오늘 덥죠?",
+         "rd": "oneul deopjyo?",
+         "en": "It's hot today, isn't it?"
+        }
+       ]
+      },
+      {
+       "head": "-(으)ㄹ게요 · -(으)ㄹ까요  I'll · shall we?",
+       "tip": "-(으)ㄹ게요 = a promise to the listener. -(으)ㄹ까요 = an offer or suggestion.",
+       "sentences": [
+        {
+         "ko": "제가 연락할게요.",
+         "rd": "jega yeollakalgeyo.",
+         "en": "I'll get in touch."
+        },
+        {
+         "ko": "창문 열까요?",
+         "rd": "changmun yeolkkayo?",
+         "en": "Should I open the window?"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L3",
+   "title": "Loanwords (외래어 · Konglish)",
+   "lessons": [
+    {
+     "id": "L3-talk",
+     "title": "Loanwords — the café",
+     "kind": "memorize",
+     "video": "",
+     "note": "On purpose, nothing is explained here. Learn the whole dialogue by heart and the grammar sinks in by itself.",
+     "sentences": [
+      {
+       "who": "Me",
+       "ko": "{아이스 아메리카노|1} 한 잔이랑 {치즈케이크|2} 하나 주세요.",
+       "rd": "aiseu amerikano han janirang chijeukeikeu hana juseyo.",
+       "en": "An {iced americano|1} and a slice of {cheesecake|2}, please."
+      },
+      {
+       "who": "민준",
+       "ko": "네! {포인트 카드|3} 있으세요?",
+       "rd": "ne! pointeu kadeu isseuseyo?",
+       "en": "Sure! Do you have a {points card|3}?"
+      },
+      {
+       "who": "Me",
+       "ko": "아니요. 저 여기 처음인데, {와이파이|4} 비밀번호가 뭐예요?",
+       "rd": "aniyo. jeo yeogi cheoeuminde, waipai bimilbeonhoga mwoyeyo?",
+       "en": "No, it's my first time here. What's the {Wi-Fi|4} password?"
+      },
+      {
+       "who": "민준",
+       "ko": "영수증에 있어요. {노트북|5} 쓰시려면 저쪽에 {콘센트|6} 있어요.",
+       "rd": "yeongsujeunge isseoyo. noteubuk sseusiryeomyeon jeojjoge konsenteu isseoyo.",
+       "en": "It's on the receipt. If you're using a {laptop|5}, there's an {outlet|6} over there."
+      },
+      {
+       "who": "Me",
+       "ko": "감사합니다. 사실 저 요즘 {아르바이트|7} 찾고 있어요.",
+       "rd": "gamsahamnida. sasil jeo yojeum areubaiteu chatgo isseoyo.",
+       "en": "Thanks. Actually, I'm looking for a {part-time job|7} these days."
+      },
+      {
+       "who": "민준",
+       "ko": "아, 저도 여기서 {알바|7}해요. {케이크|2}는 {서비스|8}예요.",
+       "rd": "a, jeodo yeogiseo albahaeyo. keikeuneun seobiseuyeyo.",
+       "en": "Oh, I {work part-time|7} here too. The {cake|2} is {on the house|8}."
+      },
+      {
+       "who": "Me",
+       "ko": "와, 진짜요? 그럼 {셀카|9} 한 장 같이 찍어요!",
+       "rd": "wa, jinjjayo? geureom selka han jang gachi jjigeoyo!",
+       "en": "Wow, really? Then let's take a {selfie|9} together!"
+      },
+      {
+       "who": "민준",
+       "ko": "좋아요. 근데 제 {핸드폰|10}은 {배터리|3}가 없어서… 손님 걸로 찍어요.",
+       "rd": "joayo. geunde je haendeuponeun baeteoriga eopseoseo… sonnim geollo jjigeoyo.",
+       "en": "Sure. But my {phone|10} is out of {battery|3}… let's use yours."
+      },
+      {
+       "who": "Me",
+       "ko": "나중에 유명해지실 것 같으니까 {사인|4}도 해 주세요.",
+       "rd": "najunge yumyeonghaejisil geot gateunikka saindo hae juseyo.",
+       "en": "You're going to be famous one day, so I'd like your {autograph|4} too."
+      },
+      {
+       "who": "민준",
+       "ko": "하하, 그럼 영수증 뒤에 해 드릴게요. {알바|7} 찾기 {파이팅|5}!",
+       "rd": "haha, geureom yeongsujeung dwie hae deurilgeyo. alba chatgi paiting!",
+       "en": "Haha, I'll sign the back of the receipt, then. {Good luck|5} finding a {job|7}!"
+      },
+      {
+       "who": "Me",
+       "ko": "어? \"사장님이 {알바|7} 구해요. 내일 면접 보러 오세요!\"",
+       "rd": "eo? \"sajangnimi alba guhaeyo. naeil myeonjeop boreo oseyo!\"",
+       "en": "Huh? \"The owner is hiring a {part-timer|7}. Come in for an interview tomorrow!\""
+      }
+     ],
+     "footnotes": [
+      "Many Korean words are English words in Korean clothes: 와이파이, 배터리, 아메리카노. Say them the Korean way — English pronunciation can actually be harder to understand.",
+      "Some are made in Korea: 핸드폰 (hand phone = cell phone), 셀카 (self camera = selfie), 노트북 (notebook = laptop), 원룸 (one room = studio apartment).",
+      "False friends: 서비스 = free, on the house · 사인 = autograph or signature · 콘센트 = power outlet · 파이팅 = \"you've got this!\" (not a fight).",
+      "알바 is short for 아르바이트 (from German). 알바하다 = to work a part-time job; 알바생 = a part-timer."
+     ]
+    },
+    {
+     "id": "L3-ref",
+     "kind": "ref",
+     "title": "How English becomes Korean (sound rules)",
+     "points": [
+      {
+       "head": "f · p → ㅍ",
+       "tip": "Korean has no f, so f and p both become ㅍ: fighting → 파이팅, coffee → 커피.",
+       "sentences": [
+        {
+         "ko": "커피 한 잔 주세요.",
+         "rd": "keopi han jan juseyo.",
+         "en": "One coffee, please."
+        },
+        {
+         "ko": "와이파이 비밀번호가 뭐예요?",
+         "rd": "waipai bimilbeonhoga mwoyeyo?",
+         "en": "What's the Wi-Fi password?"
+        }
+       ]
+      },
+      {
+       "head": "extra 으",
+       "tip": "Korean syllables can't stack consonants, so 으 is slipped in: cake → 케이크, stress → 스트레스, cream → 크림.",
+       "sentences": [
+        {
+         "ko": "요즘 스트레스가 많아요.",
+         "rd": "yojeum seuteureseuga manayo.",
+         "en": "I've been really stressed lately."
+        },
+        {
+         "ko": "아이스크림 먹을래요?",
+         "rd": "aiseukeurim meogeullaeyo?",
+         "en": "Want some ice cream?"
+        }
+       ]
+      },
+      {
+       "head": "final consonants",
+       "tip": "Only a few sounds can end a syllable: book → 북 (노트북), cup → 컵, chocolate → 초콜릿.",
+       "sentences": [
+        {
+         "ko": "노트북을 집에 두고 왔어요.",
+         "rd": "noteubugeul jibe dugo wasseoyo.",
+         "en": "I left my laptop at home."
+        },
+        {
+         "ko": "종이컵 있어요?",
+         "rd": "jongikeop isseoyo?",
+         "en": "Do you have paper cups?"
+        }
+       ]
+      },
+      {
+       "head": "r · l → ㄹ",
+       "tip": "Both become ㄹ. An l in the middle doubles (cola → 콜라); an r at the end usually disappears (computer → 컴퓨터).",
+       "sentences": [
+        {
+         "ko": "콜라 두 병 주세요.",
+         "rd": "kolla du byeong juseyo.",
+         "en": "Two bottles of cola, please."
+        },
+        {
+         "ko": "컴퓨터가 또 멈췄어요.",
+         "rd": "keompyuteoga tto meomchwosseoyo.",
+         "en": "My computer froze again."
+        }
+       ]
+      },
+      {
+       "head": "v → ㅂ · z, j → ㅈ",
+       "tip": "video → 비디오, service → 서비스, pizza → 피자, juice → 주스.",
+       "sentences": [
+        {
+         "ko": "피자 시킬까요?",
+         "rd": "pija sikilkkayo?",
+         "en": "Shall we order pizza?"
+        },
+        {
+         "ko": "오렌지 주스 있어요?",
+         "rd": "orenji juseu isseoyo?",
+         "en": "Do you have orange juice?"
+        }
+       ]
+      },
+      {
+       "head": "clipped, made-in-Korea words",
+       "tip": "Korean shortens and remixes: 에어컨 (air conditioner), 리모컨 (remote control), 셀카, 알바, 원룸, 핸드폰.",
+       "sentences": [
+        {
+         "ko": "에어컨 좀 켜 주세요.",
+         "rd": "eeokeon jom kyeo juseyo.",
+         "en": "Could you turn on the AC?"
+        },
+        {
+         "ko": "리모컨 어디 있어요?",
+         "rd": "rimokeon eodi isseoyo?",
+         "en": "Where's the remote?"
+        }
+       ]
+      },
+      {
+       "head": "false friends",
+       "tip": "서비스 = on the house · 사인 = autograph/signature · 콘센트 = outlet · 노트북 = laptop · 파이팅 = you've got this.",
+       "sentences": [
+        {
+         "ko": "이 음료는 서비스예요.",
+         "rd": "i eumnyoneun seobiseuyeyo.",
+         "en": "This drink is on the house."
+        },
+        {
+         "ko": "여기 사인해 주세요.",
+         "rd": "yeogi sainhae juseyo.",
+         "en": "Please sign here."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L4",
+   "title": "One English word, two Korean",
+   "lessons": [
+    {
+     "id": "L4-talk",
+     "title": "One word, two Korean — the party",
+     "kind": "memorize",
+     "video": "",
+     "note": "On purpose, nothing is explained here. Learn the whole dialogue by heart and the grammar sinks in by itself.",
+     "sentences": [
+      {
+       "who": "Me",
+       "ko": "{당신|1}은 오늘 파티에 뭐 {입어요|2}?",
+       "rd": "dangsineun oneul patie mwo ibeoyo?",
+       "en": "What are {you|1} {wearing|2} to the party today?"
+      },
+      {
+       "who": "유진",
+       "ko": "하하, \"{당신|1}\"은 부부끼리 쓰는 말이에요. 그냥 \"{유진 씨|1}\" 해요.",
+       "rd": "haha, \"dangsin\"eun bubukkiri sseuneun marieyo. geunyang \"yujin ssi\" haeyo.",
+       "en": "Haha, \"{당신|1}\" is what married couples say. Just call me \"{Yujin-ssi|1}.\""
+      },
+      {
+       "who": "Me",
+       "ko": "아, 네. {유진 씨|1}는 뭐 {입어요|2}?",
+       "rd": "a, ne. yujin ssineun mwo ibeoyo?",
+       "en": "Oh, okay. What are {you|1} {wearing|2}, Yujin?"
+      },
+      {
+       "who": "유진",
+       "ko": "원피스 {입고|2}, 운동화 {신고|2}, 모자 {쓰고|2}, 반지 {낄|2} 거예요.",
+       "rd": "wonpiseu ipgo, undonghwa singo, moja sseugo, banji kkil geoyeyo.",
+       "en": "I'm {wearing|2} a dress, sneakers, a hat, and a ring."
+      },
+      {
+       "who": "Me",
+       "ko": "와, 동사가 네 개네요! 파티에 누가 {와요|6}?",
+       "rd": "wa, dongsaga ne gaeneyo! patie nuga wayo?",
+       "en": "Wow, that's four verbs! Who's {coming|6}?"
+      },
+      {
+       "who": "유진",
+       "ko": "친구들이랑 사촌 오빠요. 오빠 {알아요|3}?",
+       "rd": "chingudeurirang sachon oppayo. oppa arayo?",
+       "en": "Some friends and my cousin. Do you {know|3} him?"
+      },
+      {
+       "who": "Me",
+       "ko": "이름은 {아는데|3}, {만난 적은 없어요|3}.",
+       "rd": "ireumeun aneunde, mannan jeogeun eopseoyo.",
+       "en": "I {know|3} his name, but we've {never met|3}."
+      },
+      {
+       "who": "유진",
+       "ko": "오빠는 기타를 {쳐요|4}. 우리는 보드게임 {하면서|4} {놀 거예요|4}.",
+       "rd": "oppaneun gitareul chyeoyo. urineun bodeugeim hamyeonseo nol geoyeyo.",
+       "en": "He {plays|4} guitar. We're going to {play|4} board games and {hang out|4}."
+      },
+      {
+       "who": "Me",
+       "ko": "저는 피아노 {칠|4} 수 있어요! 거기 피아노 {있어요|5}?",
+       "rd": "jeoneun piano chil su isseoyo! geogi piano isseoyo?",
+       "en": "I can {play|4} the piano! Do you {have|5} a piano there?"
+      },
+      {
+       "who": "유진",
+       "ko": "피아노는 없는데, 할머니가 {계세요|5}. 노래 진짜 잘하세요.",
+       "rd": "pianoneun eomneunde, halmeoniga gyeseyo. norae jinjja jalhaseyo.",
+       "en": "No piano — but we do {have|5} my grandma. She's an amazing singer."
+      },
+      {
+       "who": "Me",
+       "ko": "좋아요! 지금 바로 {갈게요|6}!",
+       "rd": "joayo! jigeum baro galgeyo!",
+       "en": "Great! I'm {coming|6} right now!"
+      },
+      {
+       "who": "유진",
+       "ko": "빨리 {와요|6}! 할머니가 벌써 마이크 잡으셨어요.",
+       "rd": "ppalli wayo! halmeoniga beolsseo maikeu jabeusyeosseoyo.",
+       "en": "Hurry, {come|6}! Grandma's already grabbed the mic."
+      }
+     ],
+     "footnotes": [
+      "you — Koreans rarely say \"you\". Use the name + 씨, a title (선배님, 팀장님), or nothing. 너 is for close friends; 당신 is for spouses (or arguments).",
+      "wear — clothes 입다 · shoes and socks 신다 · hats and glasses 쓰다 · rings and gloves 끼다.",
+      "know — 알다 = know a fact or a person. \"I've met him\" = 만난 적 있어요; \"we know each other\" = 아는 사이예요.",
+      "play — hang out 놀다 · instruments you strike (piano, guitar) and some sports (tennis) 치다 · games and most sports 하다.",
+      "come / go — Korean looks from where the SPEAKER is. On the phone \"I'm coming!\" is 지금 갈게요 (I'm going to where you are)."
+     ]
+    },
+    {
+     "id": "L4-ref",
+     "kind": "ref",
+     "title": "One English word, many Korean",
+     "points": [
+      {
+       "head": "you  너 · 당신 · name + 씨",
+       "tip": "Avoid \"you\". Name + 씨, a title, or drop it. 너 = close friends or younger people only.",
+       "sentences": [
+        {
+         "ko": "유진 씨, 커피 마실래요?",
+         "rd": "yujin ssi, keopi masillaeyo?",
+         "en": "Yujin, want some coffee?"
+        },
+        {
+         "ko": "너 오늘 뭐 해?",
+         "rd": "neo oneul mwo hae?",
+         "en": "What are you doing today?"
+        }
+       ]
+      },
+      {
+       "head": "wear  입다 · 신다 · 쓰다 · 끼다",
+       "tip": "Korean picks the verb by body part: body 입다, feet 신다, head/face 쓰다, fingers/hands 끼다.",
+       "sentences": [
+        {
+         "ko": "코트를 입고 장갑을 꼈어요.",
+         "rd": "koteureul ipgo janggabeul kkyeosseoyo.",
+         "en": "I put on my coat and gloves."
+        },
+        {
+         "ko": "안경 쓰고 운동화 신었어요.",
+         "rd": "angyeong sseugo undonghwa sineosseoyo.",
+         "en": "I put on my glasses and sneakers."
+        }
+       ]
+      },
+      {
+       "head": "know  알다 · 아는 사이",
+       "tip": "알다 / 모르다 (not 안 알다). Knowing someone personally: 아는 사람, 아는 사이.",
+       "sentences": [
+        {
+         "ko": "그 사람 전화번호 알아요?",
+         "rd": "geu saram jeonhwabeonho arayo?",
+         "en": "Do you know his number?"
+        },
+        {
+         "ko": "우리 그냥 아는 사이예요.",
+         "rd": "uri geunyang aneun saiyeyo.",
+         "en": "We're just acquaintances."
+        }
+       ]
+      },
+      {
+       "head": "play  놀다 · 치다 · 하다",
+       "tip": "놀다 = hang out (no object). 치다 = piano, guitar, tennis. 하다 = games, soccer, most sports.",
+       "sentences": [
+        {
+         "ko": "주말에 친구들이랑 놀았어요.",
+         "rd": "jumare chingudeurirang norasseoyo.",
+         "en": "I hung out with friends over the weekend."
+        },
+        {
+         "ko": "피아노도 치고 게임도 해요.",
+         "rd": "pianodo chigo geimdo haeyo.",
+         "en": "I play the piano and video games too."
+        }
+       ]
+      },
+      {
+       "head": "have · be  있다 · 계시다",
+       "tip": "있다 = there is / I have. An elder's presence → 계시다; an elder's belongings → 있으시다.",
+       "sentences": [
+        {
+         "ko": "오늘 시간 있어요?",
+         "rd": "oneul sigan isseoyo?",
+         "en": "Do you have time today?"
+        },
+        {
+         "ko": "할머니는 지금 집에 계세요.",
+         "rd": "halmeonineun jigeum jibe gyeseyo.",
+         "en": "Grandma is at home right now."
+        }
+       ]
+      },
+      {
+       "head": "come · go  오다 · 가다",
+       "tip": "Chosen from the speaker's spot, not the listener's.",
+       "sentences": [
+        {
+         "ko": "지금 갈게요!",
+         "rd": "jigeum galgeyo!",
+         "en": "I'm coming now!"
+        },
+        {
+         "ko": "언제 와요?",
+         "rd": "eonje wayo?",
+         "en": "When are you coming?"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L5",
+   "title": "Shapes English doesn't have",
+   "lessons": [
+    {
+     "id": "L5-talk",
+     "title": "Shapes English doesn't have — the picnic",
+     "kind": "memorize",
+     "video": "",
+     "note": "On purpose, nothing is explained here. Learn the whole dialogue by heart and the grammar sinks in by itself.",
+     "sentences": [
+      {
+       "who": "민준",
+       "ko": "김밥 몇 {줄|3} 살까요?",
+       "rd": "gimbap myeot jul salkkayo?",
+       "en": "How many {rolls|3} of gimbap should {we|4} get?"
+      },
+      {
+       "who": "Me",
+       "ko": "세 {줄|3}이요. 그리고 콜라 두 {병|3}, 사과 다섯 {개|3}.",
+       "rd": "se juriyo. geurigo kolla du byeong, sagwa daseot gae.",
+       "en": "Three {rolls|3}. Plus two {bottles|3} of cola and five apples."
+      },
+      {
+       "who": "민준",
+       "ko": "사과{는|1} 괜찮아요. {우리|7} 엄마가 벌써 열 {개|3} 싸 주셨{거든요|6}.",
+       "rd": "sagwaneun gwaenchanayo. uri eommaga beolsseo yeol gae ssa jusyeotgeodeunyo.",
+       "en": "We're good on {apples|1}. {My|7} mom already packed ten, {you see|6}."
+      },
+      {
+       "who": "Me",
+       "ko": "와, 많{네요|5}!",
+       "rd": "wa, manneyo!",
+       "en": "Wow, {that's|4} a lot!"
+      },
+      {
+       "who": "민준",
+       "ko": "근데 돗자리{는|1} 누{가|2} 가져와요?",
+       "rd": "geunde dotjarineun nuga gajyeowayo?",
+       "en": "But {who|2}'s bringing {the picnic mat|1}?"
+      },
+      {
+       "who": "Me",
+       "ko": "제{가|2} 가져갈게요. 어제 하나 샀어요.",
+       "rd": "jega gajyeogalgeyo. eoje hana sasseoyo.",
+       "en": "{I|2} will. {I|4} bought one yesterday."
+      },
+      {
+       "who": "민준",
+       "ko": "오, 준비 잘했{네요|5}! 날씨{는|1} 어때요?",
+       "rd": "o, junbi jalhaenneyo! nalssineun eottaeyo?",
+       "en": "Oh, {you're|4} all prepared! And {the weather|1}?"
+      },
+      {
+       "who": "Me",
+       "ko": "오후에 비{가|2} 온대요.",
+       "rd": "ohue biga ondaeyo.",
+       "en": "Apparently {rain|2}'s coming this afternoon."
+      },
+      {
+       "who": "민준",
+       "ko": "네? 그럼 우산도 두 {개|3} 사야겠{네요|5}.",
+       "rd": "ne? geureom usando du gae sayagenneyo.",
+       "en": "What? Then {we|4}'ll need two umbrellas too."
+      },
+      {
+       "who": "Me",
+       "ko": "아니요, 사실 {우리|7} 집 거실이 넓{거든요|6}. 거기서 피크닉 해요!",
+       "rd": "aniyo, sasil uri jip geosiri neolgeodeunyo. geogiseo pikeunik haeyo!",
+       "en": "No — actually, {my|7} living room is really big, {you see|6}. Let's have the picnic there!"
+      },
+      {
+       "who": "민준",
+       "ko": "거실 피크닉이요? 좋{네요|5}! 그럼 콜라 한 {병|3} 더!",
+       "rd": "geosil pikeunigiyo? jonneyo! geureom kolla han byeong deo!",
+       "en": "A living-room picnic? Love it! Then one more {bottle|3} of cola!"
+      }
+     ],
+     "footnotes": [
+      "Topic vs subject — 은/는 changes the subject of conversation (\"and the weather?\"); 이/가 picks out who or what (누가? → 제가 = \"I will, me\").",
+      "Counters — Korean can't say \"two cola\"; it needs a counter: 콜라 두 병, 사과 다섯 개, 김밥 세 줄. With counters use 한·두·세·네·다섯.",
+      "Dropped subjects — when it's obvious, Korean leaves out I / you / we / it. The words colored only in English have no Korean twin.",
+      "-거든요 — gives background the listener didn't know (\"…you see\"). -네요 — \"oh!\" as you notice something.",
+      "우리 — Koreans say \"our\" for family and home even when they mean \"my\": 우리 엄마, 우리 집."
+     ]
+    },
+    {
+     "id": "L5-ref",
+     "kind": "ref",
+     "title": "Shapes English doesn't have — at a glance",
+     "points": [
+      {
+       "head": "은/는 vs 이/가  topic vs subject",
+       "tip": "이/가 answers \"who / which one?\". 은/는 shifts or contrasts the topic.",
+       "sentences": [
+        {
+         "ko": "제가 할게요.",
+         "rd": "jega halgeyo.",
+         "en": "I'll do it (me, not someone else)."
+        },
+        {
+         "ko": "저는 커피요.",
+         "rd": "jeoneun keopiyo.",
+         "en": "Coffee for me."
+        }
+       ]
+      },
+      {
+       "head": "counters  개 · 명 · 잔 · 병 · 장 · 마리",
+       "tip": "Noun + number + counter. Things 개, people 명, cups 잔, bottles 병, flat things 장, animals 마리.",
+       "sentences": [
+        {
+         "ko": "학생 세 명이 왔어요.",
+         "rd": "haksaeng se myeongi wasseoyo.",
+         "en": "Three students came."
+        },
+        {
+         "ko": "물 한 잔이랑 종이 두 장 주세요.",
+         "rd": "mul han janirang jongi du jang juseyo.",
+         "en": "A glass of water and two sheets of paper, please."
+        }
+       ]
+      },
+      {
+       "head": "dropping the subject",
+       "tip": "If it's clear from context, leave out I / you / it.",
+       "sentences": [
+        {
+         "ko": "어제 뭐 했어요? 영화 봤어요.",
+         "rd": "eoje mwo haesseoyo? yeonghwa bwasseoyo.",
+         "en": "What did you do yesterday? I saw a movie."
+        },
+        {
+         "ko": "맛있어요?",
+         "rd": "masisseoyo?",
+         "en": "Is it good?"
+        }
+       ]
+      },
+      {
+       "head": "-네요  oh, I see!",
+       "tip": "Fresh surprise at something you just noticed.",
+       "sentences": [
+        {
+         "ko": "밖에 비 오네요.",
+         "rd": "bakke bi oneyo.",
+         "en": "Oh, it's raining outside."
+        },
+        {
+         "ko": "벌써 열 시네요.",
+         "rd": "beolsseo yeol sineyo.",
+         "en": "It's already ten, huh."
+        }
+       ]
+      },
+      {
+       "head": "-거든요  …you see",
+       "tip": "Gives the background or reason the listener didn't know.",
+       "sentences": [
+        {
+         "ko": "오늘은 못 가요. 시험이 있거든요.",
+         "rd": "oneureun mot gayo. siheomi itgeodeunyo.",
+         "en": "I can't go today. I have an exam, you see."
+        },
+        {
+         "ko": "이 집 떡볶이가 유명하거든요.",
+         "rd": "i jip tteokbokkiga yumyeonghageodeunyo.",
+         "en": "This place's tteokbokki is famous, you know."
+        }
+       ]
+      },
+      {
+       "head": "우리  \"our\" = my",
+       "tip": "With family, home, school, company: 우리 엄마, 우리 집, 우리 회사.",
+       "sentences": [
+        {
+         "ko": "우리 엄마는 요리를 잘해요.",
+         "rd": "uri eommaneun yorireul jalhaeyo.",
+         "en": "My mom's a great cook."
+        },
+        {
+         "ko": "주말에 우리 집에 놀러 와요.",
+         "rd": "jumare uri jibe nolleo wayo.",
+         "en": "Come over to my place this weekend."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L6",
+   "title": "Honorifics (높임말)",
+   "lessons": [
+    {
+     "id": "L6-talk",
+     "title": "Honorifics — the boss's birthday",
+     "kind": "memorize",
+     "video": "",
+     "note": "On purpose, nothing is explained here. Learn the whole dialogue by heart and the grammar sinks in by itself.",
+     "sentences": [
+      {
+       "who": "지호 선배",
+       "ko": "오늘 {팀장님|7} {생신|6}이라서 저녁에 다 같이 식사해요.",
+       "rd": "oneul timjangnim saengsiniraseo jeonyeoge da gachi siksahaeyo.",
+       "en": "It's {the team leader|7}'s {birthday|6} today, so we're all having dinner together."
+      },
+      {
+       "who": "Me",
+       "ko": "아, 그럼 케이크라도 사 {드릴까요|2}?",
+       "rd": "a, geureom keikeurado sa deurilkkayo?",
+       "en": "Oh, then should I {get her|2} a cake or something?"
+      },
+      {
+       "who": "지호 선배",
+       "ko": "좋은데, {팀장님|7}은 단 거 잘 안 {드세요|4}.",
+       "rd": "joeunde, timjangnimeun dan geo jal an deuseyo.",
+       "en": "Nice thought, but {the boss|7} doesn't really {eat|4} sweets."
+      },
+      {
+       "who": "Me",
+       "ko": "그럼 뭘 좋아하{세요|1}?",
+       "rd": "geureom mwol joahaseyo?",
+       "en": "Then what does she {like|1}?"
+      },
+      {
+       "who": "지호 선배",
+       "ko": "등산을 좋아하{시고|1}, 주말마다 산에 {계세요|3}. 밤 열 시면 {주무시고요|5}.",
+       "rd": "deungsaneul joahasigo, jumalmada sane gyeseyo. bam yeol simyeon jumusigoyo.",
+       "en": "She {loves|1} hiking — every weekend she's {out|3} on a mountain. And she's {asleep|5} by ten."
+      },
+      {
+       "who": "Me",
+       "ko": "민준아, 너 저녁 {먹었어|4}? 선물 고르는 것 좀 도와{줘|2}.",
+       "rd": "minjuna, neo jeonyeok meogeosseo? seonmul goreuneun geot jom dowajwo.",
+       "en": "Minjun, have you {eaten|4}? {Help me|2} pick out a present."
+      },
+      {
+       "who": "민준",
+       "ko": "응, {먹었어|4}. 누구 선물인데?",
+       "rd": "eung, meogeosseo. nugu seonmurinde?",
+       "en": "Yeah, I {ate|4}. Who's it for?"
+      },
+      {
+       "who": "Me",
+       "ko": "우리 팀장님. 등산 좋아하{셔|1}. 등산 양말 어때?",
+       "rd": "uri timjangnim. deungsan joahasyeo. deungsan yangmal eottae?",
+       "en": "My team leader. She {loves|1} hiking. How about hiking socks?"
+      },
+      {
+       "who": "민준",
+       "ko": "괜찮네. 근데 팀장님 {연세|6}가 어떻게 {되시는데|1}?",
+       "rd": "gwaenchanne. geunde timjangnim yeonsega eotteoke doesineunde?",
+       "en": "Not bad. But how {old|6} {is|1} she?"
+      },
+      {
+       "who": "Me",
+       "ko": "{팀장님|7}, {생신|6} 축하{드려요|2}! 작은 선물이에요.",
+       "rd": "timjangnim, saengsin chukadeuryeoyo! jageun seonmurieyo.",
+       "en": "Happy {birthday|6}, {boss|7}! It's just a little something."
+      },
+      {
+       "who": "지호 선배",
+       "ko": "{팀장님|7} {말씀|6}이, 등산 양말은 벌써 서른 켤레 {있으시대요|3}.",
+       "rd": "timjangnim malsseumi, deungsan yangmareun beolsseo seoreun kyeolle isseusidaeyo.",
+       "en": "{The boss|7} {says|6} she already {has|3} thirty pairs of hiking socks."
+      },
+      {
+       "who": "Me",
+       "ko": "아… 그럼 서른한 번째로 받아 주{세요|1}! 오늘은 일찍 {주무세요|5}, {팀장님|7}!",
+       "rd": "a… geureom seoreunhan beonjjaero bada juseyo! oneureun iljjik jumuseyo, timjangnim!",
+       "en": "Oh… then please take pair number thirty-one! Get some {sleep|5} tonight, {boss|7}!"
+      }
+     ],
+     "footnotes": [
+      "-(으)시- goes inside the verb to raise the person doing it: 좋아해요 → 좋아하세요. Never use it about yourself.",
+      "Some verbs have their own honorific word: 먹다 → 드시다, 자다 → 주무시다, 있다 (be somewhere) → 계시다, 말 → 말씀, 생일 → 생신, 나이 → 연세.",
+      "주다 → 드리다 when YOU give to someone above you: 사 드릴까요?, 축하드려요.",
+      "Notice 민준: he talks to you in 반말, but still raises your boss — 좋아하셔, 되시는데. Honorifics follow the person you talk ABOUT, too.",
+      "있으시다 vs 계시다 — the boss HAS socks (있으시다), the boss IS on a mountain (계시다)."
+     ]
+    },
+    {
+     "id": "L6-ref",
+     "kind": "ref",
+     "title": "Honorifics at a glance",
+     "points": [
+      {
+       "head": "-(으)시-  raising the subject",
+       "tip": "Goes on the verb when the doer is older or higher: 가요 → 가세요, 왔어요 → 오셨어요.",
+       "sentences": [
+        {
+         "ko": "선생님이 오셨어요.",
+         "rd": "seonsaengnimi osyeosseoyo.",
+         "en": "The teacher has arrived."
+        },
+        {
+         "ko": "어디 가세요?",
+         "rd": "eodi gaseyo?",
+         "en": "Where are you headed?"
+        }
+       ]
+      },
+      {
+       "head": "special verbs  드시다 · 주무시다 · 계시다",
+       "tip": "먹다·마시다 → 드시다, 자다 → 주무시다, 있다 (be) → 계시다, 말하다 → 말씀하시다.",
+       "sentences": [
+        {
+         "ko": "할아버지는 지금 주무세요.",
+         "rd": "harabeojineun jigeum jumuseyo.",
+         "en": "Grandpa is sleeping right now."
+        },
+        {
+         "ko": "맛있게 드세요.",
+         "rd": "masitge deuseyo.",
+         "en": "Enjoy your meal."
+        }
+       ]
+      },
+      {
+       "head": "드리다  giving upward",
+       "tip": "주다 → 드리다 when the receiver is above you. -아/어 드릴게요 = I'll do it for you (politely).",
+       "sentences": [
+        {
+         "ko": "부모님께 선물을 드렸어요.",
+         "rd": "bumonimkke seonmureul deuryeosseoyo.",
+         "en": "I gave my parents a present."
+        },
+        {
+         "ko": "제가 도와 드릴게요.",
+         "rd": "jega dowa deurilgeyo.",
+         "en": "Let me help you."
+        }
+       ]
+      },
+      {
+       "head": "honorific nouns  말씀 · 성함 · 연세 · 생신 · 댁",
+       "tip": "말 → 말씀, 이름 → 성함, 나이 → 연세, 생일 → 생신, 집 → 댁.",
+       "sentences": [
+        {
+         "ko": "성함이 어떻게 되세요?",
+         "rd": "seonghami eotteoke doeseyo?",
+         "en": "May I have your name?"
+        },
+        {
+         "ko": "할머니 연세가 어떻게 되세요?",
+         "rd": "halmeoni yeonsega eotteoke doeseyo?",
+         "en": "How old is your grandmother?"
+        }
+       ]
+      },
+      {
+       "head": "-님 · 께  titles",
+       "tip": "Title + 님: 선생님, 사장님, 팀장님, 고객님. 께 = honorific 한테. Never put 님 on your own title.",
+       "sentences": [
+        {
+         "ko": "사장님, 여기 계산해 주세요.",
+         "rd": "sajangnim, yeogi gyesanhae juseyo.",
+         "en": "Excuse me, could we get the check?"
+        },
+        {
+         "ko": "팀장님께 말씀드릴게요.",
+         "rd": "timjangnimkke malsseumdeurilgeyo.",
+         "en": "I'll let the team leader know."
+        }
+       ]
+      },
+      {
+       "head": "senior vs friend",
+       "tip": "The same question, two ways.",
+       "sentences": [
+        {
+         "ko": "선배님, 식사하셨어요?",
+         "rd": "seonbaenim, siksahasyeosseoyo?",
+         "en": "Have you eaten yet? (to a senior)"
+        },
+        {
+         "ko": "밥 먹었어?",
+         "rd": "bap meogeosseo?",
+         "en": "Did you eat? (to a friend)"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L7",
+   "title": "Asking & permission (-아/어 주세요 · -아/어도 돼요?)",
+   "lessons": [
+    {
+     "id": "L7-talk",
+     "title": "Asking & permission — cat-sitting",
+     "kind": "memorize",
+     "video": "",
+     "note": "On purpose, nothing is explained here. Learn the whole dialogue by heart and the grammar sinks in by itself.",
+     "sentences": [
+      {
+       "who": "유진",
+       "ko": "이번 주말에 우리 고양이 좀 봐 {줄 수 있어요|5}?",
+       "rd": "ibeon jumare uri goyangi jom bwa jul su isseoyo?",
+       "en": "{Could you|5} look after my cat this weekend?"
+      },
+      {
+       "who": "Me",
+       "ko": "물론이죠! 사진 많이 찍{어도 돼요|2}?",
+       "rd": "mullonijyo! sajin mani jjigeodo dwaeyo?",
+       "en": "Of course! {Can I|2} take lots of pictures?"
+      },
+      {
+       "who": "유진",
+       "ko": "네, 많이 찍어 {주세요|1}. 근데 간식은 많이 주{면 안 돼요|3}.",
+       "rd": "ne, mani jjigeo juseyo. geunde gansigeun mani jumyeon an dwaeyo.",
+       "en": "Yes, {please|1} do! But you {can't|3} give her too many treats."
+      },
+      {
+       "who": "유진",
+       "ko": "그리고 창문은 열{지 마세요|4}. 자꾸 나가려고 해요.",
+       "rd": "geurigo changmuneun yeolji maseyo. jakku nagaryeogo haeyo.",
+       "en": "And {don't|4} open the windows. She keeps trying to get out."
+      },
+      {
+       "who": "Me",
+       "ko": "알겠어요. 소파에서 같이 자{도 돼요|2}?",
+       "rd": "algesseoyo. sopaeseo gachi jado dwaeyo?",
+       "en": "Got it. {Is it okay if|2} I sleep on the couch with her?"
+      },
+      {
+       "who": "유진",
+       "ko": "그럼요. 침대에는 올라가{면 안 되는데|3}… 사실 그건 포기했어요.",
+       "rd": "geureomyo. chimdaeeneun ollagamyeon an doeneunde… sasil geugeon pogihaesseoyo.",
+       "en": "Sure. She's {not allowed|3} on the bed… honestly, I've given up on that one."
+      },
+      {
+       "who": "Me",
+       "ko": "유진 씨, 고양이가 냉장고 문을 열 {수 있어요|5}?!",
+       "rd": "yujin ssi, goyangiga naengjanggo muneul yeol su isseoyo?!",
+       "en": "Yujin, {can|5} your cat open the fridge?!"
+      },
+      {
+       "who": "유진",
+       "ko": "네?! 설마 지금 열려 있어요?",
+       "rd": "ne?! seolma jigeum yeollyeo isseoyo?",
+       "en": "What?! Is it open right now?"
+      },
+      {
+       "who": "Me",
+       "ko": "네… 지금 치즈 먹고 있어요. 뺏{어도 돼요|2}?",
+       "rd": "ne… jigeum chijeu meokgo isseoyo. ppaeseodo dwaeyo?",
+       "en": "Yeah… she's eating cheese. {Can I|2} take it away from her?"
+      },
+      {
+       "who": "유진",
+       "ko": "빨리 뺏어 {주세요|1}! 그리고 놀라{지 마세요|4}. 원래 그래요.",
+       "rd": "ppalli ppaeseo juseyo! geurigo nollaji maseyo. wollae geuraeyo.",
+       "en": "Take it, {please|1}, quick! And {don't|4} panic — she always does that."
+      },
+      {
+       "who": "Me",
+       "ko": "냉장고에 테이프 붙여{도 돼요|2}?",
+       "rd": "naengjanggoe teipeu butyeodo dwaeyo?",
+       "en": "{Can I|2} tape the fridge shut?"
+      },
+      {
+       "who": "유진",
+       "ko": "소용없어요. 테이프도 뜯을 {수 있어요|5}.",
+       "rd": "soyongeopseoyo. teipeudo tteudeul su isseoyo.",
+       "en": "No use. She {can|5} rip tape, too."
+      }
+     ],
+     "footnotes": [
+      "-아/어 주세요 = \"please do it (for me)\". 주세요 alone after a noun = \"please give me\": 물 주세요.",
+      "-아/어도 돼요? = \"may I / is it okay if…?\" Answer: 네, 돼요 / 괜찮아요.",
+      "-(으)면 안 돼요 = \"you mustn't\" (lit. \"if you do it, it's not okay\"). -지 마세요 = \"don't\" — a direct request.",
+      "-(으)ㄹ 수 있어요 = can (ability or possibility). Asking a favor politely: -아/어 줄 수 있어요?"
+     ]
+    },
+    {
+     "id": "L7-ref",
+     "kind": "ref",
+     "title": "Asking & permission at a glance",
+     "points": [
+      {
+       "head": "-아/어 주세요  please (for me)",
+       "tip": "A polite request. Add 좀 to soften it.",
+       "sentences": [
+        {
+         "ko": "사진 좀 찍어 주세요.",
+         "rd": "sajin jom jjigeo juseyo.",
+         "en": "Could you take a picture for me?"
+        },
+        {
+         "ko": "천천히 말해 주세요.",
+         "rd": "cheoncheonhi malhae juseyo.",
+         "en": "Please speak slowly."
+        }
+       ]
+      },
+      {
+       "head": "-아/어도 돼요?  may I?",
+       "tip": "Asking permission; without the question it means \"it's fine to…\".",
+       "sentences": [
+        {
+         "ko": "여기 앉아도 돼요?",
+         "rd": "yeogi anjado dwaeyo?",
+         "en": "May I sit here?"
+        },
+        {
+         "ko": "내일 와도 돼요.",
+         "rd": "naeil wado dwaeyo.",
+         "en": "It's fine to come tomorrow."
+        }
+       ]
+      },
+      {
+       "head": "-(으)면 안 돼요  must not",
+       "tip": "Something is not allowed.",
+       "sentences": [
+        {
+         "ko": "여기서 사진 찍으면 안 돼요.",
+         "rd": "yeogiseo sajin jjigeumyeon an dwaeyo.",
+         "en": "You can't take photos here."
+        },
+        {
+         "ko": "늦으면 안 돼요.",
+         "rd": "neujeumyeon an dwaeyo.",
+         "en": "We can't be late."
+        }
+       ]
+      },
+      {
+       "head": "-지 마세요  don't",
+       "tip": "A polite \"don't\". Casual: -지 마.",
+       "sentences": [
+        {
+         "ko": "걱정하지 마세요.",
+         "rd": "geokjeonghaji maseyo.",
+         "en": "Don't worry."
+        },
+        {
+         "ko": "만지지 마세요.",
+         "rd": "manjiji maseyo.",
+         "en": "Please don't touch."
+        }
+       ]
+      },
+      {
+       "head": "-(으)ㄹ 수 있어요?  can you?",
+       "tip": "Ability or possibility. Can't: -(으)ㄹ 수 없어요 or 못 + verb.",
+       "sentences": [
+        {
+         "ko": "한국어 읽을 수 있어요?",
+         "rd": "hangugeo ilgeul su isseoyo?",
+         "en": "Can you read Korean?"
+        },
+        {
+         "ko": "좀 도와줄 수 있어요?",
+         "rd": "jom dowajul su isseoyo?",
+         "en": "Could you give me a hand?"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L8",
+   "title": "Reasons & experience (-아/어서 · -(으)니까 · -아/어 봤어요)",
+   "lessons": [
+    {
+     "id": "L8-talk",
+     "title": "Reasons & experience — tteokbokki",
+     "kind": "memorize",
+     "video": "",
+     "note": "On purpose, nothing is explained here. Learn the whole dialogue by heart and the grammar sinks in by itself.",
+     "sentences": [
+      {
+       "who": "민준",
+       "ko": "왜 이렇게 늦었어요? 한 시간 기다렸어요.",
+       "rd": "wae ireoke neujeosseoyo? han sigan gidaryeosseoyo.",
+       "en": "Why are you so late? I waited an hour."
+      },
+      {
+       "who": "Me",
+       "ko": "미안해요. 버스를 잘못 타{서|1} 종점까지 갔어요.",
+       "rd": "mianhaeyo. beoseureul jalmot taseo jongjeomkkaji gasseoyo.",
+       "en": "Sorry. I got on the wrong bus, {so|1} I rode it all the way to the last stop."
+      },
+      {
+       "who": "민준",
+       "ko": "하하, 괜찮아요. 배고프{니까|2} 빨리 뭐 먹으러 가요.",
+       "rd": "haha, gwaenchanayo. baegopeunikka ppalli mwo meogeureo gayo.",
+       "en": "Haha, it's fine. I'm starving, {so|2} let's go eat something."
+      },
+      {
+       "who": "민준",
+       "ko": "떡볶이 먹{어 봤어요|5}?",
+       "rd": "tteokbokki meogeo bwasseoyo?",
+       "en": "Have you {tried|5} tteokbokki?"
+      },
+      {
+       "who": "Me",
+       "ko": "아니요, 아직 먹{은 적 없어요|4}. 매운 맛 {때문에|3} 좀 무서워요.",
+       "rd": "aniyo, ajik meogeun jeok eopseoyo. maeun mat ttaemune jom museowoyo.",
+       "en": "No, I've {never had|4} it. I'm a little scared {because of|3} the spice."
+      },
+      {
+       "who": "민준",
+       "ko": "안 매운 것도 있{으니까|2} 한번 먹{어 봐요|5}.",
+       "rd": "an maeun geotdo isseunikka hanbeon meogeo bwayo.",
+       "en": "There's a mild kind too, {so|2} just {give it a try|5}."
+      },
+      {
+       "who": "Me",
+       "ko": "와, 너무 맛있{어서|1} 멈출 수가 없어요!",
+       "rd": "wa, neomu masisseoseo meomchul suga eopseoyo!",
+       "en": "Wow, it's {so|1} good I can't stop!"
+      },
+      {
+       "who": "민준",
+       "ko": "그쵸? 저는 어릴 때 이거 {때문에|3} 요리사가 되고 싶었어요.",
+       "rd": "geuchyo? jeoneun eoril ttae igeo ttaemune yorisaga doego sipeosseoyo.",
+       "en": "Right? This is {why|3} I wanted to be a chef as a kid."
+      },
+      {
+       "who": "Me",
+       "ko": "요리 배{운 적 있어요|4}?",
+       "rd": "yori baeun jeok isseoyo?",
+       "en": "{Have you ever|4} taken cooking lessons?"
+      },
+      {
+       "who": "민준",
+       "ko": "네, 요리 학원에 한 달 다{녀 봤어요|5}. 근데 불을 두 번 내{서|1} 쫓겨났어요.",
+       "rd": "ne, yori hagwone han dal danyeo bwasseoyo. geunde bureul du beon naeseo jjotgyeonasseoyo.",
+       "en": "Yeah, I {tried|5} a cooking school for a month. But I started two fires, {so|1} they kicked me out."
+      },
+      {
+       "who": "Me",
+       "ko": "…앞으로도 밖에서 먹어요. 민준 씨 부엌은 위험하{니까|2}.",
+       "rd": "…apeurodo bakkeseo meogeoyo. minjun ssi bueokeun wiheomhanikka.",
+       "en": "…Let's keep eating out, then. {Since|2} your kitchen is a hazard."
+      }
+     ],
+     "footnotes": [
+      "-아/어서 and -(으)니까 both mean \"so / because\". If the second half is a suggestion or order (let's…, please…), use -(으)니까.",
+      "Apologies take -아/어서: 늦어서 미안해요 (sorry I'm late). -(으)니까 there sounds like an excuse.",
+      "때문에 goes after a noun: 매운 맛 때문에 = because of the spice.",
+      "-(으)ㄴ 적 있어요 = \"have ever…\". -아/어 봤어요 = \"have tried / done (it)\" — very often used for experience too."
+     ]
+    },
+    {
+     "id": "L8-ref",
+     "kind": "ref",
+     "title": "Reasons & experience at a glance",
+     "points": [
+      {
+       "head": "-아/어서  because / so",
+       "tip": "Natural causes and apologies. Can't be followed by -세요 or -자.",
+       "sentences": [
+        {
+         "ko": "늦어서 죄송해요.",
+         "rd": "neujeoseo joesonghaeyo.",
+         "en": "I'm sorry I'm late."
+        },
+        {
+         "ko": "피곤해서 일찍 잤어요.",
+         "rd": "pigonhaeseo iljjik jasseoyo.",
+         "en": "I was tired, so I went to bed early."
+        }
+       ]
+      },
+      {
+       "head": "-(으)니까  since (so let's / please)",
+       "tip": "Use when the second half is a suggestion, request or command.",
+       "sentences": [
+        {
+         "ko": "비 오니까 우산 가져가세요.",
+         "rd": "bi onikka usan gajyeogaseyo.",
+         "en": "It's raining, so take an umbrella."
+        },
+        {
+         "ko": "시간 없으니까 택시 타자.",
+         "rd": "sigan eopseunikka taeksi taja.",
+         "en": "We're out of time — let's grab a taxi."
+        }
+       ]
+      },
+      {
+       "head": "때문에  because of",
+       "tip": "After a noun. With verbs: -기 때문에 (a bit formal).",
+       "sentences": [
+        {
+         "ko": "감기 때문에 못 갔어요.",
+         "rd": "gamgi ttaemune mot gasseoyo.",
+         "en": "I couldn't go because of a cold."
+        },
+        {
+         "ko": "너 때문에 웃었어.",
+         "rd": "neo ttaemune useosseo.",
+         "en": "You made me laugh."
+        }
+       ]
+      },
+      {
+       "head": "-(으)ㄴ 적 있어요/없어요  have ever",
+       "tip": "Past experience — or the lack of it.",
+       "sentences": [
+        {
+         "ko": "한국에 가 본 적 있어요?",
+         "rd": "hanguge ga bon jeok isseoyo?",
+         "en": "Have you ever been to Korea?"
+        },
+        {
+         "ko": "그런 말은 들은 적 없어요.",
+         "rd": "geureon mareun deureun jeok eopseoyo.",
+         "en": "I've never heard that before."
+        }
+       ]
+      },
+      {
+       "head": "-아/어 보다  try",
+       "tip": "\"Try doing\". In the past tense it means \"have done\". -아/어 보세요 = give it a try.",
+       "sentences": [
+        {
+         "ko": "이거 한번 먹어 보세요.",
+         "rd": "igeo hanbeon meogeo boseyo.",
+         "en": "Try this."
+        },
+        {
+         "ko": "번지 점프 해 봤어요.",
+         "rd": "beonji jeompeu hae bwasseoyo.",
+         "en": "I've done a bungee jump."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L9",
+   "title": "Thoughts & conditions (-(으)면 · -는 것 같아요 · -잖아요)",
+   "lessons": [
+    {
+     "id": "L9-talk",
+     "title": "Thoughts & conditions — the night before the interview",
+     "kind": "memorize",
+     "video": "",
+     "note": "On purpose, nothing is explained here. Learn the whole dialogue by heart and the grammar sinks in by itself.",
+     "sentences": [
+      {
+       "who": "유진",
+       "ko": "내일 면접인데 잠이 안 와요. 떨어질{까 봐|5} 무서워요.",
+       "rd": "naeil myeonjeobinde jami an wayo. tteoreojilkka bwa museowoyo.",
+       "en": "My interview's tomorrow and I can't sleep. I'm {scared|5} I'll fail."
+      },
+      {
+       "who": "Me",
+       "ko": "유진 씨는 잘할 {것 같아요|3}. 준비 많이 했{잖아요|4}.",
+       "rd": "yujin ssineun jalhal geot gatayo. junbi mani haetjanayo.",
+       "en": "I {think|3} you'll do great. You prepared so much, {you know|4}."
+      },
+      {
+       "who": "유진",
+       "ko": "근데 면접관이 무서우{면|1} 어떡해요?",
+       "rd": "geunde myeonjeopgwani museoumyeon eotteokaeyo?",
+       "en": "But what {if|1} the interviewers are scary?"
+      },
+      {
+       "who": "Me",
+       "ko": "무서우{면|1} 강아지라고 생각해요.",
+       "rd": "museoumyeon gangajirago saenggakaeyo.",
+       "en": "{If|1} they're scary, just picture them as puppies."
+      },
+      {
+       "who": "유진",
+       "ko": "하하, 그거 좋은 방법인 {것 같아요|2}.",
+       "rd": "haha, geugeo joeun bangbeobin geot gatayo.",
+       "en": "Haha, that {sounds like|2} a good trick."
+      },
+      {
+       "who": "유진",
+       "ko": "그리고 늦잠 잘{까 봐|5} 알람을 다섯 개 맞췄어요.",
+       "rd": "geurigo neutjam jalkka bwa allameul daseot gae matchwosseoyo.",
+       "en": "And I set five alarms {in case|5} I oversleep."
+      },
+      {
+       "who": "Me",
+       "ko": "다섯 개{면|1} 옆집 사람도 일어날 {것 같아요|3}.",
+       "rd": "daseot gaemyeon yeopjip saramdo ireonal geot gatayo.",
+       "en": "{With|1} five, I {think|3} your neighbor will wake up too."
+      },
+      {
+       "who": "유진",
+       "ko": "괜찮아요. 옆집 사람도 내일 면접이 있{는 것 같아요|2}. 아까 정장 들고 가는 거 봤{잖아요|4}.",
+       "rd": "gwaenchanayo. yeopjip saramdo naeil myeonjeobi inneun geot gatayo. akka jeongjang deulgo ganeun geo bwatjanayo.",
+       "en": "It's fine. {I think|2} he has an interview tomorrow too. We saw him carrying a suit earlier, {remember|4}?"
+      },
+      {
+       "who": "Me",
+       "ko": "혹시 같은 회사{면|1}…",
+       "rd": "hoksi gateun hoesamyeon…",
+       "en": "What {if|1} it's the same company…"
+      },
+      {
+       "who": "유진",
+       "ko": "대박, 진짜 같은 회사였어요! 대기실에서 둘 다 웃음이 터졌어요.",
+       "rd": "daebak, jinjja gateun hoesayeosseoyo! daegisireseo dul da useumi teojyeosseoyo.",
+       "en": "Unbelievable — it really was the same company! We both burst out laughing in the waiting room."
+      },
+      {
+       "who": "Me",
+       "ko": "그래서 둘 다 붙었어요?",
+       "rd": "geuraeseo dul da buteosseoyo?",
+       "en": "So did you both get in?"
+      },
+      {
+       "who": "유진",
+       "ko": "결과는 아직 몰라요. 근데 저녁 먹자고 하는 거 보면… 뭔가 붙은 {것 같아요|2}.",
+       "rd": "gyeolgwaneun ajik mollayo. geunde jeonyeok meokjago haneun geo bomyeon… mwonga buteun geot gatayo.",
+       "en": "No results yet. But he asked me to dinner, so… {I think|2} I passed something."
+      }
+     ],
+     "footnotes": [
+      "-(으)면 = if / when. It can also mean \"with / at\" after a number: 다섯 개면 = with five.",
+      "-는 것 같아요 = it seems (from what I see now) — also used just to sound softer. -(으)ㄹ 것 같아요 = I think it will. -(으)ㄴ 것 같아요 = I think it did.",
+      "-잖아요 = \"you know / remember?\" — reminds the listener of something you both know. With a stranger it can sound pushy.",
+      "-(으)ㄹ까 봐 = \"in case / for fear that\": 늦잠 잘까 봐 = in case I oversleep."
+     ]
+    },
+    {
+     "id": "L9-ref",
+     "kind": "ref",
+     "title": "Thoughts & conditions at a glance",
+     "points": [
+      {
+       "head": "-(으)면  if / when",
+       "tip": "Conditions and \"whenever\".",
+       "sentences": [
+        {
+         "ko": "시간 있으면 같이 가요.",
+         "rd": "sigan isseumyeon gachi gayo.",
+         "en": "If you have time, let's go together."
+        },
+        {
+         "ko": "봄이 되면 꽃이 펴요.",
+         "rd": "bomi doemyeon kkochi pyeoyo.",
+         "en": "When spring comes, the flowers bloom."
+        }
+       ]
+      },
+      {
+       "head": "-는 것 같아요  it seems",
+       "tip": "A soft guess from what you see now. Past: -(으)ㄴ 것 같아요. Noun: -인 것 같아요.",
+       "sentences": [
+        {
+         "ko": "밖에 비 오는 것 같아요.",
+         "rd": "bakke bi oneun geot gatayo.",
+         "en": "Looks like it's raining outside."
+        },
+        {
+         "ko": "제가 잘못 들은 것 같아요.",
+         "rd": "jega jalmot deureun geot gatayo.",
+         "en": "I think I misheard."
+        }
+       ]
+      },
+      {
+       "head": "-(으)ㄹ 것 같아요  I think it will",
+       "tip": "A guess about the future, or a softened \"I'm going to\".",
+       "sentences": [
+        {
+         "ko": "내일 추울 것 같아요.",
+         "rd": "naeil chuul geot gatayo.",
+         "en": "I think it'll be cold tomorrow."
+        },
+        {
+         "ko": "조금 늦을 것 같아요. 미안해요!",
+         "rd": "jogeum neujeul geot gatayo. mianhaeyo!",
+         "en": "I think I'll be a little late. Sorry!"
+        }
+       ]
+      },
+      {
+       "head": "-잖아요  you know (we both know)",
+       "tip": "Points to something the listener already knows.",
+       "sentences": [
+        {
+         "ko": "어제 말했잖아요.",
+         "rd": "eoje malhaetjanayo.",
+         "en": "I told you yesterday, remember?"
+        },
+        {
+         "ko": "주말이잖아요. 좀 쉬어요.",
+         "rd": "jumarijanayo. jom swieoyo.",
+         "en": "It's the weekend, you know. Get some rest."
+        }
+       ]
+      },
+      {
+       "head": "-(으)ㄹ까 봐  in case · afraid that",
+       "tip": "You do the first thing because you're worried the second might happen.",
+       "sentences": [
+        {
+         "ko": "길이 막힐까 봐 일찍 나왔어요.",
+         "rd": "giri makilkka bwa iljjik nawasseoyo.",
+         "en": "I left early in case there was traffic."
+        },
+        {
+         "ko": "잊어버릴까 봐 적어 놨어요.",
+         "rd": "ijeobeorilkka bwa jeogeo nwasseoyo.",
+         "en": "I wrote it down in case I forgot."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L10",
+   "title": "Changing perspective (보이다 · -게 되다 · -아/어 버리다 …)",
+   "lessons": [
+    {
+     "id": "L10-talk",
+     "title": "Changing perspective — the piano upstairs (a short story)",
+     "kind": "memorize",
+     "video": "",
+     "note": "On purpose, nothing is explained here. Learn the whole story by heart and the grammar sinks in by itself.",
+     "sentences": [
+      {
+       "ko": "작년에 일 때문에 서울에서 살{게 됐어요|2}.",
+       "rd": "jangnyeone il ttaemune seoureseo salge dwaesseoyo.",
+       "en": "Last year, I {ended up|2} living in Seoul for work."
+      },
+      {
+       "ko": "제 첫 원룸은 창문으로 산이 {보였어요|1}.",
+       "rd": "je cheot wollumeun changmuneuro sani boyeosseoyo.",
+       "en": "From the window of my first studio, {you could see|1} the mountains."
+      },
+      {
+       "ko": "그런데 밤마다 윗집에서 피아노 소리가 {들렸어요|1}.",
+       "rd": "geureonde bammada witjibeseo piano soriga deullyeosseoyo.",
+       "en": "But every night, {I could hear|1} a piano upstairs."
+      },
+      {
+       "ko": "처음엔 시끄러웠는데, 점점 그 소리가 좋{아졌어요|4}.",
+       "rd": "cheoeumen sikkeureowonneunde, jeomjeom geu soriga joajyeosseoyo.",
+       "en": "At first it was noisy, but little by little the sound {grew on|4} me."
+      },
+      {
+       "ko": "어느 날 쓰레기를 버리러 나갔는데, 바람에 문이 {닫혀|1} {버렸어요|3}.",
+       "rd": "eoneu nal sseuregireul beorireo naganneunde, barame muni datyeo beoryeosseoyo.",
+       "en": "One day I stepped out to take out the trash, and the wind {slammed|1} the door shut {behind me|3}."
+      },
+      {
+       "ko": "열쇠는 안에 있었어요. 문은 절대 안 {열렸어요|1}.",
+       "rd": "yeolsoeneun ane isseosseoyo. muneun jeoldae an yeollyeosseoyo.",
+       "en": "My keys were inside. The door just would not {open|1}."
+      },
+      {
+       "ko": "그때 윗집 사람이 내려와서 저를 자기 집에서 기다리{게 했어요|5}.",
+       "rd": "geuttae witjip sarami naeryeowaseo jeoreul jagi jibeseo gidarige haesseoyo.",
+       "en": "Just then, the upstairs neighbor came down and {had me|5} wait at her place."
+      },
+      {
+       "ko": "그분은 피아노 선생님이었어요. 열쇠 기사님을 기다리는 동안 피아노를 배우{게 됐어요|2}.",
+       "rd": "geubuneun piano seonsaengnimieosseoyo. yeolsoe gisanimeul gidarineun dongan pianoreul baeuge dwaesseoyo.",
+       "en": "She was a piano teacher. While we waited for the locksmith, I {ended up|2} learning the piano."
+      },
+      {
+       "ko": "선생님은 저한테 매일 십 분씩 연습하{게 했어요|5}.",
+       "rd": "seonsaengnimeun jeohante maeil sip bunssik yeonseupage haesseoyo.",
+       "en": "She {made me|5} practice ten minutes a day."
+      },
+      {
+       "ko": "손가락이 조금씩 빨{라졌어요|4}. 그래서 저도 작은 전자 피아노를 사 {버렸어요|3}.",
+       "rd": "songaragi jogeumssik ppallajyeosseoyo. geuraeseo jeodo jageun jeonja pianoreul sa beoryeosseoyo.",
+       "en": "My fingers {got|4} a little faster. So I {went ahead and|3} bought a small keyboard."
+      },
+      {
+       "ko": "요즘은 아랫집에서 제 피아노 소리가 {들린대요|1}. 죄송해요, 아랫집!",
+       "rd": "yojeumeun araetjibeseo je piano soriga deullindaeyo. joesonghaeyo, araetjip!",
+       "en": "These days, the people downstairs say they {can hear|1} my piano. Sorry, downstairs!"
+      }
+     ],
+     "footnotes": [
+      "보이다 · 들리다 · 열리다 · 닫히다 — the thing seen / heard / opened becomes the subject: 산이 보여요 (the mountain is visible) vs 산을 봐요 (I look at the mountain).",
+      "-게 되다 = \"ended up / came to\" — it happened, not exactly by your plan.",
+      "-아/어 버리다 = \"…and that's that\": the action is completely done, often with regret (닫혀 버렸어요) or a sense of relief / no going back (사 버렸어요).",
+      "-아/어지다 = becoming: 좋다 → 좋아지다 (come to like), 빠르다 → 빨라지다 (get faster). -게 하다 = make or let someone do something."
+     ]
+    },
+    {
+     "id": "L10-ref",
+     "kind": "ref",
+     "title": "Changing perspective at a glance",
+     "points": [
+      {
+       "head": "보이다 · 들리다 · 열리다 · 닫히다  passive verbs",
+       "tip": "The thing that is seen, heard or opened takes 이/가.",
+       "sentences": [
+        {
+         "ko": "여기서 바다가 보여요.",
+         "rd": "yeogiseo badaga boyeoyo.",
+         "en": "You can see the ocean from here."
+        },
+        {
+         "ko": "제 목소리 들려요?",
+         "rd": "je moksori deullyeoyo?",
+         "en": "Can you hear me?"
+        }
+       ]
+      },
+      {
+       "head": "-게 되다  end up / come to",
+       "tip": "A change or result that came about, not a plain choice.",
+       "sentences": [
+        {
+         "ko": "한국에서 일하게 됐어요.",
+         "rd": "hangugeseo ilhage dwaesseoyo.",
+         "en": "I ended up working in Korea."
+        },
+        {
+         "ko": "다음 달부터 같이 일하게 됐어요.",
+         "rd": "daeum dalbuteo gachi ilhage dwaesseoyo.",
+         "en": "We'll be working together starting next month."
+        }
+       ]
+      },
+      {
+       "head": "-아/어 버리다  completely (oops / done)",
+       "tip": "The action is finished for good — usually with regret, sometimes relief.",
+       "sentences": [
+        {
+         "ko": "케이크를 다 먹어 버렸어요.",
+         "rd": "keikeureul da meogeo beoryeosseoyo.",
+         "en": "I ate the whole cake."
+        },
+        {
+         "ko": "버스가 그냥 가 버렸어요.",
+         "rd": "beoseuga geunyang ga beoryeosseoyo.",
+         "en": "The bus just left without me."
+        }
+       ]
+      },
+      {
+       "head": "-아/어지다  become / get",
+       "tip": "Adjective → change over time.",
+       "sentences": [
+        {
+         "ko": "날씨가 많이 추워졌어요.",
+         "rd": "nalssiga mani chuwojyeosseoyo.",
+         "en": "It's gotten really cold."
+        },
+        {
+         "ko": "한국어가 점점 쉬워져요.",
+         "rd": "hangugeoga jeomjeom swiwojyeoyo.",
+         "en": "Korean is getting easier and easier."
+        }
+       ]
+      },
+      {
+       "head": "-게 하다  make / let someone",
+       "tip": "The causer takes 이/가 (or 은/는), the person made to act takes 을/를 or 한테.",
+       "sentences": [
+        {
+         "ko": "엄마가 저를 일찍 자게 했어요.",
+         "rd": "eommaga jeoreul iljjik jage haesseoyo.",
+         "en": "My mom made me go to bed early."
+        },
+        {
+         "ko": "아이들을 밖에서 놀게 하세요.",
+         "rd": "aideureul bakkeseo nolge haseyo.",
+         "en": "Let the kids play outside."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
