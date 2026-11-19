@@ -102,6 +102,7 @@ flutter:
     - assets/data/dialogues/R0/life/
     - assets/data/dialogues/R0/love/
     - assets/data/dialogues/R0/study/
+    - assets/data/dialogues/R0/survival/
     - assets/data/dialogues/R0/travel/
     - assets/data/dialogues/R0/work/
     - assets/data/dialogues/R1/culture/
@@ -117,6 +118,7 @@ flutter:
     - assets/data/dialogues/R2/life/
     - assets/data/dialogues/R2/love/
     - assets/data/dialogues/R2/study/
+    - assets/data/dialogues/R2/survival/
     - assets/data/dialogues/R2/travel/
     - assets/data/dialogues/R2/work/
     - assets/data/dialogues/R3/culture/
