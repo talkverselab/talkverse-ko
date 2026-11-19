@@ -36,7 +36,7 @@
    "ko": "(전화) 지금 어디요?",
    "rd": "(jeonhwa) jigeum eodiyo?",
    "en": "(on phone) Where are you now?",
-   "note": "어디",
+   "note": "어디 = where",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_culture_a7/cut1",
@@ -54,7 +54,7 @@
    "ko": "여기요! 큰 나무 밑!",
    "rd": "yeogiyo! keun namu mit!",
    "en": "Here! Under the big tree!",
-   "note": "여기요",
+   "note": "여기요 = here (polite)",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -109,7 +109,7 @@
    "ko": "헐... 파란 텐트요!",
    "rd": "heol... paran tenteuyo!",
    "en": "Whoa... the blue tent!",
-   "note": "텐트",
+   "note": "텐트 = tent",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -144,7 +144,7 @@
    "ko": "빨리 손 흔들어!",
    "rd": "ppalli son heundeureo!",
    "en": "Wave your hands quick!",
-   "note": "흔들다",
+   "note": "흔들다 = to wave, shake",
    "tags": [],
    "new": [],
    "lemmas": [

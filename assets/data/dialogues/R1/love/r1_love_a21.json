@@ -36,7 +36,7 @@
    "ko": "야, 잠깐만! {name}, 그쪽으로 가지 마.",
    "rd": "ya, jamkkanman! {name}, geujjogeuro gaji ma.",
    "en": "Hey, wait! {name}, don't go that way.",
-   "note": "가지 마",
+   "note": "가지 마 = don't go",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_love_a21/cut1",
@@ -59,7 +59,7 @@
    "ko": "어… 이거 그… 벽치기 장면이야?",
    "rd": "eo… igeo geu… byeokchigi jangmyeoniya?",
    "en": "Uh… is this that… wall-push thing?",
-   "note": "드라마",
+   "note": "드라마 = drama",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -129,7 +129,7 @@
    "ko": "헐… 진짜? 고마워…",
    "rd": "heol… jinjja? gomawo…",
    "en": "Whoa… for real? Thanks…",
-   "note": "고마워",
+   "note": "고마워 = thanks (casual)",
    "tags": [],
    "new": [],
    "lemmas": [

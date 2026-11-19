@@ -39,7 +39,7 @@
    "ko": "{name} 씨, 준비 다 됐죠? 바로 시작할게요.",
    "rd": "{name} ssi, junbi da dwaetjyo? baro sijakalgeyo.",
    "en": "{name}, you're all set, right? Let's just get started.",
-   "note": "시작",
+   "note": "시작 = start",
    "tags": [],
    "new": [],
    "art": "scene/ko/r3_work_b2/cut1",
@@ -67,7 +67,7 @@
    "ko": "네. 안녕하십니까. 오늘 제가 말씀드릴 건 회의를 좀 더 짧게 하자는 내용인데요…",
    "rd": "ne. annyeonghasimnikka. oneul jega malsseumdeuril geon hoeuireul jom deo jjalge hajaneun naeyongindeyo…",
    "en": "Yes. Hello. Today I'll be talking about making our meetings a bit shorter…",
-   "note": "발표",
+   "note": "발표 = presentation",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -147,7 +147,7 @@
    "ko": "(속삭이며) 배터리야! 충전기 어디 갔어? 빨리 찾아!",
    "rd": "(soksagimyeo) baeteoriya! chungjeongi eodi gasseo? ppalli chaja!",
    "en": "(whispering) It's the battery! Where's the charger? Find it quick!",
-   "note": "충전기",
+   "note": "충전기 = charger",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -282,7 +282,7 @@
    "ko": "네… 그럼 화면 없이 그냥 말씀드릴게요.",
    "rd": "ne… geureom hwamyeon eopsi geunyang malsseumdeurilgeyo.",
    "en": "Yes… Then I'll just explain without the screen.",
-   "note": "결심",
+   "note": "결심 = determination",
    "tags": [],
    "new": [],
    "lemmas": [

@@ -68,7 +68,7 @@
    "ko": "망원동이요. 괜찮아요?",
    "rd": "mangwondongiyo. gwaenchanayo?",
    "en": "Mangwon-dong. Is that okay?",
-   "note": "괜찮아요?",
+   "note": "괜찮아요? = are you okay? (polite)",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -90,7 +90,7 @@
    "ko": "저도 망원동이에요.",
    "rd": "jeodo mangwondongieyo.",
    "en": "I'm in Mangwon-dong too.",
-   "note": "저도",
+   "note": "저도 = me too (polite)",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_love_a13/cut2",
@@ -108,7 +108,7 @@
    "ko": "진짜요? 몰랐어요.",
    "rd": "jinjjayo? mollasseoyo.",
    "en": "Really? I didn't know.",
-   "note": "몰랐다",
+   "note": "몰랐다 = didn't know",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -153,7 +153,7 @@
    "ko": "헐 그럼 왜 같이…",
    "rd": "heol geureom wae gachi…",
    "en": "Whoa, then why together…",
-   "note": "왜",
+   "note": "왜 = why",
    "tags": [],
    "new": [],
    "lemmas": [

@@ -35,7 +35,7 @@
    "ko": "{name} 씨, 좋은 아침이에요.",
    "rd": "{name} ssi, joeun achimieyo.",
    "en": "Good morning, {name}.",
-   "note": "좋은 아침",
+   "note": "좋은 아침 = good morning",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_work_a4/cut1",
@@ -58,7 +58,7 @@
    "ko": "네, 안녕하세요. 좋은 아침이에요.",
    "rd": "ne, annyeonghaseyo. joeun achimieyo.",
    "en": "Yes, hello. Good morning.",
-   "note": "인사",
+   "note": "인사 = greeting",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -113,7 +113,7 @@
    "ko": "아니에요, 괜찮아요.",
    "rd": "anieyo, gwaenchanayo.",
    "en": "No, it’s fine.",
-   "note": "괜찮아요",
+   "note": "괜찮아요 = it's okay / fine",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -163,7 +163,7 @@
    "ko": "진짜요? 감사합니다.",
    "rd": "jinjjayo? gamsahamnida.",
    "en": "Really? Thank you.",
-   "note": "감사합니다",
+   "note": "감사합니다 = thank you (polite)",
    "tags": [],
    "new": [],
    "lemmas": [

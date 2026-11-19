@@ -37,7 +37,7 @@
    "ko": "아 죄송합니다! 너무 늦었어요.",
    "rd": "a joesonghamnida! neomu neujeosseoyo.",
    "en": "Oh sorry! I'm way too late.",
-   "note": "늦다",
+   "note": "늦다 = to be late",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_study_a5/cut1",
@@ -65,7 +65,7 @@
    "ko": "왜 이렇게 늦었어요?",
    "rd": "wae ireoke neujeosseoyo?",
    "en": "Why are you so late?",
-   "note": "왜",
+   "note": "왜 = why",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -156,7 +156,7 @@
    "ko": "어? 다 같은 버스예요?",
    "rd": "eo? da gateun beoseuyeyo?",
    "en": "Huh? All the same bus?",
-   "note": "같은",
+   "note": "같은 = the same",
    "tags": [],
    "new": [],
    "lemmas": [

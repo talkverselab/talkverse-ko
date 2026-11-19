@@ -76,7 +76,7 @@
    "ko": "잠깐만! 나도 먹을래!",
    "rd": "jamkkanman! nado meogeullae!",
    "en": "Wait! I want it too!",
-   "note": "나도",
+   "note": "나도 = me too",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_friends_a3/cut2",
@@ -99,7 +99,7 @@
    "ko": "그럼 가위바위보 하자.",
    "rd": "geureom gawibawibo haja.",
    "en": "Then let's do rock-paper-scissors.",
-   "note": "가위바위보",
+   "note": "가위바위보 = rock-paper-scissors",
    "tags": [],
    "new": [],
    "lemmas": [

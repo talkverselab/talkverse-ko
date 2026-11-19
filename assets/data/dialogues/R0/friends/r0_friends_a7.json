@@ -54,7 +54,7 @@
    "ko": "이름부터. {name}.",
    "rd": "ireumbuteo. {name}.",
    "en": "Name first. {name}.",
-   "note": "이름",
+   "note": "이름 = name",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -89,7 +89,7 @@
    "ko": "몰라. 한 번도 안 해봤어.",
    "rd": "molla. han beondo an haebwasseo.",
    "en": "Dunno. Never tried it once.",
-   "note": "몰라",
+   "note": "몰라 = I don't know (casual)",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -106,7 +106,7 @@
    "ko": "헐 대박… 지금 해봐.",
    "rd": "heol daebak… jigeum haebwa.",
    "en": "Whoa crazy… do it now.",
-   "note": "지금",
+   "note": "지금 = now",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_friends_a7/cut3",

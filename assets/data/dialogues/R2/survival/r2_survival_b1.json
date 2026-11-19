@@ -36,7 +36,7 @@
    "ko": "여권이랑 사진, 신청서, 재학증명서 다 가지고 오셨어요?",
    "rd": "yeogwonirang sajin, sincheongseo, jaehakjeungmyeongseo da gajigo osyeosseoyo?",
    "en": "Passport, photo, application, and enrollment certificate—all ready?",
-   "note": "서류",
+   "note": "서류 = documents",
    "tags": [],
    "new": [],
    "art": "scene/ko/r2_survival_b1/cut1",
@@ -84,7 +84,7 @@
    "ko": "네, 여기 있어요.",
    "rd": "ne, yeogi isseoyo.",
    "en": "Yes, here they are.",
-   "note": "여기요",
+   "note": "여기요 = here (polite)",
    "tags": [],
    "new": [],
    "lemmas": []
@@ -133,7 +133,7 @@
    "ko": "네? 그럼 잠깐만요. 다시 찍어 올게요. 죄송합니다.",
    "rd": "ne? geureom jamkkanmanyo. dasi jjigeo olgeyo. joesonghamnida.",
    "en": "What? Then just a sec. I’ll go retake it. Sorry.",
-   "note": "다시",
+   "note": "다시 = again",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -208,7 +208,7 @@
    "ko": "다시 한 번 말해 주세요. 주소 서류요?",
    "rd": "dasi han beon malhae juseyo. juso seoryuyo?",
    "en": "Please say that again. The address documents?",
-   "note": "다시 한 번",
+   "note": "다시 한 번 = one more time",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -240,7 +240,7 @@
    "ko": "네, 임대차 계약서 같은 거요.",
    "rd": "ne, imdaecha gyeyakseo gateun geoyo.",
    "en": "Yes, like a lease agreement.",
-   "note": "계약서",
+   "note": "계약서 = contract",
    "tags": [],
    "new": [],
    "art": "scene/ko/r2_survival_b1/cut4",
@@ -343,7 +343,7 @@
    "ko": "아… 그럼 번호표 또 뽑아야 하나요? 죄송합니다.",
    "rd": "a… geureom beonhopyo tto ppobaya hanayo? joesonghamnida.",
    "en": "Ah… then do I need to take another number? Sorry.",
-   "note": "번호표",
+   "note": "번호표 = number ticket",
    "tags": [],
    "new": [],
    "lemmas": [

@@ -58,7 +58,7 @@
    "ko": "네? 왜요?",
    "rd": "ne? waeyo?",
    "en": "Yes? Why?",
-   "note": "왜요",
+   "note": "왜요 = why? (polite)",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -98,7 +98,7 @@
    "ko": "헐… 언제부터요?",
    "rd": "heol… eonjebuteoyo?",
    "en": "Whoa… since when?",
-   "note": "언제부터",
+   "note": "언제부터 = since when",
    "tags": [],
    "new": [],
    "lemmas": []
@@ -132,7 +132,7 @@
    "ko": "오늘 금요일이에요! 죄송합니다.",
    "rd": "oneul geumyoirieyo! joesonghamnida.",
    "en": "Today is Friday! Sorry.",
-   "note": "금요일",
+   "note": "금요일 = Friday",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -159,7 +159,7 @@
    "ko": "괜찮아요. 다들 귀여워서요.",
    "rd": "gwaenchanayo. dadeul gwiyeowoseoyo.",
    "en": "It's okay. Everyone thought it was cute.",
-   "note": "귀엽다",
+   "note": "귀엽다 = to be cute",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_work_a4/cut4",

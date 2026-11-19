@@ -63,7 +63,7 @@
    "ko": "네. 친구가 못 왔어요.",
    "rd": "ne. chinguga mot wasseoyo.",
    "en": "Yes. My friend couldn’t come.",
-   "note": "친구",
+   "note": "친구 = friend",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -113,7 +113,7 @@
    "ko": "진짜요? 좋아요.",
    "rd": "jinjjayo? joayo.",
    "en": "Really? Sure.",
-   "note": "좋아요",
+   "note": "좋아요 = good / I like it",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -163,7 +163,7 @@
    "ko": "헐. 왜요?",
    "rd": "heol. waeyo?",
    "en": "Whoa. Why?",
-   "note": "왜",
+   "note": "왜 = why",
    "tags": [],
    "new": [],
    "lemmas": [

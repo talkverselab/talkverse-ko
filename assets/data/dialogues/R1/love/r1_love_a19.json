@@ -36,7 +36,7 @@
    "ko": "오늘 진짜 고마웠어. 잘 가~",
    "rd": "oneul jinjja gomawosseo. jal ga~",
    "en": "Thanks so much for today. Take care~",
-   "note": "잘 가",
+   "note": "잘 가 = bye (to someone leaving)",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_love_a19/cut1",
@@ -64,7 +64,7 @@
    "ko": "어, 응. 너도 잘 자.",
    "rd": "eo, eung. neodo jal ja.",
    "en": "Uh, yeah. You sleep well too.",
-   "note": "잘 자",
+   "note": "잘 자 = good night",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -104,7 +104,7 @@
    "ko": "아 들어가! 빨리 들어가!!",
    "rd": "a deureoga! ppalli deureoga!!",
    "en": "Ah, go inside! Hurry up and get in!!",
-   "note": "들어가",
+   "note": "들어가 = go in",
    "tags": [],
    "new": [],
    "lemmas": [

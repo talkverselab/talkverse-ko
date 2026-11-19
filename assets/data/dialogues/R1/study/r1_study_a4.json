@@ -37,7 +37,7 @@
    "ko": "{name} 씨, 시작하세요.",
    "rd": "{name} ssi, sijakaseyo.",
    "en": "{name}, please start.",
-   "note": "시작",
+   "note": "시작 = start",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_study_a4/cut1",
@@ -173,7 +173,7 @@
    "ko": "그냥 생각나는 대로 해 보세요.",
    "rd": "geunyang saenggangnaneun daero hae boseyo.",
    "en": "Just say whatever comes to mind.",
-   "note": "생각나다",
+   "note": "생각나다 = to come to mind",
    "tags": [],
    "new": [],
    "lemmas": [

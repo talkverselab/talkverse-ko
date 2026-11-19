@@ -65,7 +65,7 @@
    "ko": "여기? 신발 젖어.",
    "rd": "yeogi? sinbal jeojeo.",
    "en": "Here? Shoes are getting wet.",
-   "note": "젖다",
+   "note": "젖다 = to get wet",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -87,7 +87,7 @@
    "ko": "조금만 더! 진짜 조금만!",
    "rd": "jogeumman deo! jinjja jogeumman!",
    "en": "Just a bit more! Really just a bit!",
-   "note": "더",
+   "note": "더 = more",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_travel_a5/cut2",
@@ -115,7 +115,7 @@
    "ko": "여기 괜찮아?",
    "rd": "yeogi gwaenchana?",
    "en": "Is here okay?",
-   "note": "여기",
+   "note": "여기 = here",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -166,7 +166,7 @@
    "ko": "헐… 옷까지 다 젖었어!",
    "rd": "heol… otkkaji da jeojeosseo!",
    "en": "Whoa… clothes are all soaked too!",
-   "note": "다",
+   "note": "다 = all",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -188,7 +188,7 @@
    "ko": "근데 사진 대박이야. 진짜 인생 사진.",
    "rd": "geunde sajin daebagiya. jinjja insaeng sajin.",
    "en": "But the photo is amazing. Really a life photo.",
-   "note": "인생 사진",
+   "note": "인생 사진 = best photo ever",
    "tags": [],
    "new": [],
    "lemmas": [

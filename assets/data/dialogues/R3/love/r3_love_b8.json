@@ -36,7 +36,7 @@
    "ko": "야, 너 주변에 괜찮은 애 없냐? 소개 좀 시켜 줘.",
    "rd": "ya, neo jubyeone gwaenchaneun ae eomnya? sogae jom sikyeo jwo.",
    "en": "Yo, any decent people around you? Hook me up.",
-   "note": "소개",
+   "note": "소개 = introduction",
    "tags": [],
    "new": [],
    "art": "scene/ko/r3_love_b8/cut1",
@@ -74,7 +74,7 @@
    "ko": "갑자기 왜 그래? 무슨 일 있어?",
    "rd": "gapjagi wae geurae? museun il isseo?",
    "en": "Why the sudden? Something going on?",
-   "note": "갑자기",
+   "note": "갑자기 = suddenly",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -101,7 +101,7 @@
    "ko": "그냥. 연애 좀 하고 싶어서 그래.",
    "rd": "geunyang. yeonae jom hago sipeoseo geurae.",
    "en": "Just. I kinda wanna date, that’s all.",
-   "note": "연애",
+   "note": "연애 = dating",
    "tags": [],
    "new": [],
    "art": "scene/ko/r3_love_b8/cut2",
@@ -119,7 +119,7 @@
    "ko": "어떤 타입이 끌리는데?",
    "rd": "eotteon taibi kkeullineunde?",
    "en": "What type are you into?",
-   "note": "어떤",
+   "note": "어떤 = what kind of",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -179,7 +179,7 @@
    "ko": "그런 사람 많잖아. 그니까 좀 더 말해 봐.",
    "rd": "geureon saram manchana. geunikka jom deo malhae bwa.",
    "en": "There’s a ton of people like that. So spill a bit more.",
-   "note": "많다",
+   "note": "많다 = to be many, a lot",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -254,7 +254,7 @@
    "ko": "…그건 좀 특정한데. 진짜?",
    "rd": "…geugeon jom teukjeonghande. jinjja?",
    "en": "…That’s kinda specific. For real?",
-   "note": "구체적",
+   "note": "구체적 = specific",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -314,7 +314,7 @@
    "ko": "잠깐만, 그거 나 말하는 거지? 😮",
    "rd": "jamkkanman, geugeo na malhaneun geoji?",
    "en": "Hold on, you're talking about me, right?",
-   "note": "설마",
+   "note": "설마 = no way",
    "tags": [],
    "new": [],
    "lemmas": [

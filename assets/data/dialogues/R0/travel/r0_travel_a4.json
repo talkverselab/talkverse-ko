@@ -65,7 +65,7 @@
    "ko": "네, 하나 둘 셋!",
    "rd": "ne, hana dul set!",
    "en": "Sure, one two three!",
-   "note": "하나 둘 셋",
+   "note": "하나 둘 셋 = one, two, three",
    "tags": [],
    "new": [],
    "lemmas": []
@@ -76,7 +76,7 @@
    "ko": "감사합니다. 한 장만 더요.",
    "rd": "gamsahamnida. han jangman deoyo.",
    "en": "Thanks. Just one more.",
-   "note": "한 장 더",
+   "note": "한 장 더 = one more (photo/sheet)",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_travel_a4/cut2",

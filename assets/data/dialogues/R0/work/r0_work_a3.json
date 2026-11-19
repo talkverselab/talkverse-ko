@@ -59,7 +59,7 @@
    "ko": "저는 아무거나 좋아요.",
    "rd": "jeoneun amugeona joayo.",
    "en": "Anything is fine for me.",
-   "note": "아무거나",
+   "note": "아무거나 = anything",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -76,7 +76,7 @@
    "ko": "그럼 김치찌개 어때요?",
    "rd": "geureom gimchijjigae eottaeyo?",
    "en": "Then how about kimchi stew?",
-   "note": "김치찌개",
+   "note": "김치찌개 = kimchi stew",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_work_a3/cut2",
@@ -94,7 +94,7 @@
    "ko": "네, 좋아요.",
    "rd": "ne, joayo.",
    "en": "Yes, sounds good.",
-   "note": "좋아요",
+   "note": "좋아요 = good / I like it",
    "tags": [],
    "new": [],
    "lemmas": [
@@ -139,7 +139,7 @@
    "ko": "매일요? 진짜요?",
    "rd": "maeiryo? jinjjayo?",
    "en": "Every day? Really?",
-   "note": "매일",
+   "note": "매일 = every day",
    "tags": [],
    "new": [],
    "lemmas": [
