@@ -31,14 +31,14 @@ void main() {
     });
   }
 
-  testWidgets('암기 회차 — 영상 자리, 표시 기호가 글자에 안 남음, 마침 → 다음 급', (t) async {
+  testWidgets('암기 회차 — 영상 없으면 칸 숨김, 표시 기호가 글자에 안 남음, 마침 → 다음 급', (t) async {
     t.view.physicalSize = const Size(320, 4000);
     t.view.devicePixelRatio = 1;
     addTearDown(t.view.reset);
     await t.pumpWidget(const MaterialApp(home: SenseLessonScreen(index: 0)));
     await settle(t, find.byKey(const ValueKey('sense-finish')));
     expect(t.takeException(), isNull);
-    expect(find.byKey(const ValueKey('memorize-video')), findsOneWidget);
+    expect(find.byKey(const ValueKey('memorize-video')), findsNothing); // 1회차 영상 주소 비어 있음
     expect(find.textContaining('{', findRichText: true), findsNothing);
     expect(plainMarked('빵{을|1} 샀어'), '빵을 샀어');
     await t.tap(find.byKey(const ValueKey('sense-finish')));
