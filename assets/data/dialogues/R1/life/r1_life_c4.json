@@ -162,9 +162,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "옆집 문 앞이야? 진짜? 근데 왜 안 보이네",
-   "rd": "yeopjip mun apiya? jinjja? geunde wae an boine",
-   "en": "Next door's door front? For real? But why can't I see it",
+   "ko": "옆집 문 앞이야? 진짜? 왜 안 보이지",
+   "rd": "yeopjip mun apiya? jinjja? wae an boiji",
+   "en": "Next door's door front? For real? Why can't I see it?",
    "note": "",
    "tags": [],
    "new": [],
@@ -336,6 +336,7 @@
   "final": "",
   "shorten": "data/review/r1_life_c4_grok_short.md [K411] 턴 [7]",
   "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
-  "regen_20261122": "§9 손질 턴 [4, 5, 6, 7] Grok(빠른) 재작성"
+  "regen_20261122": "§9 손질 턴 [4, 5, 6, 7] Grok(빠른) 재작성",
+  "user_fix_20261122": "t5 「근데 왜 안 보이네」→「왜 안 보이지」(사용자 승인, uk 관리 페이지 22:35)"
  }
 }

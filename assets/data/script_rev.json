@@ -120,7 +120,7 @@
 "dialogues/R1/life/r1_life_c1.json": "47a4b54ad48c",
 "dialogues/R1/life/r1_life_c2.json": "82bcd588f0c5",
 "dialogues/R1/life/r1_life_c3.json": "d04183dadb7f",
-"dialogues/R1/life/r1_life_c4.json": "5f586a796b8b",
+"dialogues/R1/life/r1_life_c4.json": "dc6e8f40a1f4",
 "dialogues/R1/love/r1_love_a1.json": "c39b2290d40f",
 "dialogues/R1/love/r1_love_a10.json": "db78e9abe708",
 "dialogues/R1/love/r1_love_a11.json": "9292ef9d5513",
@@ -252,5 +252,5 @@
 "dialogues/R3/work/r3_work_b2.json": "f852c0ae2638",
 "grammar/sense_course.json": "f0bc1aaad9c4"
 },
-"rev": 6
+"rev": 7
 }
