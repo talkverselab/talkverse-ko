@@ -23,9 +23,46 @@ const _kAsset = 'assets/data/grammar/sense_course.json';
 
 class SenseCourse {
   static Map<String, dynamic>? _cache;
-  static Future<Map<String, dynamic>> load() async =>
-      // loadString 은 큰 파일을 다른 isolate 에서 풀어 위젯 테스트가 멈춘다 — 바이트로 읽어 여기서 푼다.
-      _cache ??= json.decode(await ScriptSync.instance.load(_kAsset.substring('assets/data/'.length))) as Map<String, dynamic>;
+  static int _cacheRev = -1;
+  @visibleForTesting
+  static ScriptSync? syncForTest;
+  static ScriptSync get _sync => syncForTest ?? ScriptSync.instance;
+
+  /// 스텝(급)·회차·문장은 전부 데이터 — 앱에 묶은 파일이 기본값, 서버 원고(rev 가 크면)가 있으면 그것(사용자 지시 2026-11-23
+  /// 「스텝 10 까지 다 미리 만들어놓고 DB업데이트 하면서 업뎃되게」). 서버 판이 바뀌면(rev) 다시 읽는다.
+  static Future<Map<String, dynamic>> load() async {
+    final sync = _sync;
+    await sync.init();
+    if (_cache != null && _cacheRev == sync.rev) return _cache!;
+    // loadString 은 큰 파일을 다른 isolate 에서 풀어 위젯 테스트가 멈춘다 — 바이트로 읽어 여기서 푼다.
+    _cache = json.decode(await sync.load(_kAsset.substring('assets/data/'.length))) as Map<String, dynamic>;
+    _cacheRev = sync.rev;
+    return _cache!;
+  }
+
+  @visibleForTesting
+  static void resetCache() {
+    _cache = null;
+    _cacheRev = -1;
+  }
+
+  /// 내용이 있는 회차인가 — 문장·참고 요점·각주·영상·다른 메뉴 버튼 중 하나라도 있으면.
+  static bool hasContent(Map<String, dynamic> ls) {
+    if (ls['open'] != null) return true;
+    for (final k in const ['sentences', 'points', 'footnotes', 'items', 'rules', 'body', 'video']) {
+      final v = ls[k];
+      if (v is List && v.isNotEmpty) return true;
+      if (v is String && v.trim().isNotEmpty) return true;
+    }
+    return false;
+  }
+
+  /// 화면에 보일 스텝 — 내용 있는 회차만 남기고, 회차가 하나도 없는 스텝은 숨긴다(「준비 중」 칸을 보이지 않음).
+  static List<Map<String, dynamic>> visibleLevels(Map<String, dynamic> d) => [
+        for (final lv in ((d['levels'] as List?) ?? const []).cast<Map<String, dynamic>>())
+          if (((lv['lessons'] as List?) ?? const []).cast<Map<String, dynamic>>().where(hasContent).toList() case final ls when ls.isNotEmpty)
+            {...lv, 'lessons': ls},
+      ];
 
   static Future<Set<String>> done() async => ((await SharedPreferences.getInstance()).getStringList(_kDoneKey) ?? const []).toSet();
 
@@ -37,7 +74,7 @@ class SenseCourse {
 
   /// 모든 회차를 순서대로 (레벨, 회차) 쌍으로.
   static List<(Map<String, dynamic>, Map<String, dynamic>)> flat(Map<String, dynamic> d) => [
-        for (final lv in (d['levels'] as List).cast<Map<String, dynamic>>())
+        for (final lv in visibleLevels(d))
           for (final ls in (lv['lessons'] as List).cast<Map<String, dynamic>>()) (lv, ls),
       ];
 }
@@ -56,7 +93,7 @@ class _SenseCourseScreenState extends State<SenseCourseScreen> {
   @override
   void initState() {
     super.initState();
-    _load();
+    _load(); // 서버 원고 확인은 앱 시작 때(DramaService.ensureLoaded → ScriptSync.refresh) — 받은 판(rev)이 바뀌면 load() 가 다시 읽는다
   }
 
   Future<void> _load() async {
@@ -102,7 +139,7 @@ class _SenseCourseScreenState extends State<SenseCourseScreen> {
           style: const TextStyle(fontSize: 12, color: DramaColors.muted)),
     ];
     var i = 0;
-    for (final lv in (d['levels'] as List).cast<Map<String, dynamic>>()) {
+    for (final lv in SenseCourse.visibleLevels(d)) {
       children.add(Padding(
         padding: const EdgeInsets.fromLTRB(2, 18, 2, 8),
         child: Text('${lv['id']}  ${lv['title']}',
