@@ -57,7 +57,7 @@ def put(r):
 
 
 def main():
-    UP = '--upload' in sys.argv; a = [x for x in sys.argv[1:] if x != '--upload']
+    UP = '--upload' in sys.argv; SKIP = '--skip-bad' in sys.argv; a = [x for x in sys.argv[1:] if x not in ('--upload', '--skip-bad')]
     var = ''
     if '--variant' in a:
         i = a.index('--variant'); var = '_' + a[i + 1]; a = a[:i] + a[i + 2:]
@@ -70,6 +70,9 @@ def main():
     except Exception:
         pass
     tmp = tempfile.mkdtemp(); q = lambda s: "'" + s.replace("'", "''") + "'"
+    # --skip-bad: 받아쓰기 불합격(qa.json ok=false) 조각이 든 줄은 서버 목록에 넣지 않는다 → 앱은 그 줄을 기기 TTS 로(uk 11-23, 재생성 전까지)
+    QA = json.load(open(f'{wav}/qa.json', encoding='utf-8')) if SKIP and os.path.exists(f'{wav}/qa.json') else {}
+    bad = lambda ep, num, tag: any(k.startswith(f'{ep}/{num:02d}_') and k.endswith(f'_{tag}.wav') and v.get('ok') is False for k, v in QA.items())
     mf = f'{R}/data/tts/audio_ko.json'
     for ep0 in eps:
         ep = ep0 + var; src = f'{wav}/{var[1:]}' if var else wav
@@ -77,6 +80,8 @@ def main():
         for t in L.turns(ep0):
             for g in 'mf':
                 x = t[g]; tag = 'c' if t['same'] else g; f = f"{tmp}/{ep}_{t['num']:02d}_{g}.mp4"
+                if SKIP and bad(ep0, t['num'], tag):
+                    continue
                 d = build(src, ep0, t['num'], tag, x['segs'], f, tmp)
                 rows.append(dict(turn=t['num'], voice=g, speaker=x['voice'], emotion='+'.join(s[0] for s in x['segs']), key=f"audio/ko/{ep}/{t['num']:02d}_{g}.mp4",
                                  sha1=hashlib.sha1(open(f, 'rb').read()).hexdigest(), ms=int(d * 1000), text=x['text'], reading=x['reading'], rd=x['rd'], ko=x['ko'], f=f))
