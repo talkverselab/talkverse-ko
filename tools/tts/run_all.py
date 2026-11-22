@@ -18,6 +18,8 @@ UNTIL = os.environ.get('RUN_UNTIL')  # 'HH:MM' — 이 시각 뒤에는 새 PC �
 
 
 def past_deadline():
+    if os.path.exists(f'{work}/STOP'):   # 앞 순서가 3090 을 달라면 `touch <작업폴더>/STOP` → 묶음 경계에서 멈춤(지우고 다시 실행하면 이어받기)
+        return True
     if not UNTIL:
         return False
     h, m = map(int, UNTIL.split(':')); now = time.localtime(); left = (h * 60 + m) - (now.tm_hour * 60 + now.tm_min)
