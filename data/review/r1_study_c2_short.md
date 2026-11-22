@@ -1,0 +1,1 @@
+1 A: (메일) 교수님 안녕하세요. {name}입니다. 과제 여쭤볼 게 있어요. / (email) Hi Professor, this is {name}. Something about the assignment to ask. / “관련해서 여쭤보고 싶은”을 “여쭤볼”로 줄임

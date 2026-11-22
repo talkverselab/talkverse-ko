@@ -171,15 +171,20 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "(매점에서) 계란 주세요. …네, 네, 네.",
-   "rd": "(maejeomeseo) gyeran juseyo. …ne, ne, ne.",
-   "en": "(at the snack bar) Eggs, please. …Yes, yes, yes.",
+   "ko": "저기요, 계란 좀 주세요. 네, 알겠어요.",
+   "rd": "jeogiyo, gyeran jom juseyo. ne, algesseoyo.",
+   "en": "Excuse me, some eggs please. Yes, got it.",
    "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_travel_a1/cut4",
    "emotion": "polite",
    "lemmas": [
+    [
+     "저기요",
+     "저기요",
+     "jeogiyo"
+    ],
     [
      "계란",
      "계란",
@@ -189,29 +194,34 @@
      "주",
      "주다",
      "juda"
+    ],
+    [
+     "알",
+     "알다",
+     "alda"
     ]
    ]
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "…아주머니, 계란이 왜 열 개예요?!",
-   "rd": "…ajumeoni, gyerani wae yeol gaeyeyo?!",
-   "en": "…Ma'am, why are there ten eggs?!",
+   "ko": "아주머니, 왜 이렇게 많아요? 열 개나?",
+   "rd": "ajumeoni, wae ireoke manayo? yeol gaena?",
+   "en": "Ma'am, why so many? Like ten of them?",
    "note": "",
    "tags": [],
    "new": [],
    "emotion": "surprised",
    "lemmas": [
     [
-     "계란",
-     "계란",
-     "gyeran"
-    ],
-    [
      "왜",
      "왜",
      "wae"
+    ],
+    [
+     "많",
+     "많다",
+     "manta"
     ]
    ]
   }
@@ -220,7 +230,8 @@
   "grok_rewrite": "data/review/r1_travel_a1_grok_rewrite.md [K053]",
   "final": "",
   "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [7, 8] Grok(빠른) 재작성"
  },
  "twist_type": "chaos"
 }

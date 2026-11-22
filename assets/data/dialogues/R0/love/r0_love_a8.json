@@ -108,28 +108,22 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "헐, 닦다가 또 쏟았어요!",
-   "rd": "heol, dakdaga tto ssodasseoyo!",
-   "en": "Whoa, I spilled it again while wiping!",
+   "ko": "헐 또 쏟았네요...",
+   "rd": "heol tto ssodanneyo...",
+   "en": "Whoa, spilled it again...",
    "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_love_a8/cut3",
    "emotion": "flustered",
-   "lemmas": [
-    [
-     "닦",
-     "닦다",
-     "dakda"
-    ]
-   ]
+   "lemmas": []
   },
   {
    "num": 6,
    "speaker": "C",
-   "ko": "어머, 휴지 여기 있어요!",
-   "rd": "eomeo, hyuji yeogi isseoyo!",
-   "en": "Oh my, here are some napkins!",
+   "ko": "여기 휴지 있어요!",
+   "rd": "yeogi hyuji isseoyo!",
+   "en": "Here, some napkins!",
    "note": "",
    "tags": [],
    "new": [],
@@ -145,25 +139,15 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋ 커피 말고 번호 주세요. 😄",
-   "rd": "ㅋㅋ keopi malgo beonho juseyo.",
-   "en": "Lol, give me your number instead of coffee.",
+   "ko": "ㅋㅋ 번호 주세요. 커피는 됐어요.",
+   "rd": "ㅋㅋ beonho juseyo. keopineun dwaesseoyo.",
+   "en": "Lol, give me your number. Coffee's fine.",
    "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_love_a8/cut4",
    "emotion": "teasing",
    "lemmas": [
-    [
-     "커피",
-     "커피",
-     "keopi"
-    ],
-    [
-     "말",
-     "말다",
-     "malda"
-    ],
     [
      "번호",
      "번호",
@@ -173,15 +157,20 @@
      "주",
      "주다",
      "juda"
+    ],
+    [
+     "커피",
+     "커피",
+     "keopi"
     ]
    ]
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "네? 커피도 사 드릴게요...",
-   "rd": "ne? keopido sa deurilgeyo...",
-   "en": "What? I'll buy you a coffee too...",
+   "ko": "네? 커피 사 드릴게요...",
+   "rd": "ne? keopi sa deurilgeyo...",
+   "en": "What? I'll buy the coffee...",
    "note": "",
    "tags": [],
    "new": [],
@@ -206,6 +195,7 @@
  "review": {
   "grok_rewrite": "data/review/r0_love_a8_grok_rewrite.md [K118]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [5, 6, 7, 8] Grok(빠른) 재작성"
  }
 }

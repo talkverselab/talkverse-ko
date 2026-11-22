@@ -157,9 +157,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "(밖에서) 근데 누가 잡아?",
-   "rd": "(bakkeseo) geunde nuga jaba?",
-   "en": "(outside) So who's catching it?",
+   "ko": "(밖에서) 야 누가 잡을래?",
+   "rd": "(bakkeseo) ya nuga jabeullae?",
+   "en": "(outside) Hey, who's gonna catch it?",
    "note": "누가 = who (subject)",
    "tags": [],
    "new": [],
@@ -188,6 +188,7 @@
  "review": {
   "grok_rewrite": "data/review/r0_life_a8_grok_rewrite.md [K307]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [7] Grok(빠른) 재작성"
  }
 }

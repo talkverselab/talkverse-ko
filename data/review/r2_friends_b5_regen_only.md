@@ -1,0 +1,2 @@
+10 C: 헐 진짜? 몰랐어! 축하해! 우리 뭐 시킬까? / Whoa, for real? I had no idea! Happy birthday! Should we order something? / 편의점 사 오기 빼고 그냥 현장에서 시키는 반응으로 바꿈
+11 B: 방 시간 아직 좀 남았네. 완전 생일 파티 됐네. 😊 / We've still got some time left on the room. It totally turned into a birthday party. / 사장님 서비스 30분 빼고 남은 시간으로 현실적으로 고침

@@ -147,14 +147,20 @@
   {
    "num": 6,
    "speaker": "D",
-   "ko": "태오 씨! 저희도 한 장만요!",
-   "rd": "taeo ssi! jeohuido han jangmanyo!",
-   "en": "Taeo! Just one photo with us too!",
+   "ko": "태오 오빠! 우리도 한 장만!",
+   "rd": "taeo oppa! urido han jangman!",
+   "en": "Taeo! One photo with us too!",
    "note": "",
    "tags": [],
    "new": [],
    "emotion": "excited",
-   "lemmas": []
+   "lemmas": [
+    [
+     "오빠",
+     "오빠",
+     "oppa"
+    ]
+   ]
   },
   {
    "num": 7,
@@ -182,9 +188,9 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "와… 셀카에 모르는 사람 다섯 명.",
-   "rd": "wa… selkae moreuneun saram daseot myeong.",
-   "en": "Wow… five strangers in our selfie.",
+   "ko": "헐 우리 셀카에 모르는 애들이네",
+   "rd": "heol uri selkae moreuneun aedeurine",
+   "en": "Whoa, there are strangers in our selfie",
    "note": "",
    "tags": [],
    "new": [],
@@ -201,9 +207,9 @@
      "moreuda"
     ],
     [
-     "사람",
-     "사람",
-     "saram"
+     "애",
+     "애",
+     "ae"
     ]
    ]
   }
@@ -212,6 +218,7 @@
  "review": {
   "grok_rewrite": "data/review/r0_love_a20_grok_rewrite.md [K312]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [6, 8] Grok(빠른) 재작성"
  }
 }

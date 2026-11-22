@@ -77,6 +77,11 @@
      "맨날",
      "맨날",
      "maennal"
+    ],
+    [
+     "이래",
+     "이러다",
+     "ireoda"
     ]
    ]
   },
@@ -103,9 +108,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "응. 하트도 열 개 누르고 단톡에도 퍼 날랐어",
-   "rd": "eung. hateudo yeol gae nureugo dantogedo peo nallasseo",
-   "en": "Yeah. She hit like ten hearts and shared it to the family chat too",
+   "ko": "응. 이모가 하트 잔뜩 남기고 단톡에 올렸어",
+   "rd": "eung. imoga hateu jantteuk namgigo dantoge ollyeosseo",
+   "en": "Yeah she left a bunch of hearts and posted it in the family chat",
    "note": "",
    "tags": [],
    "new": [],
@@ -119,9 +124,14 @@
      "hateu"
     ],
     [
-     "누르",
-     "누르다",
-     "nureuda"
+     "잔뜩",
+     "잔뜩",
+     "jantteuk"
+    ],
+    [
+     "남기",
+     "남기다",
+     "namgida"
     ],
     [
      "단톡",
@@ -129,14 +139,9 @@
      "dantok"
     ],
     [
-     "퍼",
-     "푸다",
-     "puda"
-    ],
-    [
-     "날",
-     "나르다",
-     "nareuda"
+     "올렸",
+     "올리다",
+     "ollida"
     ]
    ]
   },
@@ -207,9 +212,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "엄마가 다 말했나 봐. 이모가 밥 한번 먹재",
-   "rd": "eommaga da malhaenna bwa. imoga bap hanbeon meokjae",
-   "en": "Guess mom told her everything. My aunt wants to grab a meal",
+   "ko": "엄마가 말했나 봐. 이모가 밥 한번 먹자는데",
+   "rd": "eommaga malhaenna bwa. imoga bap hanbeon meokjaneunde",
+   "en": "Mom must’ve told her. Aunt’s asking to grab a meal",
    "note": "엄마 = mom",
    "tags": [],
    "new": [],
@@ -238,9 +243,9 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "…됐어 질투 취소. 이모랑 밥 먹으러 갈게",
-   "rd": "…dwaesseo jiltu chwiso. imorang bap meogeureo galge",
-   "en": "…Forget it, jealousy canceled. I'll go eat with your aunt",
+   "ko": "…됐어 질투 그만. 이모랑 밥 먹으러 갈게",
+   "rd": "…dwaesseo jiltu geuman. imorang bap meogeureo galge",
+   "en": "…Alright, jealousy off. I’ll go eat with your aunt",
    "note": "",
    "tags": [],
    "new": [],
@@ -254,9 +259,9 @@
      "jiltu"
     ],
     [
-     "취소",
-     "취소",
-     "chwiso"
+     "그만",
+     "그만",
+     "geuman"
     ],
     [
      "밥",
@@ -281,6 +286,7 @@
   "grok_rewrite": "data/review/r1_love_c12_grok_rewrite.md [K348]",
   "final": "",
   "shorten": "data/review/r1_love_c12_grok_short.md [K413] 턴 [4, 7, 8]",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [4, 7, 8] Grok(빠른) 재작성"
  }
 }

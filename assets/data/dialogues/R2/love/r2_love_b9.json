@@ -208,9 +208,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "저기 편의점! 편의점 들어가자!",
-   "rd": "jeogi pyeonuijeom! pyeonuijeom deureogaja!",
-   "en": "Over there, a convenience store! Let's duck in!",
+   "ko": "야 저기 편의점 있잖아. 일단 들어가자.",
+   "rd": "ya jeogi pyeonuijeom itjana. ildan deureogaja.",
+   "en": "Yo, there's a convenience store over there. Let's just go in for now.",
    "note": "",
    "tags": [],
    "new": [],
@@ -227,9 +227,9 @@
      "pyeonuijeom"
     ],
     [
-     "편의점",
-     "편의점",
-     "pyeonuijeom"
+     "일단",
+     "일단",
+     "ildan"
     ],
     [
      "들어가",
@@ -241,20 +241,15 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "편의점에 사람이 더 많은데? 😳",
-   "rd": "pyeonuijeome sarami deo maneunde?",
-   "en": "There are even more people in there?",
+   "ko": "안에 사람 더 많을 것 같은데?",
+   "rd": "ane saram deo maneul geot gateunde?",
+   "en": "Looks like there'd be even more people inside though?",
    "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r2_love_b9/cut5",
    "emotion": "flustered",
    "lemmas": [
-    [
-     "편의점",
-     "편의점",
-     "pyeonuijeom"
-    ],
     [
      "사람",
      "사람",
@@ -270,9 +265,9 @@
   {
    "num": 10,
    "speaker": "A",
-   "ko": "그럼 컵라면 사서 구석에 앉자.",
-   "rd": "geureom keomnamyeon saseo guseoge anja.",
-   "en": "Then let's grab cup ramyeon and sit in the corner.",
+   "ko": "그럼 컵라면 사 가지고 구석에 앉을래?",
+   "rd": "geureom keomnamyeon sa gajigo guseoge anjeullae?",
+   "en": "Then wanna grab cup ramyeon and sit in the corner?",
    "note": "",
    "tags": [],
    "new": [],
@@ -321,14 +316,19 @@
   {
    "num": 12,
    "speaker": "A",
-   "ko": "그니까 근데 마스크 쓰고 라면 어떻게 먹어?",
-   "rd": "geunikka geunde maseukeu sseugo ramyeon eotteoke meogeo?",
-   "en": "Right, but how are you gonna eat ramyeon with a mask on?",
+   "ko": "그치 근데 마스크 쓰고 라면은 어떻게 먹어?",
+   "rd": "geuchi geunde maseukeu sseugo ramyeoneun eotteoke meogeo?",
+   "en": "Yeah but how are you supposed to eat ramyeon with the mask on?",
    "note": "",
    "tags": [],
    "new": [],
    "emotion": "teasing",
    "lemmas": [
+    [
+     "그치",
+     "그치",
+     "geuchi"
+    ],
     [
      "마스크",
      "마스크",
@@ -338,6 +338,16 @@
      "쓰",
      "쓰다",
      "sseuda"
+    ],
+    [
+     "라면",
+     "라면",
+     "ramyeon"
+    ],
+    [
+     "어떻게",
+     "어떻게",
+     "eotteoke"
     ],
     [
      "먹",
@@ -351,6 +361,7 @@
  "review": {
   "grok_rewrite": "data/review/r2_love_b9_grok_rewrite.md [K157]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [8, 9, 10, 12] Grok(빠른) 재작성"
  }
 }

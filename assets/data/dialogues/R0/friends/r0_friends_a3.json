@@ -113,9 +113,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "가위바위보! …어 뭐야!",
-   "rd": "gawibawibo! …eo mwoya!",
-   "en": "Rock-paper-scissors! …Huh, what!",
+   "ko": "가위바위보! …헐 뭐야 저거!",
+   "rd": "gawibawibo! …heol mwoya jeogeo!",
+   "en": "Rock-paper-scissors! …Whoa, what's that!",
    "note": "",
    "tags": [],
    "new": [],
@@ -149,9 +149,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "아 콩이 너 또야!",
-   "rd": "a kongi neo ttoya!",
-   "en": "Ah, Kong-i, you again!",
+   "ko": "야 콩이! 너 또 먹었어?",
+   "rd": "ya kongi! neo tto meogeosseo?",
+   "en": "Hey Kong-i! You ate it again?",
    "note": "",
    "tags": [],
    "new": [],
@@ -159,9 +159,14 @@
    "emotion": "tsukkomi",
    "lemmas": [
     [
-     "콩",
-     "콩",
-     "kong"
+     "콩이",
+     "콩이",
+     "kongi"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
     ]
    ]
   },
@@ -196,6 +201,7 @@
  "review": {
   "grok_rewrite": "data/review/r0_friends_a3_grok_rewrite.md [K113]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [5, 7] Grok(빠른) 재작성"
  }
 }

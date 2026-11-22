@@ -394,9 +394,9 @@
   {
    "num": 11,
    "speaker": "B",
-   "ko": "어 불 들어왔다! …근데 아이스크림 벌써 다 먹었어?",
-   "rd": "eo bul deureowatda! …geunde aiseukeurim beolsseo da meogeosseo?",
-   "en": "Oh the lights are back! …but did we already eat all the ice cream?",
+   "ko": "야 불 다시 들어왔다, 근데 아이스크림 이미 다 해치웠네?",
+   "rd": "ya bul dasi deureowatda, geunde aiseukeurim imi da haechiwonne?",
+   "en": "Yo the lights are back, but we already finished all the ice cream?",
    "note": "",
    "tags": [],
    "new": [],
@@ -409,6 +409,11 @@
      "bul"
     ],
     [
+     "다시",
+     "다시",
+     "dasi"
+    ],
+    [
      "들어왔",
      "들어오다",
      "deureooda"
@@ -419,23 +424,23 @@
      "aiseukeurim"
     ],
     [
-     "벌써",
-     "벌써",
-     "beolsseo"
+     "이미",
+     "이미",
+     "imi"
     ],
     [
-     "먹",
-     "먹다",
-     "meokda"
+     "해치웠",
+     "해치우다",
+     "haechiuda"
     ]
    ]
   },
   {
    "num": 12,
    "speaker": "C",
-   "ko": "아 몰라, 비 그치면 편의점 가자. 또 사 오게.",
-   "rd": "a molla, bi geuchimyeon pyeonuijeom gaja. tto sa oge.",
-   "en": "Whatever, let's hit the convenience store when the rain stops. To buy more.",
+   "ko": "아 몰라, 비 멈추면 편의점 가서 또 사자.",
+   "rd": "a molla, bi meomchumyeon pyeonuijeom gaseo tto saja.",
+   "en": "Whatever, when the rain stops let’s just hit the store and get more.",
    "note": "",
    "tags": [],
    "new": [],
@@ -452,9 +457,9 @@
      "bi"
     ],
     [
-     "그치",
-     "그치다",
-     "geuchida"
+     "멈추",
+     "멈추다",
+     "meomchuda"
     ],
     [
      "편의점",
@@ -470,11 +475,6 @@
      "사",
      "사다",
      "sada"
-    ],
-    [
-     "오",
-     "오다",
-     "oda"
     ]
    ]
   }
@@ -482,6 +482,7 @@
  "review": {
   "grok_rewrite": "data/review/r2_life_b5_grok_rewrite.md [K364]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [11, 12] Grok(빠른) 재작성"
  }
 }

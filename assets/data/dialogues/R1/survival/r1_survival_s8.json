@@ -267,9 +267,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "(옆에서) 혹시 시장 떡볶이요? 저도 그거 먹었어요!",
-   "rd": "(yeopeseo) hoksi sijang tteokbokkiyo? jeodo geugeo meogeosseoyo!",
-   "en": "(from the side) The market tteokbokki? I had that too!",
+   "ko": "아, 떡볶이 때문에 오신 거예요? 저도 어제 먹었어요.",
+   "rd": "a, tteokbokki ttaemune osin geoyeyo? jeodo eoje meogeosseoyo.",
+   "en": "Oh, you're here 'cause of the tteokbokki? I ate some yesterday too.",
    "note": "",
    "tags": [],
    "new": [],
@@ -277,19 +277,19 @@
    "emotion": "surprised",
    "lemmas": [
     [
-     "혹시",
-     "혹시",
-     "hoksi"
-    ],
-    [
-     "시장",
-     "시장",
-     "sijang"
-    ],
-    [
      "떡볶이",
      "떡볶이",
      "tteokbokki"
+    ],
+    [
+     "오",
+     "오다",
+     "oda"
+    ],
+    [
+     "어제",
+     "어제",
+     "eoje"
     ],
     [
      "먹",
@@ -301,33 +301,28 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "아이고, 오늘 떡볶이 환자 두 번째네요. 번호 뽑고 앉으세요!",
-   "rd": "aigo, oneul tteokbokki hwanja du beonjjaeneyo. beonho ppopgo anjeuseyo!",
-   "en": "Oh dear, second tteokbokki patient today. Take a number and have a seat!",
+   "ko": "오늘 벌써 떡볶이 두 번째시네요. 번호 뽑으시고 앉으세요.",
+   "rd": "oneul beolsseo tteokbokki du beonjjaesineyo. beonho ppobeusigo anjeuseyo.",
+   "en": "Already the second tteokbokki one today. Grab a number and sit.",
    "note": "",
    "tags": [],
    "new": [],
    "emotion": "amused",
    "lemmas": [
     [
-     "아이고",
-     "아이고",
-     "aigo"
-    ],
-    [
      "오늘",
      "오늘",
      "oneul"
     ],
     [
+     "벌써",
+     "벌써",
+     "beolsseo"
+    ],
+    [
      "떡볶이",
      "떡볶이",
      "tteokbokki"
-    ],
-    [
-     "환자",
-     "환자",
-     "hwanja"
     ],
     [
      "번호",
@@ -347,6 +342,7 @@
   "final": "",
   "shorten": "data/review/r1_survival_s8_grok_short.md [K416] 턴 [3, 5, 7, 8]",
   "manual": "턴 7 어절 1개 덜어냄(세션)",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [7, 8] Grok(빠른) 재작성"
  }
 }

@@ -153,38 +153,48 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "더 팍팍! 손 아끼지 말고. 자, 아 해 봐.",
-   "rd": "deo pakpak! son akkiji malgo. ja, a hae bwa.",
-   "en": "Slap on more! Don't hold back. Here, say \"ah.\"",
-   "note": "팍팍 = generously (heaping)",
+   "ko": "더 많이 발라! 아끼지 마. 한 입 먹어 봐.",
+   "rd": "deo mani balla! akkiji ma. han ip meogeo bwa.",
+   "en": "Put on more! Don't hold back. Try a bite.",
+   "note": "아끼다 = to skimp, save",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_culture_a8/cut3",
    "emotion": "cheerful",
    "lemmas": [
     [
-     "팍팍",
-     "팍팍",
-     "pakpak"
+     "많이",
+     "많이",
+     "mani"
     ],
     [
-     "손",
-     "손",
-     "son"
+     "발",
+     "바르다",
+     "bareuda"
     ],
     [
      "아끼",
      "아끼다",
      "akkida"
+    ],
+    [
+     "입",
+     "입",
+     "ip"
+    ],
+    [
+     "먹",
+     "먹다",
+     "meokda"
     ]
    ]
   },
   {
    "num": 6,
    "speaker": "A",
-   "ko": "(한 입) 헐! 진짜 매워! 근데 맛있다…",
-   "rd": "(han ip) heol! jinjja maewo! geunde masitda…",
-   "en": "(one bite) Whoa! It's so spicy! But it tastes good…",
+   "ko": "(한 입) 헐! 진짜 맵네! 근데 맛있다…",
+   "rd": "(han ip) heol! jinjja maemne! geunde masitda…",
+   "en": "(one bite) Whoa! It's really spicy! But it's good…",
    "note": "",
    "tags": [],
    "new": [],
@@ -205,9 +215,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋ 볼에 고춧가루 묻었어. 이제 진짜 김장 멤버다.",
-   "rd": "ㅋㅋ bore gochutgaru mudeosseo. ije jinjja gimjang membeoda.",
-   "en": "Lol there's chili powder on your cheek. Now you're a real kimjang member.",
+   "ko": "ㅋㅋ 볼에 고춧가루 묻었네. 이제 김장 멤버네.",
+   "rd": "ㅋㅋ bore gochutgaru mudeonne. ije gimjang membeone.",
+   "en": "Lol there's chili powder on your cheek. Now you're a kimjang member.",
    "note": "",
    "tags": [],
    "new": [],
@@ -228,11 +238,6 @@
      "이제",
      "이제",
      "ije"
-    ],
-    [
-     "진짜",
-     "진짜",
-     "jinjja"
     ],
     [
      "김장",
@@ -297,7 +302,8 @@
  "review": {
   "grok_rewrite": "data/review/r1_culture_a8_grok_rewrite.md [K328]",
   "final": "",
-  "shorten": "data/review/r1_culture_a8_grok_short.md [K404] 턴 [4, 8]",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "shorten": "data/review/r1_culture_a8_short.md [K964] 턴 [5]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [5, 6, 7] Grok(빠른) 재작성"
  }
 }

@@ -101,9 +101,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "다음 정류장에서 내려서 건너가요!",
-   "rd": "daeum jeongnyujangeseo naeryeoseo geonneogayo!",
-   "en": "Get off at the next stop and cross over!",
+   "ko": "아 그럼 다음에서 내리시고 건너가세요.",
+   "rd": "a geureom daeumeseo naerisigo geonneogaseyo.",
+   "en": "Oh, then get off at the next one and cross over.",
    "note": "",
    "tags": [],
    "new": [],
@@ -115,12 +115,7 @@
      "daeum"
     ],
     [
-     "정류장",
-     "정류장",
-     "jeongnyujang"
-    ],
-    [
-     "내려",
+     "내리",
      "내리다",
      "naerida"
     ],
@@ -134,9 +129,9 @@
   {
    "num": 5,
    "speaker": "A",
-   "ko": "네? 어디서 건너요?",
-   "rd": "ne? eodiseo geonneoyo?",
-   "en": "Huh? Where do I cross?",
+   "ko": "네? 어디서 건너면 되는 거예요?",
+   "rd": "ne? eodiseo geonneomyeon doeneun geoyeyo?",
+   "en": "Huh? Where am I supposed to cross?",
    "note": "",
    "tags": [],
    "new": [],
@@ -208,19 +203,14 @@
   {
    "num": 8,
    "speaker": "C",
-   "ko": "대신 이 짐 좀 들어 줘요.",
-   "rd": "daesin i jim jom deureo jwoyo.",
-   "en": "In return, carry these bags for me.",
+   "ko": "짐 좀 들어 주실 수 있어요?",
+   "rd": "jim jom deureo jusil su isseoyo?",
+   "en": "Could you carry these bags for me?",
    "note": "",
    "tags": [],
    "new": [],
    "emotion": "amused",
    "lemmas": [
-    [
-     "대신",
-     "대신",
-     "daesin"
-    ],
     [
      "짐",
      "짐",
@@ -232,7 +222,8 @@
  "review": {
   "grok_rewrite": "data/review/r0_travel_a7_grok_rewrite.md [K322]",
   "final": "",
-  "shorten": "data/review/r0_travel_a7_grok_short.md [K401] 턴 [8]",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "shorten": "data/review/r0_travel_a7_short.md [K963] 턴 [4, 8]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [4, 5, 8] Grok(빠른) 재작성"
  }
 }

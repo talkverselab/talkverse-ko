@@ -106,37 +106,27 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "둘 다 걱정돼서 따라왔나 봐요.",
-   "rd": "dul da geokjeongdwaeseo ttarawanna bwayo.",
-   "en": "Looks like they both followed us out of worry.",
+   "ko": "아 우리 친구들도 여기 있네요?",
+   "rd": "a uri chingudeuldo yeogi inneyo?",
+   "en": "Oh, our friends are here too?",
    "note": "",
    "tags": [],
    "new": [],
    "emotion": "amused",
    "lemmas": [
     [
-     "걱정",
-     "걱정",
-     "geokjeong"
-    ],
-    [
-     "따라",
-     "따르다",
-     "ttareuda"
-    ],
-    [
-     "왔",
-     "오다",
-     "oda"
+     "친구",
+     "친구",
+     "chingu"
     ]
    ]
   },
   {
    "num": 5,
    "speaker": "B",
-   "ko": "헐, 근데 저 둘 지금 번호 교환해요.",
-   "rd": "heol, geunde jeo dul jigeum beonho gyohwanhaeyo.",
-   "en": "Whoa, but those two are swapping numbers right now.",
+   "ko": "헐, 저 둘 지금 번호 따고 있어요.",
+   "rd": "heol, jeo dul jigeum beonho ttago isseoyo.",
+   "en": "Whoa, those two are getting each other's numbers right now.",
    "note": "",
    "tags": [],
    "new": [],
@@ -154,9 +144,9 @@
      "beonho"
     ],
     [
-     "교환",
-     "교환",
-     "gyohwan"
+     "따",
+     "따다",
+     "ttada"
     ]
    ]
   },
@@ -203,9 +193,9 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "좋아요, 저 둘은 두고 가요!",
-   "rd": "joayo, jeo dureun dugo gayo!",
-   "en": "Okay, let's leave those two here!",
+   "ko": "좋아요, 저 둘은 놔두고 가요.",
+   "rd": "joayo, jeo dureun nwadugo gayo.",
+   "en": "Okay, let's leave those two and go.",
    "note": "",
    "tags": [],
    "new": [],
@@ -217,9 +207,9 @@
      "jota"
     ],
     [
-     "두",
-     "두다",
-     "duda"
+     "놔두",
+     "놔두다",
+     "nwaduda"
     ],
     [
      "가",
@@ -235,6 +225,7 @@
  "review": {
   "grok_rewrite": "data/review/r1_love_a6_grok_rewrite.md [K133]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [4, 5, 8] Grok(빠른) 재작성"
  }
 }

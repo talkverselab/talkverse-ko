@@ -127,9 +127,9 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "(옆옆집) 어? 그 비번 저희 집 와이파이인데요! 😮",
-   "rd": "(yeopyeopjip) eo? geu bibeon jeohui jip waipaiindeyo!",
-   "en": "(two doors down) Huh? That password is our Wi-Fi!",
+   "ko": "어? 그 비번 저희 집 거 맞는데요?",
+   "rd": "eo? geu bibeon jeohui jip geo manneundeyo?",
+   "en": "Huh? That password is ours, right?",
    "note": "",
    "tags": [],
    "new": [],
@@ -146,29 +146,24 @@
      "jip"
     ],
     [
-     "와이파이",
-     "와이파이",
-     "waipai"
+     "맞",
+     "맞다",
+     "matda"
     ]
    ]
   },
   {
    "num": 5,
    "speaker": "D",
-   "ko": "(건너편) 아… 저도 그거 몰래 쓰고 있었어요.",
-   "rd": "(geonneopyeon) a… jeodo geugeo mollae sseugo isseosseoyo.",
-   "en": "(across the hall) Ah… I've been secretly using it too.",
+   "ko": "아… 저도 그거 쓰고 있었어요.",
+   "rd": "a… jeodo geugeo sseugo isseosseoyo.",
+   "en": "Ah… I've been using that one too.",
    "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_life_a8/cut3",
    "emotion": "flustered",
    "lemmas": [
-    [
-     "몰래",
-     "몰래",
-     "mollae"
-    ],
     [
      "쓰",
      "쓰다",
@@ -179,9 +174,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "죄송해요. 저희 집 와이파이가 자꾸 끊겨서요.",
-   "rd": "joesonghaeyo. jeohui jip waipaiga jakku kkeunkyeoseoyo.",
-   "en": "Sorry. Our Wi-Fi keeps cutting out.",
+   "ko": "죄송해요. 저희 와이파이 자주 끊겨서요.",
+   "rd": "joesonghaeyo. jeohui waipai jaju kkeunkyeoseoyo.",
+   "en": "Sorry. Our Wi-Fi keeps dropping.",
    "note": "",
    "tags": [],
    "new": [],
@@ -193,19 +188,14 @@
      "joesong"
     ],
     [
-     "집",
-     "집",
-     "jip"
-    ],
-    [
      "와이파이",
      "와이파이",
      "waipai"
     ],
     [
-     "자꾸",
-     "자꾸",
-     "jakku"
+     "자주",
+     "자주",
+     "jaju"
     ],
     [
      "끊겨",
@@ -217,9 +207,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "아 진짜요? 그럼 저는 어떡하죠? 😟",
-   "rd": "a jinjjayo? geureom jeoneun eotteokajyo?",
-   "en": "Oh really? Then what should I do?",
+   "ko": "아 진짜요? 그럼 저 어떡하죠?",
+   "rd": "a jinjjayo? geureom jeo eotteokajyo?",
+   "en": "Oh really? Then what do I do?",
    "note": "",
    "tags": [],
    "new": [],
@@ -241,9 +231,9 @@
   {
    "num": 8,
    "speaker": "C",
-   "ko": "그냥 쓰세요. 대신 비번 바꾸면 알려 드릴게요.",
-   "rd": "geunyang sseuseyo. daesin bibeon bakkumyeon allyeo deurilgeyo.",
-   "en": "Just use it. I'll let you know if I change the password.",
+   "ko": "그냥 쓰세요. 바꾸면 알려 드릴게요.",
+   "rd": "geunyang sseuseyo. bakkumyeon allyeo deurilgeyo.",
+   "en": "Just use it. I'll tell you if I change it.",
    "note": "",
    "tags": [],
    "new": [],
@@ -253,16 +243,6 @@
      "쓰",
      "쓰다",
      "sseuda"
-    ],
-    [
-     "대신",
-     "대신",
-     "daesin"
-    ],
-    [
-     "비번",
-     "비번",
-     "bibeon"
     ],
     [
      "바꾸",
@@ -282,6 +262,7 @@
   "final": "",
   "shorten": "data/review/r1_life_a8_grok_short.md [K409] 턴 [1, 4, 6]",
   "manual": "턴 4 어절 1개 덜어냄(세션)",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [4, 5, 6, 7, 8] Grok(빠른) 재작성"
  }
 }

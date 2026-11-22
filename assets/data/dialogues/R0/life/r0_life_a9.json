@@ -148,9 +148,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "(전화) 아들, 김치 보냈어. 이모 것도!",
-   "rd": "(jeonhwa) adeul, gimchi bonaesseo. imo geotdo!",
-   "en": "(on the phone) Son, I sent kimchi. Auntie's too!",
+   "ko": "아들, 나 김치 보냈거든. 이모네 것도!",
+   "rd": "adeul, na gimchi bonaetgeodeun. imone geotdo!",
+   "en": "Son, I sent kimchi. Auntie's too!",
    "note": "",
    "tags": [],
    "new": [],
@@ -177,8 +177,8 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "네? 열 상자 다 김치예요? 😱",
-   "rd": "ne? yeol sangja da gimchiyeyo?",
+   "ko": "네? 상자 열 개 다 김치예요? 😱",
+   "rd": "ne? sangja yeol gae da gimchiyeyo? 😱",
    "en": "What? All ten boxes are kimchi?",
    "note": "",
    "tags": [],
@@ -201,6 +201,8 @@
  "review": {
   "grok_rewrite": "data/review/r0_life_a9_grok_rewrite.md [K308]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [7, 8] Grok(빠른) 재작성",
+  "shorten": "data/review/r0_life_a9_short.md [K962] 턴 [7]"
  }
 }

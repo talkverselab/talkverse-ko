@@ -207,37 +207,32 @@
   {
    "num": 10,
    "speaker": "C",
-   "ko": "네~ 저희 집 「아무거나」는 김치찌개예요!",
-   "rd": "ne~ jeohui jip 「amugeona」neun gimchijjigaeyeyo!",
-   "en": "Sure~ our house \"anything\" is kimchi stew!",
+   "ko": "네~ 김치찌개 두 개 나갈게요!",
+   "rd": "ne~ gimchijjigae du gae nagalgeyo!",
+   "en": "Sure~ two kimchi stews coming right up!",
    "note": "",
    "tags": [],
    "new": [],
    "emotion": "cheerful",
    "lemmas": [
     [
-     "집",
-     "집",
-     "jip"
-    ],
-    [
-     "아무거나",
-     "아무거나",
-     "amugeona"
-    ],
-    [
      "김치찌개",
      "김치찌개",
      "gimchijjigae"
+    ],
+    [
+     "나갈",
+     "나가다",
+     "nagada"
     ]
    ]
   },
   {
    "num": 11,
    "speaker": "B",
-   "ko": "…잠깐만, 김치찌개? 어제 먹었다니까. 😤",
-   "rd": "…jamkkanman, gimchijjigae? eoje meogeotdanikka.",
-   "en": "…Wait, kimchi stew? I told you we had it yesterday.",
+   "ko": "야 잠깐, 김치찌개? 어제 먹었잖아!",
+   "rd": "ya jamkkan, gimchijjigae? eoje meogeotjana!",
+   "en": "Hey wait, kimchi stew? We had that yesterday!",
    "note": "",
    "tags": [],
    "new": [],
@@ -303,7 +298,8 @@
   "grok_rewrite": "data/review/r2_love_b3_grok_rewrite.md [K028]",
   "final": "",
   "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [10, 11] Grok(빠른) 재작성"
  },
  "learner_gender": "M",
  "twist_type": "chaos"

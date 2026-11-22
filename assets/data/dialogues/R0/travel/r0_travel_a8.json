@@ -61,9 +61,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "바닥에 톡 치고 굴려.",
-   "rd": "badage tok chigo gullyeo.",
-   "en": "Tap it on the floor and roll it.",
+   "ko": "바닥에 살짝 쳐서 굴려 봐.",
+   "rd": "badage saljjak chyeoseo gullyeo bwa.",
+   "en": "Just lightly tap it on the floor and roll it.",
    "note": "",
    "tags": [],
    "new": [],
@@ -76,12 +76,12 @@
      "badak"
     ],
     [
-     "톡",
-     "톡",
-     "tok"
+     "살짝",
+     "살짝",
+     "saljjak"
     ],
     [
-     "치",
+     "쳐",
      "치다",
      "chida"
     ],
@@ -95,8 +95,8 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "바닥에? 진짜?",
-   "rd": "badage? jinjja?",
+   "ko": "바닥에 치라고? 진짜?",
+   "rd": "badage chirago? jinjja?",
    "en": "On the floor? For real?",
    "note": "진짜? = really?",
    "tags": [],
@@ -109,6 +109,11 @@
      "badak"
     ],
     [
+     "치",
+     "치다",
+     "chida"
+    ],
+    [
      "진짜",
      "진짜",
      "jinjja"
@@ -118,9 +123,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "응. 그리고 식혜랑 먹어야 돼. 😄",
-   "rd": "eung. geurigo sikyerang meogeoya dwae.",
-   "en": "Yeah. And you have to eat it with sikhye.",
+   "ko": "응. 식혜랑 먹어야 돼. 😄",
+   "rd": "eung. sikyerang meogeoya dwae. 😄",
+   "en": "Yeah. You gotta eat it with sikhye.",
    "note": "",
    "tags": [],
    "new": [],
@@ -142,9 +147,9 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "(쾅) 아, 계란이 다 부서졌어.",
-   "rd": "(kwang) a, gyerani da buseojyeosseo.",
-   "en": "(bang) Ah, the egg got totally smashed.",
+   "ko": "(쾅) 아, 계란이 다 박살났어.",
+   "rd": "(kwang) a, gyerani da baksallasseo.",
+   "en": "(bang) Ah, the egg’s totally wrecked.",
    "note": "",
    "tags": [],
    "new": [],
@@ -156,9 +161,14 @@
      "gyeran"
     ],
     [
-     "부서졌",
-     "부서지다",
-     "buseojida"
+     "박살",
+     "박살",
+     "baksal"
+    ],
+    [
+     "났",
+     "나다",
+     "nada"
     ]
    ]
   },
@@ -201,6 +211,7 @@
  "review": {
   "grok_rewrite": "data/review/r0_travel_a8_grok_rewrite.md [K323]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [3, 4, 5, 6] Grok(빠른) 재작성"
  }
 }

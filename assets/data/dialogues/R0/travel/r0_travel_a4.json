@@ -158,9 +158,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "(다섯 팀째) 사진 진짜 잘 찍으시네요! 😊",
-   "rd": "(daseot timjjae) sajin jinjja jal jjigeusineyo!",
-   "en": "(fifth group) You take really great photos!",
+   "ko": "(다섯 팀째) 와, 진짜 잘 나오네요! 😊",
+   "rd": "(daseot timjjae) wa, jinjja jal naoneyo! 😊",
+   "en": "(fifth group) Wow, they come out so well!",
    "note": "",
    "tags": [],
    "new": [],
@@ -168,28 +168,23 @@
    "emotion": "cheerful",
    "lemmas": [
     [
-     "사진",
-     "사진",
-     "sajin"
-    ],
-    [
      "진짜",
      "진짜",
      "jinjja"
     ],
     [
-     "찍",
-     "찍다",
-     "jjikda"
+     "나오",
+     "나오다",
+     "naoda"
     ]
    ]
   },
   {
    "num": 8,
    "speaker": "A",
-   "ko": "감사합니다… 근데 제 사진은요?",
-   "rd": "gamsahamnida… geunde je sajineunyo?",
-   "en": "Thanks… but what about my photo?",
+   "ko": "아 감사합니다. 제 사진도요?",
+   "rd": "a gamsahamnida. je sajindoyo?",
+   "en": "Ah, thanks. Mine too?",
    "note": "",
    "tags": [],
    "new": [],
@@ -211,6 +206,7 @@
  "review": {
   "grok_rewrite": "data/review/r0_travel_a4_grok_rewrite.md [K181]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [7, 8] Grok(빠른) 재작성"
  }
 }

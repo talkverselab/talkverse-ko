@@ -66,9 +66,9 @@
   {
    "num": 2,
    "speaker": "A",
-   "ko": "뭐야… 엄마한테 거짓말하자고, 진짜?",
-   "rd": "mwoya… eommahante geojitmalhajago, jinjja?",
-   "en": "What… you want to lie to your mom, for real?",
+   "ko": "어? 엄마한테 거짓말해? 진짜?",
+   "rd": "eo? eommahante geojinmalhae? jinjja?",
+   "en": "Huh? Lie to your mom? For real?",
    "note": "",
    "tags": [],
    "new": [],
@@ -127,9 +127,9 @@
   {
    "num": 4,
    "speaker": "A",
-   "ko": "설마 규칙까지 정해 온 건 아니지? 😤",
-   "rd": "seolma gyuchikkkaji jeonghae on geon aniji?",
-   "en": "Don't tell me you even came with rules?",
+   "ko": "설마 규칙까지 다 정해 온 거야? 😤",
+   "rd": "seolma gyuchikkkaji da jeonghae on geoya? 😤",
+   "en": "Don't tell me you already set all the rules?",
    "note": "설마 = no way",
    "tags": [],
    "new": [],
@@ -155,9 +155,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "응. 손잡는 건 괜찮아. 근데 진짜로 좋아하는 건 안 돼.",
-   "rd": "eung. sonjamneun geon gwaenchana. geunde jinjjaro joahaneun geon an dwae.",
-   "en": "Yep. Holding hands is fine. But actually liking each other is not allowed.",
+   "ko": "응. 손 잡는 건 괜찮아. 근데 진짜로 좋아하면 안 돼.",
+   "rd": "eung. son jamneun geon gwaenchana. geunde jinjjaro joahamyeon an dwae.",
+   "en": "Yeah. Holding hands is fine. But we can't actually like each other.",
    "note": "",
    "tags": [],
    "new": [],
@@ -395,6 +395,7 @@
  "review": {
   "grok_rewrite": "data/review/r2_love_b10_grok_rewrite.md [K365]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [2, 4, 5] Grok(빠른) 재작성"
  }
 }

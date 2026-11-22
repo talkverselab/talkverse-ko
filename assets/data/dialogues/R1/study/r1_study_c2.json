@@ -33,9 +33,9 @@
   {
    "num": 1,
    "speaker": "A",
-   "ko": "(메일) 교수님 안녕하세요. {name}입니다. 과제 관련해 여쭤볼 게 있습니다.",
-   "rd": "(meil) gyosunim annyeonghaseyo. {name}imnida. gwaje gwallyeonhae yeojjwobol ge itseumnida.",
-   "en": "(email) Hello Professor, this is {name}. I have a question about the assignment.",
+   "ko": "(메일) 교수님 안녕하세요. {name}입니다. 과제 여쭤볼 게 있어요.",
+   "rd": "(meil) gyosunim annyeonghaseyo. {name}imnida. gwaje yeojjwobol ge isseoyo.",
+   "en": "(email) Hi Professor, this is {name}. Something about the assignment to ask.",
    "note": "",
    "tags": [],
    "new": [],
@@ -58,11 +58,6 @@
      "과제",
      "과제",
      "gwaje"
-    ],
-    [
-     "관련",
-     "관련",
-     "gwallyeon"
     ],
     [
      "여쭤",
@@ -128,9 +123,9 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "(카톡) 헐 교수님 지금 채점하시나 봐",
-   "rd": "(katok) heol gyosunim jigeum chaejeomhasina bwa",
-   "en": "(Kakao) Whoa, the professor must be grading right now",
+   "ko": "(카톡) 헐 교수님 지금 채점 중이신 것 같아",
+   "rd": "(katok) heol gyosunim jigeum chaejeom jungisin geot gata",
+   "en": "(Kakao) Whoa, looks like the professor’s grading right now",
    "note": "",
    "tags": [],
    "new": [],
@@ -158,9 +153,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "(메일) 마침 지금 과제를 채점하고 있어요.",
-   "rd": "(meil) machim jigeum gwajereul chaejeomhago isseoyo.",
-   "en": "(email) As it happens, I'm grading the assignments right now.",
+   "ko": "(메일) 마침 과제 채점하고 있는 중이었어요.",
+   "rd": "(meil) machim gwaje chaejeomhago inneun jungieosseoyo.",
+   "en": "(email) Actually, I was just grading the assignments.",
    "note": "",
    "tags": [],
    "new": [],
@@ -173,11 +168,6 @@
      "마침",
      "마침",
      "machim"
-    ],
-    [
-     "지금",
-     "지금",
-     "jigeum"
     ],
     [
      "과제",
@@ -223,9 +213,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "(메일) 네, 지금 {name} 학생 과제 보고 있어요.",
-   "rd": "(meil) ne, jigeum {name} haksaeng gwaje bogo isseoyo.",
-   "en": "(email) Yes, I'm looking at your assignment right now.",
+   "ko": "(메일) 네, 지금 {name} 학생 거 보고 있는 중이에요.",
+   "rd": "(meil) ne, jigeum {name} haksaeng geo bogo inneun jungieyo.",
+   "en": "(email) Yeah, I’m looking at yours right now.",
    "note": "",
    "tags": [],
    "new": [],
@@ -243,11 +233,6 @@
      "학생",
      "학생",
      "haksaeng"
-    ],
-    [
-     "과제",
-     "과제",
-     "gwaje"
     ],
     [
      "보",
@@ -299,8 +284,9 @@
  "review": {
   "grok_rewrite": "data/review/r1_study_c2_grok_rewrite.md [K351]",
   "final": "",
-  "shorten": "data/review/r1_study_c2_grok_short.md [K415] 턴 [1, 4, 8]",
+  "shorten": "data/review/r1_study_c2_short.md [K965] 턴 [1]",
   "manual": "턴 8 어절 1개 덜어냄(세션)",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [1, 4, 5, 7] Grok(빠른) 재작성"
  }
 }

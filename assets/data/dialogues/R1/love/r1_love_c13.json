@@ -145,9 +145,9 @@
   {
    "num": 5,
    "speaker": "B",
-   "ko": "완전 다르지 ㅋㅋ 친구한테 물어봤더니 넷 다 다르대",
-   "rd": "wanjeon dareuji ㅋㅋ chinguhante mureobwatdeoni net da dareudae",
-   "en": "Totally different lol I asked a friend and she says all four are different",
+   "ko": "진짜 완전 다른데 ㅋㅋ 친구도 셋 다 다르대",
+   "rd": "jinjja wanjeon dareunde ㅋㅋ chingudo set da dareudae",
+   "en": "They're totally different lol, my friend says all three are different too",
    "note": "",
    "tags": [],
    "new": [],
@@ -157,12 +157,17 @@
    "emotion": "teasing",
    "lemmas": [
     [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
+    [
      "완전",
      "완전",
      "wanjeon"
     ],
     [
-     "다르",
+     "다른",
      "다르다",
      "dareuda"
     ],
@@ -170,11 +175,6 @@
      "친구",
      "친구",
      "chingu"
-    ],
-    [
-     "물어봤",
-     "물어보다",
-     "mureoboda"
     ],
     [
      "다르",
@@ -205,9 +205,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "그건 베이지야 ㅋㅋㅋ 네 셔츠 색 보내 봐",
-   "rd": "geugeon beijiya ㅋㅋㅋ ne syeocheu saek bonae bwa",
-   "en": "That's beige lol. Send me your shirt color.",
+   "ko": "아 그건 베이지야 ㅋㅋㅋ 너 셔츠 색 찍어 보내",
+   "rd": "a geugeon beijiya ㅋㅋㅋ neo syeocheu saek jjigeo bonae",
+   "en": "Oh that's beige lol send me a pic of your shirt color",
    "note": "",
    "tags": [],
    "new": [],
@@ -230,6 +230,11 @@
      "색",
      "색",
      "saek"
+    ],
+    [
+     "찍",
+     "찍다",
+     "jjikda"
     ],
     [
      "보내",
@@ -265,6 +270,7 @@
   "grok_rewrite": "data/review/r1_love_c13_grok_rewrite.md [K349]",
   "final": "",
   "shorten": "data/review/r1_love_c13_grok_short.md [K414] 턴 [5, 7]",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [5, 7] Grok(빠른) 재작성"
  }
 }

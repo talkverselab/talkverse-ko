@@ -79,9 +79,9 @@
   {
    "num": 3,
    "speaker": "A",
-   "ko": "잠깐만요! 대본 순서가 다 섞였어요!",
-   "rd": "jamkkanmanyo! daebon sunseoga da seokkyeosseoyo!",
-   "en": "Wait! My script pages are all out of order!",
+   "ko": "잠깐만요! 대본이 다 섞여 버렸어요!",
+   "rd": "jamkkanmanyo! daeboni da seokkyeo beoryeosseoyo!",
+   "en": "Wait a sec! My script’s all mixed up!",
    "note": "대본 = script",
    "tags": [],
    "new": [],
@@ -99,12 +99,7 @@
      "daebon"
     ],
     [
-     "순서",
-     "순서",
-     "sunseo"
-    ],
-    [
-     "섞였",
+     "섞여",
      "섞이다",
      "seokkida"
     ]
@@ -113,7 +108,7 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "헐, 아까 복도에서 떨어뜨렸잖아! 😮",
+   "ko": "헐, 아까 복도에서 떨어뜨렸잖아!",
    "rd": "heol, akka bokdoeseo tteoreotteuryeotjana!",
    "en": "Whoa, you dropped it in the hallway earlier!",
    "note": "",
@@ -141,15 +136,20 @@
   {
    "num": 5,
    "speaker": "D",
-   "ko": "마지막 장이 맨 앞에 있어요!",
-   "rd": "majimak jangi maen ape isseoyo!",
-   "en": "The last page is at the very front!",
+   "ko": "맨 앞에 마지막 장이 와 있어요!",
+   "rd": "maen ape majimak jangi wa isseoyo!",
+   "en": "The last page is right at the front!",
    "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_study_a4/cut3",
    "emotion": "shout",
    "lemmas": [
+    [
+     "앞",
+     "앞",
+     "ap"
+    ],
     [
      "마지막",
      "마지막",
@@ -161,9 +161,9 @@
      "jang"
     ],
     [
-     "앞",
-     "앞",
-     "ap"
+     "와",
+     "오다",
+     "oda"
     ]
    ]
   },
@@ -192,9 +192,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "죄송합니다… 그럼 결론부터 말하겠습니다.",
-   "rd": "joesonghamnida… geureom gyeollonbuteo malhagetseumnida.",
-   "en": "Sorry… then I'll start with the conclusion.",
+   "ko": "죄송합니다… 그럼 결론부터 할게요.",
+   "rd": "joesonghamnida… geureom gyeollonbuteo halgeyo.",
+   "en": "Sorry… I’ll start with the conclusion then.",
    "note": "",
    "tags": [],
    "new": [],
@@ -210,20 +210,15 @@
      "결론",
      "결론",
      "gyeollon"
-    ],
-    [
-     "말",
-     "말",
-     "mal"
     ]
    ]
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "ㅋㅋ 좋아요. 짧아서 더 좋네요. 😄",
-   "rd": "ㅋㅋ joayo. jjalbaseo deo jonneyo.",
-   "en": "Haha good. Even better that it's short.",
+   "ko": "ㅋㅋ 좋아요. 짧아서 오히려 좋네요.",
+   "rd": "ㅋㅋ joayo. jjalbaseo ohiryeo jonneyo.",
+   "en": "Haha, good. Better that it’s short, actually.",
    "note": "",
    "tags": [],
    "new": [],
@@ -240,6 +235,11 @@
      "jjalda"
     ],
     [
+     "오히려",
+     "오히려",
+     "ohiryeo"
+    ],
+    [
      "좋",
      "좋다",
      "jota"
@@ -250,6 +250,7 @@
  "review": {
   "grok_rewrite": "data/review/r1_study_a4_grok_rewrite.md [K191]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [3, 4, 5, 7, 8] Grok(빠른) 재작성"
  }
 }

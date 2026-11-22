@@ -112,9 +112,9 @@
   {
    "num": 4,
    "speaker": "B",
-   "ko": "[영상] 잠깐 기사님이 옆집 앞에 놨어 ㅋㅋ",
-   "rd": "[yeongsang] jamkkan gisanimi yeopjip ape nwasseo ㅋㅋ",
-   "en": "[video] Wait, the delivery guy left it in front of next door lol",
+   "ko": "[영상] 기사님이 옆집 문 앞에 놓고 가버림 ㅋㅋ",
+   "rd": "[yeongsang] gisanimi yeopjip mun ape noko gabeorim ㅋㅋ",
+   "en": "[video] Delivery guy left it at the neighbor's door and just took off lol",
    "note": "",
    "tags": [],
    "new": [],
@@ -128,38 +128,43 @@
      "yeongsang"
     ],
     [
-     "잠깐",
-     "잠깐",
-     "jamkkan"
-    ],
-    [
      "기사",
      "기사",
      "gisa"
     ],
     [
-     "옆",
-     "옆",
-     "yeop"
+     "옆집",
+     "옆집",
+     "yeopjip"
     ],
     [
-     "집",
-     "집",
-     "jip"
+     "문",
+     "문",
+     "mun"
     ],
     [
      "앞",
      "앞",
      "ap"
+    ],
+    [
+     "놓",
+     "놓다",
+     "nota"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
     ]
    ]
   },
   {
    "num": 5,
    "speaker": "A",
-   "ko": "옆집? 진짜? 근데 왜 없어??",
-   "rd": "yeopjip? jinjja? geunde wae eopseo??",
-   "en": "Next door? For real? Then why isn't it there??",
+   "ko": "옆집 문 앞이야? 진짜? 근데 왜 안 보이네",
+   "rd": "yeopjip mun apiya? jinjja? geunde wae an boine",
+   "en": "Next door's door front? For real? But why can't I see it",
    "note": "",
    "tags": [],
    "new": [],
@@ -174,6 +179,16 @@
      "yeopjip"
     ],
     [
+     "문",
+     "문",
+     "mun"
+    ],
+    [
+     "앞",
+     "앞",
+     "ap"
+    ],
+    [
      "진짜",
      "진짜",
      "jinjja"
@@ -182,15 +197,20 @@
      "왜",
      "왜",
      "wae"
+    ],
+    [
+     "보이",
+     "보이다",
+     "boida"
     ]
    ]
   },
   {
    "num": 6,
    "speaker": "C",
-   "ko": "옆집 고양이가 그 박스 위에서 자고 있어 ㅋㅋ",
-   "rd": "yeopjip goyangiga geu bakseu wieseo jago isseo ㅋㅋ",
-   "en": "The neighbor's cat is sleeping on top of that box lol",
+   "ko": "옆집 고양이 박스 위에서 낮잠 자네 ㅋㅋ",
+   "rd": "yeopjip goyangi bakseu wieseo natjam jane ㅋㅋ",
+   "en": "Neighbor's cat is napping on the box lol",
    "note": "박스 = box",
    "tags": [],
    "new": [],
@@ -219,6 +239,11 @@
      "wi"
     ],
     [
+     "낮잠",
+     "낮잠",
+     "natjam"
+    ],
+    [
      "자",
      "자다",
      "jada"
@@ -228,9 +253,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "옆집 누나가 고양이 안 비킨대 ㅋㅋ 사진 보냈어",
-   "rd": "yeopjip nunaga goyangi an bikindae ㅋㅋ sajin bonaesseo",
-   "en": "The neighbor says the cat won't move lol she sent a photo",
+   "ko": "옆집 언니가 고양이 안 비킨대 ㅋㅋ 사진 보냄",
+   "rd": "yeopjip eonniga goyangi an bikindae ㅋㅋ sajin bonaem",
+   "en": "Neighbor unnie says the cat won't budge lol sent a photo",
    "note": "",
    "tags": [],
    "new": [],
@@ -245,9 +270,9 @@
      "yeopjip"
     ],
     [
-     "누나",
-     "누나",
-     "nuna"
+     "언니",
+     "언니",
+     "eonni"
     ],
     [
      "고양이",
@@ -265,7 +290,7 @@
      "sajin"
     ],
     [
-     "보냈",
+     "보냄",
      "보내다",
      "bonaeda"
     ]
@@ -310,6 +335,7 @@
   "grok_rewrite": "data/review/r1_life_c4_grok_rewrite.md [K339]",
   "final": "",
   "shorten": "data/review/r1_life_c4_grok_short.md [K411] 턴 [7]",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [4, 5, 6, 7] Grok(빠른) 재작성"
  }
 }

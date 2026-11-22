@@ -138,9 +138,9 @@
   {
    "num": 7,
    "speaker": "D",
-   "ko": "저도 단골이에요! 저도 서비스요!",
-   "rd": "jeodo dangorieyo! jeodo seobiseuyo!",
-   "en": "I'm a regular too! A freebie for me too!",
+   "ko": "저도 단골인데 하나만 더 주세요~",
+   "rd": "jeodo dangorinde hanaman deo juseyo~",
+   "en": "I come here a lot too, can I get just one more?",
    "note": "",
    "tags": [],
    "new": [],
@@ -153,27 +153,27 @@
      "dangol"
     ],
     [
-     "서비스",
-     "서비스",
-     "seobiseu"
+     "주",
+     "주다",
+     "juda"
     ]
    ]
   },
   {
    "num": 8,
    "speaker": "B",
-   "ko": "아이고, 오늘 장사 다 했네! ㅋㅋ",
-   "rd": "aigo, oneul jangsa da haenne! ㅋㅋ",
-   "en": "Oh dear, there goes today's profit! Lol",
+   "ko": "어휴, 오늘은 서비스가 많네요 ㅎㅎ",
+   "rd": "eohyu, oneureun seobiseuga manneyo ㅎㅎ",
+   "en": "Oh no, lots of freebies today haha",
    "note": "",
    "tags": [],
    "new": [],
    "emotion": "amused",
    "lemmas": [
     [
-     "아이고",
-     "아이고",
-     "aigo"
+     "어휴",
+     "어휴",
+     "eohyu"
     ],
     [
      "오늘",
@@ -181,9 +181,14 @@
      "oneul"
     ],
     [
-     "장사",
-     "장사",
-     "jangsa"
+     "서비스",
+     "서비스",
+     "seobiseu"
+    ],
+    [
+     "많",
+     "많다",
+     "manta"
     ]
    ]
   }
@@ -191,6 +196,7 @@
  "review": {
   "grok_rewrite": "data/review/r0_survival_s6_grok_rewrite.md [K320]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [7, 8] Grok(빠른) 재작성"
  }
 }

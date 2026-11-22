@@ -378,9 +378,9 @@
   {
    "num": 15,
    "speaker": "A",
-   "ko": "(문이 열리며) 어? 팀장님 우산 가지러 다시 오셨어요.",
-   "rd": "(muni yeollimyeo) eo? timjangnim usan gajireo dasi osyeosseoyo.",
-   "en": "(door opens) Huh? The boss came back for his umbrella.",
+   "ko": "(문이 열리며) 어? 팀장님 다시 들어오셨는데요. 뭐 두고 가신 거 같아요.",
+   "rd": "(muni yeollimyeo) eo? timjangnim dasi deureoosyeonneundeyo. mwo dugo gasin geo gatayo.",
+   "en": "(door opens) Huh? The boss is coming back in. Looks like they forgot something.",
    "note": "",
    "tags": [],
    "new": [],
@@ -393,57 +393,57 @@
      "timjang"
     ],
     [
-     "우산",
-     "우산",
-     "usan"
-    ],
-    [
-     "가지",
-     "가지다",
-     "gajida"
-    ],
-    [
      "다시",
      "다시",
      "dasi"
     ],
     [
-     "오",
-     "오다",
-     "oda"
+     "들어오",
+     "들어오다",
+     "deureooda"
+    ],
+    [
+     "뭐",
+     "뭐",
+     "mwo"
+    ],
+    [
+     "두",
+     "두다",
+     "duda"
+    ],
+    [
+     "가",
+     "가다",
+     "gada"
     ]
    ]
   },
   {
    "num": 16,
    "speaker": "B",
-   "ko": "(메신저) …망했다. 다들 자연스럽게 다시 앉아.",
-   "rd": "(mesinjeo) …manghaetda. dadeul jayeonseureopge dasi anja.",
-   "en": "(message) …We're doomed. Everyone sit back down like nothing happened.",
+   "ko": "(메신저) 아 어떡해… 다들 그냥 앉아 있어. 자연스럽게.",
+   "rd": "(mesinjeo) a eotteokae… dadeul geunyang anja isseo. jayeonseureopge.",
+   "en": "(message) Oh no… everyone just stay seated. Act natural.",
    "note": "",
    "tags": [],
    "new": [],
    "emotion": "tsukkomi",
    "lemmas": [
     [
-     "망했",
-     "망하다",
-     "manghada"
-    ],
-    [
-     "자연",
-     "자연",
-     "jayeon"
-    ],
-    [
-     "다시",
-     "다시",
-     "dasi"
+     "어떡해",
+     "어떡하다",
+     "eotteokada"
     ],
     [
      "앉",
      "앉다",
      "anda"
+    ],
+    [
+     "자연",
+     "자연",
+     "jayeon"
     ]
    ]
   }
@@ -452,7 +452,8 @@
   "grok_rewrite": "data/review/r3_work_b1_grok_rewrite.md [K067]",
   "final": "",
   "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [15, 16] Grok(빠른) 재작성"
  },
  "twist_type": "chaos"
 }

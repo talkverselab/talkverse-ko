@@ -1,0 +1,1 @@
+5 A: (10분 뒤) 와, 벌써 열 팀이라 정신없어요. / (10 min later) Wow, already ten groups—totally overwhelmed. / 괄호 안 띄어쓰기를 없애 한 어절로 줄임.

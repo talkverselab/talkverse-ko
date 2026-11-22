@@ -1,0 +1,2 @@
+4 C: ㅋㅋ 괜찮아요. 그냥 다들 김으로 알고 있었나 봐요. / Haha it's fine. Guess everyone just thought it was Kim. / 지적 안 된 이유를 상황 중심으로 바꿔 자연스럽게 함
+7 C: ㅋㅋ 내일 명패 좀 키워둘게요. 박이라고 크게요. / Haha I'll make the nameplate bigger tomorrow. With Park in big letters. / 어순·말끝을 더 구어체로 바꾸고 농담 톤 살림

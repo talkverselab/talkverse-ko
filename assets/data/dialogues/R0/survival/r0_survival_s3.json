@@ -147,9 +147,9 @@
   {
    "num": 6,
    "speaker": "D",
-   "ko": "화장실요? 바로 뒤에 있어요.",
-   "rd": "hwajangsiryo? baro dwie isseoyo.",
-   "en": "The restroom? It's right behind you.",
+   "ko": "아, 화장실요? 바로 뒤에 있어요.",
+   "rd": "a, hwajangsiryo? baro dwie isseoyo.",
+   "en": "Oh, the restroom? It's right behind you.",
    "note": "",
    "tags": [],
    "new": [],
@@ -180,15 +180,20 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "헐, 처음 그 자리예요?!",
-   "rd": "heol, cheoeum geu jariyeyo?!",
-   "en": "Whoa, the very spot where I first asked?!",
+   "ko": "헐 진짜요? 처음 물어본 자리예요?",
+   "rd": "heol jinjjayo? cheoeum mureobon jariyeyo?",
+   "en": "Whoa, for real? The spot I first asked at?",
    "note": "",
    "tags": [],
    "new": [],
    "art": "scene/ko/r0_survival_s3/cut4",
    "emotion": "surprised",
    "lemmas": [
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
+    ],
     [
      "처음",
      "처음",
@@ -204,19 +209,14 @@
   {
    "num": 8,
    "speaker": "D",
-   "ko": "네, 저 직원분 바로 옆이요. ㅋㅋ",
-   "rd": "ne, jeo jigwonbun baro yeopiyo. ㅋㅋ",
-   "en": "Yes, right next to that staff member. Lol",
+   "ko": "네, 저 직원분 옆이에요. ㅎㅎ",
+   "rd": "ne, jeo jigwonbun yeopieyo. ㅎㅎ",
+   "en": "Yeah, right next to that staff member. Haha",
    "note": "",
    "tags": [],
    "new": [],
    "emotion": "amused",
    "lemmas": [
-    [
-     "바로",
-     "바로",
-     "baro"
-    ],
     [
      "옆",
      "옆",
@@ -228,6 +228,7 @@
  "review": {
   "grok_rewrite": "data/review/r0_survival_s3_grok_rewrite.md [K180]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [6, 7, 8] Grok(빠른) 재작성"
  }
 }

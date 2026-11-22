@@ -128,39 +128,38 @@
   {
    "num": 6,
    "speaker": "A",
-   "ko": "하나 둘 셋… 다 들어왔어?",
-   "rd": "hana dul set… da deureowasseo?",
-   "en": "One two three… is everyone in?",
+   "ko": "하나 둘 셋! 이제 다 모였지?",
+   "rd": "hana dul set! ije da moyeotji?",
+   "en": "One two three! Everyone’s in now, right?",
    "note": "",
    "tags": [],
    "new": [],
    "emotion": "amused",
    "lemmas": [
     [
-     "들어왔",
-     "들어오다",
-     "deureooda"
+     "이제",
+     "이제",
+     "ije"
+    ],
+    [
+     "모였",
+     "모이다",
+     "moida"
     ]
    ]
   },
   {
    "num": 7,
    "speaker": "B",
-   "ko": "우리 넷이랑 모르는 강아지 한 마리.",
-   "rd": "uri nesirang moreuneun gangaji han mari.",
-   "en": "The four of us and one random dog.",
-   "note": "마리 = counter for animals",
+   "ko": "ㅋㅋ 우리 넷이랑 강아지 하나네.",
+   "rd": "ㅋㅋ uri nesirang gangaji hanane.",
+   "en": "Lol the four of us plus a dog.",
+   "note": "넷 = four (of us)",
    "tags": [],
    "new": [],
    "art": "scene/ko/r1_friends_a3/cut4",
    "emotion": "amused",
-   "lemmas": [
-    [
-     "모르",
-     "모르다",
-     "moreuda"
-    ]
-   ]
+   "lemmas": []
   },
   {
    "num": 8,
@@ -193,6 +192,7 @@
  "review": {
   "grok_rewrite": "data/review/r1_friends_a3_grok_rewrite.md [K128]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [6, 7] Grok(빠른) 재작성"
  }
 }

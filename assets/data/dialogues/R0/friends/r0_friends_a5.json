@@ -92,27 +92,27 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "(옆방에서) 와 100점! 빠바밤~",
-   "rd": "(yeopbangeseo) wa 100jeom! ppababam~",
-   "en": "(from next room) Wow, 100! Ta-da-da~",
+   "ko": "(옆방에서) 헐 100점?! 대박!!",
+   "rd": "(yeopbangeseo) heol 100jeom?! daebak!!",
+   "en": "(from next room) Whoa 100?! Crazy!!",
    "note": "",
    "tags": [],
    "new": [],
    "emotion": "excited",
    "lemmas": [
     [
-     "빠바밤",
-     "빠바밤",
-     "ppababam"
+     "대박",
+     "대박",
+     "daebak"
     ]
    ]
   },
   {
    "num": 5,
    "speaker": "A",
-   "ko": "어? 옆방도 100점이야?",
-   "rd": "eo? yeopbangdo 100jeomiya?",
-   "en": "Huh? Next room got 100 too?",
+   "ko": "뭐야 옆방도 100점이야?",
+   "rd": "mwoya yeopbangdo 100jeomiya?",
+   "en": "What the, next room got 100 too?",
    "note": "옆방 = the next room",
    "tags": [],
    "new": [],
@@ -134,27 +134,21 @@
   {
    "num": 6,
    "speaker": "D",
-   "ko": "(복도) 우리 방도 100점!!",
-   "rd": "(bokdo) uri bangdo 100jeom!!",
-   "en": "(hallway) Our room too, 100!!",
+   "ko": "(복도) 우리도 100점!!",
+   "rd": "(bokdo) urido 100jeom!!",
+   "en": "(hallway) Us too, 100!!",
    "note": "",
    "tags": [],
    "new": [],
    "emotion": "shout",
-   "lemmas": [
-    [
-     "방",
-     "방",
-     "bang"
-    ]
-   ]
+   "lemmas": []
   },
   {
    "num": 7,
    "speaker": "B",
-   "ko": "ㅋㅋ 여기 기계 원래 후해.",
-   "rd": "ㅋㅋ yeogi gigye wonrae huhae.",
-   "en": "Lol the machines here are just generous.",
+   "ko": "ㅋㅋ 여기 기계 점수 후해.",
+   "rd": "ㅋㅋ yeogi gigye jeomsu huhae.",
+   "en": "lol the machines here give high scores.",
    "note": "",
    "tags": [],
    "new": [],
@@ -167,9 +161,9 @@
      "gigye"
     ],
     [
-     "원래",
-     "원래",
-     "wollae"
+     "점수",
+     "점수",
+     "jeomsu"
     ],
     [
      "후해",
@@ -204,6 +198,7 @@
  "review": {
   "grok_rewrite": "data/review/r0_friends_a5_grok_rewrite.md [K202]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [4, 5, 6, 7] Grok(빠른) 재작성"
  }
 }

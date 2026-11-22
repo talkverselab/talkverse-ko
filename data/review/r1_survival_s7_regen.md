@@ -1,0 +1,2 @@
+5 D: 물 좀 드릴까요? 여기 잠깐 앉으세요. / Want some water? Sit here for a bit. / 명령조를 덜고 제안하는 말투로 바꿈
+8 B: 다들 원래 이렇게 챙겨요. 그냥 받으셔도 돼요. / People here always look out for you like this. It's fine to just take it. / 아주머니 고정관념을 빼고 부담 없이 받으라는 현장 말투로 바꿈

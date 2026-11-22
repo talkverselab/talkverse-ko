@@ -125,9 +125,9 @@
   {
    "num": 5,
    "speaker": "D",
-   "ko": "물도 드세요! 여기 의자에 앉으세요!",
-   "rd": "muldo deuseyo! yeogi uijae anjeuseyo!",
-   "en": "Have some water! Sit on this chair!",
+   "ko": "물 좀 드릴까요? 여기 잠깐 앉으세요.",
+   "rd": "mul jom deurilkkayo? yeogi jamkkan anjeuseyo.",
+   "en": "Want some water? Sit here for a bit.",
    "note": "",
    "tags": [],
    "new": [],
@@ -140,14 +140,14 @@
      "mul"
     ],
     [
-     "드세",
-     "드세다",
-     "deuseda"
+     "드릴",
+     "드리다",
+     "deurida"
     ],
     [
-     "의자",
-     "의자",
-     "uija"
+     "잠깐",
+     "잠깐",
+     "jamkkan"
     ],
     [
      "앉",
@@ -214,23 +214,28 @@
   {
    "num": 8,
    "speaker": "B",
-   "ko": "한국 아주머니들은 원래 이래요. 그냥 다 받아요.",
-   "rd": "hanguk ajumeonideureun wollae iraeyo. geunyang da badayo.",
-   "en": "Korean aunties are always like this. Just take it all.",
+   "ko": "다들 원래 이렇게 챙겨요. 그냥 받으셔도 돼요.",
+   "rd": "dadeul wollae ireoke chaenggyeoyo. geunyang badeusyeodo dwaeyo.",
+   "en": "People here always look out for you like this. It's fine to just take it.",
    "note": "",
    "tags": [],
    "new": [],
    "emotion": "amused",
    "lemmas": [
     [
-     "한국",
-     "한국",
-     "hanguk"
-    ],
-    [
      "원래",
      "원래",
      "wollae"
+    ],
+    [
+     "이렇게",
+     "이렇게",
+     "ireoke"
+    ],
+    [
+     "챙겨",
+     "챙기다",
+     "chaenggida"
     ]
    ]
   }
@@ -238,6 +243,7 @@
  "review": {
   "grok_rewrite": "data/review/r1_survival_s7_grok_rewrite.md [K222]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [5, 8] Grok(빠른) 재작성"
  }
 }

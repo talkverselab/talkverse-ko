@@ -129,9 +129,9 @@
   {
    "num": 5,
    "speaker": "C",
-   "ko": "(쿵) 헐, 둘 다 넘어졌어!",
-   "rd": "(kung) heol, dul da neomeojyeosseo!",
-   "en": "(thud) Whoa, you both fell!",
+   "ko": "(쿵) 헐, 둘 다 넘어졌네 진짜?",
+   "rd": "(kung) heol, dul da neomeojyeonne jinjja?",
+   "en": "(thud) Whoa, you both actually fell?",
    "note": "",
    "tags": [],
    "new": [],
@@ -142,6 +142,11 @@
      "넘어졌",
      "넘어지다",
      "neomeojida"
+    ],
+    [
+     "진짜",
+     "진짜",
+     "jinjja"
     ]
    ]
   },
@@ -170,9 +175,9 @@
   {
    "num": 7,
    "speaker": "A",
-   "ko": "응… 근데 나 네 발 밟았지? 미안.",
-   "rd": "eung… geunde na ne bal balbatji? mian.",
-   "en": "Yeah… but I stepped on your foot, right? Sorry.",
+   "ko": "응… 근데 나 발 밟았잖아, 미안.",
+   "rd": "eung… geunde na bal balbatjana, mian.",
+   "en": "Yeah… but I stepped on your foot, you know. Sorry.",
    "note": "",
    "tags": [],
    "new": [],
@@ -223,6 +228,7 @@
  "review": {
   "grok_rewrite": "data/review/r1_love_a14_grok_rewrite.md [K218]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [5, 7] Grok(빠른) 재작성"
  }
 }

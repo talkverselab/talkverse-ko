@@ -1,0 +1,1 @@
+5 C: 더 많이 발라! 아끼지 마. 한 입 먹어 봐. / Put on more! Don't hold back. Try a bite. / ‘자,’를 덜어냄.

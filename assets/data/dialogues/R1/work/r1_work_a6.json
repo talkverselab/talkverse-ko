@@ -133,9 +133,9 @@
   {
    "num": 4,
    "speaker": "C",
-   "ko": "ㅋㅋ 괜찮아요. 석 달 동안 아무도 안 고쳐 줬네요. 😄",
-   "rd": "ㅋㅋ gwaenchanayo. seok dal dongan amudo an gochyeo jwonneyo.",
-   "en": "Haha it's fine. Nobody corrected it for three months.",
+   "ko": "ㅋㅋ 괜찮아요. 그냥 다들 김으로 알고 있었나 봐요.",
+   "rd": "ㅋㅋ gwaenchanayo. geunyang dadeul gimeuro algo isseonna bwayo.",
+   "en": "Haha it's fine. Guess everyone just thought it was Kim.",
    "note": "",
    "tags": [],
    "new": [],
@@ -147,19 +147,14 @@
      "gwaenchanta"
     ],
     [
-     "달",
-     "달",
-     "dal"
+     "김",
+     "김",
+     "gim"
     ],
     [
-     "동안",
-     "동안",
-     "dongan"
-    ],
-    [
-     "고쳐",
-     "고치다",
-     "gochida"
+     "알",
+     "알다",
+     "alda"
     ]
    ]
   },
@@ -241,9 +236,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "…내일부터 명패를 좀 크게 바꿔야겠네요. 박으로.",
-   "rd": "…naeilbuteo myeongpaereul jom keuge bakkwoyagenneyo. bageuro.",
-   "en": "…Guess I need a bigger nameplate from tomorrow. Saying Park.",
+   "ko": "ㅋㅋ 내일 명패 좀 키워둘게요. 박이라고 크게요.",
+   "rd": "ㅋㅋ naeil myeongpae jom kiwodulgeyo. bagirago keugeyo.",
+   "en": "Haha I'll make the nameplate bigger tomorrow. With Park in big letters.",
    "note": "",
    "tags": [],
    "new": [],
@@ -261,19 +256,19 @@
      "myeongpae"
     ],
     [
-     "크",
-     "크다",
-     "keuda"
-    ],
-    [
-     "바꿔",
-     "바꾸다",
-     "bakkuda"
+     "키워",
+     "키우다",
+     "kiuda"
     ],
     [
      "박",
      "박",
      "bak"
+    ],
+    [
+     "크",
+     "크다",
+     "keuda"
     ]
    ]
   },
@@ -314,6 +309,7 @@
   "grok_rewrite": "data/review/r1_work_a6_grok_rewrite.md [K358]",
   "final": "",
   "shorten": "data/review/r1_work_a6_grok_short.md [K420] 턴 [4]",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [4, 7] Grok(빠른) 재작성"
  }
 }

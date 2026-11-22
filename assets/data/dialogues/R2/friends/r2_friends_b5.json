@@ -303,9 +303,9 @@
   {
    "num": 10,
    "speaker": "C",
-   "ko": "헐 진짜? 내가 앞 편의점에서 케이크 사 올게!",
-   "rd": "heol jinjja? naega ap pyeonuijeomeseo keikeu sa olge!",
-   "en": "Whoa really? I'll grab a cake from the convenience store out front!",
+   "ko": "헐 진짜? 몰랐어! 축하해! 우리 뭐 시킬까?",
+   "rd": "heol jinjja? mollasseo! chukahae! uri mwo sikilkka?",
+   "en": "Whoa, for real? I had no idea! Happy birthday! Should we order something?",
    "note": "",
    "tags": [],
    "new": [],
@@ -317,38 +317,28 @@
      "jinjja"
     ],
     [
-     "앞",
-     "앞",
-     "ap"
+     "몰",
+     "모르다",
+     "moreuda"
     ],
     [
-     "편의점",
-     "편의점",
-     "pyeonuijeom"
+     "축하",
+     "축하",
+     "chuka"
     ],
     [
-     "케이크",
-     "케이크",
-     "keikeu"
-    ],
-    [
-     "사",
-     "사다",
-     "sada"
-    ],
-    [
-     "올",
-     "오다",
-     "oda"
+     "시킬",
+     "시키다",
+     "sikida"
     ]
    ]
   },
   {
    "num": 11,
    "speaker": "B",
-   "ko": "사장님이 서비스로 30분 넣어 주셨어. 완전 생일 파티 됐네. 😊",
-   "rd": "sajangnimi seobiseuro 30bun neoeo jusyeosseo. wanjeon saengil pati dwaenne.",
-   "en": "The owner threw in 30 free minutes. It totally turned into a birthday party.",
+   "ko": "방 시간 아직 좀 남았네. 완전 생일 파티 됐네. 😊",
+   "rd": "bang sigan ajik jom namanne. wanjeon saengil pati dwaenne. 😊",
+   "en": "We've still got some time left on the room. It totally turned into a birthday party.",
    "note": "파티 = party",
    "tags": [],
    "new": [],
@@ -356,19 +346,24 @@
    "emotion": "cheerful",
    "lemmas": [
     [
-     "사장",
-     "사장",
-     "sajang"
+     "방",
+     "방",
+     "bang"
     ],
     [
-     "서비스",
-     "서비스",
-     "seobiseu"
+     "시간",
+     "시간",
+     "sigan"
     ],
     [
-     "넣",
-     "넣다",
-     "neota"
+     "아직",
+     "아직",
+     "ajik"
+    ],
+    [
+     "남",
+     "남다",
+     "namda"
     ],
     [
      "완전",
@@ -413,6 +408,7 @@
  "review": {
   "grok_rewrite": "data/review/r2_friends_b5_grok_rewrite.md [K362]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [10, 11] Grok(빠른) 재작성"
  }
 }

@@ -278,9 +278,9 @@
   {
    "num": 6,
    "speaker": "B",
-   "ko": "왜 이래? 커튼 밑으로 발 다 보이는데? (펑!) 헐, 풍선 터졌어? 😱",
-   "rd": "wae irae? keoteun mideuro bal da boineunde? (peong!) heol, pungseon teojyeosseo?",
-   "en": "What's going on? I can see feet under the curtain? (pop!) Whoa, did a balloon just pop?",
+   "ko": "뭐야 왜 그래? 커튼 밑으로 발 다 보이는데? (펑!) 헐, 풍선 터졌어?",
+   "rd": "mwoya wae geurae? keoteun miteuro bal da boineunde? (peong!) heol, pungseon teojyeosseo?",
+   "en": "What, what’s going on? I can see all the feet under the curtain? (pop!) Whoa, a balloon just popped?",
    "note": "",
    "tags": [],
    "new": [],
@@ -290,6 +290,11 @@
      "왜",
      "왜",
      "wae"
+    ],
+    [
+     "그래",
+     "그러다",
+     "geureoda"
     ],
     [
      "커튼",
@@ -326,9 +331,9 @@
   {
    "num": 7,
    "speaker": "C",
-   "ko": "아 씨, 놀라서 케이크 놓쳤어! 빨리 잡아, 미끄러진다!",
-   "rd": "a ssi, nollaseo keikeu nochyeosseo! ppalli jaba, mikkeureojinda!",
-   "en": "Damn, it startled me and I let go of the cake! Grab it, it's sliding!",
+   "ko": "아 씨 깜짝이야! 케이크 놓쳤어! 빨리 잡아 미끄러진다!",
+   "rd": "a ssi kkamjjagiya! keikeu notchyeosseo! ppalli jaba mikkeureojinda!",
+   "en": "Oh shit that startled me! I dropped the cake! Grab it quick, it’s sliding!",
    "note": "",
    "tags": [],
    "new": [],
@@ -341,9 +346,9 @@
      "ssi"
     ],
     [
-     "놀라",
-     "놀라다",
-     "nollada"
+     "깜짝",
+     "깜짝",
+     "kkamjjak"
     ],
     [
      "케이크",
@@ -370,9 +375,9 @@
   {
    "num": 8,
    "speaker": "A",
-   "ko": "(쿵) …케이크 바닥으로 갔어. 크림 다 뭉개졌어.",
-   "rd": "(kung) …keikeu badageuro gasseo. keurim da munggaejyeosseo.",
-   "en": "(thud) …The cake hit the floor. The cream's all squished.",
+   "ko": "(쿵) 아… 케이크 바닥 쳤어. 크림 완전 뭉개졌어.",
+   "rd": "(kung) a… keikeu badak chyeosseo. keurim wanjeon munggaejyeosseo.",
+   "en": "(thud) Ah… the cake hit the floor. Cream’s totally squished.",
    "note": "",
    "tags": [],
    "new": [],
@@ -389,9 +394,9 @@
      "badak"
     ],
     [
-     "갔",
-     "가다",
-     "gada"
+     "쳤",
+     "치다",
+     "chida"
     ],
     [
      "크림",
@@ -399,9 +404,14 @@
      "keurim"
     ],
     [
-     "뭉개",
-     "뭉개다",
-     "munggaeda"
+     "완전",
+     "완전",
+     "wanjeon"
+    ],
+    [
+     "뭉개졌",
+     "뭉개지다",
+     "munggaejida"
     ]
    ]
   },
@@ -506,9 +516,9 @@
   {
    "num": 12,
    "speaker": "C",
-   "ko": "초는 멀쩡해! 남은 데 꽂자. 빨리 노래!",
-   "rd": "choneun meoljjeonghae! nameun de kkotja. ppalli norae!",
-   "en": "The candles are fine! Stick them in what's left. Quick, the song!",
+   "ko": "초는 안 망가졌어! 남은 데 꽂고 빨리 노래 불러!",
+   "rd": "choneun an manggajyeosseo! nameun de kkotgo ppalli norae bulleo!",
+   "en": "Candles aren’t broken! Stick ’em in what’s left and sing the song quick!",
    "note": "",
    "tags": [],
    "new": [],
@@ -520,9 +530,9 @@
      "cho"
     ],
     [
-     "멀쩡",
-     "멀쩡",
-     "meoljjeong"
+     "망가졌",
+     "망가지다",
+     "manggajida"
     ],
     [
      "남",
@@ -543,15 +553,20 @@
      "노래",
      "노래",
      "norae"
+    ],
+    [
+     "불",
+     "부르다",
+     "bureuda"
     ]
    ]
   },
   {
    "num": 13,
    "speaker": "A",
-   "ko": "생일 축하합니다… 바닥에 앉아서 부르는 생일 노래라니… 😳",
-   "rd": "saengil chukahamnida… badage anjaseo bureuneun saengil noraerani…",
-   "en": "Happy birthday to you… singing it sitting on the floor, of all things…",
+   "ko": "생일 축하합니다… 바닥에 앉아서 부르니까 완전 웃기네… 😳",
+   "rd": "saengil chukahamnida… badage anjaseo bureunikka wanjeon utgine… 😳",
+   "en": "Happy birthday to you… singing it sitting on the floor is totally funny…",
    "note": "",
    "tags": [],
    "new": [],
@@ -584,14 +599,14 @@
      "bureuda"
     ],
     [
-     "생일",
-     "생일",
-     "saengil"
+     "완전",
+     "완전",
+     "wanjeon"
     ],
     [
-     "노래",
-     "노래",
-     "norae"
+     "웃기",
+     "웃기다",
+     "utgida"
     ]
    ]
   },
@@ -649,6 +664,11 @@
      "badak"
     ],
     [
+     "그래",
+     "그러다",
+     "geureoda"
+    ],
+    [
      "최고",
      "최고",
      "choego"
@@ -698,6 +718,7 @@
   "grok_rewrite": "data/review/r3_love_b5_grok_rewrite.md [K377]",
   "final": "",
   "shorten": "data/review/r3_love_b5_grok_tail.md [K424] 턴 [15, 16]",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [6, 7, 8, 12, 13] Grok(빠른) 재작성"
  }
 }

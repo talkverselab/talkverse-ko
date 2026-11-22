@@ -86,9 +86,9 @@
   {
    "num": 3,
    "speaker": "B",
-   "ko": "고마워요. 근데 저녁에 반찬 좀 가져갈게요.",
-   "rd": "gomawoyo. geunde jeonyeoge banchan jom gajyeogalgeyo.",
-   "en": "Thank you. But I'll bring some side dishes over this evening.",
+   "ko": "아 고마워요. 저녁에 반찬 좀 들고 갈게요.",
+   "rd": "a gomawoyo. jeonyeoge banchan jom deulgo galgeyo.",
+   "en": "Oh thanks. I'll bring some banchan over this evening.",
    "note": "",
    "tags": [],
    "new": [],
@@ -108,9 +108,14 @@
      "banchan"
     ],
     [
-     "가져갈",
-     "가져가다",
-     "gajyeogada"
+     "들",
+     "들다",
+     "deulda"
+    ],
+    [
+     "갈",
+     "가다",
+     "gada"
     ]
    ]
   },
@@ -195,9 +200,9 @@
   {
    "num": 7,
    "speaker": "B",
-   "ko": "그 버튼 3년 동안 몰랐어요. 김치도 한 통 줄게요.",
-   "rd": "geu beoteun 3nyeon dongan mollasseoyo. gimchido han tong julgeyo.",
-   "en": "Nobody knew that button for 3 years. I'll give you a tub of kimchi too.",
+   "ko": "그거 3년이나 몰랐네요. 김치도 한 통 줄게요.",
+   "rd": "geugeo 3nyeonina mollanneyo. gimchido han tong julgeyo.",
+   "en": "We didn't know that for 3 years. I'll give you a tub of kimchi too.",
    "note": "",
    "tags": [],
    "new": [],
@@ -206,16 +211,6 @@
    "art": "scene/ko/r1_life_c2/cut4",
    "emotion": "cheerful",
    "lemmas": [
-    [
-     "버튼",
-     "버튼",
-     "beoteun"
-    ],
-    [
-     "동안",
-     "동안",
-     "dongan"
-    ],
     [
      "몰",
      "모르다",
@@ -271,6 +266,7 @@
  "review": {
   "grok_rewrite": "data/review/r1_life_c2_grok_rewrite.md [K131]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [3, 7] Grok(빠른) 재작성"
  }
 }

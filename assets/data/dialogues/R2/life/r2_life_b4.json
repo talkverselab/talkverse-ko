@@ -243,9 +243,9 @@
   {
    "num": 9,
    "speaker": "B",
-   "ko": "네, 짖는 소리 들리면 문자 주세요. 제 번호 드릴게요.",
-   "rd": "ne, jinneun sori deullimyeon munja juseyo. je beonho deurilgeyo.",
-   "en": "Yes, text me if you hear him bark. I'll give you my number.",
+   "ko": "응, 그러면 짖을 때 톡 주세요. 번호 알려줄게요.",
+   "rd": "eung, geureomyeon jijeul ttae tok juseyo. beonho allyeojulgeyo.",
+   "en": "Yeah, just text me when he barks. I’ll give you my number.",
    "note": "",
    "tags": [],
    "new": [],
@@ -258,19 +258,14 @@
      "jitda"
     ],
     [
-     "소리",
-     "소리",
-     "sori"
+     "때",
+     "때",
+     "ttae"
     ],
     [
-     "들리",
-     "들리다",
-     "deullida"
-    ],
-    [
-     "문자",
-     "문자",
-     "munja"
+     "톡",
+     "톡",
+     "tok"
     ],
     [
      "주",
@@ -283,9 +278,9 @@
      "beonho"
     ],
     [
-     "드릴",
-     "드리다",
-     "deurida"
+     "알려",
+     "알리다",
+     "allida"
     ]
    ]
   },
@@ -360,6 +355,7 @@
  "review": {
   "grok_rewrite": "data/review/r2_life_b4_grok_rewrite.md [K363]",
   "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)"
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [9] Grok(빠른) 재작성"
  }
 }

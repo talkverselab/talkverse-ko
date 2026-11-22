@@ -1,0 +1,2 @@
+11 B: 야 불 다시 들어왔다, 근데 아이스크림 이미 다 해치웠네? / Yo the lights are back, but we already finished all the ice cream? / 불 들어옴과 아이스크림 소진을 한 호흡으로 자연스럽게 연결하고 말끝을 구어체로 바꿈
+12 C: 아 몰라, 비 멈추면 편의점 가서 또 사자. / Whatever, when the rain stops let’s just hit the store and get more. / ‘가자’ 뒤에 이유 설명을 없애고 제안형으로 어순·말끝을 바꿔 더 자연스럽게 만듦
