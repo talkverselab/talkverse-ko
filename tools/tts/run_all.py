@@ -14,8 +14,20 @@ def sh(*a, check=True, **k):
     return subprocess.run(a, check=check, capture_output=True, text=True, **k)
 
 
+UNTIL = os.environ.get('RUN_UNTIL')  # 'HH:MM' — 이 시각 15분 전부터는 새 PC 작업을 넣지 않고 끝낸다(다른 언어와 3090 을 나눠 쓸 때, 2026-11-22)
+
+
+def past_deadline():
+    if not UNTIL:
+        return False
+    h, m = map(int, UNTIL.split(':')); now = time.localtime(); left = (h * 60 + m) - (now.tm_hour * 60 + now.tm_min)
+    return now.tm_hour < 12 and left < 15
+
+
 def pc_run():
     """작업 스케줄러를 돌리고 JOB_END 까지 기다린다."""
+    if past_deadline():
+        log('마감', UNTIL, '— 새 PC 작업 안 넣고 멈춤(같은 명령으로 이어받기)'); sys.exit(0)
     while 'Ready' not in sh('ssh', PC, "(Get-ScheduledTask -TaskName 'TTS job 2060').State", check=False).stdout:
         time.sleep(30)                     # 앞선 작업(참고 음성 등)이 끝날 때까지
     sh('scp', '-q', f'{work}/job/moss_jobs.json', f'{PC}:D:/tts_test/job/')
