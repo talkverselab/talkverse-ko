@@ -30,9 +30,40 @@ class DramaTurn {
   final bool bubble;
   final String? art;
   final List<DramaLemma> lemmas;
-  const DramaTurn({required this.num, required this.speaker, required this.ko, required this.rd, required this.en, required this.note, this.at, this.bubble = false, this.art, this.lemmas = const []});
+  /// 녹음 음성이 대사와 일부러 다르게 읽는 판(학습자 성별에 따른 누나/형 등) — 이 문장의 녹음도 「맞는 음성」으로 본다.
+  final List<String> voiceAlt;
+  const DramaTurn({required this.num, required this.speaker, required this.ko, required this.rd, required this.en, required this.note, this.at, this.bubble = false, this.art, this.lemmas = const [], this.voiceAlt = const []});
   /// 본문만 바꾼 사본(생성 음성이 읽은 판). 영어 뜻·메모는 그대로.
-  DramaTurn withText({String? ko, String? rd}) => DramaTurn(num: num, speaker: speaker, ko: ko ?? this.ko, rd: rd ?? this.rd, en: en, note: note, at: at, bubble: bubble, art: art, lemmas: lemmas);
+  DramaTurn withText({String? ko, String? rd}) => DramaTurn(num: num, speaker: speaker, ko: ko ?? this.ko, rd: rd ?? this.rd, en: en, note: note, at: at, bubble: bubble, art: art, lemmas: lemmas, voiceAlt: voiceAlt);
+
+  /// 녹음 문장이 이 대사(또는 [voiceAlt])와 맞는가 — 대사가 바뀌어 옛 음성이 남은 턴은 false → 화면은 지금 대사, 소리는 기기 TTS
+  /// (사용자 지시 2026-11-22 「음성이 없는건 TTS로」). 새 음성이 올라오면 문장이 맞아 그때부터 녹음이 먼저 나온다.
+  bool matchesVoice(String recorded) => sameVoiceText(recorded, ko) || voiceAlt.any((a) => sameVoiceText(recorded, a));
+
+  /// 한글·숫자만 견준다. 대사의 {name}·{country} 자리는 녹음판의 어떤 말이든 맞는 것으로, 그 뒤 조사(아/야, 이에요/예요)는 두 글자까지 봐준다.
+  /// 녹음 문장이 비어 있으면(옛 목록) 맞는 것으로 둔다.
+  static bool sameVoiceText(String recorded, String ko) {
+    String n(String s) => s.replaceAll(RegExp(r'[^가-힣0-9]'), '');
+    final r = n(recorded);
+    if (r.isEmpty) return true;
+    final parts = ko.split(RegExp(r'\{[a-z_]+\}')).map(n).toList();
+    var at = 0;
+    for (var i = 0; i < parts.length; i++) {
+      var p = parts[i];
+      if (p.isEmpty) continue;
+      var j = -1;
+      for (var k = 0; k < (i == 0 ? 1 : 3) && k < p.length; k++) {
+        j = r.indexOf(p.substring(k), at);
+        if (j >= 0) {
+          p = p.substring(k);
+          break;
+        }
+      }
+      if (j < 0 || (i == 0 && j != 0)) return false;
+      at = j + p.length;
+    }
+    return parts.length > 1 || at == r.length;
+  }
   factory DramaTurn.fromJson(Map<String, dynamic> j) => DramaTurn(
         num: j['num'] as int? ?? 0,
         speaker: j['speaker'] as String? ?? 'A',
@@ -47,6 +78,7 @@ class DramaTurn {
           for (final l in (j['lemmas'] as List? ?? const []))
             if (l is List && l.length >= 2) DramaLemma('${l[0]}', '${l[1]}', l.length > 2 ? '${l[2]}' : ''),
         ],
+        voiceAlt: [for (final a in (j['voice_alt'] as List? ?? const [])) '$a'],
       );
 }
 
@@ -78,7 +110,7 @@ class DramaEpisode {
   /// 화면에 보일 턴: 생성 음성이 있으면 그 음성이 읽는 본문(학습자 성별판) — 듣는 말과 글이 같아야 한다.
   DramaTurn view(DramaTurn t) {
     final l = ContentSync.instance.audioIndex[id]?[t.num]?[LearnerPrefs.isFemale ? 'f' : 'm'];
-    if (l == null || l.text.isEmpty) return t;
+    if (l == null || l.text.isEmpty || !t.matchesVoice(l.text)) return t;
     return t.withText(ko: l.text, rd: l.rd.isEmpty ? null : l.rd);
   }
 

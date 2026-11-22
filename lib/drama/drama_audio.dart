@@ -10,7 +10,7 @@ import 'drama_service.dart';
 
 /// 회화 턴의 생성 음성(mp4) — 일본어앱 `dialogue_audio.dart` 를 옮김(구조 = 일본어앱 `docs/DIALOGUE_AUDIO.md`).
 /// 목록은 `ContentSync.audioIndex`(편 → 턴 → 판 m·f). 기기에 받은 파일이 있으면 파일, 없으면 주소로 재생.
-/// 음성이 없는 턴은 기기 음성(TTS)으로 읽는다 — 한국어 음성이 DB 에 올라오기 전에는 전부 TTS.
+/// 음성이 없는 턴·대사가 바뀌어 옛 음성이 안 맞는 턴은 기기 음성(TTS)으로 읽는다(DramaTurn.matchesVoice).
 class DramaAudio {
   DramaAudio._();
   static final DramaAudio instance = DramaAudio._();
@@ -19,14 +19,18 @@ class DramaAudio {
   Completer<void>? _wait;
   int _gen = 0;
 
-  AudioLine? line(String episodeId, int turn) => ContentSync.instance.audioIndex[episodeId]?[turn]?[LearnerPrefs.isFemale ? 'f' : 'm'];
+  /// 그 턴의 녹음 음성. [t] 를 주면 녹음 문장이 대사와 안 맞을 때(대사가 바뀐 옛 음성) null → 기기 TTS.
+  AudioLine? line(String episodeId, int turn, {DramaTurn? t}) {
+    final l = ContentSync.instance.audioIndex[episodeId]?[turn]?[LearnerPrefs.isFemale ? 'f' : 'm'];
+    return (l == null || t == null || t.matchesVoice(l.text)) ? l : null;
+  }
 
   /// 이름 자리가 있는 턴마다 음성이 있는가(있으면 이름을 묻지 않는다 — 음성판의 이름으로 보인다).
-  bool covers(DramaEpisode e) => e.turns.every((t) => !t.ko.contains('{name}') || line(e.id, t.num) != null);
+  bool covers(DramaEpisode e) => e.turns.every((t) => !t.ko.contains('{name}') || line(e.id, t.num, t: t) != null);
 
   /// 음성을 끝까지 재생한다. 음성이 없거나 재생에 실패하면 false(부르는 쪽이 TTS 로 넘긴다).
-  Future<bool> play(String episodeId, int turn, {double rate = 1.0}) async {
-    final l = line(episodeId, turn);
+  Future<bool> play(String episodeId, int turn, {double rate = 1.0, DramaTurn? t}) async {
+    final l = line(episodeId, turn, t: t);
     if (l == null) return false;
     final my = ++_gen;
     try {
@@ -69,7 +73,7 @@ class DramaAudio {
 
 /// 턴 하나 읽기: 생성 음성이 있으면 그것, 없으면 기기 음성. 끝날 때까지 기다린다.
 Future<void> speakTurn(DramaEpisode e, DramaTurn t, {double rate = 1.0}) async {
-  if (await DramaAudio.instance.play(e.id, t.num, rate: rate)) return;
+  if (await DramaAudio.instance.play(e.id, t.num, rate: rate, t: t)) return;
   // 지문·ㅋㅋ·이모지(어조사 턴에 붙는 감정 이모지)는 소리 내지 않는다
   final s = DramaEpisode.fill(t.ko).replaceAll(RegExp(r'\([^)]*\)'), '').replaceAll(RegExp(r'[ㅋㅎㅠㅜ]+'), '').replaceAll(RegExp(r'[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}\u{2B50}\u{FE0F}]', unicode: true), '').trim();
   if (s.isNotEmpty) await TtsService.instance.speakAndWait(s, rate: 0.45 * rate);

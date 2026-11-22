@@ -53,7 +53,7 @@
 "dialogues/R0/love/r0_love_c4.json": "eca50f3bd21d",
 "dialogues/R0/love/r0_love_c5.json": "cf35910cc675",
 "dialogues/R0/love/r0_love_c6.json": "d6c49a39d1ca",
-"dialogues/R0/love/r0_love_c7.json": "32ab962ed877",
+"dialogues/R0/love/r0_love_c7.json": "3f61789c9653",
 "dialogues/R0/love/r0_love_c8.json": "ea52bd9301ec",
 "dialogues/R0/love/r0_love_c9.json": "79845ea86876",
 "dialogues/R0/study/r0_study_a1.json": "92a7c11834b7",
@@ -93,7 +93,7 @@
 "dialogues/R1/culture/r1_culture_c1.json": "f361f0ed6132",
 "dialogues/R1/culture/r1_culture_c2.json": "7fb72d7a2b97",
 "dialogues/R1/culture/r1_culture_c3.json": "58af571cd588",
-"dialogues/R1/friends/r1_friends_a1.json": "85debd456243",
+"dialogues/R1/friends/r1_friends_a1.json": "5b82a468baf6",
 "dialogues/R1/friends/r1_friends_a10.json": "5bd24b095248",
 "dialogues/R1/friends/r1_friends_a11.json": "9ba0c066fe57",
 "dialogues/R1/friends/r1_friends_a2.json": "ccdd71bd5c90",
@@ -131,7 +131,7 @@
 "dialogues/R1/love/r1_love_a16.json": "679e384447bc",
 "dialogues/R1/love/r1_love_a17.json": "c1b10142cd31",
 "dialogues/R1/love/r1_love_a18.json": "527ea929c7c0",
-"dialogues/R1/love/r1_love_a19.json": "7f97d2ae543e",
+"dialogues/R1/love/r1_love_a19.json": "a59fe00fd5fd",
 "dialogues/R1/love/r1_love_a2.json": "eb95e6c5bb80",
 "dialogues/R1/love/r1_love_a20.json": "b0f3bd485506",
 "dialogues/R1/love/r1_love_a21.json": "f69919686541",
@@ -142,7 +142,7 @@
 "dialogues/R1/love/r1_love_a5.json": "403a8cd5a494",
 "dialogues/R1/love/r1_love_a6.json": "49ae2d69437f",
 "dialogues/R1/love/r1_love_a7.json": "e5f53c9e01db",
-"dialogues/R1/love/r1_love_a8.json": "3f088da52575",
+"dialogues/R1/love/r1_love_a8.json": "3deb47495533",
 "dialogues/R1/love/r1_love_a9.json": "9a5c0e02f96e",
 "dialogues/R1/love/r1_love_b1.json": "33a8ce581d16",
 "dialogues/R1/love/r1_love_c1.json": "0f9cb4b5b6a9",
@@ -154,7 +154,7 @@
 "dialogues/R1/love/r1_love_c3.json": "6f244763fb09",
 "dialogues/R1/love/r1_love_c4.json": "8a04dbb9f10c",
 "dialogues/R1/love/r1_love_c5.json": "a2d3ec7bc968",
-"dialogues/R1/love/r1_love_c6.json": "a5816d80352d",
+"dialogues/R1/love/r1_love_c6.json": "114875323fb7",
 "dialogues/R1/love/r1_love_c7.json": "19defe82484e",
 "dialogues/R1/love/r1_love_c8.json": "4af43c2863af",
 "dialogues/R1/love/r1_love_c9.json": "daf5836b4b3a",
@@ -252,5 +252,5 @@
 "dialogues/R3/work/r3_work_b2.json": "f852c0ae2638",
 "grammar/sense_course.json": "f0bc1aaad9c4"
 },
-"rev": 5
+"rev": 6
 }
