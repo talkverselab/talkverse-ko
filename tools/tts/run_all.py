@@ -14,14 +14,14 @@ def sh(*a, check=True, **k):
     return subprocess.run(a, check=check, capture_output=True, text=True, **k)
 
 
-UNTIL = os.environ.get('RUN_UNTIL')  # 'HH:MM' — 이 시각 15분 전부터는 새 PC 작업을 넣지 않고 끝낸다(다른 언어와 3090 을 나눠 쓸 때, 2026-11-22)
+UNTIL = os.environ.get('RUN_UNTIL')  # 'HH:MM' — 이 시각 뒤에는 새 PC 작업을 넣지 않고 끝낸다(다른 언어와 3090 을 나눠 쓸 때, 2026-11-22)
 
 
 def past_deadline():
     if not UNTIL:
         return False
     h, m = map(int, UNTIL.split(':')); now = time.localtime(); left = (h * 60 + m) - (now.tm_hour * 60 + now.tm_min)
-    return now.tm_hour < 12 and left < 15
+    return now.tm_hour < 12 and left <= 0
 
 
 def pc_run():
