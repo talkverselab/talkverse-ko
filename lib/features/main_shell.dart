@@ -7,6 +7,7 @@ import '../core/pane.dart';
 import '../core/platform.dart';
 import '../db/database.dart';
 import '../curriculum/curriculum_screen.dart';
+import '../curriculum/custom_script_screen.dart';
 import '../drama/card_screen.dart';
 import '../drama/drama_service.dart';
 import '../drama/drama_theme.dart';
@@ -288,7 +289,7 @@ class _LearnTabState extends State<LearnTab> {
             style: const TextStyle(fontSize: 13, color: DramaColors.body, fontWeight: FontWeight.w500),
           ),
           _section(tr('토크버스 커리큘럼')),
-          CurriculumHomeCard(onOpen: () => _open((_) => const CurriculumScreen())),
+          const CurriculumHomeCard(),
           _section(tr('오늘의 컷')),
           if (_ready) _TodayCut(onBack: () => setState(() {})) else const SizedBox(height: 200),
           _section(tr('기초')),
@@ -301,6 +302,8 @@ class _LearnTabState extends State<LearnTab> {
           _NavRow(seal: '漢', color: DramaColors.ink, title: tr('한자 연습'), subtitle: tr('하루 3자 · 소리 부품이 같은 가족부터'), onTap: () => _open((_) => const HanjaPracticeScreen())),
           _section(tr('회화')),
           _NavRow(seal: '회화', title: tr('주제별 회화 R0~R4'), subtitle: tr('모든 문장 듣기 · 그림 카드 · 왕초보/초보'), onTap: () => _open((_) => const SeriesScreen())),
+          // AI 회화 작성 — 일본어앱과 같은 화면, 작성기가 켜지고 사용자가 정할 때까지 숨김(CURRICULUM_SPEC §11)
+          if (kCustomScriptLive) _NavRow(seal: '✨', title: tr('맞춤 회화 만들기'), subtitle: tr('주제·상황·레벨 → 나만의 1편 · 첫 편 무료'), onTap: () => _open((_) => const CustomScriptScreen())),
           _section(tr('단어')),
           _NavRow(seal: '단어', title: tr('절벽 단어 R1~R5'), subtitle: tr('20어 단원 · 타일 · 회화 단어 포함'), onTap: () => _open((_) => const VocabularyScreen())),
         ],
