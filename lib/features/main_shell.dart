@@ -6,6 +6,7 @@ import '../core/l10n.dart';
 import '../core/pane.dart';
 import '../core/platform.dart';
 import '../db/database.dart';
+import '../curriculum/curriculum_screen.dart';
 import '../drama/card_screen.dart';
 import '../drama/drama_service.dart';
 import '../drama/drama_theme.dart';
@@ -286,6 +287,8 @@ class _LearnTabState extends State<LearnTab> {
             tr('오늘도 한 장면씩 가요'),
             style: const TextStyle(fontSize: 13, color: DramaColors.body, fontWeight: FontWeight.w500),
           ),
+          _section(tr('토크버스 커리큘럼')),
+          CurriculumHomeCard(onOpen: () => _open((_) => const CurriculumScreen())),
           _section(tr('오늘의 컷')),
           if (_ready) _TodayCut(onBack: () => setState(() {})) else const SizedBox(height: 200),
           _section(tr('기초')),
