@@ -1,8 +1,10 @@
 import 'dart:convert';
+import 'dart:io';
 import 'dart:math';
 
 import 'package:flutter/foundation.dart';
 
+import 'package:flutter/services.dart' show rootBundle;
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../core/embed_env.dart';
@@ -281,6 +283,46 @@ List<String> recommend(List<DramaEpisode> levelList, Set<String> passed, Set<Str
   return out;
 }
 
+
+/// 커리큘럼 단계(§12, 11-23): 1~5단계. 어느 편이 어느 단계인지는 서버(`/api/curriculum/ko`) — 앱에는 기본값 `assets/curriculum_ko.json`.
+class CurStage {
+  final int n;
+  final String title, desc;
+  final List<String> ids;
+  const CurStage(this.n, this.title, this.desc, this.ids);
+  String get key => '$n';
+}
+
+/// 서버·묶음 JSON 을 단계 목록으로. 형식이 틀리면 null(→ 회화 레벨 기준으로 돌아감).
+({int rev, List<CurStage> stages})? parsePlan(String body) {
+  try {
+    final j = json.decode(body) as Map<String, dynamic>;
+    final st = [
+      for (final s in (j['stages'] as List).cast<Map<String, dynamic>>())
+        CurStage((s['n'] as num).toInt(), '${s['title'] ?? '${s['n']}단계'}', '${s['desc'] ?? ''}', [for (final x in (s['dialogueIds'] as List? ?? const [])) '$x']),
+    ]..sort((a, b) => a.n.compareTo(b.n));
+    return (rev: (j['rev'] as num?)?.toInt() ?? 0, stages: st);
+  } catch (_) {
+    return null;
+  }
+}
+
+/// 옛 저장값(R0~R5)을 단계 번호로: R0·R1 → 1, R2 → 2 … R5 → 5.
+String stageOfLegacy(String level) {
+  final m = RegExp(r'^R(\d)$').firstMatch(level);
+  if (m == null) return level;
+  final r = int.parse(m.group(1)!);
+  return '${r <= 1 ? 1 : r}';
+}
+
+/// 서버 단계표가 없을 때의 기본: 회화 레벨로 묶는다.
+List<CurStage> fallbackStages() => [
+      for (var n = 1; n <= 5; n++)
+        CurStage(n, '$n단계', '', [
+          for (final r in (n == 1 ? const ['R0', 'R1'] : ['R$n'])) ...DramaService.instance.list(r).map((e) => e.id),
+        ]),
+    ];
+
 class CurriculumService {
   CurriculumService._();
   static final CurriculumService instance = CurriculumService._();
@@ -304,15 +346,89 @@ class CurriculumService {
         state = CurriculumState.fromJson(json.decode(raw) as Map);
       } catch (_) {}
     }
+    if (state.level != null) state.level = stageOfLegacy(state.level!);
+    await _loadPlan();
     _loaded = true;
+    if (network) refreshPlan().catchError((_) => false);
   }
+
+  // ── 단계표 ──
+  List<CurStage> _stages = [];
+  int planRev = 0;
+  @visibleForTesting
+  static bool network = true;
+  static const planUrl = 'https://talkverse.uk/api/curriculum/ko';
+  static const _planAsset = 'assets/curriculum_ko.json';
+  String get _planKey => pk('curriculum_plan');
+
+  /// 묶음 기본값 → 기기에 받아 둔 서버 판(rev 가 더 크면).
+  Future<void> _loadPlan() async {
+    try {
+      final b = parsePlan(utf8.decode((await rootBundle.load(assetPath(_planAsset))).buffer.asUint8List()));
+      if (b != null) {
+        _stages = b.stages;
+        planRev = b.rev;
+      }
+    } catch (_) {}
+    final cached = (await SharedPreferences.getInstance()).getString(_planKey);
+    final c = cached == null ? null : parsePlan(cached);
+    if (c != null && c.rev > planRev) {
+      _stages = c.stages;
+      planRev = c.rev;
+    }
+  }
+
+  /// 서버 단계표를 보고 rev 가 더 크면 받아 바꾼다. 바뀌었으면 true.
+  Future<bool> refreshPlan({Future<String?> Function(String url)? fetch}) async {
+    final body = await (fetch ?? _get)(planUrl);
+    if (body == null) return false;
+    final p = parsePlan(body);
+    if (p == null || p.rev <= planRev || p.stages.isEmpty) return false;
+    _stages = p.stages;
+    planRev = p.rev;
+    await (await SharedPreferences.getInstance()).setString(_planKey, body);
+    changed.value++;
+    return true;
+  }
+
+  static Future<String?> _get(String url) async {
+    final c = HttpClient()..connectionTimeout = const Duration(seconds: 8);
+    try {
+      final req = await c.getUrl(Uri.parse(url));
+      final res = await req.close().timeout(const Duration(seconds: 10));
+      if (res.statusCode != 200) return null;
+      return await res.transform(utf8.decoder).join();
+    } catch (_) {
+      return null;
+    } finally {
+      c.close(force: true);
+    }
+  }
+
+  @visibleForTesting
+  void setStagesForTest(List<CurStage> s, {int rev = 0}) {
+    _stages = s;
+    planRev = rev;
+  }
+
+  List<CurStage> get _allStages => _stages.isNotEmpty ? _stages : fallbackStages();
+
+  /// 보이는 단계 — 앱에 있는 편이 하나라도 있는 것만.
+  List<CurStage> get stages => [for (final s in _allStages) if (s.ids.any((id) => DramaService.instance.byId(id) != null)) s];
+
+  CurStage? stage(String? key) => _allStages.where((s) => s.key == key).firstOrNull;
+  String stageTitle(String? key) => stage(key)?.title ?? (key ?? '');
+
+  /// 오답 보기용 — 같은 회화 레벨 다른 편(§10).
+  List<DramaEpisode> poolFor(DramaEpisode d) => DramaService.instance.list(d.region);
 
   Future<void> save() async {
     await (await SharedPreferences.getInstance()).setString(pk(key), json.encode(state.toJson()));
     changed.value++;
   }
 
-  List<DramaEpisode> levelList([String? level]) => (level ?? state.level) == null ? <DramaEpisode>[] : DramaService.instance.list((level ?? state.level)!);
+  /// 단계의 편(앱에 없는 id 는 건너뜀).
+  List<DramaEpisode> levelList([String? level]) => [for (final id in stage(level ?? state.level)?.ids ?? const <String>[]) ?DramaService.instance.byId(id)];
 
   /// 레벨의 편을 모두 통과했나.
   bool levelDone(String level) {
@@ -320,13 +436,11 @@ class CurriculumService {
     return l.isNotEmpty && l.every((d) => state.passedDialogues.contains(d.id));
   }
 
-  /// 다음 레벨(편이 있는 것), 없으면 null.
+  /// 다음 단계(편이 있는 것), 없으면 null.
   String? nextLevel(String level) {
-    const lv = DramaService.levels;
-    for (var i = lv.indexOf(level) + 1; i < lv.length; i++) {
-      if (DramaService.instance.count(lv[i]) > 0) return lv[i];
-    }
-    return null;
+    final v = stages;
+    final i = v.indexWhere((s) => s.key == level);
+    return i >= 0 && i + 1 < v.length ? v[i + 1].key : null;
   }
 
   Future<void> startCourse(List<String> ids) async {

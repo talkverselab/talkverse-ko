@@ -101,7 +101,7 @@ class _CurriculumScreenState extends State<CurriculumScreen> {
     for (final r in due) {
       final d = DramaService.instance.byId(r.dialogueId);
       if (d == null) continue;
-      qs.addAll(buildQuestions(d, limit: 1, pool: _svc.levelList(d.region), seed: seed, onlyTurns: {r.turn}));
+      qs.addAll(buildQuestions(d, limit: 1, pool: _svc.poolFor(d), seed: seed, onlyTurns: {r.turn}));
     }
     if (qs.isEmpty) {
       // 원고가 바뀌어 줄이 없어진 항목은 대기열에서 뺀다
@@ -124,7 +124,7 @@ class _CurriculumScreenState extends State<CurriculumScreen> {
           if (!_loading && _st.level != null && !_levelPick)
             TextButton(
               onPressed: () => setState(() => _levelPick = true),
-              child: Text('${_st.level} ${tr(DramaService.levelKo[_st.level] ?? '')}', style: const TextStyle(fontWeight: FontWeight.w800, color: DramaColors.jade)),
+              child: Text(tr(_svc.stageTitle(_st.level)), style: const TextStyle(fontWeight: FontWeight.w800, color: DramaColors.jade)),
             ),
         ],
       ),
@@ -139,32 +139,32 @@ class _CurriculumScreenState extends State<CurriculumScreen> {
 
   // ── 레벨 고르기 ──
   List<Widget> _levelPicker() {
-    final lowest = DramaService.levels.firstWhere((l) => DramaService.instance.count(l) > 0, orElse: () => 'R1');
+    final st = _svc.stages; // 단계표(서버 → 기기 → 묶음) 중 앱에 편이 있는 단계만
     return [
-      Text(tr('회화 레벨을 골라요'), style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w800, color: DramaColors.ink)),
+      Text(tr('단계를 골라요'), style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w800, color: DramaColors.ink)),
       const SizedBox(height: 4),
-      Text(tr('처음이면 가장 낮은 레벨부터 권해요. 문법 레벨과는 따로예요.'), style: const TextStyle(fontSize: 12.5, color: DramaColors.muted)),
+      Text(tr('처음이면 1단계부터 권해요. 문법 단계와는 따로예요.'), style: const TextStyle(fontSize: 12.5, color: DramaColors.muted)),
       const SizedBox(height: 12),
-      for (final lv in DramaService.levels)
-        if (DramaService.instance.count(lv) > 0)
-          _card(
-            onTap: () => _setLevel(lv),
-            selected: _st.level == lv,
-            child: Row(children: [
-              CurSeal(text: lv, size: 40, color: DramaColors.jade),
-              const SizedBox(width: 12),
-              Expanded(
-                child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                  Text(tr(DramaService.levelKo[lv] ?? lv), style: const TextStyle(fontWeight: FontWeight.w800, color: DramaColors.ink)),
-                  Text(
-                    trf('{0}편 · 통과 {1}', [DramaService.instance.count(lv), _svc.levelList(lv).where((d) => _st.passedDialogues.contains(d.id)).length]),
-                    style: const TextStyle(fontSize: 12, color: DramaColors.muted),
-                  ),
-                ]),
-              ),
-              if (_st.level == null && lv == lowest) _pill(tr('추천'), DramaColors.jade),
-            ]),
-          ),
+      for (final sg in st)
+        _card(
+          onTap: () => _setLevel(sg.key),
+          selected: _st.level == sg.key,
+          child: Row(children: [
+            CurSeal(text: '${sg.n}', size: 40, color: DramaColors.jade),
+            const SizedBox(width: 12),
+            Expanded(
+              child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                Text(tr(sg.title), style: const TextStyle(fontWeight: FontWeight.w800, color: DramaColors.ink)),
+                if (sg.desc.isNotEmpty) Text(tr(sg.desc), style: const TextStyle(fontSize: 12.5, color: DramaColors.body)),
+                Text(
+                  trf('{0}편 · 통과 {1}', [_svc.levelList(sg.key).length, _svc.levelList(sg.key).where((d) => _st.passedDialogues.contains(d.id)).length]),
+                  style: const TextStyle(fontSize: 12, color: DramaColors.muted),
+                ),
+              ]),
+            ),
+            if (_st.level == null && sg == st.first) _pill(tr('추천'), DramaColors.jade),
+          ]),
+        ),
     ];
   }
 
@@ -307,7 +307,7 @@ class _CurriculumScreenState extends State<CurriculumScreen> {
         const SizedBox(height: 12),
         _card(
           onTap: () => _setLevel(_svc.nextLevel(lv)!),
-          child: Text(trf('{0} 편을 모두 통과했어요 → {1} 로', [lv, _svc.nextLevel(lv)!]), style: const TextStyle(fontWeight: FontWeight.w800, color: DramaColors.jade)),
+          child: Text(trf('{0} 편을 모두 통과했어요 → {1} 로', [tr(_svc.stageTitle(lv)), tr(_svc.stageTitle(_svc.nextLevel(lv)))]), style: const TextStyle(fontWeight: FontWeight.w800, color: DramaColors.jade)),
         ),
       ],
     ];
@@ -327,7 +327,7 @@ class _CurriculumScreenState extends State<CurriculumScreen> {
         const SizedBox(height: 8),
         _card(
           onTap: () => _setLevel(next),
-          child: Text(trf('{0} 편을 모두 통과했어요 → {1} 로', [lv, next]), style: const TextStyle(fontWeight: FontWeight.w800, color: DramaColors.jade)),
+          child: Text(trf('{0} 편을 모두 통과했어요 → {1} 로', [tr(_svc.stageTitle(lv)), tr(_svc.stageTitle(next))]), style: const TextStyle(fontWeight: FontWeight.w800, color: DramaColors.jade)),
         ),
       ],
       const SizedBox(height: 10),
@@ -463,7 +463,7 @@ class _CurriculumPracticeScreenState extends State<CurriculumPracticeScreen> {
     _stop = true;
     await DramaAudio.instance.stop();
     final svc = CurriculumService.instance;
-    final qs = buildQuestions(d, limit: 10, pool: svc.levelList(d.region), seed: DateTime.now().millisecondsSinceEpoch);
+    final qs = buildQuestions(d, limit: 10, pool: svc.poolFor(d), seed: DateTime.now().millisecondsSinceEpoch);
     if (!mounted) return;
     final res = await openFull<QuizResult>(context, (_) => CurriculumQuizScreen(title: d.title, questions: qs, mode: QuizMode.practice));
     if (res == null || !mounted) return;

@@ -133,6 +133,7 @@ void main() {
   for (final w in [390.0, 300.0]) {
     testWidgets('코스 고르기 칩 줄 넘침 없음 — 폭 $w', (t) async {
       SharedPreferences.setMockInitialValues({'ko_curriculum_v1': '{"level":"R0","dailyGoal":2}'});
+      CurriculumService.network = false;
       t.view.physicalSize = Size(w, 800);
       t.view.devicePixelRatio = 1;
       addTearDown(t.view.reset);
@@ -148,4 +149,30 @@ void main() {
       expect(t.takeException(), isNull);
     });
   }
+
+  group('§12 단계표(서버 → 기기 → 묶음)', () {
+    test('형식 읽기·옛 R 값 → 단계', () {
+      final p = parsePlan('{"rev":3,"stages":[{"n":2,"title":"2단계","dialogueIds":["b"]},{"n":1,"title":"1단계","desc":"d","dialogueIds":["a","없는편"]}]}')!;
+      expect(p.rev, 3);
+      expect(p.stages.map((s) => s.n), [1, 2]);
+      expect(parsePlan('깨진 글'), isNull);
+      expect(stageOfLegacy('R0'), '1');
+      expect(stageOfLegacy('R1'), '1');
+      expect(stageOfLegacy('R3'), '3');
+      expect(stageOfLegacy('2'), '2');
+    });
+
+    test('서버 rev 가 크면 바꾸고, 작거나 같으면 그대로', () async {
+      SharedPreferences.setMockInitialValues({});
+      final svc = CurriculumService.instance;
+      svc.setStagesForTest(const [CurStage(1, '1단계', '', ['x'])], rev: 2);
+      expect(await svc.refreshPlan(fetch: (_) async => '{"rev":2,"stages":[{"n":1,"title":"옛","dialogueIds":["y"]}]}'), isFalse);
+      expect(svc.stage('1')!.ids, ['x']);
+      expect(await svc.refreshPlan(fetch: (_) async => '{"rev":5,"stages":[{"n":1,"title":"새 1단계","dialogueIds":["y"]},{"n":2,"title":"2단계","dialogueIds":[]}]}'), isTrue);
+      expect(svc.planRev, 5);
+      expect(svc.stageTitle('1'), '새 1단계');
+      expect(await svc.refreshPlan(fetch: (_) async => null), isFalse); // 서버 못 받음 → 그대로
+      expect(svc.stageTitle('1'), '새 1단계');
+    });
+  });
 }

@@ -92,6 +92,7 @@ flutter:
     - assets/seed/
     - assets/data/version.json
     - assets/data/script_rev.json
+    - assets/curriculum_ko.json
     - assets/data/grammar/sense_course.json
     - assets/data/vocab/loanwords.json
     - assets/data/hanja/families_ko.json
