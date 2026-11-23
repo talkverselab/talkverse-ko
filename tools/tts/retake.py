@@ -45,6 +45,6 @@ for rnd in range(4):
     for ep in eps:
         fetch(f'retake/{ep}')
 for ep in eps:
-    r = sh(sys.executable, f'{HERE}/pack.py', f'{work}/wav', ep, '--upload', check=False)
+    r = sh(sys.executable, f'{HERE}/pack.py', f'{work}/wav', ep, '--upload', '--skip-bad', check=False)  # 0.85 미만 조각이 든 줄은 목록에서 빼고(앱은 TTS)
     log(ep, '올림' if r.returncode == 0 else '실패 ' + (r.stderr or r.stdout)[-300:])
 log('끝')

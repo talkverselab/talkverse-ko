@@ -72,7 +72,8 @@ def main():
     tmp = tempfile.mkdtemp(); q = lambda s: "'" + s.replace("'", "''") + "'"
     # --skip-bad: 받아쓰기 불합격(qa.json ok=false) 조각이 든 줄은 서버 목록에 넣지 않는다 → 앱은 그 줄을 기기 TTS 로(uk 11-23, 재생성 전까지)
     QA = json.load(open(f'{wav}/qa.json', encoding='utf-8')) if SKIP and os.path.exists(f'{wav}/qa.json') else {}
-    bad = lambda ep, num, tag: any(k.startswith(f'{ep}/{num:02d}_') and k.endswith(f'_{tag}.wav') and v.get('ok') is False for k, v in QA.items())
+    SKIP_MIN = 0.85   # uk 11-23: 재생성 세 번 뒤에도 받아쓰기 0.85 미만인 조각이 든 줄은 넣지 않음(합격 기준 0.90 보다 조금 너그럽게)
+    bad = lambda ep, num, tag: any(k.startswith(f'{ep}/{num:02d}_') and k.endswith(f'_{tag}.wav') and v.get('sim', 1.0) < SKIP_MIN for k, v in QA.items())
     mf = f'{R}/data/tts/audio_ko.json'
     for ep0 in eps:
         ep = ep0 + var; src = f'{wav}/{var[1:]}' if var else wav
