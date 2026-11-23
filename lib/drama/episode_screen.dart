@@ -8,6 +8,7 @@ import '../services/learner_prefs.dart';
 import 'card_screen.dart';
 import 'drama_audio.dart';
 import 'drama_service.dart';
+import '../data/entitlement.dart';
 import 'drama_theme.dart';
 import 'learner_setup_dialog.dart';
 import 'lemma_chips.dart';
@@ -25,9 +26,11 @@ class EpisodeScreen extends StatefulWidget {
   final bool autoPlay;
   const EpisodeScreen({super.key, required this.ep, this.autoPlay = false});
 
-  static Future<void> open(BuildContext context, DramaEpisode ep, {bool autoPlay = false}) {
+  static Future<void> open(BuildContext context, DramaEpisode ep, {bool autoPlay = false}) async {
+    // R2 이상 편은 이용권(PAYWALL_SPEC §2) — 잠겼으면 결제 화면, 사면 그대로 연다
+    if (!await Entitlement.gate(context, Entitlement.canOpenEpisode(ep)) || !context.mounted) return;
     DramaService.instance.markOpened(ep.id);
-    return Navigator.of(context, rootNavigator: true).push(MaterialPageRoute(builder: (_) => EpisodeScreen(ep: ep, autoPlay: autoPlay)));
+    await Navigator.of(context, rootNavigator: true).push(MaterialPageRoute(builder: (_) => EpisodeScreen(ep: ep, autoPlay: autoPlay)));
   }
 
   @override
@@ -424,6 +427,10 @@ class _NextEpisode extends StatelessWidget {
                     style: FilledButton.styleFrom(backgroundColor: DramaColors.jade),
                     onPressed: () {
                       onClose();
+                      if (!Entitlement.canOpenEpisode(next!)) {
+                        Entitlement.showPaywall(context); // 다음 편이 잠긴 단계면 결제 화면
+                        return;
+                      }
                       Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (_) => EpisodeScreen(ep: next!, autoPlay: true)));
                       DramaService.instance.markOpened(next!.id);
                     },

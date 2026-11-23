@@ -8,6 +8,7 @@ import '../../core/embed_env.dart';
 import '../../core/l10n.dart';
 import '../../core/pane.dart';
 import '../../core/platform.dart';
+import '../../data/entitlement.dart';
 import '../../drama/drama_theme.dart';
 import '../../drama/roman_toggle.dart';
 import '../../services/learner_prefs.dart';
@@ -106,8 +107,13 @@ class _SenseCourseScreenState extends State<SenseCourseScreen> {
     });
   }
 
+  /// 이 회차의 급이 무료 범위인가(PAYWALL_SPEC §2 — 언어감각 freeSenseLevels 급까지 무료).
+  bool _levelOpen(Map<String, dynamic> lv) => Entitlement.canOpenSenseLevel(SenseCourse.visibleLevels(_data!).indexWhere((x) => x['id'] == lv['id']));
+
   Future<void> _open(int index) async {
-    final ls = SenseCourse.flat(_data!)[index].$2;
+    final item = SenseCourse.flat(_data!)[index];
+    if (!await Entitlement.gate(context, _levelOpen(item.$1)) || !mounted) return;
+    final ls = item.$2;
     if (ls['open'] == 'loanwords') {
       await openPane(context, (_) => const LoanwordScreen(rulesFirst: true)); // 참고 = 외국어 발음 규칙 화면
       return;
@@ -190,7 +196,9 @@ class _SenseCourseScreenState extends State<SenseCourseScreen> {
                     child: Text(ls['title'] as String,
                         style: const TextStyle(fontSize: 15, fontWeight: FontWeight.w700, color: DramaColors.ink)),
                   ),
-                  if (isDone)
+                  if (!_levelOpen(lv))
+                    const Icon(Icons.lock_outline, color: DramaColors.muted, size: 20)
+                  else if (isDone)
                     const Icon(Icons.check_circle, color: DramaColors.jade, size: 20)
                   else if (isNext)
                     Text(tr('다음'), style: const TextStyle(fontSize: 12, fontWeight: FontWeight.w800, color: DramaColors.jade)),

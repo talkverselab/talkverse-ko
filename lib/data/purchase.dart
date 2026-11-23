@@ -41,6 +41,9 @@ class Purchase {
   static final products = ValueNotifier<Map<String, ProductDetails>>(const {});
   /// 구매 진행 상태 알림(화면이 듣고 안내): null = 없음, 'pending' · 'error' · 'done' · 'restored' · 'nothing'
   static final status = ValueNotifier<String?>(null);
+  /// 상품 불러오기: 'loading' · 'ok' · 'failed'(스토어 연결 실패 — 결제 화면은 「잠시 뒤 다시 시도」, 끝없이 돌지 않음)
+  static final loadState = ValueNotifier<String>('loading');
+  static bool _silent = false; // 시작 때 조용한 복원 조회 중(화면 안내 없이)
   static StreamSubscription<List<PurchaseDetails>>? _sub;
   static bool _restoring = false, _restoredAny = false;
   /// 옛 평생 상품 ID(2026-11-02 첫 판) — 복원·영수증에 오면 `lang_<코드>_life` 로 친다.
@@ -60,17 +63,47 @@ class Purchase {
     final p = await SharedPreferences.getInstance();
     final raw = p.getString(pk('iap_owned2'));
     final m = <String, int>{if (raw != null) ...(jsonDecode(raw) as Map).map((k, v) => MapEntry('$k', (v as num).toInt()))};
+    // 이용권 저장(PAYWALL_SPEC §4): <언어>_entitlement_v1 + 종합은 전 언어 공통 all_entitlement_v1
+    for (final k in [pk('entitlement_v1'), 'all_entitlement_v1']) {
+      final r = p.getString(k);
+      if (r == null) continue;
+      try {
+        (jsonDecode(r) as Map).forEach((id, v) => m['$id'] = (v as num).toInt());
+      } catch (_) {}
+    }
     if ((p.getStringList(pk('iap_owned')) ?? const []).contains(code)) m['lang_${code}_life'] = 0; // 옛 저장 방식(평생 하나)
     owned.value = m;
     Account.user.addListener(_onAccount);
-    if (kIsWeb || !(Platform.isIOS || Platform.isAndroid)) return;
+    if (kIsWeb || !(Platform.isIOS || Platform.isAndroid)) {
+      loadState.value = 'failed';
+      return;
+    }
     // 통합 앱에서는 구매 스트림을 통합 앱 하나만 듣는다 — 그쪽이 [onUpdates] 로 넘겨준다(DESIGN.md §4)
     if (!Embed.embedded) _sub ??= InAppPurchase.instance.purchaseStream.listen(_onUpdates, onError: (_) => status.value = 'error');
+    await loadProducts();
+    // 시작 때 조용한 복원 조회는 안드로이드만(PAYWALL_SPEC §4 · uk 11-23 보충) — iOS 는 Apple ID 창이 뜰 수 있어
+    // 미완료 거래 자동 수신(purchaseStream) + 「구매 복원」 단추로만.
+    if (!Embed.embedded && Platform.isAndroid) {
+      _silent = true;
+      try {
+        await InAppPurchase.instance.restorePurchases();
+      } catch (_) {}
+      Future.delayed(const Duration(seconds: 6), () => _silent = false);
+    }
+  }
+
+  /// 스토어에서 상품·가격을 받는다(10초 제한). 못 받으면 loadState = 'failed'.
+  static Future<void> loadProducts() async {
+    loadState.value = 'loading';
     try {
-      if (!await InAppPurchase.instance.isAvailable()) return;
-      final r = await InAppPurchase.instance.queryProductDetails({for (final x in list) x.id});
+      if (!await InAppPurchase.instance.isAvailable().timeout(const Duration(seconds: 10))) {
+        loadState.value = 'failed';
+        return;
+      }
+      final r = await InAppPurchase.instance.queryProductDetails({for (final x in plans) x.id}).timeout(const Duration(seconds: 10));
       products.value = {for (final d in r.productDetails) d.id: d};
     } catch (_) {}
+    loadState.value = products.value.isEmpty ? 'failed' : 'ok';
   }
 
   /// 스토어 표시 가격(예 ₩3,900). 상품을 못 받았으면 null.
@@ -133,7 +166,7 @@ class Purchase {
           if (id != null) {
             await _grant(id, pd);
             _restoredAny = true;
-            status.value = pd.status == PurchaseStatus.restored ? 'restored' : 'done';
+            if (!(_silent && pd.status == PurchaseStatus.restored)) status.value = pd.status == PurchaseStatus.restored ? 'restored' : 'done';
             if (_restoring) _restoring = false;
           }
       }
@@ -155,6 +188,15 @@ class Purchase {
     if (!keep) owned.value = {...owned.value, id: exp};
     final p = await SharedPreferences.getInstance();
     await p.setString(pk('iap_owned2'), jsonEncode(owned.value));
+    await p.setString(pk('entitlement_v1'), jsonEncode(owned.value));
+    final all = {for (final e in owned.value.entries) if (e.key.startsWith('all_')) e.key: e.value};
+    if (all.isNotEmpty) {
+      Map<String, dynamic> prev = {};
+      try {
+        prev = jsonDecode(p.getString('all_entitlement_v1') ?? '{}') as Map<String, dynamic>;
+      } catch (_) {}
+      await p.setString('all_entitlement_v1', jsonEncode({...prev, ...all}));
+    }
     // 서버로 보낼 영수증 — 로그인 전이면 쌓아 두었다가 로그인 때 보낸다
     final rec = {
       'platform': Platform.isIOS ? 'ios' : 'android',

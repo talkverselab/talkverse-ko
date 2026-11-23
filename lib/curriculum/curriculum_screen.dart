@@ -4,6 +4,7 @@ import '../core/l10n.dart';
 import '../core/pane.dart';
 import '../core/platform.dart';
 import 'curriculum_service.dart';
+import '../data/entitlement.dart';
 import '../drama/drama_audio.dart';
 import '../drama/drama_service.dart';
 import '../drama/drama_theme.dart';
@@ -35,13 +36,22 @@ class _CurriculumScreenState extends State<CurriculumScreen> {
       setState(() {
         _pickCount = _svc.pickDefault; // 단계표 pick
         _loading = false;
-        _levelPick = _st.level == null;
+        _levelPick = _st.level == null || !_stageOpen(_st.level); // 잠긴 단계(이용권 만료 등)면 단계 고르기로
         _picking = _st.level != null && _st.course == null;
       });
     });
   }
 
+  bool _stageOpen(String? key) {
+    final sg = _svc.stage(key);
+    return sg == null || Entitlement.canOpenStage(sg);
+  }
+
   Future<void> _setLevel(String lv) async {
+    if (!_stageOpen(lv)) {
+      // 잠긴 단계 → 결제 화면(PAYWALL_SPEC §3). 사면 그대로 들어간다.
+      if (!await Entitlement.gate(context, false)) return;
+    }
     _st.level = lv;
     await _svc.save();
     setState(() {
@@ -164,7 +174,10 @@ class _CurriculumScreenState extends State<CurriculumScreen> {
                 ),
               ]),
             ),
-            if (_st.level == null && sg == st.first) _pill(tr('추천'), DramaColors.jade),
+            if (!Entitlement.canOpenStage(sg))
+              const Icon(Icons.lock_outline, color: DramaColors.muted, size: 20)
+            else if (_st.level == null && sg == st.first)
+              _pill(tr('추천'), DramaColors.jade),
           ]),
         ),
     ];

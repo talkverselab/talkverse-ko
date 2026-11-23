@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../core/l10n.dart';
 import '../core/platform.dart';
 import 'drama_service.dart';
+import '../data/entitlement.dart';
 import '../services/content_sync.dart';
 import 'drama_theme.dart';
 import 'episode_screen.dart';
@@ -155,7 +156,10 @@ class _EpisodeCard extends StatelessWidget {
                   child: Text('EP.$no${ep.cliche ? ' 🎬' : ''}', style: const TextStyle(color: Colors.white, fontSize: 11, fontWeight: FontWeight.w800)),
                 ),
               ),
-              if (seen) const Positioned(right: 8, top: 8, child: Icon(Icons.check_circle, color: DramaColors.jade, size: 20)),
+              if (!Entitlement.canOpenEpisode(ep))
+                Positioned(right: 8, top: 8, child: Container(padding: const EdgeInsets.all(4), decoration: BoxDecoration(color: DramaColors.ink.withValues(alpha: 0.8), shape: BoxShape.circle), child: const Icon(Icons.lock, color: Colors.white, size: 16)))
+              else if (seen)
+                const Positioned(right: 8, top: 8, child: Icon(Icons.check_circle, color: DramaColors.jade, size: 20)),
             ]),
             Padding(
               padding: const EdgeInsets.fromLTRB(10, 8, 10, 0),
