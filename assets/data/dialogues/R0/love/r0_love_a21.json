@@ -194,11 +194,5 @@
    ]
   }
  ],
- "learner_gender": "M",
- "review": {
-  "grok_rewrite": "data/review/r0_love_a21_grok_rewrite.md [K313]",
-  "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
-  "regen_20261122": "§9 손질 턴 [5, 6, 7] Grok(빠른) 재작성"
- }
+ "learner_gender": "M"
 }

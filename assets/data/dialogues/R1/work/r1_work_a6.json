@@ -304,12 +304,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_work_a6_grok_rewrite.md [K358]",
-  "final": "",
-  "shorten": "data/review/r1_work_a6_grok_short.md [K420] 턴 [4]",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
-  "regen_20261122": "§9 손질 턴 [4, 7] Grok(빠른) 재작성"
- }
+ ]
 }

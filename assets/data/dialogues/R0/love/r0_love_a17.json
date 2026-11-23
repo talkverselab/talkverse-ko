@@ -204,9 +204,5 @@
    "lemmas": []
   }
  ],
- "learner_gender": "M",
- "review": {
-  "grok_rewrite": "data/review/r0_love_a17_grok_rewrite.md [K309]",
-  "final": ""
- }
+ "learner_gender": "M"
 }

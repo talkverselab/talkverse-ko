@@ -221,9 +221,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r0_study_a3_grok_rewrite.md [K179]",
-  "final": ""
- }
+ ]
 }

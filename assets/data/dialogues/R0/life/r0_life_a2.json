@@ -204,9 +204,5 @@
    ]
   }
  ],
- "review": {
-  "grok_rewrite": "data/review/r0_life_a2_grok_rewrite.md [K085]",
-  "final": ""
- },
  "twist_type": "slip"
 }

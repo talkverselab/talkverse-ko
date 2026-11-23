@@ -231,9 +231,5 @@
    ]
   }
  ],
- "learner_gender": "F",
- "review": {
-  "grok_rewrite": "data/review/r1_culture_c2_grok_rewrite.md [K156]",
-  "final": ""
- }
+ "learner_gender": "F"
 }

@@ -445,9 +445,5 @@
    ]
   }
  ],
- "review": {
-  "grok_rewrite": "data/review/r3_culture_b1_grok_rewrite.md [K062]",
-  "final": ""
- },
  "twist_type": "slip"
 }

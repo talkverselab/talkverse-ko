@@ -194,9 +194,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r0_culture_a7_grok_rewrite.md [K302]",
-  "final": ""
- }
+ ]
 }

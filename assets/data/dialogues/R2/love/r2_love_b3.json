@@ -294,13 +294,6 @@
    ]
   }
  ],
- "review": {
-  "grok_rewrite": "data/review/r2_love_b3_grok_rewrite.md [K028]",
-  "final": "",
-  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
-  "regen_20261122": "§9 손질 턴 [10, 11] Grok(빠른) 재작성"
- },
  "learner_gender": "M",
  "twist_type": "chaos"
 }

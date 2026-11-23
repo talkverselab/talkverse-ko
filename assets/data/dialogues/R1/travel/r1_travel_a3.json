@@ -196,9 +196,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_travel_a3_grok_rewrite.md [K144]",
-  "final": ""
- }
+ ]
 }

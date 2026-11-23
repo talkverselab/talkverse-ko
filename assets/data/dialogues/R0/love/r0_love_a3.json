@@ -207,10 +207,6 @@
   }
  ],
  "initiator": "A",
- "review": {
-  "grok_rewrite": "data/review/r0_love_a3_grok_rewrite.md [K031]",
-  "final": ""
- },
  "learner_gender": "M",
  "twist_type": "emotion"
 }

@@ -3,7 +3,7 @@
 남은 턴이 없으면 종료 코드 1."""
 import json, re, sys
 e = json.load(open(sys.argv[1], encoding='utf-8')); code = sys.argv[2]
-m = re.search(r'턴 \[([\d, ]+)\]', e.get('review', {}).get('final', ''))
+m = re.search(r'턴 \[([\d, ]+)\]', __import__('review_meta').get(e['id']).get('final', ''))
 if not m: sys.exit(1)
 nums = [int(x) for x in m[1].split(',')]
 LEN = {'R0': '1문장, 2~5어절', 'R1': '1~2문장', 'R2': '1~2문장', 'R3': '1~3문장', 'R4': '1~3문장'}

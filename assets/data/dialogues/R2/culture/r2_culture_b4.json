@@ -353,9 +353,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r2_culture_b4_grok_rewrite.md [K147]",
-  "final": ""
- }
+ ]
 }

@@ -296,10 +296,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_culture_c3_grok_rewrite.md [K329]",
-  "final": "",
-  "shorten": "data/review/r1_culture_c3_grok_short.md [K405] 턴 [7]"
- }
+ ]
 }

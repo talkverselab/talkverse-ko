@@ -180,9 +180,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r0_friends_a7_grok_rewrite.md [K304]",
-  "final": ""
- }
+ ]
 }

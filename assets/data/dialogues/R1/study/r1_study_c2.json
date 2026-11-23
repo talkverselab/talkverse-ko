@@ -280,13 +280,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_study_c2_grok_rewrite.md [K351]",
-  "final": "",
-  "shorten": "data/review/r1_study_c2_short.md [K965] 턴 [1]",
-  "manual": "턴 8 어절 1개 덜어냄(세션)",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
-  "regen_20261122": "§9 손질 턴 [1, 4, 5, 7] Grok(빠른) 재작성"
- }
+ ]
 }

@@ -182,9 +182,5 @@
    "lemmas": []
   }
  ],
- "learner_gender": "F",
- "review": {
-  "grok_rewrite": "data/review/r0_love_a16_grok_rewrite.md [K206]",
-  "final": ""
- }
+ "learner_gender": "F"
 }

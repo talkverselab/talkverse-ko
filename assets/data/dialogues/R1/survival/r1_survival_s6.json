@@ -234,9 +234,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_survival_s6_grok_rewrite.md [K192]",
-  "final": ""
- }
+ ]
 }

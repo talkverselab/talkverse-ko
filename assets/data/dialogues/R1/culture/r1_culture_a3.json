@@ -208,9 +208,5 @@
   }
  ],
  "learner_gender": "F",
- "initiator": "B",
- "review": {
-  "grok_rewrite": "data/review/r1_culture_a3_grok_rewrite.md [K127]",
-  "final": ""
- }
+ "initiator": "B"
 }

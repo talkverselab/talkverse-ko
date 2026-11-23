@@ -376,9 +376,5 @@
    ]
   }
  ],
- "learner_gender": "M",
- "review": {
-  "grok_rewrite": "data/review/r2_travel_b4_grok_rewrite.md [K370]",
-  "final": ""
- }
+ "learner_gender": "M"
 }

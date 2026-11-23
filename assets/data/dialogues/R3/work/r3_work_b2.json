@@ -492,10 +492,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r3_work_b2_grok_rewrite.md [K376]",
-  "final": "",
-  "shorten": "data/review/r3_work_b2_grok_tail.md [K427] 턴 [7, 8, 9, 10, 11, 12, 13, 14]"
- }
+ ]
 }

@@ -25,8 +25,8 @@ for t in e['turns']:
     if not t.get('rd_manual'):
         t['rd'] = rd_ko.to_rd(ko)
 if partial:
-    r = e.setdefault('review', {}); r['shorten'] = f'{md} [{code}] 턴 {sorted(got)}'
+    import review_meta; review_meta.update(e['id'], shorten=f'{md} [{code}] 턴 {sorted(got)}')
 else:
-    e['review'] = {'grok_rewrite': f'{md} [{code}]', 'final': '' if not missing else f'Grok 답이 끊겨 턴 {missing} 은 초안 유지'}
+    import review_meta; review_meta.replace(e['id'], {'grok_rewrite': f'{md} [{code}]', 'final': '' if not missing else f'Grok 답이 끊겨 턴 {missing} 은 초안 유지'})
 json.dump(e, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 print(p, len(got))

@@ -520,9 +520,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r3_friends_b3_grok_rewrite.md [K373]",
-  "final": ""
- }
+ ]
 }

@@ -251,10 +251,5 @@
    ]
   }
  ],
- "learner_gender": "F",
- "review": {
-  "grok_rewrite": "data/review/r1_culture_a7_grok_rewrite.md [K327]",
-  "final": "",
-  "shorten": "data/review/r1_culture_a7_grok_short.md [K403] 턴 [8]"
- }
+ "learner_gender": "F"
 }

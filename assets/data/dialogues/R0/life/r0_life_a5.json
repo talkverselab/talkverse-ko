@@ -191,9 +191,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r0_life_a5_grok_rewrite.md [K173]",
-  "final": ""
- }
+ ]
 }

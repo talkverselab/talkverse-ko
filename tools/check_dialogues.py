@@ -45,6 +45,8 @@ def check(path, fix):
     for k in NEED:
         if not e.get(k):
             err.append(f'메타 {k} 없음')
+    if 'review' in e or any(w in json.dumps(e, ensure_ascii=False) for w in ('Grok', 'grok', 'Claude', 'claude', 'Gemini')):
+        err.append('작업 기록·AI 이름이 편 파일에 있음 — tools/review_meta.py 로(uk 심사 점검 F)')
     reg = e.get('region', 'R1'); ts = e.get('turns', [])
     lo, hi = TURNS[reg]
     if not lo <= len(ts) <= hi:

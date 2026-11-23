@@ -232,9 +232,5 @@
    "at": "20:03",
    "lemmas": []
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_friends_c3_grok_rewrite.md [K215]",
-  "final": ""
- }
+ ]
 }

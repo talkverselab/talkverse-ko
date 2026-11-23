@@ -249,9 +249,5 @@
    ]
   }
  ],
- "learner_gender": "M",
- "review": {
-  "grok_rewrite": "data/review/r1_love_c6_grok_rewrite.md [K138]",
-  "final": ""
- }
+ "learner_gender": "M"
 }

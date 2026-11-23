@@ -230,9 +230,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_life_a3_grok_rewrite.md [K130]",
-  "final": ""
- }
+ ]
 }

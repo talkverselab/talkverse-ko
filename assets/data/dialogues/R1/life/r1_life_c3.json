@@ -257,9 +257,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_life_c3_grok_rewrite.md [K186]",
-  "final": ""
- }
+ ]
 }

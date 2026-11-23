@@ -177,9 +177,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_study_a6_grok_rewrite.md [K350]",
-  "final": ""
- }
+ ]
 }

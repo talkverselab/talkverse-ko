@@ -240,9 +240,5 @@
    ]
   }
  ],
- "review": {
-  "grok_rewrite": "data/review/r1_study_a1_grok_rewrite.md [K049]",
-  "final": ""
- },
  "twist_type": "slip"
 }

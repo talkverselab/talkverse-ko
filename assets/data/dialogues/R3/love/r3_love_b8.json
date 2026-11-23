@@ -453,10 +453,5 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M",
- "review": {
-  "grok_rewrite": "data/review/r3_love_b8_grok_rewrite.md [K375]",
-  "final": "",
-  "shorten": "data/review/r3_love_b8_grok_tail.md [K426] 턴 [10, 11, 12, 13, 14]"
- }
+ "learner_gender": "M"
 }

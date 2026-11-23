@@ -227,9 +227,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_work_c2_grok_rewrite.md [K224]",
-  "final": ""
- }
+ ]
 }

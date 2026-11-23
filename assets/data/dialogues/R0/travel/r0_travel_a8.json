@@ -207,11 +207,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r0_travel_a8_grok_rewrite.md [K323]",
-  "final": "",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
-  "regen_20261122": "§9 손질 턴 [3, 4, 5, 6] Grok(빠른) 재작성"
- }
+ ]
 }

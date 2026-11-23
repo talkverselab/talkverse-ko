@@ -264,10 +264,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_travel_c2_grok_rewrite.md [K356]",
-  "final": "",
-  "shorten": "data/review/r1_travel_c2_grok_short.md [K419] 턴 [8]"
- }
+ ]
 }

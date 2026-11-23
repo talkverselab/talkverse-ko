@@ -240,9 +240,5 @@
    ]
   }
  ],
- "review": {
-  "grok_rewrite": "data/review/r1_life_a2_grok_rewrite.md [K086]",
-  "final": ""
- },
  "twist_type": "chaos"
 }

@@ -209,9 +209,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r0_travel_a5_grok_rewrite.md [K211]",
-  "final": ""
- }
+ ]
 }

@@ -330,13 +330,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_life_c4_grok_rewrite.md [K339]",
-  "final": "",
-  "shorten": "data/review/r1_life_c4_grok_short.md [K411] 턴 [7]",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
-  "regen_20261122": "§9 손질 턴 [4, 5, 6, 7] Grok(빠른) 재작성",
-  "user_fix_20261122": "t5 「근데 왜 안 보이네」→「왜 안 보이지」(사용자 승인, uk 관리 페이지 22:35)"
- }
+ ]
 }

@@ -281,10 +281,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_life_a7_grok_rewrite.md [K336]",
-  "final": "",
-  "shorten": "data/review/r1_life_a7_grok_tail.md [K420] 턴 [7, 8]"
- }
+ ]
 }

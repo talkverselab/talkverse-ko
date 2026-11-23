@@ -1,0 +1,1132 @@
+{
+ "r0_culture_a1": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_culture_a1_grok_rewrite.md [K041]"
+ },
+ "r0_culture_a2": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_culture_a2_grok_rewrite.md [K111]"
+ },
+ "r0_culture_a3": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_culture_a3_grok_rewrite.md [K112]"
+ },
+ "r0_culture_a4": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_culture_a4_grok_rewrite.md [K171]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [5] Grok(빠른) 재작성",
+  "shorten": "data/review/r0_culture_a4_short.md [K967] 턴 [5]"
+ },
+ "r0_culture_a5": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_culture_a5_grok_rewrite.md [K201]"
+ },
+ "r0_culture_a6": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_culture_a6_grok_rewrite.md [K301]"
+ },
+ "r0_culture_a7": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_culture_a7_grok_rewrite.md [K302]"
+ },
+ "r0_friends_a1": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_friends_a1_grok_rewrite.md [K042]"
+ },
+ "r0_friends_a2": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_friends_a2_grok_rewrite.md [K103]"
+ },
+ "r0_friends_a3": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_friends_a3_grok_rewrite.md [K113]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [5, 7] Grok(빠른) 재작성"
+ },
+ "r0_friends_a4": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_friends_a4_grok_rewrite.md [K172]"
+ },
+ "r0_friends_a5": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_friends_a5_grok_rewrite.md [K202]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [4, 5, 6, 7] Grok(빠른) 재작성"
+ },
+ "r0_friends_a6": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_friends_a6_grok_rewrite.md [K303]"
+ },
+ "r0_friends_a7": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_friends_a7_grok_rewrite.md [K304]"
+ },
+ "r0_friends_c1": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_friends_c1_grok_rewrite.md [K305]"
+ },
+ "r0_life_a1": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_life_a1_grok_rewrite.md [K043]"
+ },
+ "r0_life_a10": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_life_a10_grok_rewrite.md [K306]"
+ },
+ "r0_life_a2": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_life_a2_grok_rewrite.md [K085]"
+ },
+ "r0_life_a3": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_life_a3_grok_rewrite.md [K114]"
+ },
+ "r0_life_a4": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_life_a4_grok_rewrite.md [K115]"
+ },
+ "r0_life_a5": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_life_a5_grok_rewrite.md [K173]"
+ },
+ "r0_life_a6": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_life_a6_grok_rewrite.md [K174]"
+ },
+ "r0_life_a7": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_life_a7_grok_rewrite.md [K203]"
+ },
+ "r0_life_a8": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_life_a8_grok_rewrite.md [K307]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [7] Grok(빠른) 재작성"
+ },
+ "r0_life_a9": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_life_a9_grok_rewrite.md [K308]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [7, 8] Grok(빠른) 재작성",
+  "shorten": "data/review/r0_life_a9_short.md [K962] 턴 [7]"
+ },
+ "r0_love_a1": {
+  "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정(6턴 「너」 뺌)",
+  "grok_rewrite": "data/review/r0_love_a1_grok_rewrite.md [K011]"
+ },
+ "r0_love_a10": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a10_grok_rewrite.md [K154]"
+ },
+ "r0_love_a11": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a11_grok_rewrite.md [K175]"
+ },
+ "r0_love_a12": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a12_grok_rewrite.md [K176]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [4, 5, 6, 7] Grok(빠른) 재작성"
+ },
+ "r0_love_a13": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a13_grok_rewrite.md [K177]"
+ },
+ "r0_love_a14": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a14_grok_rewrite.md [K204]"
+ },
+ "r0_love_a15": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a15_grok_rewrite.md [K205]"
+ },
+ "r0_love_a16": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a16_grok_rewrite.md [K206]"
+ },
+ "r0_love_a17": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a17_grok_rewrite.md [K309]"
+ },
+ "r0_love_a18": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a18_grok_rewrite.md [K310]"
+ },
+ "r0_love_a19": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a19_grok_rewrite.md [K311]"
+ },
+ "r0_love_a2": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a2_grok_rewrite.md [K021]"
+ },
+ "r0_love_a20": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a20_grok_rewrite.md [K312]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [6, 8] Grok(빠른) 재작성"
+ },
+ "r0_love_a21": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a21_grok_rewrite.md [K313]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [5, 6, 7] Grok(빠른) 재작성"
+ },
+ "r0_love_a22": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a22_grok_rewrite.md [K314]"
+ },
+ "r0_love_a3": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a3_grok_rewrite.md [K031]"
+ },
+ "r0_love_a4": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a4_grok_rewrite.md [K032]"
+ },
+ "r0_love_a5": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a5_grok_rewrite.md [K071]"
+ },
+ "r0_love_a6": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a6_grok_rewrite.md [K116]"
+ },
+ "r0_love_a7": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a7_grok_rewrite.md [K117]"
+ },
+ "r0_love_a8": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a8_grok_rewrite.md [K118]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [5, 6, 7, 8] Grok(빠른) 재작성"
+ },
+ "r0_love_a9": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_a9_grok_rewrite.md [K119]"
+ },
+ "r0_love_c1": {
+  "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정(8턴 줄임)",
+  "grok_rewrite": "data/review/r0_love_c1_grok_rewrite.md [K012]"
+ },
+ "r0_love_c2": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_c2_grok_rewrite.md [K022]"
+ },
+ "r0_love_c3": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_c3_grok_rewrite.md [K120]"
+ },
+ "r0_love_c4": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_c4_grok_rewrite.md [K121]"
+ },
+ "r0_love_c5": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_c5_grok_rewrite.md [K178]"
+ },
+ "r0_love_c6": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_c6_grok_rewrite.md [K207]"
+ },
+ "r0_love_c7": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_c7_grok_rewrite.md [K208]"
+ },
+ "r0_love_c8": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_c8_grok_rewrite.md [K315]"
+ },
+ "r0_love_c9": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_love_c9_grok_rewrite.md [K316]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [5, 7] Grok(빠른) 재작성"
+ },
+ "r0_study_a1": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_study_a1_grok_rewrite.md [K100]"
+ },
+ "r0_study_a2": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_study_a2_grok_rewrite.md [K122]"
+ },
+ "r0_study_a3": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_study_a3_grok_rewrite.md [K179]"
+ },
+ "r0_study_a4": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_study_a4_grok_rewrite.md [K209]"
+ },
+ "r0_study_a5": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_study_a5_grok_rewrite.md [K317]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [3, 7, 8] Grok(빠른) 재작성",
+  "shorten": "data/review/r0_study_a5_grok_short.md [K400] 턴 [4]"
+ },
+ "r0_study_a6": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_study_a6_grok_rewrite.md [K318]"
+ },
+ "r0_survival_s1": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_survival_s1_grok_rewrite.md [K123]"
+ },
+ "r0_survival_s2": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_survival_s2_grok_rewrite.md [K124]"
+ },
+ "r0_survival_s3": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_survival_s3_grok_rewrite.md [K180]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [6, 7, 8] Grok(빠른) 재작성"
+ },
+ "r0_survival_s4": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_survival_s4_grok_rewrite.md [K210]"
+ },
+ "r0_survival_s5": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_survival_s5_grok_rewrite.md [K319]"
+ },
+ "r0_survival_s6": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_survival_s6_grok_rewrite.md [K320]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [7, 8] Grok(빠른) 재작성"
+ },
+ "r0_travel_a1": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_travel_a1_grok_rewrite.md [K044]"
+ },
+ "r0_travel_a2": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_travel_a2_grok_rewrite.md [K089]"
+ },
+ "r0_travel_a3": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_travel_a3_grok_rewrite.md [K125]"
+ },
+ "r0_travel_a4": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_travel_a4_grok_rewrite.md [K181]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [7, 8] Grok(빠른) 재작성"
+ },
+ "r0_travel_a5": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_travel_a5_grok_rewrite.md [K211]"
+ },
+ "r0_travel_a6": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_travel_a6_grok_rewrite.md [K321]"
+ },
+ "r0_travel_a7": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_travel_a7_grok_rewrite.md [K322]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [4, 5, 8] Grok(빠른) 재작성",
+  "shorten": "data/review/r0_travel_a7_short.md [K963] 턴 [4, 8]"
+ },
+ "r0_travel_a8": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_travel_a8_grok_rewrite.md [K323]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [3, 4, 5, 6] Grok(빠른) 재작성"
+ },
+ "r0_work_a1": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_work_a1_grok_rewrite.md [K097]"
+ },
+ "r0_work_a2": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_work_a2_grok_rewrite.md [K126]"
+ },
+ "r0_work_a3": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_work_a3_grok_rewrite.md [K182]"
+ },
+ "r0_work_a4": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_work_a4_grok_rewrite.md [K212]"
+ },
+ "r0_work_a5": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_work_a5_grok_rewrite.md [K324]"
+ },
+ "r0_work_a6": {
+  "final": "",
+  "grok_rewrite": "data/review/r0_work_a6_grok_rewrite.md [K325]"
+ },
+ "r1_culture_a1": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_culture_a1_grok_rewrite.md [K045]"
+ },
+ "r1_culture_a2": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_culture_a2_grok_rewrite.md [K093]"
+ },
+ "r1_culture_a3": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_culture_a3_grok_rewrite.md [K127]"
+ },
+ "r1_culture_a4": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_culture_a4_grok_rewrite.md [K183]"
+ },
+ "r1_culture_a5": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_culture_a5_grok_rewrite.md [K213]"
+ },
+ "r1_culture_a6": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_culture_a6_grok_rewrite.md [K326]",
+  "shorten": "data/review/r1_culture_a6_grok_short.md [K402] 턴 [8]"
+ },
+ "r1_culture_a7": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_culture_a7_grok_rewrite.md [K327]",
+  "shorten": "data/review/r1_culture_a7_grok_short.md [K403] 턴 [8]"
+ },
+ "r1_culture_a8": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_culture_a8_grok_rewrite.md [K328]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [5, 6, 7] Grok(빠른) 재작성",
+  "shorten": "data/review/r1_culture_a8_short.md [K964] 턴 [5]"
+ },
+ "r1_culture_c1": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_culture_c1_grok_rewrite.md [K094]"
+ },
+ "r1_culture_c2": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_culture_c2_grok_rewrite.md [K156]"
+ },
+ "r1_culture_c3": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_culture_c3_grok_rewrite.md [K329]",
+  "shorten": "data/review/r1_culture_c3_grok_short.md [K405] 턴 [7]"
+ },
+ "r1_friends_a1": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_friends_a1_grok_rewrite.md [K046]"
+ },
+ "r1_friends_a10": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_friends_a10_grok_rewrite.md [K330]"
+ },
+ "r1_friends_a11": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_friends_a11_grok_rewrite.md [K331]",
+  "shorten": "data/review/r1_friends_a11_grok_short.md [K406] 턴 [6]"
+ },
+ "r1_friends_a2": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_friends_a2_grok_rewrite.md [K082]"
+ },
+ "r1_friends_a3": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_friends_a3_grok_rewrite.md [K128]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [6, 7] Grok(빠른) 재작성"
+ },
+ "r1_friends_a4": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_friends_a4_grok_rewrite.md [K129]"
+ },
+ "r1_friends_a5": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_friends_a5_grok_rewrite.md [K155]"
+ },
+ "r1_friends_a6": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_friends_a6_grok_rewrite.md [K184]"
+ },
+ "r1_friends_a7": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_friends_a7_grok_rewrite.md [K214]"
+ },
+ "r1_friends_a8": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_friends_a8_grok_rewrite.md [K332]"
+ },
+ "r1_friends_a9": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_friends_a9_grok_rewrite.md [K333]",
+  "shorten": "data/review/r1_friends_a9_grok_short.md [K407] 턴 [8]"
+ },
+ "r1_friends_c1": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_friends_c1_grok_rewrite.md [K047]"
+ },
+ "r1_friends_c2": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_friends_c2_grok_rewrite.md [K083]"
+ },
+ "r1_friends_c3": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_friends_c3_grok_rewrite.md [K215]"
+ },
+ "r1_friends_c4": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_friends_c4_grok_rewrite.md [K380]"
+ },
+ "r1_life_a1": {
+  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성",
+  "final": "",
+  "grok_rewrite": "data/review/r1_life_a1_grok_rewrite.md [K048]"
+ },
+ "r1_life_a2": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_life_a2_grok_rewrite.md [K086]"
+ },
+ "r1_life_a3": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_life_a3_grok_rewrite.md [K130]"
+ },
+ "r1_life_a4": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_life_a4_grok_rewrite.md [K185]"
+ },
+ "r1_life_a5": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_life_a5_grok_rewrite.md [K216]"
+ },
+ "r1_life_a6": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_life_a6_grok_rewrite.md [K335]",
+  "shorten": "data/review/r1_life_a6_grok_short.md [K408] 턴 [4]"
+ },
+ "r1_life_a7": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_life_a7_grok_rewrite.md [K336]",
+  "shorten": "data/review/r1_life_a7_grok_tail.md [K420] 턴 [7, 8]"
+ },
+ "r1_life_a8": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_life_a8_grok_rewrite.md [K337]",
+  "manual": "턴 4 어절 1개 덜어냄(세션)",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [4, 5, 6, 7, 8] Grok(빠른) 재작성",
+  "shorten": "data/review/r1_life_a8_grok_short.md [K409] 턴 [1, 4, 6]"
+ },
+ "r1_life_a9": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_life_a9_grok_rewrite.md [K338]",
+  "shorten": "data/review/r1_life_a9_grok_short.md [K410] 턴 [7]"
+ },
+ "r1_life_c1": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_life_c1_grok_rewrite.md [K087]"
+ },
+ "r1_life_c2": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_life_c2_grok_rewrite.md [K131]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [3, 7] Grok(빠른) 재작성"
+ },
+ "r1_life_c3": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_life_c3_grok_rewrite.md [K186]"
+ },
+ "r1_life_c4": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_life_c4_grok_rewrite.md [K339]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [4, 5, 6, 7] Grok(빠른) 재작성",
+  "shorten": "data/review/r1_life_c4_grok_short.md [K411] 턴 [7]",
+  "user_fix_20261122": "t5 「근데 왜 안 보이네」→「왜 안 보이지」(사용자 승인, uk 관리 페이지 22:35)"
+ },
+ "r1_love_a1": {
+  "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정",
+  "grok_rewrite": "data/review/r1_love_a1_grok_rewrite.md [K013]",
+  "user": "2026-11-02 19:04 사용자 리뷰 3턴 「훈련소 -> 군대」 반영"
+ },
+ "r1_love_a10": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a10_grok_rewrite.md [K132]"
+ },
+ "r1_love_a11": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a11_grok_rewrite.md [K187]"
+ },
+ "r1_love_a12": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a12_grok_rewrite.md [K188]"
+ },
+ "r1_love_a13": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a13_grok_rewrite.md [K217]"
+ },
+ "r1_love_a14": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a14_grok_rewrite.md [K218]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [5, 7] Grok(빠른) 재작성"
+ },
+ "r1_love_a15": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a15_grok_rewrite.md [K219]"
+ },
+ "r1_love_a16": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a16_grok_rewrite.md [K340]"
+ },
+ "r1_love_a17": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a17_grok_rewrite.md [K341]",
+  "shorten": "data/review/r1_love_a17_grok_short.md [K412] 턴 [5]"
+ },
+ "r1_love_a18": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a18_grok_rewrite.md [KS01]"
+ },
+ "r1_love_a19": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a19_grok_rewrite.md [K342]",
+  "shorten": "data/review/r1_love_a19_grok_tail.md [K421] 턴 [6, 7, 8]"
+ },
+ "r1_love_a2": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a2_grok_rewrite.md [K023]"
+ },
+ "r1_love_a20": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a20_grok_rewrite.md [K343]"
+ },
+ "r1_love_a21": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a21_grok_rewrite.md [K344]"
+ },
+ "r1_love_a22": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a22_grok_rewrite.md [K345]"
+ },
+ "r1_love_a23": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a23_grok_rewrite.md [K346]"
+ },
+ "r1_love_a3": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a3_grok_rewrite.md [K024]"
+ },
+ "r1_love_a4": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a4_grok_rewrite.md [K033]"
+ },
+ "r1_love_a5": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a5_grok_rewrite.md [K034]"
+ },
+ "r1_love_a6": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a6_grok_rewrite.md [K133]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [4, 5, 8] Grok(빠른) 재작성"
+ },
+ "r1_love_a7": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a7_grok_rewrite.md [K134]"
+ },
+ "r1_love_a8": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a8_grok_rewrite.md [K135]"
+ },
+ "r1_love_a9": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_a9_grok_rewrite.md [K136]"
+ },
+ "r1_love_b1": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_b1_grok_rewrite.md [K026]"
+ },
+ "r1_love_c1": {
+  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성",
+  "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정",
+  "grok_rewrite": "data/review/r1_love_c1_grok_rewrite.md [K014]"
+ },
+ "r1_love_c10": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_c10_grok_rewrite.md [K220]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [4, 5] Grok(빠른) 재작성"
+ },
+ "r1_love_c11": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_c11_grok_rewrite.md [K347]"
+ },
+ "r1_love_c12": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_c12_grok_rewrite.md [K348]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [4, 7, 8] Grok(빠른) 재작성",
+  "shorten": "data/review/r1_love_c12_grok_short.md [K413] 턴 [4, 7, 8]"
+ },
+ "r1_love_c13": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_c13_grok_rewrite.md [K349]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [5, 7] Grok(빠른) 재작성",
+  "shorten": "data/review/r1_love_c13_grok_short.md [K414] 턴 [5, 7]"
+ },
+ "r1_love_c2": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_c2_grok_rewrite.md [K025]"
+ },
+ "r1_love_c3": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_c3_grok_rewrite.md [K035]"
+ },
+ "r1_love_c4": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_c4_grok_rewrite.md [K072]"
+ },
+ "r1_love_c5": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_c5_grok_rewrite.md [K137]"
+ },
+ "r1_love_c6": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_c6_grok_rewrite.md [K138]"
+ },
+ "r1_love_c7": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_c7_grok_rewrite.md [K139]"
+ },
+ "r1_love_c8": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_c8_grok_rewrite.md [K189]"
+ },
+ "r1_love_c9": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_love_c9_grok_rewrite.md [K190]"
+ },
+ "r1_study_a1": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_study_a1_grok_rewrite.md [K049]"
+ },
+ "r1_study_a2": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_study_a2_grok_rewrite.md [K140]"
+ },
+ "r1_study_a3": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_study_a3_grok_rewrite.md [K141]"
+ },
+ "r1_study_a4": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_study_a4_grok_rewrite.md [K191]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [3, 4, 5, 7, 8] Grok(빠른) 재작성"
+ },
+ "r1_study_a5": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_study_a5_grok_rewrite.md [K221]"
+ },
+ "r1_study_a6": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_study_a6_grok_rewrite.md [K350]"
+ },
+ "r1_study_c1": {
+  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성",
+  "final": "",
+  "grok_rewrite": "data/review/r1_study_c1_grok_rewrite.md [K101]"
+ },
+ "r1_study_c2": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_study_c2_grok_rewrite.md [K351]",
+  "manual": "턴 8 어절 1개 덜어냄(세션)",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [1, 4, 5, 7] Grok(빠른) 재작성",
+  "shorten": "data/review/r1_study_c2_short.md [K965] 턴 [1]"
+ },
+ "r1_survival_s1": {
+  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성",
+  "final": "",
+  "grok_rewrite": "data/review/r1_survival_s1_grok_rewrite.md [K050]"
+ },
+ "r1_survival_s2": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_survival_s2_grok_rewrite.md [K051]"
+ },
+ "r1_survival_s3": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_survival_s3_grok_rewrite.md [K052]"
+ },
+ "r1_survival_s4": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_survival_s4_grok_rewrite.md [K142]"
+ },
+ "r1_survival_s5": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_survival_s5_grok_rewrite.md [K143]"
+ },
+ "r1_survival_s6": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_survival_s6_grok_rewrite.md [K192]"
+ },
+ "r1_survival_s7": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_survival_s7_grok_rewrite.md [K222]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [5, 8] Grok(빠른) 재작성"
+ },
+ "r1_survival_s8": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_survival_s8_grok_rewrite.md [K352]",
+  "manual": "턴 7 어절 1개 덜어냄(세션)",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [7, 8] Grok(빠른) 재작성",
+  "shorten": "data/review/r1_survival_s8_grok_short.md [K416] 턴 [3, 5, 7, 8]"
+ },
+ "r1_survival_s9": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_survival_s9_grok_rewrite.md [K353]",
+  "shorten": "data/review/r1_survival_s9_grok_short.md [K417] 턴 [8]"
+ },
+ "r1_travel_a1": {
+  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성",
+  "final": "",
+  "grok_rewrite": "data/review/r1_travel_a1_grok_rewrite.md [K053]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [7, 8] Grok(빠른) 재작성"
+ },
+ "r1_travel_a2": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_travel_a2_grok_rewrite.md [K090]"
+ },
+ "r1_travel_a3": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_travel_a3_grok_rewrite.md [K144]"
+ },
+ "r1_travel_a4": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_travel_a4_grok_rewrite.md [K193]"
+ },
+ "r1_travel_a5": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_travel_a5_grok_rewrite.md [K223]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [5] Grok(빠른) 재작성"
+ },
+ "r1_travel_a6": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_travel_a6_grok_rewrite.md [K354]"
+ },
+ "r1_travel_a7": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_travel_a7_grok_rewrite.md [K355]",
+  "shorten": "data/review/r1_travel_a7_grok_short.md [K418] 턴 [1, 3, 5, 6, 7, 8]"
+ },
+ "r1_travel_c1": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_travel_c1_grok_rewrite.md [K091]"
+ },
+ "r1_travel_c2": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_travel_c2_grok_rewrite.md [K356]",
+  "shorten": "data/review/r1_travel_c2_grok_short.md [K419] 턴 [8]"
+ },
+ "r1_work_a1": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_work_a1_grok_rewrite.md [K054]"
+ },
+ "r1_work_a2": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_work_a2_grok_rewrite.md [K145]"
+ },
+ "r1_work_a3": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_work_a3_grok_rewrite.md [K146]"
+ },
+ "r1_work_a4": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_work_a4_grok_rewrite.md [K194]"
+ },
+ "r1_work_a5": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_work_a5_grok_rewrite.md [K357]"
+ },
+ "r1_work_a6": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_work_a6_grok_rewrite.md [K358]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [4, 7] Grok(빠른) 재작성",
+  "shorten": "data/review/r1_work_a6_grok_short.md [K420] 턴 [4]"
+ },
+ "r1_work_c1": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_work_c1_grok_rewrite.md [K098]"
+ },
+ "r1_work_c2": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_work_c2_grok_rewrite.md [K224]"
+ },
+ "r1_work_c3": {
+  "final": "",
+  "grok_rewrite": "data/review/r1_work_c3_grok_rewrite.md [K359]",
+  "shorten": "data/review/r1_work_c3_grok_short.md [K421] 턴 [4, 5, 7, 8]"
+ },
+ "r2_culture_b1": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_culture_b1_grok_rewrite.md [K055]"
+ },
+ "r2_culture_b2": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_culture_b2_grok_rewrite.md [K074]"
+ },
+ "r2_culture_b3": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_culture_b3_grok_rewrite.md [K095]"
+ },
+ "r2_culture_b4": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_culture_b4_grok_rewrite.md [K147]"
+ },
+ "r2_culture_b5": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_culture_b5_grok_rewrite.md [K360]",
+  "shorten": "data/review/r2_culture_b5_grok_tail.md [K422] 턴 [9, 10, 11, 12]"
+ },
+ "r2_friends_b1": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_friends_b1_grok_rewrite.md [K057]"
+ },
+ "r2_friends_b2": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_friends_b2_grok_rewrite.md [K084]"
+ },
+ "r2_friends_b3": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_friends_b3_grok_rewrite.md [K148]"
+ },
+ "r2_friends_b4": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_friends_b4_grok_rewrite.md [K361]"
+ },
+ "r2_friends_b5": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_friends_b5_grok_rewrite.md [K362]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [10, 11] Grok(빠른) 재작성"
+ },
+ "r2_life_b1": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_life_b1_grok_rewrite.md [K058]"
+ },
+ "r2_life_b2": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_life_b2_grok_rewrite.md [K088]"
+ },
+ "r2_life_b3": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_life_b3_grok_rewrite.md [K149]"
+ },
+ "r2_life_b4": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_life_b4_grok_rewrite.md [K363]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [9] Grok(빠른) 재작성"
+ },
+ "r2_life_b5": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_life_b5_grok_rewrite.md [K364]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [11, 12] Grok(빠른) 재작성"
+ },
+ "r2_love_b1": {
+  "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정",
+  "grok_rewrite": "data/review/r2_love_b1_grok_rewrite.md [K015]"
+ },
+ "r2_love_b10": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_love_b10_grok_rewrite.md [K365]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [2, 4, 5] Grok(빠른) 재작성"
+ },
+ "r2_love_b11": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_love_b11_grok_rewrite.md [K366]"
+ },
+ "r2_love_b12": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_love_b12_grok_rewrite.md [K367]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [4, 9, 10, 11] Grok(빠른) 재작성"
+ },
+ "r2_love_b2": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_love_b2_grok_rewrite.md [K027]"
+ },
+ "r2_love_b3": {
+  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성",
+  "final": "",
+  "grok_rewrite": "data/review/r2_love_b3_grok_rewrite.md [K028]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [10, 11] Grok(빠른) 재작성"
+ },
+ "r2_love_b4": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_love_b4_grok_rewrite.md [K036]"
+ },
+ "r2_love_b5": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_love_b5_grok_rewrite.md [K037]"
+ },
+ "r2_love_b6": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_love_b6_grok_rewrite.md [K038]"
+ },
+ "r2_love_b7": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_love_b7_grok_rewrite.md [K073]"
+ },
+ "r2_love_b8": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_love_b8_grok_rewrite.md [K150]"
+ },
+ "r2_love_b9": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_love_b9_grok_rewrite.md [K157]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [8, 9, 10, 12] Grok(빠른) 재작성"
+ },
+ "r2_study_b1": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_study_b1_grok_rewrite.md [K059]"
+ },
+ "r2_study_b2": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_study_b2_grok_rewrite.md [K102]"
+ },
+ "r2_study_b3": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_study_b3_grok_rewrite.md [K368]"
+ },
+ "r2_survival_b1": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_survival_b1_grok_rewrite.md [K369]"
+ },
+ "r2_travel_b1": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_travel_b1_grok_rewrite.md [K060]"
+ },
+ "r2_travel_b2": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_travel_b2_grok_rewrite.md [K092]"
+ },
+ "r2_travel_b3": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_travel_b3_grok_rewrite.md [K151]"
+ },
+ "r2_travel_b4": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_travel_b4_grok_rewrite.md [K370]"
+ },
+ "r2_work_b1": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_work_b1_grok_rewrite.md [K061]"
+ },
+ "r2_work_b2": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_work_b2_grok_rewrite.md [K099]"
+ },
+ "r2_work_b3": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_work_b3_grok_rewrite.md [K152]"
+ },
+ "r2_work_b4": {
+  "final": "",
+  "grok_rewrite": "data/review/r2_work_b4_grok_rewrite.md [K371]"
+ },
+ "r3_culture_b1": {
+  "final": "",
+  "grok_rewrite": "data/review/r3_culture_b1_grok_rewrite.md [K062]"
+ },
+ "r3_culture_b2": {
+  "final": "",
+  "grok_rewrite": "data/review/r3_culture_b2_grok_rewrite.md [K096]"
+ },
+ "r3_culture_b3": {
+  "final": "",
+  "grok_rewrite": "data/review/r3_culture_b3_grok_rewrite.md [K372]",
+  "shorten": "data/review/r3_culture_b3_grok_tail.md [K423] 턴 [6, 7, 8, 9, 10, 11, 12, 13, 14]"
+ },
+ "r3_friends_b1": {
+  "final": "",
+  "grok_rewrite": "data/review/r3_friends_b1_grok_rewrite.md [K063]"
+ },
+ "r3_friends_b3": {
+  "final": "",
+  "grok_rewrite": "data/review/r3_friends_b3_grok_rewrite.md [K373]"
+ },
+ "r3_life_b1": {
+  "final": "",
+  "grok_rewrite": "data/review/r3_life_b1_grok_rewrite.md [K064]"
+ },
+ "r3_love_b1": {
+  "final": "2026-11-02 Grok 2회차 재작성본 그대로 + 검사기용 최소 수정(15턴 끝 「그니까」 뺌)",
+  "grok_rewrite": "data/review/r3_love_b1_grok_rewrite.md [K016]"
+ },
+ "r3_love_b2": {
+  "final": "",
+  "grok_rewrite": "data/review/r3_love_b2_grok_rewrite.md [K029]"
+ },
+ "r3_love_b3": {
+  "final": "",
+  "grok_rewrite": "data/review/r3_love_b3_grok_rewrite.md [K039]"
+ },
+ "r3_love_b4": {
+  "final": "",
+  "grok_rewrite": "data/review/r3_love_b4_grok_rewrite.md [K040]"
+ },
+ "r3_love_b5": {
+  "final": "",
+  "grok_rewrite": "data/review/r3_love_b5_grok_rewrite.md [K377]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [6, 7, 8, 12, 13] Grok(빠른) 재작성",
+  "shorten": "data/review/r3_love_b5_grok_tail.md [K424] 턴 [15, 16]"
+ },
+ "r3_love_b6": {
+  "final": "",
+  "grok_rewrite": "data/review/r3_love_b6_grok_rewrite.md [K158]"
+ },
+ "r3_love_b7": {
+  "final": "",
+  "grok_rewrite": "data/review/r3_love_b7_grok_rewrite.md [K374]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [5, 13, 14] Grok(빠른) 재작성",
+  "shorten": "data/review/r3_love_b7_grok_tail.md [K425] 턴 [15, 16]"
+ },
+ "r3_love_b8": {
+  "final": "",
+  "grok_rewrite": "data/review/r3_love_b8_grok_rewrite.md [K375]",
+  "shorten": "data/review/r3_love_b8_grok_tail.md [K426] 턴 [10, 11, 12, 13, 14]"
+ },
+ "r3_study_b1": {
+  "final": "",
+  "grok_rewrite": "data/review/r3_study_b1_grok_rewrite.md [K065]"
+ },
+ "r3_travel_b1": {
+  "final": "",
+  "grok_rewrite": "data/review/r3_travel_b1_grok_rewrite.md [K066]"
+ },
+ "r3_work_b1": {
+  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성",
+  "final": "",
+  "grok_rewrite": "data/review/r3_work_b1_grok_rewrite.md [K067]",
+  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
+  "regen_20261122": "§9 손질 턴 [15, 16] Grok(빠른) 재작성"
+ },
+ "r3_work_b2": {
+  "final": "",
+  "grok_rewrite": "data/review/r3_work_b2_grok_rewrite.md [K376]",
+  "shorten": "data/review/r3_work_b2_grok_tail.md [K427] 턴 [7, 8, 9, 10, 11, 12, 13, 14]"
+ }
+}

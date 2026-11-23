@@ -1,3 +1,4 @@
+import 'package:k_universe/core/l10n.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:k_universe/db/database.dart';
@@ -15,7 +16,7 @@ class ScenarioListScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('K-Universe'),
+        title: Text(tr('기본 회화 8장면')),
       ),
       body: SafeArea(
         child: StreamBuilder<List<Scenario>>(

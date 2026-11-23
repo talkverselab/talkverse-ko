@@ -220,9 +220,5 @@
    ]
   }
  ],
- "review": {
-  "grok_rewrite": "data/review/r1_survival_s2_grok_rewrite.md [K051]",
-  "final": ""
- },
  "twist_type": "slip"
 }

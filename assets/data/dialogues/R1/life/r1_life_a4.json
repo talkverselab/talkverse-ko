@@ -220,9 +220,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_life_a4_grok_rewrite.md [K185]",
-  "final": ""
- }
+ ]
 }

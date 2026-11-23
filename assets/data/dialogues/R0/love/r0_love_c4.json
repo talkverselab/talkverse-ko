@@ -195,9 +195,5 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M",
- "review": {
-  "grok_rewrite": "data/review/r0_love_c4_grok_rewrite.md [K121]",
-  "final": ""
- }
+ "learner_gender": "M"
 }

@@ -455,10 +455,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r2_culture_b5_grok_rewrite.md [K360]",
-  "final": "",
-  "shorten": "data/review/r2_culture_b5_grok_tail.md [K422] 턴 [9, 10, 11, 12]"
- }
+ ]
 }

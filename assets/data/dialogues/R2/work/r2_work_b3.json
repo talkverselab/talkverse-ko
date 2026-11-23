@@ -332,9 +332,5 @@
    ]
   }
  ],
- "learner_gender": "M",
- "review": {
-  "grok_rewrite": "data/review/r2_work_b3_grok_rewrite.md [K152]",
-  "final": ""
- }
+ "learner_gender": "M"
 }

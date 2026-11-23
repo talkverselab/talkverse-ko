@@ -370,9 +370,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r2_work_b4_grok_rewrite.md [K371]",
-  "final": ""
- }
+ ]
 }

@@ -251,9 +251,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_friends_a6_grok_rewrite.md [K184]",
-  "final": ""
- }
+ ]
 }

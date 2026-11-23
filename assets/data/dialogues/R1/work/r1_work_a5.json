@@ -205,9 +205,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_work_a5_grok_rewrite.md [K357]",
-  "final": ""
- }
+ ]
 }

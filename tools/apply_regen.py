@@ -22,7 +22,7 @@ for i, eid in enumerate(ids):
     if r.returncode: print('FAIL', eid, r.stderr.strip().splitlines()[-1:]); continue
     miss = sorted(want - seen)
     e = json.load(open(paths[eid], encoding='utf-8'))
-    e.setdefault('review', {})['regen_20261122'] = f'§9 손질 턴 {sorted(seen)} Grok(빠른) 재작성' + (f', 답 없음 {miss}' if miss else '')
+    import review_meta; review_meta.update(e['id'], regen_20261122=f'§9 손질 턴 {sorted(seen)} Grok(빠른) 재작성' + (f', 답 없음 {miss}' if miss else ''))
     stale = []
     for t in e['turns']:
         if t['num'] in seen and t.get('note'):

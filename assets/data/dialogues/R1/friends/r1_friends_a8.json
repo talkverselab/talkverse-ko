@@ -275,9 +275,5 @@
    ]
   }
  ],
- "learner_gender": "M",
- "review": {
-  "grok_rewrite": "data/review/r1_friends_a8_grok_rewrite.md [K332]",
-  "final": ""
- }
+ "learner_gender": "M"
 }

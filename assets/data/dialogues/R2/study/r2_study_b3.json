@@ -417,9 +417,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r2_study_b3_grok_rewrite.md [K368]",
-  "final": ""
- }
+ ]
 }

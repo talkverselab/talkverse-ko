@@ -343,9 +343,5 @@
    ]
   }
  ],
- "review": {
-  "grok_rewrite": "data/review/r2_work_b1_grok_rewrite.md [K061]",
-  "final": ""
- },
  "twist_type": "reveal"
 }

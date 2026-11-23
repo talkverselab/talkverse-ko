@@ -230,9 +230,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r0_life_a7_grok_rewrite.md [K203]",
-  "final": ""
- }
+ ]
 }

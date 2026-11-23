@@ -235,10 +235,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_friends_a9_grok_rewrite.md [K333]",
-  "final": "",
-  "shorten": "data/review/r1_friends_a9_grok_short.md [K407] 턴 [8]"
- }
+ ]
 }

@@ -250,10 +250,5 @@
    ]
   }
  ],
- "review": {
-  "grok_rewrite": "data/review/r1_life_a1_grok_rewrite.md [K048]",
-  "final": "",
-  "chaos": "2026-11-03 카오스 반전으로 끝부분 수정(사용자 지시) — 해당 컷 재생성"
- },
  "twist_type": "chaos"
 }

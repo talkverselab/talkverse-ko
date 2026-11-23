@@ -265,12 +265,5 @@
  ],
  "series": "flirt",
  "initiator": "B",
- "learner_gender": "M",
- "review": {
-  "grok_rewrite": "data/review/r1_love_c13_grok_rewrite.md [K349]",
-  "final": "",
-  "shorten": "data/review/r1_love_c13_grok_short.md [K414] 턴 [5, 7]",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
-  "regen_20261122": "§9 손질 턴 [5, 7] Grok(빠른) 재작성"
- }
+ "learner_gender": "M"
 }

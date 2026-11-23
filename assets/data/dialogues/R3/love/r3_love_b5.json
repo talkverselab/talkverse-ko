@@ -713,12 +713,5 @@
    ]
   }
  ],
- "learner_gender": "M",
- "review": {
-  "grok_rewrite": "data/review/r3_love_b5_grok_rewrite.md [K377]",
-  "final": "",
-  "shorten": "data/review/r3_love_b5_grok_tail.md [K424] 턴 [15, 16]",
-  "realism_20261109": "§9 일상 장면 기준으로 반전 턴 손질(반전·설렘 유지)",
-  "regen_20261122": "§9 손질 턴 [6, 7, 8, 12, 13] Grok(빠른) 재작성"
- }
+ "learner_gender": "M"
 }

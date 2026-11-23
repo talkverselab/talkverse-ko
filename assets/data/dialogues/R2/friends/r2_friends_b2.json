@@ -291,9 +291,5 @@
    ]
   }
  ],
- "review": {
-  "grok_rewrite": "data/review/r2_friends_b2_grok_rewrite.md [K084]",
-  "final": ""
- },
  "twist_type": "reveal"
 }

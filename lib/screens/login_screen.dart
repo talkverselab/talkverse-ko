@@ -90,7 +90,8 @@ class _LoginScreenState extends State<LoginScreen> {
                     const Center(child: Padding(padding: EdgeInsets.all(24), child: CircularProgressIndicator()))
                   else
                     // 늘 네 가지를 이 순서로(사용자 지시 2026-11-02 "구글 네이버 다음(카카오) 애플"); 서버에 아직 없는 제공자는 누르면 '준비 중'
-                    for (final p in const ['google', 'naver', 'kakao', 'apple']) Padding(padding: const EdgeInsets.only(bottom: 12), child: _button(p)),
+                    // 서버에 아직 없는 제공자는 버튼을 숨김 — 누르면 「준비 중」만 뜨는 입구는 심사에 걸림(uk 심사 점검 E, 2026-11-23)
+                    for (final p in const ['google', 'naver', 'kakao', 'apple']) if (_ready(p)) Padding(padding: const EdgeInsets.only(bottom: 12), child: _button(p)),
                   if (error != null) ...[
                     const SizedBox(height: 8),
                     Text(error!, textAlign: TextAlign.center, style: const TextStyle(color: Colors.redAccent, fontSize: 13)),
@@ -100,7 +101,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   Center(
                     child: TextButton(
                       onPressed: () => setState(() => emailOpen = !emailOpen),
-                      child: Text(tr('이메일로 로그인 (심사·테스트용)'), style: const TextStyle(fontSize: 12.5, color: KColors.inkFaint)),
+                      child: Text(tr('이메일로 로그인'), style: const TextStyle(fontSize: 12.5, color: KColors.inkFaint)),
                     ),
                   ),
                   if (emailOpen) ...[

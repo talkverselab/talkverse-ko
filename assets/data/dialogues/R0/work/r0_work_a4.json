@@ -198,9 +198,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r0_work_a4_grok_rewrite.md [K212]",
-  "final": ""
- }
+ ]
 }

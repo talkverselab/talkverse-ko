@@ -223,9 +223,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_life_a5_grok_rewrite.md [K216]",
-  "final": ""
- }
+ ]
 }

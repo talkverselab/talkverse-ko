@@ -259,10 +259,6 @@
   }
  ],
  "initiator": "B",
- "review": {
-  "grok_rewrite": "data/review/r1_love_c3_grok_rewrite.md [K035]",
-  "final": ""
- },
  "learner_gender": "M",
  "twist_type": "reveal"
 }

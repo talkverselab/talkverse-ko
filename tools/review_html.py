@@ -88,8 +88,9 @@ for e in eps:
             parts.append(cuts(e, (t['num'] + 1) // 2))
         parts.append(f"<div class='t {t['speaker']}'><div class=sp>{t['num']} {t['speaker']}{' · '+t['at'] if t.get('at') else ''}</div><div class=ja>{html.escape(t['ko'])}</div><div class=rd>{html.escape(t.get('rd',''))}</div><div class=ko>{html.escape(t['en'])}</div><div class=nt>{html.escape(t.get('note',''))}</div>{play(e['id'], t['num'])}"
                      f"<div class=rv><textarea data-k='{key}' placeholder='이 턴 리뷰…'></textarea><button onclick=\"sv(this)\">저장</button></div><div class=rs data-s='{key}'></div></div>")
-    if e.get('review', {}).get('final'):
-        parts.append(f"<div class=meta>최종: {html.escape(e['review']['final'])}</div>")
+    import review_meta; rv = review_meta.get(e['id'])
+    if rv.get('final'):
+        parts.append(f"<div class=meta>최종: {html.escape(rv['final'])}</div>")
 parts.append("""<script>
 const API='https://talkverse.uk/api/review/ko';  // uk 세션이 여는 저장 API(POST {key,text,at} / GET → {key:{text,at}})
 const LS='review_ko_v1';

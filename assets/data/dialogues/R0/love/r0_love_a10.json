@@ -199,9 +199,5 @@
    ]
   }
  ],
- "learner_gender": "F",
- "review": {
-  "grok_rewrite": "data/review/r0_love_a10_grok_rewrite.md [K154]",
-  "final": ""
- }
+ "learner_gender": "F"
 }

@@ -241,10 +241,5 @@
    ]
   }
  ],
- "learner_gender": "M",
- "review": {
-  "grok_rewrite": "data/review/r1_love_a17_grok_rewrite.md [K341]",
-  "final": "",
-  "shorten": "data/review/r1_love_a17_grok_short.md [K412] 턴 [5]"
- }
+ "learner_gender": "M"
 }

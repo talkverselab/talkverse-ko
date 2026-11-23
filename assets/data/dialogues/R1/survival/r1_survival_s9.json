@@ -290,10 +290,5 @@
     ]
    ]
   }
- ],
- "review": {
-  "grok_rewrite": "data/review/r1_survival_s9_grok_rewrite.md [K353]",
-  "final": "",
-  "shorten": "data/review/r1_survival_s9_grok_short.md [K417] 턴 [8]"
- }
+ ]
 }

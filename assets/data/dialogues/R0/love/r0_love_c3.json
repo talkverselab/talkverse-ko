@@ -173,9 +173,5 @@
    ]
   }
  ],
- "learner_gender": "M",
- "review": {
-  "grok_rewrite": "data/review/r0_love_c3_grok_rewrite.md [K120]",
-  "final": ""
- }
+ "learner_gender": "M"
 }
