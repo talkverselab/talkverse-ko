@@ -132,7 +132,10 @@ class CurriculumState {
   List<ReviewItem> dueReview(String today) => review.where((r) => r.due.compareTo(today) <= 0).toList();
 
   /// 오늘 남은 새 편 수.
-  int newLeft(String today) => max(0, dailyGoal - (todayDay == today ? todayNew : 0));
+  /// 하루 새 편 수(가볍게·보통·집중) — 단계표(daily)에서, 서비스가 맞춰 둔다.
+  List<int> dailyCounts = const [1, 2, 3];
+  int get dailyNew => dailyCounts[(dailyGoal - 1).clamp(0, dailyCounts.length - 1)];
+  int newLeft(String today) => max(0, dailyNew - (todayDay == today ? todayNew : 0));
 
   /// 오늘 분량을 다 했나(복습 0 + 새 편 목표 채움).
   bool dayDone(String today) => dueReview(today).isEmpty && newLeft(today) == 0;
@@ -186,12 +189,12 @@ class CurriculumState {
   }
 
   /// 코스 시험 결과. 통과면 코스 완료·통과 편 기록, 아니면 틀린 편의 연습 표시를 지워 다시 연습하게.
-  bool recordExam(int correct, int total, Set<String> wrongDialogues, String today) {
+  bool recordExam(int correct, int total, Set<String> wrongDialogues, String today, {int pass = kPassPercent}) {
     final c = course;
     if (c == null) return false;
     final s = scorePercent(correct, total);
     c.examScores.add(s);
-    if (s >= kPassPercent) {
+    if (s >= pass) {
       c.passedAt = today;
       for (final id in c.dialogueIds) {
         if (!passedDialogues.contains(id)) passedDialogues.add(id);
@@ -289,7 +292,11 @@ class CurStage {
   final int n;
   final String title, desc;
   final List<String> ids;
-  const CurStage(this.n, this.title, this.desc, this.ids);
+  final List<int> pick; // 고를 개수 칸(없으면 3·5·10)
+  final int pickDefault; // 처음 고른 칸(서버가 숫자 하나로 주면 그 값)
+  final int pass; // 통과 점수(없으면 80)
+  final List<int> daily; // 하루 새 편 수 가볍게·보통·집중(없으면 1·2·3)
+  const CurStage(this.n, this.title, this.desc, this.ids, {this.pick = const [3, 5, 10], this.pickDefault = 5, this.pass = kPassPercent, this.daily = const [1, 2, 3]});
   String get key => '$n';
 }
 
@@ -299,12 +306,22 @@ class CurStage {
     final j = json.decode(body) as Map<String, dynamic>;
     final st = [
       for (final s in (j['stages'] as List).cast<Map<String, dynamic>>())
-        CurStage((s['n'] as num).toInt(), '${s['title'] ?? '${s['n']}단계'}', '${s['desc'] ?? ''}', [for (final x in (s['dialogueIds'] as List? ?? const [])) '$x']),
+        _stage(s),
     ]..sort((a, b) => a.n.compareTo(b.n));
     return (rev: (j['rev'] as num?)?.toInt() ?? 0, stages: st);
   } catch (_) {
     return null;
   }
+}
+
+CurStage _stage(Map<String, dynamic> s) {
+  final pk = s['pick'];
+  final pick = pk is List && pk.isNotEmpty ? [for (final x in pk) (x as num).toInt()] : const [3, 5, 10];
+  final pickDefault = pk is num ? pk.toInt() : (pick.contains(5) ? 5 : pick.first);
+  final d = s['daily'];
+  final daily = d is Map ? [for (final k in const ['light', 'normal', 'focus']) (d[k] as num?)?.toInt() ?? const {'light': 1, 'normal': 2, 'focus': 3}[k]!] : const [1, 2, 3];
+  return CurStage((s['n'] as num).toInt(), '${s['title'] ?? '${s['n']}단계'}', '${s['desc'] ?? ''}', [for (final x in (s['dialogueIds'] as List? ?? const [])) '$x'],
+      pick: {...pick, if (!pick.contains(pickDefault)) pickDefault}.toList()..sort(), pickDefault: pickDefault, pass: (s['pass'] as num?)?.toInt() ?? kPassPercent, daily: daily);
 }
 
 /// 옛 저장값(R0~R5)을 단계 번호로: R0·R1 → 1, R2 → 2 … R5 → 5.
@@ -348,6 +365,7 @@ class CurriculumService {
     }
     if (state.level != null) state.level = stageOfLegacy(state.level!);
     await _loadPlan();
+    _syncDaily();
     _loaded = true;
     if (network) refreshPlan().catchError((_) => false);
   }
@@ -387,6 +405,7 @@ class CurriculumService {
     _stages = p.stages;
     planRev = p.rev;
     await (await SharedPreferences.getInstance()).setString(_planKey, body);
+    _syncDaily();
     changed.value++;
     return true;
   }
@@ -416,6 +435,12 @@ class CurriculumService {
   /// 보이는 단계 — 앱에 있는 편이 하나라도 있는 것만.
   List<CurStage> get stages => [for (final s in _allStages) if (s.ids.any((id) => DramaService.instance.byId(id) != null)) s];
 
+  CurStage? get current => stage(state.level);
+  int get passPct => current?.pass ?? kPassPercent;
+  List<int> get pickOptions => current?.pick ?? const [3, 5, 10];
+  int get pickDefault => current?.pickDefault ?? 5;
+  void _syncDaily() => state.dailyCounts = current?.daily ?? const [1, 2, 3];
+
   CurStage? stage(String? key) => _allStages.where((s) => s.key == key).firstOrNull;
   String stageTitle(String? key) => stage(key)?.title ?? (key ?? '');
 
@@ -423,6 +448,7 @@ class CurriculumService {
   List<DramaEpisode> poolFor(DramaEpisode d) => DramaService.instance.list(d.region);
 
   Future<void> save() async {
+    _syncDaily();
     await (await SharedPreferences.getInstance()).setString(pk(key), json.encode(state.toJson()));
     changed.value++;
   }

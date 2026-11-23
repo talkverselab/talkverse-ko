@@ -175,4 +175,24 @@ void main() {
       expect(svc.stageTitle('1'), '새 1단계');
     });
   });
+
+  test('§12 덧붙임 — 단계표 pick·pass·daily 를 읽고, 없으면 기본값', () {
+    final p = parsePlan('{"rev":1,"stages":[{"n":1,"dialogueIds":[],"pick":[4,8],"pass":70,"daily":{"light":2,"normal":3,"focus":5}},{"n":2,"dialogueIds":[],"pick":3},{"n":3,"dialogueIds":[]}]}')!;
+    final a = p.stages[0], b = p.stages[1], c = p.stages[2];
+    expect(a.pick, [4, 8]);
+    expect(a.pass, 70);
+    expect(a.daily, [2, 3, 5]);
+    expect(b.pickDefault, 3);
+    expect(b.pick, [3, 5, 10]);
+    expect(c.pass, 80);
+    expect(c.daily, [1, 2, 3]);
+    // 통과 점수는 시험 판정에도
+    final st = CurriculumState(course: Course('c', ['x']));
+    expect(st.recordExam(7, 10, {}, '2026-11-23', pass: 70), isTrue);
+    final st2 = CurriculumState(course: Course('c', ['x']));
+    expect(st2.recordExam(7, 10, {}, '2026-11-23'), isFalse);
+    // 하루 새 편 수 = 단계표 daily
+    final st3 = CurriculumState(dailyGoal: 3)..dailyCounts = const [2, 3, 5];
+    expect(st3.newLeft('2026-11-23'), 5);
+  });
 }
