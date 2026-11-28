@@ -8,10 +8,11 @@ import 'legal_links.dart';
 
 /// 「유료 화면의 30% 이상을 열람하면 환불되지 않습니다」 + 환불 규정 링크(결제 화면·내 정보 공용). 숫자는 RefundRule 한 곳.
 class RefundNotice extends StatelessWidget {
-  const RefundNotice({super.key});
+  final bool paywall; // 결제 화면이면 RefundRule.paywallText
+  const RefundNotice({super.key, this.paywall = false});
   @override
   Widget build(BuildContext context) => Wrap(alignment: WrapAlignment.center, crossAxisAlignment: WrapCrossAlignment.center, children: [
-        Text(trf('유료 화면의 {0}% 이상을 열람하면 환불되지 않습니다.', ['${RefundRule.noRefundPct}']),
+        Text(trf(paywall ? RefundRule.paywallText : RefundRule.profileText, ['${RefundRule.noRefundPct}']),
             textAlign: TextAlign.center, style: const TextStyle(fontSize: 11.5, color: DramaColors.muted, height: 1.4)),
         TextButton(
           onPressed: () => Legal.open(RefundRule.url),

@@ -24,6 +24,12 @@ class RefundRule {
   RefundRule._();
   static const noRefundPct = 30;
   static const url = 'https://talkverse.uk/refund/';
+
+  /// 내 정보 쪽 안내 문구(tr 키, {0} = noRefundPct).
+  static const profileText = '유료 화면의 {0}% 이상을 열람하면 환불되지 않습니다.';
+
+  /// 결제 화면 안내 문구 — 앱 안 결제는 스토어가 환불을 정하므로 사용자가 문구를 정하는 중(uk 11-28). 정해지면 여기만 바꾸고 l10n 사전 세 곳에 번역 추가.
+  static const paywallText = profileText;
 }
 
 /// 「내 정보」 열람률 — GET /v1/usage/summary?lang=ko. 로그인 전·실패면 null.

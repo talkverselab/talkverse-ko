@@ -128,7 +128,7 @@ class _PaywallScreenState extends State<PaywallScreen> {
                       textAlign: TextAlign.center,
                       style: const TextStyle(fontSize: 11, color: DramaColors.muted, height: 1.4),
                     ),
-                    const RefundNotice(),
+                    const RefundNotice(paywall: true),
                     const LegalLinks(),
                   ]),
                 ),
