@@ -12,6 +12,8 @@ import 'data/account.dart';
 import 'data/purchase.dart';
 import 'db/database.dart';
 import 'db/seed_loader.dart';
+import 'usage_log.dart';
+import 'package:package_info_plus/package_info_plus.dart';
 import 'review/review_service.dart';
 import 'review/review_ui.dart';
 import 'services/content_sync.dart';
@@ -57,8 +59,22 @@ Future<void> embedInit({bool embedded = false}) async {
   try {
     _syncFirst = await ContentSync.instance.init(large: shortest >= 600, female: LearnerPrefs.isFemale).timeout(const Duration(seconds: 10));
   } catch (_) {}
+  // 화면 열람 기록(환불 규정의 열람률, uk 2026-11-28) — 실패해도 앱 동작에 영향 없음. 뒤로 갈 때 모아 둔 기록을 보낸다.
+  int? build;
+  try {
+    build = int.tryParse((await PackageInfo.fromPlatform().timeout(const Duration(seconds: 2))).buildNumber);
+  } catch (_) {}
+  UsageLog.init(lang: Embed.code, token: Account.accessToken, appBuild: build);
+  WidgetsBinding.instance.addObserver(_UsageFlush());
   Account.load(); // 저장된 로그인 표시 + 뒤에서 토큰 갱신(기다리지 않음) — Talkverse ID
   Purchase.configure(Embed.code, plans);
+}
+
+class _UsageFlush with WidgetsBindingObserver {
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    if (state == AppLifecycleState.paused) UsageLog.flush();
+  }
 }
 
 /// runApp 에 넘기는 위젯. onSwitchLanguage 가 있으면 프로필에 「다른 언어 배우기」.

@@ -5,12 +5,14 @@ import 'package:k_universe/db/database.dart';
 import 'package:k_universe/ui/colors.dart';
 import 'package:k_universe/ui/spacing.dart';
 import 'package:k_universe/ui/typography.dart';
+import 'package:k_universe/data/usage_pages.dart';
 
 class ParticlesScreen extends StatelessWidget {
   const ParticlesScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
+    UsagePages.view(UsagePages.particles); // 하루 한 번만 보내진다
     final db = context.read<AppDatabase>();
     final theme = Theme.of(context);
 

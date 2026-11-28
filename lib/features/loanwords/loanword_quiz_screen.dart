@@ -8,6 +8,7 @@ import '../../core/l10n.dart';
 import '../../core/platform.dart';
 import '../../drama/drama_theme.dart';
 import '../../services/tts_service.dart';
+import '../../data/usage_pages.dart';
 
 /// 외래어 퀴즈 복습(일본어앱 빌드 110 옮김 2026-11-18) — 표기(바르게 쓴 한글 고르기)와 뜻 고르기, 보기 1~4, 10문제.
 /// 표기 문제의 틀린 보기는 외래어 표기 규칙을 어긴 꼴(ㅍ↔ㅂ·ㅋ↔ㄱ·ㅌ↔ㄷ·ㅊ↔ㅈ, ㅐ↔ㅔ·ㅓ↔ㅗ·ㅜ↔ㅡ, ㅅ↔ㅆ, ㄹ 하나/둘)로 만든다. 틀린 단어는 다음 복습에 먼저.
@@ -75,6 +76,7 @@ class _LoanwordQuizScreenState extends State<LoanwordQuizScreen> {
   @override
   void initState() {
     super.initState();
+    UsagePages.view(UsagePages.loanwordQuiz);
     _build();
   }
 

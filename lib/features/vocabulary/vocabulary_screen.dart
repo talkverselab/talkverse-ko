@@ -17,6 +17,7 @@ import '../../services/learner_prefs.dart';
 import '../../services/achievement_service.dart';
 import '../../services/content_sync.dart';
 import '../../services/tts_service.dart';
+import '../../data/usage_pages.dart';
 
 /// 절벽 단어 — 일본어앱 2026-11-07 개편과 같은 구조(`docs/MENU_WORDS_2026-11-07.md`).
 /// R5 는 2,000위에서 끊고, 20어 = 한 단원(머리줄 「1단원 · #1-20 · R1」), 단어는 네모 타일 격자(순위·로마자·그림·단어·뜻), 탭하면 발음.
@@ -47,6 +48,7 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
   @override
   void initState() {
     super.initState();
+    UsagePages.view(UsagePages.vocab);
     _load();
   }
 

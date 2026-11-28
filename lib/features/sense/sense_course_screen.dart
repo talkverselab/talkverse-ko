@@ -15,6 +15,7 @@ import '../../services/learner_prefs.dart';
 import '../../services/script_sync.dart';
 import '../../services/tts_service.dart';
 import '../loanwords/loanword_screen.dart';
+import '../../data/usage_pages.dart';
 
 /// 언어감각 익히기 — 정규과정(일본어앱에서 옮김 2026-11-18, 원래 사용자 지시 2026-11-11). 목표어 `ko` · 로마자 `rd` · 학습자 언어 `en`. L1~L10, 급마다 외울 대화 1회 + 참고(2026-11-17 전면 수정).
 /// 회차 = 문법 짧은 설명(points.tip) → 감 익히는 문장(points.sentences). 데이터 `assets/data/grammar/sense_course.json`.
@@ -115,6 +116,7 @@ class _SenseCourseScreenState extends State<SenseCourseScreen> {
     if (!await Entitlement.gate(context, _levelOpen(item.$1)) || !mounted) return;
     final ls = item.$2;
     if (ls['open'] == 'loanwords') {
+      UsagePages.view(UsagePages.sense(ls['id'] as String));
       await openPane(context, (_) => const LoanwordScreen(rulesFirst: true)); // 참고 = 외국어 발음 규칙 화면
       return;
     }
@@ -231,7 +233,10 @@ class _SenseLessonScreenState extends State<SenseLessonScreen> {
   void initState() {
     super.initState();
     SenseCourse.load().then((d) {
-      if (mounted) setState(() => _all = SenseCourse.flat(d));
+      if (!mounted) return;
+      final all = SenseCourse.flat(d);
+      if (widget.index < all.length) UsagePages.view(UsagePages.sense(all[widget.index].$2['id'] as String));
+      setState(() => _all = all);
     });
   }
 
@@ -248,6 +253,14 @@ class _SenseLessonScreenState extends State<SenseLessonScreen> {
       nextIdx++;
     }
     if (nextIdx < all.length) {
+      // 다음 회차가 잠긴 급이면 결제 화면(목록의 _open 과 같은 기준) — 이어 가기로 잠금을 건너뛰지 않게
+      final lvIdx = SenseCourse.visibleLevels(await SenseCourse.load()).indexWhere((x) => x['id'] == all[nextIdx].$1['id']);
+      if (!mounted) return;
+      if (!await Entitlement.gate(context, Entitlement.canOpenSenseLevel(lvIdx))) {
+        if (mounted) Navigator.of(context).pop();
+        return;
+      }
+      if (!mounted) return;
       Navigator.of(context).pushReplacement(
           MaterialPageRoute(builder: (_) => SenseLessonScreen(index: nextIdx)));
     } else {

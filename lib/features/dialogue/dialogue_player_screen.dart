@@ -4,6 +4,7 @@ import 'package:provider/provider.dart';
 import 'package:k_universe/db/database.dart';
 import 'package:k_universe/features/dialogue/widgets/turn_card.dart';
 import 'package:k_universe/ui/spacing.dart';
+import 'package:k_universe/data/usage_pages.dart';
 
 class DialoguePlayerScreen extends StatefulWidget {
   final String scenarioId;
@@ -20,6 +21,7 @@ class _DialoguePlayerScreenState extends State<DialoguePlayerScreen> {
   @override
   void initState() {
     super.initState();
+    UsagePages.view(UsagePages.scenario(widget.scenarioId));
     WidgetsBinding.instance.addPostFrameCallback((_) {
       final db = context.read<AppDatabase>();
       db.into(db.userProgress).insertOnConflictUpdate(

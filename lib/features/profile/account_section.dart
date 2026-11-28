@@ -6,6 +6,7 @@ import '../../data/entitlement.dart';
 import '../../data/purchase.dart';
 import '../../screens/login_screen.dart';
 import '../../ui/colors.dart';
+import '../../widgets/usage_notice.dart';
 
 /// 프로필 맨 위 「계정」 칸 — Talkverse ID(한자 앱 me_screen 계정 칸을 옮김, 2026-11-02).
 /// 로그인 전: 로그인 타일 / 후: 이름·이메일·로그아웃·계정 삭제(스토어 심사 요구). 아래에 이용권·구매 복원.
@@ -72,6 +73,7 @@ class AccountSection extends StatelessWidget {
             ),
             onTap: () => Purchase.restore(),
           ),
+          const UsageRateTile(),
         ])),
       ]);
 

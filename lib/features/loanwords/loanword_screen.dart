@@ -12,6 +12,7 @@ import '../../drama/roman_toggle.dart';
 import '../../services/learner_prefs.dart';
 import '../../services/tts_service.dart';
 import 'loanword_quiz_screen.dart';
+import '../../data/usage_pages.dart';
 
 /// 외래어 익히기(일본어앱 「외국어 단어」 빌드 110 옮김 2026-11-18) — 영어가 한국어 소리로 바뀌는 규칙(줄기)별 단어, 3단계, 퀴즈 복습.
 /// 데이터 `assets/data/vocab/loanwords.json`(설명은 영어 — 학습자가 영어권).
@@ -51,6 +52,7 @@ class _LoanwordScreenState extends State<LoanwordScreen> {
   @override
   void initState() {
     super.initState();
+    UsagePages.view(UsagePages.loanwords);
     _load();
   }
 

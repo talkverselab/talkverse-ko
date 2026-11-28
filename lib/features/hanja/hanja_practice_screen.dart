@@ -11,6 +11,7 @@ import '../../core/pane.dart';
 import '../../core/platform.dart';
 import '../../drama/drama_theme.dart';
 import '../../services/tts_service.dart';
+import '../../data/usage_pages.dart';
 
 /// 한자 연습 — 하루 3자(일본어앱 빌드 112 옮김 2026-11-18; 원래 사용자 지시 2026-11-11 「패밀리가 많은 한자부터」·11-17 「하루 3자」).
 /// 교육용 한자 중 소리 부품이 같은 글자 3자 이상 가족을 큰 가족부터. 하루 = 가족 보기 → 「이 글자의 가족(소리 부품)은?」 → 마침.
@@ -92,6 +93,7 @@ class _HanjaPracticeScreenState extends State<HanjaPracticeScreen> {
   @override
   void initState() {
     super.initState();
+    UsagePages.view(UsagePages.hanja);
     _load();
   }
 

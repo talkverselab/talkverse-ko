@@ -15,6 +15,7 @@ import 'lemma_chips.dart';
 import 'lemma_text.dart';
 import 'roman_toggle.dart';
 import 'scene_art.dart';
+import '../data/usage_pages.dart';
 
 /// 드라마 한 회 보기 — Grok UXUI 시안 04(사용자 채택, `data/review/uxui/sian_04.md`).
 /// 넓으면(900+) 왼쪽 「대화 스크립트」 · 오른쪽 「회화 장면」(점토 컷 + 아래 자막), 좁으면 장면 위 · 스크립트 아래.
@@ -52,6 +53,7 @@ class _EpisodeScreenState extends State<EpisodeScreen> {
   @override
   void initState() {
     super.initState();
+    UsagePages.view(UsagePages.episode(ep.id));
     SceneArt.instance.ensureLoaded().then((_) { if (mounted) setState(() {}); });
     LearnerPrefs.roman.addListener(_onRoman);
     WidgetsBinding.instance.addPostFrameCallback((_) async {

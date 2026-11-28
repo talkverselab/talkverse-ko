@@ -5,6 +5,7 @@ import '../../core/platform.dart';
 import '../../drama/drama_theme.dart';
 import 'hangul_phonetics.dart';
 import 'hangul_sound_sheet.dart';
+import '../../data/usage_pages.dart';
 
 /// 한글과 발음 — 일본어앱 「50음도와 발음」과 같은 메뉴(공통 프롬프터 §5-3, 2026-11-08).
 /// 묶음 칩: 자음 19 · 모음 21 · 받침 7 · 음절표. 로마자 토글. 글자 탭 → 발음 시트(1초 뒤 재생·IPA·조음 위치·영어 비교).
@@ -15,6 +16,12 @@ class HangulChartScreen extends StatefulWidget {
 }
 
 class _HangulChartScreenState extends State<HangulChartScreen> {
+  @override
+  void initState() {
+    super.initState();
+    UsagePages.view(UsagePages.hangul);
+  }
+
   int _set = 0;
   bool _rr = true;
 
