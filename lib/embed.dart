@@ -24,12 +24,12 @@ import 'state/app_state.dart';
 late AppDatabase _db;
 bool _syncFirst = false;
 
-/// 가격표 = ~/talkverse/PRICING.md(사용자 확정 2026-11-09) — 앱 할인가(30%)·앱 정가. 스토어 등록 목록 docs/STORE_PRODUCTS.md
+/// 가격표 = ~/talkverse/PRICING.md(사용자 확정 2026-11-09, 언어 1개 평생 인상 2026-11-28) — 앱 할인가(30%)·앱 정가. 스토어 등록 목록 docs/STORE_PRODUCTS.md
 const plans = [
   Plan('lang_ko_1m', 1, 3900, listKrw: 5500),
   Plan('lang_ko_3m', 3, 9000, listKrw: 12900),
   Plan('lang_ko_1y', 12, 19900, listKrw: 28500),
-  Plan('lang_ko_life', 0, 49000, listKrw: 69900),
+  Plan('lang_ko_life', 0, 65000, listKrw: 92900),
   Plan('all_1y', 12, 79000, listKrw: 112900, bundle: true),
   Plan('all_life', 0, 329000, listKrw: 469000, bundle: true),
 ];
